@@ -1,7 +1,10 @@
 # Indian Startup Radar — free edition.
 # No API keys except the Slack webhook. Everything here is free.
 
-lookback_minutes: 90      # >2x the 30-min schedule, so a late or skipped run self-heals
+lookback_minutes: 720     # 12 hours. Deliberately wide: dedupe is what stops repeat
+                          # alerts, not this window, so a narrow one buys nothing and
+                          # loses stories. Most Indian outlets publish a handful of
+                          # times a day, so a 90-minute window is usually empty.
 min_score: 55             # 0-100. Raise if noisy, lower if you're missing stories.
 max_alerts_per_run: 10    # caps SLACK posts only; the dashboard always shows everything
 state_keep_days: 5        # how long a story stays in the "already alerted" file
@@ -13,10 +16,13 @@ state_keep_days: 5        # how long a story stays in the "already alerted" file
 # Run `python check_feeds.py` after editing. Feed URLs do rot.
 # ---------------------------------------------------------------------------
 feeds:
-  - name: Entrackr
-    url: https://entrackr.com/feed/
-    india_native: true
-    weight: 8
+  # Entrackr blocks datacenter IPs, so its direct feed 403s from GitHub Actions.
+  # It's reached below via a Google News site: query instead. Try re-enabling this
+  # if you ever run the scan from your own machine.
+  # - name: Entrackr
+  #   url: https://entrackr.com/feed/
+  #   india_native: true
+  #   weight: 8
   - name: Inc42
     url: https://inc42.com/feed/
     india_native: true
@@ -33,14 +39,12 @@ feeds:
     url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
     india_native: true
     weight: 2
-  - name: VCCircle
-    url: https://www.vccircle.com/rss/all.xml
-    india_native: true
-    weight: 4
-  - name: MediaNama
-    url: https://www.medianama.com/feed/
-    india_native: true
-    weight: 2
+  # VCCircle's feed URL returns nothing — reached via Google News below.
+  # - name: VCCircle
+  #   url: https://www.vccircle.com/rss/all.xml
+  # MediaNama also 403s from GitHub Actions.
+  # - name: MediaNama
+  #   url: https://www.medianama.com/feed/
   - name: Trak.in
     url: https://trak.in/feed/
     india_native: true
@@ -68,9 +72,19 @@ feeds:
 # Free, no key. Catches regional outlets and press releases the big feeds miss.
 # Each query costs one HTTP request per run — keep the list under about 10.
 google_news_queries:
-  - "Indian startup launches"
-  - "Indian startup raises seed funding"
-  - "India startup out of stealth"
-  - "Bengaluru startup launch"
-  - "Indian D2C brand launches"
-  - "Indian SaaS startup raises"
+  # `when:1d` is essential. Without it Google returns results by relevance spanning
+  # months, so a hundred entries can all be weeks old and none reach the window.
+  - "Indian startup launches when:1d"
+  - "Indian startup raises funding when:1d"
+  - "India startup seed round when:1d"
+  - "India startup out of stealth when:1d"
+  - "Bengaluru startup launch when:1d"
+  - "Indian D2C brand launches when:1d"
+  - "Indian SaaS startup raises when:1d"
+
+  # Outlets that block the runner's IP, reached through Google News instead.
+  # This is the general workaround for any feed that 403s.
+  - "site:entrackr.com when:1d"
+  - "site:inc42.com when:1d"
+  - "site:medianama.com when:1d"
+  - "site:vccircle.com when:1d"

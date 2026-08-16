@@ -2,9 +2,10 @@ name: startup-radar
 
 on:
   schedule:
-    # Every 30 minutes. GitHub's scheduler is best-effort and often fires a few
-    # minutes late under load — fine for a news feed. 5 min is the hard minimum.
-    - cron: "*/30 * * * *"
+    # Every 10 minutes. 5 is GitHub's hard minimum, but its scheduler is
+    # best-effort and drifts under load — expect some cycles to land late. Free and
+    # unlimited on a public repo; the cost is ~144 small commits a day.
+    - cron: "*/10 * * * *"
   workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
 
 # Runs must not overlap, or two jobs race to push the state file.

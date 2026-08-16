@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-16T19:10:11.769569+00:00",
+ "generated_at": "2026-08-16T19:48:27.753762+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 2,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 14,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "bd4b7025424e",
+   "title": "Hostel startup Apollyon launches jet UAV from moving car",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlJfZ1pMR1ZOVk51eVI0VG5RQUk5Z1lZVms0ODQ0NXU5MERuT014RkVUd0hQdHVtWVdpOVBYY25RQkZZNWhWbEpIbkpJV2x3Rjc2MGNNeTVHTi00c3JFa0dhWWg1a3ZXWDR3RU81NWxDS1lPYUhlbzBPVTBsY3dzRXNmNE1nUWtKUlZSLWR6Y2JfMVZLUmdnZkdvd2hvMVJsaWIyWEZNQnd2R1NHWEFWeTE2eDVybG54emx4RjBvS290MzBvTmpTVXdiRlJWZ9IB0wFBVV95cUxNTzlpNW5rUnd0UXE3VjF6NmFQOHNfLS1FY21xelZmb2trUExzZlcxOFJaSXE4MWF4RTlPeVl5WnJjM3lWbnRMV3F1TmRFempITFpUVXJfSFNMejFPRTBtSFdOWXRQQVlTOVpBLXZibkp0YWw4azhRMTZmOVlGUmtQVE9uSFUxMTlHSFFRcjkwU1duelpiTFVfakJxMzdYU0hzYnBlOHpsUV9pWFlOUWF4TVJMUVhMRXVVREw5b0FlUlpJRXE0RWVhNHhWeXNCQ21SR2RV?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-16T18:48:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Hostel",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "f51bad44b896",
    "title": "Haryana plans \u20b9147-cr startup boost, women-led ventures to get bigger incentives",
@@ -42,6 +59,23 @@
    "alerted": true
   },
   {
+   "id": "da0f57c45f54",
+   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
+   "source": "News On AIR",
+   "published": "2026-08-16T16:55:37+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Maharashtra",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
+  },
+  {
    "id": "eccc3fe01090",
    "title": "DPIIT Issues Guidelines for \u20b910,000 Crore Startup India Fund of Funds 2.0",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXRHdzdzdlRIVTdxVlFKQ2ZCRUhJQ0c0YWZJMlZiTFRXb0ZrVV8tUDhhRkZXbEV4UkRpZ1hTSlR1UGJBVE1TdTBoOHY5cmMwOHVSNlpzOExZc29JdjRnVFR3OEU0TGREN0JlZ21RZS1OSWhZZmUxY25TX081MW9aNE1VdjlIWVNBTndJU09pOGZ1cTFsMmJJdDh2eGNTQkdCVVVqSUppci1IZw?oc=5",
@@ -75,6 +109,24 @@
     "no clear event",
     "$29.4 Million",
     "Series A"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ccdb1580e6da",
+   "title": "How are TPG and Temasek faring in latest India exit move?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hb2VtNDhZcHZEOEUxWU1DMlBqYmRHM0oxVWFlR2VrSUo1QkdfT2NpVVRQZURCaUtyNFNhUVpyNWZERVYyc3plNG5FaS1ycFVieWk4anhhbzc5anRNY0NDb2tTa0JSbWJ2SExXWklR?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-16T16:02:15+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "How",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
    ],
    "alerted": false
   },

@@ -34,7 +34,7 @@ ROOT = Path(__file__).resolve().parent
 STATE_FILE = ROOT / "state" / "seen.json"
 DATA_FILE = ROOT / "public" / "data.json"
 DASHBOARD_DAYS = 7          # how much history the dashboard keeps
-DASHBOARD_MAX = 300         # hard cap so the JSON stays small enough to fetch fast
+DASHBOARD_MAX = 400         # hard cap so the JSON stays small enough to fetch fast
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
 HEADERS = {
@@ -698,7 +698,13 @@ def write_dashboard(keep: list[Item], alerted: list[Item], cfg: dict, stats: dic
     cutoff = (now() - timedelta(days=DASHBOARD_DAYS)).isoformat()
     rows = [r for r in existing.values() if r.get("published", "") > cutoff]
     rows.sort(key=lambda r: r["published"], reverse=True)
-    rows = rows[:DASHBOARD_MAX]
+
+    # The low-score tab means far more rows are retained now, so the cap has to
+    # protect alerts: fill with every alert first, then the newest leftovers.
+    if len(rows) > DASHBOARD_MAX:
+        alerts = [r for r in rows if r.get("alerted")][:DASHBOARD_MAX]
+        rest = [r for r in rows if not r.get("alerted")][:DASHBOARD_MAX - len(alerts)]
+        rows = sorted(alerts + rest, key=lambda r: r["published"], reverse=True)
 
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps({
@@ -741,9 +747,10 @@ def run(cfg: dict, dry_run: bool, show_all: bool) -> int:
     qualified = [i for i in scored if i.score >= threshold]
     picked = qualified[:cfg["max_alerts_per_run"]]
 
-    # The dashboard also keeps near-misses. Seeing what scored 45 against a
-    # threshold of 55 is how you work out where the threshold should actually be.
-    near = max(0, cfg["min_score"] - cfg.get("dashboard_margin", 20))
+    # The dashboard keeps everything that wasn't hard-rejected, so the low-score tab
+    # has something to show. Items scoring 0 are listicles, markets stories and
+    # non-India pieces — genuinely worthless, so they stay out.
+    near = cfg.get("dashboard_min_score", 1)
     keep = [i for i in scored if i.score >= near]
 
     # An empty dashboard is almost never "no news" — it's usually dead feeds or the
@@ -755,8 +762,8 @@ def run(cfg: dict, dry_run: bool, show_all: bool) -> int:
                    "near" if i.score >= near else "low" if i.score > 0 else "zero")
             bands[key] += 1
         print(f"scores: >={cfg['min_score']}: {bands['alert']} | "
-              f"{near}-{cfg['min_score'] - 1}: {bands['near']} | "
-              f"1-{near - 1}: {bands['low']} | 0 (filtered out): {bands['zero']}")
+              f"below threshold (low-score tab): {bands['near'] + bands['low']} | "
+              f"0 (filtered out): {bands['zero']}")
 
         rejected = [i for i in scored if i.score < cfg["min_score"]][:5]
         if rejected:

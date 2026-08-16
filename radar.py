@@ -200,17 +200,26 @@ def _clean(s: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s or "")).strip()
 
 
-def fetch_feed(feed: dict, cutoff: datetime) -> list[Item]:
+def fetch_feed(feed: dict, cutoff: datetime, report: list) -> list[Item]:
+    """Fetch one RSS feed. Records a diagnostic row either way.
+
+    A feed can fail loudly (HTTP error) or silently (200 OK returning an HTML block
+    page, which feedparser parses to zero entries). The silent case is the one that
+    quietly starves the radar, so it gets reported explicitly.
+    """
+    row = {"name": feed["name"], "entries": 0, "fresh": 0, "err": None}
+    report.append(row)
     try:
         r = requests.get(feed["url"], headers={"User-Agent": UA}, timeout=TIMEOUT)
         r.raise_for_status()
-        parsed = feedparser.parse(r.content)
+        entries = feedparser.parse(r.content).entries
     except Exception as e:
-        print(f"  ! {feed['name']}: {type(e).__name__}")
+        row["err"] = f"{type(e).__name__}"
         return []
 
+    row["entries"] = len(entries)
     out = []
-    for e in parsed.entries[:50]:
+    for e in entries[:50]:
         pub = _utc(e.get("published_parsed") or e.get("updated_parsed"))
         if pub < cutoff:
             continue
@@ -220,23 +229,27 @@ def fetch_feed(feed: dict, cutoff: datetime) -> list[Item]:
                             summary=_clean(e.get("summary", ""))[:1200],
                             weight=feed.get("weight", 0),
                             india_native=feed.get("india_native", False)))
+    row["fresh"] = len(out)
     return out
 
 
 GNEWS = "https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
 
 
-def fetch_google_news(query: str, cutoff: datetime) -> list[Item]:
+def fetch_google_news(query: str, cutoff: datetime, report: list) -> list[Item]:
+    row = {"name": f"news: {query[:24]}", "entries": 0, "fresh": 0, "err": None}
+    report.append(row)
     try:
         r = requests.get(GNEWS.format(q=quote_plus(query)),
                          headers={"User-Agent": UA}, timeout=TIMEOUT)
-        parsed = feedparser.parse(r.content)
+        entries = feedparser.parse(r.content).entries
     except Exception as e:
-        print(f"  ! gnews '{query[:28]}': {type(e).__name__}")
+        row["err"] = f"{type(e).__name__}"
         return []
 
+    row["entries"] = len(entries)
     out = []
-    for e in parsed.entries[:20]:
+    for e in entries[:20]:
         pub = _utc(e.get("published_parsed"))
         if pub < cutoff:
             continue
@@ -244,22 +257,45 @@ def fetch_google_news(query: str, cutoff: datetime) -> list[Item]:
         title = re.sub(rf"\s+-\s+{re.escape(publisher)}$", "", _clean(e.get("title", "")))
         if title and e.get("link"):
             out.append(Item(title=title, url=e["link"], source=publisher, published=pub,
-                            summary=_clean(e.get("summary", ""))[:600]))
+                            summary=_clean(e.get("summary", ""))[:600],
+                            # The query already carries the geography ("Indian startup
+                            # launches", gl=IN), so these don't have to prove it again.
+                            # Without this they score 0 whenever the word "India"
+                            # happens not to appear in the headline itself.
+                            india_native=True))
+    row["fresh"] = len(out)
     return out
 
 
 def fetch_all(cfg: dict) -> list[Item]:
     cutoff = now() - timedelta(minutes=cfg["lookback_minutes"])
     items: list[Item] = []
+    report: list[dict] = []
+
     with ThreadPoolExecutor(max_workers=10) as pool:
-        jobs = [pool.submit(fetch_feed, f, cutoff) for f in cfg["feeds"]]
-        jobs += [pool.submit(fetch_google_news, q, cutoff)
+        jobs = [pool.submit(fetch_feed, f, cutoff, report) for f in cfg["feeds"]]
+        jobs += [pool.submit(fetch_google_news, q, cutoff, report)
                  for q in cfg.get("google_news_queries", [])]
         for job in as_completed(jobs):
             try:
                 items += job.result()
             except Exception as e:
                 print(f"  ! source crashed: {e}")
+
+    print("\nsources:")
+    for row in sorted(report, key=lambda r: -r["fresh"]):
+        if row["err"]:
+            note = f"FAILED ({row['err']})"
+        elif row["entries"] == 0:
+            note = "0 entries — dead URL or blocked"
+        else:
+            note = f"{row['entries']:>3} entries, {row['fresh']:>2} in window"
+        print(f"  {row['name'][:32]:<34}{note}")
+    dead = [r["name"] for r in report if r["err"] or r["entries"] == 0]
+    if dead:
+        print(f"\n  {len(dead)}/{len(report)} sources returned nothing. "
+              f"Run `python check_feeds.py` locally to confirm which URLs are dead.")
+    print()
     return items
 
 
@@ -681,12 +717,31 @@ def run(cfg: dict, dry_run: bool, show_all: bool) -> int:
     # mislabelled as a near-miss.
     qualified = [i for i in scored if i.score >= threshold]
     picked = qualified[:cfg["max_alerts_per_run"]]
-    print(f"above {threshold}: {len(qualified)}")
 
     # The dashboard also keeps near-misses. Seeing what scored 45 against a
     # threshold of 55 is how you work out where the threshold should actually be.
     near = max(0, cfg["min_score"] - cfg.get("dashboard_margin", 20))
     keep = [i for i in scored if i.score >= near]
+
+    # An empty dashboard is almost never "no news" — it's usually dead feeds or the
+    # India gate zeroing things out. Show the distribution so that's visible.
+    if scored:
+        bands = {"alert": 0, "near": 0, "low": 0, "zero": 0}
+        for i in scored:
+            key = ("alert" if i.score >= cfg["min_score"] else
+                   "near" if i.score >= near else "low" if i.score > 0 else "zero")
+            bands[key] += 1
+        print(f"scores: >={cfg['min_score']}: {bands['alert']} | "
+              f"{near}-{cfg['min_score'] - 1}: {bands['near']} | "
+              f"1-{near - 1}: {bands['low']} | 0 (filtered out): {bands['zero']}")
+
+        rejected = [i for i in scored if i.score < cfg["min_score"]][:5]
+        if rejected:
+            print("highest-scoring stories that did NOT make the cut:")
+            for i in rejected:
+                print(f"  {i.score:>3}  {i.title[:58]:<60} {', '.join(i.reasons[:3])}")
+    print(f"\nabove {threshold}: {len(qualified)}")
+
     stats = {"fetched": len(items), "fresh": len(fresh), "alerted": len(qualified)}
     kept = write_dashboard(keep, qualified, cfg, stats)
 

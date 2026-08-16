@@ -41,19 +41,39 @@ jobs:
       # schedule after 60 days of inactivity on a public repo.
       - name: Save state and dashboard data
         run: |
+          set -e
           git config user.name  "startup-radar"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/seen.json public/data.json
-          if git diff --staged --quiet; then
-            echo "no change"
-            exit 0
-          fi
-          git commit -m "radar $(date -u '+%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3; do
-            git push && exit 0
-            echo "push failed, rebasing and retrying"
-            git pull --rebase --autostash || true
-            sleep 5
+
+          # These two files are generated, not authored. If another run pushed while
+          # this one was working, `git pull --rebase` conflicts on them every time
+          # (both sides rewrote the same JSON) and leaves the repo mid-rebase on a
+          # detached HEAD, which breaks every retry after it. So: keep our copies
+          # aside, reset hard to the remote, and merge ours in by key. Deterministic,
+          # lossless, and it can never leave git in a broken state.
+          tmp="$(mktemp -d)"
+          cp state/seen.json "$tmp/seen.json"
+          cp public/data.json "$tmp/data.json"
+
+          for attempt in 1 2 3 4 5; do
+            git add state/seen.json public/data.json
+            if git diff --staged --quiet; then
+              echo "nothing to commit"
+              exit 0
+            fi
+            git commit -q -m "radar $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+            if git push -q origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+
+            echo "remote moved ahead - merging and retrying"
+            git fetch -q origin "${GITHUB_REF_NAME}"
+            git reset -q --hard "origin/${GITHUB_REF_NAME}"
+            python merge_state.py "$tmp/seen.json" "$tmp/data.json"
+            sleep $((attempt * 3))
           done
-          echo "could not push state after 3 attempts"
+
+          echo "could not push after 5 attempts"
           exit 1

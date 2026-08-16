@@ -1,11 +1,14 @@
 # Indian Startup Radar — free edition.
 # No API keys except the Slack webhook. Everything here is free.
 
-lookback_minutes: 720     # 12 hours. Deliberately wide: dedupe is what stops repeat
-                          # alerts, not this window, so a narrow one buys nothing and
-                          # loses stories. Most Indian outlets publish a handful of
-                          # times a day, so a 90-minute window is usually empty.
-min_score: 55             # 0-100. Raise if noisy, lower if you're missing stories.
+lookback_minutes: 240     # 4 hours — 24x the 10-minute schedule, so a delayed or
+                          # skipped run still catches up. Dedupe is what stops repeat
+                          # alerts, not this window, so erring wide costs nothing.
+                          # Set to 1440 for one run if you ever want to backfill a day.
+min_score: 55             # 0-100. Stories at or above this land in the Alerts tab;
+                          # everything below shows in the Low score tab instead.
+dashboard_min_score: 1    # lowest score kept for the Low score tab. Items scoring 0
+                          # (listicles, markets, non-India) are dropped entirely.
 max_alerts_per_run: 10    # caps SLACK posts only; the dashboard always shows everything
 state_keep_days: 5        # how long a story stays in the "already alerted" file
 

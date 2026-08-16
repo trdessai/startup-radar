@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "public",
+
+  "//": "The radar commits data.json every 30 minutes. Those commits must not trigger a rebuild — the dashboard reads data.json from GitHub directly, and 48 rebuilds a day would burn the free deployment quota for nothing. This command exits 0 (skip build) when a commit touched only state or data.",
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- ':(exclude)state' ':(exclude)public/data.json'",
+
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }]
+    }
+  ]
+}

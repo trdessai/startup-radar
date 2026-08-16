@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Startup Radar</title>
+<meta name="description" content="Indian startup launches and funding, refreshed every 30 minutes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=DM+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --stock:#E7E4DA; --card:#F1EFE8; --ink:#15171A; --soft:#6A6E70;
+  --rule:#CBC7BB; --signal:#BE3A1D; --cool:#1F5459; --dim:#9B978C;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --stock:#16181A; --card:#1E2124; --ink:#E9E6DE; --soft:#9AA0A2;
+    --rule:#32363A; --signal:#E8613F; --cool:#5FA8AE; --dim:#6C7276;
+  }
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{
+  background:var(--stock); color:var(--ink);
+  font-family:Newsreader,Georgia,serif; font-size:17px; line-height:1.45;
+  padding-bottom:4rem;
+}
+.wrap{max-width:860px;margin:0 auto;padding:0 1rem}
+
+/* ---------- header ---------- */
+.masthead{
+  position:sticky; top:0; z-index:20; background:var(--stock);
+  border-bottom:2px solid var(--ink);
+}
+.masthead-in{display:flex;align-items:baseline;gap:.9rem;flex-wrap:wrap;padding:.85rem 0 .7rem}
+.brand{
+  font-family:Archivo,system-ui,sans-serif; font-weight:700; font-size:1.05rem;
+  letter-spacing:.14em; text-transform:uppercase;
+}
+.brand em{font-style:normal;color:var(--signal)}
+.status{
+  font-family:"DM Mono",ui-monospace,monospace; font-size:.72rem; color:var(--soft);
+  letter-spacing:.02em; margin-right:auto;
+}
+.status b{color:var(--ink);font-weight:500}
+.actions{display:flex;gap:.4rem}
+
+button{font:inherit;cursor:pointer;color:inherit}
+.btn{
+  font-family:Archivo,system-ui,sans-serif; font-size:.68rem; font-weight:600;
+  letter-spacing:.1em; text-transform:uppercase;
+  background:transparent; border:1.5px solid var(--ink); color:var(--ink);
+  padding:.42rem .7rem; border-radius:0; transition:background .12s,color .12s;
+}
+.btn:hover{background:var(--ink);color:var(--stock)}
+.btn-go{border-color:var(--signal);color:var(--signal)}
+.btn-go:hover{background:var(--signal);color:var(--stock)}
+.btn[disabled]{opacity:.4;cursor:not-allowed}
+.btn[disabled]:hover{background:transparent;color:var(--ink)}
+:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+
+/* ---------- filters ---------- */
+.filters{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;padding:.6rem 0 .75rem}
+.tabs{display:flex;gap:.3rem;flex-wrap:wrap}
+.tab{
+  font-family:Archivo,system-ui,sans-serif;font-size:.68rem;font-weight:600;
+  letter-spacing:.08em;text-transform:uppercase;
+  border:1px solid var(--rule);background:transparent;padding:.34rem .6rem;
+}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--stock);border-color:var(--ink)}
+.search{
+  flex:1 1 11rem;min-width:9rem;font-family:"DM Mono",monospace;font-size:.8rem;
+  background:var(--card);border:1px solid var(--rule);color:var(--ink);
+  padding:.4rem .55rem;
+}
+.search::placeholder{color:var(--dim)}
+.toggles{display:flex;gap:.8rem;font-family:"DM Mono",monospace;font-size:.7rem;color:var(--soft)}
+.toggles label{display:flex;align-items:center;gap:.3rem;cursor:pointer}
+.toggles input{accent-color:var(--signal)}
+
+/* ---------- active reason filter ---------- */
+.active-filter{
+  display:none;align-items:center;gap:.5rem;margin-bottom:.9rem;
+  border-left:4px solid var(--signal);background:var(--card);padding:.5rem .7rem;
+  font-family:"DM Mono",monospace;font-size:.75rem;
+}
+.active-filter.on{display:flex}
+.active-filter button{background:none;border:none;text-decoration:underline;font-size:.75rem;font-family:inherit}
+
+/* ---------- story rows ---------- */
+.feed{list-style:none;border-top:1px solid var(--rule)}
+.row{display:flex;gap:0;border-bottom:1px solid var(--rule);background:var(--card)}
+.row.covered{opacity:.42}
+
+/* the rail: an overprinted ink block whose height is the score */
+.rail{
+  position:relative;flex:0 0 52px;border-right:1px solid var(--rule);
+  display:flex;justify-content:center;padding-top:.85rem;overflow:hidden;
+}
+.rail::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:var(--fill,0%);
+  background:var(--band);opacity:.16;
+}
+.rail-num{
+  position:relative;font-family:"DM Mono",monospace;font-weight:500;font-size:.95rem;
+  color:var(--band);line-height:1;
+}
+.rail-num small{display:block;font-size:.55rem;letter-spacing:.08em;color:var(--dim);margin-top:.25rem;text-align:center}
+
+.body{flex:1;padding:.85rem .95rem 0.9rem;min-width:0}
+.kicker{
+  display:flex;align-items:baseline;gap:.55rem;flex-wrap:wrap;
+  font-family:Archivo,system-ui,sans-serif;font-size:.63rem;font-weight:700;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--cool);margin-bottom:.3rem;
+}
+.kicker .company{color:var(--ink)}
+.kicker .near{color:var(--dim);border:1px solid var(--rule);padding:0 .3rem;letter-spacing:.08em}
+h2{font-size:1.12rem;font-weight:500;line-height:1.3;margin-bottom:.45rem}
+h2 a{color:inherit;text-decoration:none;box-shadow:inset 0 -1px 0 var(--rule)}
+h2 a:hover{box-shadow:inset 0 -2px 0 var(--signal)}
+
+/* the receipt — why it scored what it scored, clickable */
+.receipt{display:flex;gap:.3rem;flex-wrap:wrap;margin-bottom:.5rem}
+.chip{
+  font-family:"DM Mono",monospace;font-size:.66rem;color:var(--soft);
+  border:1px solid var(--rule);background:transparent;padding:.13rem .38rem;
+}
+.chip:hover{border-color:var(--signal);color:var(--signal)}
+
+.founders{font-family:"DM Mono",monospace;font-size:.72rem;color:var(--soft);margin-bottom:.45rem}
+.founders a{color:var(--cool)}
+.founders .nm{color:var(--ink)}
+
+.foot{
+  display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;
+  font-family:"DM Mono",monospace;font-size:.68rem;color:var(--dim);
+}
+.foot .mark{margin-left:auto;background:none;border:none;font-family:inherit;font-size:.68rem;color:var(--soft);text-decoration:underline}
+.foot .mark:hover{color:var(--signal)}
+
+/* ---------- states ---------- */
+.note{padding:3rem 1rem;text-align:center;color:var(--soft)}
+.note h3{font-family:Archivo,sans-serif;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.5rem;color:var(--ink)}
+.note p{font-size:.95rem;max-width:32rem;margin:0 auto .8rem}
+.toast{
+  position:fixed;left:50%;bottom:1.4rem;transform:translateX(-50%);
+  background:var(--ink);color:var(--stock);padding:.6rem 1rem;
+  font-family:"DM Mono",monospace;font-size:.75rem;z-index:40;
+  opacity:0;pointer-events:none;transition:opacity .2s;max-width:90vw;
+}
+.toast.on{opacity:1}
+.spin{display:inline-block;animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){
+  .spin{animation:none}
+  *{transition:none !important}
+}
+@media (max-width:560px){
+  body{font-size:16px}
+  .rail{flex-basis:42px}
+  h2{font-size:1.02rem}
+  .status{width:100%;margin-bottom:.2rem}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="masthead-in">
+      <span class="brand">Startup <em>Radar</em></span>
+      <span class="status" id="status">loading…</span>
+      <div class="actions">
+        <button class="btn" id="reload" title="Re-read the latest results (R)">Refresh</button>
+        <button class="btn btn-go" id="scan" title="Trigger a new fetch of the sources">Run new scan</button>
+      </div>
+    </div>
+    <div class="filters">
+      <div class="tabs" id="tabs"></div>
+      <input class="search" id="q" type="search" placeholder="search company, headline…" aria-label="Search stories">
+      <div class="toggles">
+        <label><input type="checkbox" id="near"> near-misses</label>
+        <label><input type="checkbox" id="hide"> hide covered</label>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="active-filter" id="activeFilter">
+    <span>Showing only stories scored for <b id="reasonName"></b></span>
+    <button id="clearReason">clear</button>
+  </div>
+  <ul class="feed" id="feed"></ul>
+  <div class="note" id="note" hidden></div>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+// ---------------------------------------------------------------------------
+// EDIT THIS: your GitHub repo, as "owner/name". The dashboard reads data.json
+// straight from GitHub, so a new scan shows up without redeploying Vercel.
+const REPO   = "trdessai/startup-radar";
+const BRANCH = "main";
+// ---------------------------------------------------------------------------
+
+const DATA_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/public/data.json`;
+const CATS = ["all", "launch", "funding", "acquisition", "product", "expansion"];
+const $ = id => document.getElementById(id);
+
+let data = { items: [], generated_at: null, min_score: 55 };
+let filters = { cat: "all", q: "", reason: null, near: false, hide: false };
+let covered = new Set(JSON.parse(localStorage.getItem("radar:covered") || "[]"));
+
+const saveCovered = () =>
+  localStorage.setItem("radar:covered", JSON.stringify([...covered]));
+
+function relTime(iso) {
+  const mins = (Date.now() - new Date(iso)) / 60000;
+  if (mins < 1) return "just now";
+  if (mins < 60) return `${Math.round(mins)}m ago`;
+  if (mins < 1440) return `${Math.round(mins / 60)}h ago`;
+  return `${Math.round(mins / 1440)}d ago`;
+}
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g,
+  c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function band(score) {
+  if (score >= 80) return "var(--signal)";
+  if (score >= 60) return "var(--cool)";
+  return "var(--dim)";
+}
+
+let toastTimer;
+function toast(msg, ms = 3200) {
+  const t = $("toast");
+  t.textContent = msg;
+  t.classList.add("on");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove("on"), ms);
+}
+
+// --- rendering -------------------------------------------------------------
+
+function renderTabs() {
+  $("tabs").innerHTML = CATS.map(c => {
+    const n = c === "all"
+      ? data.items.length
+      : data.items.filter(i => i.category === c).length;
+    if (n === 0 && c !== "all") return "";
+    return `<button class="tab" data-cat="${c}" aria-pressed="${filters.cat === c}">${c} ${n}</button>`;
+  }).join("");
+}
+
+function visible() {
+  const q = filters.q.toLowerCase();
+  return data.items.filter(i => {
+    if (!filters.near && !i.alerted) return false;
+    if (filters.hide && covered.has(i.id)) return false;
+    if (filters.cat !== "all" && i.category !== filters.cat) return false;
+    if (filters.reason && !(i.reasons || []).includes(filters.reason)) return false;
+    if (q && !`${i.title} ${i.company} ${i.source}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function founderHtml(f, company) {
+  const query = encodeURIComponent(`${f.name} ${company} founder`);
+  if (f.handle) {
+    return `<span class="nm">${esc(f.name)}</span>
+      <a href="https://x.com/${esc(f.handle)}" target="_blank" rel="noopener">@${esc(f.handle)}</a>`;
+  }
+  return `<span class="nm">${esc(f.name)}</span>
+    <a href="https://x.com/search?q=${query}&f=user" target="_blank" rel="noopener">find on X</a> ·
+    <a href="https://www.google.com/search?q=${query}+site:linkedin.com/in" target="_blank" rel="noopener">LinkedIn</a>`;
+}
+
+function render() {
+  renderTabs();
+  $("activeFilter").classList.toggle("on", !!filters.reason);
+  $("reasonName").textContent = filters.reason || "";
+
+  const rows = visible();
+  const feed = $("feed"), note = $("note");
+
+  if (!rows.length) {
+    feed.innerHTML = "";
+    note.hidden = false;
+    const anyData = data.items.length > 0;
+    note.innerHTML = anyData
+      ? `<h3>Nothing matches</h3><p>No stories fit the current filters. Try clearing the
+         search, or switch on near-misses to see what scored just below the threshold.</p>`
+      : `<h3>No stories yet</h3><p>The scanner runs every 30 minutes and keeps 7 days of
+         history. If this is a fresh install, wait for the first run — or start one now.</p>`;
+    return;
+  }
+
+  note.hidden = true;
+  feed.innerHTML = rows.map(i => {
+    const isCovered = covered.has(i.id);
+    const meta = [i.stage, i.amount].filter(Boolean).map(esc).join(" · ");
+    return `<li class="row ${isCovered ? "covered" : ""}">
+      <div class="rail" style="--band:${band(i.score)};--fill:${i.score}%">
+        <span class="rail-num">${i.score}${isCovered ? "<small>DONE</small>" : ""}</span>
+      </div>
+      <div class="body">
+        <div class="kicker">
+          <span>${esc(i.category)}</span>
+          ${i.company ? `<span class="company">${esc(i.company)}</span>` : ""}
+          ${meta ? `<span>${meta}</span>` : ""}
+          ${i.alerted ? "" : `<span class="near">near miss</span>`}
+        </div>
+        <h2><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
+        ${(i.reasons || []).length ? `<div class="receipt">${
+          i.reasons.map(r => `<button class="chip" data-reason="${esc(r)}">${esc(r)}</button>`).join("")
+        }</div>` : ""}
+        ${(i.founders || []).length ? `<div class="founders">${
+          i.founders.map(f => founderHtml(f, i.company)).join(" &nbsp;|&nbsp; ")
+        }</div>` : ""}
+        <div class="foot">
+          <span>${esc(i.source)}</span><span>${relTime(i.published)}</span>
+          <button class="mark" data-id="${i.id}">${isCovered ? "unmark" : "mark covered"}</button>
+        </div>
+      </div>
+    </li>`;
+  }).join("");
+}
+
+function renderStatus() {
+  const n = data.items.filter(i => i.alerted).length;
+  const r = data.last_run || {};
+  $("status").innerHTML = data.generated_at
+    ? `last scan <b>${relTime(data.generated_at)}</b> · ${n} alerts / 7d` +
+      (r.fetched ? ` · ${r.fetched} scanned` : "")
+    : "no data yet";
+}
+
+// --- data ------------------------------------------------------------------
+
+async function load(quiet) {
+  try {
+    const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+    render();
+    renderStatus();
+    if (!quiet) toast(`Loaded ${data.items.length} stories`);
+    return true;
+  } catch (e) {
+    $("note").hidden = false;
+    $("note").innerHTML = `<h3>Can't reach the data file</h3>
+      <p>Tried <code>${esc(DATA_URL)}</code> — ${esc(e.message)}.<br>
+      Check that <b>REPO</b> at the top of index.html matches your repo, that the repo is
+      public, and that at least one scan has run and committed <code>public/data.json</code>.</p>`;
+    return false;
+  }
+}
+
+// --- trigger a real scan ---------------------------------------------------
+
+async function runScan() {
+  const btn = $("scan");
+  const before = data.generated_at;
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spin">◠</span> Scanning';
+
+  try {
+    const res = await fetch("/api/refresh", { method: "POST" });
+    const out = await res.json().catch(() => ({}));
+
+    if (res.status === 501) {
+      toast("Add GITHUB_TOKEN and GITHUB_REPO in Vercel to enable this", 6000);
+      return;
+    }
+    if (res.status === 429) {
+      toast(out.error || "A scan just ran — give it a minute", 5000);
+      return;
+    }
+    if (!res.ok) throw new Error(out.error || `HTTP ${res.status}`);
+
+    toast("Scan started — this takes about a minute", 5000);
+    // Poll until the committed file changes, or we give up.
+    for (let i = 0; i < 24; i++) {
+      await new Promise(r => setTimeout(r, 8000));
+      await load(true);
+      if (data.generated_at && data.generated_at !== before) {
+        toast("Updated with the latest results");
+        return;
+      }
+    }
+    toast("Scan is taking longer than usual — hit Refresh in a bit", 6000);
+  } catch (e) {
+    toast(`Couldn't start a scan: ${e.message}`, 6000);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "Run new scan";
+  }
+}
+
+// --- events ----------------------------------------------------------------
+
+$("tabs").addEventListener("click", e => {
+  const t = e.target.closest(".tab");
+  if (!t) return;
+  filters.cat = t.dataset.cat;
+  render();
+});
+
+$("feed").addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if (chip) { filters.reason = chip.dataset.reason; render(); return; }
+  const mark = e.target.closest(".mark");
+  if (mark) {
+    const id = mark.dataset.id;
+    covered.has(id) ? covered.delete(id) : covered.add(id);
+    saveCovered();
+    render();
+  }
+});
+
+$("clearReason").addEventListener("click", () => { filters.reason = null; render(); });
+$("q").addEventListener("input", e => { filters.q = e.target.value; render(); });
+$("near").addEventListener("change", e => { filters.near = e.target.checked; render(); });
+$("hide").addEventListener("change", e => { filters.hide = e.target.checked; render(); });
+$("reload").addEventListener("click", () => load(false));
+$("scan").addEventListener("click", runScan);
+
+document.addEventListener("keydown", e => {
+  if (e.target.matches("input")) {
+    if (e.key === "Escape") e.target.blur();
+    return;
+  }
+  if (e.key === "/") { e.preventDefault(); $("q").focus(); }
+  if (e.key.toLowerCase() === "r") load(false);
+});
+
+load(true);
+setInterval(() => load(true), 5 * 60 * 1000);   // quietly re-read every 5 minutes
+setInterval(renderStatus, 60 * 1000);           // keep "12m ago" honest
+</script>
+</body>
+</html>

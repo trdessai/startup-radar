@@ -1,10 +1,282 @@
 {
- "generated_at": "2026-08-16T16:42:11.742793+00:00",
+ "generated_at": "2026-08-16T16:48:08.174775+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 0,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 47,
+  "fresh": 38,
+  "alerted": 9
  },
- "items": []
+ "items": [
+  {
+   "id": "f1171fd48a5f",
+   "title": "IIM Bangalore incubator tops $7 billion in startup value as it turns to AI",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR215TldFYTFFNTU0SG1pWGZJUktZeGd5dnJZc04zdi1PNkpEd2hUX3RkMDA1MjM4RHFfbE1GR29QUm0tU3dpZFRBb2JNRVVlcWlyUkxza3JSWDh3emYzeGtJN18yZGZWMVlKdjVFT0lCR1l4U1lJTldsNVJOTmZnQ1hCWkpOaDdqQnlabXFlVGE5d1RRdE5OY2lFckpyY2xEMlByaTFUSEM2OHIxZ04wbXU2aDcxTVp6X2hhNG9CZFpGcm5YdEhRdWt2UG13OExneF9BYmlXNUdrNTBYbEVIcdIB5gFBVV95cUxNRWppd3JSNkN6VXpzNl8tazFyUC12WXllbTZPQlJtaTgyWTRjWFprSWhVR29EcllfbVJnQ3hZSUhLSXdXcUFjeGdtRWhYWXBGRmNab3J0dGF0bUR5VnVQZ2F6T0VoTFdxcUR4SFN1YzVKdHQwcVh2WDZ4VGhLLTJYOU80QnhLV3QyeHZvTVJWU0hfaFZpQXJob1R2YmpDNVB5SDBlalVPbXMzel80c2R0aXd0UXhreEJ6YTN1aXNTMTd1X09YNEw5Z19Sd2pTV1VJeGNkT1k2azZkR0kycFQwU2J5aFp5dw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-16T14:21:43+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "IIM Bangalore",
+   "amount": "$7 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$7 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "84c15c3dbbe8",
+   "title": "IN-SPACe proposes \u20b9500 crore third-party insurance cover for space launches",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjJldFpTSXlHZ19qSXAzZnhoUVVPZFVFZG93V0hXS1VUeDBMTHl4aWZ6Ni1XMG53THUyVnJtU3EzT054WXBJTEdGR0RNcmF1QVcydkRoZUFfdzkwQjIzV09Ec1JLc3RDMkZYQkZ0d2RoX0RXbWw4TGQyNlhSTVhsRUJRaWZieDY4UklkcDVLS3M0ZFlpTlIxWDdGbWZodFIyWjNqSUtaNGxKWE1qNXUyTkdOZ3M5TEQ3Z0JtS0xLZzZYWWwzQTg5ODVPR0VVLUxnUFVFOWZzT3lxNGtRaHlHaTZBVdIB6gFBVV95cUxPRzRBa0QtV2pBU3hzX0JRVFVlNFNXNWRrMktTN1hoUlBEQjBxNnZyYTdaSEE2cEplNmRVU1paOFZCQlFVbW5YclVnSUZEZ0N1X2hZTVNTb1pqZlp1clNoZ0dDX0FTRGJqWFVpTDRqa0trdUVKeEs4Vk40aUlTdm9hUHlxS0lkVzJhUFYxcXVxa0FqbE9aSmVYWGthTUdrbkxCcnFHbUdlQUhURGFQQUYtTHMxWFAzZEt0SWM4MGZ2RWtqR1pJQmRjeTVMN3lNX05aNHdUWnNqTnJzcGh6MGp1Y29xT0tVbVZsM1E?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-08-16T12:59:08+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "IN-SPACe",
+   "amount": "\u20b9500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b9500 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "999dbb325c4f",
+   "title": "Govt launches Tk 400cr fund to boost startup investment",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2p6cF9Ddy1ETjcwUDRndlA1d0VxMzVFVkFENHA0Skp6MS14amNia2k2U1ZGUXZxd042Tkp5SFR0VHk4N1hjX3BsUXZocTJwcFZXN0lOWkVvNDFtRGVtdmI5U01LT2ZTaXRLQ3FMR25nb0gzbThDcmt6TEUtUERFQ3dPSW43b3VPdUpFTUVqekFaaklrWlNsb1VLeG5ybWI0bzdfRzF3?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-08-16T12:40:47+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Govt",
+   "amount": "400 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "400 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f0baa0453098",
+   "title": "AI-powered storytelling platforms CogniFilm and Comiqly launched in Goa by Minister Rohan Khaunte",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjRaWG1JQlBkNVlQc3pQMGRESjNoSzBwSDdRV1VnWHZJUUphS1RQWDhSWXNrcWJ2cDFscjduTlVCWmplck5zWXNmNVpJdi1CcjQ4UERmOTZaMzFxZmtkTHNITlVwMWNsQlRIbkVhZlNYZE56eGhHdG1jTWQwdE0xdmFoUTdDRUFXTFVtbG5JVEhHSmpNWW9FNG4tWkhEaXpKZ2ItNkFSZGp1VTctTkE3V1lPZVdIRTJvNDFPQ24zMVBjWUxyLVB3NGN2M2dpc2g0V3lFMXRUMA?oc=5",
+   "source": "Prudent Media Goa",
+   "published": "2026-08-16T12:14:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "AI-powered",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9bfc8fe71add",
+   "title": "PharmEasy expands into AI physiotherapy as investors push for profits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV01Bb2pwcG1CWXJhcjJlT1dWWGVNS1hyM0tBRW5feXpjRldzWlRkTWU3dnpIX0NpVG9OWTVubC1KcGR6N0lMdV9YNE5sa2lZS3p4VmU2aGZTYWktbzhPZl9JU0JzQ3N5RC1YUGQ1eDE4NUp4OWV5M29DVXRraFlHQmI4WVJrS1FGUmM2d1pNUVdmYm5MSjhUSE11WXJRbkJvclA3dHRsUzJFNUx6Rmg2OFlHSVFlQzBZQ0dscFI5SElpb056bGdBc9IByAFBVV95cUxPV01Bb2pwcG1CWXJhcjJlT1dWWGVNS1hyM0tBRW5feXpjRldzWlRkTWU3dnpIX0NpVG9OWTVubC1KcGR6N0lMdV9YNE5sa2lZS3p4VmU2aGZTYWktbzhPZl9JU0JzQ3N5RC1YUGQ1eDE4NUp4OWV5M29DVXRraFlHQmI4WVJrS1FGUmM2d1pNUVdmYm5MSjhUSE11WXJRbkJvclA3dHRsUzJFNUx6Rmg2OFlHSVFlQzBZQ0dscFI5SElpb056bGdBcw?oc=5",
+   "source": "Fortune India",
+   "published": "2026-08-16T12:11:00+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "PharmEasy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c8215b7c5c3a",
+   "title": "IPO wave: Seven cos eye to raise Rs 6,400 Cr next week",
+   "url": "https://yourstory.com/2026/08/ipo-wave-seven-cos-eye-to-raise-rs-6400-cr-next-week-",
+   "source": "YourStory",
+   "published": "2026-08-16T11:32:05+00:00",
+   "score": 77,
+   "category": "launch",
+   "company": "IPO",
+   "amount": "Rs6,400 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "Rs6,400 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "28e6e6667138",
+   "title": "Zetwerk Manufacturing Files For Rs 2,600 Cr IPO To Raise Fresh Capital",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnBhOVJsU0Y3UC1OMlZuaWIxRS1KYUNuMGlTRWEzRndJNG9MdkFvY1RCWko1UlcwUEZUckVQcDJ5U2J4YWFob3p6X3U2T19LXzdyX0pRcU1xT000OEMyNGFzWEVVajZJVVBjamNjTEhfaDVsWFJSM0Vrc2lLOWZuMzlBVVFEb3N5SXByeFhKZ3pXVFVkWUhlSjJGMnItZHBHeTZXbk9Td0E2LTNVeFB1Xw?oc=5",
+   "source": "BWDisrupt",
+   "published": "2026-08-16T10:41:21+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Zetwerk Manufacturing Files For Rs",
+   "amount": "Rs2,600 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs2,600 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9d3744f2f9ff",
+   "title": "Lucknow startup launches India's first jet-powered loitering munition from a car, shares video | Engine was developed by DG Propulsion | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWgyb2RYWnlrTEhJWGdBaDh3ckxmRmdxWkU5NEloQlJFaEplSWpQcXpHTEJZeEJOUmFhb3p0cnFLdGdMcjFkSDVtTmFqZGVzY2FfbGlIbS1VcFBiRkJzTU1ISzRXbU5tZ2lLdzFmZXR4elRtM0FHTWVUTHdKdEV4VkVJQ2lpaVdRRWpxNEdiTThaSHZIa1lSOWo5WktDWXZVS19KNVNQYnlvTkE1N1I3Y0NCaG9mc1UyajBsVXprQmtabUtENDBCZUMwYjlwbF8zTzBPT3JqUUjSAdgBQVVfeXFMTjloMm9kWFp5a0xISVhnQWg4d3JMZkZncVpFOTRJaEJSRWhKZUlqUHF6R0xCWXhCTlJhYW96dHJxS3RnTHIxZEg1bU5hamRlc2NhX2xpSG0tVXBQYkZCc01NSEs0V21ObWdpS3cxZmV0eHpUbTNBR01lVEx3SnRFeFZFSUNpaWlXUUVqcTRHYk04Wkh2SGtZUjlqOVpLQ1l2VUtfSjVTUGJ5b05BNTdSN2NDQmhvZnNVMmowbFV6a0JrWm1LRDQwQmVDMGI5cGxfM08wT09yalFI?oc=5",
+   "source": "Inshorts",
+   "published": "2026-08-16T10:40:06+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Lucknow",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ff7665943439",
+   "title": "Startup Bangladesh launches Tk 4b Fund of Funds to attract local, global capital",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlU4Xy1Nb2I3NlZMOU4tQnE5N1lCa1VjUzBrQkZ3bGU3SWp4R3RucmNWUTN4VVkySGVTdE1IY09pTldVQ09xd2VZanB1cmMyNjhKam1qT0xTeXlBS2EtdzE0VjlDYkg0b3RnSEpBTl81ZFQydV9penRCZGVhXzFIVXlLWUZVTWpKb09SMTU0LVdqbGFwNS0zV3hEMk1lNnM2TTM5MGlMa0dCU1FhV0ExVXhXVVo5Qm9OaFFZbnU0MnEtdzg?oc=5",
+   "source": "thefinancialexpress.com.bd",
+   "published": "2026-08-16T10:19:47+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Bangladesh",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c714112ea756",
+   "title": "India\u2019s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWUpWUFdoeFVjYU5GYllqM3p2S2pLdUZaOUJrZU9yelFFcS00QnRBMVk4eTRvX19HckhNNW9zLXNydUZaNDJPXzFiWDRrc1NUOUNKN0Fac0VxZ09PVTB6c19HazRtdnpjQ2FLN0VlOFV4N21HSVdfclNwNTFBcmZIbW5QOHloVEVpY2VVQnowSm14STQ0a3VUYjdHRU1keFVIZnJiVzdnOEVhek9hUVR3M3c2VkhzNlFIb05iNUhpcnlSU181WE1oYjhGVkZ5QWg1dUdPeDFZcTdVajVHdllXUzRwbXRyWm5McnlZSEZENElNVGNwc2NwS1JBNmNLNGNTX0dfdzJtNEhLd9IBkAJBVV95cUxPT3g0MTA4QUJSMXNYb0NQQlY5ZEktRkZ0bVViUXJOZi12bFdHOVlJQUVUdkFkNHZ6V1VvRDRuSlhicy15V2NXLWtqZnUxNkw2clotSUFVTUEtLVotTGdqa2NYYWNyZzlJMmJ6YW8xU1U5TmdtSi11Sl84MEE4dlc5UnBrbWRWU1hwN0d5eXQ0Q3ZIeEY2Z2oxa284YWVldWpYV3VYU3Z0YkFibEYwR0xuOHRUQk84Q3pzR1JoYWViRnJZM0M2TGZSYXh3M0JOcXNTcWhyTGZhYXI4TWNpOGREdlZXUHZTbXV1S050Q0VTS3dkd0VNYTRDVWJqTUh1N0pqZC1leWw3a25sWElFQnhKOQ?oc=5",
+   "source": "financialexpress.com",
+   "published": "2026-08-16T09:40:20+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "India\u2019s",
+   "amount": "$618.5 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$618.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2408085e32d1",
+   "title": "Biyani's Style Union seeks to raise \u20b9800 crore as value retail market expands",
+   "url": "https://www.livemint.com/companies/style-union-fundraise-800-crore-biyani-family-11786858224112.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-16T08:19:23+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Biyani's Style Union",
+   "amount": "\u20b9800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "\u20b9800 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3dd6cd784136",
+   "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
+   "url": "https://economictimes.indiatimes.com/tech/technology/berkshire-hathaway-boosted-stake-in-alphabet-homebuilders-in-the-second-quarter/articleshow/133271260.cms",
+   "source": "ET Tech",
+   "published": "2026-08-16T06:45:28+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Berkshire Hathaway",
+   "amount": "$10 billion",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Greg Abel",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "$10 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "80326b4442cd",
+   "title": "US states seek $200 billion penalty in blockbuster Meta lawsuit",
+   "url": "https://economictimes.indiatimes.com/tech/technology/us-states-seek-200-billion-penalty-in-blockbuster-meta-lawsuit/articleshow/133271047.cms",
+   "source": "ET Tech",
+   "published": "2026-08-16T06:25:06+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "US",
+   "amount": "$200 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$200 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8dc7a9f22b0d",
+   "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+   "url": "https://economictimes.indiatimes.com/tech/startups/tiger-global-management-cuts-stakes-in-big-tech-buys-into-spacex/articleshow/133271032.cms",
+   "source": "ET Tech",
+   "published": "2026-08-16T06:23:06+00:00",
+   "score": 72,
+   "category": "acquisition",
+   "company": "Tiger Global Management",
+   "amount": "11.20 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "11.20 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "97f3c2a9f565",
+   "title": "Indian Bank plans to garner $400 million via ECB this week: MD Binod Kumar",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSWZzaE1KenJsOGRqWVBjZ0ZGSXB4SDFCV3dSMGhNUGNaZWxaNENOeml6NE5IeFVNNDlxVG1lblItaHhKdXVJazM4cExzdG1VTjJ4TzQ4cVBOMVNvOGN2cnBPMkZfMy16WEFDaVU3Y01EQUhyWGRZeURaVVN1OGVHeUh0MlU3b2w3bFpjUGhKNnY5dzFTZm1tWHJncDhQTTR0akJUaWItTzd4Ui1LZTBPcTdzekZrQzRONFFBU1B3Vjg1eTRnWktVeWcyVERVclNRbjl6aTVHbENiM2EwY1V2WmdmdDZvaEU3QlRCV3BUa01YdVhROUlXbzU2ckfSAfYBQVVfeXFMTkFtZS1xN1ZmY0k0UUZTcmlWTzBfb2FZMUN1ekNWZFVnNVE1OTJHTUtEeGJEckJ5WmdJTUVldE41YnY5a013NlRWN2MtYllIVkdzTXhTNGM2VUJZWlVrcnAxNGIyYUNmRC1XUDB6UjB5R1d0ZGRodF9teDBlSTVpeENrcTRSUkZneFFFLUVZOFZtTDM1blB1S3B2Q2RhdS05SE1JdFZ0RmZvV0hHeFBZRFJ2bzFYaU5ybHVicW5qQ0JmM0RMVy1tMVBlakdtcTkza0RSUzMtQnZyNDl1bWtOdnNkMVpocy1TZFBnNUdJbl9TLXl2Rk9B?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-16T06:07:40+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Bank",
+   "amount": "$400 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$400 million"
+   ],
+   "alerted": false
+  }
+ ]
 }

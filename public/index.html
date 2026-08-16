@@ -4,10 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Startup Radar</title>
-<meta name="description" content="Indian startup launches and funding, refreshed every 30 minutes.">
+<meta name="description" content="Indian startup launches and funding, checked every 10 minutes.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=DM+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23BE3A1D'/></svg>">
 <style>
 :root{
   --stock:#E7E4DA; --card:#F1EFE8; --ink:#15171A; --soft:#6A6E70;
@@ -21,145 +22,109 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-text-size-adjust:100%}
-body{
-  background:var(--stock); color:var(--ink);
-  font-family:Newsreader,Georgia,serif; font-size:17px; line-height:1.45;
-  padding-bottom:4rem;
-}
+body{background:var(--stock);color:var(--ink);font-family:Newsreader,Georgia,serif;
+  font-size:17px;line-height:1.45;padding-bottom:4rem}
 .wrap{max-width:860px;margin:0 auto;padding:0 1rem}
 
-/* ---------- header ---------- */
-.masthead{
-  position:sticky; top:0; z-index:20; background:var(--stock);
-  border-bottom:2px solid var(--ink);
-}
-.masthead-in{display:flex;align-items:baseline;gap:.9rem;flex-wrap:wrap;padding:.85rem 0 .7rem}
-.brand{
-  font-family:Archivo,system-ui,sans-serif; font-weight:700; font-size:1.05rem;
-  letter-spacing:.14em; text-transform:uppercase;
-}
+.masthead{position:sticky;top:0;z-index:20;background:var(--stock);border-bottom:2px solid var(--ink)}
+.masthead-in{display:flex;align-items:baseline;gap:.9rem;flex-wrap:wrap;padding:.85rem 0 .6rem}
+.brand{font-family:Archivo,system-ui,sans-serif;font-weight:700;font-size:1.05rem;
+  letter-spacing:.14em;text-transform:uppercase}
 .brand em{font-style:normal;color:var(--signal)}
-.status{
-  font-family:"DM Mono",ui-monospace,monospace; font-size:.72rem; color:var(--soft);
-  letter-spacing:.02em; margin-right:auto;
-}
+.status{font-family:"DM Mono",ui-monospace,monospace;font-size:.72rem;color:var(--soft);margin-right:auto}
 .status b{color:var(--ink);font-weight:500}
-.actions{display:flex;gap:.4rem}
+.live{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--cool);
+  margin-right:.35rem;vertical-align:middle}
+.live.beat{animation:beat 1.2s ease-out}
+@keyframes beat{0%{transform:scale(2.4);opacity:.4}100%{transform:scale(1);opacity:1}}
+.actions{display:flex;gap:.4rem;flex-wrap:wrap}
 
 button{font:inherit;cursor:pointer;color:inherit}
-.btn{
-  font-family:Archivo,system-ui,sans-serif; font-size:.68rem; font-weight:600;
-  letter-spacing:.1em; text-transform:uppercase;
-  background:transparent; border:1.5px solid var(--ink); color:var(--ink);
-  padding:.42rem .7rem; border-radius:0; transition:background .12s,color .12s;
-}
+.btn{font-family:Archivo,system-ui,sans-serif;font-size:.68rem;font-weight:600;
+  letter-spacing:.1em;text-transform:uppercase;background:transparent;
+  border:1.5px solid var(--ink);color:var(--ink);padding:.42rem .7rem;
+  transition:background .12s,color .12s}
 .btn:hover{background:var(--ink);color:var(--stock)}
 .btn-go{border-color:var(--signal);color:var(--signal)}
 .btn-go:hover{background:var(--signal);color:var(--stock)}
+.btn-bell{border-color:var(--cool);color:var(--cool)}
+.btn-bell:hover{background:var(--cool);color:var(--stock)}
 .btn[disabled]{opacity:.4;cursor:not-allowed}
 .btn[disabled]:hover{background:transparent;color:var(--ink)}
 :focus-visible{outline:2px solid var(--signal);outline-offset:2px}
 
-/* ---------- filters ---------- */
-.filters{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;padding:.6rem 0 .75rem}
+/* two-level filtering: scope first, then category within it */
+.scope{display:flex;border:1.5px solid var(--ink);width:fit-content;margin:.2rem 0 .55rem}
+.scope button{font-family:Archivo,sans-serif;font-size:.7rem;font-weight:600;letter-spacing:.09em;
+  text-transform:uppercase;background:transparent;border:none;padding:.42rem .85rem}
+.scope button + button{border-left:1.5px solid var(--ink)}
+.scope button[aria-pressed="true"]{background:var(--ink);color:var(--stock)}
+.scope .count{opacity:.65;margin-left:.35rem}
+
+.filters{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;padding:0 0 .75rem}
 .tabs{display:flex;gap:.3rem;flex-wrap:wrap}
-.tab{
-  font-family:Archivo,system-ui,sans-serif;font-size:.68rem;font-weight:600;
-  letter-spacing:.08em;text-transform:uppercase;
-  border:1px solid var(--rule);background:transparent;padding:.34rem .6rem;
-}
+.tab{font-family:Archivo,sans-serif;font-size:.66rem;font-weight:600;letter-spacing:.08em;
+  text-transform:uppercase;border:1px solid var(--rule);background:transparent;padding:.3rem .55rem}
 .tab[aria-pressed="true"]{background:var(--ink);color:var(--stock);border-color:var(--ink)}
-.search{
-  flex:1 1 11rem;min-width:9rem;font-family:"DM Mono",monospace;font-size:.8rem;
-  background:var(--card);border:1px solid var(--rule);color:var(--ink);
-  padding:.4rem .55rem;
-}
+.search{flex:1 1 10rem;min-width:8rem;font-family:"DM Mono",monospace;font-size:.8rem;
+  background:var(--card);border:1px solid var(--rule);color:var(--ink);padding:.38rem .55rem}
 .search::placeholder{color:var(--dim)}
 .toggles{display:flex;gap:.8rem;font-family:"DM Mono",monospace;font-size:.7rem;color:var(--soft)}
 .toggles label{display:flex;align-items:center;gap:.3rem;cursor:pointer}
 .toggles input{accent-color:var(--signal)}
 
-/* ---------- active reason filter ---------- */
-.active-filter{
-  display:none;align-items:center;gap:.5rem;margin-bottom:.9rem;
+.banner{display:none;align-items:center;gap:.5rem;margin-bottom:.9rem;
   border-left:4px solid var(--signal);background:var(--card);padding:.5rem .7rem;
-  font-family:"DM Mono",monospace;font-size:.75rem;
-}
-.active-filter.on{display:flex}
-.active-filter button{background:none;border:none;text-decoration:underline;font-size:.75rem;font-family:inherit}
+  font-family:"DM Mono",monospace;font-size:.75rem}
+.banner.on{display:flex}
+.banner button{background:none;border:none;text-decoration:underline;font-size:.75rem;font-family:inherit}
 
-/* ---------- story rows ---------- */
 .feed{list-style:none;border-top:1px solid var(--rule)}
-.row{display:flex;gap:0;border-bottom:1px solid var(--rule);background:var(--card)}
+.row{display:flex;border-bottom:1px solid var(--rule);background:var(--card)}
 .row.covered{opacity:.42}
-
-/* the rail: an overprinted ink block whose height is the score */
-.rail{
-  position:relative;flex:0 0 52px;border-right:1px solid var(--rule);
-  display:flex;justify-content:center;padding-top:.85rem;overflow:hidden;
-}
-.rail::after{
-  content:"";position:absolute;left:0;right:0;bottom:0;height:var(--fill,0%);
-  background:var(--band);opacity:.16;
-}
-.rail-num{
-  position:relative;font-family:"DM Mono",monospace;font-weight:500;font-size:.95rem;
-  color:var(--band);line-height:1;
-}
-.rail-num small{display:block;font-size:.55rem;letter-spacing:.08em;color:var(--dim);margin-top:.25rem;text-align:center}
-
-.body{flex:1;padding:.85rem .95rem 0.9rem;min-width:0}
-.kicker{
-  display:flex;align-items:baseline;gap:.55rem;flex-wrap:wrap;
-  font-family:Archivo,system-ui,sans-serif;font-size:.63rem;font-weight:700;
-  letter-spacing:.13em;text-transform:uppercase;color:var(--cool);margin-bottom:.3rem;
-}
+.row.is-new{box-shadow:inset 3px 0 0 var(--signal)}
+.rail{position:relative;flex:0 0 52px;border-right:1px solid var(--rule);
+  display:flex;justify-content:center;padding-top:.85rem;overflow:hidden}
+.rail::after{content:"";position:absolute;left:0;right:0;bottom:0;height:var(--fill,0%);
+  background:var(--band);opacity:.16}
+.rail-num{position:relative;font-family:"DM Mono",monospace;font-weight:500;font-size:.95rem;
+  color:var(--band);line-height:1;text-align:center}
+.rail-num small{display:block;font-size:.52rem;letter-spacing:.06em;color:var(--dim);margin-top:.25rem}
+.body{flex:1;padding:.85rem .95rem .9rem;min-width:0}
+.kicker{display:flex;align-items:baseline;gap:.55rem;flex-wrap:wrap;font-family:Archivo,sans-serif;
+  font-size:.63rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--cool);margin-bottom:.3rem}
 .kicker .company{color:var(--ink)}
-.kicker .near{color:var(--dim);border:1px solid var(--rule);padding:0 .3rem;letter-spacing:.08em}
+.kicker .flag{color:var(--signal);border:1px solid var(--signal);padding:0 .3rem;letter-spacing:.08em}
 h2{font-size:1.12rem;font-weight:500;line-height:1.3;margin-bottom:.45rem}
 h2 a{color:inherit;text-decoration:none;box-shadow:inset 0 -1px 0 var(--rule)}
 h2 a:hover{box-shadow:inset 0 -2px 0 var(--signal)}
-
-/* the receipt — why it scored what it scored, clickable */
 .receipt{display:flex;gap:.3rem;flex-wrap:wrap;margin-bottom:.5rem}
-.chip{
-  font-family:"DM Mono",monospace;font-size:.66rem;color:var(--soft);
-  border:1px solid var(--rule);background:transparent;padding:.13rem .38rem;
-}
+.chip{font-family:"DM Mono",monospace;font-size:.66rem;color:var(--soft);
+  border:1px solid var(--rule);background:transparent;padding:.13rem .38rem}
 .chip:hover{border-color:var(--signal);color:var(--signal)}
-
 .founders{font-family:"DM Mono",monospace;font-size:.72rem;color:var(--soft);margin-bottom:.45rem}
 .founders a{color:var(--cool)}
 .founders .nm{color:var(--ink)}
-
-.foot{
-  display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;
-  font-family:"DM Mono",monospace;font-size:.68rem;color:var(--dim);
-}
-.foot .mark{margin-left:auto;background:none;border:none;font-family:inherit;font-size:.68rem;color:var(--soft);text-decoration:underline}
+.foot{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;
+  font-family:"DM Mono",monospace;font-size:.68rem;color:var(--dim)}
+.foot .mark{margin-left:auto;background:none;border:none;font-family:inherit;
+  font-size:.68rem;color:var(--soft);text-decoration:underline}
 .foot .mark:hover{color:var(--signal)}
 
-/* ---------- states ---------- */
 .note{padding:3rem 1rem;text-align:center;color:var(--soft)}
-.note h3{font-family:Archivo,sans-serif;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.5rem;color:var(--ink)}
+.note h3{font-family:Archivo,sans-serif;font-size:.8rem;letter-spacing:.12em;
+  text-transform:uppercase;margin-bottom:.5rem;color:var(--ink)}
 .note p{font-size:.95rem;max-width:32rem;margin:0 auto .8rem}
-.toast{
-  position:fixed;left:50%;bottom:1.4rem;transform:translateX(-50%);
-  background:var(--ink);color:var(--stock);padding:.6rem 1rem;
-  font-family:"DM Mono",monospace;font-size:.75rem;z-index:40;
-  opacity:0;pointer-events:none;transition:opacity .2s;max-width:90vw;
-}
+.toast{position:fixed;left:50%;bottom:1.4rem;transform:translateX(-50%);background:var(--ink);
+  color:var(--stock);padding:.6rem 1rem;font-family:"DM Mono",monospace;font-size:.75rem;
+  z-index:40;opacity:0;pointer-events:none;transition:opacity .2s;max-width:90vw}
 .toast.on{opacity:1}
 .spin{display:inline-block;animation:spin 1s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-@media (prefers-reduced-motion: reduce){
-  .spin{animation:none}
-  *{transition:none !important}
-}
+@media (prefers-reduced-motion: reduce){.spin,.live.beat{animation:none}*{transition:none!important}}
 @media (max-width:560px){
-  body{font-size:16px}
-  .rail{flex-basis:42px}
-  h2{font-size:1.02rem}
+  body{font-size:16px}.rail{flex-basis:42px}h2{font-size:1.02rem}
   .status{width:100%;margin-bottom:.2rem}
 }
 </style>
@@ -172,25 +137,28 @@ h2 a:hover{box-shadow:inset 0 -2px 0 var(--signal)}
       <span class="brand">Startup <em>Radar</em></span>
       <span class="status" id="status">loading…</span>
       <div class="actions">
-        <button class="btn" id="reload" title="Re-read the latest results (R)">Refresh</button>
-        <button class="btn btn-go" id="scan" title="Trigger a new fetch of the sources">Run new scan</button>
+        <button class="btn btn-bell" id="bell" hidden>Enable alerts</button>
+        <button class="btn" id="reload" title="Re-read now (R)">Refresh</button>
+        <button class="btn btn-go" id="scan" title="Fetch the sources right now">Run new scan</button>
       </div>
     </div>
+
+    <div class="scope" id="scope">
+      <button data-scope="alerts" aria-pressed="true">Alerts <span class="count" id="cAlerts"></span></button>
+      <button data-scope="low" aria-pressed="false">Low score <span class="count" id="cLow"></span></button>
+    </div>
+
     <div class="filters">
       <div class="tabs" id="tabs"></div>
       <input class="search" id="q" type="search" placeholder="search company, headline…" aria-label="Search stories">
-      <div class="toggles">
-        <label><input type="checkbox" id="near"> near-misses</label>
-        <label><input type="checkbox" id="hide"> hide covered</label>
-      </div>
+      <div class="toggles"><label><input type="checkbox" id="hide"> hide covered</label></div>
     </div>
   </div>
 </header>
 
 <main class="wrap">
-  <div class="active-filter" id="activeFilter">
-    <span>Showing only stories scored for <b id="reasonName"></b></span>
-    <button id="clearReason">clear</button>
+  <div class="banner" id="banner">
+    <span id="bannerText"></span><button id="bannerClear">clear</button>
   </div>
   <ul class="feed" id="feed"></ul>
   <div class="note" id="note" hidden></div>
@@ -200,65 +168,120 @@ h2 a:hover{box-shadow:inset 0 -2px 0 var(--signal)}
 
 <script>
 // ---------------------------------------------------------------------------
-// EDIT THIS: your GitHub repo, as "owner/name". The dashboard reads data.json
-// straight from GitHub, so a new scan shows up without redeploying Vercel.
+// EDIT THIS: your GitHub repo, as "owner/name".
 const REPO   = "trdessai/startup-radar";
 const BRANCH = "main";
 // ---------------------------------------------------------------------------
 
 const DATA_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/public/data.json`;
+const POLL_MS  = 60000;   // the scan runs every 10 min; checking every minute means
+                          // a story shows up within a minute of the scan committing it
 const CATS = ["all", "launch", "funding", "acquisition", "product", "expansion"];
 const $ = id => document.getElementById(id);
 
 let data = { items: [], generated_at: null, min_score: 55 };
-let filters = { cat: "all", q: "", reason: null, near: false, hide: false };
+let filters = { scope: "alerts", cat: "all", q: "", reason: null, hide: false };
 let covered = new Set(JSON.parse(localStorage.getItem("radar:covered") || "[]"));
+let known   = new Set(JSON.parse(localStorage.getItem("radar:known")   || "[]"));
+let unseen  = new Set();   // arrived this session and not looked at yet
+let primed  = false;       // first load is the existing backlog, not news
 
-const saveCovered = () =>
+const persist = () => {
   localStorage.setItem("radar:covered", JSON.stringify([...covered]));
-
-function relTime(iso) {
-  const mins = (Date.now() - new Date(iso)) / 60000;
-  if (mins < 1) return "just now";
-  if (mins < 60) return `${Math.round(mins)}m ago`;
-  if (mins < 1440) return `${Math.round(mins / 60)}h ago`;
-  return `${Math.round(mins / 1440)}d ago`;
-}
+  localStorage.setItem("radar:known", JSON.stringify([...known].slice(-800)));
+};
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g,
-  c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
-function band(score) {
-  if (score >= 80) return "var(--signal)";
-  if (score >= 60) return "var(--cool)";
-  return "var(--dim)";
+function relTime(iso) {
+  const m = (Date.now() - new Date(iso)) / 60000;
+  if (m < 1) return "just now";
+  if (m < 60) return `${Math.round(m)}m ago`;
+  if (m < 1440) return `${Math.round(m / 60)}h ago`;
+  return `${Math.round(m / 1440)}d ago`;
 }
 
+const band = s => s >= 80 ? "var(--signal)" : s >= 60 ? "var(--cool)" : "var(--dim)";
+
 let toastTimer;
-function toast(msg, ms = 3200) {
+function toast(msg, ms) {
   const t = $("toast");
   t.textContent = msg;
   t.classList.add("on");
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => t.classList.remove("on"), ms);
+  toastTimer = setTimeout(() => t.classList.remove("on"), ms || 3200);
+}
+
+// --- notifications ---------------------------------------------------------
+
+function refreshBell() {
+  $("bell").hidden = !("Notification" in window) || Notification.permission !== "default";
+}
+
+$("bell").addEventListener("click", async () => {
+  // Browsers only accept a permission prompt from a real user gesture, which is
+  // why this is a button rather than something that fires on load.
+  const p = await Notification.requestPermission();
+  refreshBell();
+  toast(p === "granted"
+    ? "Alerts on. You'll be notified when a new story lands."
+    : "Alerts blocked. Re-enable them in your browser's site settings.", 5000);
+});
+
+function notify(fresh) {
+  if (!("Notification" in window) || Notification.permission !== "granted") return;
+  fresh.slice(0, 3).forEach(i => {
+    const n = new Notification(`${i.category.toUpperCase()}: ${i.company || "New story"}`, {
+      body: i.title,
+      tag: i.id,   // same story twice never double-notifies
+    });
+    n.onclick = () => { window.focus(); window.open(i.url, "_blank", "noopener"); n.close(); };
+  });
+  if (fresh.length > 3) {
+    new Notification(`+${fresh.length - 3} more stories`, { tag: "radar-more" });
+  }
+}
+
+function updateTitle() {
+  document.title = unseen.size ? `(${unseen.size}) Startup Radar` : "Startup Radar";
+}
+
+function detectNew(items) {
+  const fresh = items.filter(i => i.alerted && !known.has(i.id));
+  items.forEach(i => known.add(i.id));
+  persist();
+
+  if (!primed) { primed = true; return; }   // don't announce the backlog on first load
+  if (!fresh.length) return;
+
+  fresh.forEach(i => unseen.add(i.id));
+  updateTitle();
+  notify(fresh);
+  toast(`${fresh.length} new ${fresh.length === 1 ? "story" : "stories"}`);
 }
 
 // --- rendering -------------------------------------------------------------
 
+const inScope = i => filters.scope === "alerts" ? i.alerted : !i.alerted;
+
 function renderTabs() {
+  const pool = data.items.filter(inScope);
+  $("cAlerts").textContent = data.items.filter(i => i.alerted).length;
+  $("cLow").textContent = data.items.filter(i => !i.alerted).length;
   $("tabs").innerHTML = CATS.map(c => {
-    const n = c === "all"
-      ? data.items.length
-      : data.items.filter(i => i.category === c).length;
-    if (n === 0 && c !== "all") return "";
+    const n = c === "all" ? pool.length : pool.filter(i => i.category === c).length;
+    if (!n && c !== "all") return "";
     return `<button class="tab" data-cat="${c}" aria-pressed="${filters.cat === c}">${c} ${n}</button>`;
   }).join("");
+  document.querySelectorAll("#scope button").forEach(b =>
+    b.setAttribute("aria-pressed", String(b.dataset.scope === filters.scope)));
 }
 
 function visible() {
   const q = filters.q.toLowerCase();
   return data.items.filter(i => {
-    if (!filters.near && !i.alerted) return false;
+    if (!inScope(i)) return false;
     if (filters.hide && covered.has(i.id)) return false;
     if (filters.cat !== "all" && i.category !== filters.cat) return false;
     if (filters.reason && !(i.reasons || []).includes(filters.reason)) return false;
@@ -280,8 +303,8 @@ function founderHtml(f, company) {
 
 function render() {
   renderTabs();
-  $("activeFilter").classList.toggle("on", !!filters.reason);
-  $("reasonName").textContent = filters.reason || "";
+  $("banner").classList.toggle("on", !!filters.reason);
+  if (filters.reason) $("bannerText").innerHTML = `Only stories scored for <b>${esc(filters.reason)}</b>`;
 
   const rows = visible();
   const feed = $("feed"), note = $("note");
@@ -289,29 +312,32 @@ function render() {
   if (!rows.length) {
     feed.innerHTML = "";
     note.hidden = false;
-    const anyData = data.items.length > 0;
-    note.innerHTML = anyData
-      ? `<h3>Nothing matches</h3><p>No stories fit the current filters. Try clearing the
-         search, or switch on near-misses to see what scored just below the threshold.</p>`
-      : `<h3>No stories yet</h3><p>The scanner runs every 30 minutes and keeps 7 days of
-         history. If this is a fresh install, wait for the first run — or start one now.</p>`;
+    note.innerHTML = data.items.length
+      ? (filters.scope === "low"
+          ? `<h3>Nothing below the line</h3><p>Everything kept this week scored at or above
+             ${data.min_score}. Stories scoring 0 — listicles, markets pieces, anything with
+             no India connection — are dropped at the source and never stored.</p>`
+          : `<h3>Nothing matches</h3><p>No stories fit these filters. Try clearing the search,
+             or look in the Low score tab.</p>`)
+      : `<h3>No stories yet</h3><p>The scan runs every 10 minutes and keeps 7 days of history.
+         If this is a fresh install, wait for the first run — or start one now.</p>`;
     return;
   }
 
   note.hidden = true;
   feed.innerHTML = rows.map(i => {
-    const isCovered = covered.has(i.id);
+    const isCovered = covered.has(i.id), isNew = unseen.has(i.id);
     const meta = [i.stage, i.amount].filter(Boolean).map(esc).join(" · ");
-    return `<li class="row ${isCovered ? "covered" : ""}">
+    return `<li class="row ${isCovered ? "covered" : ""} ${isNew ? "is-new" : ""}">
       <div class="rail" style="--band:${band(i.score)};--fill:${i.score}%">
         <span class="rail-num">${i.score}${isCovered ? "<small>DONE</small>" : ""}</span>
       </div>
       <div class="body">
         <div class="kicker">
+          ${isNew ? `<span class="flag">new</span>` : ""}
           <span>${esc(i.category)}</span>
           ${i.company ? `<span class="company">${esc(i.company)}</span>` : ""}
           ${meta ? `<span>${meta}</span>` : ""}
-          ${i.alerted ? "" : `<span class="near">near miss</span>`}
         </div>
         <h2><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
         ${(i.reasons || []).length ? `<div class="receipt">${
@@ -331,10 +357,8 @@ function render() {
 
 function renderStatus() {
   const n = data.items.filter(i => i.alerted).length;
-  const r = data.last_run || {};
   $("status").innerHTML = data.generated_at
-    ? `last scan <b>${relTime(data.generated_at)}</b> · ${n} alerts / 7d` +
-      (r.fetched ? ` · ${r.fetched} scanned` : "")
+    ? `<span class="live" id="pulse"></span>last scan <b>${relTime(data.generated_at)}</b> · ${n} alerts / 7d`
     : "no data yet";
 }
 
@@ -344,9 +368,17 @@ async function load(quiet) {
   try {
     const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    data = await res.json();
+    const next = await res.json();
+    const changed = next.generated_at !== data.generated_at;
+    data = next;
+    detectNew(data.items);
     render();
     renderStatus();
+    const pulse = $("pulse");
+    if (pulse && changed) {
+      pulse.classList.add("beat");
+      setTimeout(() => pulse.classList.remove("beat"), 1200);
+    }
     if (!quiet) toast(`Loaded ${data.items.length} stories`);
     return true;
   } catch (e) {
@@ -354,44 +386,28 @@ async function load(quiet) {
     $("note").innerHTML = `<h3>Can't reach the data file</h3>
       <p>Tried <code>${esc(DATA_URL)}</code> — ${esc(e.message)}.<br>
       Check that <b>REPO</b> at the top of index.html matches your repo, that the repo is
-      public, and that at least one scan has run and committed <code>public/data.json</code>.</p>`;
+      public, and that a scan has committed <code>public/data.json</code>.</p>`;
     return false;
   }
 }
 
-// --- trigger a real scan ---------------------------------------------------
-
 async function runScan() {
-  const btn = $("scan");
-  const before = data.generated_at;
+  const btn = $("scan"), before = data.generated_at;
   btn.disabled = true;
   btn.innerHTML = '<span class="spin">◠</span> Scanning';
-
   try {
     const res = await fetch("/api/refresh", { method: "POST" });
     const out = await res.json().catch(() => ({}));
-
-    if (res.status === 501) {
-      toast("Add GITHUB_TOKEN and GITHUB_REPO in Vercel to enable this", 6000);
-      return;
-    }
-    if (res.status === 429) {
-      toast(out.error || "A scan just ran — give it a minute", 5000);
-      return;
-    }
+    if (res.status === 501) { toast("Add GITHUB_TOKEN and GITHUB_REPO in Vercel to enable this", 6000); return; }
+    if (res.status === 429) { toast(out.error || "A scan just ran — give it a minute", 5000); return; }
     if (!res.ok) throw new Error(out.error || `HTTP ${res.status}`);
-
-    toast("Scan started — this takes about a minute", 5000);
-    // Poll until the committed file changes, or we give up.
+    toast("Scan started — about a minute", 5000);
     for (let i = 0; i < 24; i++) {
       await new Promise(r => setTimeout(r, 8000));
       await load(true);
-      if (data.generated_at && data.generated_at !== before) {
-        toast("Updated with the latest results");
-        return;
-      }
+      if (data.generated_at && data.generated_at !== before) { toast("Updated"); return; }
     }
-    toast("Scan is taking longer than usual — hit Refresh in a bit", 6000);
+    toast("Taking longer than usual — hit Refresh shortly", 6000);
   } catch (e) {
     toast(`Couldn't start a scan: ${e.message}`, 6000);
   } finally {
@@ -402,44 +418,54 @@ async function runScan() {
 
 // --- events ----------------------------------------------------------------
 
-$("tabs").addEventListener("click", e => {
-  const t = e.target.closest(".tab");
-  if (!t) return;
-  filters.cat = t.dataset.cat;
+$("scope").addEventListener("click", e => {
+  const b = e.target.closest("button[data-scope]");
+  if (!b) return;
+  filters.scope = b.dataset.scope;
+  filters.cat = "all";
   render();
 });
-
+$("tabs").addEventListener("click", e => {
+  const t = e.target.closest(".tab");
+  if (t) { filters.cat = t.dataset.cat; render(); }
+});
 $("feed").addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if (chip) { filters.reason = chip.dataset.reason; render(); return; }
   const mark = e.target.closest(".mark");
   if (mark) {
     const id = mark.dataset.id;
-    covered.has(id) ? covered.delete(id) : covered.add(id);
-    saveCovered();
+    if (covered.has(id)) covered.delete(id); else covered.add(id);
+    persist();
     render();
   }
 });
-
-$("clearReason").addEventListener("click", () => { filters.reason = null; render(); });
+$("bannerClear").addEventListener("click", () => { filters.reason = null; render(); });
 $("q").addEventListener("input", e => { filters.q = e.target.value; render(); });
-$("near").addEventListener("change", e => { filters.near = e.target.checked; render(); });
 $("hide").addEventListener("change", e => { filters.hide = e.target.checked; render(); });
 $("reload").addEventListener("click", () => load(false));
 $("scan").addEventListener("click", runScan);
 
+// Coming back to the tab counts as having read what's there.
+window.addEventListener("focus", () => {
+  if (unseen.size) { unseen.clear(); updateTitle(); render(); }
+});
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) load(true);   // catch up straight away rather than waiting
+});
 document.addEventListener("keydown", e => {
-  if (e.target.matches("input")) {
-    if (e.key === "Escape") e.target.blur();
-    return;
-  }
+  if (e.target.matches("input")) { if (e.key === "Escape") e.target.blur(); return; }
   if (e.key === "/") { e.preventDefault(); $("q").focus(); }
-  if (e.key.toLowerCase() === "r") load(false);
+  const k = e.key.toLowerCase();
+  if (k === "r") load(false);
+  if (k === "a") { filters.scope = "alerts"; filters.cat = "all"; render(); }
+  if (k === "l") { filters.scope = "low"; filters.cat = "all"; render(); }
 });
 
+refreshBell();
 load(true);
-setInterval(() => load(true), 5 * 60 * 1000);   // quietly re-read every 5 minutes
-setInterval(renderStatus, 60 * 1000);           // keep "12m ago" honest
+setInterval(() => load(true), POLL_MS);
+setInterval(renderStatus, 30000);
 </script>
 </body>
 </html>

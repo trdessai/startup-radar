@@ -20,7 +20,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Check out the branch TIP, not github.sha. A queued run is pinned to the
+      # commit that triggered it, so without this it works from stale state and
+      # collides on push with whatever landed in the meantime. This is the fix that
+      # prevents the collision; the retry loop below is only a safety net.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 2
+
+      - name: Show what we're working from
+        run: |
+          echo "push logic: v2 (reset + merge_state.py)"
+          echo "branch:     ${GITHUB_REF_NAME}"
+          echo "trigger sha ${GITHUB_SHA}"
+          echo "checked out $(git rev-parse HEAD)"
 
       - uses: actions/setup-python@v5
         with:

@@ -35,7 +35,13 @@ STATE_FILE = ROOT / "state" / "seen.json"
 DATA_FILE = ROOT / "public" / "data.json"
 DASHBOARD_DAYS = 7          # how much history the dashboard keeps
 DASHBOARD_MAX = 300         # hard cap so the JSON stays small enough to fetch fast
-UA = "Mozilla/5.0 (compatible; StartupRadar/1.0)"
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
+HEADERS = {
+    "User-Agent": UA,
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "en-IN,en;q=0.9",
+}
 TIMEOUT = 20
 
 
@@ -210,7 +216,7 @@ def fetch_feed(feed: dict, cutoff: datetime, report: list) -> list[Item]:
     row = {"name": feed["name"], "entries": 0, "fresh": 0, "err": None}
     report.append(row)
     try:
-        r = requests.get(feed["url"], headers={"User-Agent": UA}, timeout=TIMEOUT)
+        r = requests.get(feed["url"], headers=HEADERS, timeout=TIMEOUT)
         r.raise_for_status()
         entries = feedparser.parse(r.content).entries
     except Exception as e:
@@ -218,6 +224,10 @@ def fetch_feed(feed: dict, cutoff: datetime, report: list) -> list[Item]:
         return []
 
     row["entries"] = len(entries)
+    dates = [_utc(e.get("published_parsed") or e.get("updated_parsed"))
+             for e in entries if e.get("published_parsed") or e.get("updated_parsed")]
+    row["newest"] = (now() - max(dates)).total_seconds() / 60 if dates else None
+
     out = []
     for e in entries[:50]:
         pub = _utc(e.get("published_parsed") or e.get("updated_parsed"))
@@ -241,13 +251,16 @@ def fetch_google_news(query: str, cutoff: datetime, report: list) -> list[Item]:
     report.append(row)
     try:
         r = requests.get(GNEWS.format(q=quote_plus(query)),
-                         headers={"User-Agent": UA}, timeout=TIMEOUT)
+                         headers=HEADERS, timeout=TIMEOUT)
         entries = feedparser.parse(r.content).entries
     except Exception as e:
         row["err"] = f"{type(e).__name__}"
         return []
 
     row["entries"] = len(entries)
+    dates = [_utc(e["published_parsed"]) for e in entries if e.get("published_parsed")]
+    row["newest"] = (now() - max(dates)).total_seconds() / 60 if dates else None
+
     out = []
     for e in entries[:20]:
         pub = _utc(e.get("published_parsed"))
@@ -290,11 +303,21 @@ def fetch_all(cfg: dict) -> list[Item]:
             note = "0 entries — dead URL or blocked"
         else:
             note = f"{row['entries']:>3} entries, {row['fresh']:>2} in window"
+            age = row.get("newest")
+            if age is not None and row["fresh"] == 0:
+                age_s = f"{int(age)}m" if age < 90 else f"{int(age // 60)}h" if age < 2880 else f"{int(age // 1440)}d"
+                note += f"  (newest {age_s} old)"
         print(f"  {row['name'][:32]:<34}{note}")
     dead = [r["name"] for r in report if r["err"] or r["entries"] == 0]
+    stale = [r for r in report if not r["err"] and r["entries"] and not r["fresh"]]
     if dead:
-        print(f"\n  {len(dead)}/{len(report)} sources returned nothing. "
-              f"Run `python check_feeds.py` locally to confirm which URLs are dead.")
+        print(f"\n  {len(dead)}/{len(report)} sources returned nothing at all — "
+              f"dead URL, or the site is blocking GitHub's IPs.")
+    if stale and not items:
+        total = sum(r["entries"] for r in stale)
+        print(f"\n  {len(stale)} sources returned {total} entries but none inside the "
+              f"{cfg['lookback_minutes']}-minute window. Fetching is fine — the window "
+              f"is too narrow. Raise lookback_minutes in config.yaml.")
     print()
     return items
 

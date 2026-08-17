@@ -1,12 +1,101 @@
 {
- "generated_at": "2026-08-17T15:53:04.889348+00:00",
+ "generated_at": "2026-08-17T17:00:01.755690+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 5,
-  "alerted": 0
+  "fetched": 51,
+  "fresh": 8,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e9c67854a555",
+   "title": "Paytm founder Sharma to sell stake worth up to \u20b94,895 crore in block deal",
+   "url": "https://www.livemint.com/companies/vijay-shekhar-sharmas-resilient-offers-paytm-stock-worth-513-mn-in-block-trade-11786978683978.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-17T16:50:57+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Paytm",
+   "amount": "\u20b94,895 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b94,895 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5d9901425ada",
+   "title": "GitHub down: Users report issues with website, app and login",
+   "url": "https://economictimes.indiatimes.com/tech/technology/github-down-users-report-issues-with-website-app-and-login/articleshow/133301748.cms",
+   "source": "ET Tech",
+   "published": "2026-08-17T16:31:18+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "GitHub",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "768bbfef7615",
+   "title": "When A Sale \u2018Dies\u2019: Did Flipkart\u2019s Dark Humour Go Too Far?",
+   "url": "https://inc42.com/buzz/when-a-sale-dies-did-flipkarts-dark-humour-go-too-far/",
+   "source": "Inc42",
+   "published": "2026-08-17T16:15:13+00:00",
+   "score": 17,
+   "category": "other",
+   "company": "When A Sale Dies\u2019: Did",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "64e3c7757d7e",
+   "title": "2 Bengaluru friends start Kried, a food truck selling fried food & burgers; made Rs 3 crore in 11 months",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNl9XS0s1bzRIcTFQcWhDUXVOQnF5dEMwWEh2S1F4MC16dFhXMUdYTFR3UENLdTIwYTJpcWtpeWhPckVibFVaRzJpOHBTMFlqbklCUUNqZjJYT2YxRUdWMFVUNEQxRDJZUDBMNHhDZllmM0xldmY1c09EWWo3dmtvdzlZS2xmMnhFMzNRZHVKcGhldDhCbC1aSTl3UjNzNGd4Zy1va2dHdHhRdjVySjhCTGhjRkwteW02cTFjRUg2QW1TRUhYUEtxYTk0dlgwQS1KSk5haA?oc=5",
+   "source": "startuppedia.in",
+   "published": "2026-08-17T16:03:24+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "",
+   "amount": "Rs3 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs3 crore",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "37682e13f748",
+   "title": "Vijay Shekhar Sharma-backed Resilient to sell 4.98% Paytm stake; Antfin to benefit",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjdRV3lFV0xpbXRaTXUySmkxUzNIQmllQmR6QmkxVkNIcFpXSDEyT1Uyc2cxNlVCTHNSdnRKd3RKamU0dEVIOVFiaFdneTNRU18ySUpMQ2JvOUNwcFQxdUdMUWt1U09LX2tiMERBQ2RSY0x3QnNrZFJpc0xJNTZRamtpLWFLZUpfYXJwQ0JRcm14bUxzZjdlMVh5ZjFOM25yT0JaZV9XQ2VYZ3VTZzZJa1JuVTTSAbQBQVVfeXFMT1I3UVd5RVdMaW10Wk11MkppMVMzSEJpZUJkekJpMVZDSHBaV0gxMk9VMnNnMTZVQkxzUnZ0Snd0SmplNHRFSDlRYmhXZ3kzUVNfMklKTENibzlDcHBUMXVHTFFrdVNPS19rYjBEQUNkUmNMd0Jza2RSaXNMSTU2UWpraS1hS2VKX2FycENCUXJteG1Mc2Y3ZTFYeWYxTjNuck9CWmVfV0NlWGd1U2c2SWtSblU0?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-17T15:54:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Vijay Shekhar Sharma-backed Resilient",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3bd4c4d5f626",
    "title": "PharmEasy Claims To Be Debt Free After Paring More Stake In Thyrocare",
@@ -94,6 +183,23 @@
     "Pre-Seed"
    ],
    "alerted": true
+  },
+  {
+   "id": "301a0b44bc7a",
+   "title": "Senses Electronics: From Pune Startup to a Leading Indian Smart Board and Interactive Panel Brand",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMjNDRFZLamd1di1lQ0tKT20yektNM01tbEZrOW1fZWtEbWFwb1JfZ3owNnJuZVVZdVlBVVBZSE5VMXU3SldCTER2S2FPOGlXMnUzWTFFZXAzR0VWVi1YN2thQ0FKTkVOOXhWS2xTVEhfWTBYWF9WdFYwV3lPMldxMl9QRi0wSGpCWTBUY0VPNFptSHpTcTVDSVFwSDVzZjNsYmd6b0ozSkFWbUg0SnljeVNjek5CYzhJYWgxMG5GQmFRZzlkeEszTHhoZ083R3EtVndlTXVkRUFuenoxSlBkZTlRTjJYRi1NWjJhMDNIVTdwak5qLVVpMUxDME5LalBubnpDZ2kxN2TSAY4CQVVfeXFMTnc5cG5JQVZBZEZwOE1INzg3MDBmaVBSd25WR1Z0YVVmNkJpY2dUS1FhMFJaU09Ub0JXbzhwWm1hd1FMSnV6YjFxQ2JCQVRvc19KdjVlOUVCT294d0x1NUlVRnI5R25kMlBYaWJZQzZtYjNiRl8wYUNBbWhldmpySldFVHpUVWg4WV81c3FrcXFTdWd6QUsyOFZQamdJOGZUTW43QkJYeEt3bzBVdXdKY1hjbmVtSzRXUnV5Z0YweWRfV2kwWUh4LWt1YUpoQWVkUjA1YnotdzZPZHZQU24yR3pzVmZJX3A3WVFqbXJJOEFDaFRFNE1raE9VTjQwZlNQWlMxaVpYOEEtbU94cVh3?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-17T13:45:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Senses Electronics: From Pune Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "f35e04632253",
@@ -264,6 +370,24 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0209dc3994b4",
+   "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzBvQmVMQVVfS1BOeXNFOG42MFVkNXJVX0xIX2c3Wk5QRGV1MDkxRFFhUEh5ZDJUTi1mRGpZUEk4MGp1VFB2N2o5TUJ1YjBGdWRpQnVzdnZGb1lQUmY3T2NwMGNNWEswdmFNTV9BOWdjVlZSdEQtNURfbzRrenp5b3RGMkdEaWQ5NjhMNzVVZ2w1bGlSLVkzUzNuSF9KUQ?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-08-17T13:10:05+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Wispr",
+   "amount": "$280 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$280 M"
    ],
    "alerted": true
   },

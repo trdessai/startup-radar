@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-17T19:36:57.139224+00:00",
+ "generated_at": "2026-08-17T20:54:14.076981+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
+  "fetched": 12,
   "fresh": 3,
-  "alerted": 2
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "b6319cab4a04",
+   "title": "Bombay Shaving to handle D2C biz for Colgate India",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzg3V2Vzcy1ybDk5eEdfVzBXT0F6NmVDcHJ5Vzg2bGxqZmFaTnQ2NDdHWDlTanB1SjFQWl82U2MwRTFCZHVIV2pfQlhCWngza3JELXFoU0JYS1U1MU90djFPUjRZS1JVTzFORkZpZ180bTB4YmpGQzZ6eW1qOGF1OGJNd3MybGNscmNZZ19Ja0c0aS05UHcxVDlILWcwbWZVWWI5OENxb1V5bFdnSzQtaU9YWkxNbW5kTnJNMlRrdlFCU0xFU192RdIBzgFBVV95cUxQb2lOVHN4S3ZrR2lKRHZyMUVGaE94Qi1wdVRMVXg5RzIwZnNDcE1ZZGJWeU1YMFh0SmVpSVVpT1Z0VTdrdWFyYWxNQmRvdGhUejM2b1ZXVnZRT0J5TTl1VjhYdG9CMGVXX08ycUpVdmJNWXQ1NG5WRkpGU1I4RWRrbjFNTDR4T3pTN0ZjR1ByWHE2Y3FYdE5KVlNOWjlxVzNfWGVHUmtCMHh6Z3JvbmIzWnRUVFptUnNuRTVSdk9ZV0l0UDFkQ0RGOGZ2NDlwQQ?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-17T19:11:28+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bombay Shaving",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5bdeed7440a3",
    "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data centre",
@@ -22,6 +39,24 @@
    "reasons": [
     "funding",
     "$105 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ba7db444a82a",
+   "title": "Good Momo Co. Closes Angel Round Ahead of First Retail Sale | Startup Story",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnRoSFJEalRDWmxIV0N2MjdfdzRaUlBoYUs2WlFKNzBFWTRpT2hUUFpWV0N6bDJheXlsZG5vMnd3Rkx3VXpRWVo0VG8wZnNlZVg2LWllUUxDRnVpOFIwUTFOLWFGMFpZdGNVM3JJNEwzSHJ4a3hlcGR0aUlObFJqN29DUC1WbHBCWmlVSC1mdWZnWlRMRmlvbWpPVdIBmwFBVV95cUxQcnRoSFJEalRDWmxIV0N2MjdfdzRaUlBoYUs2WlFKNzBFWTRpT2hUUFpWV0N6bDJheXlsZG5vMnd3Rkx3VXpRWVo0VG8wZnNlZVg2LWllUUxDRnVpOFIwUTFOLWFGMFpZdGNVM3JJNEwzSHJ4a3hlcGR0aUlObFJqN29DUC1WbHBCWmlVSC1mdWZnWlRMRmlvbWpPVQ?oc=5",
+   "source": "Startup Story",
+   "published": "2026-08-17T17:48:10+00:00",
+   "score": 64,
+   "category": "funding",
+   "company": "Good Momo Co.",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Angel"
    ],
    "alerted": true
   },

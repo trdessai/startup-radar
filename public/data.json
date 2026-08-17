@@ -1,12 +1,151 @@
 {
- "generated_at": "2026-08-17T03:16:34.817730+00:00",
+ "generated_at": "2026-08-17T05:22:00.049290+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 31,
-  "fresh": 22,
-  "alerted": 4
+  "fetched": 28,
+  "fresh": 8,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "542d5635c910",
+   "title": "6 Books that explore the connection between art and emotions",
+   "url": "https://yourstory.com/2026/07/books-connection-art-emotions",
+   "source": "YourStory",
+   "published": "2026-08-17T05:05:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "267ecb05942e",
+   "title": "Silicon Startups Could Learn a Thing or Two From Pi Network's Governance Experiment",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWjhFYWo2TU9KSUR3cldiSFlIckxESUlHb2kzNUFhNVRld3lGNnA4dlRBX2VVSkJFZ2otQjlSdk5BWHlLWmtEaFdVazNwRDNNN3o4Y0xUTl8tU0ItT01Md3BVemtvdUdHbzBJZm5UenlrUzFrYjU5bl9SVTFnUUNvaW1Rc2tyc0hLU3B3UGFzQ003SEEzTkxBV29kUWU0MGNXdEdUQ1dYanp2LWg0ZUkzOGh4QjF4c3JmdDB2Sk9CbURZZ1gwM21UcEpCS3kxLUt4eDh0c0M4TEJHRzJ6OGFV?oc=5",
+   "source": "siliconindia.com",
+   "published": "2026-08-17T04:50:41+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Silicon Startups Could Learn",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9dd27bece5a3",
+   "title": "Princeton Digital Group to Invest $1 Billion, Expand India Data Center Capacity",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNd1U1RWl5VHlaandodzhjNVZTRF9idm5vY1NGX2ZVWDRvbUFhQ3RjZkZhLXNQbDh3VG5Pb1ZVYndtOHlGZlV0aHJ3WU1YMUVINndKbjJRVXBVZUluT3FBUnZDVW9Eb1dpU0lMZnk2amE1NWhGTmZzeFBzWDZYdHphWkJPckYtSVZuUE5zbE13Nk5VWGx4LTQ0NW9kWFBlQjlpZFJfUktWTVdyTl9ocURWSFhsUlJPZnBXZ0NpN21EbGtBSWpRTXoteFdlU0pxYjBkZnJwdi1KMGZmWVFMWUhyTU9FZ2tSb3ZaaDQzRUJlOHV3R0JCcFRONGo5ZW9GbjNIZHhOb0U3Zmo0Qm1LamRTaTVQREJGYkptcEVSd0xlMWg3dnpBaWNDTXl2TnY?oc=5",
+   "source": "ET Datacenters",
+   "published": "2026-08-17T04:44:21+00:00",
+   "score": 71,
+   "category": "expansion",
+   "company": "Princeton Digital Group",
+   "amount": "$1 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "$1 Billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7df9dedc1d6f",
+   "title": "Indian Spacetech: Three in Four Startups Await First Equity Funding",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVVZhZHB5NVJlUG50WDZraXlCVmNrT3l3X2RDVVpWTlNNeE0xTngtOFhFZzBLZlhHTDI4RUp0ZTdzRUJ3bGxFWUFpZnVwWU9iSFhiYjZyUDEzLTBZby03X0NJUXVLa0tjaGxRdEU5TnEwV1Q4SUVWaDlubnh5aVhONXdULVowN21WUlpmM3dKNG9LMHNLdVRvNWctWE9VQk5lNGpDWjJuNk94QnFzUkNaSkVQTUhZai1sR0VHNFdhNVcxbWt1LUY5YkdObV81aWlxVmFfaFo4bDllcW5zR184ZjgtREVLQ2RMMkVHQUZDQ29ZVU1tSGRVUko5cFh2bHNOVW9mOGxFS0VMMXQ2N1FiSGw1X3JNb01JMjdVOVJR?oc=5",
+   "source": "ET Datacenters",
+   "published": "2026-08-17T04:29:21+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Spacetech: Three",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "23e6cd0bf1db",
+   "title": "Apply Now: Google Africa Applied AI Lab for Founders",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHNtcXFuSk1MY0dlTUFXRVlfSndyeHlqd0JRYTRKUXdmeUFiNW5hNmRrOElUTWp2THdpeWlaY1V4anBDczlUeXQyWU5mMFc4Y3IxY2d0dVFnUWJBMUJPdHJLZHVpdHd6dzFQdFZxSnU0ZDdEeUxyUTBVdjF2OVNfVEhlaw?oc=5",
+   "source": "ICTworks",
+   "published": "2026-08-17T04:23:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Apply Now: Google Africa Applied",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "964f223e5602",
+   "title": "Brand New India: Resurgent And Young",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUk5FNzVTUWRubkZZaDgtM1F0RHRnTkpUT3RRbnhGWWMtZFdpU0ozcGxBbXBpT2ZtRVZydDVHVXlhUi1lWEc1ZThTSmQzelBKYzNhcDdieXE5NjRIaWtSTnBYSm5TNDdNRjZrbVVXLUhIYms3S0V5TGhWUW9FdnBCd1VpQmtpakVTdVpXTXJBQVNzVnM?oc=5",
+   "source": "IMPACT Magazine",
+   "published": "2026-08-17T04:20:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Brand New India: Resurgent And",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf040a7e3d92",
+   "title": "RTI filed: Where are Prasar Bharati Waves OTT\u2019s monthly grievance reports under IT Rules?",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2pJSDJrTEJvZ3RNTU9UV1VlRzFQYm9pR1pZSUdHMHd5cWhhdUpKRmt5b3ZIeGU5eHptVUlkUWQ3VzB0aHdBUHpscm9HQW10aVhSaG1uQTZOYmEwYWdiclpHN3FoeER0MlR6YmhyY2xJcnZMNS1wYjBNNVFnYmhucTkzSUtPSUlYN0NWSzFB?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-17T04:07:00+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "RTI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6ee71496aa07",
+   "title": "Global AI investment $1 trillion in 2026, to reach 1.4% global GDP by 2028: Goldman Sachs",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-investment-1-trillion-in-2026-to-reach-1-4-global-gdp-by-2028-goldman-sachs/articleshow/133285754.cms",
+   "source": "ET Tech",
+   "published": "2026-08-17T03:22:31+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Global AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "13ff5e91f1de",
    "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",

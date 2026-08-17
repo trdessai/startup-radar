@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-08-17T18:00:42.440142+00:00",
+ "generated_at": "2026-08-17T19:36:57.139224+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 4,
+  "fetched": 19,
+  "fresh": 3,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "5bdeed7440a3",
+   "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data centre",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-to-provide-up-to-105-billion-guarantee-for-openais-ohio-data-center/articleshow/133304965.cms",
+   "source": "ET Tech",
+   "published": "2026-08-17T18:34:20+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Nvidia",
+   "amount": "$105 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$105 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9e7849eee0da",
+   "title": "Simple Energy Teases Launch on Sept 2: \u201cA New Kind of Everyday Mobility\u201d",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWtrcng4ZlhpRFJXQ0pxeFhaUFBfLTRWWG5WOC1GRkxjYnZZZFVuMUt0YzhLa2MzSmRodnNxOW42TjFfU1VpbUQyOVdFRmdZRG9zOUJnNkJWVTN1OUI5dWEwTmVhZmpYZlp0MDJXSDFBMTBmbFZQS3k3QklTUWJuZkZKVms0d1FYeVhXVGVEY0dtenppX3dkOGN4VFhMQQ?oc=5",
+   "source": "ACKO Drive",
+   "published": "2026-08-17T17:02:24+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Simple Energy Teases",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d8dff544910e",
+   "title": "- Inc42",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFBNdFExRlVjLUZzdURoaFdCdjc1bENteVphMUwyam14NHdNZXlvUnlJeUlfQXh2RWZHRHByYW5xRXFvV3MtZFowc3NXMGo4eExwN2t2c25vc0Zrb1IyaGxXZ05rVkpiVTBqZGJzLXo0X2VqZHE2NEZ3ZFIyeHg1SUV1Q0d4dXNOSWpWWGNGdURUUUZBZTJ3ZEYxR1JFREZGWERF?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-17T16:55:18+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "e9c67854a555",
    "title": "Paytm founder Sharma to sell stake worth up to \u20b94,895 crore in block deal",

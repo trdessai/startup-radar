@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-17T17:00:01.755690+00:00",
+ "generated_at": "2026-08-17T18:00:42.440142+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 8,
-  "alerted": 1
+  "fetched": 22,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
   {
@@ -24,6 +24,24 @@
     "\u20b94,895 crore"
    ],
    "alerted": false
+  },
+  {
+   "id": "2c6a47629e22",
+   "title": "Wispr Flow raises $280 million at $2 billion valuation, Peak XV joins new round",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZk54dzZza2kxR3ZaN1FzLWJsZ1V0cDgyUzRDT2JvTFl5Tm1ySTVCQU9Ta2Z2b0J4TWt4akVQZWtmMVp1bnV1ZHlCbFIwOFlueHNhdkRPQmNuQ2xyUExwTTZScXJ5bGNRMTktZTdaZWhJd1VaSEtLWkxjbFJQellycnZyZ21YcmZFMURQejBlbVdYY3FNcVVtWF9HcVJyZG53ZzFWX0VrdklFSm9GVUVLYkhVY05DRFdoRTVIOHVpdlhqekZiRWFEdzlkOXItUS1zYldJMnBzbVpNZDjSAeABQVVfeXFMTlpzMzd5NlYxRFVwdWl6VWVMUDRpdmNRU01pbmtSbm1EVFJfUmR0elhXOUlXOFFCbjNlNFpYelhKRmtSNGZ3TkdwQURzTVBTVnZGNFNKOXFjUERhSHpPUVljUG5Ha3ZGY2lXQmVnSHRRZmdEd3lfVkMtN3J2Rk9GVDk5aXg2TFQ1R3UwamdUUUdxcGxyZGlyUzZuZU5sYnRUdnNHSXFMVzVPQzdBLXlMbVpSM3FXRXdxejg4Rllxcnpacko4TVVNMnh0RmJiY2hFbGQ0S21TN0puX0hKX24wanI?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-17T16:39:30+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Wispr Flow",
+   "amount": "$2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 billion"
+   ],
+   "alerted": true
   },
   {
    "id": "5d9901425ada",
@@ -130,6 +148,41 @@
     "\u20b97.9 K"
    ],
    "alerted": false
+  },
+  {
+   "id": "c19b4f329b5c",
+   "title": "Borosil opens exclusive brand stores in Pune and Gurugram",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmwwOUowVVZCdHdOMXQzdU91NWROb09DRjZGY29SQjBsWGE0b2hLdWVsQm1OanBUWHd5T0p1TjBsdE5QOTVKdFZFY2Z0SHhnSjRnU3lPZlFpU3N4TmZlNzA4VTVQUmVUMVBWdnl0SldfSGtyUzB0aERIQU9vRGhTSXo1OTVwekViVEtoZXA3Q0Q5QQ?oc=5",
+   "source": "India Retailing",
+   "published": "2026-08-17T14:56:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Borosil",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "578378243821",
+   "title": "Govt launches Tk 400 crore fund to boost startup investment",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWVDdXU2NlZSdnpKWGNWTzNEZnJBMzVjVHRUaVdoWWVrQUlUWmpodFBwVHFIZ08ybWxEMUlZdXJ2WlBJaWZGMHVWWjV1M3VkaWtOUXExYURDaHctR19XbUJkU3VxWHNvSkJITkZUbjJiTWFDdWVyZ1dHejQtelVHMmhZOVlQcjVSN0gxdW1PMmxVVll1bnRTRUhGcGRQWU4tanRzSzJWcU92bk50R0dDRWNXaTNsZw?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-08-17T14:26:54+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Govt",
+   "amount": "400 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "400 crore"
+   ],
+   "alerted": true
   },
   {
    "id": "e97a35ef0a33",

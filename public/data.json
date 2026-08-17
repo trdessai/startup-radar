@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-08-17T21:52:46.258335+00:00",
+ "generated_at": "2026-08-17T22:53:51.035421+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
+  "fetched": 5,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "ed91831677be",
+   "title": "Assurant",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HbVFDZUtXN0NsTm8yRGpXdVdPTmlFNGt0MW9WLVhYc3VBVllNWDgyQ1lSY0hsUEFKenFBTzJYbEJUT0YyYXREd0dpXzUxZw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T21:53:07+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Assurant",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f2f37a7c4e4",
+   "title": "Pahal Financial",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aR1pveW4tLThEQnNxVlRabVVDbWdDWXhhNkhsRUVHQlZqR2ZWS0xGa2hNQXdfd3BCMjBET0xtWDA2NFRlTlp3WHBvZ0RReFZZNW9uMlJ2QQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T21:53:07+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Pahal Financial",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b6319cab4a04",
    "title": "Bombay Shaving to handle D2C biz for Colgate India",

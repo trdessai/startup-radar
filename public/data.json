@@ -1,12 +1,412 @@
 {
- "generated_at": "2026-08-17T11:55:41.951459+00:00",
+ "generated_at": "2026-08-17T13:56:17.925797+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 12,
-  "alerted": 4
+  "fetched": 65,
+  "fresh": 31,
+  "alerted": 9
  },
  "items": [
+  {
+   "id": "f35e04632253",
+   "title": "Higgsfield raises $400 million in funding led by DST Global at $5.4B valuation",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzl0cDdXYWZldE12MXJMc1lhaFNWV0JkWTY0Z0xmRV84V2dDMlZ5elZHZDhnc1o4WmRmNFRyVWgzOUFNNHlxY3VYM2JyUEx6Zy1mc1A5MExLbGFCTUxIZkRMU2ZIaGZ1T3dKdi1GN3NvZzJRNEJsb1FGc0pjdHpncEJ4OGM0NVVSd3dCd0Qta3EzX1E4ZEhvemZPbUtlS2x5VzM5aGN2UUtBVXZweC1pSlNHc19GVnVxbG4wQk5fUFFTZThsdFpvUzBXOFg3Z9IB0wFBVV95cUxNMlFYY29xcV96YlRPWEJ4UmVEeG9LZnRTMG1IY1JHaDctV2xTeXZwTmttWlpWeXZncHBSWUMweGNfOGtGcTVGR0UyNFNPM2lIRDlsNDNMd2hkMnZxSWt2aXRMQlNFcGpBV3F2WkRzeEJTczM5b2gxWFFCVE9DWHRVNW1jbHJVYWlPaVg2bmR2T3A0dGQ4bmxLRU1NWUFiNDJTRUdibHJ3WmM3YXRFNmNXcW5KTmo1cWhZOGtqTWdqeWNqSUdCU1BMLU41MDlQblFKcTdr?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-08-17T13:36:50+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Higgsfield",
+   "amount": "$400 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$400 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a1fba57ffc17",
+   "title": "Indian deeptech investments reach $11.4B: Report",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjFxS1dIWFZUVmlBaUxYY2xsc1c4UTB1Rnd2Q3JsMUUydWdMd0pSb0w5OWx0MzBBVFNLX1NxUXFQaXozMzVvbDFSeUFpNkpsV0Z1VEc0bm5rRXV1RGoyekZRTVlQSlhqN0dRTG9SY3FSakFvYldlNGlkaGJGSXUyZnB6bFUzX2VEcHc?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-08-17T13:34:43+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "329d3e8a7388",
+   "title": "Lenskart rolls out AI eye testing, raising privacy concerns",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjY4SVRaemdsV01WM1lyVjhhdmNhRE1Zc2dKYW5PZ3dZcmJQdzBGVnZfYlMwd2ZmS0RxUkNEa2FobzhGYmpyUVdCak9nNmlLWTBBemozb2M0cEhHem5VY3ZhY0dHZnpTcHNsaDNXOWwtWHlVTC1MUjlmakNkeWtMeTRxUGpIZw?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-17T13:24:19+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Lenskart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8da7a398163d",
+   "title": "Unveiling the high-powered ETSA 2026 jury; Zepto's profitability push",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/unveiling-the-high-powered-etsa-2026-jury-zeptos-profitability-push/articleshow/133297833.cms",
+   "source": "ET Tech",
+   "published": "2026-08-17T13:24:01+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Unveiling",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ea79e85cc920",
+   "title": "'Our cyber defence must evolve faster\u2019: SEBI chief Tuhin Kanta Pandey launches 2 new portals for digital security",
+   "url": "https://www.livemint.com/companies/people/our-cyber-defence-must-evolve-faster-sebi-chief-tuhin-kanta-pandey-launches-2-new-portals-for-digital-security-11786963774172.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-17T13:23:13+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Our",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ef8ae2c11c66",
+   "title": "Dhoot Transmission",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jN2ZsX3J2ck1NQ2hwMXpRZmw3NnlWQkJ4Z0FTb0MzYnBwcXU0RU1MR2F2eDNySU9NcHBURTFwY1ZIeFdPRmd5SndwbDd1R2ZRc0FVUGNhUQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-17T13:19:22+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Dhoot Transmission",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eafcd3dd2cf3",
+   "title": "Tripura launches T-RISE portal to connect start-ups, global investors",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVpsc0N2aGs5RmZRV09RWkk2UFZsUEhyM0JkMExPVUVLTkdVakxhbDRJa0VOVE1jaVhIeVhXc1M5NGx5cm51c3FtSEp6aElnYjl5NUVCSEJUMnp3OEFraGlLWkgzXzNxeWxhVHhVb2I5NEQ1RUN6dEhlb1VjbE1HQ3QxMHZRWE9YcjVzVVpZSmUtRnNKdlhWN3NaWkluZHY1Z282WGJ4d3E0Sy1CeWxTdzlPQkk3b1Mybm1hV0JqWTUxWWVEbDFNT1lEZ2N0ZDZxX09ZWGVfQ2RrdzDSAeABQVVfeXFMTlhFSENiM3ZFR29SdnZMOENrYl9PdlBucnlSQmlUeGtkTWlrNmhLcXN6WUZmT3RCMFBNUVRTYi10b3gxTFpBN1phWDk5NngtMVB5T3V5Z0toYkgzZDFySkpDb1cxN3M2OHV1NUZRQzlXRXJzc1NtQkNRZXMwTWstWnR1UXNBb1lvX0JuY1NFSGJzMk1iY2JYUXJFTG9xT1BXRUQtN18yNG5rUzJEWnRVQkN3U2tXQmtrS2dobV9TQmxhT1JTWWIxdjJqNGszMHBSYjVfVXM5YlpLYzFJNm9fcmg?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-17T13:12:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Tripura",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "03fd9dfe2092",
+   "title": "Atomberg Gets Board Nod To Raise Over \u20b9450 Cr Via IPO",
+   "url": "https://inc42.com/buzz/atomberg-gets-board-nod-to-raise-over-%e2%82%b9450-cr-via-ipo/",
+   "source": "Inc42",
+   "published": "2026-08-17T13:07:30+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Atomberg Gets Board Nod To",
+   "amount": "\u20b9450 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9450 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "03e9c0465609",
+   "title": "India Has One Demographic Cycle Left: A Blueprint to Turn Youth Unemployment into 10 Lakh New Entrepreneurs",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1RFcVpCVDZkSFZNTUVhbTdUYWF5R2xBcTUxak9OX3RmanVGbmlrTXV1d0pRUnluWDQ0b1lQRnNqMFJaZk5WaXdSVWdXajdtWHZoSVNhTTFZS2FJMnFfX0JlX2JLUFZ0d0FFNVk4ck5BM3hEUVliTm92U2lTRmdYUE5kMUtHR2prT0hEa3kwN3AycGE3bUkyRWxnSQ?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-08-17T12:56:15+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "India Has One Demographic Cycle",
+   "amount": "10 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "10 Lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "244616860b87",
+   "title": "The Millennium Group of Schools Launches 'Millennium AI Creators Championship 2026' to Inspire India's Next Generation of Responsible AI Creators",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDRycXN5bzZxa2pPYS1KOFRQNmp1TFRjbkxRR0I0U2RxNl9aWnA1QTZiemRiUU1WQmhiSjhoTzFtX3RDa2FfZVU2Tmo4ZFhWTnNzamN4Mm05SnJqTmVMbVlxVW1ZRWQzN0gzVlVOT3IxTG9NSnc5UUljLTlURklxeC0tVzNlbEVqb0NLMzNQS1lKMm01WWhuZVIxSzF3ZW1ZSVNEalFHampyOUxrOFhDbjhjVHVycXo3UUp3Y21QUm53MWNfRGpjdTIzZXUxQnZEbWhNR1JnbG80b2tydFJJd0ozR1ZaZWViVGxjU3JobUtFcGxYczBqNWhzNEFZWDJNTGNIbE9pLVA4LVNRWlhubg?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-17T12:49:59+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "The Millennium Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9a158d50a136",
+   "title": "UPI In July: Navi Gains Market Share As PhonePe, Google Pay Slip Marginally",
+   "url": "https://inc42.com/buzz/upi-in-july-navi-gains-market-share-as-phonepe-google-pay-slip-marginally/",
+   "source": "Inc42",
+   "published": "2026-08-17T12:49:22+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "UPI In July: Navi Gains",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "18e2528b6850",
+   "title": "Finance committee wants the govt to finalise digital competition bill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVZfMUR4Umpva19sNVJkMHQ3NjRlWDlOazkwM2xnODQxZXVFTXlqbzZkVVFfY1ZFcE84VXoyTXJHQ05MZG0tZkR1YTE0OUlIUU41TEhRV0JuUF82R0NsbC0yNHZCYWxaN3M4Y3JOUmIySzZYUUVXZHp3R1ZCVmZIeUVES0NHVFhqMGs4c2oyTmQ?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-17T12:45:58+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Finance",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c55ec5279fca",
+   "title": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-humanoid-robot-maker-unitree-to-list-in-shanghai-on-august-19/articleshow/133297402.cms",
+   "source": "ET Tech",
+   "published": "2026-08-17T12:41:22+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Chinese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9e48c384290c",
+   "title": "Indian startups chase emerging global market with physical AI robots",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemh0bnpaWEUxUTgxcU5lWWxCLU1ncmRndVl6X2xBZVozdmVsa2RPb0xBbnFIcTlkWnJlYmlwVDRJVF95MGQ1UzNZQi0yT2E4TTAwd1RGYlo0RHlLZVBOOWF3NGFNRlFGMXJfS3U3bmpzMmpTUmo2WHBYZXpSbnFacko4b1REbFFESlFHSzI3RDJNYXlVTWhDMGpORDNWWjNhM3lqRjFDaThyaHBNWDZCSVlEd1hhdWlZc05uRGd5anhnMzhBVklZTVB5bnhWLVN2MFVBdVE3RkhWSHpp0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-17T12:39:20+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "492741c52916",
+   "title": "zMed Launches Version 3 of its Advanced AI-Driven Critical Care Platform",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlfN0MxYXhOVUktZ1F6eTlURERwa2dFejM5Q01YbkJfeEpXQlhwLVczNU5jSGh5aDNoSGgtbGtYLUxFU25iRkNZSWQzUFFtc1JlVHhiVHRUNFVxbXlQZWkyU3FEZmJZdGRraHBXUDFXclNxckk1NXdsUjZYa1M4V0hXakVEbXJ5dkV6RlNqYmt3OHloZUVwNEVTTVhZRmRwdTBvZ2wxTXp1Y21hcmdSS0w0Mkg?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-17T12:25:00+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fca47f6d259f",
+   "title": "API Holdings is debt-free, repays Rs 1,050 Cr",
+   "url": "https://yourstory.com/2026/08/api-holdings-turns-debt-free-thyrocare-out-of-pledged-shares",
+   "source": "YourStory",
+   "published": "2026-08-17T12:24:53+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "API Holdings",
+   "amount": "Rs1,050 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1,050 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "98d669209d1e",
+   "title": "The Investment Power 100: India\u2019s VCs Shaping the Next Generation of Food Brands",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2tZdzNzZGM1ZHdfRHVkSDhGdmthYzZ1QUNDeDJPZWM0dzNjQzZtQU1LUGFvRmpET0VHZzB5NG5NclEwdUFrZnlPbEg2Y3hTNldaNG51VlZjaVlFSVpmUFZhTmFfaXFreXlWbnFQb3F0VVFqcVNEZFhyUHVKVGRrOGpaX1lpYUZLQWtaYWItemhtTmktdS1fNXZfc2dPT0hDS2lqcnFIWGNIZ1dxNlRGM3B3UjgtNXo5STZV?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-08-17T12:10:54+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "The Investment Power",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a05ec90b38fb",
+   "title": "Livlit Expands Its Mumbai Footprint with the Launch of Anugraha, a Premium Student Co-Living Residence in Juhu",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRGhIOC1XVjlKejFpTWo2bGpJV1dtLWYyU3lJZG9ubHZiaFhTSUllYk1GRjVqT3pqOWQzNjhaR3dCaFZsS3F4b0NyRGM1a01kMkRKRVlKMzhKRTQ1emNxTmpzUGF1Z3NVajlUVVBzTVh3ekZyQmtqblhzNTFYa0loYk9TOG5xSzRPaFFLdGhzdW05bkRKYm0xOTZFMGZkYlN0VnNPM3J4YXRjNTFNMXd4NUQ0YjFhNVhmZkhlOUR5WmFwU2xCU3E2NTFNNklkdzFTN19qdnhBTk0xMFY4bkc3U0tFQm1VQQ?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-17T12:05:46+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Livlit",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f9873aa338a3",
+   "title": "Moloco Launches Global Agency Partner Program with More than a Dozen Founding Partners",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzg3LXdVWGVudG44dGZScGVnbnRmNGRUZm5vd1Y5aW5ieFdvWUxDbEktc0dSRjFPZXZyRXRlSm5mMXFDUklpTEYyRVZSX0dFYm93WlNySFNwZVJ2WVN3UWJrNU1SOHZRUzFna0xRM050NkltcHktQXRUSG5RWmpBX2QycDFobzNUUUVtbWJmNTVrcXZDeS1Jd3RwUFFyR0lDdHJ6MjJjeDZIV3c2ay1QLU9MYUdjZWZEU1JScGhUYmVxTVhDSEpB?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-17T12:05:36+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Moloco",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "510918966ac9",
+   "title": "Beyond hiring: How Myntra is building longer-term careers for women in tech",
+   "url": "https://yourstory.com/2026/08/beyond-hiring-how-myntra-building-longer-term-careers-for-women-in-tech",
+   "source": "YourStory",
+   "published": "2026-08-17T12:05:08+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Beyond",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "987db5365ac2",
+   "title": "Funding|Financial News|Funding news |Latest Funding News India|Angel Funds for India",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xR3kyNjUwOGFTSlJzZUJvNnNaRU1ldXdfcjFFUVZjRWdLeHRQTF9MQ3NZTl9XQ0dudDFIRmFfeDNCZXJwTnc1eFRHdHlVbFprTHpOdVlKeC1GdGd5RWlJanJxaw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T11:58:20+00:00",
+   "score": 52,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Angel",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "caa44d1fdd29",
+   "title": "Karnataka HC: Police can freeze bank accounts without court order",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHF4SWVHaUFjQWpXU25ZOXRvWnFkLV9uZWEycUJ1ejZ3WDJUX2ZnZnF3VkhPdG02N2RYM0h1UnRwUFFrZW1CaTNubmZGM2ZpNGVDbzNoNnZla19Yd0JlYUJtYXlTSFloWmZoLXc4WUMxa3FBSVZkelBCb1ZjNU82RjdyOGNKQQ?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-17T11:56:47+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Karnataka HC: Police",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "48ea2ff92493",
+   "title": "Qatar Post launches UPI remittance service to India",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa1hLT2pUZnNxdXBKLTZoZjRSZzBxUkExbERLdXVMZURBRWpiQVJ6TnNrOTR1dXdWaUduY0l1Ni1xcW1OZ1FkMFJWMU96RkMxeWppTmVNNnZ0LUJ2bUVfM3l3RWlmZ1dzMEZpaEx1NXhFa0c0bnVGbFNvc20tWTRCMl9DUzNGdw?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-17T11:41:43+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Qatar Post",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "66f8fe796d4b",
    "title": "Archies Launches ThreadsThatBind DVC Campaign, Bringing the Emotions Behind Raksha Bandhan Gifts to Life",
@@ -166,6 +566,23 @@
    "alerted": false
   },
   {
+   "id": "ba3e3a141edd",
+   "title": "How Hospital Billing Format Can Affect Your Health Insurance Claim",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWc3bGVSYWRJU1dQWkw5RlhyY3lTSmdMdTRwSGRhUUp5WWR2TTdLX1o2bUFRMXpwQmhsZ1pCWmZuZlphSW4tUXF1c1htUFhkWi1KSFRlREs2YmhqSEluU0tIM3MzdVUyVGJYdWNNZktIY3JyanF6X3VXTU9oSld4WHBUUXVnbkRucnBvc2Y5WkNXSkpr?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T11:07:13+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How Hospital Billing Format Can",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "3bc9a56d9cd2",
    "title": "India is opening its satellite market, but wants room for local players",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSy11ZjBsUkZySHlBM1lwQXdIWm5YdXlHNkNfVjFJTTNpcVpCZnlfS2VMM0dYUkVIUEtqejRvY3lOQ1J1WHE1RzQ3YnhWd2ZQTXk1VTltcUo0cFRoclNKRElUV00zeEZFcUJNSXp5cTJOY2dxUnhvd3VtU0k5eThfekNLYnlsVlhvblZiR2szMDRrdk1BSWhyZTRlUG9WdTJHS0o3SEQteVpZWUliV0ZhUHJRTDFpY3ctWUU3LUdSX0xDbnYtUDhaME1n0gHPAUFVX3lxTE92MTR5Vmp6M3RjMG8yQTBiNnJwY1RfMGhNWnpIS2FKRHpMMVZoNlZLVlhWQkVVbUZZeEJTeVo4Rm1UZ1E0cWlXYVI4dkRuVjQweWVNYUFUbXR2SXZXYUVjNEdnRmd1LWhhN3ZJYVg0eWItWmtVOTBoRWhkaHdIenNlblQtb0JTRUxfaVk5c3RwalFPVmExUHlZTVdDOHFwOWFDaUxodEFxQVRhZ0I5cnBjb0ZKekdfTzlTMW56QmpVQkdIcEN3Y3AtcDh1UENiWQ?oc=5",
@@ -199,6 +616,59 @@
     "$410 Million"
    ],
    "alerted": true
+  },
+  {
+   "id": "49cfaf40b1ca",
+   "title": "Haryana Unveils Rs 147 Crore Startup Boost, With Focus On Women-Led Ventures",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUszejU5ajZlUGdreDFoYkpfYnIxYlhMQmhxQnRGRDMzSkdvVnhYVUVRY1Fndll4dTN3UGNRWUItRVI2ZlpvX2lKZG1OX3cySGhDdmJFMW8yamFUU2ZsUl9RZ2VpS2ZSOU40cGZSNERSN0dRei04eXFQUVJzRzd0M2pYN05KM3VFVXhNVHExdkJiVm15ZkxqQlJ6Z2gwN21OLVNlMFg5M1NoejAwaHotb09yODBudUhkTW5BVXZROHU5cGxnOG8wYWJqb2tRRnpYR1pXQjBjaw?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-17T10:42:14+00:00",
+   "score": 77,
+   "category": "launch",
+   "company": "Haryana",
+   "amount": "Rs147 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs147 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "151d5fe4d71d",
+   "title": "India's Space Startup Ecosystem Grows as Private Investment Hits $618 Million",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUGV2ZFBlSXRyVGdRTy14TmpzU0xfWGtJREJwTVU3Y3F4M055RGlfbUFKbGo0TFJLMGdHb3EwVmRSV0NXMzBPU1pLM0RmU3RaaXhUeUNBUjIta0puTm5OUFpvUkxHbEtxVkNidWlrZ1pGcFZXaDRqd3Zwd0xtUm4tTzlwTWNHRkxhVVpTYWpueGdfNTl0ckRBQTVkTGl4T05EenY3SlNUR01aRUhkUGlSVFdYaDhsb3VicGRqeHh4ZksxVVV3LVFKenR5ZGVZNVFUZ1VvTDhxemk?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-17T10:42:14+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Space Startup Ecosystem Grows",
+   "amount": "$618 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$618 Million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8deac864aec9",
+   "title": "Pahal Financial in talks to acquire PE-backed troubled NBFC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTZHaXJTbmphbXN2dXVuV2hpQkhHU3U0M1pNR2V2TXdWZnJHTzdrMGVTSVpndURjTFZhVHlvT1lqOGIzdkVtYUtadm82UFZHSHctLWFjSTVBSzFZQzRSZ2QzX0c2Y0MxZU1QMzUtb2NxcU5FVElnYk8yWEtPblNVb0o5RkczSXczV0ww?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T10:39:29+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Pahal Financial",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "5125cb250aca",

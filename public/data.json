@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-08-17T13:56:17.925797+00:00",
+ "generated_at": "2026-08-17T14:57:05.589388+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 31,
-  "alerted": 9
+  "fetched": 64,
+  "fresh": 9,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "e97a35ef0a33",
+   "title": "Karnataka announces Rs 2,500 monthly incentive for every new job created by entrepreneurs in 10 districts",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGphRFlXd2g0MTlEelh2NTRRN0NFR2xOZlhFRTVCUFVKbVZLbVhEMGZNSFBYRUx0N3Vxemo3elJGakppQWgtUjA5LW1ZSVlVb1dnMUNuTkxhcnVhZVB1UXN4QjB1S0J2aXBNSkkxZ2UySl9raG82bEFSR3haa2ZGMVV6VUxTcDY1LVd0OXY3Z2E3NXVKSDNGeEdrcDNZbkNYMFFCbTluUHdsOGlnWS1zYmRNZDNyYnN4SG5OUURnaDlqeXUwUVI3SnVCOERjTVRWWl9wVzdNSzhaaktUdzJCdHVR0gHiAUFVX3lxTE5EamFEWVd3aDQxOUR6WHY1NFE3Q0VHbE5mWEVFNUJQVUptVkttWEQwZk1IUFhFTHQ3dXF6ajd6UkZqSmlBaC1SMDktbVlJWVVvV2cxQ25OTGFydWFlUHVRc3hCMHVLQnZpcE1KSTFnZTJKX2tobzZsQVJHeFprZkYxVXpVTFNwNjUtV3Q5djdnYTc1dUpIM0Z4R2twM1luQ1gwUUJtOW5Qd2w4aWdZLXNiZE1kM3Jic3hIbk5RRGdoOWp5dTBRUjdKdUI4RGNNVFZaX3BXN01LOFpqS1R3MkJ0dVE?oc=5",
+   "source": "indianstartupnews.com",
+   "published": "2026-08-17T14:20:12+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Karnataka",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ef9ec4d9d11c",
+   "title": "5 Books that explain why we compare ourselves with others",
+   "url": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others",
+   "source": "YourStory",
+   "published": "2026-08-17T14:10:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "28f24c0664d5",
+   "title": "Exclusive: Peak XV Alum Saksham Mittal\u2019s Corpus Labs In Talks To Raise Funding From Stellaris",
+   "url": "https://inc42.com/buzz/peak-xv-alum-saksham-mittals-corpus-labs-in-talks-to-raise-funding-from-stellaris/",
+   "source": "Inc42",
+   "published": "2026-08-17T13:58:37+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Peak XV Alum Saksham Mittal\u2019s",
+   "amount": "",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "f35e04632253",
    "title": "Higgsfield raises $400 million in funding led by DST Global at $5.4B valuation",
@@ -95,6 +148,23 @@
    "alerted": true
   },
   {
+   "id": "ded08f574546",
+   "title": "Central Electricity Authority - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tM05hOXBGUjZ2a1gxaUZfSy1TU09LNXZsWWZPVE10b2J5cEpUZkdRX3d5dXBjOUJPQzJtTFhXUzNkb2RsX2xTVzlaMmJEbjI4WklHWHdkUGtCVFhoaXNYREx1Y3AtTGpsNmlYMg?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-17T13:20:06+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Central Electricity Authority",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "ef8ae2c11c66",
    "title": "Dhoot Transmission",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jN2ZsX3J2ck1NQ2hwMXpRZmw3NnlWQkJ4Z0FTb0MzYnBwcXU0RU1MR2F2eDNySU9NcHBURTFwY1ZIeFdPRmd5SndwbDd1R2ZRc0FVUGNhUQ?oc=5",
@@ -110,6 +180,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "5b130cb094c3",
+   "title": "The soft launch games you need to know about from EA, Tencent, Moon Active, Take-Two and more",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
+   "source": "Mobilegamer.biz",
+   "published": "2026-08-17T13:15:04+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "eafcd3dd2cf3",
@@ -143,6 +230,29 @@
    "reasons": [
     "no clear event",
     "\u20b9450 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "31158c8ac5e0",
+   "title": "T-Hub Launches Deep Tech Founder Fellowship, Selects 14 Startups",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGlZdjBkMzFfVTNZSG5JT0lrSWZPRnNBM2VrNngySU5GVktsblhSNml3RzN4QXY4NlFpNDVfVEp5cktQTElOU2szVWNSMzFLdVZOOVFkcG5hRExCTEV3Z09vY1NSV3UyRnhuRW51dWhaNVRpR1FKQW8tWkdKUWJlTFlEc2JfVXJmVlJFRlYtY2VlWDRWVnktdkZMOWVKbTZMZFFPaE5mM1g5NkFPQTVHUzNmcVhQTVU?oc=5",
+   "source": "Entrepreneur India",
+   "published": "2026-08-17T12:59:22+00:00",
+   "score": 23,
+   "category": "launch",
+   "company": "T-Hub",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Launches Deep Tech",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch in headline",
+    "listicle/opinion"
    ],
    "alerted": false
   },
@@ -190,6 +300,23 @@
    "score": 24,
    "category": "other",
    "company": "UPI In July: Navi Gains",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "45495dc34e2d",
+   "title": "Tata Capital Healthcare Fund, Swiss impact investor bet on Tenet Diagnostics",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0lVNFQ3OEpBcUtmTXRlcFoxcDY0d01LaVJsVXFYcmEzZEw2dTlQSmFvQWYxdGhTX0k2eldTSG52WHpkYXBzMlVIRnhIUDRxQmVPeUlvT2lYdmgtdlgxdGViUE9nRTZBejc0WDdzeVA4M1RNT3BFM3hyLXB1VTVGSVh3T0J3a3lJYk5VOWlvY0t4SXFJSTJnTGJGbHB0NlJl?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T12:48:28+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Tata Capital Healthcare Fund Swiss",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -247,6 +374,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e55fe0d4a512",
+   "title": "Accel, Bessemer reaping multibagger returns from decade-old India bet",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnZFYVdGdVFNa1dHY2trQ2hsSENtYXlHeGtleGhtQ3p3UnlNZVhVLVJUa1ZJTWluZ3RzT3o3ZFZYZ0pubzhORGVKbFpqSE9FN0NvREhHOG40dlhHd0xXSExKMWNuSlNMTmxCeTFsYVh4N0VncnVCR2hNMUVIcVcyTkQwemN0bzA5YnZwWXZxdTc1X1FkdGNv?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-17T12:26:52+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Accel Bessemer",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },

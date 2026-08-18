@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-08-18T17:59:59.952693+00:00",
+ "generated_at": "2026-08-18T19:18:27.263635+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 23,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "a00448144b1b",
+   "title": "AI Personalization Startup Malachyte Secures $10M Seed Round for Real-Time E-Commerce Recommendations",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmxhUVJ6ZUpjR3RwRFhULTFtLXJSWHFBVnExU2czZlRCbDg0U0RZTUdkb1VuU2hWalBIS1Y3RWt5SGFKLWFiMW5PNGttbWFkMzFlU0c0VjJ3eGdVRWMxRC10TzlCaXB3OVk1eXpVUFl2TGM2U1dXcGNQcDVhWGdrNHNmTWhOMXJKcHMwZXE2Q2Rnb0JqbmVmR3hOVFlPSkFGQUw3ODlJQkt5SVI3ZDZ5SF80Y3NUc3FwS2w0RlR6VWxNcnpMMzd2Mjl0VXZaVHZEdnVXbg?oc=5",
+   "source": "theaiinsider.tech",
+   "published": "2026-08-18T18:57:07+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Personalization Startup Malachyte",
+   "amount": "$10 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "09af45b71e35",
+   "title": "Atravelq",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9randVUkNTTzR0dnRUREZfVnpDS0ZXeXRMTFJlOWRkR2lpZ0NISk5seFJPTzhmUi11bGl0T1BySDRoUGNIMEQxYnkxdXNUdw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T18:45:54+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Atravelq",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "95bfe28fe5a6",
+   "title": "Chinese startup Unitree unveils \u2018Superman\u2019 robot, faster than Usain Bolt",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-08-18T16:44:45+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Chinese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "3f56ec0abd68",
    "title": "Resilient Asset Management Offloads Paytm Shares Worth \u20b92,949 Cr",

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-18T17:01:15.886020+00:00",
+ "generated_at": "2026-08-18T17:59:59.952693+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 43,
-  "fresh": 8,
-  "alerted": 0
+  "fetched": 28,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
   {
@@ -24,6 +24,23 @@
     "\u20b92,949 Cr"
    ],
    "alerted": false
+  },
+  {
+   "id": "ce07799d706f",
+   "title": "Invesco MF launches India Pharma and Healthcare NFO",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFdiYko5OW51aTZJbzdpU2U1eGczd0RaeUtkb1RPU1FQOGk5WWFNTTJJS1hxV0QxWHM3N0Nfcy04VExRRk9OWVQ3YV9EYXNJdnJpU3dWaXNhYllJdWwtV1ZHd1IxOU0xR3NPNGZXMFo0V2h2ZVBPQTJYOW5CZ1FEV3lDdWRlMnhFSlFhWkljYlhxSUgwSHBLM2llSlhHeWdVMElPbXBRQmNDYk1EeHZwdnlfcC0yUlXSAb4BQVVfeXFMUFQ4VVdod3lhMm5MWDVwU2JGczdFZkMzTkhzamI1Q19DX3YwRmphWkJ4U253X211ekUwTVZoNkNlQW1vUEZnUDU0VEhLTl9wRlJmZzdzUkUxNU9hTmJpemNCMk15ZmxOVUpvTk9TYzM2V3RqYi1nU0o0VnhBZXA4ZFk4ckhXSVNuMUFkTzZjN3JKV1pBbVdnVUlhdVZtUFlEU3AyWUFZQnZfNkJJaEFIYkd4MzA4ckJuaVJma2gxUQ?oc=5",
+   "source": "thehindubusinessline.com",
+   "published": "2026-08-18T15:50:36+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Invesco MF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "ccd6fbdb3efb",
@@ -176,6 +193,23 @@
    "reasons": [
     "no clear event",
     "\u20b911.9 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "01b910cfa75a",
+   "title": "FMCG Giants Pivot to Quick Commerce for Growth and Premiumization",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmNSY3VwVl9YWE15MmRhajZSTGVLVF9BbkNXM0dFQ1IzYzRzMHNCWlJwOU5uWHdTWVhmbTUyYjd0QkZNWUtOZzl2NGRfaGhyaWNacVZIZHlDSldMUXhyX1ZtQzUxWXlZYUo3c0tRNTZZT1hLOFJ2cE5aVzEwV1hfZnBoc202RXR0VVFJU3ZqS3Q2ZzhXbktzQjNlUzZlM0pjWjFvejduZjJkWFFuN2hGbmlCNW1hVlh2YTlGWTlEdkJkV2VHdE4wT21qUjJyVXhLNjVwR2prQ2xLZnJzQW9SbjFB?oc=5",
+   "source": "whalesbook.com",
+   "published": "2026-08-18T14:48:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "FMCG Giants Pivot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },

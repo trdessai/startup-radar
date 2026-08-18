@@ -1,12 +1,283 @@
 {
- "generated_at": "2026-08-18T11:55:49.855278+00:00",
+ "generated_at": "2026-08-18T14:05:40.365837+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 12,
-  "alerted": 4
+  "fetched": 67,
+  "fresh": 22,
+  "alerted": 11
  },
  "items": [
+  {
+   "id": "8b55956384a5",
+   "title": "MobiKwik Infuses \u20b961 Cr In Lending Arm, Appoints Ex-Bajaj Markets\u2019 Manish Pathania As Its CBO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXdReXlLMGJIVDR0U1pteVRlMnlBR09jR0gzZWU2bXEwMWFvSjZvdU12WjZBaGt2RV9EOU15NXNWY09pTjJXeUZhT0E4dXRteENnZkp1T1NYVlI0QjFzblNBSndxYWxuRlh6UTVmMFhkOVJjeDc2aXVFUHlCMnBURnduaWlMQm9DYzlXdjVsaU1rRlE1b1B5TG5raDk3aURQeXZ6V2tGNng4b19CVUUyVnlra1JrNUlfYm1aNE5hUDk?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-18T13:43:25+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "MobiKwik Infuses",
+   "amount": "\u20b961 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b961 Cr",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "13421295d661",
+   "title": "Meta more cautious on CSAM after unequivocal govt message; action visible: IT Ministry sources",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-more-cautious-on-csam-after-unequivocal-govt-message-action-visible-it-ministry-sources/articleshow/133323873.cms",
+   "source": "ET Tech",
+   "published": "2026-08-18T13:23:45+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bf075086195f",
+   "title": "Kissht co-founders\u2019 AI lending tech startup Rezolv raises $12.5 million in Series A funding",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2tWb3ExNm5GbkxlVkU0YlpjMkM2TEFwNGM5VVhoeTZYU3dYSHl1OUxDTm1mMWNBUm1BZmoxOG41b0hXZ0RyeFRnNGQ0c01Va2d3bjVlanh5SklhMy1IcUIwVmJ5NXVIQ3J4elM5Ump1T1FJejlNVXlQQ2l4MVdRRVd1OXdwT0I5TVl0bU5DQ1NvNWM3S19oUFpzQnJvSzliWFRwVWtzTWtzOWZhMnpwWEZMcU1BZFdKcnhqWkJlR3RVbVJMa3lIUHFGMXlKR3No0gHQAUFVX3lxTE1fa1ZvcTE2bkZuTGVWRTRiWmMyQzZMQXA0YzlVWGh5NlhTd1hIeXU5TENObWYxY0FSbUFmajE4bjVvSFdnRHJ4VGc0ZDRzTVVrZ3duNWVqeHlKSWEzLUhxQjBWYnk1dUhDcnh6UzlSanVPUUl6OU1VeVBDaXgxV1FFV3U5d3BPQjlNWXRtTkNDU281YzdLX2hQWnNCcm9LOWJYVHBVa3NNa3M5ZmEyenBYRkxxTUFkV0pyeGpaQmVHdFVtUkxreUhQcUYxeUpHc2g?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-18T13:07:49+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "Kissht",
+   "amount": "$12.5 million",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$12.5 million",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3e4259cbfe9e",
+   "title": "NeoGeo Bags $20 Mn To Scale Its Full-Stack Geospatial Business",
+   "url": "https://inc42.com/buzz/neogeo-bags-20-mn-to-scale-its-full-stack-geospatial-business/",
+   "source": "Inc42",
+   "published": "2026-08-18T12:56:24+00:00",
+   "score": 94,
+   "category": "funding",
+   "company": "NeoGeo",
+   "amount": "\u20b9191 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9191 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8fc3ae50ffb4",
+   "title": "Bengaluru-based Atom Group acquires Dubai\u2019s Amaltas Partners",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXExdEdNVHVyWkVUNklyVzVESFd4N3NFbmIxOG1USDBMeWlVUmhuVEdSWGUtZmptZHVOSGoxbS01djJmMkNhUEVxYnJwM1M0N3RoWHRhaTdnY2JSOWtCNzNxaGhnSV9INXJ3UWZaam1pNmktb1RWX1g4TFE0ZFY0eVctWHNGcHF3bF9ldw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T12:46:47+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "Atom Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f0cb2fa86d71",
+   "title": "Delhi HC tells Centre, CBFC to review film accessibility",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yQWVRbzNlUm1YQkhfelBaVHVnd1FWcnNLNkxMS3BfcmQ0LVE2eEtNZ0xJSXpmUW9TMC1wSTdvaER0NXRHRTNqTDEtZy01ZXVjR0xaMmpUX01pdnBWVHhjdVhEeDBldDlvb3Zwek1QdEFWNDFZZERQeXdVVXhMdHM?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-18T12:35:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Delhi HC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "17771cb10b4a",
+   "title": "Peak XV Partners, Together Fund Join Voice AI Unicorn Wispr Flow\u2019s Cap Table",
+   "url": "https://inc42.com/buzz/peak-xv-partners-together-fund-join-voice-ai-unicorn-wispr-flows-cap-table/",
+   "source": "Inc42",
+   "published": "2026-08-18T12:35:06+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Peak XV Partners Together Fund",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "42f1cc59b383",
+   "title": "Godrej Industries enters private credit with $209 mn fund",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDlpaXhHZmVtYzNybmlTWm5QMHRleEYxSGd2TkJhY1BOT1pwVkxNUDNsU3E1Ni0ydHlsbS1kUU94WlJiQzN2QWlTSU16b2dGRThRS1I1U1JZUkM4NjJuRVRoYUtyNWxJbUt1cDZMVEFCSENSeEZEWG5KeW96MHM5aGFUdE9XZVU?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T12:31:28+00:00",
+   "score": 66,
+   "category": "expansion",
+   "company": "Godrej Industries",
+   "amount": "$209 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "$209 mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5eb91f7dcde3",
+   "title": "Geospatial startup NeoGeo raises $20M from Neev II Fund and Aavishkaar Capital",
+   "url": "https://yourstory.com/2026/08/geospatial-startup-neogeo-20-million-neev-ii-fund-aavishkaar-capital",
+   "source": "YourStory",
+   "published": "2026-08-18T12:30:29+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Geospatial",
+   "amount": "$20 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3f094d76c69c",
+   "title": "Chandigarh-based traveltech startup Atravelq raises funding at Rs 10 crore valuation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2tIdGludzdrdXhPc2pRTld6SHE2WTlQS0JIZ2Y5U3c1amg2RGFmSlZ2Smh2ejZKU2dZWG4yX3lVY3U1X2hKX01nTWtKZWx3WVh1Z0s0SW5tcDVBQ2E2ZURUSVg5Skx0S2NDMzk5dTQyaXE1SzMxRWhla2ZyZXpOcVpfNHphNmN2Zmh6X2ZhM1IzeVZETzlDZzlVRWJlbHlGWmd3T09WeEdpSkNtVG54XzFvdGtfUm9iXzVDd2NLdTAyNFUwU2NBN0NEZ9IBywFBVV95cUxOX2tIdGludzdrdXhPc2pRTld6SHE2WTlQS0JIZ2Y5U3c1amg2RGFmSlZ2Smh2ejZKU2dZWG4yX3lVY3U1X2hKX01nTWtKZWx3WVh1Z0s0SW5tcDVBQ2E2ZURUSVg5Skx0S2NDMzk5dTQyaXE1SzMxRWhla2ZyZXpOcVpfNHphNmN2Zmh6X2ZhM1IzeVZETzlDZzlVRWJlbHlGWmd3T09WeEdpSkNtVG54XzFvdGtfUm9iXzVDd2NLdTAyNFUwU2NBN0NEZw?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-18T12:27:25+00:00",
+   "score": 58,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs10 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs10 crore",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "341975318ec9",
+   "title": "NeoGeoInfo, Rezolv, LISSUN, Atravelq pocket early-stage funding",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2hYOXhIbUhIdEhQbHBfSERhUHYwaTg4VEUtZU9uQy1nSXFhWllwdW5oNmczVFluTVZxckJjOVIxT04yTVFGbVpjaE8tLWxqc0VWSGFlVXd2T2ZFMldBWkxsbXZuc0x6NFJOM0lBM1dFNlpfd2FoQWUyUWhMNXlSdVBvMDI3MVN1RmFTRFRxYW9NYVZGTFMxSldOWDgxYk1OZUhyM0p0S2JQZ1dIQ19wZWFUNndzdXJ6QklpTDYtYWo?oc=5",
+   "source": "htsyndication.com",
+   "published": "2026-08-18T12:27:13+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "NeoGeoInfo Rezolv LISSUN Atravelq",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b07504be058e",
+   "title": "Space Raises $2.4M Led by a16z Speedrun to Build an AI-Native Filesystem",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblpfSk1kTjNsb3BKbFJpdDNqLWg3ZUpkR21vVG9VaUNDa0k3am9aWDg3dU05eE5seE5KcGlxSU5BRS1KdlhJVk5oNkFEZFRxQXZkUE9hVDFhUWV3RkRYNUVhT0J2YUtGMmhJSHlxS1F6UWhJa2RpSmxrMzVlclJMbTJtUFpkUUFrVC1EM1JkZXcxa2tia2pIT0Z3?oc=5",
+   "source": "HackerNoon",
+   "published": "2026-08-18T12:17:42+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Space",
+   "amount": "$2.4 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2.4 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c45b7a1745bb",
+   "title": "DeHaat\u2019s Honest Farms Raises \u20b935 Cr To Expand Retail Footprint, Product Portfolio",
+   "url": "https://inc42.com/buzz/dehaats-honest-farms-raises-%e2%82%b935-cr-to-expand-retail-footprint-product-portfolio/",
+   "source": "Inc42",
+   "published": "2026-08-18T12:14:04+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "DeHaat\u2019s Honest Farms",
+   "amount": "\u20b935 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "\u20b935 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2ab724bd8741",
+   "title": "Swiggy names new CGPO and CTO for Instamart; appoints COO for Food Marketplace",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjFHbzRIUEdwc2hwYm1MZ1dfandsSjltdGlYYzJwdmtxcVB5cGJqamZaQkV3QU9iY2RSczBDSWpUUFZmVDBxd0hxeG1IaXI2ZkFkNHJwRVhlZVpreUVpdm8waTRxV0JtRlBGTmJqd0NjX2JpNTltcVM0UUNzOE1KbVdVc2xkX3VVR2c1TzVGaTVBNWI0eU84aUVnOUJzU2R4NEJmS1ZYLWpHSzZXRS0xU3RXTGVzOUnSAbcBQVVfeXFMTzIxR280SFBHcHNocGJtTGdXX2p3bEo5bXRpWGMycHZrcXFQeXBiampmWkJFd0FPYmNkUnMwQ0lqVFBWZlQwcXdIcXhtSGlyNmZBZDRycEVYZWVaa3lFaXZvMGk0cVdCbUZQRk5iandDY19iaTU5bXFTNFFDczhNSm1XVXNsZF91VUdnNU81Rmk1QTViNHlPOGlFZzlCc1NkeDRCZktWWC1qR0s2V0UtMVN0V0xlczlJ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-18T12:02:23+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Swiggy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "57e4f49b173b",
+   "title": "AI voice startup Wispr raises $280 million, nearly triples valuation to $2 billion",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0R0bXRTa1lvUFQ3UlZzdTI1ckd0bGREakpDcUpabXJfNVhhaEJQa0w1dU16WWNpR09iMFN4WmozM2FzUmdnN0loT2N2bEl0Y3FkOUwyNXhvclV5SnJGS1NlNUd1cDBGY3BVTWF2VTBCVjFqWWRjUk1hd2x0dDZZUC1mQ3BJZktVOU1OMmRVVHNtbjBUVlJUUld1dDZNbEd6UHNHSnA1NFBhOXlCLWl2SzQxdUhITW1aRW5OUzlUSUlNWG9U0gHEAUFVX3lxTE5TRHRtdFNrWW9QVDdSVnN1MjVyR3RsZERqSkNxSlptcl81WGFoQlBrTDV1TXpZY2lHT2IwU3haajMzYXNSZ2c3SWhPY3ZsSXRjcWQ5TDI1eG9yVXlKckZLU2U1R3VwMEZjcFVNYXZVMEJWMWpZZGNSTWF3bHR0NllQLWZDcElmS1U5TU4yZFVUc21uMFRWUlRSV3V0Nk1sR3pQc0dKcDU0UGE5eUItaXZLNDF1SEhNbVpFbk5TOVRJSU1Yb1Q?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-18T11:57:17+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "",
+   "amount": "$2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 billion",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "586027b367f7",
    "title": "DSP Finance acquires Volt Money to strengthen digital lending platform",
@@ -23,6 +294,41 @@
     "acquisition in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "ed65efa0bb88",
+   "title": "Torrent Gas to file updated draft papers for up to $418 mn IPO",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFlfUDVZOUxzMjhYYzA1TEVPNjdQX3dPWEJ6b0l3RWx6MTRIR3BaOW45Yzl5UVpQOEVCOVlSUkg0S2tfR0Nrb09rbUlWU1VLaFJNNUxjaE9zUTh6dEdqWjdPMTJuYndHbG5ldzVEOGN6el9UT1Zna2QyU1FhdXVXcHZQWWVYNkFOVGVubldn?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T11:47:09+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Torrent Gas",
+   "amount": "$418 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$418 mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b249cd991fa6",
+   "title": "What US Citizens Investing Abroad Really Owe the IRS \u2014 And Why Most Get It Wrong",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelpuQVI0VVhxNjF6OXdPR2xSUGk2WXBySzNOa2VTSVJHRGYtcU54cGE1Xzd4RWZGNUt0eVVBZm5uYUNzWlFoVTBTUmRGOXIwZDFnMFZNUDlLVGRSdEEtU1h5WXdMYk4zcFNJYlpqNjh3MnoxQ3B5VkZrM2JETjFhdkE0MTc4Q185Nk5FV29uTUt1UlpKX0dNMHROZmtramVBdEwwcw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T11:47:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "What US Citizens Investing Abroad",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "d7cafb513eab",
@@ -93,6 +399,23 @@
     "question headline"
    ],
    "alerted": false
+  },
+  {
+   "id": "93437cae6751",
+   "title": "ESTOQI Introduces the World's First Made in India Pesticide-Removal Technology - demonstrating up to 99 Percent residue removal",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMEJFbm1XQVVKaVFpT3EwSzVUV1U5WWxRanlyVTEzMWFjUzlHODZZUGtzR2hXbm5FbnhBWUIwVFIxcWpic2xYZzlVRFJCUFdMT3FMWEhSWGViTkRkRDEtY0NZSnVWTXVFTjNrQUFOQVNxamt0dHZRYWp3UWJRaldIWG9Idy1USU9YOFp1NGtadjRpbGdBcGZBbzRTQTNVNk1TYS0zTVpWODBHTFQ0M1ZCYndTM0lWZUNQLU1hMmlfZlpIdm5WVWFoUXgyQnJ1SmlXTExsY3RjZkh4bERzcHNqY3hEUF9HLWFUS3RlWnlBRHI3YkYtRTFITEhJaHNsbUdXRlVmQUtn?oc=5",
+   "source": "aninews.in",
+   "published": "2026-08-18T11:19:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "ESTOQI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "684e3e520874",

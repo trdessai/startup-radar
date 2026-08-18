@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-18T19:56:22.936062+00:00",
+ "generated_at": "2026-08-18T20:53:27.170830+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 11,
+  "fresh": 3,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "126826afc225",
+   "title": "Meta rejects allegations it sought to hook children as landmark trial begins",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-rejects-allegations-it-sought-to-hook-children-as-landmark-trial-begins/articleshow/133331975.cms",
+   "source": "ET Tech",
+   "published": "2026-08-18T19:57:10+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b9af28a37c12",
    "title": "Digantara launches sovereign space-surveillance network MOSAIC",
@@ -42,6 +59,23 @@
     "Seed"
    ],
    "alerted": true
+  },
+  {
+   "id": "1cfc1f15d3ed",
+   "title": "Omega Seiki Pvt Ltd",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhLVF0aXVDWDIzWlFjXzN5U3RtamFGMlJza3htUVdMZFNFREZNQm1XcWZJcEstenZZbVQtclFNeHcyUFZ2S1V3T3FFX0NWVGFwYWZZUThSZDA5SjA3d1dIY1BR?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-18T18:48:04+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Omega Seiki Pvt Ltd",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "09af45b71e35",

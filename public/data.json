@@ -1,12 +1,134 @@
 {
- "generated_at": "2026-08-19T05:04:10.838847+00:00",
+ "generated_at": "2026-08-19T06:01:48.363298+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 16,
-  "alerted": 5
+  "fetched": 35,
+  "fresh": 9,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "743db97bdfeb",
+   "title": "Swiggy shareholders greenlight proposal for Indian-owned company status",
+   "url": "https://yourstory.com/2026/08/swiggy-shareholders-greenlight-proposal-indian-owned-company-status",
+   "source": "YourStory",
+   "published": "2026-08-19T05:51:01+00:00",
+   "score": 54,
+   "category": "product",
+   "company": "Swiggy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "96786ca803b3",
+   "title": "DigiHaat launches Its first Rakhi campaign \u2018Rakhi Ki Tayyari\u2019",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtrcm9aeDhJWEtFMEZodnV3NElGSEdla1BVUGZZZTJ5dm5QV2IwQ3VoZlFoemx3RVVsTmxucFFwMDU1VXh3SmRnZTlFdU9qZUxSS3JFTlljT3RBSWdXRVVNOVdkQ3MzZGNxWFZJcVBPOWpSRmNEYlRDakZ6TzlQLWdnVkxyaXVkd2Z4azRhTlVsNWlGQVVKWUp3?oc=5",
+   "source": "Adgully.com",
+   "published": "2026-08-19T05:45:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "DigiHaat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "19feff22d099",
+   "title": "10 Life lessons we understand only after making mistakes",
+   "url": "https://yourstory.com/2026/07/lessons-understand-after-mistakes",
+   "source": "YourStory",
+   "published": "2026-08-19T05:45:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "18590c4ef348",
+   "title": "Butterfly Learnings raises Rs 65 Cr in Pre-Series B round led by Inflexor Ventures",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnhUQ0FTSS1FNUlCcXJVWHNpeFJLZWt1T21LZ2VvSE8taGMtVWZObDd1NEJmb3hjWVJJbFEzZHJzeTlUM3BYU25HN2lFMWdONE9sbDI2X3JCSTBPMmwxZWlTYmtHc2ZBSWM3VWtEZ0l3ZmN6VEpEVjU5b29yeXBYaWZPSmsxLUNqRjBvenZONm1yM2NjUjdUZUh4R3J0WTBmeFR1MFJaUjU3WjJXWmp4TGxQVHZ0RzVsajJtcGJ30gG-AUFVX3lxTE9aeFRDQVNJLUU1SUJxclVYc2l4Uktla3VPbUtnZW9ITy1oYy1VZk5sN3U0QmZveGNZUklsUTNkcnN5OVQzcFhTbkc3aUUxZ040T2xsMjZfckJJME8ybDFlaVNia0dzZkFJYzdVa0RnSXdmY3pUSkRWNTlvb3J5cFhpZk9KazEtQ2pGMG96dk42bXIzY2NSN1RlSHhHcnRZMGZ4VHUwUlpSNTdaMldaanhMbFBUdnRHNWxqMm1wYnc?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-19T05:44:38+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Butterfly Learnings",
+   "amount": "Rs65 Cr",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs65 Cr",
+    "Series B"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f34389acce53",
+   "title": "The Enterprise Fight Against Runaway AI Costs",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGV1dYaW5LR2MwbDEtYXVlN3RCbURkMXJZREZSaGdWcXZZQmFDbWoyV3lmNWJjYTk4Vng3ejRHMERLT3JOV3p0YmJxWG90RkVkN2xxNnNpalFKSXp0d1hYQm1VN2tlLWtNTlJaYlE1R3NnaHpkZExWaXJTVnRxUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-19T05:30:34+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The Enterprise Fight Against Runaway",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9f8637311290",
+   "title": "Cerebras launches new server chip and system designed to speed AI chatbots",
+   "url": "https://economictimes.indiatimes.com/tech/technology/cerebras-launches-new-server-chip-and-system-designed-to-speed-ai-chatbots/articleshow/133338367.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T05:26:40+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Cerebras",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4c0ad2e2495b",
+   "title": "What\u2019s not working in TRAI\u2019s AI led spam crackdown? #NAMA",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zb2pJRzExMHJPOXFuajBlLXBFWWVScEtUS2duWVlsUVJvVUJ2TU9yWVpLNkZSeTJrMlpqSXFBaURCTGh6bUE5X2ZfQzFtbGxtZFp1azc5dWpmbHhjZTlIOUR1Q0tJbUV6R0RIQ2Zlbw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-19T05:16:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "What\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "e0f517f8a0a4",
    "title": "KKR acquires minority stake in BookMyShow",
@@ -73,6 +195,23 @@
    "reasons": [
     "launch in headline",
     "$900 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e681181e4f8",
+   "title": "Health food brand Alpino in talks with private, strategic investors for funding",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1R3dmR1aTk5UXZBRXpCOFc5M09Fanp3b215a1FhaWw2cjZFSWhOTktsSHJsNlBucWhMY1ZIM0NET05VNTNDRnVhNEdIRjZXT2ZTY2U1MjZFWjVzWUhBRTVDNUVvbkp1eGRPN29GVnp5TnhBczRTSV9IQkFmUnE0LW1NZXR3eEtGUHkyUG1OY2s0b21VNU5Rd203XzFIc3EwWEtGXw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T04:35:36+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Health",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },

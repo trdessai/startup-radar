@@ -1,12 +1,135 @@
 {
- "generated_at": "2026-08-19T11:54:51.321387+00:00",
+ "generated_at": "2026-08-19T14:05:51.701942+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 73,
-  "fresh": 14,
-  "alerted": 6
+  "fetched": 20,
+  "fresh": 10,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "8260dd027c65",
+   "title": "Sachin Bansal's Navi raises $100M from Prosus",
+   "url": "https://yourstory.com/2026/08/sachin-bansal-founded-navi-raises-100-million-from-prosus",
+   "source": "YourStory",
+   "published": "2026-08-19T13:50:18+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Sachin Bansal's Navi",
+   "amount": "$100 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "73758accf267",
+   "title": "India to probe manufacturing defects in China's Oppo Reno 5 smartphones following consumer complaints, may order refunds",
+   "url": "https://www.livemint.com/companies/news/india-probe-manufacturing-defects-oppo-reno-5-ccpa-refunds-chinese-smartphones-compensation-exchange-11787137065304.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-19T13:49:49+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5df86e60922a",
+   "title": "Shiprocket\u2019s stellar D-Street debut; KKR buys BookMyShow stake",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprockets-stellar-d-street-debut-kkr-buys-bookmyshow-stake/articleshow/133350199.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T13:49:08+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Shiprocket\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e3ff8669e4db",
+   "title": "DevSparks Chennai returns: Explore AI for the physical world, manufacturing, and deeptech",
+   "url": "https://yourstory.com/2026/08/devsparks-chennai-2026-ai-physical-world-manufacturing-deeptech-developers",
+   "source": "YourStory",
+   "published": "2026-08-19T13:04:53+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "DevSparks Chennai",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c39135100b26",
+   "title": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/marvell-gives-google-option-to-buy-12-2-billion-stake-in-custom-chip-deal/articleshow/133349015.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T12:50:44+00:00",
+   "score": 76,
+   "category": "acquisition",
+   "company": "Marvell",
+   "amount": "$12.2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$12.2 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cb02e9ea5503",
+   "title": "Cashfree FY26: Revenue Inches Closer To \u20b91,000 Cr Mark, Loss Narrows",
+   "url": "https://inc42.com/buzz/cashfree-fy26-revenue-inches-closer-to-%e2%82%b91000-cr-mark-loss-narrows/",
+   "source": "Inc42",
+   "published": "2026-08-19T12:30:07+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Cashfree FY26: Revenue Inches Closer",
+   "amount": "\u20b91,000 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,000 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "136793d54817",
+   "title": "Investcorp acquires 20Cube to expand its presence in India\u2019s growing logistics market",
+   "url": "https://yourstory.com/2026/08/investcorp-acquires-20cube-to-expand-its-presence-in-india",
+   "source": "YourStory",
+   "published": "2026-08-19T12:05:24+00:00",
+   "score": 78,
+   "category": "acquisition",
+   "company": "Investcorp",
+   "amount": "Rs750 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "Rs750 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "a84422d5503d",
    "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
@@ -23,6 +146,41 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "da476c854408",
+   "title": "[Update] Shiprocket Shares End First Trading Session 48% Above Issue Price",
+   "url": "https://inc42.com/buzz/shiprocket-makes-bumper-market-debut-lists-at-35-premium/",
+   "source": "Inc42",
+   "published": "2026-08-19T11:50:35+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d01575cd9d81",
+   "title": "Talent, data hurdles primary barriers for India's AI ecosystem: Report",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-data-hurdles-primary-barriers-for-indias-ai-ecosystem-report/articleshow/133347226.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T11:46:33+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Talent",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "bb065cc72b2c",
@@ -6358,82 +6516,6 @@
    "alerted": true
   },
   {
-   "id": "10a776b37f48",
-   "title": "HUL-owned Minimalist nears Rs 700 Cr income in FY26; posts Rs 26 Cr PAT",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW4wMEJXTzNEaUlKT3dxSDh2ZjA4NTlfZ3gzVGN5bW5ZTWxGcTdyZEtvSUNGNnlPZWNpTm1VMl9tcjVPSDEyeHFvTGJEaDZ2Um5IaHdJWjdJODRZdHd5U05GQmV1QTE2djRfYjBsUVM0WGtsVkF1YlE3M3JFYVVheHJZSTRSRGc5ZFRSaFp6RFhZNmhiOEk3ZlM1UDRMdUU1emJqQldBTWJQSEI1dURB0gGvAUFVX3lxTFBJbjAwQldPM0RpSUpPd3FIOHZmMDg1OV9neDNUY3ltbllNbEZxN3JkS29JQ0Y2eU9lY2lObVUyX21yNU9IMTJ4cW9MYkRoNnZSbkhod0laN0k4NFl0d3lTTkZCZXVBMTZ2NF9iMGxRUzRYa2xWQXViUTczckVhVWF4cllJNFJEZzlkVFJoWnpEWFk2aGI4STdmUzVQNEx1RTV6YmpCV0FNYlBIQjV1REE?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-17T07:19:19+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "HUL-owned Minimalist",
-   "amount": "Rs700 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs700 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "075980e2e922",
-   "title": "QpiAI opens \u2018Asia\u2019s largest\u2019 quantum chip foundry, targets 10,000-qubit processors",
-   "url": "https://yourstory.com/2026/08/qpiai-asia-largest-quantum-chip-foundry-targets-10000-qubit-processors",
-   "source": "YourStory",
-   "published": "2026-08-17T07:18:30+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "QpiAI",
-   "amount": "25 million",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Nagendra Nagaraja",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "25 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a4c918ed2715",
-   "title": "Govt To Soon Set Up High-Level Panel On 'Banking For Viksit Bharat'",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZndKWGQ4TDEwc29nWGozQWlTTVZaWFlaTURBamV6a05KNURYQUJTZk1Ta09OUTBWMFRLVTZuWnAzaGFsR2VUX1ZfSHoybnJtVXhWVUJnX0tPZjVTUDZhZVB1aVdtUEViazlWTHVqcTZEN2dad09ESlpyMEdZXzV3LTNEUXlJZjliaWpORDRoMm1sM3ZwRW9XNVRkMDhlYXMwZVpKMmZ4V0lhSVRteTgtZWFVaWJ6aFnSAbcBQVVfeXFMTWZ3SlhkOEwxMHNvZ1hqM0FpU01WWlhZWk1EQWplemtOSjVEWEFCU2ZNU2tPTlEwVjBUS1U2blpwM2hhbEdlVF9WX0h6Mm5ybVV4VlVCZ19LT2Y1U1A2YWVQdWlXbVBFYms5Vkx1anE2RDdnWndPREpacjBHWV81dy0zRFF5SWY5YmlqTkQ0aDJtbDN2cEVvVzVUZDA4ZWFzMGVaSjJmeFdJYUlUbXk4LWVhVWliemhZ?oc=5",
-   "source": "deccanchronicle.com",
-   "published": "2026-08-17T07:16:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Govt To Soon Set Up",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cb3af562b409",
-   "title": "boAt Launches New PartyPal Speaker Series with Karaoke ProTuner, DJ Controls and RGB Lighting",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdi10a1d4Yy0tMWFBazAwa05pTEdHLWl3dnBtQ2lvVkJGNm5TWDVtUE9ZSDdmVFRKbXZVNks3T19fUlhNRkNvNHhUVG0wVXV0QnNhR1NkTjNsb1pSdXhiUXJZU0F5NGYtWUJVYlAwZ005XzE4aElIbWp2LThyTHZwajlVbWhGUWUwUWlkVGpqZ25YLTFRMHRVV0FJY202cktMQmc5eTJYVDQ4cl9kMnJQeG0wLWZEWEtfdmp4V2Q5M1RVRk5yc1kydm1aVDhpMmZ6Yk1n?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-08-17T07:16:37+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ecff9e677f14",
    "title": "Over 85% of India's deeptech funding raised in past six years: IVCA",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVfTm1YOC1yTmJoUlRwbElXRFZFbFJteThZX1JaNUhWUm1IQ0tUVkhkR2ZZLTV4WFBKYkw2OXk2Y0NSNUtKUWFVUGs4eEtCVHQyaGZLM1hnd3gxVGNLeGI3dVNfVHFPbzJIXzQxN29xNFZxUmJQdWRCVXZ0bkhUdnF4TzRFVmczMFV3ay1Sb3BhRDJBUmFuX212VlpTaW9nalEtejY5WWlDQk1oZXJqUDhTQjhBYjJjLXQ5UFNWOU56U21Wa29qZdIBzgFBVV95cUxPT3k3RnRpN0RLaDZneUdDdEpTZGlSb0p5ZWdOVlR1NVNHdE9yRkdHeDR4TDFhMjBhTEczOF8wMUNpT2FITlIwd0x4TjV1RC1oMXpRcm0xZE1ieHNrckRoT3ZqbDlUTDJveGlNZndzS090V1ZsazBvemNWTDQzYzlHV1FjY2tHdm90R2l5MkF0YkEzcW42dVdicTlvdk90MGFNa3RsQU9BSWhBdnptMlR1aFFwSXo0b3ZRRUtUdVpWSFRRNnZybWViM1otMDFCZw?oc=5",
@@ -6468,23 +6550,6 @@
    "alerted": true
   },
   {
-   "id": "110e4733d7fb",
-   "title": "Prashant Kishor Takes Oath As Bankipur MLA",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDN3M1E2SFd1N1hURVB1Qlg3QUtOd3ZkcFpnY1RxcHpZdVptT2FBVjFFZFQ1YjFqTndrakZDcmptdmdoemNqcEVnV0hOZnhuNV9qRkFmU0FpMkdIdGRLcFM1aVlUMDJLNWZlY0Y3ZFBUMEhTOGN5akhhdEFlU1ZDODB6YXF5T203SGF4b01WWDh1eDFUQjNqQtIBmAFBVV95cUxPdDN3M1E2SFd1N1hURVB1Qlg3QUtOd3ZkcFpnY1RxcHpZdVptT2FBVjFFZFQ1YjFqTndrakZDcmptdmdoemNqcEVnV0hOZnhuNV9qRkFmU0FpMkdIdGRLcFM1aVlUMDJLNWZlY0Y3ZFBUMEhTOGN5akhhdEFlU1ZDODB6YXF5T203SGF4b01WWDh1eDFUQjNqQg?oc=5",
-   "source": "deccanchronicle.com",
-   "published": "2026-08-17T07:07:32+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Prashant Kishor Takes Oath As",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d88304618a26",
    "title": "EUME Launches Limited-Edition Ace Edition Luxury Roulette Set",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2lNbXZQRVNvXzFQcXRXOHE1N3BOczM3Z0xUQjZ4TzNlZl9jZDFaaXVwcEJQS2ZrRHNpbGhUeTU0Qng4dVpzQVZGUDQ0bmdBUWR4aTFsajFSYmVScHhWTVI5WFZpXzl5aHlZal9Ec01UWHFta3lGVnV3dXRzQmNKTzZlS0Fvb3oxdVd2Sk5scHIxZDNXTHQ2Y0YteXFBUQ?oc=5",
@@ -6500,23 +6565,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "46da911b7842",
-   "title": "Matrix Comsec Wins Gujarat Best Employer Brand Award 2026",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTF4aFp4YUFnYXBLN1NGU2QwUFp1V0tfaThDVlNmS1hPVEVpZ1lnRnZJd3N3MGYxV0hHU2h2aENFUzFKSzR4a3lsN1ZfZ2wzZ1phaEdiTmotZUNQM2pwSEliSWVCM2tsYkhzUmxiUDhtdmNTM29wOFZYMzVEWC1vQ0lnQllRdE01b2o4Y2NwVERRUS1nSTQ0aEpiQVFqWEZaY050OWtpRW1qazBfLWc?oc=5",
-   "source": "IT Voice Media Pvt. Ltd.",
-   "published": "2026-08-17T07:06:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Matrix Comsec Wins Gujarat Best",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c09f94dda2da",
@@ -6535,58 +6583,6 @@
     "$25 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "01b915219501",
-   "title": "OpenAI Reports Florida Man\u2019s ChatGPT Murder Threats to FBI",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTJkSTEyWnhDdVoza1o5MkhlMVpBS0JWU0NfYlZ2R2o3UUhrc2M1V2g4VEk2UXNEeWZ4RzlwRHFhTVNoZ0dRTFlyVGhIOFVPamh2ZWN2T2ZpS2wyQi1MVjNPeVd5U0x2VmhldDR4a3Z4anJXTjdmV2RlNTgxdkF5RFBtYS1xdEZrVFlF?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-17T07:03:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "OpenAI Reports Florida Man\u2019s ChatGPT",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "77a6e8763db8",
-   "title": "Reelax - Influencer Marketing Platform, Is Using AI and Automation to Fix Indias Influencer Marketing Bottlenecks",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTEhfcnFXNER6V2dEZ1Vud0VJVUJiUW5vZHVoYkFEaDlWSkFpTVQwRXVieVhGZVBIcW5oQXc5bklDZlE1V21EdVc2LTViQkhJcVVrbFZlY3h0bWl6X2lXVW1HRi0yUW9BNzY4TEhibHE4Ykw2QWI5aDdjeU5CVzEtQllfMTVNT3FqUkRPcDNYS3JYMHZBOGdmQk9faVhNNlBlYkNIMEJkYmlBOU5wSlpwT1lCN2MxaDdlUjc4UkFZSU12WUt4VWJVYXBGRmZTZnpDRWtiQ1hQNFYwSlJqS01jQ3hYdGZFTDkxdk5HWEl30gHuAUFVX3lxTE1MSF9ycVc0RHpXZ0RnVW53RUlVQmJRbm9kdWhiQURoOVZKQWlNVDBFdWJ5WEZlUEhxbmhBdzluSUNmUTVXbUR1VzYtNWJCSElxVWtsVmVjeHRtaXpfaVdVbUdGLTJRb0E3NjhMSGJscThiTDZBYjloN2N5TkJXMS1CWV8xNU1PcWpSRE9wM1hLclgwdkE4Z2ZCT19pWE02UGViQ0gwQmRiaUE5TnBKWnBPWUI3YzFoN2VSNzhSQVlJTXZZS3hVYlVhcEZGZlNmekNFa2JDWFA0VjBKUmpLTWNDeFh0ZkVMOTF2TkdYSXc?oc=5",
-   "source": "The Tribune",
-   "published": "2026-08-17T06:59:02+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Reelax",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "de0e964a1095",
-   "title": "itel Launches New TVs & Washing Machines in India",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQVdBQjhLTFZQZ2xhTzRfa2VZd0NKLUNHLXVqa21JM3lHVFhOdjJYaUlmdHBPZGRSV1pEdnpUNXNTVFhkMDQ5MmJRbktjZzhDWVBVQlgtTThuTEJFRFk3Y3BLYjVmbUJHQm1wakJQSVVyUzJXeWoxM21Dd1dVQUp2dUtid0VVc1RNSUFsMUFnWWk5MWliRkEyVzV2OGpBTHUxcFdZVkEtalYtWURKUWszRHNDeTZTZHFCN0syUGRzZTBDYk5FWGJnR3ltSFUyY2JiYkNKbHNjVXRNOEk?oc=5",
-   "source": "IT Voice Media Pvt. Ltd.",
-   "published": "2026-08-17T06:58:27+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "b087c3e265b3",

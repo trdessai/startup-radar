@@ -1,12 +1,70 @@
 {
- "generated_at": "2026-08-19T16:51:52.719604+00:00",
+ "generated_at": "2026-08-19T17:53:28.643410+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 9,
+  "fetched": 37,
+  "fresh": 3,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "0b7e859dfb81",
+   "title": "Navi\u2019s UPI growth fuels NBFC arm\u2019s loan expansion",
+   "url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap-11787154859866.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-19T17:25:34+00:00",
+   "score": 58,
+   "category": "expansion",
+   "company": "Navi\u2019s UPI",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Abhishek Dwivedi",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "12a2087a1c0b",
+   "title": "Sachin Bansal-led Navi raises $100 mn from Prosus in maiden funding round",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGZUUmZYbFYzY2hlMHBQS1ZyN0d5dEJmdWJRMjNEamhWZkItck5OcXZBcnc1Y09zUnktNS1NS29fRUdMalcyaVBNNHViQkdLcDN2TW9PNzV5MTlrTGRaQllQU3RlTkc0MEU4TThFSGhEQUdBc0NTaDBsZlVJM1NXSVNuZzdVRkE2Yi05UGNCeG9MSlI3UHBlcHh2VEJlVnBBVmZYLVYwc2dzQnVkcWNMc0wxSjNydnNFXzdmME1FRUJTRlNoVHp2NVBuSWhGdVlLZkVOTG9EWmxFd28yeUF30gHkAUFVX3lxTE1rX2daWWRjSmZKUzNScENHU1I2NEo3ZlptZkNEczFFOXhjcHp3WmpXTG4ySC0zbWVpcXNsOVF5ZnJRVTJReUVOVTRHNEJ4TUxxeHk3TllYWERoOHBKNlRaZWdMWENWd3BKM3NiQkZfMVF6X0JIVUtHZS1qbUtfWmxoaEhXLWFqajcxY3o5OXJaak05SEpWZ3FncFhYdzJtYVA4aFRoN2ROVUQ3VzNRRkliRkdoZUotM2dOVTl2SzBsampURXQ3a0U2TFdLOG1ZUjRHVlA5SEp6cXFZdTQ3Q0NZUHdENA?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-19T17:00:03+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Sachin Bansal-led Navi",
+   "amount": "$100 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "593f295540be",
+   "title": "Amazon \u20b91 lakh fine: CCPA flags sale of sweets as \u2018Shri Ram Mandir Ayodhya Prasad\u2019",
+   "url": "https://www.livemint.com/companies/news/amazon-1-lakh-fine-ccpa-flags-sale-of-sweets-as-shri-ram-mandir-ayodhya-prasad-11787143709543.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-19T16:50:43+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Amazon",
+   "amount": "\u20b91 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91 lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "d8cb7d424d01",
    "title": "Indian fintech Navi to raise $100 million ahead of planned IPO",
@@ -6020,58 +6078,6 @@
    "score": 18,
    "category": "other",
    "company": "Finance",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c55ec5279fca",
-   "title": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-humanoid-robot-maker-unitree-to-list-in-shanghai-on-august-19/articleshow/133297402.cms",
-   "source": "ET Tech",
-   "published": "2026-08-17T12:41:22+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Chinese",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9e48c384290c",
-   "title": "Indian startups chase emerging global market with physical AI robots",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemh0bnpaWEUxUTgxcU5lWWxCLU1ncmRndVl6X2xBZVozdmVsa2RPb0xBbnFIcTlkWnJlYmlwVDRJVF95MGQ1UzNZQi0yT2E4TTAwd1RGYlo0RHlLZVBOOWF3NGFNRlFGMXJfS3U3bmpzMmpTUmo2WHBYZXpSbnFacko4b1REbFFESlFHSzI3RDJNYXlVTWhDMGpORDNWWjNhM3lqRjFDaThyaHBNWDZCSVlEd1hhdWlZc05uRGd5anhnMzhBVklZTVB5bnhWLVN2MFVBdVE3RkhWSHpp0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-17T12:39:20+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e55fe0d4a512",
-   "title": "Accel, Bessemer reaping multibagger returns from decade-old India bet",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnZFYVdGdVFNa1dHY2trQ2hsSENtYXlHeGtleGhtQ3p3UnlNZVhVLVJUa1ZJTWluZ3RzT3o3ZFZYZ0pubzhORGVKbFpqSE9FN0NvREhHOG40dlhHd0xXSExKMWNuSlNMTmxCeTFsYVh4N0VncnVCR2hNMUVIcVcyTkQwemN0bzA5YnZwWXZxdTc1X1FkdGNv?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T12:26:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Accel Bessemer",
    "amount": "",
    "stage": "",
    "founders": [],

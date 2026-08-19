@@ -1,12 +1,362 @@
 {
- "generated_at": "2026-08-19T06:01:48.363298+00:00",
+ "generated_at": "2026-08-19T08:00:25.169425+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 35,
-  "fresh": 9,
-  "alerted": 4
+  "fetched": 61,
+  "fresh": 28,
+  "alerted": 5
  },
  "items": [
+  {
+   "id": "3a891b15adea",
+   "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-startup-etched-doubles-valuation-to-21-billion-in-under-a-month/articleshow/133340653.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T07:49:06+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "",
+   "amount": "$21 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$21 billion",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3f3fe21bae2b",
+   "title": "Why Dot & Key Waited Until \u20b9300 Cr Revenue Before Going Offline",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlQxSUdPemtLUzBxMHNjLXowdjRvZ1E4T0dTTWllaG5kVFozWEI0SXE4dDgwb3FNQUNORVJnVXVfUExzVTNBYXlTYzVVOEk0T1MxZDkzSmtkRXdwTmpuQWFESkE3RU5qeFViRUgzNHFwQ1k3cXBUSUNfWXNZVGNJNTJBZjBOWFFLRVF2SHhPYlVWZFdwV0l4Rg?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-19T07:37:58+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Why Dot",
+   "amount": "\u20b9300 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9300 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7b2579e6197b",
+   "title": "SEBI Cautions Against Influencers Offering Live Trading Strategies",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTDJ5V3MwZDllTTd1YUNEX1NMc2pLdWlldkRWUkMyTGh5SG1HVTBHaENDWkY1R09zbzR2Ql9IOUt0YTJVSjR0RGI1VExzb2Q5ZWRkU0VnR2lfUVdLdGswV1BidFhyZUFsNk0wOWxzTkVVX2VhUkNSRVRucENFemc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-19T07:24:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "SEBI Cautions Against Influencers Offering",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "80c2ea4d5dd2",
+   "title": "Zebronics Axon 150 Launched with 100W Powerful Audio",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWERUS0UtcGVIMmZibFJ3VGkwNkxoSHFDa0ZZeWZTaFN4aHFlbng0LVZwOGRPV0ZWYkc2NUJROFdGeHlMbFFvamQ2M3FqcEg1aERnZThFUGZIUF94NW1mZlBTNTFJVXRUeklKU0lSLXRMZjZYX2xrb2pUSlpYcXZ1QlFzTllnRXRJRlFvdkdlY2paTno2WWxBR1pObmt6a3JkV1UtcEFJZGxmQWtGeTB2MTF5Y2JaS1NuTHRhM0VPbDA5RW5SQUIwRk5JYkV0c3pacHctWThuOTYya0lGV3F0Y2JCRXA?oc=5",
+   "source": "IT Voice Media Pvt. Ltd.",
+   "published": "2026-08-19T07:17:13+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Zebronics Axon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ae0384d028ab",
+   "title": "{Funding Alert} Specialty Coffee Brand First Coffee Secures $1.3 Mn in Fresh Funding",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1g1RXhKQmduYktGZ2VJcmZoNFRVUjFLaHRHSHpmTlVDZTFvcGZTdEptWVVVcXdIdS1CeWRVVXp3WWtZVnlDeXBuQXhMYVJZWUs0VVFoaW5sY041bl9Qcm9SdlV2MEVfdzJkRHUybVg4LTZVSWxzdmFVXzh6MGVpd0NZblJWbUVfUEw2ejFrRU5qRDhQcFdRazFWU2FNUWJZTThUWUNDc3ZIV0NNc1pjWXF0TQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-19T07:09:06+00:00",
+   "score": 58,
+   "category": "funding",
+   "company": "",
+   "amount": "$1.3 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.3 Mn",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "321e0ba3b59a",
+   "title": "Retail India News: Eyora Enters India\u2019s Natural Diamond Jewellery Market",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFgwaFRKUU9GVGpsTVQ0dHI5VE0zN2dXY3M2dTJndWFSNUxZOWxSUl83N2dmMDBFUFlFUXJiMzQ2d01IRmNKSVhDNEpNelVPS3NTdUk0MWpMUDFmMUFWZkpWNk8xYlpmelQtbzh3YUZpUXd6VUkyMURpeHJmOGlCRDE2bXRGYWRUNjB6NFJwQ05iOWpHNEFzQm1KS0FZQUVKMElUTFRIVnE3Zw?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-19T07:03:25+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "Retail India News: Eyora",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9899e3501e65",
+   "title": "OpenAI Updates AI Security After Hugging Face Breach",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTlieE5fMllmTUZneWJsc2pieDJEUnA2cUQxWU1XZndpTTdMRjh4VnFrdExnZmdVTFdBLTJYa3l2dmhNZ1JTejhJSDZmMXhyOC1SNy1wY181RlFkNjgzSDU4YV9VanlLcVdMR2c2Nlp0cmZuSkFQYjFoUjlOVlJHOFFLLXVncDMzMkE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-19T06:59:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "OpenAI Updates AI Security After",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d635b13c69f2",
+   "title": "Nvidia H200 chips reach China in small shipments: FT",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-h200-chips-reach-china-in-small-shipments-ft/articleshow/133340366.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T06:58:19+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Nvidia H200",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "210e036e6ebe",
+   "title": "TP-Link Expands Its Smart Home Portfolio with the Launch of Tapo H110 Smart IR & IoT Hub in India",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjNoTWwxTFktX2VtMkdQMW1WYndQUGI0ZW9ITTVJQngwVl9qakdEaHF6aG02Qk9WOVVsT0hHT0Q5aFBvdVNwaWRWSXRWNGxUWkFETHptT3JhZEhhdzlFRkJRRmFqRFp1ZzNXLTBMV3dZa1ZrMDJDSm5FcWVRTGowT0xfUEVRM2V4RUlvR2FMMjI0OG9wdF9ic0llVlBVQ0Q3OTRzaGoxRUFoeHZSU3lVZzE2SGk0U0ZBdnc?oc=5",
+   "source": "IT Voice Media Pvt. Ltd.",
+   "published": "2026-08-19T06:57:45+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "TP-Link",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "17828925bec0",
+   "title": "How Manyavar Is Using AI To Take The Guesswork Out Of Retail",
+   "url": "https://inc42.com/buzz/how-manyavar-is-using-ai-to-take-the-guesswork-out-of-retail/",
+   "source": "Inc42",
+   "published": "2026-08-19T06:49:11+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "How Manyavar Is Using AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5717cf138148",
+   "title": "Snabbit Strengthens Leadership Team with Pradeep Yadav\u2019s Appointment",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcU5Rc1k4a0tWUGRWaHlzaGx5S2QtTWVDVGJQczhvSHh3cG9sMkxRVnl0b2szbEpOb3hLVk1Xd3FBNmFTV094SDNISUxhaWhKSWh3eXNDZHRScHdqaGNzN2JwUm1ES3dKLTFBZEhGMGFzanI0UEZtM1REUWtSS0JOd1NGS3JNUnUtUjNIOFdzM2pETklyYjcxSEt3R0Vscm8?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-19T06:48:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Snabbit Strengthens Leadership Team",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0d5aeb3f27de",
+   "title": "Y Combinator Rakes In \u20b91,435 Cr From Groww Stake Sale, Clocks 55.7X Return",
+   "url": "https://inc42.com/buzz/y-combinator-rakes-in-%e2%82%b91435-cr-from-groww-stake-sale-clocks-55-7x-return/",
+   "source": "Inc42",
+   "published": "2026-08-19T06:47:31+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Y Combinator Rakes In",
+   "amount": "\u20b91,435.2 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,435.2 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "81031376ccfe",
+   "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
+   "url": "https://economictimes.indiatimes.com/tech/startups/shiprocket-shares-soar-10-after-bumper-market-debut-rally-48-from-ipo-price-time-to-buy-or-sell/articleshow/133340741.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T06:40:15+00:00",
+   "score": 53,
+   "category": "launch",
+   "company": "Shiprocket",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f0a30708d7c2",
+   "title": "Delhi Police tells SC facial recognition targets criminal records. But is everyone scanned first?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnJaNFhjYkduZVFsaHZ4dkhWb0hKMnRQS2xoMTk4cDZrbGhlS1hRS0ZrWHhqZjNHeVFYQlFBZ0E4ekVLRFpDZnM3cmNNTGVLOW1taTBBai1QRGpPUl9YSW1FUkZWSHNnOU5ZbG9MVHJxMGM1TmxuZFphRWhWc0F2UXB5bFBYUDhTU2hrMUlkRWo?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-19T06:36:42+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Delhi Police",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8c6b48eddbb3",
+   "title": "Y Combinator affiliate sells Groww shares worth Rs 1,435 crore, cuts stake to 7.44%",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1hObUpiWXhTS0l6Zm9tSVJEUUowTndkUVVTQmNqbEdxNDBLcGlXQmlnVmN4QWRWb3I1N3lCVjNTbUJPaXg5d29XYm1kVTl0aGRIQXNYQUZIbEsyR2wwelpoZzU0QTc3QkhvNllmVWFtRGI2eVhfQmRrLThOSDVlNGIwLWFPRVc3ZlB6YUFQLVRCaUNGQ3BxY3lBX1N2UUVEZXlwaElzaWNoZlc5YXdrVTVWdnQyYWJoNExFLXdaOHXSAcABQVVfeXFMTndYTm1KYll4U0tJemZvbUlSRFFKME53ZFFVU0JjamxHcTQwS3BpV0JpZ1ZjeEFkVm9yNTd5QlYzU21CT2l4OXdvV2JtZFU5dGhkSEFzWEFGSGxLMkdsMHpaaGc1NEE3N0JIbzZZZlVhbURiNnlYX0Jkay04Tkg1ZTRiMC1hT0VXN2ZQemFBUC1UQmlDRkNwcWN5QV9TdlFFRGV5cGhJc2ljaGZXOWF3a1U1VnZ0MmFiaDRMRS13Wjh1?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-19T06:34:45+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Y Combinator",
+   "amount": "Rs1,435 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1,435 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd57f39b8952",
+   "title": "Beyond red flags: How AI is redefining financial fraud detection",
+   "url": "https://yourstory.com/2026/08/beyond-red-flags-ai-redefining-financial-fraud-detection",
+   "source": "YourStory",
+   "published": "2026-08-19T06:30:19+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Beyond",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "57982572f327",
+   "title": "IPO won't change how we run our business: Gaja Capital's Gopal Jain",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEZDYlkyZXhPeFBSNHRTT0pKS3lQa2Zsc2NrT0hwc3BWRGdHMjNoS2xKNzRZMFgyWjBESDBrOU44ekJrSDZlU3drYkp1MDJyazFNUlJsdlBROExlM2M3c2x1OW1JTlhnMWhnZGxpZlhsb08wMkNUdHRJeUFNR0xMR3ZwWEJ1NEU1MUtROVVBeUJhSGlBeWFZZWxXckM?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T06:29:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5bab824a09f9",
+   "title": "Meta faces largest-ever child addiction trial over Facebook, Instagram design",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3JiVXFTcmkzYTFLT2lLM05zcDR4Z1NhRDZXUmlGQjdSWlppVVJIOXFtaWZSb1hmMEhXWWpzN0Z0TEk3bV9xMHVrUGVPUHdzbnVtQWlzcVFyalQyYktyb210ckJESGdBQ2ozMWF1QW5mTkRLN243YlBaa3hIOWNSRFlQcy12a185RWJj?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-19T06:08:48+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9bafb5c704a7",
+   "title": "SpiceJet, Aviator ML fined \u20b915 lakh for wasting NCLT\u2019s time",
+   "url": "https://www.livemint.com/companies/news/spicejet-aviator-ml-fined-15-lakh-each-for-wasting-nclt-s-time-11787115908880.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-19T06:07:31+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "SpiceJet Aviator ML",
+   "amount": "\u20b915 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b915 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4d2ef87e9ae",
+   "title": "Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares",
+   "url": "https://economictimes.indiatimes.com/tech/technology/baidu-ceo-vows-to-return-ernie-to-ai-frontier-as-revenue-miss-sinks-shares/articleshow/133339004.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T05:59:40+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Baidu CEO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "743db97bdfeb",
    "title": "Swiggy shareholders greenlight proposal for Indian-owned company status",
@@ -128,6 +478,40 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "8a8809bd951b",
+   "title": "Diagnostics firm Usmanpura Imaging taps family office for west India expansion",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlpsLS1pajZhdG1BcmxQQ0hpU2doX2ZFRGRBVWJMTEJWYzJkM1B3TzJVcmZ4NzZyelI4VVlWcHRwSFUxV3lxOXJLZGVGb0JhcDdjSmx2VUE2T0JOTXdUUXhDWVVROXlOOXhXVkgwY05QYnkxUEdyemN6OHdyd0QtQ1BXbWRmLUlUamZWZDVTTk5NQ2lpZWtxMVlaRVBQRzI4YWVXeA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T05:12:37+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "Diagnostics",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4691c35d31a7",
+   "title": "Wockhardt launches antibiotic academy to strengthen India\u2019s fight against AMR",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEExUU1OelBmRTRGNDNNaXlXNUNfT1l3MVBSb213MzR5Y2VTdXZoaUNHanIzbGtBYzZsdVZodF84SjJEaUs0Sl9LM2U3Yk5TcmxWQ0V0QURWSjdodW5HMlNIdDBNaV9VdHBqWDhKS3AxWlgxc0dVb3RSUHhEakREYVpxQ2RCb3Iwb2JDamZENTM2Rk52MDJpcy1XOFRsZS1Bb0JtaGpacW1KeGtyM0ZBX2RFcmFlbE91MjZRYtIBwwFBVV95cUxPSXpzZHhrTkVCWlZMZExtSUN4SEZxb3BlaW1kNGlIbmJ2MVhjLVVKR1lYek80ZWY5VXpDSFdVNl9hbFdqa1JBSXlpWDJFenF0LXlQRXVMbXk1VGJNRWJTb2VILW9GWldvbzgwRG1aZjY3aGszNldBSUJVaWlTX2QyakNYamdvSnY1SkRDNW9EbzlGeVM5c2YtbGg2ank5STVBeGxhVVBaRWhGd19LV2E3bHNrNFRBTjJtbDJSZ2FGTk1CaU0?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-19T05:12:24+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Wockhardt",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "e0f517f8a0a4",
@@ -285,6 +669,28 @@
     "Pre-Seed"
    ],
    "alerted": true
+  },
+  {
+   "id": "838170f8062f",
+   "title": "Biju Jacob \u2013 Founder, Healium Intelliscan Corporation | Entrepreneur 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TZUFEMTdEZF9fc0VhNHVyQzBSNGh1R0cwcFk4MUJWbUpZRlZkUk9lekdDZzNFX1N0YlRPWk5qc2pGaDNVT1pJZktSbGs?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-19T04:05:04+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Biju Jacob",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Healium Intelliscan Corporation",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "d8b82468b068",

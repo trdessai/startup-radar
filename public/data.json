@@ -1,12 +1,97 @@
 {
- "generated_at": "2026-08-19T19:11:56.687618+00:00",
+ "generated_at": "2026-08-19T19:58:46.478346+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 3,
+  "fetched": 15,
+  "fresh": 5,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "edc18ddefdc1",
+   "title": "NexEdge",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TMFJCN2NGdUhqTFVkM005S0RzVkFta1pFLXZRTGdicXUzSmpnVWg2ZmxBaVBweTVXR00tMHVNWm5USmFQdUdqVDNkb2Q?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T19:23:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "NexEdge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "799181ee4574",
+   "title": "BluPine",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tV0NMSE5SRFItWk9nYy1sWUN3Nm1DcVNxdl9RcHNJVEVzWjI4YlkxemE0YjZLeG1CejBKa2tDRk8ycGs2Uk0wSUlkblg?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T19:23:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "BluPine",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d218a27cf941",
+   "title": "Mallcom (India) Ltd",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yT3FFWlFDQzk3LUFoSlgzZWFZQmxEd0NMUUllb3h0YVFpRXN1Rk0yYS05MkR4N1FIYklHSVJRb2lIN1B1S0hveG1RY1pMOVpJOF9SdDYtai1oQQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T19:23:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Mallcom",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3ad6f9f2db72",
+   "title": "Anoop N",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4OG9FVTJHNHNJck1oeEFzQ0IyTi1PY3Z5VWU0U193WllJZnV1dU9VNGZtbG5OYUJ6SmpVeFh3eVZzVDctR0ZpdkFxZFo?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T19:23:57+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Anoop N",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3b5686100730",
+   "title": "UNICAF",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoSVBZRlZTTDdOdy1RNVNIWGszOG5xRXBYc2hCeUxVemthcG5rSjlMYTI4LWZUTXVmVlR3RlVlVnJzUTl1MmRRQU8wMA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T19:22:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "UNICAF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "dad68c926cf5",
    "title": "Google offers Indian college students one year of AI Plus for free",
@@ -5977,65 +6062,6 @@
    "alerted": true
   },
   {
-   "id": "03fd9dfe2092",
-   "title": "Atomberg Gets Board Nod To Raise Over \u20b9450 Cr Via IPO",
-   "url": "https://inc42.com/buzz/atomberg-gets-board-nod-to-raise-over-%e2%82%b9450-cr-via-ipo/",
-   "source": "Inc42",
-   "published": "2026-08-17T13:07:30+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "Atomberg Gets Board Nod To",
-   "amount": "\u20b9450 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9450 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "31158c8ac5e0",
-   "title": "T-Hub Launches Deep Tech Founder Fellowship, Selects 14 Startups",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGlZdjBkMzFfVTNZSG5JT0lrSWZPRnNBM2VrNngySU5GVktsblhSNml3RzN4QXY4NlFpNDVfVEp5cktQTElOU2szVWNSMzFLdVZOOVFkcG5hRExCTEV3Z09vY1NSV3UyRnhuRW51dWhaNVRpR1FKQW8tWkdKUWJlTFlEc2JfVXJmVlJFRlYtY2VlWDRWVnktdkZMOWVKbTZMZFFPaE5mM1g5NkFPQTVHUzNmcVhQTVU?oc=5",
-   "source": "Entrepreneur India",
-   "published": "2026-08-17T12:59:22+00:00",
-   "score": 23,
-   "category": "launch",
-   "company": "T-Hub",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Launches Deep Tech",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch in headline",
-    "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "03e9c0465609",
-   "title": "India Has One Demographic Cycle Left: A Blueprint to Turn Youth Unemployment into 10 Lakh New Entrepreneurs",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1RFcVpCVDZkSFZNTUVhbTdUYWF5R2xBcTUxak9OX3RmanVGbmlrTXV1d0pRUnluWDQ0b1lQRnNqMFJaZk5WaXdSVWdXajdtWHZoSVNhTTFZS2FJMnFfX0JlX2JLUFZ0d0FFNVk4ck5BM3hEUVliTm92U2lTRmdYUE5kMUtHR2prT0hEa3kwN3AycGE3bUkyRWxnSQ?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-17T12:56:15+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "India Has One Demographic Cycle",
-   "amount": "10 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "10 Lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "244616860b87",
    "title": "The Millennium Group of Schools Launches 'Millennium AI Creators Championship 2026' to Inspire India's Next Generation of Responsible AI Creators",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDRycXN5bzZxa2pPYS1KOFRQNmp1TFRjbkxRR0I0U2RxNl9aWnA1QTZiemRiUU1WQmhiSjhoTzFtX3RDa2FfZVU2Tmo4ZFhWTnNzamN4Mm05SnJqTmVMbVlxVW1ZRWQzN0gzVlVOT3IxTG9NSnc5UUljLTlURklxeC0tVzNlbEVqb0NLMzNQS1lKMm01WWhuZVIxSzF3ZW1ZSVNEalFHampyOUxrOFhDbjhjVHVycXo3UUp3Y21QUm53MWNfRGpjdTIzZXUxQnZEbWhNR1JnbG80b2tydFJJd0ozR1ZaZWViVGxjU3JobUtFcGxYczBqNWhzNEFZWDJNTGNIbE9pLVA4LVNRWlhubg?oc=5",
@@ -6051,40 +6077,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "9a158d50a136",
-   "title": "UPI In July: Navi Gains Market Share As PhonePe, Google Pay Slip Marginally",
-   "url": "https://inc42.com/buzz/upi-in-july-navi-gains-market-share-as-phonepe-google-pay-slip-marginally/",
-   "source": "Inc42",
-   "published": "2026-08-17T12:49:22+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "UPI In July: Navi Gains",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "45495dc34e2d",
-   "title": "Tata Capital Healthcare Fund, Swiss impact investor bet on Tenet Diagnostics",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0lVNFQ3OEpBcUtmTXRlcFoxcDY0d01LaVJsVXFYcmEzZEw2dTlQSmFvQWYxdGhTX0k2eldTSG52WHpkYXBzMlVIRnhIUDRxQmVPeUlvT2lYdmgtdlgxdGViUE9nRTZBejc0WDdzeVA4M1RNT3BFM3hyLXB1VTVGSVh3T0J3a3lJYk5VOWlvY0t4SXFJSTJnTGJGbHB0NlJl?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T12:48:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Tata Capital Healthcare Fund Swiss",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a05ec90b38fb",

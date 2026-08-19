@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-08-19T19:58:46.478346+00:00",
+ "generated_at": "2026-08-19T20:58:42.650024+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 5,
-  "alerted": 0
+  "fetched": 14,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "515f1b4a06a2",
+   "title": "Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1p6RE91MmZ4UW1nQmQ3UTd6Y2lVTDA2SWcxS3RHaVU5QmFxOGRXVWlkRnJYaDExTzVIUlBDWTVsNm5IZUx0WDIwRXQ2WjF1eTdBTHdHZHJQXzRjOTRRblZEOGZHTXl0YTBFUDZWWFh5aERZTkJKaGczR2RyeDhGeTZoaGZpUEZnc3BvRHlyMHR5NUZSLWJKbDB2bVp4WUhuYmgxQkFzbDl2TFA5WS1mMV9RM3E?oc=5",
+   "source": "techcrunch.com",
+   "published": "2026-08-19T20:12:33+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Rillet",
+   "amount": "$100 M",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 M",
+    "Series C"
+   ],
+   "alerted": true
+  },
   {
    "id": "edc18ddefdc1",
    "title": "NexEdge",
@@ -5984,23 +6003,6 @@
    "score": 18,
    "category": "other",
    "company": "Central Electricity Authority",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ef8ae2c11c66",
-   "title": "Dhoot Transmission",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jN2ZsX3J2ck1NQ2hwMXpRZmw3NnlWQkJ4Z0FTb0MzYnBwcXU0RU1MR2F2eDNySU9NcHBURTFwY1ZIeFdPRmd5SndwbDd1R2ZRc0FVUGNhUQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-17T13:19:22+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Dhoot Transmission",
    "amount": "",
    "stage": "",
    "founders": [],

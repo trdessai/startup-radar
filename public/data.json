@@ -1,12 +1,99 @@
 {
- "generated_at": "2026-08-19T15:17:01.301234+00:00",
+ "generated_at": "2026-08-19T16:51:52.719604+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 72,
-  "fresh": 31,
-  "alerted": 18
+  "fetched": 54,
+  "fresh": 9,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "d8cb7d424d01",
+   "title": "Indian fintech Navi to raise $100 million ahead of planned IPO",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEN0TWN4bVloakJyWkVveE8zdGo2X21xMGwzd0ItS1VrY2UxYTFNMjNhaVpVYnNWZ09YOVpwOTZWdi1ELXB0dmozOVJ1UV9uX19qSTlodDZlem1MY2VHVGdvZXRucEJqSEJjNDA2NVk4dHJTRk1vWnFzMTVOSXFVOXRXWWk?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "published": "2026-08-19T15:51:31+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Navi",
+   "amount": "$100 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$100 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e814fa7f5f8d",
+   "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/articleshow/133352365.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T15:31:31+00:00",
+   "score": 50,
+   "category": "expansion",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1712073fc783",
+   "title": "How Indian D2C Brands Are Rewriting Their Playbook For Profitable Growth",
+   "url": "https://inc42.com/buzz/how-indian-d2c-brands-are-rewriting-their-playbook-for-profitable-growth/",
+   "source": "Inc42",
+   "published": "2026-08-19T15:31:07+00:00",
+   "score": 54,
+   "category": "acquisition",
+   "company": "How Indian D2C Brands Are",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cd28672e993c",
+   "title": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
+   "url": "https://economictimes.indiatimes.com/tech/technology/irish-lawmakers-summon-tiktok-over-videos-glorifying-dangerous-driving/articleshow/133352309.cms",
+   "source": "ET Tech",
+   "published": "2026-08-19T15:27:17+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Irish",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3b988b022596",
+   "title": "Nikhil Kamath invests \u20b9200 crore in data centre company CtrlS, says, 'Every meaningful tech shift runs on\u2026'",
+   "url": "https://www.livemint.com/companies/people/nikhil-kamath-invests-rs-200-crore-in-data-centre-company-ctrls-says-every-meaningful-tech-shift-runs-on-11787152051047.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-19T15:27:05+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Nikhil Kamath",
+   "amount": "\u20b9250 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "\u20b9250 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "2e6c0f1a0ca6",
    "title": "New York-based Warner Music Group to launch global tech hub in Bengaluru",
@@ -181,6 +268,23 @@
     "$9 M"
    ],
    "alerted": true
+  },
+  {
+   "id": "1982fc0733d2",
+   "title": "Anoop Menon Named Investment Partner at Chiratae Ventures",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaktxQU94M2NaNFJXV1ZyMXZaOTZrbGRKS2xOUkgya3dBZ21TUFFGUk5yT0xMNDJ0ZU5IZ0VZN3FfZGZ1ZjM4dGpxNE04RW1KNkRQQy1sSEtKT2hydkM3QWVCZW81N05ESjhfWkFiTWdtcUVva2RvbXdvVXoyOGQ0VDFHQUtWOVVrak1IZHZTdGs1NC1NN2VyWDZTckVUMms?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-08-19T13:58:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Anoop Menon Named Investment Partner",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "8260dd027c65",
@@ -390,6 +494,42 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "03a0757cd517",
+   "title": "Accel, Nexus, angel investor to score jackpot but Infra.Market valuation plateaus",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHlRXzhvY1djVjhsUlp6Y1RXbTUySjBMellJaTVKRldQb18xcG5qMUVvbEJxM1QzQ2xKdDhYNXZ2SnEwUEJtQ2hEazZnVHJ1VWtlWEtiQTVwdnMxQWJJV1hCMWVYLUl0OHpLN0JIOFYyZE1OSVo1YnZITEpjZXQ5OXVERVh1bHQwUExoR3k0NTFseWlzczFHYmxnYXZGSGN0VGVFbEdYYjlDbFZSOUE?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-19T12:54:18+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Accel Nexus",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Angel"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c77ee180a664",
+   "title": "Ekatra Jewels Secures Rs 10 Cr Strategic Investment Within 100 Days of Launch",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnYtM20tUDVCYncyS2M1cjNkZ053RkN5Tnd0SFc0SktoQlhYZS1QdVloVjNvUWVzV0xWREdPTUVVN18tODZCZVU3SWd1b0hlQmoyM3BnSExGZHlkM0E1UHVOWmtYS3dhRjBRSXU2RGg0MFlEWmJNZ084MmNHRUVtTlpGUW9QMzdydWVCN05lblpHV2dYOHowWUhGMndFa2tPQzdMcEo4ajVOeFJUNUZn?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-19T12:52:53+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Ekatra Jewels",
+   "amount": "Rs10 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs10 Cr"
+   ],
+   "alerted": true
   },
   {
    "id": "c39135100b26",
@@ -5941,59 +6081,6 @@
    "alerted": false
   },
   {
-   "id": "492741c52916",
-   "title": "zMed Launches Version 3 of its Advanced AI-Driven Critical Care Platform",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlfN0MxYXhOVUktZ1F6eTlURERwa2dFejM5Q01YbkJfeEpXQlhwLVczNU5jSGh5aDNoSGgtbGtYLUxFU25iRkNZSWQzUFFtc1JlVHhiVHRUNFVxbXlQZWkyU3FEZmJZdGRraHBXUDFXclNxckk1NXdsUjZYa1M4V0hXakVEbXJ5dkV6RlNqYmt3OHloZUVwNEVTTVhZRmRwdTBvZ2wxTXp1Y21hcmdSS0w0Mkg?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-08-17T12:25:00+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fca47f6d259f",
-   "title": "API Holdings is debt-free, repays Rs 1,050 Cr",
-   "url": "https://yourstory.com/2026/08/api-holdings-turns-debt-free-thyrocare-out-of-pledged-shares",
-   "source": "YourStory",
-   "published": "2026-08-17T12:24:53+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "API Holdings",
-   "amount": "Rs1,050 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,050 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "98d669209d1e",
-   "title": "The Investment Power 100: India\u2019s VCs Shaping the Next Generation of Food Brands",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2tZdzNzZGM1ZHdfRHVkSDhGdmthYzZ1QUNDeDJPZWM0dzNjQzZtQU1LUGFvRmpET0VHZzB5NG5NclEwdUFrZnlPbEg2Y3hTNldaNG51VlZjaVlFSVpmUFZhTmFfaXFreXlWbnFQb3F0VVFqcVNEZFhyUHVKVGRrOGpaX1lpYUZLQWtaYWItemhtTmktdS1fNXZfc2dPT0hDS2lqcnFIWGNIZ1dxNlRGM3B3UjgtNXo5STZV?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-08-17T12:10:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "The Investment Power",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a05ec90b38fb",
    "title": "Livlit Expands Its Mumbai Footprint with the Launch of Anugraha, a Premium Student Co-Living Residence in Juhu",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRGhIOC1XVjlKejFpTWo2bGpJV1dtLWYyU3lJZG9ubHZiaFhTSUllYk1GRjVqT3pqOWQzNjhaR3dCaFZsS3F4b0NyRGM1a01kMkRKRVlKMzhKRTQ1emNxTmpzUGF1Z3NVajlUVVBzTVh3ekZyQmtqblhzNTFYa0loYk9TOG5xSzRPaFFLdGhzdW05bkRKYm0xOTZFMGZkYlN0VnNPM3J4YXRjNTFNMXd4NUQ0YjFhNVhmZkhlOUR5WmFwU2xCU3E2NTFNNklkdzFTN19qdnhBTk0xMFY4bkc3U0tFQm1VQQ?oc=5",
@@ -6026,59 +6113,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "510918966ac9",
-   "title": "Beyond hiring: How Myntra is building longer-term careers for women in tech",
-   "url": "https://yourstory.com/2026/08/beyond-hiring-how-myntra-building-longer-term-careers-for-women-in-tech",
-   "source": "YourStory",
-   "published": "2026-08-17T12:05:08+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Beyond",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "987db5365ac2",
-   "title": "Funding|Financial News|Funding news |Latest Funding News India|Angel Funds for India",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xR3kyNjUwOGFTSlJzZUJvNnNaRU1ldXdfcjFFUVZjRWdLeHRQTF9MQ3NZTl9XQ0dudDFIRmFfeDNCZXJwTnc1eFRHdHlVbFprTHpOdVlKeC1GdGd5RWlJanJxaw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T11:58:20+00:00",
-   "score": 52,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "Angel",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Angel",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "caa44d1fdd29",
-   "title": "Karnataka HC: Police can freeze bank accounts without court order",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHF4SWVHaUFjQWpXU25ZOXRvWnFkLV9uZWEycUJ1ejZ3WDJUX2ZnZnF3VkhPdG02N2RYM0h1UnRwUFFrZW1CaTNubmZGM2ZpNGVDbzNoNnZla19Yd0JlYUJtYXlTSFloWmZoLXc4WUMxa3FBSVZkelBCb1ZjNU82RjdyOGNKQQ?oc=5",
-   "source": "medianama.com",
-   "published": "2026-08-17T11:56:47+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Karnataka HC: Police",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "48ea2ff92493",
@@ -6133,23 +6167,6 @@
    "alerted": true
   },
   {
-   "id": "45397279ca83",
-   "title": "Table Space DRHP: A Look At Shareholding Pattern & Key Executives",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXNWbjEweXNQbTFQUGFhMTNHLTFZcFAyRDEzdkJ2bDgtdThDMEJUNXJMYTZwaVo5TWNGQWNfVzcyYWlfVzhlVDQxaTE1Z21sR0FzbDg0blFMM1A2VHNQM1A0dVdmbHdSelZTNVhPbHpNUERTekwzc256VnluRFJUbTJQaDJQUzlybHl0X1FtOA?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-17T11:25:49+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Table Space DRHP: A Look",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4254af292126",
    "title": "Peoples Reflections Marks Seven Years of Empowering Journalism, Launches Reflections Gurukul to Prepare Journalists for the AI Era",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaHJFZkM5Q2dabVZpc3VNZlNmODIxelVHNkdEYzIxSnh0NEhzdHhfUXhnVndSQVc3TllXMUNKekU0d2tMZlJXaWh6RTlVdTFNOE41bHdjWmt6UGVEdThNb1JPWTRpdk5TWUt2Z0NXMnZ5MHRLbnlUV1RQUURQeGh0N1lpUUdQeXpVci01cUtnN0Etcng4dlNHZ0ZaeVczQ1p2VkJ1VUFSNXhEX1pQdkhrMnpZWkMxQ3FTQ2tvM2d4aFhKcUcxNVRjajlKN2Y4MWpEZlg1aVAzSk9nbjJPN3BTTTk2Y3R6Q1ZpRjZ0NGlCcUE3ZXFOdjV5MFJwWnNoSUNQ?oc=5",
@@ -6183,25 +6200,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "0e9badbd3035",
-   "title": "\u200bFestive season hiring expected to generate up to 2.7 lakh gig jobs: Report",
-   "url": "https://yourstory.com/2026/08/festive-season-hiring-generate-up-to-27-lakh-gig-jobs-report",
-   "source": "YourStory",
-   "published": "2026-08-17T11:22:27+00:00",
-   "score": 21,
-   "category": "other",
-   "company": "",
-   "amount": "2.7 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "2.7 lakh",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "b8ba4c7381af",

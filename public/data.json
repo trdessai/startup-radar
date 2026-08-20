@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-20T15:52:56.062158+00:00",
+ "generated_at": "2026-08-20T17:05:53.997003+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 15,
-  "alerted": 6
+  "fetched": 39,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -231,6 +231,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "259757e1080c",
+   "title": "Swiss investor HBM Healthcare adds new company to India portfolio",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbzNJOWpJRTVzVkY3aXFvamxmNjA0SG1GT2JnMGI3VDJuTEtscTN0cU12Nkx4cVVJWVlsd1l2OE8wSFBDbGE3QXNhTThDMEtCcnZwdFZjbHd1MGU4amtPcUdwTl90c3pEM0ZIYXFobTktZVVDcm1lZ3Y5Nk1Va1BaZXdhREN2WVVDZkFyclJhNVJINVU?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-20T13:43:39+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Swiss",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "8011f7fd1968",
@@ -4710,24 +4727,6 @@
    "reasons": [
     "no clear event",
     "\u20b91,435.2 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "81031376ccfe",
-   "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
-   "url": "https://economictimes.indiatimes.com/tech/startups/shiprocket-shares-soar-10-after-bumper-market-debut-rally-48-from-ipo-price-time-to-buy-or-sell/articleshow/133340741.cms",
-   "source": "ET Tech",
-   "published": "2026-08-19T06:40:15+00:00",
-   "score": 53,
-   "category": "launch",
-   "company": "Shiprocket",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "question headline"
    ],
    "alerted": false
   },

@@ -1,12 +1,160 @@
 {
- "generated_at": "2026-08-20T03:09:50.057291+00:00",
+ "generated_at": "2026-08-20T05:05:01.039757+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
-  "fresh": 15,
-  "alerted": 7
+  "fetched": 26,
+  "fresh": 8,
+  "alerted": 5
  },
  "items": [
+  {
+   "id": "0eadb9e2a7f7",
+   "title": "Peeko raises Rs 67.4 crore Series A, plans to double Bengaluru dark stores while building a wider parenting platform",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjBmclJFeEIyNFZlMC01bngxRHdUVkdvUGZFOEpEWW96OHlGU3RPa2ZQbjdoajZIOV9wVnh2Y08xVEkzMHpnckFkRk9zd2ZZbkpYY2dxX0Q2U2tQSzJTaDJZVTNOU08tdHNIWURLUG42SlUxZ040VFdnTktLbEd2M0NhLU1qc3FxbWM2THU3eVlUbUF4S2RaekV2QjhXUjBqbzR0eldzUU9UMkZ5bXZoUFVuY2xDTkRqd2c?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-08-20T05:00:24+00:00",
+   "score": 89,
+   "category": "funding",
+   "company": "Peeko",
+   "amount": "Rs67.4 crore",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs67.4 crore",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e40dcf4cbbed",
+   "title": "Neuromod Aqua raises pre-seed funding from Sportskeeda founder Porush Jain",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUJqNVkyNThJcVQ0LWwwb2hMMi1lZnhwdmgybl9Ma3VKMy1XTGttcmI0LV9UcERxXzNSZlZ6THhPb1pBS0M4eFFwY21XZUE4SEUybVIwekROcS16MWo3UmlKM0VJRGIzSkV3NXdubm1IQ0NUNDFCMmRKRWNyR2FDRE1uN1hoUzdyUThNZmQ2TEk1Ql9KcGFkZXk5by11dFBXU1ZObDNWSDhXaFpZWkZCZzMyQdIBswFBVV95cUxQSUJqNVkyNThJcVQ0LWwwb2hMMi1lZnhwdmgybl9Ma3VKMy1XTGttcmI0LV9UcERxXzNSZlZ6THhPb1pBS0M4eFFwY21XZUE4SEUybVIwekROcS16MWo3UmlKM0VJRGIzSkV3NXdubm1IQ0NUNDFCMmRKRWNyR2FDRE1uN1hoUzdyUThNZmQ2TEk1Ql9KcGFkZXk5by11dFBXU1ZObDNWSDhXaFpZWkZCZzMyQQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-20T04:49:11+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Neuromod Aqua",
+   "amount": "",
+   "stage": "Pre-Seed",
+   "founders": [
+    {
+     "name": "Porush Jain",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding in headline",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b5e2ddfa146f",
+   "title": "Babycare quick commerce platform Peeko raises over $7 Mn led by Chiratae",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1vblhDYVFBODR2RFZnbk1Vam9KemhrRXN2elZuYnZOZURDcUVhcmxhZEJyVVg0RnBBbHJMdS1ON2J1b2VlcFJWQ0UtcUpTeWxNWG1fMTNzUi05SllXRXJPcGRwOFlWUFlkMVVvc1FaWHhwaEVOdFIwQXoxeXJ0akNibGotWTluQXZvRm5YNlFEUWRTYlZfaUl2OWJzQWtLUWlmR1Z2cnBXYWlKZGJR0gGvAUFVX3lxTE5RbW9uWENhUUE4NHZEVmduTVVqb0p6aGtFc3Z6Vm5idk5lRENxRWFybGFkQnJVWDRGcEFsckx1LU43YnVvZWVwUlZDRS1xSlN5bE1YbV8xM3NSLTlKWVdFck9wZHA4WVZQWWQxVW9zUVpYeHBoRU50UjBBejF5cnRqQ2Jsai1ZOW5Bdm9Gblg2UURRZFNiVl9pSXY5YnNBa0tRaWZHVnZycFdhaUpkYlE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-20T04:37:38+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Babycare",
+   "amount": "$7 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$7 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "321cd6e3d9b1",
+   "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/robots-poised-for-chatgpt-moment-unitree-ceo-says/articleshow/133364132.cms",
+   "source": "ET Tech",
+   "published": "2026-08-20T04:27:08+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "Robots",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "156d19a690e7",
+   "title": "Despite the SC order, why hasn\u2019t Meta restored Aam Aadmi Party\u2019s blocked accounts?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WUFRJZnNmQ2FrczY2YXNzMG5OYm8yWFFmOFRqQU5UZHh1TkNRampfTHQ4Y1ppNXBiN2h2cW9sb2c3cFM2Vm9vZGlHazNtRFF6TDBMdjNpeEI0NW12WFlyR2RQekdPYXBiM3lDX1ItNHFFRG45OTRZOTlxTnhCZw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-20T04:02:43+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Despite",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "45e0bbf15a7f",
+   "title": "Y Combinator-backed Orange Health posts Rs 139 Cr revenue in FY26; loss nears Rs 100 Cr",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzVPNUJfUnR1SnRIalJ5WmtJcG5HSE1BQ0V6UXpLNzJ3R1IzM25IQUFjYUZ1bGZkSm42SEhYZEpnMV9JclRGZXBaQ3Z5eHJ6RWtZWG1TeHJkZVdPdnZ2dDJaWldocVN6S19QcXNQc0s2TWNlZ3llLTRHbU5zQXBGbm9PQzFSQkd1RFZqbV9yZDU3WXVQamFtRi12TVp6WG5raFhMcWV2SUluVTRueThkemlPM1JqNUJKWkt3YVgtUDVHQTZo0gHEAUFVX3lxTE4zNU81Ql9SdHVKdEhqUnlaa0lwbkdITUFDRXpReks3MndHUjMzbkhBQWNhRnVsZmRKbjZISFhkSmcxX0lyVEZlcFpDdnl4cnpFa1lYbVN4cmRlV092dnZ0MlpaV2hxU3pLX1Bxc1BzSzZNY2VneWUtNEdtTnNBcEZub09DMVJCR3VEVmptX3JkNTdZdVBqYW1GLXZNWnpYbmtoWExxZXZJSW5VNG55OGR6aU8zUmo1QkpaS3dhWC1QNUdBNmg?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-20T03:53:02+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Y Combinator-backed Orange Health",
+   "amount": "Rs139 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs139 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "130b17a9ee4c",
+   "title": "Exclusive: BGauss raises Rs 110 Cr in fresh round at Rs 1,000 Cr valuation",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGQzbTgxSnlSejZCdFJsZkpJM2VsWFdQMHY4RmYxU0JnVXEtMXpDNGR5V0tpQVNiNzVkN2VvRWRQUHMwdld4NjJBSy1EVGJYOVZtQlNRdk9ZWkplUVVkRkdqcnVxM2tJNmxSNGxFeDZVOHI4dGlveXlTakdyS2E0TUFKYjhwdlB2RWxlQWY2TzE0bWdrVW12Y2U4SGJZSFJ0Wk14dkNRdVB5eFBXYnktWDl30gGyAUFVX3lxTFBoZDNtODFKeVJ6NkJ0UmxmSkkzZWxYV1AwdjhGZjFTQmdVcS0xekM0ZHlXS2lBU2I3NWQ3ZW9FZFBQczB2V3g2MkFLLURUYlg5Vm1CU1F2T1laSmVRVWRGR2pydXEza0k2bFI0bEV4NlU4cjh0aW95eVNqR3JLYTRNQUpiOHB2UHZFbGVBZjZPMTRtZ2tVbXZjZThIYllIUnRaTXh2Q1F1UHl4UFdieS1YOXc?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-20T03:49:13+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "BGauss",
+   "amount": "Rs1,000 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs1,000 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3940a6d40fe2",
+   "title": "How living in the present can bring peace to an anxious mind",
+   "url": "https://yourstory.com/2026/08/living-present-peace",
+   "source": "YourStory",
+   "published": "2026-08-20T03:30:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "How",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8d53615256f9",
    "title": "Sharing circles launched in Bengaluru as part of Manotsava 2026",
@@ -5677,76 +5825,6 @@
    "alerted": false
   },
   {
-   "id": "9628ba10e302",
-   "title": "Amazon, Flipkart & Meesho\u2019s AI Focus Shifts To Seller-Side Stacks",
-   "url": "https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/",
-   "source": "Inc42",
-   "published": "2026-08-18T01:30:13+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Amazon Flipkart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9d0d2ae602aa",
-   "title": "India IPO Daily Market & IPO Updates | 17th August 2026",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUdUQXA3YjRyTWhPMUJseGZUQ0hGWHpEcThFZjlDMGVhNWM5bURsWmlSc2xVUFlFNnBFM1J3ek82eTN2RlltQkZhOHF3TkpaZFh1YVMzc2xXZXh1b2NVbFcxOU1UQjVpOWxVS0picEJaUVlDb2llWDh3alc3eENLMlVsRWRfSVFtX1NISm9ENXN1S080?oc=5",
-   "source": "IndiaIPO",
-   "published": "2026-08-18T01:14:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India IPO Daily Market",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6cb9625277eb",
-   "title": "After Dhoot, Bain-backed RSB Transmissions begins talks with bankers for \u20b93,000 cr IPO",
-   "url": "https://www.livemint.com/companies/after-dhoot-bain-backed-rsb-transmissions-begins-talks-with-bankers-for-rs-3-000-cr-ipo-oems-manufacturers-11786976307068.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-18T01:00:25+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "After Dhoot Bain-backed RSB Transmissions",
-   "amount": "\u20b93,000 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b93,000 cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1d11b9060bc8",
-   "title": "Navi\u2019s FY26 losses up fourfold to Rs 466 crore on massive UPI push",
-   "url": "https://economictimes.indiatimes.com/tech/technology/navis-fy26-losses-up-fourfold-to-rs-466-crore-on-massive-upi-push/articleshow/133306309.cms",
-   "source": "ET Tech",
-   "published": "2026-08-18T00:30:00+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Navi\u2019s FY26",
-   "amount": "Rs466 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs466 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "01b219bd1581",
    "title": "Ex-Kissht cofounders\u2019 firm Rezolv raises $12.5 million, to expand credit services",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT0Mzd3hhWWRUR2owWk9taHZGVUJZTU53OGxCeUxESUlRZktLRzhpTEZUNEI4T24yMXlFYmNjV2xkbjd2Tk1sU1I5Mk9rSDJEc2lCdWtiaDd4WkJfUmRCYjJHUXJ5bDFpTmdRX0lwT1prb3hIdVJPXzYyRk9mTmZISjRPemlNbFFJZk1ydUlJNWRFY0dpRjNORGplbFRuVGduX0ItVUUxZUo1cDRkMGFXYWNyUmp3SDBSZDc5Uy1iUFpTcHVNOVdUV0pzaG9JYmVzVFJoYTFidUxjT1RxdUHSAeMBQVVfeXFMTUp1YWlwV3dZWE5nMnBYcFFOaWNGdThFTzkwTWRfbUpMQlJ0RkNkZkgwb1ljN2dEd0taUmVUVHFmV1FLMm1GNTlvbDh0VlNicG53aTZGdU41MmkzakMzMTFWOER3eEdHSjNWMGlQa3lxemVVOFBnbGdXTmo0MW9wWXk5QmVFQlBQenNGdWNoNlNQLWZ3UHpDZG5DbVBoTHdESTRnOF9VNGhSZ2tudm9aaFJxb0FON1Vsd2FfUXMxOHU1MnVTYlhxN19jVDhWUnJqQUZEX2V2RGtzdWFjR2NpSFZFbnM?oc=5",
@@ -5763,57 +5841,6 @@
     "$12.5 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "ed91831677be",
-   "title": "Assurant",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HbVFDZUtXN0NsTm8yRGpXdVdPTmlFNGt0MW9WLVhYc3VBVllNWDgyQ1lSY0hsUEFKenFBTzJYbEJUT0YyYXREd0dpXzUxZw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T21:53:07+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Assurant",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f2f37a7c4e4",
-   "title": "Pahal Financial",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aR1pveW4tLThEQnNxVlRabVVDbWdDWXhhNkhsRUVHQlZqR2ZWS0xGa2hNQXdfd3BCMjBET0xtWDA2NFRlTlp3WHBvZ0RReFZZNW9uMlJ2QQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T21:53:07+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Pahal Financial",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b6319cab4a04",
-   "title": "Bombay Shaving to handle D2C biz for Colgate India",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzg3V2Vzcy1ybDk5eEdfVzBXT0F6NmVDcHJ5Vzg2bGxqZmFaTnQ2NDdHWDlTanB1SjFQWl82U2MwRTFCZHVIV2pfQlhCWngza3JELXFoU0JYS1U1MU90djFPUjRZS1JVTzFORkZpZ180bTB4YmpGQzZ6eW1qOGF1OGJNd3MybGNscmNZZ19Ja0c0aS05UHcxVDlILWcwbWZVWWI5OENxb1V5bFdnSzQtaU9YWkxNbW5kTnJNMlRrdlFCU0xFU192RdIBzgFBVV95cUxQb2lOVHN4S3ZrR2lKRHZyMUVGaE94Qi1wdVRMVXg5RzIwZnNDcE1ZZGJWeU1YMFh0SmVpSVVpT1Z0VTdrdWFyYWxNQmRvdGhUejM2b1ZXVnZRT0J5TTl1VjhYdG9CMGVXX08ycUpVdmJNWXQ1NG5WRkpGU1I4RWRrbjFNTDR4T3pTN0ZjR1ByWHE2Y3FYdE5KVlNOWjlxVzNfWGVHUmtCMHh6Z3JvbmIzWnRUVFptUnNuRTVSdk9ZV0l0UDFkQ0RGOGZ2NDlwQQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-17T19:11:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bombay Shaving",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5bdeed7440a3",
@@ -5867,24 +5894,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d8dff544910e",
-   "title": "- Inc42",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFBNdFExRlVjLUZzdURoaFdCdjc1bENteVphMUwyam14NHdNZXlvUnlJeUlfQXh2RWZHRHByYW5xRXFvV3MtZFowc3NXMGo4eExwN2t2c25vc0Zrb1IyaGxXZ05rVkpiVTBqZGJzLXo0X2VqZHE2NEZ3ZFIyeHg1SUV1Q0d4dXNOSWpWWGNGdURUUUZBZTJ3ZEYxR1JFREZGWERF?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-17T16:55:18+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "2c6a47629e22",

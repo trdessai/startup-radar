@@ -1,12 +1,255 @@
 {
- "generated_at": "2026-08-19T23:46:11.609456+00:00",
+ "generated_at": "2026-08-20T03:09:50.057291+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 1,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 24,
+  "fresh": 15,
+  "alerted": 7
  },
  "items": [
+  {
+   "id": "8d53615256f9",
+   "title": "Sharing circles launched in Bengaluru as part of Manotsava 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdURLSno1bEdhXzBqMjd0c2cwaXQ0dGNRdFJtNWdxX2QwQ0h6RTFiOXVFbEQzQ00zMHdveXIwU1hQcVhvTENrbUtKS21WVmMyTkRfSFdyMG5DSzl4NjhjSWFMMHFfQXNTT1VhS2pTa0d2RURJZDlKblUwZTVfSnN1NjUyWTFFVkJNN1pyVlMtRmdzZ1ZYWTlPdzE3cVJ2T1NmZEtWWmJoY19uTV9tdWVheTJacXdSOXVrb3hLVGtuS3jSAccBQVVfeXFMUFJKRTM3MF9YN0V4SzdQUUUyMkdJLVNjZGdkT0hycmhjZkloSzBqZ1VOcVY5TzVtLXZ1S0IwSjFpbF94OVBKczh1OEtjOVFoTjNEeExQWnF3Q1hXbDNsU2E0SHZRVmZSRWpLUzZoM0xDLUNyU3dkcHJNYlIxdEZqZl9iS1hMMU1nVXd2WnRCbXU2UDJzMFp2Y21BQ3l2YXdmS1BJYVpxV1AxV1RiWHlSTzRlRGd5N3NrcGFWYkdHY1dJbGhVXzd0aw?oc=5",
+   "source": "thehindu.com",
+   "published": "2026-08-20T03:03:16+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Sharing",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5e4c4f63f389",
+   "title": "Razorpay plays up its AI smarts as it heads to an IPO",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBWjR1WVpyZFRVZEpTcnBxYlpaYm9DamRJNjFrcE5IZHllT2NPX2paQ241WDhma0lBU0NocVdHRGFyVVEzWGc1SHZEeFNPcGk3NHBwakxCdVpDNS15WFRBT2dUYWZ2NUhMcjZLZVpJdUN3ZVNLU0E?oc=5",
+   "source": "Asia Tech Review",
+   "published": "2026-08-20T03:01:50+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Razorpay",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b9ea1d0e7b05",
+   "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+   "url": "https://economictimes.indiatimes.com/tech/technology/payments-firm-stripe-to-buy-marketplace-openrouter-in-ai-push/articleshow/133362682.cms",
+   "source": "ET Tech",
+   "published": "2026-08-20T02:59:25+00:00",
+   "score": 81,
+   "category": "acquisition",
+   "company": "Payments",
+   "amount": "$8 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$8 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ae0a8194e3ec",
+   "title": "Rescue mission for aging NASA space telescope fails",
+   "url": "https://economictimes.indiatimes.com/tech/technology/rescue-mission-for-aging-nasa-space-telescope-fails/articleshow/133362299.cms",
+   "source": "ET Tech",
+   "published": "2026-08-20T02:41:06+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "Rescue",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "93d2209fb970",
+   "title": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
+   "url": "https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-says-instagram-took-a-dont-ask-dont-tell-approach-on-kids-under-13/articleshow/133362274.cms",
+   "source": "ET Tech",
+   "published": "2026-08-20T02:38:11+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Former Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7ea2873f99d9",
+   "title": "Inc42\u2019s 7th D2C & Retail Summit, Shiprocket\u2019s Stellar IPO & More",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWxoZzlydV84X3o0TGNWR3ZxY1BFeHJEOWFXSHE3NlV0RFpDLWxpbUxYRm5UYldNN3ZJWC0xQWtLVTQ4c3hwaFE5WTRwMjkzRk5rTG5nUWlZTy03X3dPZTF2QnVtbG9qZW1UaUc4RzlQQ1ZxbVctSDd2QVhldkc4c0ZnTlI4dGJW?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-20T02:30:21+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Inc42\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "45f546f22760",
+   "title": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
+   "url": "https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
+   "source": "YourStory",
+   "published": "2026-08-20T02:30:00+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Fundamentals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "29a85ba00bb3",
+   "title": "The Economic Times Startup Awards 2026: Nominees for Woman Ahead and Social Enterprise",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-woman-ahead-and-social-enterprise/articleshow/133361639.cms",
+   "source": "ET Tech",
+   "published": "2026-08-20T02:02:29+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "The Economic Times Startup Awards",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "94b95e77f698",
+   "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzhIb0tHZGR2ZkJRWU9VWUNLYTNxRlhLZmdtaWJldDJxQ2tUZUt0OU94cnY2eDdlMVl3UUpBeUY4Mm5manJvelpQYnZFakcyVnhVZ0VQWnAyRmxRWG9Md0pNaWR6MzRVc2RZcWFVU29oWDZwcklieDByX19zYTNKVlBaUFJSTFVqSmxlM3E4QVNDb1k?oc=5",
+   "source": "The Mighty 790 KFGO",
+   "published": "2026-08-20T01:33:14+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Uber",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3234e0da766f",
+   "title": "Bengaluru-based quick commerce Peeko raises $7 million led by Chiratae Ventures",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkdjak9CRVBKbDRiUzJVVmlqdWJjRTJIalRTN1dwcEtjMkZuMEhVOVozNFVBUElDZExYNXlBSGJJdzI0TU5yVTAxQk10U1I3Slp5Ty00YTA3akJPZDBuSmZoSFlYMHpCZ0tneVJWcTN2dldNNEVUS2hqYlFxZVlPLXo5cERkNUNIS0Iya0xNTDAyTUxiNTNSVXBPdzJaeElFOFczNGV3SGZZODdhdXZ4anAyZjlCZWEzc3lwVnR5RzFRRVhy?oc=5",
+   "source": "NewsBytes",
+   "published": "2026-08-20T00:47:57+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Peeko",
+   "amount": "$7 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$7 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fc85620613c1",
+   "title": "India Inc\u2019s June quarter earnings beat masks a widening divide",
+   "url": "https://www.livemint.com/companies/india-inc-s-june-quarter-earnings-beat-masks-a-widening-divide-11787131767257.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-20T00:30:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Inc\u2019s June",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "63180fb551c0",
+   "title": "Xtovia: Putting \u2018I\u2019 in beauty space",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWFPeVBlNTVOblN0SGlJcjNwbHlrQV9mcXBmRXl3bWp6MGRGZE1zRXM0cXRQNnd1M0xUTDBwbmtXUnF6M3Q2alh1ME1rN1dsaHJLXzJNbDZrOHhnWEZzMlN4bkNHUHlEYlpXYWRYUnBtX2tyQU1TVi1FTDZHYVY4ZFR2MFN0Rk9nVjBIeVhOSFd6WjZzaVNLMGhEU3NxODdHN20xY3pXTdIBpwFBVV95cUxOMWFPeVBlNTVOblN0SGlJcjNwbHlrQV9mcXBmRXl3bWp6MGRGZE1zRXM0cXRQNnd1M0xUTDBwbmtXUnF6M3Q2alh1ME1rN1dsaHJLXzJNbDZrOHhnWEZzMlN4bkNHUHlEYlpXYWRYUnBtX2tyQU1TVi1FTDZHYVY4ZFR2MFN0Rk9nVjBIeVhOSFd6WjZzaVNLMGhEU3NxODdHN20xY3pXTQ?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-08-20T00:30:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Xtovia: Putting I",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d054949130be",
+   "title": "Peeko raises Rs 67.4 crore led by Chiratae Ventures to scale babycare platform",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFhmdEY2MjhVUjFYamxmdWg1SkdLblVUWW9hdkZ6ZGpjTnNQUkVxeDZObXlETXAwdXA0MmJ6Nm43b1hDRWsxd095aGNfLVdwYWx2MllnR1JWNEhhYUdmMmQ4YUpqVEk1c3dXanVpTGw3ZHlSNk50cjFrVGVlbjI3eW8wLWpsa0JfX2lfdTZyaEpkdTRKb1NjMFVSZnBQeXNUSmtCMEpfQnd0MEhoZGlScS1pdVFEeGVQTlBLLUJDX1pldlhmNE8wa1BfWXpIc2hPNHRmMDJQeFBWWEZvUlJsWNIB4AFBVV95cUxQOFhmdEY2MjhVUjFYamxmdWg1SkdLblVUWW9hdkZ6ZGpjTnNQUkVxeDZObXlETXAwdXA0MmJ6Nm43b1hDRWsxd095aGNfLVdwYWx2MllnR1JWNEhhYUdmMmQ4YUpqVEk1c3dXanVpTGw3ZHlSNk50cjFrVGVlbjI3eW8wLWpsa0JfX2lfdTZyaEpkdTRKb1NjMFVSZnBQeXNUSmtCMEpfQnd0MEhoZGlScS1pdVFEeGVQTlBLLUJDX1pldlhmNE8wa1BfWXpIc2hPNHRmMDJQeFBWWEZvUlJsWA?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-08-20T00:29:57+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Peeko",
+   "amount": "Rs67.4 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs67.4 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e2fde7c7df03",
+   "title": "Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count",
+   "url": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/",
+   "source": "Inc42",
+   "published": "2026-08-20T00:27:54+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Baby-Focused Quick Commerce Startup Peeko",
+   "amount": "\u20b967.4 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "\u20b967.4 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "515f1b4a06a2",
    "title": "Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",
@@ -5644,24 +5887,6 @@
    "alerted": false
   },
   {
-   "id": "e9c67854a555",
-   "title": "Paytm founder Sharma to sell stake worth up to \u20b94,895 crore in block deal",
-   "url": "https://www.livemint.com/companies/vijay-shekhar-sharmas-resilient-offers-paytm-stock-worth-513-mn-in-block-trade-11786978683978.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-17T16:50:57+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Paytm",
-   "amount": "\u20b94,895 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b94,895 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2c6a47629e22",
    "title": "Wispr Flow raises $280 million at $2 billion valuation, Peak XV joins new round",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZk54dzZza2kxR3ZaN1FzLWJsZ1V0cDgyUzRDT2JvTFl5Tm1ySTVCQU9Ta2Z2b0J4TWt4akVQZWtmMVp1bnV1ZHlCbFIwOFlueHNhdkRPQmNuQ2xyUExwTTZScXJ5bGNRMTktZTdaZWhJd1VaSEtLWkxjbFJQellycnZyZ21YcmZFMURQejBlbVdYY3FNcVVtWF9HcVJyZG53ZzFWX0VrdklFSm9GVUVLYkhVY05DRFdoRTVIOHVpdlhqekZiRWFEdzlkOXItUS1zYldJMnBzbVpNZDjSAeABQVVfeXFMTlpzMzd5NlYxRFVwdWl6VWVMUDRpdmNRU01pbmtSbm1EVFJfUmR0elhXOUlXOFFCbjNlNFpYelhKRmtSNGZ3TkdwQURzTVBTVnZGNFNKOXFjUERhSHpPUVljUG5Ha3ZGY2lXQmVnSHRRZmdEd3lfVkMtN3J2Rk9GVDk5aXg2TFQ1R3UwamdUUUdxcGxyZGlyUzZuZU5sYnRUdnNHSXFMVzVPQzdBLXlMbVpSM3FXRXdxejg4Rllxcnpacko4TVVNMnh0RmJiY2hFbGQ0S21TN0puX0hKX24wanI?oc=5",
@@ -5678,129 +5903,6 @@
     "$2 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "5d9901425ada",
-   "title": "GitHub down: Users report issues with website, app and login",
-   "url": "https://economictimes.indiatimes.com/tech/technology/github-down-users-report-issues-with-website-app-and-login/articleshow/133301748.cms",
-   "source": "ET Tech",
-   "published": "2026-08-17T16:31:18+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "GitHub",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "768bbfef7615",
-   "title": "When A Sale \u2018Dies\u2019: Did Flipkart\u2019s Dark Humour Go Too Far?",
-   "url": "https://inc42.com/buzz/when-a-sale-dies-did-flipkarts-dark-humour-go-too-far/",
-   "source": "Inc42",
-   "published": "2026-08-17T16:15:13+00:00",
-   "score": 17,
-   "category": "other",
-   "company": "When A Sale Dies\u2019: Did",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "64e3c7757d7e",
-   "title": "2 Bengaluru friends start Kried, a food truck selling fried food & burgers; made Rs 3 crore in 11 months",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNl9XS0s1bzRIcTFQcWhDUXVOQnF5dEMwWEh2S1F4MC16dFhXMUdYTFR3UENLdTIwYTJpcWtpeWhPckVibFVaRzJpOHBTMFlqbklCUUNqZjJYT2YxRUdWMFVUNEQxRDJZUDBMNHhDZllmM0xldmY1c09EWWo3dmtvdzlZS2xmMnhFMzNRZHVKcGhldDhCbC1aSTl3UjNzNGd4Zy1va2dHdHhRdjVySjhCTGhjRkwteW02cTFjRUg2QW1TRUhYUEtxYTk0dlgwQS1KSk5haA?oc=5",
-   "source": "startuppedia.in",
-   "published": "2026-08-17T16:03:24+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "",
-   "amount": "Rs3 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs3 crore",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "37682e13f748",
-   "title": "Vijay Shekhar Sharma-backed Resilient to sell 4.98% Paytm stake; Antfin to benefit",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjdRV3lFV0xpbXRaTXUySmkxUzNIQmllQmR6QmkxVkNIcFpXSDEyT1Uyc2cxNlVCTHNSdnRKd3RKamU0dEVIOVFiaFdneTNRU18ySUpMQ2JvOUNwcFQxdUdMUWt1U09LX2tiMERBQ2RSY0x3QnNrZFJpc0xJNTZRamtpLWFLZUpfYXJwQ0JRcm14bUxzZjdlMVh5ZjFOM25yT0JaZV9XQ2VYZ3VTZzZJa1JuVTTSAbQBQVVfeXFMT1I3UVd5RVdMaW10Wk11MkppMVMzSEJpZUJkekJpMVZDSHBaV0gxMk9VMnNnMTZVQkxzUnZ0Snd0SmplNHRFSDlRYmhXZ3kzUVNfMklKTENibzlDcHBUMXVHTFFrdVNPS19rYjBEQUNkUmNMd0Jza2RSaXNMSTU2UWpraS1hS2VKX2FycENCUXJteG1Mc2Y3ZTFYeWYxTjNuck9CWmVfV0NlWGd1U2c2SWtSblU0?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-17T15:54:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Vijay Shekhar Sharma-backed Resilient",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3bd4c4d5f626",
-   "title": "PharmEasy Claims To Be Debt Free After Paring More Stake In Thyrocare",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVl3LW1ER2Q2UlAtUW5OSkNReVpQME5hdjZ5ZjZ3UWs4UkRqY01NWWtrWS1hbXV5QXFsZURYYWRKQjRVQW9KeU1oVG9wUGYtRjJYaC1pQzhQNVNINV90U2F4dEJocHJvUEV1NnNJcHpkYWg5OF9oUkk1RkRHcEhyem9mUHAxM2hVRHFhcUFSRjR0NGxPZ0lHRg?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-17T15:27:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PharmEasy Claims To Be Debt",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3fe5442c20ab",
-   "title": "Govt Clears 31 More Electronics Manufacturing Projects Worth \u20b97.9K Cr",
-   "url": "https://inc42.com/buzz/govt-clears-31-more-electronics-manufacturing-projects-worth-%e2%82%b97-9k-cr/",
-   "source": "Inc42",
-   "published": "2026-08-17T15:14:03+00:00",
-   "score": 35,
-   "category": "other",
-   "company": "Govt Clears",
-   "amount": "\u20b97.9 K",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b97.9 K"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c19b4f329b5c",
-   "title": "Borosil opens exclusive brand stores in Pune and Gurugram",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmwwOUowVVZCdHdOMXQzdU91NWROb09DRjZGY29SQjBsWGE0b2hLdWVsQm1OanBUWHd5T0p1TjBsdE5QOTVKdFZFY2Z0SHhnSjRnU3lPZlFpU3N4TmZlNzA4VTVQUmVUMVBWdnl0SldfSGtyUzB0aERIQU9vRGhTSXo1OTVwekViVEtoZXA3Q0Q5QQ?oc=5",
-   "source": "India Retailing",
-   "published": "2026-08-17T14:56:45+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Borosil",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "578378243821",
@@ -5838,24 +5940,6 @@
    "alerted": true
   },
   {
-   "id": "ef9ec4d9d11c",
-   "title": "5 Books that explain why we compare ourselves with others",
-   "url": "https://yourstory.com/2026/07/books-explain-compare-ourselves-others",
-   "source": "YourStory",
-   "published": "2026-08-17T14:10:00+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "28f24c0664d5",
    "title": "Exclusive: Peak XV Alum Saksham Mittal\u2019s Corpus Labs In Talks To Raise Funding From Stellaris",
    "url": "https://inc42.com/buzz/peak-xv-alum-saksham-mittals-corpus-labs-in-talks-to-raise-funding-from-stellaris/",
@@ -5872,23 +5956,6 @@
     "Pre-Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "301a0b44bc7a",
-   "title": "Senses Electronics: From Pune Startup to a Leading Indian Smart Board and Interactive Panel Brand",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMjNDRFZLamd1di1lQ0tKT20yektNM01tbEZrOW1fZWtEbWFwb1JfZ3owNnJuZVVZdVlBVVBZSE5VMXU3SldCTER2S2FPOGlXMnUzWTFFZXAzR0VWVi1YN2thQ0FKTkVOOXhWS2xTVEhfWTBYWF9WdFYwV3lPMldxMl9QRi0wSGpCWTBUY0VPNFptSHpTcTVDSVFwSDVzZjNsYmd6b0ozSkFWbUg0SnljeVNjek5CYzhJYWgxMG5GQmFRZzlkeEszTHhoZ083R3EtVndlTXVkRUFuenoxSlBkZTlRTjJYRi1NWjJhMDNIVTdwak5qLVVpMUxDME5LalBubnpDZ2kxN2TSAY4CQVVfeXFMTnc5cG5JQVZBZEZwOE1INzg3MDBmaVBSd25WR1Z0YVVmNkJpY2dUS1FhMFJaU09Ub0JXbzhwWm1hd1FMSnV6YjFxQ2JCQVRvc19KdjVlOUVCT294d0x1NUlVRnI5R25kMlBYaWJZQzZtYjNiRl8wYUNBbWhldmpySldFVHpUVWg4WV81c3FrcXFTdWd6QUsyOFZQamdJOGZUTW43QkJYeEt3bzBVdXdKY1hjbmVtSzRXUnV5Z0YweWRfV2kwWUh4LWt1YUpoQWVkUjA1YnotdzZPZHZQU24yR3pzVmZJX3A3WVFqbXJJOEFDaFRFNE1raE9VTjQwZlNQWlMxaVpYOEEtbU94cVh3?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-17T13:45:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Senses Electronics: From Pune Startup",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f35e04632253",
@@ -5909,24 +5976,6 @@
    "alerted": true
   },
   {
-   "id": "a1fba57ffc17",
-   "title": "Indian deeptech investments reach $11.4B: Report",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjFxS1dIWFZUVmlBaUxYY2xsc1c4UTB1Rnd2Q3JsMUUydWdMd0pSb0w5OWx0MzBBVFNLX1NxUXFQaXozMzVvbDFSeUFpNkpsV0Z1VEc0bm5rRXV1RGoyekZRTVlQSlhqN0dRTG9SY3FSakFvYldlNGlkaGJGSXUyZnB6bFUzX2VEcHc?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-17T13:34:43+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "329d3e8a7388",
    "title": "Lenskart rolls out AI eye testing, raising privacy concerns",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjY4SVRaemdsV01WM1lyVjhhdmNhRE1Zc2dKYW5PZ3dZcmJQdzBGVnZfYlMwd2ZmS0RxUkNEa2FobzhGYmpyUVdCak9nNmlLWTBBemozb2M0cEhHem5VY3ZhY0dHZnpTcHNsaDNXOWwtWHlVTC1MUjlmakNkeWtMeTRxUGpIZw?oc=5",
@@ -5944,23 +5993,6 @@
    "alerted": true
   },
   {
-   "id": "8da7a398163d",
-   "title": "Unveiling the high-powered ETSA 2026 jury; Zepto's profitability push",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/unveiling-the-high-powered-etsa-2026-jury-zeptos-profitability-push/articleshow/133297833.cms",
-   "source": "ET Tech",
-   "published": "2026-08-17T13:24:01+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Unveiling",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ea79e85cc920",
    "title": "'Our cyber defence must evolve faster\u2019: SEBI chief Tuhin Kanta Pandey launches 2 new portals for digital security",
    "url": "https://www.livemint.com/companies/people/our-cyber-defence-must-evolve-faster-sebi-chief-tuhin-kanta-pandey-launches-2-new-portals-for-digital-security-11786963774172.html",
@@ -5976,40 +6008,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ec3020706af4",
-   "title": "Quick Response Team - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQ3I3VGpybUtNUnVObUgtTmNOSFc0QjVYU3B0RGFFdmp2bjBIaFFSb2tRMUpIUkF0SkZtbEFnVzdDajdKRVBkVS1fWVMxSURLWmVFMVM3bWhNWC02ZjVn?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-17T13:20:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Response Team",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ded08f574546",
-   "title": "Central Electricity Authority - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tM05hOXBGUjZ2a1gxaUZfSy1TU09LNXZsWWZPVE10b2J5cEpUZkdRX3d5dXBjOUJPQzJtTFhXUzNkb2RsX2xTVzlaMmJEbjI4WklHWHdkUGtCVFhoaXNYREx1Y3AtTGpsNmlYMg?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-17T13:20:06+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Central Electricity Authority",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5b130cb094c3",

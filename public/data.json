@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-21T20:53:44.872093+00:00",
+ "generated_at": "2026-08-21T21:52:31.154062+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 4,
-  "fresh": 3,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "0c61bf0520f8",
+   "title": "Digidukan",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pbEhTZU5leG5YS2lldXdRQUdlNTFURTJKM1UzV2xGcEhFTkxza0tXd1Vrb1VRZHNoZUZLM2JjRlQ1Z290T1VJZ2hqbjNsX00?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-21T21:21:29+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Digidukan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "9657d46c6bef",
    "title": "TiE Mangaluru to drive Karnataka\u2019s first K-Combinator startup acceleration programme",
@@ -2836,23 +2853,6 @@
    "score": 18,
    "category": "other",
    "company": "MeitY",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9cbe016525ab",
-   "title": "DPIIT inks MoU with PhonePe, Shell India to support startups",
-   "url": "https://economictimes.indiatimes.com/tech/technology/dpiit-inks-mou-with-phonepe-shell-india-to-support-startups/articleshow/133379989.cms",
-   "source": "ET Tech",
-   "published": "2026-08-20T14:03:11+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "DPIIT",
    "amount": "",
    "stage": "",
    "founders": [],

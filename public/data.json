@@ -1,12 +1,294 @@
 {
- "generated_at": "2026-08-21T07:31:53.738430+00:00",
+ "generated_at": "2026-08-21T09:20:53.621933+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 43,
-  "fresh": 23,
-  "alerted": 6
+  "fetched": 53,
+  "fresh": 20,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "36236a7acda9",
+   "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal",
+   "url": "https://www.livemint.com/companies/news/india-to-give-canadas-fairfax-two-years-to-consolidate-holdings-for-idbi-bank-deal-11787302921530.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-21T09:14:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "274f588d63cb",
+   "title": "Deepinder Goyal's Temple wearable now half the size, pre-orders to open soon",
+   "url": "https://yourstory.com/2026/08/deepinder-goyals-temple-wearable-half-the-size-pre-orders-soon",
+   "source": "YourStory",
+   "published": "2026-08-21T09:09:50+00:00",
+   "score": 64,
+   "category": "launch",
+   "company": "Deepinder Goyal's Temple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a838a4852765",
+   "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms/articleshow/133398770.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T08:56:14+00:00",
+   "score": 88,
+   "category": "launch",
+   "company": "Brazil",
+   "amount": "1.3 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "1.3 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "337a4c4b5758",
+   "title": "Exclusive: Fragaria In Talks To Raise \u20b940 Cr From Blume Ventures, Others",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3M4VkxiVGpSbk1NT2JfZHZ4dFAzSkJabkx0WHh2YXlGc3hzRzc1c1dJbDBQWDNTNDhJbDBfZTdhaGF3TjVTRDRnVF9EdDRGYUgtMDltOG4tMVl5M25JX3NvYnNhSFlBNE5kMWVneWRiaFhwLTVDLXlLeGxwWGh2Vy1OaUswVGd0RmFvaXVmTm9wWTg5RTJoaWl1ZnlaNzVu?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-21T08:42:03+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "Fragaria In Talks To Raise",
+   "amount": "\u20b940 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b940 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bf17f169d8f7",
+   "title": "EtherealX: The Bengaluru Startup Building A Reusable Rocket Like SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWdUTDE0T1JsVFhSQlE0eF9QcnJVRFk2ZlIzdGFmUUVkdVRXZjdDOTRhdjNaSGtxWkVDRW1WZkxHejZuSlUycFVNUlVPMGpuTUdINDVjQW4yTDJnZ1hjWUJUQ01kMmRyX0w4eVRCQVhjWVktWm1KWVZoSzU2dm1kck03WWJuRVltcDhLVC1JbEt2TW9pd3VlWm5Sd3A0OFcxa2VVTmR3?oc=5",
+   "source": "OfficeChai",
+   "published": "2026-08-21T08:39:06+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "EtherealX: The Bengaluru Startup Building",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7cada2bfa39d",
+   "title": "India orders removal of Google Firebase accounts after spotting scam pattern",
+   "url": "https://economictimes.indiatimes.com/tech/technology/india-orders-removal-of-google-firebase-accounts-after-spotting-scam-pattern/articleshow/133398387.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T08:30:19+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "India",
+   "amount": "$2.4 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2.4 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ce7b4cf976b1",
+   "title": "Dot & Key Skincare Launches India\u2019s First 15-Shade Tinted Sunscreen Range",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNam5TUy1RVDB4TkFuNkpyTjJ0RE5yT3RqTkVjSmpoamtNYXdrcFA0U0x2aHYtd0pXRTl0M01WbmpNM2lUMjBPOHlVdVpqU1A4YnQtRDBuWXJRLU00bXBWOHpaeXRiWGFUVGJneWZOQllJXzRranVlSUFoelBMNGtHQVRlMFgxdFFoSEJTcExLcGd2SmtMTXV1d3hUX3ZLUHA3YTNJZE5EOEJhSEh3Z1NCMlFTbw?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-08-21T08:24:59+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Dot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3d8c473c69cb",
+   "title": "Turtlemint Jumps Nearly 6% After Bullish Ratings From Jefferies",
+   "url": "https://inc42.com/buzz/turtlemint-jumps-nearly-6-after-bullish-ratings-from-jefferies/",
+   "source": "Inc42",
+   "published": "2026-08-21T08:24:29+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Turtlemint Jumps Nearly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "881e9a7eabdf",
+   "title": "Saint-Gobain\u2019s India CEO wants to change how Indians build homes and offices, using gypsum boards and glass wool",
+   "url": "https://www.livemint.com/companies/news/saintgobain-india-ceo-homes-offices-gypsum-boards-glass-wool-insulation-construction-techniques-dry-walls-brick-walls-11787296720538.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-21T08:21:24+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Saint-Gobain\u2019s India CEO",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Gobain\u2019s India",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c37c19eafdde",
+   "title": "Quadria Capital-backed Nobel Hygiene eyes Rs 150 Cr IPO",
+   "url": "https://yourstory.com/2026/08/quadria-capital-backed-nobel-hygiene-eyes-150-crore-ipo",
+   "source": "YourStory",
+   "published": "2026-08-21T07:59:50+00:00",
+   "score": 58,
+   "category": "expansion",
+   "company": "Quadria Capital-backed Nobel Hygiene",
+   "amount": "Rs150 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "Rs150 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8cb8105a1bd8",
+   "title": "Commodities",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oMEVOeElZa1J0SkRld2FBeF9fNDY0X3dXWkplU0dSZGFrY1ZQYmVmU01peC1LWVZQVFotZUs0VEk0Y0JiNm91Q0ljaGphWTlu?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-21T07:53:14+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Commodities",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8eff3763c454",
+   "title": "Retail India News: Atomberg Files IPO Papers with SEBI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdl9CNzBoUU55cVFoTkVvY1RJVTZZTm9icGZOT2s4VG5USmJiTDZON0tiNDk4ak9vUzhiUWczOFRHSVNsWEhkSURMaVE0MEJpN3IxRXhjNTVhVnRoNDNLZGRjUEIwNFd1WkgwN1hiQVZiRXJuSVpXeTV2MTl3YmxDSm9ONUVNcnRvTzB0eg?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-21T07:52:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Retail India News: Atomberg Files",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "985f2802c86c",
+   "title": "Volkswagen confirms sub-4m SUV for India in 2027; Kylaq-based model to be locally made",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2NGTG9NWnRITFdqdWlqOUg5aExlMkw4QjY3elczT1BoTjFQOXVOZTB3U3Rsai1aMVMxNmJkZTRUeVhSb3VwM01oLWo1dkVGVVlnV25wRDZmM19aczBoeWtBZFZZNVBLTUlMSGM2UEZMc2QySFAxNkkzdHBOZS1oV1NSb0oxcjdOZHVJMWd2ZTd1Ql9iZ3lGak8zMGNBbWhuNjJNZm9vNElZendOX25pTUktMWNuNmt4UDdpNlhzbzNITl9s0gHSAUFVX3lxTE15SVM3NHcyWnFKUERWd2pmZFRNRUluZXRUNHBhbUpMRWZPaGxRaURlODdqYzBaMy02ZG9hMWcycW5KWDA2YmpUWW1JVkxIdm5hYU01UGRiYkVTbVpiVVN3OW1CdGYzVGJ0Y0VlU1hnVl9Jd2RNZGc4TTYxR25sMFNTWXMwZmRtOGpRNTdySzdGQ1VldGRVcFN2bnA0bVY1QnJnaDQ2cWFEdm1rMlFsbG1vbmExcC1TT3ZZbnlGdUhhOGxFV0E5VjRuQkNzREw0T1A4dw?oc=5",
+   "source": "Fortune India",
+   "published": "2026-08-21T07:47:51+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Volkswagen",
+   "amount": "4 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "4 m"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "91521954b1d6",
+   "title": "Harshita Srivastava",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wajNPMm8xM1FBV3pfdURRX0tVR2lSRHVQVm1SbVloY2d2bUl1ZzltY3FvdS1OQW16U1MtemVSeHVWQ0hJOU9zWTR5R1pqLVVyZEU4Z3B6NW9oZkZSV2p3cnFRano3NTc3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-21T07:38:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Harshita Srivastava",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "23e95be795f8",
+   "title": "Swiggy shareholders clear Instamart inventory model shift",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zamR1MEVsZGtOREg0a3JWb29oelRua2dVSlZubEVHVFhIbExpNThfYk1tam1Sem9wbS1mUE9kV0VSWnl3SzRvREJJOWh6RHBkUVI4Zld5a2F3Zmxsb3Zxa0ROS3hCS3BsWjgzYTNyYmhKWEktS2VqalVjdw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-21T07:31:33+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Swiggy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3f5952c50415",
+   "title": "Maharashtra is planning to add social media posts back into criminal law",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdktIWlhnV3gtSS1yMGlCeGYxRWpPUW01alFFWUZJdmtzZnlqNW1MUGN3VEtDaWRDLVF4dzdLRXBWWDcxN3R1bFl2MUNIWHJpSFpwT0E1OEhDZVd1elVtdjUyQ3d6VGQ2R1ZBM1RnUFlxZG5melY3ZHl4ME5maGNuWTlxUE9FVUZuVUE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-21T07:26:53+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Maharashtra",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "317cbff08936",
    "title": "IndiGo's website faces technical disruption, users unable to book flights for second time in a week",
@@ -86,6 +368,23 @@
    "score": 23,
    "category": "other",
    "company": "Boat Mamaearth",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "575b28e125c4",
+   "title": "Delhi HC leaves children's social media ban to government",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWVwMUItdUJGRU1uWTJYRFNoQVFsWWtxeDVSai1BRWRsM19KbnpiSVpCRXNDLUVQT0JEaEJneWN2cERNRTJfdG1XdFNIZ3NYNFRrTXZZM1RlSDhGM2d2U0ZEd3Q5djU1Q0pidHJxSmVaOTQ2WFpIZDBOTlN0bTF5MQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-21T07:10:20+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Delhi HC",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -281,6 +580,24 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a6ea20189130",
+   "title": "Quadria, Sixth Sense set for modest returns as portfolio firm eyes $300 mn tag",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkljU3pVSzdTNklhUlRodjJFMWdzZE9SbTdrOTk3SXpQOG5TQTYxZS1aNnpjWExqdXZPM1lIMEEzd205QUxobFBTX0l6NXlTVzU5b0VVVzZhZXFWLXZjTi1wMXh2T3EtUUZyN1NkbWlzZTNOeFVHRE5QbVU1RnlLczhMX2N6QS1VSzZFUDc0ZjAxU2R4V09ER3BMZHJOS3FuT3c?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-21T05:44:59+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Quadria Sixth Sense",
+   "amount": "$300 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$300 mn"
    ],
    "alerted": false
   },
@@ -3363,23 +3680,6 @@
    "alerted": true
   },
   {
-   "id": "3940a6d40fe2",
-   "title": "How living in the present can bring peace to an anxious mind",
-   "url": "https://yourstory.com/2026/08/living-present-peace",
-   "source": "YourStory",
-   "published": "2026-08-20T03:30:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "How",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8d53615256f9",
    "title": "Sharing circles launched in Bengaluru as part of Manotsava 2026",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdURLSno1bEdhXzBqMjd0c2cwaXQ0dGNRdFJtNWdxX2QwQ0h6RTFiOXVFbEQzQ00zMHdveXIwU1hQcVhvTENrbUtKS21WVmMyTkRfSFdyMG5DSzl4NjhjSWFMMHFfQXNTT1VhS2pTa0d2RURJZDlKblUwZTVfSnN1NjUyWTFFVkJNN1pyVlMtRmdzZ1ZYWTlPdzE3cVJ2T1NmZEtWWmJoY19uTV9tdWVheTJacXdSOXVrb3hLVGtuS3jSAccBQVVfeXFMUFJKRTM3MF9YN0V4SzdQUUUyMkdJLVNjZGdkT0hycmhjZkloSzBqZ1VOcVY5TzVtLXZ1S0IwSjFpbF94OVBKczh1OEtjOVFoTjNEeExQWnF3Q1hXbDNsU2E0SHZRVmZSRWpLUzZoM0xDLUNyU3dkcHJNYlIxdEZqZl9iS1hMMU1nVXd2WnRCbXU2UDJzMFp2Y21BQ3l2YXdmS1BJYVpxV1AxV1RiWHlSTzRlRGd5N3NrcGFWYkdHY1dJbGhVXzd0aw?oc=5",
@@ -3395,23 +3695,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "5e4c4f63f389",
-   "title": "Razorpay plays up its AI smarts as it heads to an IPO",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBWjR1WVpyZFRVZEpTcnBxYlpaYm9DamRJNjFrcE5IZHllT2NPX2paQ241WDhma0lBU0NocVdHRGFyVVEzWGc1SHZEeFNPcGk3NHBwakxCdVpDNS15WFRBT2dUYWZ2NUhMcjZLZVpJdUN3ZVNLU0E?oc=5",
-   "source": "Asia Tech Review",
-   "published": "2026-08-20T03:01:50+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Razorpay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b9ea1d0e7b05",
@@ -3449,74 +3732,6 @@
    "alerted": true
   },
   {
-   "id": "93d2209fb970",
-   "title": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
-   "url": "https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-says-instagram-took-a-dont-ask-dont-tell-approach-on-kids-under-13/articleshow/133362274.cms",
-   "source": "ET Tech",
-   "published": "2026-08-20T02:38:11+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Former Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7ea2873f99d9",
-   "title": "Inc42\u2019s 7th D2C & Retail Summit, Shiprocket\u2019s Stellar IPO & More",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWxoZzlydV84X3o0TGNWR3ZxY1BFeHJEOWFXSHE3NlV0RFpDLWxpbUxYRm5UYldNN3ZJWC0xQWtLVTQ4c3hwaFE5WTRwMjkzRk5rTG5nUWlZTy03X3dPZTF2QnVtbG9qZW1UaUc4RzlQQ1ZxbVctSDd2QVhldkc4c0ZnTlI4dGJW?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-20T02:30:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Inc42\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "45f546f22760",
-   "title": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
-   "url": "https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
-   "source": "YourStory",
-   "published": "2026-08-20T02:30:00+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Fundamentals",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "29a85ba00bb3",
-   "title": "The Economic Times Startup Awards 2026: Nominees for Woman Ahead and Social Enterprise",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-woman-ahead-and-social-enterprise/articleshow/133361639.cms",
-   "source": "ET Tech",
-   "published": "2026-08-20T02:02:29+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "The Economic Times Startup Awards",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "94b95e77f698",
    "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzhIb0tHZGR2ZkJRWU9VWUNLYTNxRlhLZmdtaWJldDJxQ2tUZUt0OU94cnY2eDdlMVl3UUpBeUY4Mm5manJvelpQYnZFakcyVnhVZ0VQWnAyRmxRWG9Md0pNaWR6MzRVc2RZcWFVU29oWDZwcklieDByX19zYTNKVlBaUFJSTFVqSmxlM3E4QVNDb1k?oc=5",
@@ -3550,40 +3765,6 @@
     "$7 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "fc85620613c1",
-   "title": "India Inc\u2019s June quarter earnings beat masks a widening divide",
-   "url": "https://www.livemint.com/companies/india-inc-s-june-quarter-earnings-beat-masks-a-widening-divide-11787131767257.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-20T00:30:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India Inc\u2019s June",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "63180fb551c0",
-   "title": "Xtovia: Putting \u2018I\u2019 in beauty space",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWFPeVBlNTVOblN0SGlJcjNwbHlrQV9mcXBmRXl3bWp6MGRGZE1zRXM0cXRQNnd1M0xUTDBwbmtXUnF6M3Q2alh1ME1rN1dsaHJLXzJNbDZrOHhnWEZzMlN4bkNHUHlEYlpXYWRYUnBtX2tyQU1TVi1FTDZHYVY4ZFR2MFN0Rk9nVjBIeVhOSFd6WjZzaVNLMGhEU3NxODdHN20xY3pXTdIBpwFBVV95cUxOMWFPeVBlNTVOblN0SGlJcjNwbHlrQV9mcXBmRXl3bWp6MGRGZE1zRXM0cXRQNnd1M0xUTDBwbmtXUnF6M3Q2alh1ME1rN1dsaHJLXzJNbDZrOHhnWEZzMlN4bkNHUHlEYlpXYWRYUnBtX2tyQU1TVi1FTDZHYVY4ZFR2MFN0Rk9nVjBIeVhOSFd6WjZzaVNLMGhEU3NxODdHN20xY3pXTQ?oc=5",
-   "source": "The New Indian Express",
-   "published": "2026-08-20T00:30:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Xtovia: Putting I",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d054949130be",
@@ -3642,108 +3823,6 @@
    "alerted": true
   },
   {
-   "id": "edc18ddefdc1",
-   "title": "NexEdge",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TMFJCN2NGdUhqTFVkM005S0RzVkFta1pFLXZRTGdicXUzSmpnVWg2ZmxBaVBweTVXR00tMHVNWm5USmFQdUdqVDNkb2Q?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T19:23:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "NexEdge",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "799181ee4574",
-   "title": "BluPine",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tV0NMSE5SRFItWk9nYy1sWUN3Nm1DcVNxdl9RcHNJVEVzWjI4YlkxemE0YjZLeG1CejBKa2tDRk8ycGs2Uk0wSUlkblg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T19:23:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "BluPine",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d218a27cf941",
-   "title": "Mallcom (India) Ltd",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yT3FFWlFDQzk3LUFoSlgzZWFZQmxEd0NMUUllb3h0YVFpRXN1Rk0yYS05MkR4N1FIYklHSVJRb2lIN1B1S0hveG1RY1pMOVpJOF9SdDYtai1oQQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T19:23:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Mallcom",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3ad6f9f2db72",
-   "title": "Anoop N",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4OG9FVTJHNHNJck1oeEFzQ0IyTi1PY3Z5VWU0U193WllJZnV1dU9VNGZtbG5OYUJ6SmpVeFh3eVZzVDctR0ZpdkFxZFo?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T19:23:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Anoop N",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3b5686100730",
-   "title": "UNICAF",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoSVBZRlZTTDdOdy1RNVNIWGszOG5xRXBYc2hCeUxVemthcG5rSjlMYTI4LWZUTXVmVlR3RlVlVnJzUTl1MmRRQU8wMA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T19:22:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "UNICAF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dad68c926cf5",
-   "title": "Google offers Indian college students one year of AI Plus for free",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjkwYXppVXFBektxdFEtcmhyU3lETzJndTBiNGl0cUFOM1ZrTEJHQXRLLUctcEZLcVRJaUpvZXZvSzIxYUJzV2didUFaM0J2MUZkQ0VOTURuMjhKNmhFQzNrYTJPOWxNWDV3LUFPMXo3clNvYzYwQUNDMHRNWm10QWhrVWRzZU9rU3FVcW5NWXVxRVVmZ1ZueE50TzNFdkZlUnlRSHczZ2NTVmVJUkE?oc=5",
-   "source": "t2ONLINE",
-   "published": "2026-08-19T19:00:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0b7e859dfb81",
    "title": "Navi\u2019s UPI growth fuels NBFC arm\u2019s loan expansion",
    "url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap-11787154859866.html",
@@ -3782,76 +3861,6 @@
     "$100 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "593f295540be",
-   "title": "Amazon \u20b91 lakh fine: CCPA flags sale of sweets as \u2018Shri Ram Mandir Ayodhya Prasad\u2019",
-   "url": "https://www.livemint.com/companies/news/amazon-1-lakh-fine-ccpa-flags-sale-of-sweets-as-shri-ram-mandir-ayodhya-prasad-11787143709543.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-19T16:50:43+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Amazon",
-   "amount": "\u20b91 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d8cb7d424d01",
-   "title": "Indian fintech Navi to raise $100 million ahead of planned IPO",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEN0TWN4bVloakJyWkVveE8zdGo2X21xMGwzd0ItS1VrY2UxYTFNMjNhaVpVYnNWZ09YOVpwOTZWdi1ELXB0dmozOVJ1UV9uX19qSTlodDZlem1MY2VHVGdvZXRucEJqSEJjNDA2NVk4dHJTRk1vWnFzMTVOSXFVOXRXWWk?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "published": "2026-08-19T15:51:31+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Navi",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e814fa7f5f8d",
-   "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
-   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/articleshow/133352365.cms",
-   "source": "ET Tech",
-   "published": "2026-08-19T15:31:31+00:00",
-   "score": 50,
-   "category": "expansion",
-   "company": "Amazon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1712073fc783",
-   "title": "How Indian D2C Brands Are Rewriting Their Playbook For Profitable Growth",
-   "url": "https://inc42.com/buzz/how-indian-d2c-brands-are-rewriting-their-playbook-for-profitable-growth/",
-   "source": "Inc42",
-   "published": "2026-08-19T15:31:07+00:00",
-   "score": 54,
-   "category": "acquisition",
-   "company": "How Indian D2C Brands Are",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition"
-   ],
-   "alerted": false
   },
   {
    "id": "3b988b022596",

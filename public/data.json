@@ -1,12 +1,358 @@
 {
- "generated_at": "2026-08-20T23:55:50.676436+00:00",
+ "generated_at": "2026-08-21T03:30:37.827591+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 1,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 21,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "def24a81add0",
+   "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T03:21:33+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Broadcom",
+   "amount": "$100 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$100 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "41ea36f444d1",
+   "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-cinemas-restricting-meta-ai-and-other-smart-glasses-over-piracy-concerns/articleshow/133391682.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T03:13:58+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "UK",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "116d721a5931",
+   "title": "Anthropic plans to change enterprise data retention policy",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T03:11:01+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8a8a724610f8",
+   "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T03:05:17+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Nvidia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "faa5623a6f77",
+   "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T03:03:10+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Ex-Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "776d9abdff45",
+   "title": "From targeting to pricing: How consumer data is being repriced as revenue",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkJKNzlOS092SjZham05U0lhZ2pMZ1dZV01KNVQxUXpVNzNYY2I1QnM4Z3loanlNd1ItcUt0SWMxTmNYd0d3WWpIOE5kS09mc0lsWVF4QURzdWlzX0x6R0tBZXJnZTB0b0g3SWdnb3g3Mk9MRHFyQUx2M0NLYVd1THFHQ2ZpdmktZEIyLWwwODdSc2FsRTZ0OU9OZU5XOUhlcW83cXp30gGrAUFVX3lxTE45WTRjUWdIcjFRaFBvZWZGS1BLdHpIc0hGcnNyanJhQkZfeWtnSmZZZGtlWGliTHoyZkk2RmtTX2hTbzZYNW5ZdVpXZzA0NUsyc3RrLXNIZFRaS2lhWTJac3RWN19YYmk4WjQ0cDNhTG1QWjJJRm40dXRCd0k3U1Q0NDR4QkJ2Rk5raVV1UjlCVGNxMXlQNXlCTFdEMWU0clJIU0s1c0tEZVFfWQ?oc=5",
+   "source": "Storyboard18",
+   "published": "2026-08-21T03:02:46+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ed801a0f6d2",
+   "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T02:59:31+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Kakao",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4a92f9734ae9",
+   "title": "Samsung Electronics to convene board meeting Friday to discuss shareholder return plan",
+   "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T02:57:47+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Samsung Electronics",
+   "amount": "$71.75 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$71.75 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7ad74c50fd17",
+   "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less/articleshow/133391316.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T02:54:06+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f17bdcaeb06c",
+   "title": "Atomberg files DRHP for Rs 450 Cr fresh issue; A91, Temasek, Jungle Ventures, and others to take partial exit",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzgtTWlSdHBnajJxTExvWE4yeGlvcTNDTEUwaHpoLVZIS1NVa2dkck01OFdEQlFHazIwQlZBUzVxcWVKYXBOZE0zQWlxcS1CVVN3MkFlaS1rdVI1eUNfRzRJM2w2eGFObXQ4VzJLcHI0ZmtpVFdldDZMTTgzNkxGcGw2b2N6a1ktZ0F2Qkl5akVUSWlLRGx3eXNrWFFQYzF4X3NWeVdNdFF4YU9EY2NNWkxTcDdjalVocEdhbDA4NWphcUhxYTRnSEV2bUE3UEhCZHB0c29hb9IB1wFBVV95cUxPYzgtTWlSdHBnajJxTExvWE4yeGlvcTNDTEUwaHpoLVZIS1NVa2dkck01OFdEQlFHazIwQlZBUzVxcWVKYXBOZE0zQWlxcS1CVVN3MkFlaS1rdVI1eUNfRzRJM2w2eGFObXQ4VzJLcHI0ZmtpVFdldDZMTTgzNkxGcGw2b2N6a1ktZ0F2Qkl5akVUSWlLRGx3eXNrWFFQYzF4X3NWeVdNdFF4YU9EY2NNWkxTcDdjalVocEdhbDA4NWphcUhxYTRnSEV2bUE3UEhCZHB0c29hbw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-21T02:50:07+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Atomberg",
+   "amount": "Rs450 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs450 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "558860984c67",
+   "title": "Early-stage startup funding crosses $609 million in July-August",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3h2ajdydk1CdWVOdUxHTTF5WXJUQVNSSGE3VFpHR0V4Q0JrLUlrVWY2bC1tb1lSQ016SVFNdFJaV2cwUUNja0VjWjBXVC00YkMwT3RRejVONW1BZzN1NHJnQm12VE5NMFpRbkl3YXFtRHZMeFhXTDBET3lpNTY3QUs1MU1KTFNIVHN4UHVBd3ZJdXo3b01qVmlHV3FwX0lpNUg4LWxtQnJfNWlq?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-08-21T02:30:56+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Early-stage",
+   "amount": "$609 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$609 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "35dae66da266",
+   "title": "Microdrama\u2019s Big Problem, The Data Centre Security Bill & More",
+   "url": "https://inc42.com/buzz/microdramas-big-problem-the-data-centre-security-bill-more/",
+   "source": "Inc42",
+   "published": "2026-08-21T02:30:18+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Microdrama\u2019s Big Problem The Data",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "adefae872766",
+   "title": "Technosport CTO on why scaling a business is rarely a server problem",
+   "url": "https://yourstory.com/2026/08/devsparks-hyderabad-yourstory-technosport-cto-scaling-a-business-rarely-server-problem",
+   "source": "YourStory",
+   "published": "2026-08-21T02:30:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Technosport CTO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "db8e98130b91",
+   "title": "Financial planning for founders: Preparing for growth, uncertainity and exit",
+   "url": "https://yourstory.com/2026/08/financial-planning-for-founders-preparing-for-growth-uncertainity-and-exit",
+   "source": "YourStory",
+   "published": "2026-08-21T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Financial",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2be7522d75b3",
+   "title": "Google\u2019s new AI for students; How a care crisis sparked EzyHelpers",
+   "url": "https://yourstory.com/2026/08/googles-new-ai-for-students",
+   "source": "YourStory",
+   "published": "2026-08-21T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Google\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cdba33b8654f",
+   "title": "The Economic Times Startup Awards 2026: Nominees for Startup of the Year and Midas Touch",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-startup-of-the-year-and-midas-touch/articleshow/133390674.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T01:55:59+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "The Economic Times Startup Awards",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0140cfd49aad",
+   "title": "How Red Balloon Aerospace is building India\u2019s near-space infrastructure",
+   "url": "https://yourstory.com/2026/08/red-balloon-aerospace-building-india-near-space-infrastructure",
+   "source": "YourStory",
+   "published": "2026-08-21T01:20:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "How Red Balloon Aerospace",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "27a14fdb66df",
+   "title": "IT firms rethink employee pyramids as automation reshapes economics",
+   "url": "https://www.livemint.com/companies/it-firms-rethink-employee-pyramids-as-automation-reshapes-economics-11787218985480.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-21T00:30:57+00:00",
+   "score": 35,
+   "category": "product",
+   "company": "IT",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf0b1351241f",
+   "title": "Chinese visa impact hits Indian physical AI startups",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-visa-impact-hits-indian-physical-ai-startups/articleshow/133387338.cms",
+   "source": "ET Tech",
+   "published": "2026-08-21T00:30:00+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Chinese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e112abe147a6",
+   "title": "Joy Bhakat",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nWkUtbkNQUmdkSWc4T2NVa2lvX054Q2ltU0Z3c0FOa3hnR2lldENrSm9sOWVUMmNfY29Kam5UZzRUOEpsMnV1SnF3U0F4OUJSMDN4c1p5SWNka2VP?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-20T23:59:26+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Joy Bhakat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "25a8a456adff",
    "title": "Supreme Court Status Report: EOW Investigation Finds No Evidence Linking Key IHFL Loans to Sameer Gehlaut Entities",
@@ -4096,23 +4442,6 @@
    "alerted": false
   },
   {
-   "id": "e5406e19a930",
-   "title": "MobiKwik transfers lending unit to subsidiary, names new lead for it",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tZk50ZktwU0NOWFhNUlQwcnlzeVMweTJlWVpGVllrSGRFdWxmODlPUV9fRWlLUkhtdlBUdzJoVTRDYWZ4OGVoemduR2thMXVuMjdCa3ZCUFQweTRRcVBNVUdmVTBxeGtoU2M0M1lrc2pYUDBLNVpJMnVjbw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-19T09:54:22+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "MobiKwik",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9611e0c44ec1",
    "title": "Blue Machines AI Launches Floe to Detect Language Switching in Conversations",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTNSNGJNdlFJYUxjOG9TVXB4RUowRm42dGRReHgtMjlCd0tYMXhpUW1aNnpHY0FJdmw3NWQ1THRNZkNmdW9OT01zdVl6RWJxaGhUUm5jeWVFaFZrcXhqWU1DVnpzT203eENqTDE0aUdQV21yN2ZjZ05HV1I1N3pzTlVJZkpTMncyb2ZlSy1Fa24xOTZLZ3RwanRBTGxWZnZ3cWZWVXhYSFRGTkZVaWNaR2dLZTE?oc=5",
@@ -4128,23 +4457,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "4e36d3e43720",
-   "title": "KKR to pick up stake in entertainment ticketing platform BookMyShow",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3BvUTRWWVVkcWkyWjNGYldKUFlwOTlESFRlc2JocW9QejBfM1Ric2JzcE4tTFBqY2FCUVlDbFN6Z3lRR2Y1VTY1aDhhRHF5Q0gweUZWSUFLYkFsX2RJTlg4bmZZN20yZVlsTGdYbmgwRTN3VGR2eHE2MXFyTDFlV0szY0J2eGY2bmYyZ0NBZmpyWHEwSGc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T09:45:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "KKR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "2da34493dac6",
@@ -4185,40 +4497,6 @@
    "alerted": true
   },
   {
-   "id": "e9802f6363fa",
-   "title": "Fast-approval health insurance policies in India: Plans, benefits, and who should consider them",
-   "url": "https://yourstory.com/2026/08/fast-approval-health-insurance-policies-india-plans-benefits-who-should-consider-them",
-   "source": "YourStory",
-   "published": "2026-08-19T09:16:19+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Fast-approval",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4d73670df72c",
-   "title": "Shiprocket lifts off: The fire that fuels the new logistics engine",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZ1ZMM1pkb0J1N2pERV80bHFha3c2a1NHM2lMUkU1TTlRSnMwTTdiQ0RQZDF3a3ROTnZwWE4zUnR1M3h2OEN1MEVReHBrLVVCaVNqNmVhWFNyT1VLWDJyLXp2MDBmQm9tU2I5bVJyTjF2Zm1aNFVqQ1ltSXF3dFM2a1ZYXzJRa2RrdGNxSEVPd1JlX3ZTV2dfYmVMR2dKZUFWUWJNNVFPbmNObHRoNEkxc296bDBPN2p1NnpYbGZSb1JuaWw3dGZLU0xqWWFUVURROTNacF9Ca0NGVmRmZnFxOGNhTUVSX2lTUkZxMmZmTVJZWG41RGxSQUJkVjVOeDNET3FTTFBhTUYtWU1sRjQtVTJRZVpjRWxwUWV2NW52OEswaWVOYUVxRXBGdkVRbmVrSmhzUDlDcU91Q3MzUDQwNVhmbGVhd9IBywJBVV95cUxPa1k4OUJFMnc0VjlXbERwdWpXMDg0RlFfSXJ5a3hIMjEyNHllcTdjaWdZS0tMWms5RC1nTlJLa1d0NmZ1d050UTBVZ1c3N2lpNHVTeXVzM3YwVDBuVk1pajFTLUF6WnNfbFZLLWFCSmdGcjU4TzZOajNLRDhhaVhiM1Z2QUVTNU56U0NUcG0wc05UWW1hSnhidXR4Q18ycDUwemNGNFRWQ3RwUFd3czJIckd6ZVdsT1Vod3JhN1M2aXBrdUVVRy1vN2ozbGE2M2RMNURIX2tBWVBvZzBxUkFxbHhxVFNVUzM3LTh1REVORndtTGJfb2JBSGpTZjlvQ2lacU1FdThncmo0M2I4STVJcW8xQXJwNTFBSXo0X2JKZ0xyMGJTTlQ2TkVfRm4xSUFfcFk0aGc3VHZmVEhmVy1EVWdpQVRzZURpXzZj?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-19T09:14:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Shiprocket",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "78086e585f4c",
    "title": "CtrlS DataCenters Nets \u20b9250 Cr From Zerodha\u2019s Nikhil Kamath, Sreeram Reddy Vanga",
    "url": "https://inc42.com/buzz/ctrls-datacenters-nets-%e2%82%b9250-cr-from-zerodhas-nikhil-kamath-sreeram-reddy-vanga/",
@@ -4252,40 +4530,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "40d22a39a340",
-   "title": "India an innovation powerhouse; can showcase AI-led autonomous enterprise vision: SAP APAC President",
-   "url": "https://economictimes.indiatimes.com/tech/technology/india-an-innovation-powerhouse-can-showcase-ai-led-autonomous-enterprise-vision-sap-apac-president/articleshow/133343024.cms",
-   "source": "ET Tech",
-   "published": "2026-08-19T09:03:35+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "00722d5f88e0",
-   "title": "Samsung hikes chipmaking prices by up to 15% on demand spike",
-   "url": "https://economictimes.indiatimes.com/tech/technology/samsung-hikes-chipmaking-prices-by-up-to-15-on-demand-spike/articleshow/133342949.cms",
-   "source": "ET Tech",
-   "published": "2026-08-19T08:58:52+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Samsung",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b0ee723f58cc",
@@ -4342,131 +4586,6 @@
    "alerted": true
   },
   {
-   "id": "66a0056615bc",
-   "title": "AWS announces plans to open Builder Lofts in Hyderabad",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDV6czNVWFVTY25Wc0lHMVFrZHpCNElSOHFnazdrSG1OcjdFWWQ5WlRIbkszR2VLMW1jZFpVOE81aXlzSEtkd3BvRVlRcXU2WGlZY0p3UmNsMkxuYVlYLWVreHkyUWVsOHhHR2NPVGdaMktxRXVNSEtvWjA1UGhVeFNGY0djNUtjODFBYw?oc=5",
-   "source": "varindia.com",
-   "published": "2026-08-19T08:48:45+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "AWS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e369bbd2fe94",
-   "title": "D2C Brands Should Use Quick Commerce Gains To Scale General Trade: Veeba\u2019s Viraj Bahl",
-   "url": "https://inc42.com/buzz/d2c-brands-should-use-quick-commerce-gains-to-scale-general-trade-veebas-viraj-bahl/",
-   "source": "Inc42",
-   "published": "2026-08-19T08:42:57+00:00",
-   "score": 46,
-   "category": "expansion",
-   "company": "Brands Should Use Quick Commerce",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "449dae49ad6d",
-   "title": "Zerodha Co-founder Nikhil Kamath infuses Rs 200 Cr in Ctrls\u2019 Rs 250 Cr fund raise",
-   "url": "https://yourstory.com/2026/08/zerodha-co-founder-nikhil-kamath-infuses-rs-200-cr-in-ctrls-rs-250-cr-fund-raise",
-   "source": "YourStory",
-   "published": "2026-08-19T08:42:40+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "Zerodha Co-founder Nikhil Kamath",
-   "amount": "Rs250 Cr",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Nikhil Kamath",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "Rs250 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "25ed44580525",
-   "title": "SEBI reviewing small-company IPO, delisting rules, chief says",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFV6VnJqeENBcGJCSWozUS10c2h2cUxHclNSc0wzQXZpZ1pwdHVrRXBRZnRrU2FsRDBQN0FGQ194S1JJUW9YcnlBb3ZhbFZOaFpHOEtiaFYxSEoxd3VjWkd4Vnp3bzUyOFRybnlGbUNhMkNta0lfdEJnaG9lVmRLLWlSRUxEMlZ6dTQw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T08:42:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "SEBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "db4b236c0729",
-   "title": "Grapevine: Actis, KKR, Blackstone, Bachatt, NexEdge, TransBnk in news",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODRpMmRBMTBMYzlJUVNRSTFPZ0I1OFJGeFBMbW52YmxqODkxWkg2Q0k3RmlnM0hrWDNUbjBtQUVfOHFwT2hNUWdsU1ExaFA4U2RQeDZMbGpiaTZBbHhiVTlLbmlEY3lhQ2FCcjg3V1FLTU00Q244U3I2c29fM2YzV19iYUpMbW8?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-19T08:38:33+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Grapevine: Actis KKR Blackstone Bachatt",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0b297d04cb5b",
-   "title": "How Quick Commerce Has Become More Than A Convenience Play",
-   "url": "https://inc42.com/buzz/how-quick-commerce-has-become-more-than-a-convenience-play/",
-   "source": "Inc42",
-   "published": "2026-08-19T08:25:48+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "How Quick Commerce Has Become",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "767bfe2ab1c4",
-   "title": "KKR To Invest In BookMyShow To Fuel Live Entertainment Push",
-   "url": "https://inc42.com/buzz/kkr-to-invest-in-bookmyshow-to-fuel-live-entertainment-push/",
-   "source": "Inc42",
-   "published": "2026-08-19T08:24:15+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "KKR To Invest In BookMyShow",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "92c853cddd5a",
    "title": "Siguler Guff raises $500 mn to target India's mid-market companies",
    "url": "https://www.livemint.com/companies/siguler-guff-500-million-fund-india-investment-founder-family-businesses-11787125005586.html",
@@ -4483,58 +4602,6 @@
     "$500 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "9fd2f971cbfb",
-   "title": "ATTF - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JOHdBVUQzLWJWZUQyYzFEWjdoUkhXZzltMU1GRk96Vl9PZjZ6aVNnVnJIa2dhcWN1TmQ3VlBGRXc4MWJjVllIMjVCSQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-19T08:09:47+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "ATTF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "82639dc222cf",
-   "title": "\u0905\u0938\u093e\u0927\u093e\u0930\u0923 \u0905\u0902\u0915",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGJwam54c0tvLWNCZzdVWUlnYm03YVNoZXR5V2tvRlczM3drWHNlNVV2WlpvVnJuTFkxZVlZRVlwYV9oQTJUX0h5YmNKYUhlR09zZW9rWlRsRW9BQU5NZ0dYZjlJTm5FRC1qT0pZN0ZOald6QXkxalJLXzhaOG5sZDFYU0RBTVhiSlhMQktRSk5IWFBvd1VJ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-19T08:09:44+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3c16dc0b249f",
-   "title": "Watermarking - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY29wMVl1bWNWbVZyb3lCNnJkSVNEZlZIMkNYZ09ON1N2N3gwZnBtX3RhTnZieVZ2VjJ2SUFYcFlja0ZzYVpFS0N3UlJVcTM0R2V4aFB3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-19T08:09:21+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Watermarking",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c7fcf1a75005",
@@ -4608,58 +4675,6 @@
    "alerted": true
   },
   {
-   "id": "3f3fe21bae2b",
-   "title": "Why Dot & Key Waited Until \u20b9300 Cr Revenue Before Going Offline",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlQxSUdPemtLUzBxMHNjLXowdjRvZ1E4T0dTTWllaG5kVFozWEI0SXE4dDgwb3FNQUNORVJnVXVfUExzVTNBYXlTYzVVOEk0T1MxZDkzSmtkRXdwTmpuQWFESkE3RU5qeFViRUgzNHFwQ1k3cXBUSUNfWXNZVGNJNTJBZjBOWFFLRVF2SHhPYlVWZFdwV0l4Rg?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-19T07:37:58+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Why Dot",
-   "amount": "\u20b9300 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9300 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a5a3b39b95e3",
-   "title": "Retail India News: Swiggy Expands Leadership Across Core Businesses",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzFTMWt2NHpSZV9vOGJyRHBjLUQzN3pZcXFjLUlOenIzU0F0NDdleVpZYnFMOXRab2J2LTBqY2ExWlBVajBMS0p3UW9xTThJN09GUl91WUJPQjV0WE1SNDExbk1QOGlPZ09WWUVUOVN6RUVTUi1Ja2xMSnY2TGVIR1hwQ3FjWXdjSDJfOHRCMFJMaE1WX1dRcnZpbDhmMHVzUFBYTQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-19T07:28:30+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Retail India News: Swiggy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7b2579e6197b",
-   "title": "SEBI Cautions Against Influencers Offering Live Trading Strategies",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTDJ5V3MwZDllTTd1YUNEX1NMc2pLdWlldkRWUkMyTGh5SG1HVTBHaENDWkY1R09zbzR2Ql9IOUt0YTJVSjR0RGI1VExzb2Q5ZWRkU0VnR2lfUVdLdGswV1BidFhyZUFsNk0wOWxzTkVVX2VhUkNSRVRucENFemc?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-19T07:24:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "SEBI Cautions Against Influencers Offering",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "80c2ea4d5dd2",
    "title": "Zebronics Axon 150 Launched with 100W Powerful Audio",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWERUS0UtcGVIMmZibFJ3VGkwNkxoSHFDa0ZZeWZTaFN4aHFlbng0LVZwOGRPV0ZWYkc2NUJROFdGeHlMbFFvamQ2M3FqcEg1aERnZThFUGZIUF94NW1mZlBTNTFJVXRUeklKU0lSLXRMZjZYX2xrb2pUSlpYcXZ1QlFzTllnRXRJRlFvdkdlY2paTno2WWxBR1pObmt6a3JkV1UtcEFJZGxmQWtGeTB2MTF5Y2JaS1NuTHRhM0VPbDA5RW5SQUIwRk5JYkV0c3pacHctWThuOTYya0lGV3F0Y2JCRXA?oc=5",
@@ -4694,23 +4709,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "6ce05b7a26d8",
-   "title": "Badminton World Championships 2026: Satwik-Chirag Secure Walkover; Indian Pair Enter Round Of 16 As Dunn Withdraws",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbjVQNEhwd09aSkZ6UmV4WVBuQVdaQXdSZFE0UGdqeE1ETjJDSDdfMjFScnhKb3BSQWRvaHNmNDdyUl9YeGFzc1VyZkNZRDU5WDZ1eGpiVTZCOGtYREhNVUJMME1MdW1Ud2kxeS13YWEtRXVwZkllb2RRMWd2UkRhS0NYT1h3Wl8xWHBwamFxSUo3cE9vcm14Rk9LQkVKWm5xTzZucU9oSlZhT2hrRU9uTUpoejRZaFpkd0phdzJXU3BOV3FrYjVDTlNzY0tiUmxhZl9fbGVLWmdLelg5TUJZVXFSM3VYWXJHNEp2WjBLcTJEUdIB8gFBVV95cUxPbjVQNEhwd09aSkZ6UmV4WVBuQVdaQXdSZFE0UGdqeE1ETjJDSDdfMjFScnhKb3BSQWRvaHNmNDdyUl9YeGFzc1VyZkNZRDU5WDZ1eGpiVTZCOGtYREhNVUJMME1MdW1Ud2kxeS13YWEtRXVwZkllb2RRMWd2UkRhS0NYT1h3Wl8xWHBwamFxSUo3cE9vcm14Rk9LQkVKWm5xTzZucU9oSlZhT2hrRU9uTUpoejRZaFpkd0phdzJXU3BOV3FrYjVDTlNzY0tiUmxhZl9fbGVLWmdLelg5TUJZVXFSM3VYWXJHNEp2WjBLcTJEUQ?oc=5",
-   "source": "Outlook India",
-   "published": "2026-08-19T07:07:18+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Badminton World Championships",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "210e036e6ebe",

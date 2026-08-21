@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-21T15:52:31.371093+00:00",
+ "generated_at": "2026-08-21T17:05:49.333865+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 18,
-  "alerted": 3
+  "fetched": 49,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "91d5380eeffe",
+   "title": "Why Is Flipkart Joining India\u2019s Food Delivery Renaissance?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkI0ZDhUNWJWNTJqUEM4WG92Z3NNUlFCTjJqWGNiUjFnTWlKUzlpcnFuTU9TSnFOZXJWQk5PbUpzSHp0V2NvVTBudXNQSkZtczlRWm52cW5ERXBBLWR6aFpTZFBjcUc2aFBXNk5HTzBiMUdINmJOQ3AwVmJMdHF3aWdlakRHcHhOTXR3aw?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-21T16:38:15+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Why Is Flipkart Joining India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "72252c71b06a",
+   "title": "Accel, AVP Sell Over 1 Cr Amagi Shares In \u20b9587 Cr Block Deals",
+   "url": "https://inc42.com/buzz/accel-avp-sell-over-1-cr-amagi-shares-in-%e2%82%b9587-cr-block-deals/",
+   "source": "Inc42",
+   "published": "2026-08-21T16:16:02+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Accel AVP Sell Over",
+   "amount": "\u20b9587 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9587 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "d4d7796aca28",
    "title": "(Weekly funding roundup Aug 15-21) VC inflow remains rangebound",
@@ -163,6 +199,23 @@
    "reasons": [
     "no clear event",
     "50 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "614fbacc72fe",
+   "title": "IIT Bombay\u2019s Eureka! 2026: The Biggest Opportunity for All Startup Founders",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1J6dzhCZ3V3aE14TWJ1S2pOQlAwV0ZrMlh4LTYyLU8tRVI4alBDeHJud3lCSHZCSjREeG1BVkpTUzc5Mk9vZHdGbkpMemVxaGNmckgtWE01UFZlQV9MS0FSWDhGR244T2psM2lTcm8tVnY5T2h0blZ5cFRmMkNQc1V6cjJuVTdzcThrNzYwMDJtN1RVaWpDcmpmcmlCYm5qYmZpUjdabDdkNG4xSG5uRXk3UQ?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-08-21T14:11:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "IIT Bombay\u2019s Eureka!",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -375,6 +428,23 @@
     "funding in headline",
     "\u20b962 Cr",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "620f158b96a5",
+   "title": "Aryse Health launches in Bengaluru with preventive, data-driven healthcare model",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWx2ZTZnWFBnR29jb2pScUpfbGF1ZFg3R2NVYlZtMmw3WEFyR2huZFBZZUd3YUNjb3ZycFk4eXJFSE1JM0U0Q0NOTTNyVXM5SURuZXBveEFyMjMzYUFmV0Q1T0wtbEZKNlFTZmtHVUF2RDZ4TUJMZlNXbnpDcXMyX1c2MEMyMXRRU1Y4LTQyeDhrSWNhcHRUUUFacDNZNENtTkRrSk9lVDRiMVBmaHJWb0sxODNlbmx2My16LUFfVGQwNm9NZ19mM9IBzwFBVV95cUxNYlg3ZG9qb21VTGVSVmNQTGZQTVZTQnVpSXNoWkU0eUt5LVl5NmpXVFd4NHJMOVN3X3dHZHhvbGlNcWhsUFJIRTBoVlF2bXNsNG9wM1dYTTVhMldRQWdLRG1QOFdLalY3MXVtNlk0aFRXTnlrcGtBbXlveDlvdjFQWFpkQlVHQW9ZZ2M0VVJZMDA0S0JsdjhTaUdZOWlIMW9Id21xQU9kclFqcWszano1MVpFMGNxcG1YN0pXWHZaSEFXc1o3akxHVnFmaWF3VFU?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-21T13:18:45+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Aryse Health",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -2827,23 +2897,6 @@
    "alerted": false
   },
   {
-   "id": "8011f7fd1968",
-   "title": "India\u2019s Data Centre Boom Has A Security Blind Spot",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT096M2N6Z0EzMGNZaDFzVF91NmVaS2Z2MVVYSmNreXBsSHVCNWc4dFFVZEFxR0tySDFkbmdZclNrZHRaelF4bHJ6bHp5a2lCWFdRVE0zeTRIVm1DRGRoYUxPOUhUWFcyRHdhUGJuclZTS1ZNUm1BeGpab0d5WF9NV09hbw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-20T13:38:19+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s Data Centre Boom Has",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "321a3dcc7d87",
    "title": "Shiprocket stock jumps post-debut; ETSA 2026 Woman Ahead, Social Enterprise nominees",
    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprocket-stock-jumps-post-debut-etsa-2026-woman-ahead-social-enterprise-nominees/articleshow/133378988.cms",
@@ -2859,23 +2912,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "9ee8728465a7",
-   "title": "Jodii Vs Jodi365: Inside Matrimony.com\u2019s Trademark Setback",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjRVWVdVUk56MTEtb1BUNExBdHk0WDFJT1kwY0t1ZDdQYXdtQUh5U3E0T0t3SFdmZTBQTzFxRWFxZFl0cHlYTV9oVlJrNm1FLXRsWlp1cUIxY0ZjaXl4RVV1NzcxRnlpcE91NmpfeGJPNF9qdlVjZ1NkNE9kSWhpNW15cWE3MkE?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-20T13:32:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Jodii Vs Jodi365: Inside Matrimony.com\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d70383006d67",
@@ -2912,24 +2948,6 @@
    "alerted": true
   },
   {
-   "id": "02aa20bc30d7",
-   "title": "India's battery storage self-reliance a decade away amid tech, financing and execution delays: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/indias-battery-storage-self-reliance-a-decade-away-amid-tech-financing-and-execution-delays-report/articleshow/133379113.cms",
-   "source": "ET Tech",
-   "published": "2026-08-20T13:24:23+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b1ee5963cdd7",
    "title": "Tripura unveils T-RISE startup portal to link entrepreneurs with investors, mentors",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUY5T0djREtkY0RjZnJfTnNpbkNOUVVKaWx1emlfdElTSHNaSzYyVXI3ZjB6dHZkV3VWeERFaS1RS2wxYzBKR3NmVk9TYzZiNDhoOXE0RE9JNURtTkpxZTBWMkVYNEV6UVhXNzBPTDlFbTVtSU9VcjdGUDczZGZnTExVNzRtR2xYTmVTME1RZXEyMHJ3SVlyWG1naVhnRzJvdmk2Z3l0RVM0S3pEUUJGQU82cVR1MHBwa21UdV9VUFpXYl9xTkRicTMxSFpuOUo2bVp2dGZB0gHbAUFVX3lxTE5yb3c1U1BtR2JDa2EzM09JX19iaWoxb3hleUVLdFZkUFdvalVTY29yNjFPNDFycDZnbjFCbzhFUjUtd19oei1ObzBQZXduSmNUYVhNVWNZYWRrb1EyaWpFbG9fQkJSNU5CMjQ5eTJBOUxVT1pIaFdLYVM4eE9lQTM0NE1hSlEwSTQxRmNzSFJNUGhmdUY0eDhLTnIxbUsxSDllQTEwczNGRnc1WFV1QV9DUGdKZFRHTC1Dak10Z2lVTnlwUll6Wkw5WlVTTjcyczljemdlN25vZ1BRcw?oc=5",
@@ -2963,24 +2981,6 @@
     "$1.24 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "f6a4b4b5c076",
-   "title": "India\u2019s Microdrama Boom Is Here, But Can The Unit Economics Work?",
-   "url": "https://inc42.com/features/indias-microdrama-boom-is-here-but-can-the-unit-economics-work/",
-   "source": "Inc42",
-   "published": "2026-08-20T13:12:54+00:00",
-   "score": 34,
-   "category": "expansion",
-   "company": "India\u2019s Microdrama Boom Is Here",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "50a834291301",

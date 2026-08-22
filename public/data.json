@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-08-22T19:48:44.860801+00:00",
+ "generated_at": "2026-08-22T20:47:42.677423+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 6,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "4be3ee107c0f",
+   "title": "Shelter Pharma launches ayurvedic throat spray 'Sheltidin DS\u2019",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjh1NGdlb29abWRoRHJXcEtmYzFJMUVwTGhqSjN0ZGhiamdnY3A5aEtySXMzT2g3ZFU5Z3luWlhINXVMQURTeE4waERUb1l4NWJ6SC16ekxQZ1FNQnZLMmU0U3pvVmxzaHczWElqb3VEYkFEOTgtYTdHUGNUY2kxRFBsbmpKWVpPblNfbFJUT0xkV1AzT2RybG83bGs2VHRXUWhZdDBn0gGsAUFVX3lxTE1fQlVGcmpqZ0pGUzNBQ1NNYjhub2pWMUt3bk5MMFlJc3RVeEZtMEcyWEU0OWM5NDVGcEZPUlpoanlRYkFYNW8tTlBvREFRZS05aU9EVTdneHdOUG9GN0JVSkZLYnlOTXpTNWxzTjl6MDdoMVY2UXNKQ0NmaGQ5T3M1b3VsN1h0WmdseExGS0dBcHQyeHpYVm5JZHJNZFNRQi1kb2doLVRPX3poTTY?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-22T18:11:15+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Shelter Pharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3e0e173bf691",
+   "title": "India Health 2026 opens in New Delhi, showcasing healthcare and MedTech innovation",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUldBN0JxUENDczgtRThPQ2VORWFLVHd6eWV5MVl6NTB6ZDlEOFNsSWVNb05tZWZBVDR3Q1o4VERjbzRTZTM2VWtLb1d3WHpaQVJ4SW83eUsxMGZaQ1NzdTNuV3VQTEVkaDBHZXV1d1l1ZHdOUlJVTzJKTkk2dThMSG0xRGZlaHZRNFhxWHVfMTlvTVkxXzdwRmZPanhRMTZoSFVPYkdOdFpEaHNua3RwOTNPSVA5RmFPa1QtWllldW8tZEnSAcoBQVVfeXFMT015TlpoWkx0c19tWUMwNXRWbTJvY0x4RUhpb0UyN3FIVTFVYzVMUklHR0RZa19fem9aZzVBcWhqeTFPUjJzZ1pIMUpQTDl6R3JubXBCRU44OE5pblJPN0VOQ3Z4NUFSanlpeWhMWUc4ekxrVXloV0tieDBwWkFfMzE5TDl4Zko5aXdKVTJHSXhEd1RNZ2JVaUI0Nl9QNXMzcEd2elhJVVdYdU1MYmVMQjNRY19kN1pvNGxSUnptSU9DdlFGS1hycmFRQQ?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-22T18:11:15+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Health",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "00212394a181",
    "title": "MSME products from Puducherry to be identified under PONFAIT brand name",
@@ -2670,28 +2704,6 @@
    "alerted": false
   },
   {
-   "id": "881e9a7eabdf",
-   "title": "Saint-Gobain\u2019s India CEO wants to change how Indians build homes and offices, using gypsum boards and glass wool",
-   "url": "https://www.livemint.com/companies/news/saintgobain-india-ceo-homes-offices-gypsum-boards-glass-wool-insulation-construction-techniques-dry-walls-brick-walls-11787296720538.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-21T08:21:24+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Saint-Gobain\u2019s India CEO",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Gobain\u2019s India",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c37c19eafdde",
    "title": "Quadria Capital-backed Nobel Hygiene eyes Rs 150 Cr IPO",
    "url": "https://yourstory.com/2026/08/quadria-capital-backed-nobel-hygiene-eyes-150-crore-ipo",
@@ -2708,23 +2720,6 @@
     "Rs150 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "8cb8105a1bd8",
-   "title": "Commodities",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oMEVOeElZa1J0SkRld2FBeF9fNDY0X3dXWkplU0dSZGFrY1ZQYmVmU01peC1LWVZQVFotZUs0VEk0Y0JiNm91Q0ljaGphWTlu?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-21T07:53:14+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Commodities",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3c26c2c42569",

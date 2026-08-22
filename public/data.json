@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T19:04:09.928584+00:00",
+ "generated_at": "2026-08-22T19:48:44.860801+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
+  "fetched": 6,
   "fresh": 1,
   "alerted": 0
  },
@@ -41,6 +41,23 @@
     "62,500 Cr"
    ],
    "alerted": true
+  },
+  {
+   "id": "da0f57c45f54",
+   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
+   "source": "News On AIR",
+   "published": "2026-08-22T17:04:02+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Maharashtra",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "43850ecb852b",
@@ -2701,23 +2718,6 @@
    "score": 18,
    "category": "other",
    "company": "Commodities",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8eff3763c454",
-   "title": "Retail India News: Atomberg Files IPO Papers with SEBI",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdl9CNzBoUU55cVFoTkVvY1RJVTZZTm9icGZOT2s4VG5USmJiTDZON0tiNDk4ak9vUzhiUWczOFRHSVNsWEhkSURMaVE0MEJpN3IxRXhjNTVhVnRoNDNLZGRjUEIwNFd1WkgwN1hiQVZiRXJuSVpXeTV2MTl3YmxDSm9ONUVNcnRvTzB0eg?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-21T07:52:30+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Retail India News: Atomberg Files",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-22T20:47:42.677423+00:00",
+ "generated_at": "2026-08-22T21:41:14.307346+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 5,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "a2e07ff07745",
+   "title": "Collections under RBI's dollar swap scheme exceed $72.8 billion",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFVHQXNibEFWbXZoOThMVVg2eUh6RHFOdWo0a3lWaTZfZFhmMGtndlhhSFN0Tk0tNi1UdTF4blVSTmIzeVY3OFk4TWlSR0JmSTJVXzV5cU1QTTl1ZFBEdDBJS1dNdTJGOUVvdGt4dE1aOG9jM25ITHR4NElPMmpOVHNyU3gyOHJ0aFJMM0hKV2xyeWMxOVZNb19IYkJpcXZvNGxWUjZwNFFDQXl1RmZLdDRwbnM2NEZoeWRUQ0ltelJfUThuSmp3M1ZCR3dQWV9YNDUzVWUzTHNHZXJmOU9fSdIB5gFBVV95cUxPNG9sV21ZZ2RWRURoU29FQ3VCbGs0X0F0UHpfT2pmMVVlUjhBWk9zeTdWX3Qzek5qYV9jM1A1TDc3aU9FM3ZKQjJVbHhYZ2dNMGFLZFp2dXB2Z3pveVVnRzRqVkVOOTBKUDY5MlFMZGJjVW5ZWUJHVEdHNWgzSzFtbGxVVl9YYnR2dXFtWWZXM01UR1YzRENhQzB3RW9oQy1kVFdRanNQM09aRzlHRkJFQ2pFc3RZZEJ4TE5BR1BLT29PTm9wVlRlU0pRdEpJTUMtOThCa2VWazRoOU5VeHJMZXZldU0tZw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-22T21:05:00+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Collections",
+   "amount": "$72.8 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$72.8 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "4be3ee107c0f",
    "title": "Shelter Pharma launches ayurvedic throat spray 'Sheltidin DS\u2019",
@@ -2685,23 +2703,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3d8c473c69cb",
-   "title": "Turtlemint Jumps Nearly 6% After Bullish Ratings From Jefferies",
-   "url": "https://inc42.com/buzz/turtlemint-jumps-nearly-6-after-bullish-ratings-from-jefferies/",
-   "source": "Inc42",
-   "published": "2026-08-21T08:24:29+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Turtlemint Jumps Nearly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c37c19eafdde",

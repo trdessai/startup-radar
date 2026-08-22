@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-08-22T09:54:18.716162+00:00",
+ "generated_at": "2026-08-22T10:52:08.467837+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 2,
+  "fetched": 27,
+  "fresh": 3,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "7ad3247ebace",
+   "title": "Enterprise AI startup Zenalyst raises Rs 3 crore to strengthen ZenForce AI Platform",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDFjb0xNRFpQeVNUS0toNWlEcC1DMTVLc3JvNUdTUnk4MGxzb2xIeERYS29PalpFVC1fbVZUUThDRzFOTGgtMFdha2E1SnNMaW5qWGg0OVdBTzVXUmxGdFlVSldpQWdYSUhDR0hKd3N3VlF3NXR6ZHFfcHF0RWM2cHFkdG9XRkQzYmNpZjNSTVU2dC1kTzJ4VmNfT3BWU092OWZZeFZIMnpKZXdYNm5GU1NhZDdyR05MbXdheDJ5RE94TFRxTE4yR01B0gHKAUFVX3lxTFBQMWNvTE1EWlB5U1RLS2g1aURwLUMxNUtzcm81R1NSeTgwbHNvbEh4RFhLb09qWkVULV9tVlRROENHMU5MaC0wV2FrYTVKc0xpbmpYaDQ5V0FPNVdSbEZ0WVVKV2lBZ1hJSENHSEp3c3dWUXc1dHpkcV9wcXRFYzZwcWR0b1dGRDNiY2lmM1JNVTZ0LWRPMnhWY19PcFZTT3Y5Zll4Vkgyekpld1g2bkZTU2FkN3JHTkxtd2F4MnlET3hMVHFMTjJHTUE?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-22T10:29:02+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "Enterprise AI",
+   "amount": "Rs3 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs3 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "48808a1a945a",
+   "title": "D2C Brand Be Clinical Bags \u20b921 Cr To Double Down On Clinical Skincare",
+   "url": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/",
+   "source": "Inc42",
+   "published": "2026-08-22T10:16:08+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "Brand Be Clinical",
+   "amount": "\u20b921 Cr",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b921 Cr",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "8657abab0a8e",
    "title": "Luxid enters India\u2019s hospital technology market with launch of VueAR Glass",
@@ -2790,45 +2827,6 @@
    "score": 18,
    "category": "other",
    "company": "Colgate Palmolive",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8e9e12f04bec",
-   "title": "Colgate-Palmolive India names Manish Anandani as MD and CEO, Prabha Narasimhan to take APAC marketing role",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2VXTDlaNmFvR3NwSmN1dk92dTBwTzZHWUtnRHhrTzB0Mzh5UjlWOUoxbExmZkJ5dnBNMzlrbWo2MmJ2MTVIUUlMZHo3ckVtTGtOZzYyOXdQcUhETHB5U01LdmpyMERXRWdBX3FTRXVoaEhJYlZFRkxiN3lTbDkxX2h2OXV4MGtBa05veDJacmZCSHlYMjNaQmtqZ05OMjJGZXlfYlVMdFJhWGJMWm5raTQxVXJfUzhpSlHSAb8BQVVfeXFMUGhVbktKQUhlT2o4UzBYWXJYa2lwUml6WTUxd1BUTWl5cHRVclcwS1hqa2NjUXo4STRhZmYyRUVDT21hUzdWVTlfVW9mekhaTXFRYVFxTUh2X2ZIaXBzTFlaLWdnR0U2VnBjc1VCamZMem9CUXBQX0JXQ1dob1NBLVYwcmI1QmRtMjFmM2VGMkVEWC14c2N0bVFzMlZjbHpFMW5DeXFpcE55Z2p3R1lSSE5EM21MTUl6bHZQalFWYTQ?oc=5",
-   "source": "Storyboard18",
-   "published": "2026-08-21T03:51:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Colgate-Palmolive India",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Prabha Narasimhan",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f44fb0f82d92",
-   "title": "Vertex Ventures' Kanika Mayar on fintech revival, vertical AI bets and exits",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDM2QV82ekgxSWZja0RGMmltTGFRSEhBUTk2cjlBaVJfRHBuQTRVM210LWlSb18zNmRPV1RCRkxyc3gzWUc0cy1VNmFSUHBndlA5OTFwb2Rfc181SU5nb3gwYm1kVHZrWHBjNVkwSFlINE1JX21lVGMyQVJLdFEyQTh6UzI1MGd4eGVjSU1YY292MGJzeFI3Nllxb0NGb01TTm82VHZLaw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-21T03:49:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Vertex Ventures Kanika Mayar",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-22T13:21:11.830382+00:00",
+ "generated_at": "2026-08-22T13:59:36.711401+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 10,
-  "alerted": 6
+  "fetched": 28,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6b492d363a56",
+   "title": "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbkVsUjNZYUFQVGRNZnZ6RG9ZYm0xSGp6VDNqX0JCQ1BGY2o5d3VpcUhRdUYzaG9uV2JRUHVNQmpNLU9lS1RzVTNOaWNPS1E0c1FZOTROR09tZTlSdW51RWhsamE2WUNUQ0tpb0x2LVp6VklNTDdGQzM3MDRDcHp3Mzh2eWRzeVVqRUstNDJxMXZnX3VsTWFsc2xCVk45STlSNEtMTXhra1diMFRLVDdmUFBvbWZSempUcmx3S1hBTjF5dFVENlpoaWJhckR2aUpicjltRVl1WkduVXFQ?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-22T13:54:42+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$469 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$469 million",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "169a58a1287f",
+   "title": "Meet Sharanga: The Indigenous Drone Weapon Being Developed For Indian Soldiers",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDF1OEZYM1NDb0JrR1ZmeTJibVNVN0ZNWnJNTWpzWU1KdkNMWUNYcHJjSC1oWFZwN1B3MEhNSWpSQmdqR0VjMUpjX2F5bXQxQi1zUENDS3dlUDdSeDhERzdJYkVGMHZqOHFQb015a2dqc2lnMnFrbFdtQTNtSGd0Nngwb0lpb1VodWNwLUMzTU42dnJiV2RQdjB3WUJaeXlFOFV4OGk5aDNSU2VRSWZXSEM3NFlNYzM0NHJj?oc=5",
+   "source": "Indianmasterminds",
+   "published": "2026-08-22T13:33:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Meet Sharanga: The Indigenous Drone",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6d93092a4662",
    "title": "Zee Entertainment allots 20.94 crore warrants to promoter entity Sunbright Mauritius at \u20b9126 each",
@@ -2696,40 +2732,6 @@
    "score": 23,
    "category": "other",
    "company": "Retail India News: Bulgari Opens",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "02f85b692b8c",
-   "title": "Slowly, then suddenly: Rapido's Ownly hits 50,000 daily food delivery orders",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3AzOHlFdExFNmlIMHJxRGs5bE0xcTh6bDlKOUt1aGpxYjk2NHJYY3o2V29VVkN3TGVKaGhMNlduYy05anE1Z2ZPUEhGbDRkTUZGNW1RcDF6TDhqNmZHbUZFQnVWUkttREl4V3g5MXZhT3Z3cUhvcERWZ1ZlM2ZTZjFaWXljYXZJWkEyOXkxbzFkc0V3c1NVVTQxMHFaRkhncWpWQTFmVE9vbzdBSGdaaWQ4Y3RvMnNXTXBkSC1hLU5UTHgtb09aWmEyTjJPbE00OWVj0gHYAUFVX3lxTFB1NmlhTnFKVU5EdzdsN1RjM0lVUXlOblRObXZ5b3JvNUMzeWN0alE4a1NDODdfUkVabkZwVU52akMwbHJiLXBlV0tNdVNZV2RrVnRlb3A5WC1hcE9HcWFZbDNQcWljbF9NLV84Uk40bDF4TjdzdzRFZmJ4QXpYcHRIMWxnMjQ5WVd4VDBVY2wxMHhXUHpqdXBqNHFRUzZmd3VfajJiM0M1eElhZTF0SFBMZUFxVlo0eUxRRmxYR0VIZ25HWDVYV05kR1RuRGp1MVI0T084YXI3Qw?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-08-21T06:34:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Slowly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "adfad77ab938",
-   "title": "Delhi HC asks if ISPs can be deregistered in Jaya Bachchan case",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa290dWkwWEtldlRvcXN5d3lZZzZSQ2Q3MTVJc1ZKYXV4c1RLeUNYaGE1Ri1PT3J4MnV5QnJDX1cxSXozTEU3UVcxS0xrcUwtTnRZTjFTZFJkVExCUXpsQ1JZTC1JUThHckIzV2xYQVJsVlI2SzVSandYVko2eWRRQkpkOVpwUG13?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-21T06:11:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Delhi HC",
    "amount": "",
    "stage": "",
    "founders": [],

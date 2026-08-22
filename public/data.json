@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-22T04:57:03.144891+00:00",
+ "generated_at": "2026-08-22T05:57:29.959038+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
-  "fresh": 9,
-  "alerted": 3
+  "fetched": 30,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f39e41567b3b",
+   "title": "Weekly funding roundup: The startup deals you may have missed in week of August 23",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0l1TlpzczIwQUdsOVVKSGRGX05rY3hNOFVaTTB5RVFHNkxoRGNoX3B6LWoxUkZwSEFyT3ZrTVRRcWtrQXI3cDdmS0xidVd0TVF4Q1RUOTJNUmZ0RVd0RnZidVV2V0JfeTROZnlIQV9nWlAzcWxvdHVGenNSSG53d2o3MXlWVjFYSmhHeG9UTG1pR1gwTUNmTXBkOE9EaGhWcXF6aDNFeTI1eWoyeEtxbDZmYnRIa2E1N3R4TXRONEZTSHVlZDNHR0VFbXBaRUNWUi1yOEFDZmtIRkxIM21n0gHkAUFVX3lxTE5VZEswbW9CZ29sX3R4SzhBdUNyM1RYbGVvSmlKUTVwaDQ4cWdLMGpsUkR3cnpTRWF3cXVaVWhTRGZXbWYwbVdvZ00wR0MyUUVXZzBPUnlTQnVCMG1KS0JzdzV6T0l1SDg5N1U3dXhYR2NBdXFKa3VzNTNqV3c5NHVqSXpvRlRnWld1OHlKdUp0c29lczB2dVVhWDJxTWtNT0JkUm1SeXV6TV9KSFhuU3RTbGhKOWtzRWtRRjdRSzU2cnl5UDlwX3NiUXZCRzZ1Q2hRWGRKMnJERGhEYTRBWXZPaVd1aA?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-08-22T05:34:22+00:00",
+   "score": 20,
+   "category": "funding",
+   "company": "Weekly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ccb2f233dcf",
+   "title": "From hidden labs to open screens: Indian Deep Tech startups gain new visibility",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQllWdHYtUkNiNVBZcHlQRzFKOGl4LUExWVNWWjBNbi13ZUd3MU01Tk83VU1Lei1yMXg1RGRieF9scUE1VlFDRkNRT1NqMzNNOUdER3RzOGJfcnFtYV9qeVllYmJaUWpNM2pIQ1ZuUHYzMVFIQlZvQXRHODcxMHhGQ2lpOXJaNENjTnprUnlTVFRsTDZHYVdtTWlYSkVUakNDUURCUA?oc=5",
+   "source": "thepamphlet.in",
+   "published": "2026-08-22T04:56:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "819c19c423b1",
    "title": "Funding and acquisitions in Indian startups this week [Aug 17 - Aug 22]",
@@ -79,6 +114,23 @@
    "alerted": true
   },
   {
+   "id": "9123981b0334",
+   "title": "Elgi launches VAYU in India with eye on growing manufacturers with made-in-India compressors",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0FjanBEdkctNzRVM2Q3dW9LX0xNUHlZUnZWMnVsUEJIVzNGTFZjQ09xNFJKTmM0MTdITl9TeTg0eWoxaTJhbTl6V1dwMU1hU29SX01manBubE5fdkd6amRkY3VDZmtMX1B0cVNrdmlsMjBLdWN3YUt0LUtsNkY3QmNBXzRYTEdIOEs1UjlqUDZ6aEMwakZzTzNiTU1IWlEwMmk5T0UyZXZTNHhRS3c1eVNJQ196R2xSckhhTTBwZk90cmJndVVBV1V0aXR3Y0c2d0JEb2NRWTnSAd8BQVVfeXFMTkNOLWd3Wi1jY09RY0NDeTFxVEdrSkFUUHhQYnZ5d3R6OGsxRVBrcDhBaFVuZXdicFB1MFZqMThzZFZJU3I0Q0R4bXFadExMYlV4T1dYa2FEekZaTDFZR1JidW5RS3Jxd1JXU1FFZ3hmZnd3dHhfTGFxc092eVItS0Jaa09WNlVzMEhERm5BNTRObU8yRkFpdzh1NFQ1RHhEU0h6aURJZkxyT1RpQmZZeWwwR3JsWFkwcC1yTzVrdEpjNFlNVldELV9Xa1FJWElaYzIxXzJ4ekZCOTFpTTN5VQ?oc=5",
+   "source": "Indian Chemical News",
+   "published": "2026-08-22T03:51:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Elgi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "7106f8093dfc",
    "title": "AI capex slowdown could derail India's cyclical recovery, weigh on growth: Nuvama",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-slowdown-could-derail-indias-cyclical-recovery-weigh-on-growth-nuvama/articleshow/133416739.cms",
@@ -93,6 +145,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "01550a5473b0",
+   "title": "Iowaaska Technologies Key People 2026 \u2013 Founders, CEO & CXOs",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mUHBDWFBUay1GYVlNak5JX1JueXVKRk5CeEh3elRvazliZUNGdHE5SGhPWFlDUk1henRqbXFYWWdhSVlfYUs1UExNa0pKeEdrakxubmY3R3QxZkJ2OUZIaHBid0xqdw?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-22T03:33:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Iowaaska Technologies Key People",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -2767,74 +2836,6 @@
    "score": 24,
    "category": "other",
    "company": "Microdrama\u2019s Big Problem The Data",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "adefae872766",
-   "title": "Technosport CTO on why scaling a business is rarely a server problem",
-   "url": "https://yourstory.com/2026/08/devsparks-hyderabad-yourstory-technosport-cto-scaling-a-business-rarely-server-problem",
-   "source": "YourStory",
-   "published": "2026-08-21T02:30:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Technosport CTO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "db8e98130b91",
-   "title": "Financial planning for founders: Preparing for growth, uncertainity and exit",
-   "url": "https://yourstory.com/2026/08/financial-planning-for-founders-preparing-for-growth-uncertainity-and-exit",
-   "source": "YourStory",
-   "published": "2026-08-21T02:00:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Financial",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2be7522d75b3",
-   "title": "Google\u2019s new AI for students; How a care crisis sparked EzyHelpers",
-   "url": "https://yourstory.com/2026/08/googles-new-ai-for-students",
-   "source": "YourStory",
-   "published": "2026-08-21T02:00:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Google\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cdba33b8654f",
-   "title": "The Economic Times Startup Awards 2026: Nominees for Startup of the Year and Midas Touch",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-startup-of-the-year-and-midas-touch/articleshow/133390674.cms",
-   "source": "ET Tech",
-   "published": "2026-08-21T01:55:59+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "The Economic Times Startup Awards",
    "amount": "",
    "stage": "",
    "founders": [],

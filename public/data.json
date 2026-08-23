@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-08-23T10:52:51.129277+00:00",
+ "generated_at": "2026-08-23T11:41:14.229672+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
+  "fetched": 18,
   "fresh": 3,
-  "alerted": 0
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "fe4f651a467e",
+   "title": "Alibaba proposes $10 billion share placement to fund global AI drive",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-proposes-10-billion-share-placement-to-fund-global-ai-drive/articleshow/133438523.cms",
+   "source": "ET Tech",
+   "published": "2026-08-23T11:08:01+00:00",
+   "score": 65,
+   "category": "expansion",
+   "company": "Alibaba",
+   "amount": "$10 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "$10 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4002e185b5be",
+   "title": "PM Modi Meets India\u2019s Space Startups on National Space Day, Hails Their Vision for India\u2019s Space Future",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUk5SVd1Wl9nRXZNOFFmeTItZ2E1MU1KWTNhUjVvMWVzYjZPQkNoTk9odnNvUVdsOVpIbDVZV2sxMlNXblVzemFrNnlwc1BnMGgzNXR1WXhZdjlwd3JzQU80dU92TDFEU2NySnc4VUVRWjRDazRERkFoem44SU1OalZqNlhQNG1mZU5RVjd6STlYeUVvVWxiS2xuUGpWSk1La0NyNXJrMHM3a3doUVJwRXBMZ1dkMjJGM1d4MA?oc=5",
+   "source": "tennews.in",
+   "published": "2026-08-23T10:57:23+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "PM Modi Meets India\u2019s Space",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9098279546c3",
+   "title": "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbVBNQmFkWldnT0ozU2oxUXdKMHJ6LXB4ZnFnOWJBVTlPd01oUzQ5NXY1NjB2MzVOWmFZQUk3WWVQNGxaOHlENFh5alF2YkZBUmc?oc=5",
+   "source": "instagram.com",
+   "published": "2026-08-23T10:57:09+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Between August",
+   "amount": "$469 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$469 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "4ee5a2168d09",
    "title": "This book examines how Indian companies turned crisis into growth",
@@ -2584,23 +2637,6 @@
    "alerted": false
   },
   {
-   "id": "bd8a9319ad14",
-   "title": "Individual Goes Flat Hunting In Bengaluru, Lands Job Offer After Chatting With Startup Founders",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaldpdGdXaDZQMXRGek0xczUyVkY4bFRSN2x3T1dxaHF2aWFsc0ZpWi1hdlFjQmhWNUo3ODVKeDVqTkdwY1V3dVpac1BiUTgtZDljOXNxOEdKR2g4MlM5SXF0eWNkM1dJZjMwMk9CVVZJX2dMRU5fMGxsaWNUVGkxWWNKU1pPRWRfQWk0MkREXzY3RFZFNUxhTUZiMHJDOHZsdHBycklHdFVlRDg0VUZfaVkxbW9hMGltNHpDUTlfeks5TnBNdDF5MWljMGVObjNvM3d1VTVJeU5OQdIB3wFBVV95cUxOR05CaEFXdkpPU1Q2WEthbFhuMlJ3ZFVpbnJ2eFZaUXFOVmpMMzRyUjJCLWwyTW44WFpRWTBEYTF1SWxhekZTVmRLZlRNNWgxMXF2SWtKRkcwdlBtd1lnRHJkdC1HRWVEelJhWFVwZ0FocTZZcnpKcTVJVUxYQmZNbnpnbk1VYWZ0TGNZTkxvQTUxaDRtSjhodmduNEpoVHo2M1phWHJLdEdTa2pDNi02MjVqLVlCdW5mVVQ5UFQydTVYVEZFNzUyczh4Tld1eEtleFRidXJyaWpiYlJoNV9Z?oc=5",
-   "source": "News18",
-   "published": "2026-08-21T11:30:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Individual Goes Flat Hunting In",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "271093e56d58",
    "title": "D2C watch brand Bruno Milano raises Rs 7.5 crore in Sauce VC-led funding",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1UwU1BSTFNDa25TTW1PenZXYVY3QUxWTTZCaC1aN2cycjFCNy1PS2hsM3BaSHZOMVVCUHFoYl80MjhvaEM3QWFYaFpuQUE3NkdnYTFxaUVwVDJ0cVFlaVZkNHJhbXdsUGV3ZWlsREpkNTV2ZTY1dXE4S0VvUzJEWjdLWUNvQmdIRVRyWHUtVG1RWW5TRWJZbnRydkhINl9TVVRheGVIeFFRQ3BuM1NSZWR4N3ZwWl84eGfSAboBQVVfeXFMTndVMFNQUkxTQ2tuU01tT3p2V2FWN0FMVk02QmgtWjdnMnIxQjctT0tobDNwWkh2TjFVQlBxaGJfNDI4b2hDN0FhWGhabkFBNzZHZ2ExcWlFcFQydHFRZWlWZDRyYW13bFBld2VpbERKZDU1dmU2NXVxOEtFb1MyRFo3S1lDb0JnSEVUclh1LVRtUVluU0ViWW50cnZISDZfU1VUYXhlSHhRUUNwbjNTUmVkeDd2cFpfOHhn?oc=5",
@@ -2618,24 +2654,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "a4e8c38defa1",
-   "title": "India orders Google to take down Firebase sites used to impersonate banks, defraud users",
-   "url": "https://www.livemint.com/companies/india-orders-google-to-take-down-firebase-sites-used-to-impersonate-banks-defraud-users-11787310851149.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-21T11:23:14+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "India",
-   "amount": "$2.4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$2.4 billion"
-   ],
-   "alerted": false
   },
   {
    "id": "5a99ff3d55d7",
@@ -7046,24 +7064,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c8215b7c5c3a",
-   "title": "IPO wave: Seven cos eye to raise Rs 6,400 Cr next week",
-   "url": "https://yourstory.com/2026/08/ipo-wave-seven-cos-eye-to-raise-rs-6400-cr-next-week-",
-   "source": "YourStory",
-   "published": "2026-08-16T11:32:05+00:00",
-   "score": 77,
-   "category": "launch",
-   "company": "IPO",
-   "amount": "Rs6,400 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "Rs6,400 Cr"
    ],
    "alerted": true
   }

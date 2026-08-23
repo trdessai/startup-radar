@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-23T17:40:46.059958+00:00",
+ "generated_at": "2026-08-23T18:01:45.683963+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 3,
+  "fetched": 14,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7050,23 +7050,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "312c5d8321fe",
-   "title": "US to tell partners they must pick sides in AI race with China",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
-   "source": "ET Tech",
-   "published": "2026-08-16T17:55:06+00:00",
-   "score": 62,
-   "category": "launch",
-   "company": "US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

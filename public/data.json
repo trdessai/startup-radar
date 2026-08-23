@@ -1,12 +1,116 @@
 {
- "generated_at": "2026-08-23T11:41:14.229672+00:00",
+ "generated_at": "2026-08-23T13:22:06.434043+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 25,
+  "fresh": 10,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "4ef4dcdfe330",
+   "title": "From the moon to the sun, Indian chips find a place in space missions",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFI2RGNKMWtSVXpZel9XVHV3LUY5cWUyT1B6dUtQYjZGY3VMcGZkUVQweDRlLXhINEVBQlpVTDVNYUNnYzN1MkxxUlJBMDVIZi1mbDRNOVVINDNKdEdfWG9qc2lTcWRkaEFLSnVGc3lRM3pGcHlhQk96QzNIdGZCc1VSNU1yRHl2cWhyajQzYmNJWndjMm9qYkpTMkRYSS01YXpjUWJBTE1tR1pZa3pzaXlmeTZiVVZFN0HSAccBQVVfeXFMUF9MM3hjWDgyS01BdFpNXy1lNW5ycnRxTTJBaGlBdHY1emZ1Wkh4cGlwaEdDTjFIQVlpZE1hVEZ3aWM0NlExM0NiRFJybkJHTmd2MjVXWTB2LTJwdlhZLUJsVnZsN19SekhhakR1RE9tUHRseHkzeHJnXzRvQTJqeklSdWJHZXRaOVlscV9wREFkd1FEN1BBUVNsUWZtT1VpbUNTMzBJRTl0V0VYbXRQd01vSS1DSlRlMlRTcHNaY01WbWRFSkdjSQ?oc=5",
+   "source": "Fortune India",
+   "published": "2026-08-23T13:02:50+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "31e3bba0b299",
+   "title": "PharmEasy Founders Raise \u20b9200 Crore For Private Venture AllHome",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeHVsc2w5aUdLdC1GdkVlZ0pxSFlyd2Fob092Q1lGNVJrdTJaZmh3Q2tKZkVkRVhEbk1PWUVyeUg2REhjNElOZmZOS0FKdGFGRjlBY3hhVlhqLTVqcTNtRU41NXN3WDgzZGV1OS1GS3VoNVNYQUYzS004MDgzS3BENGJxTDg5LTdRQ1UyUEJvZ1hVU0tfeWZQMHRfZm16bEM1dTBiam9ueC1jMUZldzRuUzMwY3pvM2hnRFdnbXZqUFZoQ28wRGNFZFZwSE1tQUNJbzJOYW1VQXAxVEhGbXFXcjhlaGZSWG5LSWw2X1pB?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-08-23T12:37:51+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "PharmEasy Founders Raise",
+   "amount": "\u20b9200 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9200 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "52bed9bc381c",
+   "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg/articleshow/133439724.cms",
+   "source": "ET Tech",
+   "published": "2026-08-23T12:28:12+00:00",
+   "score": 47,
+   "category": "product",
+   "company": "Nvidia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "750f4c74e9fa",
+   "title": "Alibaba launches \u20b995,000 crore share sale for AI push; third-largest follow-on offering after Alphabet, Intel",
+   "url": "https://www.livemint.com/companies/news/alibaba-launches-rs-95-000-crore-share-placement-for-ai-push-third-largest-after-alphabet-and-intel-11787483406347.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-23T12:11:10+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Alibaba",
+   "amount": "\u20b995,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b995,000 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a9e4f758f56c",
+   "title": "India faces capital, talent gap in foundational AI race: Menlo Ventures\u2019 Deedy Das",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-faces-capital-talent-gap-in-foundational-ai-race-menlo-ventures-deedy-das/articleshow/133438846.cms",
+   "source": "ET Tech",
+   "published": "2026-08-23T11:50:23+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5a9f05f37d29",
+   "title": "PM Modi calls for India emerging as space sector hub",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU5WLUo4ek5PejZRTVZJdi1WZEE1ZVRaMzA4eHN3V0tPQTQycDh0djdhUWdEeWFDTlVuM2l3Vm1YN2hLV3BFdGR5UWFYdnNrbEowcGphRWIzUmQya2NNbFZzQVdjNUpkQUQ5MmhCbktySlMyS3lsOHhoZ3N5ZUpFa0FoeHpUTWdpY3dyUl9mWDNVQnNvSDRXZW9xY2R2VTRJTUpqUVVR?oc=5",
+   "source": "ANI News",
+   "published": "2026-08-23T11:41:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "PM Modi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "fe4f651a467e",
    "title": "Alibaba proposes $10 billion share placement to fund global AI drive",
@@ -75,6 +179,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3e36251ebc32",
+   "title": "National Space Day 2026 : India\u2019s Next Space Test Is Commercial Scale",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmxYdFJPNXN6SjFoODlNRVhSenFveUhIZFpMUGxiemFiVFVCc0t3b3RCRXZhdGFFYUx5MzhlZVZockp3Xzc3QVlDZzBFQURJWnQ2cXJMTUtsVWg5bmdoYzhxWEtuSDdRdGpGVjF1Z1VjWGxyZ01UNXpacWZNVWRUa2czVWRqMXlGU1BtMUN1Q1hncWtJU0xkMVJQVERMTVJuVmxB0gGjAUFVX3lxTE1mbFh0Uk81c3pKMWg4OU1FWFJ6cW95SEhkWkxQbGJ6YWJUVUJzS3dvdEJFdmF0YUVhTHkzOGVlVmhySndfNzdBWUNnMEVBREladDZxckxNS2xVaDluZ2hjOHFYS25IN1F0akZWMXVnVWNYbHJnTVQ1elpxZk1VZFRrZzNVZGoxeUZTUG0xQ3VDWGdxa0lTTGQxUlBURExNUm5WbEE?oc=5",
+   "source": "ciol.com",
+   "published": "2026-08-23T10:06:57+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "National Space Day",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -2560,74 +2681,6 @@
    "score": 24,
    "category": "other",
    "company": "Three Sixty\u2019s Vikash Gupta On",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "166aaeed291c",
-   "title": "Bharatiya Nyaya Sanhita - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QcGkxQ21oaEMwVDNTd1hrbEU4LVpwcHVUZmFzcUlOQUlIVEIyZjFvbkVzZVB5MFp1TWJFZHpiRG5qMDV5MU00Yld1aWRBMi1qc25kT2c3TW9ERndkZFJBS2xTLWg?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-21T12:02:49+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bharatiya Nyaya Sanhita",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2e418b028052",
-   "title": "Personalised Pricing - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SblZ5cnEtQ3hTY2JoS25hdHZ3RjRsWVMwS1lCbEIyV2Y5V1VBWkdiWFBJV0NmZkQ0MllsOHpFdGRSMUFMZVd4ZjJlWlJfeG4zWnFhZ3ZwUlhhQ2wtY2dldA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-21T12:00:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Personalised Pricing",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "17ac6c740e64",
-   "title": "Frontier Models - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ZXBoZmYtR0w2c3NlZFQtWEM3MmJvRktqVVZlNEx1SGs4VzhPNFdNLUdnT1cwT1c3OUFHbFNWWmk0dGdVZTUyWURXMDBUSTZxYkE2UVZVNVZJZw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-21T12:00:30+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Frontier Models",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "44e983acd9b2",
-   "title": "NET Exam - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEYTNwUUpVQTZjOS1jQ1B0amUyd21CMjZwRFRMNHB6ZFBndzBFV3NKLUxhTDRjYUxpbXNMQnF2UUtyeTh1cFFhQm5OOTEzSDlf?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-21T11:59:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "NET Exam",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7011,59 +7064,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "84c15c3dbbe8",
-   "title": "IN-SPACe proposes \u20b9500 crore third-party insurance cover for space launches",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjJldFpTSXlHZ19qSXAzZnhoUVVPZFVFZG93V0hXS1VUeDBMTHl4aWZ6Ni1XMG53THUyVnJtU3EzT054WXBJTEdGR0RNcmF1QVcydkRoZUFfdzkwQjIzV09Ec1JLc3RDMkZYQkZ0d2RoX0RXbWw4TGQyNlhSTVhsRUJRaWZieDY4UklkcDVLS3M0ZFlpTlIxWDdGbWZodFIyWjNqSUtaNGxKWE1qNXUyTkdOZ3M5TEQ3Z0JtS0xLZzZYWWwzQTg5ODVPR0VVLUxnUFVFOWZzT3lxNGtRaHlHaTZBVdIB6gFBVV95cUxPRzRBa0QtV2pBU3hzX0JRVFVlNFNXNWRrMktTN1hoUlBEQjBxNnZyYTdaSEE2cEplNmRVU1paOFZCQlFVbW5YclVnSUZEZ0N1X2hZTVNTb1pqZlp1clNoZ0dDX0FTRGJqWFVpTDRqa0trdUVKeEs4Vk40aUlTdm9hUHlxS0lkVzJhUFYxcXVxa0FqbE9aSmVYWGthTUdrbkxCcnFHbUdlQUhURGFQQUYtTHMxWFAzZEt0SWM4MGZ2RWtqR1pJQmRjeTVMN3lNX05aNHdUWnNqTnJzcGh6MGp1Y29xT0tVbVZsM1E?oc=5",
-   "source": "BusinessLine",
-   "published": "2026-08-16T12:59:08+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "IN-SPACe",
-   "amount": "\u20b9500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b9500 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "999dbb325c4f",
-   "title": "Govt launches Tk 400cr fund to boost startup investment",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2p6cF9Ddy1ETjcwUDRndlA1d0VxMzVFVkFENHA0Skp6MS14amNia2k2U1ZGUXZxd042Tkp5SFR0VHk4N1hjX3BsUXZocTJwcFZXN0lOWkVvNDFtRGVtdmI5U01LT2ZTaXRLQ3FMR25nb0gzbThDcmt6TEUtUERFQ3dPSW43b3VPdUpFTUVqekFaaklrWlNsb1VLeG5ybWI0bzdfRzF3?oc=5",
-   "source": "The Daily Star",
-   "published": "2026-08-16T12:40:47+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Govt",
-   "amount": "400 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "400 cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f0baa0453098",
-   "title": "AI-powered storytelling platforms CogniFilm and Comiqly launched in Goa by Minister Rohan Khaunte",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjRaWG1JQlBkNVlQc3pQMGRESjNoSzBwSDdRV1VnWHZJUUphS1RQWDhSWXNrcWJ2cDFscjduTlVCWmplck5zWXNmNVpJdi1CcjQ4UERmOTZaMzFxZmtkTHNITlVwMWNsQlRIbkVhZlNYZE56eGhHdG1jTWQwdE0xdmFoUTdDRUFXTFVtbG5JVEhHSmpNWW9FNG4tWkhEaXpKZ2ItNkFSZGp1VTctTkE3V1lPZVdIRTJvNDFPQ24zMVBjWUxyLVB3NGN2M2dpc2g0V3lFMXRUMA?oc=5",
-   "source": "Prudent Media Goa",
-   "published": "2026-08-16T12:14:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "AI-powered",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

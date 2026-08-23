@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-23T06:00:22.785265+00:00",
+ "generated_at": "2026-08-23T07:49:53.857000+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 1,
+  "fetched": 1,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7054,24 +7054,6 @@
    "reasons": [
     "launch",
     "\u20b9800 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8dc7a9f22b0d",
-   "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-   "url": "https://economictimes.indiatimes.com/tech/startups/tiger-global-management-cuts-stakes-in-big-tech-buys-into-spacex/articleshow/133271032.cms",
-   "source": "ET Tech",
-   "published": "2026-08-16T06:23:06+00:00",
-   "score": 72,
-   "category": "acquisition",
-   "company": "Tiger Global Management",
-   "amount": "11.20 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "11.20 million"
    ],
    "alerted": true
   }

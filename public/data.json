@@ -1,12 +1,342 @@
 {
- "generated_at": "2026-08-24T11:48:31.401554+00:00",
+ "generated_at": "2026-08-24T14:11:33.247946+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
-  "fresh": 17,
-  "alerted": 6
+  "fetched": 49,
+  "fresh": 23,
+  "alerted": 7
  },
  "items": [
+  {
+   "id": "72c395c75ed3",
+   "title": "India Must Push the Spirit of Innovation in the Northeast",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGhnb1U5WGIxeVNSUmlJV0N3MGVHWENaSGNLOHF4eGJ0NGNacHhvOHlUblNieXJLUWhrS2JjTEZuZ2Zscjl1Y3o4cXc1NHRnWlNYRGR1dERjdEFOdElqdEhad1h0dEtORjdvTkhtYmlOR25PTUZsQVJEN1JCLU5wTXU5MWdaVnpTbkVB?oc=5",
+   "source": "Goa Chronicle",
+   "published": "2026-08-24T14:06:33+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India Must Push",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7b8a78d5b6d7",
+   "title": "Khosla Ventures-Backed Healthify Merges With US-Based Berry Street",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWU9NY0FhNEpuZW90Z0h6RmJWeTA1TmI5eEJ2XzFaWjVVZFFldEdkMWJ2NkZpZ3MxdEtEaHZkdEkwRVhodVJBenFaSWMtZmNYdmZHd2N1SGVmM0tMTkVPS2FVUVNyUmxEZGxEa1V2YUhiMU9nQ1gwcWNHbm9ja1NPVUZtRWNwc1d0VnAwUE1wZU83SW9Q?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-24T13:48:13+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "Khosla Ventures-Backed Healthify",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "236fd4544094",
+   "title": "Hugging Face reportedly in talks to be acquired for $13B",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTY1N196TEx3Wll3NHRUY3F5eDdDblVTSW1NREE0SlpZZ1pjb2liVkstaVkxNGFDRnkxdTFtendMSENBLTJqZUd0OHFad1BNVmZmYjFpX1NhSHRndExQTm01d09PV0Z0cnNZRUpNUkFwZkR4bUR5VkN1UDc4aWhhbFNjdmhLSTJKZWJpVndhZDJEX1M1?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-08-24T13:47:26+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "Hugging Face",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a638bb2cbc4b",
+   "title": "AI leaders on automation; PM Modi debriefs space startups",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/ai-leaders-on-automation-pm-modi-debriefs-space-startups/articleshow/133468611.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T13:47:22+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f0419fb11461",
+   "title": "slice Adds Former SBI, ICICI Bank Executives To Its Board",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGhvVHlIUHg3d0tQTVZYUzBwRGRsYmdpa2QtU1pfQi1XdHNLS0JXMEJvN3J2Vi0xcE5nVGducnFLUnMxdEtVTzRwRVEzTnlHUHZmNDRjUklQRmVSWll5VkwyX296V1ltbDVXU05TNF9JR1RQNTFyT003Q29HT1d2NUhSYW1GdlU?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-24T13:44:54+00:00",
+   "score": 46,
+   "category": "product",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4b5dc7bdc6c",
+   "title": "NVIDIA\u2019s AI Server Price Hike Threatens To Inflate India\u2019s Compute Costs",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkI3QVh4WWdUZjNEb1JCUzRadXhCbHRUbkF5WDZ2VHFiNTJkN25sME44SnJEMUJDeVRNTWVKZGFWZVpYam1QZXNWU3lPUmdiYWlvM1kyc2pHeVQxX1hBYzExQ3lpWEx2LTM3dmJXZGpDWF9sSzBPREVZbk5EQXdJTjdyd0FKRXZWY2piX0ZmMmlNcE1OSlk4anl3?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-24T13:35:29+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "NVIDIA\u2019s AI Server Price Hike",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ad60d441fc4f",
+   "title": "Retail India News: GIVA Strengthens Retail Network with Nagpur Store",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnlRX0U4dVFnVGcxdW1kMkd4WEt5bnlBNW5nOXpYRG9CZjljVHJDd183b3lobzV2dC1TbElGM1NtdzB4T3RpZXlJc09GbEtYcWJMWXc0em9hLUhXVzFWZTFmM2VSNFJ0NHBoSDJnODh5cG92d01mTmdQRWVHOTNkTnhndTZYV3doM1p5aFd5RTN1LUpZWkk2VWN1SFc1VEE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-24T13:30:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Retail India News: GIVA Strengthens",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "60d2b0149a43",
+   "title": "Asaya, Be Clinical, Water, LightFury Games pocket early-stage cheques",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUNjbFAyMm5wR3ZhbzI4T0lGZ01pbTRIMXRDb19MLUphMXI0RnlWc1VEVm5VemVQQkgyaFF6RjgtX1B2dWFNdTJ0Ykp6MGJqZmU2ZEJjejg3cGFlU0lLbU1OVGc0OHA2bFpJaTVvd1RXYW9pd2x4bjlLM0RIQnE5NkNHZ2t5RUZibk5pSHJDcWQzNmxzNjN4LWo5ZDE?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T13:09:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Asaya Be Clinical Water LightFury",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bedba4cbf92d",
+   "title": "Titan puts lasting recognition at the heart of its Diwali gifting campaign",
+   "url": "https://yourstory.com/2026/08/titan-puts-lasting-recognition-at-the-heart-of-its-diwali-gifting-campaign",
+   "source": "YourStory",
+   "published": "2026-08-24T13:08:10+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Titan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1e49a4ae8591",
+   "title": "Rohit Sharma invests in LightFury Games ahead of eCricket launch; says, 'I\u2019m excited to support'",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXZFamtyWVAzN2NURmRmMEdLYkhaZ3pyM2l4VXdGUTBVWVI0eklpOEs5WjhqajNFaDBBYVRNalk2Y0RqOXd5QldMV3hrZ3pYLUU0SExuYUFtTUVNd0Zva0l2eVktWFJ0TUNOTjhielduWXFReVRpbHV4LWxJUXdQRC0xZlRlOFRMV0ExWDJ4YnhvcVYxOVlQZ3F6NnJwWHhISllHVTh5WHZsOGgtZ3FITDhBVnk0bUZ1QXZMNkhmSE9Yamp1TVF6d2lQUlN6WURY0gHQAUFVX3lxTE9ldkVqa3JZUDM3Y1RGZGYwR0tiSFpnenIzaXhVd0ZRMFVZUjR6SWk4SzlaOGpqM0VoMEFhVE1qWTZjRGo5d3lCV0xXeGtnelgtRTRITG5hQW1NRU13Rm9rSXZ5WS1YUnRNQ05OOGJ6V25ZcVF5VGlsdXgtbElRd1BELTFmVGU4VExXQTFYMnhieG9xVjE5WVBncXo2cnBYeEhKWUdVOHlYdmw4aC1ncUhMOEFWeTRtRnVBdkw2SGZIT1hqanVNUXp3aVBSU3pZRFg?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-24T13:04:59+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Rohit Sharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "454041b76876",
+   "title": "Trump-linked RUM Group signs $13.7 billion AI deal with US-based cloud client",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-linked-rum-group-signs-13-7-billion-ai-deal-with-us-based-cloud-client/articleshow/133466771.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T12:48:47+00:00",
+   "score": 68,
+   "category": "acquisition",
+   "company": "Trump-linked RUM Group",
+   "amount": "$13.7 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "$13.7 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cac8975261b1",
+   "title": "Japan drafts IP code for generative AI training data",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tVXRyd2paTkZsMEJtRXN5RnVKSHluYlF5a1QzQjY5dDJ3anQzRjJFaEU1YWNlRmxRa3ppMDlCc196ZEJYaGt5cm9IcnRoM0pYTzRJa05WNElISHlMMVhTc2E1Q2RmcVNDRU9JLW44ZDNBb0FGd1RHTHpB?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-24T12:36:15+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Japan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "649498639900",
+   "title": "Mobavenue Launches Neural Engine As An AI Intelligence Layer For Marketers",
+   "url": "https://inc42.com/buzz/mobavenue-launches-neural-engine-as-an-ai-intelligence-layer-for-marketers/",
+   "source": "Inc42",
+   "published": "2026-08-24T12:30:39+00:00",
+   "score": 69,
+   "category": "launch",
+   "company": "Mobavenue",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d68f49465eb3",
+   "title": "UPI completes 10 years, clocks nearly 13,000-fold rise in transaction volume",
+   "url": "https://yourstory.com/2026/08/upi-completes-10-years-clocks-nearly-13000-fold-rise-transaction-volume",
+   "source": "YourStory",
+   "published": "2026-08-24T12:28:56+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "UPI",
+   "amount": "Rs24,162 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs24,162 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "80fb016cd018",
+   "title": "TCS to buy Porsche's IT unit for $373 mn in AI push",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbXJwZjVlTDctUEZTQk11aTl3b01qUlJMNjctQ0NkNEhPajVVRjBxY3RtbjFnQkEtdzVyeXZtclJUZGVKN1FhRXA1eTNaUC1EeExVWDUyelUtUmFpcmlBaTZaclF5WVNaTUpOM1h2Q3hTbl9BMHZlaFBIalBDZWs?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T12:24:05+00:00",
+   "score": 74,
+   "category": "acquisition",
+   "company": "TCS",
+   "amount": "$373 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$373 mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a56d51c27c7d",
+   "title": "Andhra Pradesh clears four data centres worth Rs 2.83 lakh crore",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwSUdEQjNGX1pTdWpQcXVMeGs4N1JqOWJBR210Zy1md1dxYjAwd2laVHBoOWhYUW96M0NZWjktVHA1bE1scjFQQ0sxbU1HU204ZWNWZGlHV0RFeldLU1lNd3JMX3pwMHJCeVAzT1ItNGhuRWlGTU16TA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-24T12:16:41+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Andhra Pradesh",
+   "amount": "Rs2.83 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs2.83 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "209be92f4823",
+   "title": "Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RdHZFSnNwZkxFNUE2N3ZzWWZsZXRseF9zQWtQTUVTQ1h0ZmFiUXgzd1dkR2oxVmpCSF9Dd0R2MFNocFFMWVZXWjZsYVQ5NTZuR1lteHJMQVAxZw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T12:02:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Private Equity",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "378aa102d0f4",
+   "title": "TCS to buy Porsche's IT unit, bags five-year deal worth $1.5 billion",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-to-buy-porsches-it-unit-for-enterprise-value-of-373-million/articleshow/133465211.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T12:00:25+00:00",
+   "score": 80,
+   "category": "funding",
+   "company": "TCS",
+   "amount": "$1.5 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.5 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5cf2740aa2a5",
+   "title": "Product Highlights From August 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Vnljc1lrN0VvR1R5dmJydkdBRnExbjY1T29QTVdJVkozNHlWUjVqcjF5LWVrel91QnRDU2RMVTZodmNOTFZxeTgwbjlSNko3RTFReVFYMXJNVGxycmhkRkgtYkg3MTh3N09NeVJaSmRVVUt3MXUzLTVkSdIBe0FVX3lxTE54Vnljc1lrN0VvR1R5dmJydkdBRnExbjY1T29QTVdJVkozNHlWUjVqcjF5LWVrel91QnRDU2RMVTZodmNOTFZxeTgwbjlSNko3RTFReVFYMXJNVGxycmhkRkgtYkg3MTh3N09NeVJaSmRVVUt3MXUzLTVkSQ?oc=5",
+   "source": "Shiprocket",
+   "published": "2026-08-24T11:47:08+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Product Highlights From August",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a4a1276fef0e",
    "title": "ACKO\u2019s new health insurance campaign celebrates customers who don\u2019t compromise on health",
@@ -177,6 +507,23 @@
    "score": 18,
    "category": "other",
    "company": "Deepfakes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "401d2e3d4dfb",
+   "title": "SEBI rejects Adani-linked offshore funds' requests to settle non-disclosure cases",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWxmZWt5a2NEdF82MnNUQ05WZnBjb1l6b1NYSUJpdWxXaE5EMlBwUVJELW91WHhLdHE3NFBvdWZfMHFibTZJUk5tZzNzTmR2Vl8yRHJHUmVvcWtNX25LWFFyeElJdEtzUUhwTGZXOU1COVFXX0NIcE5lcU16M1ppaFZwbG5vNGhPOXhuUUFkbE9QSzNBOTM0R3RPVnNIN1RtSlRSMXZDZw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T10:41:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "SEBI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2416,74 +2763,6 @@
    "alerted": false
   },
   {
-   "id": "91d59500c552",
-   "title": "Need to scale storage capabilities amid growing renewable energy capacity: Industry experts",
-   "url": "https://yourstory.com/2026/08/need-to-scale-storage-capabilities-growing-renewable-energy-capacity-industry",
-   "source": "YourStory",
-   "published": "2026-08-23T09:15:49+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Need",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3bbbd2fcdf4a",
-   "title": "'Space, AI, other tech integration to shape India's geopolitical future'",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHdKMzgwY08zRlp5a25MRVlMdXVVemp2NGt1VWlKeGZxeG5CdVRhUnFMZWhkTkZaZXRZQ05CbnJVRi1IMUFMeTVDWHdLb1dIZDllRUxGUFN6Vk05b3BSY2tfYU5FLWgxaVBsaFFObEh2cWtYdDJGLU5Uc3hLc0hQLWVGY18tTmRZOEJ2Nk96TXl1V3Q5SkVJaU1hZmpWbGpRc1NBZjRKMVF4bW5vWHdDdEtpZTg3eGp2d3UwdWl6T09YSUQ2QkdIb3BFZXlvQdIB0wFBVV95cUxPajkwd1FaMWdwS05JY2Y0d3h2bW1rNk12TUR2Z3pWN1F1N3pnSzFFLTA0QmEyWkVTX2tnemtyVlE1R0NLS3dMakt0WlRKbnlSUW45Mklpd0hjVnJlZjE1d05SOGo4ckNvaF9mdXVyMEUtMHdqVi1lQ2pYVWRHaFIxck5xdjJSS0I1RVVXbi1NWVFZQ1pfbU5tRU4tZHEyQmRSU2xjWVR4VjRYbXpRSlhfcHVBaHN0aGVvcDNhTzdQYjZKN3ljZkpfaktqOFdZTW5wR3Nj?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-23T08:59:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Space AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4511ac467243",
-   "title": "PM urges space startups to make India global hub for talent, innovation",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE5UMjFuVlBtdU8yZUY4TGdkc0xuN21IUncyYVhvdG9XNG0tSW9NTk9qcGhrbEFlWVdYMHRrUVRVNGNHaVQzYlpQWUpkSHpxcUlldDF5UlVmWDBLX2tVNngzVjVKTzFJSU1Mbk1vLVVzWXR0T0JvdmYzRFJfWDJMUFp4eEJPQlJkREFLYkxma2RlWkpVeHV2MXdTMEJOc0wyMk5TR2I2YzgtSDZQQVpTUV9YdHNueHhNTkU2UkFYT3BHaG02Q3dWQzdzelVtS29q0gHWAUFVX3lxTFBmaUhkWG1vRTFadjZoRjBLVVFRVUxKdnVLa3pJZFBkdE5CQU1DdENERDF0aExnUjNhbVZJR1JxTmhfUlhjSk15RkNwOV9SRk9vZDJkRV9lQmo3SXdzUjI5VFZSbzNlQkdibFpRWktONElLRnVQbzJ2bERuU05GMTA0Nlh3Unh2Szc3ajEtamhFai1BZWw5MnVVT2taRnJvc0szUU1CVjFKX3RGRV9SbTB4Si1nOE9PbnI4UF9BbkhtVjZkd25OVUVNSEhnRXM3YnhEb1BLMVE?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-23T08:51:46+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PM",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ba65b600eca8",
-   "title": "TeamIndus: The Bengaluru Startup That Tried To Put India On The Moon Before ISRO Did",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdTWTJTVU5nVTJaZXB3b2VUckc0ZWlHV05HeXkxdlJDTGlkX1lMaFJOS2w0Wll4aTJlTWl2c1V3YmF6M0lDVDIyZzJGZ0Faem9qcjItYzVKcVB6YXEya25YYkIzM3NrLXF6bU41WnJEaXRLX2ZJVmxYUUE4ZGUya2MzM2hPQ3Zzdl9nZWhKNVRmRG56Q254UDN4UkVjX0lOYUZKcGhrZTFmeW1jN2ctRjY1TUFZOFU?oc=5",
-   "source": "OfficeChai",
-   "published": "2026-08-23T08:40:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "TeamIndus: The Bengaluru Startup That",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4d242600f44f",
    "title": "Mango\u2019s India sales split 50:50 online, offline as q-commerce boosts repeat buys",
    "url": "https://www.livemint.com/companies/news/mango-india-sales-online-offline-myntra-m-now-quick-commerce-11787384985335.html",
@@ -2499,58 +2778,6 @@
     "acquisition in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "83543f9bde22",
-   "title": "Create ecosystem that attracts global space talent to India: PM Modi",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWpaYlF5V1NtajdfMFZVbXprbTFuenRmaDdqSDRtcVJfREJNSVExNEhyeVZZeGhzRENFY1R2am9zaURoUkNSOGFNTzdMZkpnRTh1bmUwUWJHSjgyeUFYSkg3YnVybE4xbUFQYkJFZGxLbTBMRWs5ejdiQ1dxbWNFRE1GOGl5MFFfT1lxdExxUng0aUY1VmlMMWdseVlFVkk?oc=5",
-   "source": "DD India",
-   "published": "2026-08-23T08:18:50+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Create",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c17a1aa765bb",
-   "title": "Astrome: The Bengaluru Deeptech Startup Building Cutting-Edge Wireless Solutions",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzRoQnBURHZ1QzJsQ2ZkM0dBd0RXd3paLVBsRGFlOWV4bkNSdjNuR1N5RkFxc1V5WG91VEt6d3JYQmtUSUN0UFJuZGR0LU9jNnpNelhCTy1yS01HR0FQTnRuS2lXM0lnUnY4R1gxTUFJMFFEdGJJdUVabm9vYVJJTFg0VkM4TFR5emg0VWNNcGJqRWlwQkNzRmMtbWYwb3pxTWs3UzhSWU5JNnJSYkU0TFZR?oc=5",
-   "source": "OfficeChai",
-   "published": "2026-08-23T08:10:59+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Astrome: The Bengaluru Deeptech Startup",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "301975607ebb",
-   "title": "Why is Wipro\u2019s Consumer Care & Lighting company on an acquisition spree?",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1hyUkNiUS12UHhpeXpSbFNnaS1naEx2VzZGSWtCZW9uU2xhYUZqaEtoc0NRcVh3cXRFaDRfSEpKdml5SVhLdV9xNlFWZ2xHODZFVFhnS2QxcGN5UlhzaXlPTGUwSTBlVnVORVYtU0w2bU5DaHBKOXRKbnh1OGNYeV85bzR4dzNPX25fbzNXYkJoY1Q5M1paa1NfNWlDY3R4bVlVSV9pNk1uSE9XZXhUUWFXSkZrZFFpVUHSAccBQVVfeXFMTWZ5UkVDNkp5NWxMYnVmZTR4aFVwSHpRaXQ2QmxmaHFSTUxCdVNON1VmNzFOQ3V0OGZEYWR1N25FdnNrOXhIYk5ROF9INENPVU9id0pXZVZPNzhaZDV1cFBEZHdhbXFKSmxzSmhFalo2M1ptR21KX2N6MVVocmRDbGtJOE5MZXlJR013TndMd3l4YlI3Wl9XN0NqaXEwdUN5XzhPVUtNazhjLUwtY1dKaEN6aTNBRThNNFRSQlJhanJGUHdmN2Nybw?oc=5",
-   "source": "Fortune India",
-   "published": "2026-08-23T07:55:39+00:00",
-   "score": 44,
-   "category": "acquisition",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "d4d23cbe047d",
@@ -2585,57 +2812,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "82762f282b49",
-   "title": "\u2018Draw global talent pool\u2019: PM Modi meets space startup CEOs, promises unwavering support",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU9JS2JFV2d2aGRSY0tZekVLWHFKbzFlaW1WZy05azBid0FHNXNSamk5WEFjTXdLcmZXUG1VVHNNZUJMSExQa1puQlpBX19SRURmcVVYdFlHVUVYSFlzamtZVG9QbXdlMVhzSHFqQk41MWdGeUpXYXFUSzZVVTkwa0xHcDVmY0k0N2ZxdjN2dkVYWWg1UlRfMmo1LWI2a3lxbW8yLWNyZ1g2QdIBsAFBVV95cUxPZE9peU81S3NvNnFXT24yZ2JWQ01IQlNpOVA1ME50a1oyREJONE44OHc0RDduZ0hEemdzWFRnT29nQkRna3VqXzNTX2t6ZUxJZ2NhMWw1ZTNPeTdhRVN1RjZ1dldqcDBtc09ORFBMMXVOemkzVlo1eFpxRHV1b0QzQWNQc1hfQ2R6TkhoQ05FUFZfeTVnWXZmd0ZueXN6LXNGR1lYMnhnRDRKcWFzYktyWA?oc=5",
-   "source": "The Indian Express",
-   "published": "2026-08-23T07:20:56+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Draw",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9e4f9fabd29b",
-   "title": "India will establish its own space station by 2035: ISRO Chief V Narayanan",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmdGX0pUb3pBaXlIaDlxbWwzX0FVVmdVRV9QNUtmN3hLaHY4ZlVMTktaNEZsTGJ4OHdMVnZHR1gwb1BBT3JzTnJNM1lFeHZpRkNFX3pPRmxPdUZFV2daN1FKS3IyWE9KTThqZV9pMFJhOEpYdlNvUTM2clBWM01wT0g2aXlWMGtjVERqeXpCSDZ6X2otMm9ZMDRiWlVfMnRKY0p0bm9tenRTaWdZY2pDMEN0UkdPd1c5WnRpcUpzbjV2S1p1OVVNdGlTeVpWa1BEYnA3NtIB2gFBVV95cUxONkZieElxUloyRFNUZl9TOU9veno4ODNWd0diSlJoRXh3eEh6a3JGQW1VY3BOX0lYV3E2b2lIbnVUZUhoODVzRWhZLVg4anl2LWJhWVdFZlJvbTZWbFpMTWZWenIwakZRbW1xVFR1MGNESDg3V2JoYWNLeVBlQ0pDTW5WS2dYY0JjbUFqOTllOGhzcGx4SzhMaFo1ZnV6eUsxTjM5MXpHMWFNLU0tRDFhSzhzTFJQUFdtbDRCVFNoNjJDYW1pbEh3NUxPNkZuNVVNRWR5WEhMRENCZw?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-23T07:14:45+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6d771f34ff46",
-   "title": "From gym bottle to the everyday basket: Fast&Up\u2019s wellness bet",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUI2bHpQZjY3U0VvZERDLUtRZmxQMkFKOGNpVmFHdUx2VzN4ZzVTQWg5TTZ0NlFXa1VMR3BvemJIZVZvUVZNVTFnUjJQOHF5bFdxNUg0Nm5sQVlXeHpaLWpneXJaSnBVdkdzV2Jtdl9pR00xdWJlQXZhZTBKejcwanNqTGlXbzVPbkZyZUlqcGZlc0c2Q1NZSnBZeWZXT2tOdzNUd1ZBNlZ5N2JidGfSAbsBQVVfeXFMTXpSMmF6R08zZUtQb0FyWWZTNGU4WllidHZ4N2ljM1lDY1RsdnZKMzJLQjJha1ljSlpxU3lDajh5Ym9zN0RJX1ZPMEVNcWcxUFZZYm1xVkJXazRKX1RqY3NyRC1RZWpSYzdRT0g5Z1lmYld4ZS00VzExZDBDMTZ0MFBxUWtEc2pZUWZ2eG91a3lvTlJiMmtnSmpZZzV1M0hiYTdUdVFLQVR4RDJ0NmxkYWg3d0hCUURnZmpiUQ?oc=5",
-   "source": "Fortune India",
-   "published": "2026-08-23T07:00:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d5052ec14eff",
@@ -6900,179 +7076,6 @@
    "founders": [],
    "reasons": [
     "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "28f24c0664d5",
-   "title": "Exclusive: Peak XV Alum Saksham Mittal\u2019s Corpus Labs In Talks To Raise Funding From Stellaris",
-   "url": "https://inc42.com/buzz/peak-xv-alum-saksham-mittals-corpus-labs-in-talks-to-raise-funding-from-stellaris/",
-   "source": "Inc42",
-   "published": "2026-08-17T13:58:37+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Peak XV Alum Saksham Mittal\u2019s",
-   "amount": "",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f35e04632253",
-   "title": "Higgsfield raises $400 million in funding led by DST Global at $5.4B valuation",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzl0cDdXYWZldE12MXJMc1lhaFNWV0JkWTY0Z0xmRV84V2dDMlZ5elZHZDhnc1o4WmRmNFRyVWgzOUFNNHlxY3VYM2JyUEx6Zy1mc1A5MExLbGFCTUxIZkRMU2ZIaGZ1T3dKdi1GN3NvZzJRNEJsb1FGc0pjdHpncEJ4OGM0NVVSd3dCd0Qta3EzX1E4ZEhvemZPbUtlS2x5VzM5aGN2UUtBVXZweC1pSlNHc19GVnVxbG4wQk5fUFFTZThsdFpvUzBXOFg3Z9IB0wFBVV95cUxNMlFYY29xcV96YlRPWEJ4UmVEeG9LZnRTMG1IY1JHaDctV2xTeXZwTmttWlpWeXZncHBSWUMweGNfOGtGcTVGR0UyNFNPM2lIRDlsNDNMd2hkMnZxSWt2aXRMQlNFcGpBV3F2WkRzeEJTczM5b2gxWFFCVE9DWHRVNW1jbHJVYWlPaVg2bmR2T3A0dGQ4bmxLRU1NWUFiNDJTRUdibHJ3WmM3YXRFNmNXcW5KTmo1cWhZOGtqTWdqeWNqSUdCU1BMLU41MDlQblFKcTdr?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-08-17T13:36:50+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Higgsfield",
-   "amount": "$400 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$400 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "329d3e8a7388",
-   "title": "Lenskart rolls out AI eye testing, raising privacy concerns",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjY4SVRaemdsV01WM1lyVjhhdmNhRE1Zc2dKYW5PZ3dZcmJQdzBGVnZfYlMwd2ZmS0RxUkNEa2FobzhGYmpyUVdCak9nNmlLWTBBemozb2M0cEhHem5VY3ZhY0dHZnpTcHNsaDNXOWwtWHlVTC1MUjlmakNkeWtMeTRxUGpIZw?oc=5",
-   "source": "medianama.com",
-   "published": "2026-08-17T13:24:19+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Lenskart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ea79e85cc920",
-   "title": "'Our cyber defence must evolve faster\u2019: SEBI chief Tuhin Kanta Pandey launches 2 new portals for digital security",
-   "url": "https://www.livemint.com/companies/people/our-cyber-defence-must-evolve-faster-sebi-chief-tuhin-kanta-pandey-launches-2-new-portals-for-digital-security-11786963774172.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-17T13:23:13+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Our",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5b130cb094c3",
-   "title": "The soft launch games you need to know about from EA, Tencent, Moon Active, Take-Two and more",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
-   "source": "Mobilegamer.biz",
-   "published": "2026-08-17T13:15:04+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eafcd3dd2cf3",
-   "title": "Tripura launches T-RISE portal to connect start-ups, global investors",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVpsc0N2aGs5RmZRV09RWkk2UFZsUEhyM0JkMExPVUVLTkdVakxhbDRJa0VOVE1jaVhIeVhXc1M5NGx5cm51c3FtSEp6aElnYjl5NUVCSEJUMnp3OEFraGlLWkgzXzNxeWxhVHhVb2I5NEQ1RUN6dEhlb1VjbE1HQ3QxMHZRWE9YcjVzVVpZSmUtRnNKdlhWN3NaWkluZHY1Z282WGJ4d3E0Sy1CeWxTdzlPQkk3b1Mybm1hV0JqWTUxWWVEbDFNT1lEZ2N0ZDZxX09ZWGVfQ2RrdzDSAeABQVVfeXFMTlhFSENiM3ZFR29SdnZMOENrYl9PdlBucnlSQmlUeGtkTWlrNmhLcXN6WUZmT3RCMFBNUVRTYi10b3gxTFpBN1phWDk5NngtMVB5T3V5Z0toYkgzZDFySkpDb1cxN3M2OHV1NUZRQzlXRXJzc1NtQkNRZXMwTWstWnR1UXNBb1lvX0JuY1NFSGJzMk1iY2JYUXJFTG9xT1BXRUQtN18yNG5rUzJEWnRVQkN3U2tXQmtrS2dobV9TQmxhT1JTWWIxdjJqNGszMHBSYjVfVXM5YlpLYzFJNm9fcmg?oc=5",
-   "source": "The Times of India",
-   "published": "2026-08-17T13:12:00+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Tripura",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0209dc3994b4",
-   "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzBvQmVMQVVfS1BOeXNFOG42MFVkNXJVX0xIX2c3Wk5QRGV1MDkxRFFhUEh5ZDJUTi1mRGpZUEk4MGp1VFB2N2o5TUJ1YjBGdWRpQnVzdnZGb1lQUmY3T2NwMGNNWEswdmFNTV9BOWdjVlZSdEQtNURfbzRrenp5b3RGMkdEaWQ5NjhMNzVVZ2w1bGlSLVkzUzNuSF9KUQ?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-08-17T13:10:05+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Wispr",
-   "amount": "$280 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$280 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "244616860b87",
-   "title": "The Millennium Group of Schools Launches 'Millennium AI Creators Championship 2026' to Inspire India's Next Generation of Responsible AI Creators",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDRycXN5bzZxa2pPYS1KOFRQNmp1TFRjbkxRR0I0U2RxNl9aWnA1QTZiemRiUU1WQmhiSjhoTzFtX3RDa2FfZVU2Tmo4ZFhWTnNzamN4Mm05SnJqTmVMbVlxVW1ZRWQzN0gzVlVOT3IxTG9NSnc5UUljLTlURklxeC0tVzNlbEVqb0NLMzNQS1lKMm01WWhuZVIxSzF3ZW1ZSVNEalFHampyOUxrOFhDbjhjVHVycXo3UUp3Y21QUm53MWNfRGpjdTIzZXUxQnZEbWhNR1JnbG80b2tydFJJd0ozR1ZaZWViVGxjU3JobUtFcGxYczBqNWhzNEFZWDJNTGNIbE9pLVA4LVNRWlhubg?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-08-17T12:49:59+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "The Millennium Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a05ec90b38fb",
-   "title": "Livlit Expands Its Mumbai Footprint with the Launch of Anugraha, a Premium Student Co-Living Residence in Juhu",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRGhIOC1XVjlKejFpTWo2bGpJV1dtLWYyU3lJZG9ubHZiaFhTSUllYk1GRjVqT3pqOWQzNjhaR3dCaFZsS3F4b0NyRGM1a01kMkRKRVlKMzhKRTQ1emNxTmpzUGF1Z3NVajlUVVBzTVh3ekZyQmtqblhzNTFYa0loYk9TOG5xSzRPaFFLdGhzdW05bkRKYm0xOTZFMGZkYlN0VnNPM3J4YXRjNTFNMXd4NUQ0YjFhNVhmZkhlOUR5WmFwU2xCU3E2NTFNNklkdzFTN19qdnhBTk0xMFY4bkc3U0tFQm1VQQ?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-08-17T12:05:46+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Livlit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f9873aa338a3",
-   "title": "Moloco Launches Global Agency Partner Program with More than a Dozen Founding Partners",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzg3LXdVWGVudG44dGZScGVnbnRmNGRUZm5vd1Y5aW5ieFdvWUxDbEktc0dSRjFPZXZyRXRlSm5mMXFDUklpTEYyRVZSX0dFYm93WlNySFNwZVJ2WVN3UWJrNU1SOHZRUzFna0xRM050NkltcHktQXRUSG5RWmpBX2QycDFobzNUUUVtbWJmNTVrcXZDeS1Jd3RwUFFyR0lDdHJ6MjJjeDZIV3c2ay1QLU9MYUdjZWZEU1JScGhUYmVxTVhDSEpB?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-08-17T12:05:36+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Moloco",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

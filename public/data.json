@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-24T22:57:21.859156+00:00",
+ "generated_at": "2026-08-24T23:46:29.734761+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
+  "fetched": 5,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a932db15711e",
+   "title": "Urban Company turns to luxury brands to premiumize beauty business",
+   "url": "https://www.livemint.com/companies/news/urban-company-premium-beauty-services-get-look-yes-madam-skincare-cosmetics-salon-services-at-home-11787553157596.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T23:30:19+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Urban Company",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "1f3ad70b26dd",
    "title": "Sagar Hospitals",
@@ -2744,24 +2762,6 @@
    "reasons": [
     "no clear event",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "691267956172",
-   "title": "AI creates more jobs than it cuts in India, but freshers are losing out, says report",
-   "url": "https://www.livemint.com/companies/news/ai-creates-more-jobs-than-it-cuts-in-india-but-freshers-are-losing-out-says-report-11787503778146.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-23T17:22:40+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
    ],
    "alerted": false
   },

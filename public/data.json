@@ -1,12 +1,301 @@
 {
- "generated_at": "2026-08-24T00:01:49.460809+00:00",
+ "generated_at": "2026-08-24T03:34:49.843341+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 2,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 21,
+  "fresh": 16,
+  "alerted": 5
  },
  "items": [
+  {
+   "id": "291541a657ad",
+   "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation/articleshow/133450280.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T03:24:57+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Nvidia",
+   "amount": "$30 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$30 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "916c23bbefb5",
+   "title": "SoftBank plans $6.29 billion corporate bond issuance amid AI fundraising boom",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-plans-6-29-billion-corporate-bond-issuance-amid-ai-fundraising-boom/articleshow/133450228.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T03:18:22+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "600 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "600 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8a8f9915e042",
+   "title": "India\u2019s Space Startup Push: What\u2019s Next For Private Space, Policy, Funding & Innovation?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaWt4Q01WMm1zUnFJYk1VblBYS1NxSmpjYS1HRk9DcE1fekM0Ymc5Vmo1UkR6Q1N1WlhVTjY2TXQ2SklvdlFMdFBscmtXVk5yTlRxZ01XY1M0a21XdW5aOGkxSDd1ZEQycFhabE4tdGw3ZnlGMDA4ZWhpUFpUXzRiX1lRYnN3enJhSGt1QnpvNE9yd01QaV9WSDRXUC1uUG1aZzJ6bXNMb1Z3QmpvMmlUR0hCSjU5Rnhvd1JGdDc4VjBIcExFdndSVUc4Y1dhaGVxZzFHbXZXbDkwbXk1cVHSAeMBQVVfeXFMUEYzQlNIcWV4ZndISEY3NXlFVlJlN2NyTVlqM2pGRWdiWFBOcDBuX3phTjgwODRHcHBmNV9mY2hZUV9zWjVyLXFNcndyQmZCT0ktRzZ1NlJ1YWlWRjliWHNURXBLU3VJY2owY2JZYXdZWEtMZ1hDRG9HNkx2LXFxSTV4YVJXYnNuZDZaVHBHS3Z5UHE1ZFVwNFNFa01FU2taMVZ3OGFWN183dlo0bXp4czZVQnpNdnJ5V0ZBZU1ONEUtWnEyX2VBY2xQY0lVdWdNUzdfcU1lUXpua2wwc1o5YkxDNE0?oc=5",
+   "source": "News18",
+   "published": "2026-08-24T03:00:00+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "India\u2019s Space Startup Push: What\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f846b80324d1",
+   "title": "AI startup Hugging Face exploring sale valuing it at $13 billion",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-hugging-face-exploring-sale-valuing-it-at-13-billion/articleshow/133449822.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T02:49:34+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Hugging Face",
+   "amount": "$13 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$13 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "29dc2939d8cc",
+   "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-stock-slumps-in-hong-kong-after-10-2-billion-share-placement-to-fund-ai/articleshow/133449641.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T02:32:14+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Alibaba",
+   "amount": "$80 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$80 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b7054c1e1dc2",
+   "title": "Flipkart\u2019s Food Delivery Era, Weekly Funding Rundown & More",
+   "url": "https://inc42.com/buzz/flipkarts-food-delivery-era-weekly-funding-rundown-more/",
+   "source": "Inc42",
+   "published": "2026-08-24T02:30:30+00:00",
+   "score": 61,
+   "category": "launch",
+   "company": "Flipkart\u2019s Food Delivery Era Weekly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f612c596a907",
+   "title": "Big cheques remain scarce for startups; Trademark dispute between Matrimony.com & Jodi365",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQzRJVVM3V3Jhb1N4dk9GNDdCYVR2U1pGUUdnUFVHV1J3OV9hRkhLRnpEUFFONkhPVjJjVDU1UEctRTI2WnVpNlNxQU1BeUkybi1zZ3prMjVwTHMxaEVmUUlKVVQxWFQtT1ptSG15T0c1NW5IakExcWQ4alVZZnVGaTBqamhabVBMQ3N1b045cFFGVUhITnJTMGpNTFNjaHBSbGZaUDI2QmNrb0xlOWFoUmhUZ0Y2ZHF2U19jUGVDU1ZaQjVIUzZsNFE0X1hPaERRV0pRQ08zX3Z5ZUdwSTgxU3ZzbTZ3STFPN2JleVZKRXJNT19ZUERfb05HQUVhMEhfS2c?oc=5",
+   "source": "Dailyhunt",
+   "published": "2026-08-24T02:05:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Big",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "44de885e205e",
+   "title": "VCs chase deeptech; AI takeaways from ET's WLF",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-chase-deeptech-leaders-on-ai-at-ets-wlf/articleshow/133449179.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T02:00:40+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "VCs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "913fb7762a10",
+   "title": "All India Radio News Kohima",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBTQ1VvTnFMZE9ncjhlN3JDLVhYY2I2Yld1dGttSVRyRDgxM3FzelJXQk90NlVteEg4NmMw?oc=5",
+   "source": "t.co",
+   "published": "2026-08-24T01:59:33+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "All India Radio News Kohima",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "19986daa9964",
+   "title": "Aora Launches aoraspectrum.com, Moving into Direct-to-Consumer Retail in India",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZV9PMFo0cGNfcW5keDhCTzhRbkViTUNoZTEzaWZJNHl6VlZJYW9rWHZHSlJrY0FCVHRpUzVMS25xOUtZbDVjN2tXV3BSLUp3YkwzS00yNC1RQWpjd2lhbDBDVWJjWVloUmQ4VHFnX0hQTjhYQVFKWFpGZUJfcGN6RHpNeGszenFHaGNiZEk0elprSFV4SFUtNjNKdW5TRWF3VWF3bkFRZlFKaHVFWGYwdndrQnFXYVlUT0prNTB5UHE?oc=5",
+   "source": "Business Wire India",
+   "published": "2026-08-24T01:07:30+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Aora",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e2d3b16daea9",
+   "title": "IIFCL raises $200 million via 2 ECB transactions",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmFHVEp6c3ZSb0FGY2tFRlhRUXNxbGRSV1ZQaXJDdy1xa21fN1RvUTVVWHJIazB0NWo0Q3dadVFoYWZoeEhzZ1FXT1dPUjlHcFBCdmFzVDVOYWt3SDQwWDNTRG5GcjhkOWFKSlZQM2U0SkM4TEFSdEZld0FCaEp4Q2oyNThJVVZMbDM1ZnZJcEVjR2g2Wjc3T0U1WkFOaE9XZGZBM3p6OGoweHB2TkhJZll5WVgwZ9IBuwFBVV95cUxObnlUMFZUSGExT0NuUXVEOC05TnFxcUpNMWFIQXhCaVVSRUV6VFV5dW9OU2RYSnZlRGhfNVFURzMxNERzc1VNSzIwMmF0RXFyVGFCbHEtdjUtYS11M3BkbjRXUWM1R0U1WHZjMWdKejlaaVhfVXFXcHUxN0xFbkVYNFBhN1o2MERJS04zRmJZc0lIVGVOYmpIYTdhXzUzNlZkdkJRNTRkWGhCVTl5b3VuTVp2SkpOTTI1MlNV?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-24T00:50:26+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "IIFCL",
+   "amount": "$200 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$200 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "597e5ce28407",
+   "title": "Gulf Oil plans to expand EV charger capacity as e-bus demand grows",
+   "url": "https://www.livemint.com/companies/news/gulf-oil-plans-to-expand-ev-charger-capacity-as-e-bus-demand-grows-11787473385601.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T00:31:00+00:00",
+   "score": 38,
+   "category": "expansion",
+   "company": "Gulf Oil",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05dc9d752e9b",
+   "title": "Beyond The Shiprocket IPO Takeoff",
+   "url": "https://inc42.com/features/beyond-the-shiprocket-ipo-takeoff/",
+   "source": "Inc42",
+   "published": "2026-08-24T00:30:39+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Beyond The Shiprocket IPO Takeoff",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f39f87cfb0d",
+   "title": "Now, GCC cost calculators to help firms take swifter calls",
+   "url": "https://www.livemint.com/companies/gcc-advisory-firms-cost-calculators-ai-consultancy-big-four-11787479968180.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T00:30:20+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Now GCC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dcf8719944d4",
+   "title": "Singhania family-owned JK Tyre wants to go acquisition hunting again after turnaround wins",
+   "url": "https://www.livemint.com/companies/singhania-family-owned-jk-tyre-wants-to-go-acquisition-hunting-again-after-turnaround-wins-11787478998025.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T00:30:00+00:00",
+   "score": 64,
+   "category": "acquisition",
+   "company": "Singhania",
+   "amount": "\u20b96,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "acquisition in headline",
+    "\u20b96,000 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "41f9669f97e2",
+   "title": "DP World wants longer contracts at its five terminals, to invest $700-800 mn more, says CEO Yuvraj Narayan",
+   "url": "https://www.livemint.com/companies/dp-world-india-bet-new-ports-700-800-million-investment-long-term-jvs-global-ceo-yuvraj-narayan-interview-11787474386391.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T00:26:00+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "DP World",
+   "amount": "800 mn",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Yuvraj Narayan",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "800 mn"
+   ],
+   "alerted": false
+  },
   {
    "id": "54379037e2a4",
    "title": "India\u2019s talent, cost advantage can drive space sector: Modi",
@@ -2360,76 +2649,6 @@
    "alerted": false
   },
   {
-   "id": "1e7e90c4a975",
-   "title": "Tech3 | Rapido's Ownly captures 10% of Bengaluru market; Two senior level exits from Flipkart; and more",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLXU5bmRZdVU3dWFoZFhIS3FxaEswMEdHT3d5SXNRS2JlQnNzdGstZTZoOW9DdlFVMzNEZXpjVnZ3bjVTQmpSNEVMT0dOdjJiYVpSX3Q0RjJLOExRNlFqTlFiUWctOGZTV3RHQWtPc2daS2prdC1JVGVpcmJjRHdneHY3eXVpMk9UcElRa2hfSUtRN3VERUR4WGdqUEotLTB1Tnl1SkM2a2psZ1FoYzJ3dk5xY09URVZreTZYcS1ocEEtVlNHNnh5dmpVOGpQOVNzWlp2M3oxaEZqMlFtdEMyNUxnTmRTcmZpN1lvSHU5U2V3WldiVThjQjFONW44N0J1MWc?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-08-21T14:28:33+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Tech3",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8a6bc6c3132b",
-   "title": "Rooftop solar crosses 50 lakh homes as PM Surya Ghar triples its pace",
-   "url": "https://yourstory.com/2026/08/pm-surya-ghar-50-lakh-rooftop-solar-homes",
-   "source": "YourStory",
-   "published": "2026-08-21T14:19:26+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Rooftop",
-   "amount": "50 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "50 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "614fbacc72fe",
-   "title": "IIT Bombay\u2019s Eureka! 2026: The Biggest Opportunity for All Startup Founders",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1J6dzhCZ3V3aE14TWJ1S2pOQlAwV0ZrMlh4LTYyLU8tRVI4alBDeHJud3lCSHZCSjREeG1BVkpTUzc5Mk9vZHdGbkpMemVxaGNmckgtWE01UFZlQV9MS0FSWDhGR244T2psM2lTcm8tVnY5T2h0blZ5cFRmMkNQc1V6cjJuVTdzcThrNzYwMDJtN1RVaWpDcmpmcmlCYm5qYmZpUjdabDdkNG4xSG5uRXk3UQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-08-21T14:11:53+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "IIT Bombay\u2019s Eureka!",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0904d95131f3",
-   "title": "Chinese flash-memory chipmaker YMTC plans to raise $4.9 billion in Shanghai IPO",
-   "url": "https://economictimes.indiatimes.com/tech/technology/chinese-flash-memory-chipmaker-ymtc-plans-to-raise-4-9-billion-in-shanghai-ipo/articleshow/133406703.cms",
-   "source": "ET Tech",
-   "published": "2026-08-21T14:04:57+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Chinese",
-   "amount": "33 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "33 billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "204c7c96c41b",
    "title": "Indian startups raised over $242 million from August 10 to August 15, 2026; Yulu tops the list",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLThDeTlZaFhlQ2lpZnI2Q3dPbUVhZEhBVGNOU01qNjhjR29BVk9Xak9YT0cwNmlOZkZQemlCVWw1Y2t6OV9FamxmUzJtMU1MZWRwdHpkcEZ4WUh6ZmlNaTlISTBmaEllUW00TFVManVsdXVDOGNMenFscE1iNHpJWHRmWlNzdFhuT3JWbWpSSXFvQzlHd2NOc0RFRzRvSnR3ZUpuMFFaOEYtcU9Ld0dOUXhBOEU4QmFRNEppbDBlY2huR0Y2ekw1R2hkR0xSdlQ5Z3NBXw?oc=5",
@@ -2468,91 +2687,6 @@
    "alerted": true
   },
   {
-   "id": "7a9f533f2ffc",
-   "title": "Delhi HC questions its jurisdiction in HUL-Beco ad row",
-   "url": "https://www.livemint.com/companies/news/hul-beco-skin-allergy-ad-row-surf-excel-delhi-hc-jurisdiction-11787315925119.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-21T13:44:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Delhi HC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2532bf2e615f",
-   "title": "Gudlyf Mobility builds the lightweight cylinders that hydrogen vehicles need to carry fuel",
-   "url": "https://yourstory.com/2026/08/gudlyf-mobility-hydrogen-cylinders",
-   "source": "YourStory",
-   "published": "2026-08-21T13:41:19+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Gudlyf Mobility",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dbc53583a6e2",
-   "title": "Sagar Defence Engineering builds uncrewed boats that patrol and survey without anyone aboard",
-   "url": "https://yourstory.com/2026/08/sagar-defence-uncrewed-boats",
-   "source": "YourStory",
-   "published": "2026-08-21T13:40:51+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Sagar Defence Engineering",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "790f88262523",
-   "title": "Karetic Energy is building iron-air batteries to store power for days rather than hours",
-   "url": "https://yourstory.com/2026/08/karetic-energy-iron-air-batteries",
-   "source": "YourStory",
-   "published": "2026-08-21T13:40:28+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Karetic Energy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8e4924102a63",
-   "title": "Hyper Horizon builds small autonomous submarines that map the sea without a pilot",
-   "url": "https://yourstory.com/2026/08/hyper-horizon-autonomous-submarines",
-   "source": "YourStory",
-   "published": "2026-08-21T13:40:09+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Hyper Horizon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "58f63000bb77",
    "title": "Bengaluru-based deeptech startup AlgoFET raises Rs 15 crore from Piper Serica",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTN4a3pQcXFyOWhMbTY3aVdkSXhIY2E1OVpkbXF0MWxOUVB2TGVmblRUMkNQQ0hNVGlqSlZ4UTk0WTdSOEV4cGxLY1RGSG0ybjFqeDNIaWFtMGk0ZnAydlgzY1BEcFlmZGFiODFZRXc3d2Q3OGI1UVZFU1NxS1ZteHJxRnJKUXlmVFpxRnowQkZBYV9JZ056X1JHUWZYQ3ZsNHM5algtTHllYXhvUnVTSG9SeThkWFQ3Qk1wSlVsWlBNQdIBwgFBVV95cUxNSTN4a3pQcXFyOWhMbTY3aVdkSXhIY2E1OVpkbXF0MWxOUVB2TGVmblRUMkNQQ0hNVGlqSlZ4UTk0WTdSOEV4cGxLY1RGSG0ybjFqeDNIaWFtMGk0ZnAydlgzY1BEcFlmZGFiODFZRXc3d2Q3OGI1UVZFU1NxS1ZteHJxRnJKUXlmVFpxRnowQkZBYV9JZ056X1JHUWZYQ3ZsNHM5algtTHllYXhvUnVTSG9SeThkWFQ3Qk1wSlVsWlBNQQ?oc=5",
@@ -2569,23 +2703,6 @@
     "Rs15 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "52b803eaec87",
-   "title": "Temple is now smallest wearable and \u201810^10\u2019 more powerful, says Deepinder Goyal",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV0ZPWVFaT19JT3RtdkdxdlBTTV9TdFo1VFUwVEVOQ1pjODNObkZ3aDM2WlpTWTg0UjFmc2VLNGN6WXRPUEdNa1VVYXlBUE0tTnlsSU94eUN6TVdPcHlma09NTVoxSWMzXzdBcjFIYTBSQ214VlVyN2l0N2xOU1E5NjdWZ3dhRnJuRmNSSXFLdkpaT0d4WnRDTkNnM284V0gzcVY1Y2tlQ0hpLWRfMmllbUhmMU9NZ0FHV0FkakZBXzlHQWvSAdABQVVfeXFMTlYzVWRWSWdnLTVXZ1VDS01iZHk5U2RlaDBoVlI2dXQtNG56Rlc5bVUxQ2d0S0VGeTA4eUNCZ1ZSNXB5NWNoUEhiVVA4VXpoNXl1cHBjcG03OEpCbTB0dGQwYXAteXpmeHRwbko5d2pKZlhza2ZFR1dHVW5SRG0zaDkwUFJYcHdTSzVGcTBBOFNkc3Z2SngtLVpLQm5CZUhLZkZBaWplMGpKWlliczV6RjRkMUpNa0U3aGhSQ21CZG40ei1ndDdERmdsR1FmN0I0bA?oc=5",
-   "source": "Fortune India",
-   "published": "2026-08-21T13:31:14+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Temple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "64f4600f33dc",
@@ -2639,41 +2756,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "f9911a254f12",
-   "title": "Gaja Capital\u2019s $57-mn IPO gets bids for over $1.3 bn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LLXAyTDFtYkM3VkpveHNpSDNIdW85Tl9EN3ZfRnUwT0R5NGlvZjkwWjBsaHJxbExiSjUyQXhqU253NVU5eTlER0poMFJ3LXgwVS1TaThJc2x0aHQyWUJpb2ZUMGZxN28xLXBKd2xCd0R3TDNwU2xNbml3T0hQOW8?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-21T13:17:26+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Gaja Capital\u2019s",
-   "amount": "$1.3 bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1.3 bn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f3ddc064048",
-   "title": "Operational Discipline Is India's Biggest Competitive Advantage. Odoo Is Betting on It.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BYN0VKOEVURS1TVHYwaEZJN1E3UEFkS2Z5WG1hSkh3bHhyZ2pWQ1Z0emZaZWRnTnQ4bjhIVXZROW1CX015ZXJLZEFJWFRhTU93S195ODFwUzdneTlWYUkxa0pheVUzd0hLMkpleVFXVzZ4Q3dtdnBCMjYyZVpsQzlsYjdFZUhaOFZ0bXJtRVZ1SVlIelB3VzRXTHRMeG13U214WUQ0OTY5UjNT?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-21T13:17:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Operational Discipline Is India's Biggest",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6aced83ba6f6",
@@ -7000,57 +7082,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4c6403b6b14e",
-   "title": "Chip startups hit funding wall in race to scale",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWFEazBUNHRhbDNiS2RrTnhmbWNBckdMRDBEWHctaGlqNUNkdGNtY3JuaXhEY2FFYVc3bk9DVVZtc3gwREN3bmtERkNuZWNkaHlhNXd0dHhhZ0JsOGEwUVJDYzE4ZkV1Ykw3RnVLLUZudlo5T3VCU1hvRDJ5SUM0cW1ibjd6aEV0M3lVaE1iYw?oc=5",
-   "source": "Communications Today",
-   "published": "2026-08-17T02:33:48+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Chip",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "19b837bd934e",
-   "title": "BGMI Lite Krafton confirms India launch: Release date, features, system requirements, download size and wh",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNN051N0ExLVJYaDhsVUZFVTc1WWRRRklBeFB1RkNuZG9tSmN3UWdMbnlBbE1mVVRFbHBGRkFZNjh1dTJqSk9wS2tubGNaazBxYkppYkxMbUhoMzJQeTgxTzU4VFpfdVhJeUhCUUtmLVMxZ0JtTXhIMzFpVWdTYU5BN1paOU5Wa29DQzZQYTRfRHJtZGRTSUVFYW9fNS1IbGpCdm1sRkpvUTNFY1hNUjBVdEpIa0hBNTN5dFVLNy1jY2RDeTRYX1Z0TEdyM3RMRWkxTE40NkFmMzBxY3NPSVh0NHppUU0wRTYzZU9wMk5DcXVEZmlUU01lQ2hlZ0VBX0l2WDBfbk9TUlc3MUFyclpMNHlJRjZReU1XWnfSAZ8CQVVfeXFMTzRFRHRHdW5YdVpCMy1nQ0JfLUhPUjJVWk1za2JQSWNXU3dkdWxBbllPdWlULUJVRlVzeDA0dkQzYzdaV3JoV3k4Wmw5ZkNyYTJqYjhQMk8zb3BjaVdqVjdEcG5Wd0xQZy1JWGM2N05ZaUZzUVB4Nm8tRlBsQWp4T19tbTFremcwall1eFd0bTY5ZDlKOU14Vlg2cldCYnBZSFJQTXZUUjlVWm1HT2czSW1aRWJCMkxkOHN4aGhlNUdLSzAtSzk5OHJDRW94S09rU3FadDhmY1psdUpQX1Q0cFJBbU93YWxYaEY1YkQtN1dreFJLUXhEZUdQck5SMk14VUkwcVJ1SGFueE4wdk82UVhiRjkzZkdGVXFEYXNmRDQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-17T02:17:52+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "BGMI Lite Krafton",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eb9d2ffb86e3",
-   "title": "First industry-built PSLV launch slips to March 2027",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTlzQXdkQjlnVkJ5c2JhNHhWVVdMV09uMU14YzladVp6NHlCZ1NSMjhzNjFoSm1rbFJ5U2dnV3N6bllyT0N4akFnRzlhOER3b0lJNHc2blRmX29BUlNkRU1GdkJMSzkxVEV6VG5kcGxKLXhuUl85UW5URFpzeHZjVEE0SHZmSHBfSHlrcG44NV82dDhDV1VMWmxtc3ZGay1GTGZYbkFvRE9KdGMtN0NuZExUU2NoeHNqQ3ltR9IBwgFBVV95cUxOSURrVFF1XzFDZ2U1bWQzYTZUNVhpUl9Db1hpTmtGWnhJWDdNcmYxOWVnUUlRR0NPSzc0WVJ6dERfbHpnNEtPOWxLVE9NNHV6bjcxMGIwa1U1ZlRWN25NeHd2enlwVDJ2cGNZU29Ba0dmZUMxN0EtaTlad3ZtaTRQVFdQNDdMemVoY0E5RDBzZkhhS3A0QXVZWWhYMzdublIzd193SXlfbzdKcUloMFoxcVBFRGpKZlY5T3pGREJOSTZhQQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-17T00:30:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "First",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

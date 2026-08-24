@@ -1,12 +1,225 @@
 {
- "generated_at": "2026-08-24T10:21:35.273719+00:00",
+ "generated_at": "2026-08-24T11:48:31.401554+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 71,
-  "fresh": 27,
-  "alerted": 9
+  "fetched": 60,
+  "fresh": 17,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "a4a1276fef0e",
+   "title": "ACKO\u2019s new health insurance campaign celebrates customers who don\u2019t compromise on health",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaThFWGdpZjZtNTdRTHRxblFmNDVCY1A0WUlvWkpWbFp0SWdHSGlXUC01Q0djUzc3VU15c0lOd0VZY3pfbkxLNWU0TDlybTdEbWJxVndMNkxBOXRtNmtVSDRSZ3Qwd1ZPM2ZoUnBydEJiOVc3bEpXdFdBV0d1QmxLN3N5QXdZNDU3ZWNPSjFGcGU2aXhDelRsN19ZaGhrTF9jN25pT2lwVHlJelRmVlBfYTlQS1laQQ?oc=5",
+   "source": "MediaNews4U",
+   "published": "2026-08-24T11:45:34+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "ACKO\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "55e1ab1dca85",
+   "title": "DoT Makes Biometric Identification Mandatory for Mobile SIMs",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXAyLVdaWTRlVURxSzV3cnctNkh6T1dGYkJCY2F2a3pJMDNtQklQV0JlckdEOVdLYi1hUGVQQUNvTmN3WkFHS3MtdktIdnhnR1pSdHZiZExxUElINFdZb1VxSTdnWDdrTER5R2FVR1lvazh3bURycTNoTmNYNS15b25WRGQyUQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-24T11:42:21+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "DoT Makes Biometric Identification Mandatory",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ae1433ce2e4a",
+   "title": "Facebook, TikTok promoted Colombian armed groups' content to recruit children: NGO",
+   "url": "https://economictimes.indiatimes.com/tech/technology/facebook-tiktok-promoted-colombian-armed-groups-content-to-recruit-children-ngo/articleshow/133463986.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T11:38:01+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Facebook TikTok",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "579354e585da",
+   "title": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
+   "url": "https://economictimes.indiatimes.com/tech/funding/xpengs-robotics-unit-valued-at-over-6-3-billion-after-record-funding-round/articleshow/133463769.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T11:31:56+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Xpeng's",
+   "amount": "$6.3 billion",
+   "stage": "",
+   "founders": [
+    {
+     "name": "He Xiaopeng",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding in headline",
+    "$6.3 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2e58e44549ef",
+   "title": "Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5",
+   "source": "Tech Funding News",
+   "published": "2026-08-24T11:31:51+00:00",
+   "score": 67,
+   "category": "funding",
+   "company": "Seedcamp",
+   "amount": "$2.7 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$2.7 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1e79f1ad4a10",
+   "title": "Jaipur Centre for Art and RMZ Foundation launch Studio Intensive, a month-long mentorship programme for young artists from Rajasthan",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPX1J6MWFsUjhOM19fN1FoQzdWRWJfdmg3MlgtYzktcjZmZEdmQnd4TjhJdDhWN3F0RF82XzNobDFReXN1b20ySV9yNVMtRzZGRnNGamtuTkFHN2VzY0RZZDlQX1FXVDV2UUlVS3RIT2JINGZfdlIyT1dZSmpHSndqOWNhTGNYNmEzcmNtVkQ0MW1jN3NtTVlKVmxYSXRIbmdFSkUxZWU2SU5RZ2VIN0ZPLUsxZUMwQ0RlWkphSXJaMlMxTTZ4UHdPODFVdUlyMk1WTGlPYnBnX1ZxamFSNTR6UFVzYzd5aGJYUVgyQ0VIMzBBbDJyYjFPRmszTThhS1RteF9RZw?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-08-24T11:29:21+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Jaipur Centre",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1daea40c7711",
+   "title": "Asaya Raises Rs 88 Crore in Fresh Funding Round Led by RPSG Capital",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW9OdVNtbnRPQUxhdTVCMEdqaTk3SFNMWG5TdmQzekdXcnNXUzRoaUo5a3V0RVN0Umw5OFh3SmVDOTYzdFhpWTZCOWlEdXZ2czVENGFDZ1lVRnVaN1JQT3MwWGdSVU5DU01TZ2QxaFd4MVc2RjVqeW05VmVpVktkSG12OXhYbHk3Yk1hZDEwdXpad2dH?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-08-24T11:28:46+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Asaya",
+   "amount": "Rs88 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs88 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "43938ae4638c",
+   "title": "AI\u2019s new cost equation: Why token economics matters",
+   "url": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
+   "source": "YourStory",
+   "published": "2026-08-24T11:05:03+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "AI\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f7585e2d3f1",
+   "title": "Gujarat High Court quashes GST order based on non-existent and AI-generated case law",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRX1NGU0R5TTFqQVFUQTZHWXd1Rl9aTzJQTkk5Z3V2amZYaC1abERhLVc2ME9yaXFqcmg4eWhpMHAwLXpPNXJ1ejBUcDRYdkkzNHdKeXpoRnVPOXFNTWplYUVta1QxbHRrZmJOM2RnUEpTSjlOczVZZklxcy0zbzg?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-24T10:52:27+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Gujarat High Court",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b230a89f8588",
+   "title": "Deepfakes can overwhelm criminal trials, says Senior Advocate CU Singh",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91eWJqX01JMXdQYkdGdi1ZMXoyMHR2RW5Dd2xlT1l1WDdHNDc5ZkluVW5JaXRmSENoekc3N0k2TTFkME16T0drcFBoYTVUZXZLVW1wOGZaT2hmOG5taXlRd056QTh5Zm85djAyeUZ4c3RBbUdZdkVBQ05vclVjZw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-24T10:52:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Deepfakes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4294a7ededfa",
+   "title": "siliconindia Startup Funding Report: Consumer, D2C, AI & Emerging Tech",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVM3cVIwNWh2d1BSeVI0MllyRXVBQ25tdWFYbGJ4UU9VcjgxTmE4UWhKdHhRLWprUEUtX21IcldCWVBSNF9hRHZiQm0yNnZfeEdYZWV6R3ZoNmZNcGhubXAydEJVMjBESDBhMGxXLTlXaXoxLWZUa25FWmUtRmVhUDkyMVBIcUJWcVBPN2dTYlJ5dWFCMzRaOHhSdUNsN1UxT0pway1FRFRZbjlDb2FFUjJ0ZWNDTmZRY1dvSndKUV9CNktzb2l2c3lPOXlXeGM?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-24T10:27:08+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9ae53f0842de",
+   "title": "Hyderabad Emerges as India's Spacetech Startup Hub",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalJZRDk4aUpwYjQ3aGNzNTJ6WUxXQi1CdFZpZmVvclA2QzJMcG9nUTZtVTZGbzY4U1JYbzhtWXI2cWNPSDJvVWJUMEROb3RTbU54R01GNHpkbzA1NG0waC1SRUlJaWNHd281MDQ2b1VZeTJncl8zX3RTaVlOMEJQVDhFZjQ2ZnJWQUU4U0lzV1AwM2lad3oxZ2JSUmVBb25ZSEk1VkRpbkZzUnpORERFU3VrNFVRUQ?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-24T10:27:08+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hyderabad Emerges",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a2fe1a1c9007",
    "title": "Uber Fined \u20ac825 Million Over Automated Driver Deactivations",
@@ -26,6 +239,40 @@
    "alerted": false
   },
   {
+   "id": "695d05b7dfc7",
+   "title": "Xiaomi launches new Xring chip, partners with TSMC for production",
+   "url": "https://economictimes.indiatimes.com/tech/technology/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production/articleshow/133460700.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T10:06:48+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Xiaomi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2f570ff0c311",
+   "title": "Midcap IT likely to see better H2, AI-led deflation weighs on FY27 growth: Anand Rathi",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/midcap-it-likely-to-see-better-h2-ai-led-deflation-weighs-on-fy27-growth-anand-rathi/articleshow/133460600.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T10:02:12+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Midcap IT",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "ccf9bb40dffc",
    "title": "US-based Plaud bets India can outpace its global AI wearables growth",
    "url": "https://www.livemint.com/companies/news/usbased-plaud-bets-india-outpace-global-ai-wearables-growth-11787548318911.html",
@@ -40,6 +287,24 @@
    "reasons": [
     "expansion",
     "$3.6 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "06f20223f642",
+   "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
+   "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-launches-wan3-0-ai-video-model-after-10-billion-share-sale/articleshow/133460529.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T09:59:50+00:00",
+   "score": 83,
+   "category": "launch",
+   "company": "Alibaba",
+   "amount": "$10 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$10 billion"
    ],
    "alerted": true
   },
@@ -2407,23 +2672,6 @@
    "alerted": true
   },
   {
-   "id": "aa09b825c95c",
-   "title": "National Space Day: Space Startups Scale Operations As Private Sector Drives Innovation \u2013 India Today - India Today",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMWMzLXFDUlZrQi1ERFJtb2dtSnF3OEFnYkNTUWxYWGJGMXhLNEZKWUVtbW14a3VIU1NnZ0pUY0p3d2c5REZCLVlweW9UWEpjeHA3SUJMNDRoLWdKQW1MUzVFYVh4VHlKRldGS00wSFpWeG9lMklLOWZsSG02LVBPd09ESDBrSlVlazQtQUJrRHJiYWRQVDFVbWtPdWJNcmpvN2IwUkpwUE1WX29OQ2lMcVRjcHN3ZmJCa25mdHEzbVJUWFFPUDNGR0NiNjh2VWozYWpralQ3VXAxSFBRaUtHQU40dzF0c3NZN0pXWTB30gHuAUFVX3lxTE8xYzMtcUNSVmtCLUREUm1vZ21KcXc4QWdiQ1NRbFhYYkYxeEs0RkpZRW1tbXhrdUhTU2dnSlRjSnd3ZzlERkItWXB5b1RYSmN4cDdJQkw0NGgtZ0pBbUxTNUVhWHhUeUpGV0ZLTTBIWlZ4b2UySUs5ZmxIbTYtUE93T0RIMGtKVWVrNC1BQmtEcmJhZFBUMVVta091Yk1yam83YjBSSnBQTVZfb05DaUxxVGNwc3dmYkJrbmZ0cTNtUlRYUU9QM0ZHQ2I2OHZVajNhamtqVDdVcDFIUFFpS0dBTjR3MXRzc1k3SldZMHc?oc=5",
-   "source": "India Today",
-   "published": "2026-08-23T06:42:57+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "National Space Day: Space Startups",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9ba2d6dc5bb5",
    "title": "How a Bengaluru startup is taking a leaf out of the quick-commerce playbook to launch rockets on demand",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObHNmZjl3dmFlNmxvNVhzVjBIRTdGTFZaQmZQRmZSTktkQkg5UWs0OXFOdi1CNFZURzNybVpGNjFNb3h4bHV0cC1tRHh0NzV5Vll6WHd1MnZfcjdIczlTQm11b3lCVS1qQjNhLUg3dDJCbEpUUHRZVTBoNGs3d2VfQU9zYTZVNjNmRmtWTk9zV0gzUmZQWGNnWFNiNVJvVjJnYTgxSHZaYlhqYkhlTG9fc3E2Z1RYTmMxcGhkNzFPWXZ5dThJZXdfc2VCVWt3alFVS2E5ZENIVDJGOElGQjMzaXhNSnZtV3Ja0gH2AUFVX3lxTFBhSExMaDk2VEpxdkYzd0w4eTBYdmJ6N3M5NUh6ZWt4X3JaRklXay11Tk5lVDF2Z2ZwdXNweEhqNHphaEJSbGwtNDlXNDJlOTdhX1F0WnM3dUtzdmVrTGxpNXZjR1c3eTlvZUhQZngwSGNfYTNWZ3NSRGRiR19iR1JwVXpLMkRJNTZ3aXl4c0c3d1lfektlT1ZZWWVuN0hUYS1RWURwVTY3anNDWTc5dDBlVDhDUnJfMHNYLWJ4UnlQaXM3Rmd6bHh5SGhnN0FPTG9pekNOZ3o5OUN4LVNBVTF4Nm56SXA1U0ZBeUU1M2N5N2d3ZHlPZw?oc=5",
@@ -2439,40 +2687,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d36d29d0594d",
-   "title": "PM Modi Meets Space Startups As India Targets $44B Space Economy Boom \u2013 India Today - India Today",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1cwT3dTLUctSzJWaHppcE1oQ2s3LURvOTRiWERBaTlHUGNEMjJocWstMUdCNXluV2hUNWNmeDVLV2RMZGc2MUJOTVlwXzJkVmt6ZDduTlVfalpjR3JkalVHSEg1NWx5THpKdjJDaEVYajZHdUJZNXR2ajY1ZUo2bDNiYjRDUllVdWdGXzhZUTZZdHdKMEpvMWRvM3E0eFNWRUNSSmFXTkVzTjZTdlRTRUthQ19jTWZPTjVTM0IyRmNfZmhySFFSRDdLUFdwd1Q1dno3Z3ZR0gHWAUFVX3lxTE9LVzBPd1MtRy1LMlZoemlwTWhDazctRG85NGJYREFpOUdQY0QyMmhxay0xR0I1eW5XaFQ1Y2Z4NUtXZExkZzYxQk5NWXBfMmRWa3pkN25OVV9qWmNHcmRqVUdISDU1bHlMekp2MkNoRVhqNkd1Qlk1dHZqNjVlSjZsM2JiNENSWVV1Z0ZfOFlRNll0d0owSm8xZG8zcTR4U1ZFQ1JKYVdORXNONlN2VFNFS2FDX2NNZk9ONVMzQjJGY19maHJIUVJEN0tQV3B3VDV2ejdndlE?oc=5",
-   "source": "India Today",
-   "published": "2026-08-23T06:33:58+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "PM Modi Meets Space Startups",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "87824c137585",
-   "title": "PM Modi Fuels India\u2019s Space Startup Revolution",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDJHYzRXOHdyQmNQbjhSVzdYOC05V0gyNkxoRFVHeDVjOGJkWnNEM1cxUjJ1TXlkbEwtQ1VmV2Q2akltNW4zY0JPbjlRNmZuWEtDTHNxV3BoRG1XWVlSUnl1WVo2TmxNeWJqejJBcTJTWGRnMWtOLWtyNHFPNXBwWW9vb0JEaUNyNElqTmM5dW4?oc=5",
-   "source": "The Kashmir Horizon",
-   "published": "2026-08-23T05:33:31+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PM Modi Fuels India\u2019s Space",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "7a9e1cae2937",
@@ -2507,101 +2721,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e72d122a9f58",
-   "title": "Startups, sustainability, style: Gifts World Expo Bengaluru kicks off 6th edition",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUY5SDVlcjBUMmpUck9tYWNodUptWjZRenoxX2VYZWRrRjFaOGdRNy1SdVlUWTFRNWFhRE5VanY0TjhSZ1NLU3NZU0JYb2NVN3luZ2M5VkZzWUh2WmNQRVpaX2RBTzVfcEloeUlWZS1BNDBjcUVzZUs3ZkJVWTI5VW5sTFN6UlVsaUVuTlhNcUJvQQ?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-23T02:48:45+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "75ac4cd029b5",
-   "title": "Software, services, AI: test your business creativity with Edition 246 of our weekly quiz!",
-   "url": "https://yourstory.com/2026/08/software-services-ai-business-creativity-entrepreneur-quiz",
-   "source": "YourStory",
-   "published": "2026-08-23T02:15:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Software",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f9f5c3da9ebf",
-   "title": "Our next space race may be closer to Earth",
-   "url": "https://yourstory.com/2026/08/our-next-space-race-may-be-closer-to-earth",
-   "source": "YourStory",
-   "published": "2026-08-23T02:00:00+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Our",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "CVS Kiran",
-     "handle": null
-    },
-    {
-     "name": "Red Balloon Aerospace",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "db07e3e2a288",
-   "title": "Beyond the blue: Levi\u2019s broadens its India bet",
-   "url": "https://www.livemint.com/companies/news/levis-india-looks-beyond-jeans-as-denim-market-gets-bigger-more-competitive-11787293460868.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-23T01:31:01+00:00",
-   "score": 40,
-   "category": "expansion",
-   "company": "Beyond",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dfe3c4ecf0ab",
-   "title": "Navi\u2019s Solo Run Ends",
-   "url": "https://inc42.com/features/navis-solo-run-ends/",
-   "source": "Inc42",
-   "published": "2026-08-23T01:30:44+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Navi\u2019s Solo Run Ends",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4be3ee107c0f",
@@ -6954,129 +7073,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "48ea2ff92493",
-   "title": "Qatar Post launches UPI remittance service to India",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa1hLT2pUZnNxdXBKLTZoZjRSZzBxUkExbERLdXVMZURBRWpiQVJ6TnNrOTR1dXdWaUduY0l1Ni1xcW1OZ1FkMFJWMU96RkMxeWppTmVNNnZ0LUJ2bUVfM3l3RWlmZ1dzMEZpaEx1NXhFa0c0bnVGbFNvc20tWTRCMl9DUzNGdw?oc=5",
-   "source": "medianama.com",
-   "published": "2026-08-17T11:41:43+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Qatar Post",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "66f8fe796d4b",
-   "title": "Archies Launches ThreadsThatBind DVC Campaign, Bringing the Emotions Behind Raksha Bandhan Gifts to Life",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkhfY0JSN1g5bnpLNWtpMDRKeUE2RFNRaGxBYk5pVklfNmw5LUt0WFdvNS1teV92Z1N1NXNPRVZJcUxxMjVhUHVuY0pJOXJQOTlibmMxUHBkSlB4WjJlV3JhSEJySGFFdi15LXRZeFhsUkNWaTZoYmp6NVVzc1JReS1XbWtfRU9pX1k0c2IxZFRTN2ZzLWpSaEYwaXBCSHJJZFRmRjhNM2dQLTg2TGFJaHB3YTZlUEFKN21wTV8wSzJFWXV5TzgxMFFzX3VCWXFldzdEbm5uWXlCUQ?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-08-17T11:38:39+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Archies",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6f7a732c9d7c",
-   "title": "India\u2019s Deeptech Funding Crosses $11 Bn As Investors Turn To AI, Semiconductors",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXFZdHU4VWRmY1JkcU9CZ3FvX0VNRXNhVDFfV3I5c01DWk91Z3JnYTlXdG82V0JEcFRsM284ZlVkUkVlTlhBWHRhU00wbUluZHZiNkVURV9HLWppUGg4cXpnT1lINy1HTVZEbVk4ekVJQUtKcDV5SW9XX1hTSGU2TTNjSVlBdW4zQkZvRmlTbWpvcFZ0ZXl5UXNFVk1jVWo2M1ZPbFdHeENRTnBOdHdZOTBZd9IBwAFBVV95cUxPOE5xQy1QdEhqM0kwdHpCdHYxbkZmTGFqc2x1Q1hGZk1VZkZ1VnZvQnoxbk41UjdZLS1UMjJuRS12czJpOVNfQWsxY2xFN0x0X29WWW9uU21Uc0hmcDZ5eERPZFBUbDBtaVBickRlVkFselZvZmZENXZyWC1qMWNaMGNPUHB6RnczYzgyZlRLM1VvalVRQ05TbGx1TE85OU5fZTMtdXFuUklHSjRnMV9hZEQ2TTBQaDRfT3E5SGNPYXU?oc=5",
-   "source": "outlookbusiness.com",
-   "published": "2026-08-17T11:33:13+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "India\u2019s Deeptech",
-   "amount": "$11 Bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$11 Bn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4254af292126",
-   "title": "Peoples Reflections Marks Seven Years of Empowering Journalism, Launches Reflections Gurukul to Prepare Journalists for the AI Era",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaHJFZkM5Q2dabVZpc3VNZlNmODIxelVHNkdEYzIxSnh0NEhzdHhfUXhnVndSQVc3TllXMUNKekU0d2tMZlJXaWh6RTlVdTFNOE41bHdjWmt6UGVEdThNb1JPWTRpdk5TWUt2Z0NXMnZ5MHRLbnlUV1RQUURQeGh0N1lpUUdQeXpVci01cUtnN0Etcng4dlNHZ0ZaeVczQ1p2VkJ1VUFSNXhEX1pQdkhrMnpZWkMxQ3FTQ2tvM2d4aFhKcUcxNVRjajlKN2Y4MWpEZlg1aVAzSk9nbjJPN3BTTTk2Y3R6Q1ZpRjZ0NGlCcUE3ZXFOdjV5MFJwWnNoSUNQ?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-08-17T11:24:59+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Peoples Reflections Marks Seven Years",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "53cfbb742a18",
-   "title": "4baseCare launches TARGT Indiegene\u00ae V2 for comprehensive cancer profiling",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2lnQ2hqOXZhT0FYaE1TMVZCQlVIbGwxbWJmY2VkRzdhWHp0Ym04ZnFZMmtXNGU1ME1weUpwUWJlRHc4TVljTnVFbWNxT1QtdjkxRlRrdTRYeGlvSlFRS1NOc3IwcWVMb1NxMnJTdXdIV0FPVjRnTC1qSFEtTzgwN29rVktJOGtqTFY4dFhDU1d0OEZ1MTFXd1ppbkdlUF9QRXF1NkVBbnlZOEFoNGx3RGx5ZGtjSlF4SkpnSEQ5OERXdw?oc=5",
-   "source": "BioSpectrum India",
-   "published": "2026-08-17T11:23:09+00:00",
-   "score": 56,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b8ba4c7381af",
-   "title": "Beijing Based Ingenic Semiconductor Launches HK IPO to Raise $410 Million",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWJFWnY1M1Y1QmFKNTVEdVIzWW9CRG9scFI2RHZSVXhXZGhiZXhzUzM5eDBRYS1vXy1XMlpjSHY5aWhjNXZqTW9vTGdFVzg5akJPV3Bpd1BLTTJPeWdUUDE5dFVqaXZVUVpidG5vN1dmbTN4TkRETVRQYWFaSXBxR0l5Mm9rQ3ZvM3F2LWxqMUg2VTJpNXIzTkJiVGtDNlhSQmxoaXRQanp5WlBBa0VwYkowdExYcVR3YmVKaFV3?oc=5",
-   "source": "Electronics For You BUSINESS",
-   "published": "2026-08-17T10:47:23+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "Beijing Based Ingenic Semiconductor",
-   "amount": "$410 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$410 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "49cfaf40b1ca",
-   "title": "Haryana Unveils Rs 147 Crore Startup Boost, With Focus On Women-Led Ventures",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUszejU5ajZlUGdreDFoYkpfYnIxYlhMQmhxQnRGRDMzSkdvVnhYVUVRY1Fndll4dTN3UGNRWUItRVI2ZlpvX2lKZG1OX3cySGhDdmJFMW8yamFUU2ZsUl9RZ2VpS2ZSOU40cGZSNERSN0dRei04eXFQUVJzRzd0M2pYN05KM3VFVXhNVHExdkJiVm15ZkxqQlJ6Z2gwN21OLVNlMFg5M1NoejAwaHotb09yODBudUhkTW5BVXZROHU5cGxnOG8wYWJqb2tRRnpYR1pXQjBjaw?oc=5",
-   "source": "Siliconindia",
-   "published": "2026-08-17T10:42:14+00:00",
-   "score": 77,
-   "category": "launch",
-   "company": "Haryana",
-   "amount": "Rs147 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs147 Crore"
    ],
    "alerted": true
   }

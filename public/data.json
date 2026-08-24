@@ -1,12 +1,238 @@
 {
- "generated_at": "2026-08-24T03:34:49.843341+00:00",
+ "generated_at": "2026-08-24T05:26:29.033959+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
+  "fetched": 31,
   "fresh": 16,
-  "alerted": 5
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "b4a2640b9b03",
+   "title": "KloudMate Unveils India's First Agentic Observability Platform with Auto-RCA and Self-Healing Workflows",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUwyUWdYdEEza2tHd08wQ0owV1VQOGVIMHpWQlVXWm9CUmNXUDBjaDk5MURDdF9LbDRhOGNWMUYtVTl3a2N4OC1BSGJPM2Jpa2hkUWJ0QW1ud0t3ZUdOeTlsUkl4REs2dDhSdkhzWFI3VllJa295WG81bWpLNExjbW1FOUw3TGR2ZE9PNFlsNzhyOXFWeEUwRWdsVzFUcXE3VmZ6akRWTHJrZFF1akFWR2ZHd0c0WmZ4YlprUi1oUGxQVW9WQ3hfOHZVdkJGUWx3bjVkVkZmRDRidnM?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-24T05:23:11+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "KloudMate",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "813dae881fba",
+   "title": "India IPO Daily Market & IPO Updates | 24th August 2026",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTJUWGhRTlY2Rmd0TlpIdXJYQ0ZuRU9SZTRaMFBNM2N5WFBDTXpLSzJ0ZFVzbHdlWFR5cTBiN1luOGxyVTAxNDhGbU1pbU5yLUVoSWdVbnZXUE1aVTRIWHRvV2ttbzJZYTgyZk1ZS2t6NHgxSVFvRXVaamplVmVkMG53NTZobjJNVFE3TmtIOTZMZVZ1?oc=5",
+   "source": "IndiaIPO",
+   "published": "2026-08-24T05:08:11+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India IPO Daily Market",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a3100acf424b",
+   "title": "Skyroot gears up for next Vikram-1 launch, moves stage 1 to Sriharikota: All details",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEZMLVdaNTV6WWZfTEREeXNoY1p3N1VwWkN2LTJuNkcwNVRhSTlFR0xCQXpkNWFjajBjUlFuMElaR0d5ckptd1dBZ0l6dG9JMkItUm9naWhOR1AyajRWTkN1WnA1YWk0VWd1bjdfc05uaUkzVVlxZ2JSLUVxTGgtU184YzIxRVNPSGtCbXotc050QmlnV3piRnM5dUpGS0R6UmJmanp2dW5TR3FFZ2RFQjFmTldUY294UFYxbmZHdjdTV3FyNTM4UG1zcjZtRmJhV19fNVRoZ21vRkl2a1M2MVZGWGUwZ9IB6wFBVV95cUxOSndaMGItbUhXV3JnN0lFdFpVMDNQZ0VuYXEwVnBwLXNRWG1teEdMSi1ObHlfblN5WkZ1UGZoaXBzNk5Wamh4TDNyNXNKY0x5ektBMlFVY1pja09YajRtQzNtTmVEdGdRN2dmSHRSamVERlBnUVVsNEhJdllON1FhV2RyZDhySnRHTTNIRWlCWUZyOTkyYjEyUzFqZWZ3ejZNRVFhRlNtb2x2UEduZXpvdzNLaEhDQ1J0NHpPcXlGWm43QVJPMTN5dFVqTUVTSHpSUWxPNnVWZHdfOEpUOUNJUHU0NmhBZzhPLTBz?oc=5",
+   "source": "Business Today",
+   "published": "2026-08-24T05:05:02+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Skyroot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9cbf86dca795",
+   "title": "Third Wave Coffee raises Rs 408 Cr led by WestBridge",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEZjMVY1T2RNYTZfVks5bE1iZWhZek8taGw1WHpVX2RWOS1DWGpodDBXeDk2ZUI1UjNPX3Fna2xtVDRYeHltOVhTOWNlTGowTXlNMVpEUHQyejd5SzJWZkxmb2ptSFBqY1VoakVwR1JfX2twdzY3YmN5OUpyWG9pRmY5RWZmeTNoeVhubGMyU0vSAZABQVVfeXFMTmhGYzFWNU9kTWE2X1ZLOWxNYmVoWXpPLWhsNVh6VV9kVjktQ1hqaHQwV3g5NmVCNVIzT19xZ2tsbVQ0WHh5bTlYUzljZUxqME15TTFaRFB0Mno3eUsyVmZMZm9qbUhQamNVaGpFcEdSX19rcHc2N2JjeTlKclhvaUZmOUVmZnkzaHlYbmxjMlNL?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-24T04:55:39+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Third Wave Coffee",
+   "amount": "Rs408 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs408 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ed42b05b8805",
+   "title": "D2C skincare brand Asaya raises Rs 88 Cr from RPSG Capital, OTP Ventures, others",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNNIBswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-24T04:55:02+00:00",
+   "score": 67,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs88 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs88 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b0d6d0368afb",
+   "title": "Inc42 CTO Summit 2026 | 175+ Tech Leaders & The Playbooks Shaping How India Builds In The AI Era",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2otTUVKaEIyTjluV3E5YTZab0g0VTRMazdJaUFmd3dqZ0ZqTEstY2U3dFQwWHM3ZlFrM3BQMUdYWElRQUpHZFZxSlNndWZsTVcxVDg3bzM5SHVKQ3FIZTBmRFhnSWNZVFRzb1NTNlpTVmVsQkxuZVpXOXJDN2JwY1RLQk1DWWhoRWFnaWFnekdqVTVVNFJ0R2FXZWdXcHRkUl9GV0tLWjF1RS04bC0yZmtUZzNfQQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-24T04:47:52+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Inc42 CTO Summit",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ced9de3be018",
+   "title": "New Zealand to introduce bill banning social media for children under 16",
+   "url": "https://economictimes.indiatimes.com/tech/technology/new-zealand-to-introduce-bill-banning-social-media-for-children-under-16/articleshow/133451478.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T04:46:07+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Zealand",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f652eaa2d335",
+   "title": "From Australia to Europe, countries move to curb children's social media access",
+   "url": "https://economictimes.indiatimes.com/tech/technology/from-australia-to-europe-countries-move-to-curb-childrens-social-media-access/articleshow/133451415.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T04:42:09+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "From Australia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "775ca3061717",
+   "title": "Nomura sees strong public market momentum, global buyout interest in India",
+   "url": "https://www.livemint.com/companies/nomura-india-investment-banking-qip-ipo-block-deals-2026-11787536058836.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T04:32:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Nomura",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ce7427666e7e",
+   "title": "Third Wave Coffee raises \u20b9408 crore from Westbridge Capital as it takes coffee play to more cities",
+   "url": "https://www.livemint.com/companies/third-wave-coffee-funding-rs-408-crore-westbridge-capital-expansion-11787462869775.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T04:31:04+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Third Wave Coffee",
+   "amount": "\u20b9408 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9408 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "446dba89921a",
+   "title": "5 Books that explain how small choices create big outcomes",
+   "url": "https://yourstory.com/2026/08/small-choices-big-outcomes",
+   "source": "YourStory",
+   "published": "2026-08-24T04:00:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b29aa1963b9a",
+   "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs/articleshow/133450542.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T03:44:38+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Workers",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c268790a8d68",
+   "title": "Why Learning to Sit Alone Can Change the Way We Live",
+   "url": "https://yourstory.com/2026/08/avoid-sitting-alone",
+   "source": "YourStory",
+   "published": "2026-08-24T03:30:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Why Learning",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "291541a657ad",
    "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation",
@@ -24,6 +250,23 @@
     "$30 billion"
    ],
    "alerted": false
+  },
+  {
+   "id": "a406be048694",
+   "title": "Secretary (Defence Production) launches GRSE's 4th wave of indigenous defence innovation \"GAINS 2026\"",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1lxWjVXS3diUllld1pLZ3p5QU1FRUtQVUo0VkVUMk13clNBaGh2UmIxMzR3bFpza1NFU21fVTBnUElUUGlOZmZob0hWOWtoSmFXengtZGZxWXpzVWkyNnJ3QjJubzE2bHgtbUl0SW1JNEFOaFlHbmNYRmlfVDJ6Q3VMV3VpOHEzLXZub1I2a2xqQ0plaUpoYVpteWd6b3dIYmhqTDlFcHpwdjU4YWQ5Y2xTU3RQR0FuWW04R2RadmNtNUh3MEpCVg?oc=5",
+   "source": "Maritime Gateway",
+   "published": "2026-08-24T03:19:37+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Secretary",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "916c23bbefb5",
@@ -157,6 +400,23 @@
    "score": 18,
    "category": "other",
    "company": "All India Radio News Kohima",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f9e210fdbffd",
+   "title": "PM Modi hails space startups, says India can become global talent magnet",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzdQR2JJYjN4a2pYNEJfcHBndHR6VmlMNjZmSEc2VlV3d2UxTE05Y2d2ZUZmV2xHdkpDY3BmS0YyM215X1FiN1NtY3pMSnhPQkxBVjZWVFl3S3l1WHltRXllVGN4MXpPem1EVExnMGg5d1hxNXl1VkY0N3FrdUlMaENBUkhOUmh3UFZLNWRKOHVwLV9UNEhKOG5SZzBKSlFUbjZBYUZWckY1MTdFangxQ3lXX3NoZDFOc3RMbtIBwgFBVV95cUxOY2pxSWZGYzlkOUNpa3RlVmJXUlgzelVyS2trNEs1VmJNQWhPaXBVd2NwME82aHR1YlpoeENjSTgtNG9rWVUySFM2bnF6X19BRUlhaGUzbGg2SUJSSk1yczB5dnl2MTk1T0V5bkUyYlM5RVhocHl0Unl3T3FmNk1mcUFQdU9rN1VHQ2pBMXpmODJsczFWMFNaTWR5d0p6bDVQRjdsTFdPdFZGTVBaQlN0dUdha0VxRXJjb3hXUC0yWW0tZw?oc=5",
+   "source": "Greater Kashmir",
+   "published": "2026-08-24T01:39:43+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "PM Modi",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2385,75 +2645,6 @@
    "alerted": false
   },
   {
-   "id": "2a1e8ca45e55",
-   "title": "ToneTag wants to make India\u2019s ubiquitous soundbox more than a payment alert",
-   "url": "https://www.livemint.com/companies/news/tonetag-wants-to-make-india-s-ubiquitous-soundbox-more-than-a-payment-alert-upi-digital-payments-ekosha-fintech-11787294337916.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-22T01:30:20+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "ToneTag",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eccc3fe01090",
-   "title": "DPIIT Issues Guidelines for \u20b910,000 Crore Startup India Fund of Funds 2.0",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXRHdzdzdlRIVTdxVlFKQ2ZCRUhJQ0c0YWZJMlZiTFRXb0ZrVV8tUDhhRkZXbEV4UkRpZ1hTSlR1UGJBVE1TdTBoOHY5cmMwOHVSNlpzOExZc29JdjRnVFR3OEU0TGREN0JlZ21RZS1OSWhZZmUxY25TX081MW9aNE1VdjlIWVNBTndJU09pOGZ1cTFsMmJJdDh2eGNTQkdCVVVqSUppci1IZw?oc=5",
-   "source": "News On AIR",
-   "published": "2026-08-22T00:46:58+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "DPIIT Issues Guidelines",
-   "amount": "\u20b910,000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b910,000 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0c61bf0520f8",
-   "title": "Digidukan",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pbEhTZU5leG5YS2lldXdRQUdlNTFURTJKM1UzV2xGcEhFTkxza0tXd1Vrb1VRZHNoZUZLM2JjRlQ1Z290T1VJZ2hqbjNsX00?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-21T21:21:29+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Digidukan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9657d46c6bef",
-   "title": "TiE Mangaluru to drive Karnataka\u2019s first K-Combinator startup acceleration programme",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ3FHTFlRWlRxUUsxTEVHeDN5U0ZLUWVjWENEbHQ5OFZnWW4tazdyMkhtR0tYYmdIQ2NYeERfQXE2Q0RFb1cxbGJsTlF1LXRRR2JYZjkwNHp5a2swYXhfaHU0WldWZ0NYXzFyS1hTWGRRYWJwZTlla0FDUmc2ZjRNcmlzMHFFQk01THlLaTVhOUdqSGVVQzNSa1FzMmhMRkNtZW0yMTlyQUxkSDlfd2tPakh1ME1tWnNJeGxFdUZpRTVReXppT1FTaVo5YktIU2paMDJhdjFrMlVvMXVwMkhmWWhscE5DcHljXzZmTVhKYjVrS2hZalc00gH3AUFVX3lxTE9DcUdMWVFaVHFRSzFMRUd4M3lTRktRZWNYQ0RsdDk4VmdZbi1rN3IySG1HS1hiZ0hDY1h4RF9BcTZDREVvVzFsYmxOUXUtdFFHYlhmOTA0enlrazBheF9odTRaV1ZnQ1hfMXJLWFNYZFFhYnBlOWVrQUNSZzZmNE1yaXMwcUVCTTVMeUtpNWE5R2pIZVVDM1JrUXMyaExGQ21lbTIxOXJBTGRIOV93a09qSHUwTW1ac0l4bEV1RmlFNVF5emlPUVNpWjliS0hTalowMmF2MWsyVW8xdXAySGZZaGxwTkNweWNfNmZNWEpiNWtLaFlqVzQ?oc=5",
-   "source": "The Times of India",
-   "published": "2026-08-21T18:31:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "TiE Mangaluru",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a63729c021f2",
    "title": "Chief Minister Vishnu Deo Sai announces AI training for 6 lakh students alongside 100 new data labs",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazdZWG9zZldkRmRSRFBiWjE0Yy1sYUE5RS1xdUF5R3daZ1BFRGlzSEU1dGxNYVFIZ2tMN0xwVkxMM2lnWXlUZG5mcFZEYjRNLWZsRldqVGVVaURpaDZTcTE4aTFsYjZva2VCcFVJRzJ3M0VxaDd0TkFHaFk5Y1dwRGlUVEZ2Ti0weExGT08xRHc5LUZ1YmZGQVNiQXByZGdPeVNKMnFzcVFrMmVjLUFUcUl3OVFlelExRlhzZHA5X0ltYjUzendHWkpnYng3cUcyaGo5dll30gHWAUFVX3lxTE1rN1lYb3NmV2RGZFJEUGJaMTRjLWxhQTlFLXF1QXlHd1pnUEVEaXNIRTV0bE1hUUhna0w3THBWTEwzaWdZeVRkbmZwVkRiNE0tZmxGV2pUZVVpRGloNlNxMThpMWxiNm9rZUJwVUlHMnczRXFoN3ROQUdoWTljV3BEaVRURnZOLTB4TEZPTzFEdzktRnViZkZBU2JBcHJkZ095U0oycXNxUWsyZWMtQVRxSXc5UWV6UTFGWHNkcDlfSW1iNTN6d0daSmdieDdxRzJoajl2WXc?oc=5",
@@ -2470,78 +2661,6 @@
     "6 lakh"
    ],
    "alerted": true
-  },
-  {
-   "id": "91d5380eeffe",
-   "title": "Why Is Flipkart Joining India\u2019s Food Delivery Renaissance?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkI0ZDhUNWJWNTJqUEM4WG92Z3NNUlFCTjJqWGNiUjFnTWlKUzlpcnFuTU9TSnFOZXJWQk5PbUpzSHp0V2NvVTBudXNQSkZtczlRWm52cW5ERXBBLWR6aFpTZFBjcUc2aFBXNk5HTzBiMUdINmJOQ3AwVmJMdHF3aWdlakRHcHhOTXR3aw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-21T16:38:15+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Why Is Flipkart Joining India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dcbbbcd21eef",
-   "title": "Aditya Srinivas Prasad \u2013 Founder, 50Fin | Startup Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXdvUEFjY0dpcnVldUt5ZXJTQk9tbHdyZExXSUUxMVh5Zk1EamVVc1FNbUxJOEZ1N19wa1Q0LVhnczc1MWNhaXhmLXJtd0VSVGd0YTNQMkczQXc2VWdxX0Jlc2E4YThNVzRwVXE0NGt3OWpUaW5hb0tCT3VIdTNQSHYxMjhrTU5EOFA5RmpyWDY0VkRzZ0xfSmc5Zmc0VTRyYUVabXpyTzJyLXI1SE5qakc3WmtyTGFJcDlrYzUxR0lpVzhJWV9kRnpVMWlMaVdxeHl4c181Q1hvXzEzYUx6QUllWmRqbUFw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-21T16:26:53+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Aditya Srinivas Prasad",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "72252c71b06a",
-   "title": "Accel, AVP Sell Over 1 Cr Amagi Shares In \u20b9587 Cr Block Deals",
-   "url": "https://inc42.com/buzz/accel-avp-sell-over-1-cr-amagi-shares-in-%e2%82%b9587-cr-block-deals/",
-   "source": "Inc42",
-   "published": "2026-08-21T16:16:02+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "Accel AVP Sell Over",
-   "amount": "\u20b9587 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9587 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d4d7796aca28",
-   "title": "(Weekly funding roundup Aug 15-21) VC inflow remains rangebound",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHp2TS1PNU1adFRYN0Jtc1puSThCSU92Uy1xX0NXMF9PZ3liLUlGeWdWb3liLW9lUTF0dzFIZkhGdENVMldTTzFNaG9JVzVBdHJVclZHUERRTktYS3UzV3pRU2hMWXYxVzVhQlBhNTd5YWFGaDI2Q1ZJZEJlbmxaSkphVnBQN21FRkJya1hXME5GN2hTSVE?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-21T15:16:37+00:00",
-   "score": 8,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named",
-    "listicle/opinion"
-   ],
-   "alerted": false
   },
   {
    "id": "5d975ed8aa16",
@@ -2577,76 +2696,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "689461235493",
-   "title": "Physics Wallah\u2019s Full-Stack Bet: Looking Into The Revenue Engine",
-   "url": "https://inc42.com/features/physics-wallah-full-stack-bet-looking-into-the-revenue-engine/",
-   "source": "Inc42",
-   "published": "2026-08-21T15:05:31+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Physics Wallah\u2019s Full-Stack Bet: Looking",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4a7e48bf51bd",
-   "title": "Zetwerk\u2019s IPO Test: Can Revenue Growth Outrun Its Cash Flow Pressure?",
-   "url": "https://inc42.com/features/zetwerks-ipo-test-can-revenue-growth-outrun-its-cash-flow-pressure/",
-   "source": "Inc42",
-   "published": "2026-08-21T14:41:59+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "Zetwerk\u2019s IPO Test: Can Revenue",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b7f3ac1808ce",
-   "title": "Vijay Shekhar Sharma's Rs 4 crore pay found 'materially below' peer median; Board recommends revision",
-   "url": "https://economictimes.indiatimes.com/tech/startups/vijay-shekhar-sharmas-rs-4-crore-pay-found-materially-below-peer-median-board-recommends-revision/articleshow/133407199.cms",
-   "source": "ET Tech",
-   "published": "2026-08-21T14:31:11+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "Vijay Shekhar Sharma's Rs",
-   "amount": "Rs4 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs4 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "044d19488b39",
-   "title": "India Can Build A Commercially Viable Space Sector For The World: PM Modi",
-   "url": "https://inc42.com/buzz/india-can-build-a-commercially-viable-space-sector-for-the-world-pm-modi/",
-   "source": "Inc42",
-   "published": "2026-08-21T14:30:46+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "India Can Build A Commercially",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "204c7c96c41b",
@@ -7030,58 +7079,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9dd27bece5a3",
-   "title": "Princeton Digital Group to Invest $1 Billion, Expand India Data Center Capacity",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNd1U1RWl5VHlaandodzhjNVZTRF9idm5vY1NGX2ZVWDRvbUFhQ3RjZkZhLXNQbDh3VG5Pb1ZVYndtOHlGZlV0aHJ3WU1YMUVINndKbjJRVXBVZUluT3FBUnZDVW9Eb1dpU0lMZnk2amE1NWhGTmZzeFBzWDZYdHphWkJPckYtSVZuUE5zbE13Nk5VWGx4LTQ0NW9kWFBlQjlpZFJfUktWTVdyTl9ocURWSFhsUlJPZnBXZ0NpN21EbGtBSWpRTXoteFdlU0pxYjBkZnJwdi1KMGZmWVFMWUhyTU9FZ2tSb3ZaaDQzRUJlOHV3R0JCcFRONGo5ZW9GbjNIZHhOb0U3Zmo0Qm1LamRTaTVQREJGYkptcEVSd0xlMWg3dnpBaWNDTXl2TnY?oc=5",
-   "source": "ET Datacenters",
-   "published": "2026-08-17T04:44:21+00:00",
-   "score": 71,
-   "category": "expansion",
-   "company": "Princeton Digital Group",
-   "amount": "$1 Billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "$1 Billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9689cfa1dc5d",
-   "title": "Northern Arc Investments launches maiden performing credit fund, plans three others",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0RfVVVUaWY3dzFKdXZFOExtUnFucnR1LWJzSEVfM2xSYTFVcmdFd2RPbnlzLWdBS1hsZUdEUTkyVUJpNjV1OUJxSkt2c3dxeV9kQWJTY2l1cGdlNms3N0xDV3poX2lua3U3SkE0Ukx0LXUyMUVLaVU0UEJrWE9XcC1LUHJaUGZhdjU3UlNXZ3JON3N5bVpTcUt4VjFrVFE4Z0puc1BSZFFqdw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-17T04:31:46+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Northern Arc Investments",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7df9dedc1d6f",
-   "title": "Indian Spacetech: Three in Four Startups Await First Equity Funding",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVVZhZHB5NVJlUG50WDZraXlCVmNrT3l3X2RDVVpWTlNNeE0xTngtOFhFZzBLZlhHTDI4RUp0ZTdzRUJ3bGxFWUFpZnVwWU9iSFhiYjZyUDEzLTBZby03X0NJUXVLa0tjaGxRdEU5TnEwV1Q4SUVWaDlubnh5aVhONXdULVowN21WUlpmM3dKNG9LMHNLdVRvNWctWE9VQk5lNGpDWjJuNk94QnFzUkNaSkVQTUhZai1sR0VHNFdhNVcxbWt1LUY5YkdObV81aWlxVmFfaFo4bDllcW5zR184ZjgtREVLQ2RMMkVHQUZDQ29ZVU1tSGRVUko5cFh2bHNOVW9mOGxFS0VMMXQ2N1FiSGw1X3JNb01JMjdVOVJR?oc=5",
-   "source": "ET Datacenters",
-   "published": "2026-08-17T04:29:21+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Spacetech: Three",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

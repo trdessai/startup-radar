@@ -1,12 +1,225 @@
 {
- "generated_at": "2026-08-24T14:11:33.247946+00:00",
+ "generated_at": "2026-08-24T16:06:15.358303+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 49,
-  "fresh": 23,
-  "alerted": 7
+  "fresh": 16,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "a5c9a5c4fb76",
+   "title": "Infineon Acquires Bengaluru-Based AI Startup C2i Semiconductors",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd0lGWHhTT2xzd0MwX0t4X0VZZzBEbWtVMVF6Z0x2ckxYSGc3dXZ1OGRUUUdYeUhLa3B2RnBqdWZwdU9vR0NneW85ZXdRRHNVSGZOUlZqNm1tVlU4RE83dFl2QjB5YkNxN3NQeFQ4VlVUYjc4M1FBbjdEN2VlcjA2LUlMamM0Q3FBNlhQRG9Xajd6QjJPTWtvSnkyVmkyaGwzUWwybFB3V1dWQWcyVU0xekU4M2FSelpJbDBQV0dIanlrbWtVcGlmU1dmTkI3VFVXSlpzYklB?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-08-24T15:39:51+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "Infineon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0e1adf83c8b3",
+   "title": "Y Combinator sells Rs 970 Cr Meesho stake in block deal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbUFSaWxVZEdHbnJGUXJQMjVjS1FJOC1UUS13WGkzT0pHaVJNdW82SXZsaXdTTkJFX0FFWndobm16ZnpwTlNleWRWSE5XQ2N4bFh6TkI0ckNqTjluY3VVV2VTUEdZQ2JoT2xzbFJSc0ZIUjQ2aUZpMkROR1hFMnJZS0x4ZVltdllvaEZqMzM3bHNQbWRl0gGUAUFVX3lxTE9tQVJpbFVkR0duckZRclAyNWNLUUk4LVRRLXdYaTNPSkdpUk11bzZJdmxpd1NOQkVfQUVad2hubXpmenBOU2V5ZFZITldDY3hsWHpOQjRyQ2pOOW5jdVVXZVNQR1lDYmhPbHNsUlJzRkhSNDZpRmkyRE5HWEUycllLTHhlWW12WW9oRmozMzdsc1BtZGU?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-24T15:22:35+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Y Combinator",
+   "amount": "Rs970 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs970 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2568e341ba61",
+   "title": "SoftBank Sells \u20b92,900 Cr Stake In Lenskart Via Block Deals",
+   "url": "https://inc42.com/buzz/softbank-sells-%e2%82%b92900-cr-stake-in-lenskart-via-block-deals/",
+   "source": "Inc42",
+   "published": "2026-08-24T15:21:20+00:00",
+   "score": 47,
+   "category": "other",
+   "company": "SoftBank Sells",
+   "amount": "\u20b92,900 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b92,900 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "25f1c65ddb38",
+   "title": "SoftBank Sells Lenskart Stake Worth \u20b92,888 Cr",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDNYVUFaSjVOTl96NHJNbk5FV1huUFNENS16eVEyaVNLZ0dFVWxxbnVVV0NZUGlpZFZUbEduOGVWdmplbG9CLVNLbm51ODJpQk1iRGNpVzNVSGwzQ1Npajl5Y1ZhVERlcE8tTUU5NTh4MXBfOUFRTTRqRTNFM2Voel9B?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-24T15:21:20+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "SoftBank Sells Lenskart Stake Worth",
+   "amount": "\u20b92,888 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b92,888 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c6936e72d807",
+   "title": "Open for hiring: Kita raises $4.5 million to expand AI credit assessment for lenders",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGxCd1RULUdWaWNfTnFPcDY5d0JRLXBidDJpSVc4MXhvWWg4QnZvcE1WdjFmSGgyaUY4NlU1clJrYUE3UmlhdEdDdURHcjQ2TURDVFFZUzk2R3o5NFJsNVlYVGtKWnA3QncyVFBKQ0FVdFN3S0VTLWxhV1g2c2hxMU5Fc2xEaFFxb0x3RS1uTmlFaExFaHY4QXpQOXBCNjFEeTIzNGR5Y0V3eTlNU1JTMFdLcWs0UQ?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-08-24T15:12:02+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Open",
+   "amount": "$4.5 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1c5b5f7e205b",
+   "title": "TCS acquires Porsche\u2019s IT arm for \u20ac320M; bags \u20ac1.25B deal",
+   "url": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal",
+   "source": "YourStory",
+   "published": "2026-08-24T15:08:55+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "TCS",
+   "amount": "320 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "320 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c09ba5577785",
+   "title": "Sebi launches Cyber Suraksha portal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/sebi-launches-cyber-suraksha-portal/articleshow/133471754.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T15:05:01+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Sebi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "efa892231d28",
+   "title": "Y Combinator Offloads Meesho Shares Worth \u20b9970 Cr",
+   "url": "https://inc42.com/buzz/y-combinator-offloads-meesho-shares-worth-%e2%82%b9970-cr/",
+   "source": "Inc42",
+   "published": "2026-08-24T15:04:40+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Y Combinator Offloads Meesho Shares",
+   "amount": "\u20b9970 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9970 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05b877c21bb4",
+   "title": "Skincare startup Asaya raises Rs 88 crore in Series A round",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmZWY2hBZlV1RFJzQ0V2Uk5teHBfV3FpTDVVSzRBdF9vUkxwRlBvSVpvNGVHNmE0ZjQtR0VwMjVweDVhYVVqNEYxTGgzeXBRN2wxVmZDWFAwZWZmemRieS14OFJFSHEwWlFnZWJyQkNJV0tnZTc0TEhwWEpYNy02cjE5QWVLRlFmcWlxb082d01qYnFFbE5zY21aMFhhUlRNZVJVc1kxMW1IVkR5cGZoSVJqSFVJQQ?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-08-24T14:55:38+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "Skincare",
+   "amount": "Rs88 crore",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs88 crore",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "35353a7a4072",
+   "title": "Amazon, Flipkart restructure seller fees, penalties ahead of festival season",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-flipkart-restructure-seller-fees-penalties-ahead-of-festival-season/articleshow/133470937.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T14:45:30+00:00",
+   "score": 47,
+   "category": "product",
+   "company": "Amazon Flipkart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "56d3a2759f72",
+   "title": "Qualcomm Offloads Shadowfax Shares Worth \u20b9184 Cr In Bulk Deal",
+   "url": "https://inc42.com/buzz/qualcomm-offloads-shadowfax-shares-worth-%e2%82%b9184-cr-in-bulk-deal/",
+   "source": "Inc42",
+   "published": "2026-08-24T14:19:10+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Qualcomm Offloads Shadowfax Shares Worth",
+   "amount": "\u20b9184 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9184 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "38f34907a9a3",
+   "title": "QpiAI to install 8-qubit quantum computer at PDEU in Gujarat",
+   "url": "https://yourstory.com/2026/08/qpiai-to-install-8-qubit-quantum-computer-pdeu-gujarat",
+   "source": "YourStory",
+   "published": "2026-08-24T14:09:23+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "QpiAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "72c395c75ed3",
    "title": "India Must Push the Spirit of Innovation in the Northeast",
@@ -16,6 +229,23 @@
    "score": 23,
    "category": "other",
    "company": "India Must Push",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2e521f7fad7c",
+   "title": "Infosys Q1 bonus payout averages 70%, down 10 percentage points from a year ago",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-q1-bonus-payout-averages-70-down-10-percentage-points-from-year-ago/articleshow/133469543.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T13:59:55+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Infosys Q1",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -75,6 +305,23 @@
     "no company named"
    ],
    "alerted": false
+  },
+  {
+   "id": "e176d7d13f70",
+   "title": "US nutrition startup Berry Street merges with India\u2019s Healthify as GLP-1 trends upwards",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWU9TYXF4cExQeWRKUVFzc3E4WkJCRFZnTjBJTlJDTmotNHJXUk5OYzl2VWJYQWxtOFVlR0pnNld0ZEUtZFIweVhYNnNJZ1VwOG5UaGJOU0hId1VQMDZ0cjJ4cmlKQWkwQnJWWTJ3X0YzUlRsbUtUSE1wUGVDcjFSYnJKR2M1SjR0MkYxbDJPbEQ0Yk1zejIwSXlPYURNSmNjOUlkY0Jzb0xtZlFtWjNZRUEyWmpFMnBGa3NfdkVR?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-08-24T13:45:15+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "f0419fb11461",
@@ -196,6 +443,24 @@
     "$13.7 billion"
    ],
    "alerted": true
+  },
+  {
+   "id": "509d7625e33d",
+   "title": "Bengaluru's Sagar Hospitals eyes maiden PE fundraise, hires banker",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkNjOUpWRHFBZUR2MkYyNEQza0xKZDJsWGRnVkk0dkRJSUJjTzN5NDFBTG1HbV9paXBIUXY4b3g0c3JZMm56Q3BmbE9UOTdieF9EQWFSU21XRUxjekJiLTM2MkZQaTNTWkxoQ1lSY2lORU9pZHdBcVRKVno3ZGxfejFXVElORTlqdzdZb243U3ZIbjg?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T12:36:30+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Bengaluru's Sagar Hospitals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
   },
   {
    "id": "cac8975261b1",
@@ -2451,23 +2716,6 @@
    "alerted": false
   },
   {
-   "id": "972b3eb4c798",
-   "title": "National Space Day: PM Modi urge startups to revolutionise India as global space power & solve grassroot challenges",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMk56SHVFV3p0a1BHR09pcW5GVHN0RjQ3M0hZRTd6M05YR1FnWXBQbjNFTjVrR0c2cWt4bmJGb1RiTld5aV9KV1k2SVd2bVlCeHJxNTJBYnE0RDhKbkZOM0VDX19KMGtpM0kwVkZDTzdDbkVub0t6QzFyZVkya1FrSkN3VnhNbG9mTGwwQkZ1a09FbUNNUGdYSHBtcC1paWltSXViQ2RWZVJNekE1NTNpREVJMmFTVWZkTjhYZllSMVE3M082cjdoUzBDUHprVmV6bmM2QllDcEZPNVBCaG92THUzSGptT2hNQ1J2dmdTYTlmWlnSAfgBQVVfeXFMUDdub1o1OXdqazVuTlJUTVdwYTBfZVZzcXpvTnVyeHZ3VmxiMktqSTBOSDU1MTY4M0d0a1hrdXVGVm9JNHlxTHdxbzlETUpueTJObzg1Mm5UdExORS1sRUxHcnE0WFpDV1ptTkJoc0dSRFBDajVUM1F3U1RUUFVjR2dSVjB6N211dU1qRXFTUDZSd1dpeFJwVi1hNlQ5UnFMV1Y5Mm9VemdkMGwxZTkyT25ub0J6VHlIYlJYbGliYldVQzZ4cUk5bU9COXlFSmdFV0t3WHNTZERDRUlGWGY4SEtEUGtGenEyMmh6cnM2eGZaWVRQVVlLZE8?oc=5",
-   "source": "organiser.org",
-   "published": "2026-08-23T14:24:10+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "National Space Day: PM Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4585c5ba9927",
    "title": "Times Now Live TV: Watch Latest News, Breaking News, Live Updates",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mWFNzVnRZLV9kSGtSaFlndjRQSjR2YWxnckxVX0Z2bENtV2JpQzlPZVlRbGpsdTNkR1E4WGFrRGdIcEhVNXA4ZTBXZ2ZORHB5a3FudldR0gFbQVVfeXFMTXlWZEhfV3ItdmFTS2U5RjJZVU50QU9taDFnSWhaekFLQjFjVnkxT0g5MFZLN0NTaWN0WjR4MG1SWk1YYnIyZFVwaVAwd2wwb2loOXJaMVlUal84dw?oc=5",
@@ -2483,93 +2731,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d8dff544910e",
-   "title": "- Inc42",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFBNdFExRlVjLUZzdURoaFdCdjc1bENteVphMUwyam14NHdNZXlvUnlJeUlfQXh2RWZHRHByYW5xRXFvV3MtZFowc3NXMGo4eExwN2t2c25vc0Zrb1IyaGxXZ05rVkpiVTBqZGJzLXo0X2VqZHE2NEZ3ZFIyeHg1SUV1Q0d4dXNOSWpWWGNGdURUUUZBZTJ3ZEYxR1JFREZGWERF?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-23T13:37:05+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4ef4dcdfe330",
-   "title": "From the moon to the sun, Indian chips find a place in space missions",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFI2RGNKMWtSVXpZel9XVHV3LUY5cWUyT1B6dUtQYjZGY3VMcGZkUVQweDRlLXhINEVBQlpVTDVNYUNnYzN1MkxxUlJBMDVIZi1mbDRNOVVINDNKdEdfWG9qc2lTcWRkaEFLSnVGc3lRM3pGcHlhQk96QzNIdGZCc1VSNU1yRHl2cWhyajQzYmNJWndjMm9qYkpTMkRYSS01YXpjUWJBTE1tR1pZa3pzaXlmeTZiVVZFN0HSAccBQVVfeXFMUF9MM3hjWDgyS01BdFpNXy1lNW5ycnRxTTJBaGlBdHY1emZ1Wkh4cGlwaEdDTjFIQVlpZE1hVEZ3aWM0NlExM0NiRFJybkJHTmd2MjVXWTB2LTJwdlhZLUJsVnZsN19SekhhakR1RE9tUHRseHkzeHJnXzRvQTJqeklSdWJHZXRaOVlscV9wREFkd1FEN1BBUVNsUWZtT1VpbUNTMzBJRTl0V0VYbXRQd01vSS1DSlRlMlRTcHNaY01WbWRFSkdjSQ?oc=5",
-   "source": "Fortune India",
-   "published": "2026-08-23T13:02:50+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0cc5b0bdce5b",
-   "title": "Gaganyaan First Uncrewed Mission Likely In 4 Months, ISRO Chief Says",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2FuRE9mam9ma3J2Q2RUTTZTNkFqZV9heGgydThrT3pobjZqdHVvR2lnNVQweVRtSUpuSkxQS0VyakdfYkRnM3pNNlR3bmpLVktfcWhIcTRVQWFjeUtxR2NrLUh1bGlEMWJDUFBRTlJVLWJ1eHdPT0xJakV6YWhHRms3ci1uOG90OFJDVlNBbG9YbWtwd2FSYWRlblNOcjRUWGlhdGZnbnZDTTlsOHc2UlVzQXRvZ9IBtgFBVV95cUxOa2FuRE9mam9ma3J2Q2RUTTZTNkFqZV9heGgydThrT3pobjZqdHVvR2lnNVQweVRtSUpuSkxQS0VyakdfYkRnM3pNNlR3bmpLVktfcWhIcTRVQWFjeUtxR2NrLUh1bGlEMWJDUFBRTlJVLWJ1eHdPT0xJakV6YWhHRms3ci1uOG90OFJDVlNBbG9YbWtwd2FSYWRlblNOcjRUWGlhdGZnbnZDTTlsOHc2UlVzQXRvZw?oc=5",
-   "source": "Outlook India",
-   "published": "2026-08-23T12:56:23+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Gaganyaan First Uncrewed Mission Likely",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "31e3bba0b299",
-   "title": "PharmEasy Founders Raise \u20b9200 Crore For Private Venture AllHome",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeHVsc2w5aUdLdC1GdkVlZ0pxSFlyd2Fob092Q1lGNVJrdTJaZmh3Q2tKZkVkRVhEbk1PWUVyeUg2REhjNElOZmZOS0FKdGFGRjlBY3hhVlhqLTVqcTNtRU41NXN3WDgzZGV1OS1GS3VoNVNYQUYzS004MDgzS3BENGJxTDg5LTdRQ1UyUEJvZ1hVU0tfeWZQMHRfZm16bEM1dTBiam9ueC1jMUZldzRuUzMwY3pvM2hnRFdnbXZqUFZoQ28wRGNFZFZwSE1tQUNJbzJOYW1VQXAxVEhGbXFXcjhlaGZSWG5LSWw2X1pB?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-23T12:37:51+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "PharmEasy Founders Raise",
-   "amount": "\u20b9200 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9200 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "52bed9bc381c",
-   "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg/articleshow/133439724.cms",
-   "source": "ET Tech",
-   "published": "2026-08-23T12:28:12+00:00",
-   "score": 47,
-   "category": "product",
-   "company": "Nvidia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
-   ],
-   "alerted": false
   },
   {
    "id": "750f4c74e9fa",
@@ -2588,40 +2749,6 @@
     "\u20b995,000 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "a9e4f758f56c",
-   "title": "India faces capital, talent gap in foundational AI race: Menlo Ventures\u2019 Deedy Das",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-faces-capital-talent-gap-in-foundational-ai-race-menlo-ventures-deedy-das/articleshow/133438846.cms",
-   "source": "ET Tech",
-   "published": "2026-08-23T11:50:23+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5a9f05f37d29",
-   "title": "PM Modi calls for India emerging as space sector hub",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU5WLUo4ek5PejZRTVZJdi1WZEE1ZVRaMzA4eHN3V0tPQTQycDh0djdhUWdEeWFDTlVuM2l3Vm1YN2hLV3BFdGR5UWFYdnNrbEowcGphRWIzUmQya2NNbFZzQVdjNUpkQUQ5MmhCbktySlMyS3lsOHhoZ3N5ZUpFa0FoeHpUTWdpY3dyUl9mWDNVQnNvSDRXZW9xY2R2VTRJTUpqUVVR?oc=5",
-   "source": "ANI News",
-   "published": "2026-08-23T11:41:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "PM Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fe4f651a467e",
@@ -2659,23 +2786,6 @@
    "alerted": true
   },
   {
-   "id": "4002e185b5be",
-   "title": "PM Modi Meets India\u2019s Space Startups on National Space Day, Hails Their Vision for India\u2019s Space Future",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUk5SVd1Wl9nRXZNOFFmeTItZ2E1MU1KWTNhUjVvMWVzYjZPQkNoTk9odnNvUVdsOVpIbDVZV2sxMlNXblVzemFrNnlwc1BnMGgzNXR1WXhZdjlwd3JzQU80dU92TDFEU2NySnc4VUVRWjRDazRERkFoem44SU1OalZqNlhQNG1mZU5RVjd6STlYeUVvVWxiS2xuUGpWSk1La0NyNXJrMHM3a3doUVJwRXBMZ1dkMjJGM1d4MA?oc=5",
-   "source": "tennews.in",
-   "published": "2026-08-23T10:57:23+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PM Modi Meets India\u2019s Space",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9098279546c3",
    "title": "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbVBNQmFkWldnT0ozU2oxUXdKMHJ6LXB4ZnFnOWJBVTlPd01oUzQ5NXY1NjB2MzVOWmFZQUk3WWVQNGxaOHlENFh5alF2YkZBUmc?oc=5",
@@ -2692,75 +2802,6 @@
     "$469 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "4ee5a2168d09",
-   "title": "This book examines how Indian companies turned crisis into growth",
-   "url": "https://yourstory.com/2026/08/book-how-indian-companies-turned-crisis-into-growth",
-   "source": "YourStory",
-   "published": "2026-08-23T10:34:44+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3e36251ebc32",
-   "title": "National Space Day 2026 : India\u2019s Next Space Test Is Commercial Scale",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmxYdFJPNXN6SjFoODlNRVhSenFveUhIZFpMUGxiemFiVFVCc0t3b3RCRXZhdGFFYUx5MzhlZVZockp3Xzc3QVlDZzBFQURJWnQ2cXJMTUtsVWg5bmdoYzhxWEtuSDdRdGpGVjF1Z1VjWGxyZ01UNXpacWZNVWRUa2czVWRqMXlGU1BtMUN1Q1hncWtJU0xkMVJQVERMTVJuVmxB0gGjAUFVX3lxTE1mbFh0Uk81c3pKMWg4OU1FWFJ6cW95SEhkWkxQbGJ6YWJUVUJzS3dvdEJFdmF0YUVhTHkzOGVlVmhySndfNzdBWUNnMEVBREladDZxckxNS2xVaDluZ2hjOHFYS25IN1F0akZWMXVnVWNYbHJnTVQ1elpxZk1VZFRrZzNVZGoxeUZTUG0xQ3VDWGdxa0lTTGQxUlBURExNUm5WbEE?oc=5",
-   "source": "ciol.com",
-   "published": "2026-08-23T10:06:57+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "National Space Day",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6ba495046286",
-   "title": "Northeast could emerge as India\u2019s space-tech testbed, gateway to Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSE1ybGdGUjRWUFpWWHNLRzBuc1ZrVHJtVjhzQmdRRzV1aFNuaGZvSmRacUZPazl5SHo2Qjh2c3ItUUdOMFVYWGRQN0wtd3dfeVEydDN5OXpzMkR4ZFVwQnhjY3JscjJvZjlveERzX21icFNhRUp5YWVvc2V3ZmlERkgybUFaWDRQa1Flci0yMUZ5RnhNVmVTRFMyYWVKQ09fdGJF?oc=5",
-   "source": "Syllad",
-   "published": "2026-08-23T09:56:37+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Northeast",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "38f2ee5c5f6c",
-   "title": "PM Modi urges private space sector to build global aura of innovation",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmJqVlFoRzJJTUhLUnVlVndjNEtRS2FqZzVkZWo0RXRCYjBoMmtQRW9fMm9wQnZrcmFDcS1UZDQzZkN5MFBrZTg0Mk8tNTdFUUFnRi1tZ25nYktwRzNOYmthRmx0QzNTOWpvdzFRTGZhSkFnMnZwMm55bHFFLUN5Z1hITThwWWZ4T0FEWEZFZGcxNmZFeDJOWjBYdFBiU3FKU2JOSWlUOUN1VkZYZ205WXhR?oc=5",
-   "source": "Deccan Herald",
-   "published": "2026-08-23T09:32:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PM Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4d242600f44f",
@@ -7041,41 +7082,6 @@
    "reasons": [
     "funding in headline",
     "$2 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "578378243821",
-   "title": "Govt launches Tk 400 crore fund to boost startup investment",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWVDdXU2NlZSdnpKWGNWTzNEZnJBMzVjVHRUaVdoWWVrQUlUWmpodFBwVHFIZ08ybWxEMUlZdXJ2WlBJaWZGMHVWWjV1M3VkaWtOUXExYURDaHctR19XbUJkU3VxWHNvSkJITkZUbjJiTWFDdWVyZ1dHejQtelVHMmhZOVlQcjVSN0gxdW1PMmxVVll1bnRTRUhGcGRQWU4tanRzSzJWcU92bk50R0dDRWNXaTNsZw?oc=5",
-   "source": "The Daily Star",
-   "published": "2026-08-17T14:26:54+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Govt",
-   "amount": "400 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "400 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e97a35ef0a33",
-   "title": "Karnataka announces Rs 2,500 monthly incentive for every new job created by entrepreneurs in 10 districts",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGphRFlXd2g0MTlEelh2NTRRN0NFR2xOZlhFRTVCUFVKbVZLbVhEMGZNSFBYRUx0N3Vxemo3elJGakppQWgtUjA5LW1ZSVlVb1dnMUNuTkxhcnVhZVB1UXN4QjB1S0J2aXBNSkkxZ2UySl9raG82bEFSR3haa2ZGMVV6VUxTcDY1LVd0OXY3Z2E3NXVKSDNGeEdrcDNZbkNYMFFCbTluUHdsOGlnWS1zYmRNZDNyYnN4SG5OUURnaDlqeXUwUVI3SnVCOERjTVRWWl9wVzdNSzhaaktUdzJCdHVR0gHiAUFVX3lxTE5EamFEWVd3aDQxOUR6WHY1NFE3Q0VHbE5mWEVFNUJQVUptVkttWEQwZk1IUFhFTHQ3dXF6ajd6UkZqSmlBaC1SMDktbVlJWVVvV2cxQ25OTGFydWFlUHVRc3hCMHVLQnZpcE1KSTFnZTJKX2tobzZsQVJHeFprZkYxVXpVTFNwNjUtV3Q5djdnYTc1dUpIM0Z4R2twM1luQ1gwUUJtOW5Qd2w4aWdZLXNiZE1kM3Jic3hIbk5RRGdoOWp5dTBRUjdKdUI4RGNNVFZaX3BXN01LOFpqS1R3MkJ0dVE?oc=5",
-   "source": "indianstartupnews.com",
-   "published": "2026-08-17T14:20:12+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "Karnataka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
    ],
    "alerted": true
   }

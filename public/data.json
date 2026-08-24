@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-08-24T20:58:50.334173+00:00",
+ "generated_at": "2026-08-24T21:57:16.605076+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 1,
+  "fetched": 7,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "1f3ad70b26dd",
+   "title": "Sagar Hospitals",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ed1ZFOF9CaWhLMGtHWDlkZF94d2JxMjZPZGV6TEdjTWFkVWpLVnRuUXhjcHRkZEZULVM3TE04ckpsb1F3NzlKdDM2NTU5Nm9OWjZZdzBvUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T21:50:13+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Sagar Hospitals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d1a57dff8de8",
+   "title": "InnoVen Healthcare Fund I",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ScnM1V2kzb2FMVWZqNDRjZnMwUkRrWFEtc01VOENsaVJ1M0FmeGlCN2NVcHJXcWUyVDZxel91OWt4UVo0QlVGX0hIU3RGZnhCLXdQWTB0RVFlSHRMbk1uYjZuTkM?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T21:50:13+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "InnoVen Healthcare Fund I",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "1100cecd0d7f",
    "title": "How Attrangi is Carving a Niche in India\u2019s Imitation Jewellery Market",
@@ -2728,40 +2762,6 @@
    "reasons": [
     "no clear event",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "df6f4e5705fa",
-   "title": "Urban Company sues Kent in Delhi HC over 'unsafe', 'risky' Native purifier claims; RO firm to withdraw ads",
-   "url": "https://www.livemint.com/companies/urban-company-sues-kent-in-delhi-hc-over-unsafe-risky-native-purifier-claims-ro-firm-to-withdraw-ads-11787502676703.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-23T16:42:08+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Urban Company",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "50fd9e42c7a1",
-   "title": "Hospital rave? Bengaluru startup invites fury with bid to make hospitals \u2018less scary\u2019",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEVlZ3MxeW5SOC16X3hrOEF5NFhDcVFZQ2Z3TFpPaEtIMVNZaFdxV29raU92Q0poRFUwQUdfOEYwN0tCTGxsYVYtamdBM1NLTUN4VENDby12YnFQOEpLek92bVpJMmhaalJfWlVBMVRHbUFyZ3g2UmRMTThXbXRPcUF1TmdVZEM1QlFtTHVGcmxFbmdzUTdSR19qYnVBUU9TU253OUpVbEN1WDZMX29XRkFsMFA2MXBDUWc?oc=5",
-   "source": "The South First",
-   "published": "2026-08-23T16:17:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Hospital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

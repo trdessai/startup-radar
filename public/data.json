@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-08-24T16:06:15.358303+00:00",
+ "generated_at": "2026-08-24T17:50:11.269464+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 16,
-  "alerted": 6
+  "fetched": 30,
+  "fresh": 5,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "feebebfffb5e",
+   "title": "ET AI Hackathon 2026: A platform to build, innovate and lead",
+   "url": "https://economictimes.indiatimes.com/tech/technology/et-ai-hackathon-2026-a-platform-to-build-innovate-and-lead/articleshow/133474523.cms",
+   "source": "ET Tech",
+   "published": "2026-08-24T17:23:23+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "ET AI Hackathon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "30f70f5eab4a",
+   "title": "Coal India sets up subsidiary in Singapore for global critical mineral assets",
+   "url": "https://www.livemint.com/companies/news/coal-india-sets-up-subsidiary-in-singapore-for-global-critical-mineral-assets-11787588049271.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-24T17:13:51+00:00",
+   "score": 53,
+   "category": "acquisition",
+   "company": "Coal India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0c3b8066d030",
+   "title": "Lenskart investors sell over $1 Bn stake in 3 months; SoftBank offloads another $300 Mn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3hjRE0xRExfT1NfZXlJWjFuaWZCbmZwUGJhVGZGVnp5WmtjWlQ2ZWpOWWV4cVc0SVN3ZW9KMlpzdWdUS1lBNXVERjRRajdHQ2xMTHJzTGUxaERtSU9MdS1yLXZESzVGYUpOcV9DcDFMakpIMWVDZ1pHQjVzZ1RDYkFlaXpTWU1GN1lQMzM2cldwdTZ5cW4yT2RQLUZKQnhFSFI4cGlyQ01xSXpZS0JzRlZnSGpCb1loX0ww0gG7AUFVX3lxTFBzeGNETTFETF9PU19leUlaMW5pZkJuZnBQYmFUZkZWenlaa2NaVDZlak5ZZXhxVzRJU3dlb0oyWnN1Z1RLWUE1dURGNFFqN0dDbExMcnNMZTFoRG1JT0x1LXItdkRLNUZhSk5xX0NwMUxqSkgxZUNnWkdCNXNnVENiQWVpelNZTUY3WVAzMzZyV3B1NnlxbjJPZFAtRkpCeEVIUjhwaXJDTXFJellLQnNGVmdIakJvWWhfTDA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-24T16:05:42+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Lenskart",
+   "amount": "$1 Bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 Bn"
+   ],
+   "alerted": false
+  },
   {
    "id": "a5c9a5c4fb76",
    "title": "Infineon Acquires Bengaluru-Based AI Startup C2i Semiconductors",
@@ -229,6 +281,23 @@
    "score": 23,
    "category": "other",
    "company": "India Must Push",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "09bfa2e76472",
+   "title": "Water",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PM3pQaVVWMS1aTmloRVotME80OTFDemdFUFByTU81Rm5PWFRSUmJSTmZmVlFuRjVtYzJldURuQWhBTnZ6VHIxMzJn?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-24T14:04:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Water",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2696,24 +2765,6 @@
     "$100 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "aacf003e6303",
-   "title": "Grasim eyes \u20b92 lakh crore revenue in FY27 as growth platforms scale up: KM Birla",
-   "url": "https://www.livemint.com/companies/news/grasim-eyes-rs-2-lakh-crore-revenue-in-fy27-as-growth-platforms-diversified-portfolio-scale-up-kumar-mangalam-km-birla-11787500761228.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-23T16:07:46+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Grasim",
-   "amount": "\u20b92 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b92 lakh"
-   ],
-   "alerted": false
   },
   {
    "id": "4585c5ba9927",
@@ -7029,59 +7080,6 @@
    "reasons": [
     "funding",
     "$105 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ba7db444a82a",
-   "title": "Good Momo Co. Closes Angel Round Ahead of First Retail Sale | Startup Story",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnRoSFJEalRDWmxIV0N2MjdfdzRaUlBoYUs2WlFKNzBFWTRpT2hUUFpWV0N6bDJheXlsZG5vMnd3Rkx3VXpRWVo0VG8wZnNlZVg2LWllUUxDRnVpOFIwUTFOLWFGMFpZdGNVM3JJNEwzSHJ4a3hlcGR0aUlObFJqN29DUC1WbHBCWmlVSC1mdWZnWlRMRmlvbWpPVdIBmwFBVV95cUxQcnRoSFJEalRDWmxIV0N2MjdfdzRaUlBoYUs2WlFKNzBFWTRpT2hUUFpWV0N6bDJheXlsZG5vMnd3Rkx3VXpRWVo0VG8wZnNlZVg2LWllUUxDRnVpOFIwUTFOLWFGMFpZdGNVM3JJNEwzSHJ4a3hlcGR0aUlObFJqN29DUC1WbHBCWmlVSC1mdWZnWlRMRmlvbWpPVQ?oc=5",
-   "source": "Startup Story",
-   "published": "2026-08-17T17:48:10+00:00",
-   "score": 64,
-   "category": "funding",
-   "company": "Good Momo Co.",
-   "amount": "",
-   "stage": "Angel",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Angel"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9e7849eee0da",
-   "title": "Simple Energy Teases Launch on Sept 2: \u201cA New Kind of Everyday Mobility\u201d",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWtrcng4ZlhpRFJXQ0pxeFhaUFBfLTRWWG5WOC1GRkxjYnZZZFVuMUt0YzhLa2MzSmRodnNxOW42TjFfU1VpbUQyOVdFRmdZRG9zOUJnNkJWVTN1OUI5dWEwTmVhZmpYZlp0MDJXSDFBMTBmbFZQS3k3QklTUWJuZkZKVms0d1FYeVhXVGVEY0dtenppX3dkOGN4VFhMQQ?oc=5",
-   "source": "ACKO Drive",
-   "published": "2026-08-17T17:02:24+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Simple Energy Teases",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2c6a47629e22",
-   "title": "Wispr Flow raises $280 million at $2 billion valuation, Peak XV joins new round",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZk54dzZza2kxR3ZaN1FzLWJsZ1V0cDgyUzRDT2JvTFl5Tm1ySTVCQU9Ta2Z2b0J4TWt4akVQZWtmMVp1bnV1ZHlCbFIwOFlueHNhdkRPQmNuQ2xyUExwTTZScXJ5bGNRMTktZTdaZWhJd1VaSEtLWkxjbFJQellycnZyZ21YcmZFMURQejBlbVdYY3FNcVVtWF9HcVJyZG53ZzFWX0VrdklFSm9GVUVLYkhVY05DRFdoRTVIOHVpdlhqekZiRWFEdzlkOXItUS1zYldJMnBzbVpNZDjSAeABQVVfeXFMTlpzMzd5NlYxRFVwdWl6VWVMUDRpdmNRU01pbmtSbm1EVFJfUmR0elhXOUlXOFFCbjNlNFpYelhKRmtSNGZ3TkdwQURzTVBTVnZGNFNKOXFjUERhSHpPUVljUG5Ha3ZGY2lXQmVnSHRRZmdEd3lfVkMtN3J2Rk9GVDk5aXg2TFQ1R3UwamdUUUdxcGxyZGlyUzZuZU5sYnRUdnNHSXFMVzVPQzdBLXlMbVpSM3FXRXdxejg4Rllxcnpacko4TVVNMnh0RmJiY2hFbGQ0S21TN0puX0hKX24wanI?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-17T16:39:30+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Wispr Flow",
-   "amount": "$2 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2 billion"
    ],
    "alerted": true
   }

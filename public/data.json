@@ -1,12 +1,134 @@
 {
- "generated_at": "2026-08-24T23:46:29.734761+00:00",
+ "generated_at": "2026-08-25T03:14:30.220909+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 19,
+  "fresh": 12,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "e9f5d1532c8d",
+   "title": "Apple gears up to launch its first New Mac Mini in two years",
+   "url": "https://economictimes.indiatimes.com/tech/technology/apple-gears-up-to-launch-its-first-new-mac-mini-in-two-years/articleshow/133488413.cms",
+   "source": "ET Tech",
+   "published": "2026-08-25T02:54:17+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "03076e90a468",
+   "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria\u2019s road to gold",
+   "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
+   "source": "YourStory",
+   "published": "2026-08-25T02:00:00+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Nvidia",
+   "amount": "$30 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$30 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "536f1a730663",
+   "title": "ETSA 2026: Jury to pick winners today; SoftBank trims Lenskart stake",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/etsa-2026-jury-to-pick-winners-today-softbank-trims-lenskart-stake/articleshow/133486863.cms",
+   "source": "ET Tech",
+   "published": "2026-08-25T01:59:04+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "ETSA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ddb8776280e5",
+   "title": "This 21-year-old entrepreneur is building a deepfake audio detection startup that alerts users during live calls",
+   "url": "https://yourstory.com/2026/08/21-year-old-entrepreneur-deepfake-audio-detection-startup-alerts-live-calls",
+   "source": "YourStory",
+   "published": "2026-08-25T01:35:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "53b9db4d690f",
+   "title": "What\u2019s next for N Chandrasekaran after Tata Group? 5 plausible second acts",
+   "url": "https://yourstory.com/2026/08/whats-next-n-chandrasekaran-tata-group-5-plausible-second-acts",
+   "source": "YourStory",
+   "published": "2026-08-25T00:45:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "What\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9b62a16ac131",
+   "title": "ETSA 2026: Elite jury meets today to crown startup ecosystem's best",
+   "url": "https://economictimes.indiatimes.com/tech/startups/etsa-2026-elite-jury-meets-today-to-crown-startup-ecosystems-best/articleshow/133477604.cms",
+   "source": "ET Tech",
+   "published": "2026-08-25T00:30:00+00:00",
+   "score": 54,
+   "category": "funding",
+   "company": "ETSA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a4d1bce1ca5e",
+   "title": "Lead School targets 20% growth in FY27, eyes IPO in two to three years",
+   "url": "https://economictimes.indiatimes.com/tech/technology/lead-school-targets-20-growth-in-fy27-eyes-ipo-in-2-3-years/articleshow/133477999.cms",
+   "source": "ET Tech",
+   "published": "2026-08-25T00:30:00+00:00",
+   "score": 34,
+   "category": "other",
+   "company": "Lead School",
+   "amount": "Rs90 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs90 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "a932db15711e",
    "title": "Urban Company turns to luxury brands to premiumize beauty business",
@@ -2636,41 +2758,6 @@
    "alerted": false
   },
   {
-   "id": "05dc9d752e9b",
-   "title": "Beyond The Shiprocket IPO Takeoff",
-   "url": "https://inc42.com/features/beyond-the-shiprocket-ipo-takeoff/",
-   "source": "Inc42",
-   "published": "2026-08-24T00:30:39+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Beyond The Shiprocket IPO Takeoff",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f39f87cfb0d",
-   "title": "Now, GCC cost calculators to help firms take swifter calls",
-   "url": "https://www.livemint.com/companies/gcc-advisory-firms-cost-calculators-ai-consultancy-big-four-11787479968180.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-24T00:30:20+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Now GCC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "dcf8719944d4",
    "title": "Singhania family-owned JK Tyre wants to go acquisition hunting again after turnaround wins",
    "url": "https://www.livemint.com/companies/singhania-family-owned-jk-tyre-wants-to-go-acquisition-hunting-again-after-turnaround-wins-11787478998025.html",
@@ -2690,47 +2777,6 @@
    "alerted": true
   },
   {
-   "id": "41f9669f97e2",
-   "title": "DP World wants longer contracts at its five terminals, to invest $700-800 mn more, says CEO Yuvraj Narayan",
-   "url": "https://www.livemint.com/companies/dp-world-india-bet-new-ports-700-800-million-investment-long-term-jvs-global-ceo-yuvraj-narayan-interview-11787474386391.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-24T00:26:00+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "DP World",
-   "amount": "800 mn",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Yuvraj Narayan",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "800 mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "54379037e2a4",
-   "title": "India\u2019s talent, cost advantage can drive space sector: Modi",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGlfWC1MS25RMHNFOEl2U2lsdHlKMXZ2OWRjVFE0WkhQV0VjVnkxTGVOOGoxVy14dzJzV2hUWm5LLUVRREdFc2ltUnExTk5fdXV3a2JpVGMwOVJXbTRkbmxEN3FyTG96SUtLREhMS1NVMG5iRnQtMTlRS3RCRW81Qy1CZi14dURvdDd3RmU0LWlOVEZvNGZLNExWTGpQVFgzOXBEUExvM3R1VWp6QVHSAa4BQVVfeXFMTjhpX1gtTEtuUTBzRThJdlNpbHR5SjF2djlkY1RRNFpIUFdFY1Z5MUxlTjhqMVcteHcyc1doVFpuSy1FUURHRXNpbVJxMU5OX3V1d2tiaVRjMDlSV200ZG5sRDdxckxveklLS0RITEtTVTBuYkZ0LTE5UUt0QkVvNUMtQmYteHVEb3Q3d0ZlNC1pTlRGbzRmSzRMVkxqUFRYMzlwRFBMbzN0dVVqekFR?oc=5",
-   "source": "MillenniumPost",
-   "published": "2026-08-23T19:56:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f471c2e4cd67",
    "title": "On National Space Day, PM Modi hails Gen Z for building new tech; Isro chief says plan to launch 8 vehicl",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVWtvNFpIY3hlUHFYRjluZGs0ZnNGNzF3Rm5KTHRnUm45YXNXSC1KYjVsTWNGSzBBaGdwUG44ek5xS29XR0k2MzF6WjRGVHZQaDZNeEItbUZzV3F6bm1hTnYwZDNHUzFZU2NwQVl3Ukw4NlpWLVBLaWtEOW1UVXVDOGhOa3VBeld0bEc3M25oZWo0cHFvNkZwcmZyTEd5dko1eGw4ZnRBOV9sS0hmMzUwODVFeVJuMDdnTUd6VnpTSjJUWTJMZ1Vob3Q0WUN6aDhkQ2toYy16endHcUxqcFhoaGVibi1qQ3cxc0V5Q3oxdFlGWDN0OVBCNjBGSVN0T1JhXzZGRzJDVkQ5OVVNazBXQ2VwSml3YXozc1V2YThBONIBpAJBVV95cUxNQUxCMjFpVjVwTlFWc2tlNkhFOHg2N0FjZWtlenBvNk4wWjFxNHJJa290SzU5T2pINXY2eFRtbFloT2NKWmgzYnNFUGhTdE5yQjA4b1BleU11MkZwOUdaWnF2UTNaNGZDR0ljNjJpbTRBZFl2SzJoQkR3T3dQWFpyMWhqRjBiSENsYkFVTkJ4dlhRU3VZSTZGVExBNFNROUlScVV3RVBoRHdCdkRnaVZzWTdRNUVLUktuSGdXaFJQT1duN25DRVJJQmp1QzdpV1NtMlpvZ1ZoZkR5bGYzcU44S0pycVB3bXVfRkREUHlBNGJfUjFTVmtOZTFkZ0Q1dGxINjc2WU44VzcyZVhlRmp0Uk0zZnE5VHd6ZGtNTGlCYlZXc2hk?oc=5",
@@ -2746,24 +2792,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8c4190e72e5f",
-   "title": "Will Atomberg become a consumer products company or a component maker?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWpVS3N2UFFfVVRURUlncXNrazhVQjVJR0FfdXI5QUxFMFN4YVJJbmFhaVh6WXcwZ2VtdjFlMjRSWUhFLUFkSXNEZU9GQVJpa0s3OUxRWTNaUml0Z2Z5aWM1WVlDSl9YMW9RZDBGMTl1V1hNcGJWZnpLZFVUVDlFekdKUWhOR1dLd25IQTdTb0JVaWN5b3Z2Wm1QVEY1Z0xGc2Y3TGRoSnAweGo3YWFYT2poRDVaOWdEV082aUpIU3hWMGM?oc=5",
-   "source": "The Morning Context",
-   "published": "2026-08-23T19:13:48+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Will Atomberg",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "1965211f2e6b",
@@ -7043,42 +7071,6 @@
     "funding",
     "20 million",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2362cef3ac05",
-   "title": "Google to buy Spirit Airlines business data for $10 million",
-   "url": "https://economictimes.indiatimes.com/tech/technology/google-to-buy-spirit-airlines-business-data-for-10-million/articleshow/133310045.cms",
-   "source": "ET Tech",
-   "published": "2026-08-18T02:54:21+00:00",
-   "score": 77,
-   "category": "acquisition",
-   "company": "Google",
-   "amount": "$10 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "$10 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "01b219bd1581",
-   "title": "Ex-Kissht cofounders\u2019 firm Rezolv raises $12.5 million, to expand credit services",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT0Mzd3hhWWRUR2owWk9taHZGVUJZTU53OGxCeUxESUlRZktLRzhpTEZUNEI4T24yMXlFYmNjV2xkbjd2Tk1sU1I5Mk9rSDJEc2lCdWtiaDd4WkJfUmRCYjJHUXJ5bDFpTmdRX0lwT1prb3hIdVJPXzYyRk9mTmZISjRPemlNbFFJZk1ydUlJNWRFY0dpRjNORGplbFRuVGduX0ItVUUxZUo1cDRkMGFXYWNyUmp3SDBSZDc5Uy1iUFpTcHVNOVdUV0pzaG9JYmVzVFJoYTFidUxjT1RxdUHSAeMBQVVfeXFMTUp1YWlwV3dZWE5nMnBYcFFOaWNGdThFTzkwTWRfbUpMQlJ0RkNkZkgwb1ljN2dEd0taUmVUVHFmV1FLMm1GNTlvbDh0VlNicG53aTZGdU41MmkzakMzMTFWOER3eEdHSjNWMGlQa3lxemVVOFBnbGdXTmo0MW9wWXk5QmVFQlBQenNGdWNoNlNQLWZ3UHpDZG5DbVBoTHdESTRnOF9VNGhSZ2tudm9aaFJxb0FON1Vsd2FfUXMxOHU1MnVTYlhxN19jVDhWUnJqQUZEX2V2RGtzdWFjR2NpSFZFbnM?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-18T00:00:00+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Ex-Kissht",
-   "amount": "$12.5 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$12.5 million"
    ],
    "alerted": true
   }

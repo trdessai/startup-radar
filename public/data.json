@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-25T17:49:51.431685+00:00",
+ "generated_at": "2026-08-25T19:19:32.213818+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 8,
-  "alerted": 2
+  "fetched": 18,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "919b7ec5fe3c",
+   "title": "Students can turn their ideas into opportunities as DAVV to launch startup pitch platform",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVTBCODNIbUl0TlpWdTlZb09vMlgwSnNHZ0NFNzdtaWFDYTBiZVJWMEhCZ2tjc1BIX2U5YUVubjNBRzhPdFVVZ3lZRFBYaEVxZV9DMFJuTTdFWWNob3gzenY1UHR5d1E5VUZ6MWxhei16OVdyVURGWURwT1VYWW80RFdJZGJzdXAzeDV0ZGtjbUlJM3NGaEhzNEh3eWVFNkh3MEgyODJwaUJKbFpsRHFaaTIyOFpkcThKam8tcHVmYlo2V1c5Q1FiSjJWMWxzeFlPZi10N2MzclQwOXJEUWFFV3NWblc1SEJPYVRXYjI3eG1wUkozM3fSAfsBQVVfeXFMT2NHTUxLaVhZRV9DMnJVSEducXRYUWNVSXlJaGtFOWczTnVfSUhiTXhkVW54SWx5Yjk1OUVnMUFpWTN2WDVNSFRieTk1NlR0bnpKTVpaZHIxUXMxVmRBWWk1U2ZXOXZHNWNuemY5UVk3QkRaWlZhMDY3RUV6N2d4RGcyUzV0a3IxU041WHBuSlV4MFRLR1FYeDFmLXJtZVBqWEFIeHpELVVzckRFUF80eDdwYUN2VXlnOV9paWNGMEZsT0pWbG5wRlpGdUxNMzhObmxXR0xxUUF3VGoybkRVcEp6OTZUeHRDTi0yalZuclZBc0VsZkY0T0lLdUE?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-25T18:52:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Students",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "570b5192ba44",
    "title": "IPO-Bound Pernia Pop Up Shop\u2019s FY26 Net Loss Widens 52% YoY To \u20b9285.4 Cr",
@@ -112,6 +129,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5bd64eb2de7c",
+   "title": "English Releases",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQnNzcVpVekhyUFJXRHhSV1NhTk5NcTVEQW90dUpEcF9SS2l3dzdLdXRWWEJOR0Y1cTNndFBidm50WG42RWFEQXkxSUY1Ul8yTmpBRUs0bGhnVzdfMzhBUm03ckl2YXlIMXJzWU9maF8?oc=5",
+   "source": "PIB",
+   "published": "2026-08-25T16:11:24+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "English",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
    ],
    "alerted": false
   },
@@ -2316,23 +2350,6 @@
    "score": 18,
    "category": "other",
    "company": "Early-stage VC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "910e1c1b6677",
-   "title": "From India to the World: D4 Commerce Rallies Over 100 Founders to Crack the Code on International E-commerce",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZDAwQjdtSzlsZlczYS1DZXJoVTRlVUxMT2dVYm9faTBXMlIzQUFDekFNcllMWWV6VEhDVTYtd25feDdSNlFmMXgydkV1azY5SWlNOXh2TUpyejBqXzdJQnJ6ZlN6UDRmT0dmWllEOUFidmFBOFRjMXFDY1pMckNHdmpseVB5Nnk4M3hCbEI0MFRTWDhkNXlqbEtJWjNTMTFUWkpkczRoXzgyUGd2N2FJSjhaQ2VhcUlpYTNmQS0xeXNTcDVuaEFCQ09heGtDemJOeGJoT0tkSTl4cTZQYmprdFk5QmU?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-08-25T05:08:35+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "From India",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7064,25 +7081,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a00448144b1b",
-   "title": "AI Personalization Startup Malachyte Secures $10M Seed Round for Real-Time E-Commerce Recommendations",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmxhUVJ6ZUpjR3RwRFhULTFtLXJSWHFBVnExU2czZlRCbDg0U0RZTUdkb1VuU2hWalBIS1Y3RWt5SGFKLWFiMW5PNGttbWFkMzFlU0c0VjJ3eGdVRWMxRC10TzlCaXB3OVk1eXpVUFl2TGM2U1dXcGNQcDVhWGdrNHNmTWhOMXJKcHMwZXE2Q2Rnb0JqbmVmR3hOVFlPSkFGQUw3ODlJQkt5SVI3ZDZ5SF80Y3NUc3FwS2w0RlR6VWxNcnpMMzd2Mjl0VXZaVHZEdnVXbg?oc=5",
-   "source": "theaiinsider.tech",
-   "published": "2026-08-18T18:57:07+00:00",
-   "score": 91,
-   "category": "funding",
-   "company": "Personalization Startup Malachyte",
-   "amount": "$10 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 M",
-    "Seed"
    ],
    "alerted": true
   }

@@ -1,12 +1,132 @@
 {
- "generated_at": "2026-08-25T05:08:05.471587+00:00",
+ "generated_at": "2026-08-25T06:04:08.863382+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 19,
-  "alerted": 7
+  "fetched": 35,
+  "fresh": 8,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "1e014857e31e",
+   "title": "Karnataka Suspends Amazon, Instamart, BigBasket Food Licences Over Toxic Datura Listings",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1VwdXNVNC1qaEpMcmt6RERHS2ZsbU15bFRISHFZbkpleXBfZzV3bnlpR0pYOFJLUURHcnBtQnpWOG9obTU1LTUxQ2JKYnhNZDZidHlNOGNKNk8wSGhWOEZ5YWxXZjBTUkpaQ3Q2bDRXb0k5ODEtRkRUanJveGZIRy05alBBYlFiRWJBYTNXcm9UaFk4NnRNNGxFcDFGaGhhZnM2RHZFT3NEUEE1ZmlN?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-25T05:58:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Karnataka Suspends Amazon Instamart BigBasket",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dd83efd90100",
+   "title": "InCred Capital launches InCred Black for UHNI segment",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1c5dnJ4eWtOQnVWMnAwQ0xkM2dHaThoVzZOMk9SRDJrTS1laGFseU5uSW5QaU9kbU9OalVnU3MzY0ZzV1AzQVowdkFmT0VRdjlVdU9KQUNUZFA0R1JEVVExTkhBcGhEZFM4WDlhYmktY1EyWWFCYWhZc3NQaUd5MVR6WS13ZHlxRlFHeTUydkFLeVVQRWVV0gGXAUFVX3lxTE53Vzl2cnh5a05CdVYycDBDTGQzZ0dpOGhXNk4yT1JEMmtNLWVoYWx5Tm5JblBpT2RtT05qVWdTczNjRnNXUDNBWjB2QWZPRVF2OVV1T0pBQ1RkUDRHUkRVUTFOSEFwaERkUzhYOWFiaS1jUTJZYUJhaFlzc1BpR3kxVHpZLXdkeXFGUUd5NTJ2QUt5VVBFZVU?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-25T05:51:47+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "InCred Capital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8bc704022369",
+   "title": "Infineon To Acquire Peak XV-Backed C2i Semiconductors To Bolster AI Play",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2pMX1V6SHZjYVlzNDFoVWhjOWhkY1VSMGJDU19GYU9weF96dVBKLVBXa08wTzdkak1lRFNPMW14RFI1d3JwMmVUcVRjZGdCTDU1b1NMeGxMOHQ3djFLYnFCMDdOeFhSZDRXLWMxYTVTVFZwQ1VzVmZEbmVQQ0tkZDZ3dk9VQXk0TnVSSEdLVi05VV83TUVZOV9XOXU?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-25T05:48:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Infineon To Acquire Peak XV-Backed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec19f123b97e",
+   "title": "Men\u2019s Ethnic Wear Gets Its Second Wave",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQWDZTeVVWNURXVGpIVVZpb2FIcUE5UU90Um1YX21UR2hDNUVjRGhkMXBYWTREYWxycWx3SFp1VGJWRExtcDJ1OVFBRzFiNk9fMGZoV2tIVmlUT3MxNFpuNFZHbmdTaDBkOE1wRnJTUE10WVE?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-25T05:36:56+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Men\u2019s Ethnic Wear Gets Its",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "de95a7e911d9",
+   "title": "Tic Tac launches \u2018Tic Tac Go\u2019 with Yashraj Mukhate through music-led campaign",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFVJa2MzQmtZaDAtOUxybzVER2ZMUmFKYm5JQkdjWFhKR0lTTEphVnRoLTBEc3U3U1NyRFhydUZXMnBmR2EwZWVCOGRoWXhST1hlbUlGMGFicUpQNWR2d2EzTXBTN2stWkFoYjFPZUptWDNrT2lGNU53UDVLNWI4OHdLc2NHOUhTdEk1TXl6NlBMeDhPWFpoN1otNnlCY3FlSnNFU0s0aw?oc=5",
+   "source": "MediaNews4U",
+   "published": "2026-08-25T05:32:27+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Tic Tac",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "93d1a726a969",
+   "title": "SoftBank pares nearly 2.6% stake in Lenskart for Rs 2,888 Cr",
+   "url": "https://yourstory.com/2026/08/softbank-pares-nearly-26-pc-stake-in-lenskart-for-rs-2888-cr",
+   "source": "YourStory",
+   "published": "2026-08-25T05:31:47+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "Rs2,888 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs2,888 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "910e1c1b6677",
+   "title": "From India to the World: D4 Commerce Rallies Over 100 Founders to Crack the Code on International E-commerce",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZDAwQjdtSzlsZlczYS1DZXJoVTRlVUxMT2dVYm9faTBXMlIzQUFDekFNcllMWWV6VEhDVTYtd25feDdSNlFmMXgydkV1azY5SWlNOXh2TUpyejBqXzdJQnJ6ZlN6UDRmT0dmWllEOUFidmFBOFRjMXFDY1pMckNHdmpseVB5Nnk4M3hCbEI0MFRTWDhkNXlqbEtJWjNTMTFUWkpkczRoXzgyUGd2N2FJSjhaQ2VhcUlpYTNmQS0xeXNTcDVuaEFCQ09heGtDemJOeGJoT0tkSTl4cTZQYmprdFk5QmU?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-08-25T05:08:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "From India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5d313c4b3c64",
    "title": "5 Books that explain why wisdom matters more than knowledge",
@@ -227,6 +347,23 @@
    "score": 22,
    "category": "other",
    "company": "Serendipity Space",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f2876413a10a",
+   "title": "Pravega, Z47-backed lender InPrime Finserv taps offshore investor",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHpHcVExNnh0ZHROMEJHajJVLXotSHBfWDZTQUlGLTBfZjZBMlRHNWF6c28yMmtwcEtDT0U5VlZhRTBBaHBzU1lpMURDTU55R2NvRHZtWmh2SEItd1lsaDFfNDE0UUdLU3U1TUExTXRYUkNMRDBNdU9IY3hVTUFwbDBXcUZmNmtMcTVUcGNwbWFsdw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-25T03:34:14+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Pravega Z47-backed",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2494,25 +2631,6 @@
    "alerted": true
   },
   {
-   "id": "2e21b4caf25c",
-   "title": "New home-grown brands eye bigger share of India\u2019s $50 billion alcobev market",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbjFTNUxnQ0ZOYjNId0RtZzc5UWRWdEF5OXYxNE1JMEo4VXdic2t0THptYUJ4Q003UEZPX0Z3bTJhTm9YdXREemhFNXlWbWhfZUtka1c2TTVBd1oxdEp3aW1rUjFhOTVJRGc5VW1mNldEVnlILVBtdUtaNTVjTktITTkydVE1MDZ1c25NdHIxMjZqOERLX20yekt4ZGVuOGtGZ1hibjRsSTdGMXZjRk9zY3hMVjNxX1FoQ2JCT2xhSXR3RW9vUC1v0gHUAUFVX3lxTE9KNEc2a0NPZTVyRmlUZVVYbmhrcF92OEtTdlYxS0VkdXhSVzVuMkVQVUMxVTFSSHFxMTJmU0owUF9mWHVBaE01R3dkYko3NkJHYWQ0bGpCTXJFSHFBd3RZRWpReGpBbEdGZVJGaTlKbXVpb01MYXR1Mjc4b1hVeEpOZS1iczMzaWZTdERmMENJVGFUWDZiYXJVdHVsYUtYaERlVU8yVlNDMlpzaXhYaTg0N0pZdWpURW9YeV9ON1BiVEZpelNuS0hzeXhLRVNJdHVMSWgy?oc=5",
-   "source": "The New Indian Express",
-   "published": "2026-08-24T05:52:49+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "",
-   "amount": "$50 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$50 billion",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "225732bc1c3d",
    "title": "NSDC launches nationwide cloud, AI skilling initiative",
    "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
@@ -2529,40 +2647,6 @@
     "1.5 lakh"
    ],
    "alerted": true
-  },
-  {
-   "id": "6548aa338d27",
-   "title": "In photos: Humanoid robots sprint, play soccer and set records at Beijing games",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robots-sprint-play-soccer-and-set-records-at-beijing-games/slideshow/133452935.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T05:46:26+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "In",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7130a05ad624",
-   "title": "Context is the new intelligence in agentic AI",
-   "url": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai",
-   "source": "YourStory",
-   "published": "2026-08-24T05:45:07+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Context",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "24100ceeae02",
@@ -2635,23 +2719,6 @@
    "alerted": true
   },
   {
-   "id": "813dae881fba",
-   "title": "India IPO Daily Market & IPO Updates | 24th August 2026",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTJUWGhRTlY2Rmd0TlpIdXJYQ0ZuRU9SZTRaMFBNM2N5WFBDTXpLSzJ0ZFVzbHdlWFR5cTBiN1luOGxyVTAxNDhGbU1pbU5yLUVoSWdVbnZXUE1aVTRIWHRvV2ttbzJZYTgyZk1ZS2t6NHgxSVFvRXVaamplVmVkMG53NTZobjJNVFE3TmtIOTZMZVZ1?oc=5",
-   "source": "IndiaIPO",
-   "published": "2026-08-24T05:08:11+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India IPO Daily Market",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a3100acf424b",
    "title": "Skyroot gears up for next Vikram-1 launch, moves stage 1 to Sriharikota: All details",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEZMLVdaNTV6WWZfTEREeXNoY1p3N1VwWkN2LTJuNkcwNVRhSTlFR0xCQXpkNWFjajBjUlFuMElaR0d5ckptd1dBZ0l6dG9JMkItUm9naWhOR1AyajRWTkN1WnA1YWk0VWd1bjdfc05uaUkzVVlxZ2JSLUVxTGgtU184YzIxRVNPSGtCbXotc050QmlnV3piRnM5dUpGS0R6UmJmanp2dW5TR3FFZ2RFQjFmTldUY294UFYxbmZHdjdTV3FyNTM4UG1zcjZtRmJhV19fNVRoZ21vRkl2a1M2MVZGWGUwZ9IB6wFBVV95cUxOSndaMGItbUhXV3JnN0lFdFpVMDNQZ0VuYXEwVnBwLXNRWG1teEdMSi1ObHlfblN5WkZ1UGZoaXBzNk5Wamh4TDNyNXNKY0x5ektBMlFVY1pja09YajRtQzNtTmVEdGdRN2dmSHRSamVERlBnUVVsNEhJdllON1FhV2RyZDhySnRHTTNIRWlCWUZyOTkyYjEyUzFqZWZ3ejZNRVFhRlNtb2x2UEduZXpvdzNLaEhDQ1J0NHpPcXlGWm43QVJPMTN5dFVqTUVTSHpSUWxPNnVWZHdfOEpUOUNJUHU0NmhBZzhPLTBz?oc=5",
@@ -2704,40 +2771,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "b0d6d0368afb",
-   "title": "Inc42 CTO Summit 2026 | 175+ Tech Leaders & The Playbooks Shaping How India Builds In The AI Era",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2otTUVKaEIyTjluV3E5YTZab0g0VTRMazdJaUFmd3dqZ0ZqTEstY2U3dFQwWHM3ZlFrM3BQMUdYWElRQUpHZFZxSlNndWZsTVcxVDg3bzM5SHVKQ3FIZTBmRFhnSWNZVFRzb1NTNlpTVmVsQkxuZVpXOXJDN2JwY1RLQk1DWWhoRWFnaWFnekdqVTVVNFJ0R2FXZWdXcHRkUl9GV0tLWjF1RS04bC0yZmtUZzNfQQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-24T04:47:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Inc42 CTO Summit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ced9de3be018",
-   "title": "New Zealand to introduce bill banning social media for children under 16",
-   "url": "https://economictimes.indiatimes.com/tech/technology/new-zealand-to-introduce-bill-banning-social-media-for-children-under-16/articleshow/133451478.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T04:46:07+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Zealand",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ce7427666e7e",
@@ -7033,42 +7066,6 @@
    "reasons": [
     "funding in headline",
     "Rs35 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b9e242ec226d",
-   "title": "Wispr Flow raises $280M at $2B valuation, with India now its No. 2 market for users and subscribers",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkx6MkFMRjZqVy1Vck1fbHdxdFc3MTdIWmNmNG8yUFlPdlpYWmFhNU9nd3ZTZzVYX2d3UFlXa2dXd2c5aXRDeGoyckRQbDJqNWptT2VCRjV0NHFPRDU2UmxVSWhfckJTbU1VOVg3Nk9icGJJdEt2YlNaTk9pTUxUNk9FTUtyeW5yTUpuLUFEUzRPMWNZMEEwR3VRZ1AySTEzZEZyMg?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-08-18T05:45:44+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Wispr Flow",
-   "amount": "$280 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$280 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3a7d9bfb73ae",
-   "title": "Lend-tech firm Rezolv raises $12.5M funding led by Norwest",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1lhRGFKbTd6aGxqTVJBOXRXY3JVaXoybWRHMkJ5YlY4Tl9NNlJtNjB0UGtNanFTWnVXam02MTVEQWtNSF9wa0duZ3lOeTlDaHhCbU5LcDA3MjJZQjRsSG5tN3RvQWpBaS0wd0VVU0U3N3pYTTVyc0NVa1pXVGh3Z1FzOFlUSE9VSHpyRHdFSVp6M0Y1QTVVcktDSW9YUEk?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-18T05:26:15+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "Lend-tech",
-   "amount": "$12.5 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$12.5 M"
    ],
    "alerted": true
   }

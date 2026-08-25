@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T20:03:31.062439+00:00",
+ "generated_at": "2026-08-25T21:02:05.704639+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
+  "fetched": 7,
   "fresh": 2,
   "alerted": 0
  },
@@ -40,6 +40,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "fd1fb7cb5203",
+   "title": "From SME to Mainstage: Inside Bright Outdoor's High-Yield Pivot to DOOH and Transit Media",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1pRSkdKR3ZMVUhfdG80MkFvMTFmUUtlWHRuLUxUREhERVc4b1l0QUR4Y0N5WHVWSWlwMEk0MUQ0eFhka1BNaGtzdEVydXExMm5aZVRTS2Y4MTRtN2xhaHBPN3h1YWlwRXQ4TXBvc3lFb00zd3BFMHExXzRRVFhjb0FPTURJbnNLS1Y4NEprV3ZEMUJRTGJoZzdCQkVNRnlaSEpUZWFxNkluTy1TdTNJWlI1czZTbGh0Zi1oQUUybHdZQzMwdjNZ?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-08-25T18:04:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "From SME",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "5fda11365f9c",
@@ -2356,24 +2373,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "93d1a726a969",
-   "title": "SoftBank pares nearly 2.6% stake in Lenskart for Rs 2,888 Cr",
-   "url": "https://yourstory.com/2026/08/softbank-pares-nearly-26-pc-stake-in-lenskart-for-rs-2888-cr",
-   "source": "YourStory",
-   "published": "2026-08-25T05:31:47+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "SoftBank",
-   "amount": "Rs2,888 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs2,888 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "b7dac04af523",

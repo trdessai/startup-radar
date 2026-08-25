@@ -1,12 +1,120 @@
 {
- "generated_at": "2026-08-25T16:19:18.253867+00:00",
+ "generated_at": "2026-08-25T17:49:51.431685+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 12,
-  "alerted": 4
+  "fetched": 28,
+  "fresh": 8,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "570b5192ba44",
+   "title": "IPO-Bound Pernia Pop Up Shop\u2019s FY26 Net Loss Widens 52% YoY To \u20b9285.4 Cr",
+   "url": "https://inc42.com/buzz/ipo-bound-pernia-pop-up-shops-fy26-net-loss-widens-52-yoy-to-%e2%82%b9285-4-cr/",
+   "source": "Inc42",
+   "published": "2026-08-25T16:51:38+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "IPO-Bound Pernia Pop Up Shop\u2019s",
+   "amount": "\u20b9285.4 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9285.4 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4400f53a0c8a",
+   "title": "Days after record $1.8 bn order, Welspun Corp's promoter and CEO offer shares worth $149 mn",
+   "url": "https://www.livemint.com/companies/days-after-record-1-8-bn-order-welspun-corps-promoter-and-ceo-offer-shares-worth-149-mn-11787672500342.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-25T16:42:22+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Days",
+   "amount": "$1.8 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "product",
+    "$1.8 bn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ddbc42eae50c",
+   "title": "Honasa Consumer calls off Fluence Pharma acquisition",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1I2VlE0X3hMMVhtSElqdTBmeVlnVW8zcmhBd1VUZDJaUkptcW5FcWh6VVZIc3BWMWNORTFMSThQMGhpSU1wdng4eDM0eVRmbHgwQ1c1QTNYdEJmM3hQZUdmRFZHUjRYbUozYjRzWGFEUHVKZmdSaTkyMGo5UkNUTXJDTUwtajJGQlh6M3lXRk5EMlc5MHfSAZYBQVVfeXFMTXNSNlZRNF94TDFYbUhJanUwZnlZZ1VvM3JoQXdVVGQyWlJKbXFuRXFoelVWSHNwVjFjTkUxTEk4UDBoaUlNcHZ4OHgzNHlUZmx4MENXNUEzWHRCZjN4UGVHZkRWR1I0WG1KM2I0c1hhRFB1SmZnUmk5MjBqOVJDVE1yQ01MLWoyRkJYejN5V0ZORDJXOTB3?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-25T16:27:18+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "Honasa Consumer",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5800aaebe66a",
+   "title": "NCLT approves Subhash Chandra\u2019s \u20b96.5 cr repayment plan against \u20b922,007 cr claims",
+   "url": "https://www.livemint.com/companies/news/nclt-approves-subhash-chandra-s-6-5-cr-repayment-plan-against-22-007-cr-claims-ibc-sc-creditors-zee-11787670605730.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-25T16:21:32+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "NCLT",
+   "amount": "\u20b922,007 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b922,007 cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "333dbed41b3b",
+   "title": "Reach Capital closes $265 million fund to back AI startup founders",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTENvVGhpZ1RlNnNXZVpGMXppeXgtZ0lZd3R2elpyN213dmRZenJhX1V3ZUpRdjQxZlB2R3p6Szh2c0U4elN5S2FvWUt6cnhadG14aWM0dDRvb3JqRDJKNzk0VVlPUVZJQmFsa0htUlNnMlFNYk9MSFdWWk91ekQ2U21EN2pza3dQQi1pcUVaUTQ1YkZXQnBEZXBfTXpQYWJlVWFCd0p5N1FobGNaNmZ1VWZZVjEzUHFL?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-08-25T16:16:18+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Reach Capital",
+   "amount": "$265 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$265 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5b2627938750",
+   "title": "440 Space Startups: India\u2019s private space sector takes off",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzlsMUk3NUJIYWpHSzRUaWU2OUg5c1dhUnMzcHhrNjFIVkhQQi16MXlqY2MyNWlITVI5UllpQTV4VlpUXzBlZ2FyVkNnNmdVc1hYNG9ieDJZbHNMUGdZdWJQTW5FSnB0a1RhS3Y0Nk5heTBsWTVLdDhpVW52VmtrYUUtUzV4UjdNcWtvT01teHVpczItRzNTQWFuU3pDeUtiazU2ck9mSzdKbW9SQnh4RkxaemgxR2dvN25CNnFOWW1scktJcTFVbGJpcGI?oc=5",
+   "source": "organiser.org",
+   "published": "2026-08-25T16:15:56+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "bdc797c1a7f1",
    "title": "Supertails Has Built The Pet-Care Ecosystem, But Can It Make The Economics Work?",
@@ -78,6 +186,23 @@
    "alerted": false
   },
   {
+   "id": "1cbd91e5a39d",
+   "title": "Pacific Fusion\u2019s next fusion machine could clear a key hurdle to commercial power",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0k5cl9MSGluRW5vOW9fa0NlbGR4WndzVGtMc1hyWWtfUGg3VDl1VFE1c0Izd3d2T1l6RU5MclZVVDdCVXdXNGlLaG1MeGRUbVJJLWE0cXd6NkZoQmF1WGJXWF9WMlBBd1NqNk9qVFZ5TzVuUV96cEtoSUJsdm5FREdUS2ZLLUN1V0FGT1dkQ1NCd2JIdUFVMjBVMlpyR1c2ZHRHM0NWdDdpX1JoWDZOTWJn?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-08-25T15:30:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Pacific Fusion\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "a9f4c24b1b54",
    "title": "ISRO changes tack on launch vehicle manufacture",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDZ2Ql9ScVlvcXM2MVRlaVM5cW5NdVpzMjVPTkNodDhZbXV6Q2dSZU1FYkdPdG9FNTl5eERQYlVRRUVSbzBTUk9OUDc2MnJUTU52TkJlSTczU0dnT05FYlg1THNOWnJsVHBYUUJaR0xuTHNtSlAydzc3bnY1bmltSzY5Y1N4RTVzYjdodmg3WEw2NkdkV1lxcmkzNzByTTZHRjZma3ZzbmpIUHhiMEM1eUlCRl9pNzVJR01iU3AxVzNFdU9uRGJJalV2MTBWT256cGNGcTRjZF9VZw?oc=5",
@@ -86,6 +211,23 @@
    "score": 63,
    "category": "launch",
    "company": "ISRO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3f41df76ddec",
+   "title": "NODWIN Gaming Launches India's First Space and Sci-Fi Festival | Outlook Respawn",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdVVnc3JUMl82TktGY0Q3YjlfckRUYk5VMWdCbDZYbnRnX0hzZEk1Tkg4dk4xUzQ5bjBSZHE4ajVIS19rb0RUem42RjlhTkcwOURFSjFiMEdfNk9jcWQtcFFwc3dNY09sSGdIeUhSa1pERkdhWW5XRXhlbGZvZnBYOFk1RnlUcHEtU0otSDE5bG5mTDFSWk5uRnFUQ042eHY2Z0hweDcxdXVIVUw2NGQwc3JTdFU4XzZPRmpDczhjdG3SAc4BQVVfeXFMT2xkMzZERWtGTlFDbTlKdEpzSkRoVDM0U1UyanR6WEdSUGxuYXY0REJFS2phZjVVd3VfcjNraEJGT0xVRUpyWU9rWlZrUS1tNl93WnlUV183cU5VRzBnYk5IZFVUdDVsSEJnYVZaZWZ4b1VkTEEwM1pqQnZCeFUtWWtCY0xJeTQzUlZSU0dIVFJZRmEtS2tnZEM3ZXpmUUpYcW1iQmFsWVBmTkJzNzk1OTZlOTlsN1prWExaR3JZTFIwZFEtSGk4OEdUb2JXamc?oc=5",
+   "source": "Outlook Respawn",
+   "published": "2026-08-25T14:58:35+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "NODWIN Gaming",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2200,41 +2342,6 @@
    "alerted": false
   },
   {
-   "id": "5d313c4b3c64",
-   "title": "5 Books that explain why wisdom matters more than knowledge",
-   "url": "https://yourstory.com/2026/08/5-books-wisdom-over-knowledge",
-   "source": "YourStory",
-   "published": "2026-08-25T05:00:00+00:00",
-   "score": 45,
-   "category": "acquisition",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d24f5bb4794f",
-   "title": "Forbes Asia 100 To Watch 2026",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVYyOVZ3eGZ3VW81Y3dQZk9VSllLM0t0enlIeUVWN2RRdHYwal9tZmViVUVyZERRS19YZzNZUzF2d2JRbk5yLW9leEtfbHJ1T2hUUm94MzU3MndEeE0yVFd0aDduUzhrVDJuXzlSMm5BTmt2UUFzTFpicXlyQnA3MkdHZ3pZdGM?oc=5",
-   "source": "Forbes",
-   "published": "2026-08-25T04:53:53+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Forbes Asia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b7dac04af523",
    "title": "Indian drone startup Airbound raises $37m in series A",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUpqUnNFemlJMkc1TkdNSURtaHNGcXJHQS1haTdnOWszbEZnanAzdHlMNXdqa3VDbWQxRjVFX0lteWpUUWRDMERpeXhSRUlvUHhIZkxLUmlvMnB2LVNRZUczZ0hiTFhrSmdrQmNIWldrSzdjbzF0ek94TnlWdnhIT1NnLXhIQQ?oc=5",
@@ -2255,24 +2362,6 @@
    "alerted": true
   },
   {
-   "id": "558af28ef834",
-   "title": "Sanlayan Technologies turns profitable as revenue jumps 5.6X to Rs 125 Cr in FY26",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXpUNEdsTUphNUIwLThzMEUxdmpSX2FBU0dUcmozdFVYY082SE5Sbmt4Z3EwX2l5Sm44dWpyMlh1V2l1cmRaMW5IM29DckdjNThZYkR1T1VuaXpJYmU0b1RGcS1WY0l0ekNzU3BlTnRzclkxYnFFTzJKcUJkUF9PdlR1WnEyY09WSkhMeU1oZTJQY0w5Ni14eTJlOUhObVhPMF9HTHNrSFVhZVNLRTZLYkQyX0hfTHd0ZTI0dtIBvAFBVV95cUxPeXpUNEdsTUphNUIwLThzMEUxdmpSX2FBU0dUcmozdFVYY082SE5Sbmt4Z3EwX2l5Sm44dWpyMlh1V2l1cmRaMW5IM29DckdjNThZYkR1T1VuaXpJYmU0b1RGcS1WY0l0ekNzU3BlTnRzclkxYnFFTzJKcUJkUF9PdlR1WnEyY09WSkhMeU1oZTJQY0w5Ni14eTJlOUhObVhPMF9HTHNrSFVhZVNLRTZLYkQyX0hfTHd0ZTI0dg?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T04:50:03+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "Sanlayan Technologies",
-   "amount": "Rs125 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs125 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a1b22a88bf30",
    "title": "Wealthtech startup Nexedge Capital raises $20 Mn in maiden funding round",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWJ3QmJfTFBoaE15VEZQcmJhZThpUGVNNEhtRVRidXdOU0MxeFI4ZlVkWXBwWHR2TXFsWXBmVm5yWE1jb2h6azg3MUc4LWdwZEVRelZzd1F0VGJKRjB5ZmdsS1Q2QWlseDNuZF9xVjRiby01MlBTMldaWHdnVzdaT0lBQnJLUWdJcEdCZFpINk9Ba2R4cGdKdF9NTHdBNUFqaG84TFB6dEdhd9IBqgFBVV95cUxNWWJ3QmJfTFBoaE15VEZQcmJhZThpUGVNNEhtRVRidXdOU0MxeFI4ZlVkWXBwWHR2TXFsWXBmVm5yWE1jb2h6azg3MUc4LWdwZEVRelZzd1F0VGJKRjB5ZmdsS1Q2QWlseDNuZF9xVjRiby01MlBTMldaWHdnVzdaT0lBQnJLUWdJcEdCZFpINk9Ba2R4cGdKdF9NTHdBNUFqaG84TFB6dEdhdw?oc=5",
@@ -2289,42 +2378,6 @@
     "$20 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "f3bdc3abe617",
-   "title": "How Tejaswini's MurariJyoti Welfare Foundation is transforming women's lives in Bihar",
-   "url": "https://yourstory.com/2026/08/tejaswini-murarijyoti-welfare-foundation-bihar-women-health",
-   "source": "YourStory",
-   "published": "2026-08-25T04:32:26+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "How Tejaswini's MurariJyoti Welfare Foundation",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1b6381da273a",
-   "title": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chipmaker-enflame-sets-subscription-date-for-near-900-million-shanghai-ipo/articleshow/133491888.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T04:31:02+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "",
-   "amount": "$900 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$900 million",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "84296d68b59a",
@@ -2361,40 +2414,6 @@
     "$37 M"
    ],
    "alerted": true
-  },
-  {
-   "id": "25a2ae1f448f",
-   "title": "Iran\u2019s cyberattack on the UK\u2019s power plant is a warning India shouldn\u2019t ignore",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02T1hCSjhMM0hJVW5vcjVlLVFIUHZrSGFzYlQ3aDVaM1QxQjRqOXNodE9zaU81Qm1mR2c5WTRqMW5UdU1US1hYU1ZjQWVwbE1QSWpRTWJLMXhoOS0yaUoycDVaOGlxemEtOHdxTU8xbl81QXZWY3F2Q2hMYVk?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T04:02:02+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Iran\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "43e5cd9080b1",
-   "title": "Xera Robotics builds modular underwater robots for inspecting dams, ports and pipelines",
-   "url": "https://yourstory.com/2026/08/xera-robotics-underwater-robot",
-   "source": "YourStory",
-   "published": "2026-08-25T03:58:59+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Xera Robotics",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e9cda1e41e68",
@@ -7064,23 +7083,6 @@
     "funding in headline",
     "$10 M",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "95bfe28fe5a6",
-   "title": "Chinese startup Unitree unveils \u2018Superman\u2019 robot, faster than Usain Bolt",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-08-18T16:44:45+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Chinese",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

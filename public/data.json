@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-25T19:19:32.213818+00:00",
+ "generated_at": "2026-08-25T20:03:31.062439+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 4,
-  "alerted": 1
+  "fetched": 13,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "6e9535df470a",
+   "title": "Brazil fines TikTok owner ByteDance for unlawful processing of teenagers' data",
+   "url": "https://economictimes.indiatimes.com/tech/technology/brazil-fines-tiktok-owner-bytedance-for-unlawful-processing-of-teenagers-data/articleshow/133523806.cms",
+   "source": "ET Tech",
+   "published": "2026-08-25T19:28:37+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Brazil",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "919b7ec5fe3c",
    "title": "Students can turn their ideas into opportunities as DAVV to launch startup pitch platform",
@@ -23,6 +40,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "5fda11365f9c",
+   "title": "India tech engine seen powering expanding digital partnership with Qatar",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ZoY2hpbDFSQlNOWllCN3VPeGM2c0JCWGlmbzV4dVlFdGNOSktFY0V3cXlXelNyQzd3N2ZkXzd2SDNMSGg5WFpDSHY4NHZTZk1CYkNqN0NkOU9jTlVqOUtmWGRYTVJ1c3RFLS1wQ1RYYmJ5UzB2X3pXRjlTMC1OeXNwV1MzZnJRRzhCUjRnZlZlS1VuSnpvRmJMNjVSWUhiNWJpOThTdlFKUGRHQXFTOWdGUVVUTHA0UEJfN2FYU2c?oc=5",
+   "source": "Gulf Times",
+   "published": "2026-08-25T16:54:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "570b5192ba44",
@@ -2338,23 +2372,6 @@
    "reasons": [
     "no clear event",
     "Rs2,888 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cae3549db725",
-   "title": "Early-stage VC a99 logs strong returns in partial exit from listed manufacturer",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazJWNVl1OENTSUxYN1dxb05ObzFsQ1N3RDBZWjdMOFdJeUFIU0lHX2hFaktaZjNjMXZhMDVfMDRxQVBCaGxILWQ1U28tb1pOR19jTWh6MHppUTRlcVpnbVVZbjNOa0xEano5OW5YV1VjVTlzeGpyU2lSVXZHd2VmdGlpNG50YWNmSG9fZ05EeHRSUl9TYmk3NHhlSzRJX05ob1lzdGhB?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-25T05:14:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Early-stage VC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },
@@ -7064,23 +7081,6 @@
    "reasons": [
     "expansion",
     "$1 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b9af28a37c12",
-   "title": "Digantara launches sovereign space-surveillance network MOSAIC",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDgwajFGVXJyLUFWWDRBMVpzQnZqRlp1N0ZvRm1udjg4U2FOX1pGM19tTWdjQzJVNFdEMW5zWGk5bHc4RVd5VUJkWTRGR2pxaFY2ejU1VjUtS0c1aHJqMkJvZUp0cktWaHpyc2xuME9Fci1PZ3NSTVpKT0lBZkMyd3pWaUdKSlVVcDJNVC1pOE1BSGtvZk00clZGVXd6RVQ5WWxJNHBOYld4eEt0?oc=5",
-   "source": "Deccan Herald",
-   "published": "2026-08-18T19:23:23+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Digantara",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

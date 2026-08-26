@@ -1,12 +1,236 @@
 {
- "generated_at": "2026-08-25T23:52:01.453532+00:00",
+ "generated_at": "2026-08-26T03:34:22.160696+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 18,
+  "fresh": 17,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "75991606984a",
+   "title": "Finding right talent biggest challenge for GCCs eyeing workforce expansion: Report",
+   "url": "https://economictimes.indiatimes.com/tech/technology/finding-right-talent-biggest-challenge-for-gccs-eyeing-workforce-expansion-report/articleshow/133528307.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T03:12:53+00:00",
+   "score": 55,
+   "category": "acquisition",
+   "company": "Finding",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0c410a25b944",
+   "title": "The Ecommerce Squeeze, Supertails Chases Profits & More",
+   "url": "https://inc42.com/buzz/the-ecommerce-squeeze-supertails-chases-profits-more/",
+   "source": "Inc42",
+   "published": "2026-08-26T02:30:58+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "The Ecommerce Squeeze Supertails Chases",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e38de1def652",
+   "title": "Social media use on the rise among Australian under-16s after ban: data",
+   "url": "https://economictimes.indiatimes.com/tech/technology/social-media-use-on-the-rise-among-australian-under-16s-after-ban-data/articleshow/133527664.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T02:25:05+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Social",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f95559844e5e",
+   "title": "SpaceX to build $100 billion Starship rocket complex in Louisiana",
+   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-to-build-100-billion-starship-rocket-complex-in-louisiana/articleshow/133527636.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T02:22:20+00:00",
+   "score": 75,
+   "category": "launch",
+   "company": "SpaceX",
+   "amount": "$100 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "$100 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "958be79564b1",
+   "title": "Meta, US states have discussed settling teen social media harm case",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-us-states-have-discussed-settling-teen-social-media-harm-case/articleshow/133527589.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T02:18:53+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d7a1eabb4aab",
+   "title": "The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe/articleshow/133527534.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T02:12:24+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "The AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4b4eb0c438ff",
+   "title": "Ten years of UPI: The infrastructure that quietly rewrote how India lives",
+   "url": "https://yourstory.com/2026/08/ten-years-upi-infrastructure-quietly-rewrote-how-india-lives",
+   "source": "YourStory",
+   "published": "2026-08-26T02:05:00+00:00",
+   "score": 59,
+   "category": "launch",
+   "company": "Ten",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "758705ef408e",
+   "title": "AMI\u2019s Nvidia chip bet; Groww\u2019s new growth play",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amis-nvidia-chip-bet-growws-new-growth-play/articleshow/133527242.cms",
+   "source": "ET Tech",
+   "published": "2026-08-26T01:55:21+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "AMI\u2019s Nvidia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "809f8e26c50e",
+   "title": "How AssessPrep is turning test scores into data schools can use",
+   "url": "https://yourstory.com/2026/08/assessprep-ai-assessment-platform-startup-profile",
+   "source": "YourStory",
+   "published": "2026-08-26T01:45:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "How AssessPrep",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "da17662831e4",
+   "title": "AI is changing both sides of the job hunt. Applying more won\u2019t fix it",
+   "url": "https://yourstory.com/2026/08/ai-is-changing-both-sides-of-the-job-hunt-applying-more-wont-fix",
+   "source": "YourStory",
+   "published": "2026-08-26T01:45:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0e33df5a04e9",
+   "title": "Aman Malik",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UnpzbC1iNnh6RFlZNVJNcnBIODhmYVR5TmhtTVdRS3BDOUZ0bzhfUThfdTdWX1EzTmhtNXp0a1pIQklhamQ5Q0NSUTFKX09RNU9seDVqNmlHNDdCa0hv?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-26T00:38:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Aman Malik",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cd7a07e0337b",
+   "title": "Indian IT\u2019s mid-caps are gaining ground in the bank battle",
+   "url": "https://www.livemint.com/companies/news/indian-it-s-mid-caps-are-gaining-ground-in-the-bank-battle-11787665070668.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-26T00:30:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "IT\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22f0c2fc0c12",
+   "title": "Shree Naman Group wins bids for JW Marriott Bengaluru, Crowne Plaza Pune at \u20b91,800 crore",
+   "url": "https://www.livemint.com/companies/news/shree-naman-group-wins-bids-for-jw-marriott-bengaluru-crowne-plaza-pune-at-1-800-crore-hospitality-hotels-11787573731516.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-26T00:30:20+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Shree Naman Group",
+   "amount": "\u20b91,800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,800 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "194b28d5f5a9",
    "title": "Zerodha Fund House FY26: Revenue Up 79% YoY To \u20b917 Cr, Loss Narrows",
@@ -1793,23 +2017,6 @@
    "alerted": false
   },
   {
-   "id": "458e939dfde0",
-   "title": "SEBI proposes revision of advertisement code for online bond platform providers",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUTVkWDBjcnNkajdfTzFDdFRJX3RtN2NaSlk0VEZnMTVfaExXYlBOSGpSU21SWDF3RjlhdkFaOUxiNFZzeWFmLVRfQkJxeW9mUjJsZ05WaVhrUTdwd0ZDeE42SEVSWjkwV0NXUU1jbVVONVJqOW5IQU1sZGs1Yms?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T08:09:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "SEBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f9b25ef98393",
    "title": "Utsav raises Rs 36 Cr in Series A led by Atomic Capital",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE04eHRuLVJVZ2VOTTJUSF84TEh6WlB4ZTlMWEdPTjNkdFU4czNTQ1l4ZTFJWE5xV0EwWWpJSmJBVEhlWEM3WE84UVBkc1hKeUg5djZTNTRVQVFjV3J1Q2ZHMS1vSE1keXV6TUpfbG1lRTdZNjFYcUNFZlFTVzlUR3E0M3VSeWw3eVktdGVwZE1qS2xMcERWWGt30gGaAUFVX3lxTE44TTh4dG4tUlVnZU5NMlRIXzhMSHpaUHhlOUxYR09OM2R0VThzM1NDWXhlMUlYTnFXQTBZaklKYkFUSGVYQzdYTzhRUGRzWEp5SDl2NlM1NFVBUWNXcnVDZkcxLW9ITWR5dXpNSl9sbWVFN1k2MVhxQ0VmUVNXOVRHcTQzdVJ5bDd5WS10ZXBkTWpLbExwRFZYa3c?oc=5",
@@ -1827,24 +2034,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "f7af3388c0f4",
-   "title": "India\u2019s space startups are taking off. But can they scale?",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0pZeFU4NFFfZmVvTGs0VlBRMnVuLXJrY3hkcU5nZWgzbmVENFBQV3dUNUJzRDVnZno0d2FvWlY4aVhRS0tqdXpPSzluckxMQTJDR2ZHSERlOUJhcTRIbFJ4SzhHaGhVQnJZd3o5dnBYa0RpV2ZmUkFYdmg1bUpzWk5fblQzbDFPalJqcFlEZ0hlQQ?oc=5",
-   "source": "CNA",
-   "published": "2026-08-25T07:51:11+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "6202abb4c69c",
@@ -1882,40 +2071,6 @@
    "alerted": true
   },
   {
-   "id": "d26b6faba58d",
-   "title": "Samsung, SK Hynix stand to benefit as Nvidia AI server costs surge",
-   "url": "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T07:35:48+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Samsung SK Hynix",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f79dc6c7ba3d",
-   "title": "MIB advisory asks OTT platforms to show drug warnings",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40MFpqdEI5WnlKY1lMYmdHN201RkRhTHJEQkxCVkw2cjlqdmtDVFlfWF9RQXJiQ0lIeXVjSGZtaVc5TTIxUWZYMG1nQXYxUzlqVjl6ckFfTmY2X0FZRjJuSXh5N3lSTTdIRERn?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T07:32:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "MIB",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e5f0ffd21e88",
    "title": "Growth Sense gets SEBI nod for Rs 1,000 crore Fund, launches foundation to boost entrepreneurial ecosystem",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYURCdzEzdHVqQjdMaVZDZ1hxT0V2LU9NWlR4dDNGU2VCN2VvbVJEbENIMVNuRndmczBzamJUYmcyTk9iZjhvT2NwODYxZmFVM3F3bzFYNGQ4MmNMalVZYXV4YU1IZnBtRGIzTTRud0h0OXFBR1BXX2JiUjRwV0N4dG8xTnVYSjNjcDNWbGFBTnhpdjZ6N21uVm02VHJfUFZXdUZpQ3JoTmJsUEl6SXdOT2o5SnVKVUdobEtrN19ZMVM3a1ozdFJJWHRMd1g2V3IwaGtRaWFUcWlLZVNmZDM4Vi130gHiAUFVX3lxTE5hREJ3MTN0dWpCN0xpVkNnWHFPRXYtT01aVHh0M0ZTZUI3ZW9tUkRsQ0gxU25Gd2ZzMHNqYlRiZzJOT2JmOG9PY3A4NjFmYVUzcXdvMVg0ZDgyY0xqVVlhdXhhTUhmcG1EYjNNNG53SHQ5cUFHUFdfYmJSNHBXQ3h0bzFOdVhKM2NwM1ZsYUFOeGl2Nno3bW5WbTZUcl9QVld1RmlDcmhOYmxQSXpJd05PajlKdUpVR2hsS2s3X1kxUzdrWjN0UklYdEx3WDZXcjBoa1FpYVRxaUtlU2ZkMzhWLXc?oc=5",
@@ -1949,41 +2104,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7151ee0b2818",
-   "title": "Edtech unicorn LEAD Group posts Rs 387 Cr revenue in FY26; losses narrow 20%",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmlXRDhQVXh4Wmg4d1l1TlZjMkVGRVhfbzVGWURiRXhmN05oY2xUQXVxNm55Y2xiekFIM1BVOHpxQTZvWUh3b25vcDJUSlk5ZHZpaFlwRlkzQ0JGRVh2RFdTQXhKTHZiamhsTGs5MDBKMkJnVklNS0xmS2ROSS1WVGxiTlVoZVVMWXFhT1BmOW4wNFJZeDE2Nng5bHViNllneUlMMFFfRGc0cE5qZlVHOFM1ZmjSAbQBQVVfeXFMT3ZpV0Q4UFV4eFpoOHdZdU5WYzJFRkVYX281RllEYkV4ZjdOaGNsVEF1cTZueWNsYnpBSDNQVTh6cUE2b1lId29ub3AyVEpZOWR2aWhZcEZZM0NCRkVYdkRXU0F4Skx2YmpobExrOTAwSjJCZ1ZJTUtMZktkTkktVlRsYk5VaGVVTFlxYU9QZjluMDRSWXgxNjZ4OWx1YjZZZ3lJTDBRX0RnNHBOamZVRzhTNWZo?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T07:24:40+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "LEAD Group",
-   "amount": "Rs387 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs387 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "271a3d3f6c4d",
-   "title": "SoftBank churning out blockbuster returns from Indian portfolio company",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVNrTGFVNmdIbGxHS202M080TFRMRVEyVFFZQWZiVElOa0pmWWhvaElSMk9SbWFNajA5LUVkTzE5clotQTEtbzNDdkZheG9VZktkLS1wT1NPZldhUmo2ZEJqSmVORmk1RmxyNjhZNEdRS3hjbmR6QWd2RFAtYWdtR0w2dU5aalBVY084Wi1JQXdQeEFWRjBaRmFGcw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-25T07:24:01+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "SoftBank",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3fda47c81860",
@@ -2021,57 +2141,6 @@
     "people move"
    ],
    "alerted": true
-  },
-  {
-   "id": "8aecab25676b",
-   "title": "Pakistan Petition Seeks Under-16 Social Media Account Ban",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMMS1vWHpFSEZCSUJ4Q1hoWkIydzJCRGxCN2hfZlFOSUM5aWIzQThiRWtiMjZVVXVGUUFXaW5lU1BWQ2M5Q2dtWC1ETVRQMlFZUjJsQW5uNUtOamxCMzU5NnIxamR6X3VSb2hUQ3k0dmdMX185cUtxdUd5SUtTdw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T07:12:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Pakistan Petition Seeks Under-16 Social",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7c66395855f1",
-   "title": "Australia's music industry bans AI-generated tracks from official charts",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australias-music-industry-bans-ai-generated-tracks-from-official-charts/articleshow/133498503.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T07:07:48+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Australia's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6ce31e11ddb8",
-   "title": "Hyderabad police consider linking traffic fines to FASTag",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHQtdl9oVlVRLVpoeVgwak5FSWJ5emVhYnJtcmRucGFROW9IQnhHdG9kUXNfdWV1emVzVmdiNkRNMkZVSWtEMklFclhPRlV0RWFuWi15anNJOVlQV1pVOS1PV2wxVmZzbEtrODNJcTl0QVVCb3lENkNFV2VTYU9aaEJB?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T07:07:05+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hyderabad",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fc9fe9be22b1",
@@ -2130,41 +2199,6 @@
    "alerted": true
   },
   {
-   "id": "457eff1d29ea",
-   "title": "Kedaara Capital invests $200M in Tynor Orthotics",
-   "url": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics",
-   "source": "YourStory",
-   "published": "2026-08-25T06:51:12+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Kedaara Capital",
-   "amount": "$200 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$200 M"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6b04ad68f7c1",
-   "title": "AM Intelligence orders 9,000 Nvidia Vera Rubin GPUs for Hyderabad AI factory",
-   "url": "https://economictimes.indiatimes.com/tech/technology/greekos-am-intelligence-orders-9000-nvidia-vera-rubin-gpus-for-hyderabad-ai-factory/articleshow/133497787.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T06:49:38+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "AM Intelligence",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "5981e59a8a54",
    "title": "Airbound, Nexedge Capital, Akron AI bag early-stage funding",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBRNUhkdUtCSS1lMWc5XzFKSTREN0VCWE1sQVZSYlBuS0J2Nk9KNVE5RFJoWld5QW5jeUNEVFFrcmZZazQtOHVLdlFZakdGLVNMMU5hMEZfQmw5emZZbmZXWkJ0c19KbmJSN1VXRHlod0F4a0FZQndxQkJCX2ZEZG15ZHo2aXVM?oc=5",
@@ -2217,23 +2251,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "a3c97d3b14b9",
-   "title": "CarTrade, Spinny Partner for One-Click Used Car Sales",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMWY5c2pGR3paQVJma1FSXy14YlVKU19XaFo0cUNfUml2U1JpRldNRzlCdU5rdE9WNFZOQTlNY2VkazlrTERERHJjdXJSV3ZMbWMzTllWX2tmVkJ0N0xYcmZUejZZX0tLODZxRXRkdFFoS2p5Ti04SFpoY3VFUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-25T06:35:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "CarTrade Spinny Partner",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "83028cd1bbe5",
@@ -7069,24 +7086,6 @@
    "reasons": [
     "funding in headline",
     "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5b24faa44bb5",
-   "title": "Investcorp bets \u20b9500 crore on 20Cube 3PL, plans $1 billion India push",
-   "url": "https://www.livemint.com/companies/news/investcorp-invests-500-crore-in-new-logistics-bet-plans-1-billion-india-push-11787043153386.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-19T00:30:24+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "Investcorp",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "$1 billion"
    ],
    "alerted": true
   }

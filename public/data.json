@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-28T22:21:23.857703+00:00",
+ "generated_at": "2026-08-28T22:31:12.158851+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 11,
-  "fresh": 2,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -33,6 +33,23 @@
     "people move"
    ],
    "alerted": false
+  },
+  {
+   "id": "0987e974d467",
+   "title": "An Evening With Chef Vikas Khanna Raises Funds, Spirits for Leap to Shine",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDdrLUxuN0RKVU1iTG1DTU1yRXNVTnUzQnVubHRQaDVjYVRRT0l2X2F1cWRnN3l0Xy1KTnJTU3NJa2ttSU1maHNSYmxGcFI0N2ZFVU9SLVAtbUN1UlJIWWFLYVRIUlJaTHQ3cDhzZDdXWjg0b2FvWU01Y0VXQThVWUZkSGxib1hOdS1MUGZmM3ZYRC1HenNMN0dn?oc=5",
+   "source": "NRI Pulse",
+   "published": "2026-08-28T21:22:03+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "An Evening With Chef Vikas",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "48d3f61a9051",

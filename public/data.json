@@ -1,12 +1,39 @@
 {
- "generated_at": "2026-08-28T22:01:17.480147+00:00",
+ "generated_at": "2026-08-28T22:11:24.418296+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 0,
+  "fetched": 9,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "1e208e13e9f0",
+   "title": "Raise Hires Abhishek Singh As CEO To Helm New Insurtech Arm",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajZaY0JUQ0h1Tkl5UnlCaV9PbFkzbHVqdTNRRUQxQTdNNndoN1hySm5GNmFRc1k2Zkd1SUhoRUwyaE1abF9DZVVYN1YtREhaTkZ6R00wRVJ3RlBmbk95RXM4VlRRUDZ0NVJsb0ZRcVBPWGlDcF83MnBQRGJxYzdPSFF2R0ExN2hyMy1KZ3cyMnhnTVIxeHlERTAwb3Mybk83dmtFcmt1aVpkUTN0d2h3?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-28T22:00:21+00:00",
+   "score": 16,
+   "category": "other",
+   "company": "Raise Hires Abhishek Singh As",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "To Helm New",
+     "handle": null
+    },
+    {
+     "name": "Abhishek Singh As",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "05706f46ac87",
    "title": "[Update] Sandhya Devanathan Leaves Meta For New Role At OpenAI",
@@ -14,6 +41,24 @@
    "source": "Inc42",
    "published": "2026-08-28T20:24:26+00:00",
    "score": 12,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "20fc87110402",
+   "title": "- MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnE5QVdaLXBLbjhoakxvUlVVVzhCRUd6d0liT2ZuWlA4Q3pPTUU3T2tNQ3FteWlQbUdFaERMRWhQZ01iTXJsVV9KOXFHbElrSUM3MFlOLWZLZG8wQW8xUUxvQ0loMHVqUmswYk5TSkNmcjdNbF83X0VQNF9uMVgwLXZsVC11Zw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-28T20:19:48+00:00",
+   "score": 6,
    "category": "other",
    "company": "",
    "amount": "",

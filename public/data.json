@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-29T18:01:31.542587+00:00",
+ "generated_at": "2026-08-29T18:11:09.677955+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 13,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "57282d5f947c",
+   "title": "Weekly Startup News: Indian Startups Raise $218.69 Mn as AI and Deeptech Lead the Funding Rush",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUVqQ1NkVjFnckI1b0FQcldVZ28yTFJlc2lhR29KNDRhdUNfYlYyWUlBXzNNSzNCdGE4Zng1X0VVZFlmdGszUlpwd0RaTkxRNFEzaEhpbWhOa1NDcHhXNEI1UlU0cVNHNG9leGI1ckhZdGtCTUQzZmdIRmpzdkU1R2NjMFRNVE1uTXB0ZmtqanZVaXFtUGFFVnp3?oc=5",
+   "source": "TechStory",
+   "published": "2026-08-29T18:10:06+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Weekly Startup News: Indian Startups",
+   "amount": "$218.69 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$218.69 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "60b060128ddc",
    "title": "Sashidhar Jagdishan to exit HDFC Bank in October 2026: 5 key events India's largest private bank saw in 2026",

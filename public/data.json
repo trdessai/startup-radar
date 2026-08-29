@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-29T03:11:12.633714+00:00",
+ "generated_at": "2026-08-29T03:21:17.842929+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 14,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "ef24e9f2ae40",
+   "title": "Can a cheek swab screen for 7,442 genetic disorders?",
+   "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
+   "source": "YourStory",
+   "published": "2026-08-29T03:15:36+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "Can",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1aa7dea393cd",
+   "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdEJkcUU5eEd5YXlDMS1OaEhEQVpfS3dMZnZ5VmQ1YUROSkpWa09zNl9IeEpUWndxUU1Ec1F6WWEzOTNtT1Yza1FnZE5mMU9HdUk5N2ZhMklhOUhlNXJkVWpxR1FkNEUySTNKaFpFbzJQcnVXRE9ZcTNZb1VMYjJ1emZWTVZFbGQ1WnE1STE2aG5ya2lJOUJkM29uS2d3QXJ1N01YMVBMemY0R1RVTkJzNGp3R0pxUndhd0Iza1V5WjRLc3FXRHdoT1NOMmpMSGlSUjg0N0NqdXoya1NlbGVVOdIB5gFBVV95cUxQSnZ1NjlaRHJLNWVYTkZ1U3VOLWJVOUhZRDkwdnRkWGdHX0JBY3RKUmV1V0FMUTVQX0J2T1ljZ0IzQ2Z2R09scF9hc3dfLUpqY3hNc3U5UW5zdGhxQkltRXUxMFlpX085Z0xzVXVtNmgtTzlpYWhFeHZsNF90ai1aWHZTSEJ0VWlJb1A2V3hZNkVzdFpraHVxY3ZQbDdBUzZnM2NZOW9zamRHTTk0N2VTWS0xNEp3UmVfdE9zdXAzc1F4NmJucGQweTZKQlp3MTJYb0FMT2ZOVkxMdlhkTkROaHJRTmM4QQ?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-29T03:07:14+00:00",
+   "score": 69,
+   "category": "funding",
+   "company": "IndiGo Ventures",
+   "amount": "",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Series B"
+   ],
+   "alerted": true
+  },
   {
    "id": "e18cea8bc881",
    "title": "Judge in Google privacy class action awards lawyers $147 million in legal fees",
@@ -144,6 +180,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "a61466f7fbef",
+   "title": "Envista launches Kerr Consumables in India, eyes growth in restorative and endodontic dentistry",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbndrc0ZVaVQydkxZNzVsU1FhWFVWbGNMd2tvU1Zsd2d4dlJ2THYzZy1iNTE5aHZ5Nm96dFpHRWY3bmhRbmkxMkZFcjF3cXhTdHg5bVNCRERiamU2M2xVS3NwSlVoUHk2bXVua0swM2VHZ1lkak5wUmR2bk9qNzlvM1F1eWVsX0ZFWjFoNHUxcmF4VjNkRmxxZFBEZXlkX0RjVHpsV3JmTk9BVzVUR2o5VkhaUFhBYV9VUW9Fd3ZvZXVaMG9CMnpLbzRTZG9wUG5hb3FRZ9IB2wFBVV95cUxPMDBWeEYxdWI3ZFRrY25JaVVaQTNadVRBbUpSQjNBSDAxOE5hOTZMNTBHOXF1Rm1DSlBSWmtDRHg3ZldQMkoydjlCVDZ1NGxQc0JJazlyYVNDWWduNkZUUkN0WkhtOGktdHpjSEJXTGJoN3JXUUFvYkw5REtNak0yTFlPZFRVZkR3U0V0MFVJdFRWc0x3NGl1eG1wQkF2RHFpc0tqekhPTzdqOUdhWENJU2VIUGtndHQtNlBsTXlkWXhWNnNZTUx1Wl8tOFRLdlgzZkFvbktIYXNyd0k?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-29T01:56:33+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Envista",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "9ae583f45ba6",

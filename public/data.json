@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-29T08:31:49.982106+00:00",
+ "generated_at": "2026-08-29T08:41:19.318595+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 21,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "9038d2faa33f",
+   "title": "Ather Launches Konarc Escooter At \u20b999,999, Offers Up To 200 Km Range",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjV2SDVUMkk2SXNnQWJFaEdmUk8zdWwwUXFYMl95aWt5b0g5d0NpcU01dThwd1BqRXh0MVZwREtiSWswdFYwb2kxS010QjF0cFozQ2VQX3pUMVlfNnp1RWJtM25faHg0aWtObEwzLWdyZXh3S280bF9hS01qR3ZuWjZuSndvYmFsQzJ3ZkhMLWdCcldEM0h6OEFISHdhbW8?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-29T08:33:06+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Ather",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "764bef24286b",
    "title": "Product Launch: Ather New Konarc Electric Vehicle Promises Extended Battery Range to Rival Ola and TVS Models",
@@ -102,6 +119,23 @@
    "score": 68,
    "category": "launch",
    "company": "Odette",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e17668f8482c",
+   "title": "Apple launches new 'Mac mini' and 'Studio' with AI capabilities: AI agents can work 24 hours on desktops, r...",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzhJSjlRM3NmNEhmTGtrNnlWMFppMFlTa3QwTlVQUnpZMUlKUWFFY212dDBoUkoyN0hORWVSeThKVElHd0FLTkJ6cVU4NTMtQ2EwWGRNQ29IVG1sWHNKTHVLeFpZV0haS1Q5dFBNNFhMWUFSTUJiOXQzNU9pOWF4WDM3a01BSjBNRDdENXJuaGRYSDlZcGI5eDc1M2JGX1NCNHV6M0l6RUxRbGVJUTlQeEpUcUlyby1seHBobHd5R2zSAcABQVVfeXFMTlc4SUo5UTNzZjRIZkxrazZ5VjBaaTBZU2t0ME5VUFJ6WTFJSlFhRWNtdnQwaFJKMjdITkVlUnk4SlRJR3dBS05CenFVODUzLUNhMFhkTUNvSFRtbFhzSkx1S3haWVdIWktUOXRQTTRYTFlBUk1CYjl0MzVPaTlheFgzN2tNQUowTUQ3RDVybmhkWEg5WXBiOXg3NTNiRl9TQjR1ejNJekVMUWxlSVE5UHhKVHFJcm8tbHhwaGx3eUds?oc=5",
+   "source": "Bhaskar English",
+   "published": "2026-08-29T06:40:53+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Apple",
    "amount": "",
    "stage": "",
    "founders": [],

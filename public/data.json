@@ -1,12 +1,35 @@
 {
- "generated_at": "2026-08-29T08:51:35.395547+00:00",
+ "generated_at": "2026-08-29T09:01:39.064956+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 3,
-  "fresh": 0,
+  "fetched": 23,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a4220aeb0d0c",
+   "title": "Fintech unicorn Raise Financial appoints former Upstox executive Abhishek Singh as Pluto Insurance CEO",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDZ4bHhjNlUxd3lnOW5FRTBpTUJ1Q3Yydkd5UmRVOEVTNHp4OVZmZ0NfNVMxUEJKMEVWQ2FZRTJkM09YV3p3ZjVKUmQtXzFQUnFmbjR0NmpqcC1QaEVRcERTV2k2cmdmX2VFaVJvc0VlRExkNFZteEFzTTdrVW56a0ZZZFVhLVE0QXhMT1Y1OE5RU1FEcVBaaUd6RFBqekJUc196c01TWE84RVd2aGNzY1pnQ0dENG03TEh1c1I3Z2RQVEg1akpQdEgyZW5aQXlzOGR4OFRRRjV0Q21SU2JZ0gHfAUFVX3lxTE1UNnhseGM2VTF3eWc5bkVFMGlNQnVDdjJ2R3lSZFU4RVM0eng5VmZnQ181UzFQQkowRVZDYVlFMmQzT1hXendmNUpSZC1fMVBScWZuNHQ2ampwLVBoRVFwRFNXaTZyZ2ZfZUVpUm9zRWVETGQ0Vm14QXNNN2tVbnprRllkVWEtUTRBeExPVjU4TlFTUURxUFppR3pEUGp6QlRzX3pzTVNYTzhFV3ZoY3NjWmdDR0Q0bTdMSHVzUjdnZFBUSDVqSlB0SDJlblpBeXM4ZHg4VFFGNXRDbVJTYlk?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-29T08:49:26+00:00",
+   "score": 16,
+   "category": "other",
+   "company": "Raise Financial",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Pluto Insurance",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "9038d2faa33f",
    "title": "Ather Launches Konarc Escooter At \u20b999,999, Offers Up To 200 Km Range",
@@ -6223,24 +6246,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "87d40f275837",
-   "title": "EV Manufacturer Omega Seiki Raises Additional \u20b950 Cr To Accelerate International Expansion",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkt4dW16WHlQUUFJWnA2UTZURGVzNnN2LUVhSC1LVUJQbl9FQzFmNEtub2dPVFRoeldJVmxfRHhrVGEtYWpnNXA3M0pBNmJYR2I0WUFLTEpLSFYya0FRUnZHQ2c1ejhvSWRmdmhDUnJiekR0T2M2a203UGpxRU1wNzhfOUU2TFBLa3ZhQWpSM3hiYVBNUDQwRWtGZWxNbUVqRGxxNFdLMG0tUVZFSDZUeURxbFlwWW5CM1pLMmduUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-22T08:56:05+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "EV Manufacturer Omega Seiki",
-   "amount": "\u20b950 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b950 Cr"
    ],
    "alerted": true
   }

@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-29T04:21:39.312535+00:00",
+ "generated_at": "2026-08-29T04:31:41.151788+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
-  "fresh": 1,
+  "fetched": 27,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "a82d460c3edb",
+   "title": "Jio Platforms secures Sebi nod for India\u2019s biggest $3.8B IPO",
+   "url": "https://yourstory.com/2026/08/jio-platforms-gets-sebi-nod-for-38-bn-ipo-set-to-be-indias-biggest",
+   "source": "YourStory",
+   "published": "2026-08-29T04:22:40+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Jio Platforms",
+   "amount": "$137 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$137 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3f81960b9d04",
+   "title": "Veeba\u2019s New Heritage Range Takes Regional Indian Chutney Flavours to Modern Consumers",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGFFTVduc3RQV3dXLTBXRTY5NEFlTDQtU1ZFSTc4MFVGbS13R0hidlRUbFVkSGhxLXJyNWtqYWd4eGZ3RXRwRXNwTHFBVXRiYm1qOHQyY3NZZzVsQ0V4bHp0WlJHT2VRSmpUa0dFblJqeDBwUFVTZWIzSnVFdlhOVGdzbThCM2dRcUdaQzdIS2hPbUpCSkVSNXE1dkpGcnNkQXJVd2JHTXU3eFZ2SHBOTEZnaw?oc=5",
+   "source": "MediaNews4U",
+   "published": "2026-08-29T04:22:09+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Veeba\u2019s New Heritage Range Takes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "79a6b8e3be25",
    "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",

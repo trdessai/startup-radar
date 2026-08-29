@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-29T07:31:19.731068+00:00",
+ "generated_at": "2026-08-29T07:41:20.171954+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 24,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "a870285a7d85",
+   "title": "TCS employees get 50-70% variable in Q1",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-employees-get-50-70-variable-in-q1/articleshow/133606929.cms",
+   "source": "ET Tech",
+   "published": "2026-08-29T07:30:21+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "TCS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "ba27c57732c1",
    "title": "Hero MotoCorp raises stake in Ather Energy to 32.8% in Rs 1,758 crore deal",

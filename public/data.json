@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-29T12:31:31.281347+00:00",
+ "generated_at": "2026-08-29T12:41:12.975046+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 40,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 42,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -167,6 +167,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "adc7bbcd031e",
+   "title": "Why Is Aman Gupta\u2019s Boat Failing? - Indian Startups News 307 Norcross High School (AivlqZw2B3)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IRU41eWl0ZTFoemdjcE16TFpNeUJBU2Z3UWhDbXRIT0FwZHloQ2RjcXkwRFRYQktxNk9xOGUtbWtjRl9JOGxZMVV1MVN2c0dXQVVHNDZ4UEl2SEo1Z09Ecg?oc=5",
+   "source": "Mshale",
+   "published": "2026-08-29T11:18:42+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Why Is Aman Gupta\u2019s Boat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "b22be9189110",
@@ -6454,23 +6471,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7301cce46bf6",
-   "title": "India announces unanimous adoption of 'Chennai Declaration' at BRICS meet",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2R6RV9OTVMwbzhDLVdrNWpQOUxPS29VRWZ0WVpJQmtjMHZ6QjZrWTZMRk9ncEk0SEV0N3ZZUkxxZEZQYU9XelVxQzQxT0NvY1pPZkRGeHgwUGxWekpBSDEyMG5SSXNvajBKUlRRZ0piOE92NnozMmU1TmxPVnZ4dEd2Q0NEaFVPWGtxYVNJRVhCRzBKSUdCenJiLXI4UVlyZmxrRUtSbFpuRjgyc1dPc1R4Qk5wVFFtd2xJRg?oc=5",
-   "source": "Investment Guru India",
-   "published": "2026-08-22T12:40:34+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
    ],
    "alerted": true
   }

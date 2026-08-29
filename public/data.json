@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-29T14:02:14.535669+00:00",
+ "generated_at": "2026-08-29T14:11:26.980773+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
+  "fetched": 37,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
   {
@@ -148,6 +148,23 @@
     "funding"
    ],
    "alerted": true
+  },
+  {
+   "id": "cb56994b2de2",
+   "title": "India\u2019s pet project is getting serious",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2VxYm5zVjNVUnM3Y19hS0lXOGJjQ3ItX1ZnMEFOa3lzQnFZaUwzUnVMSVZSNERzaDAzUkxxZThsSzlQVmZFQm52V1ByWGFvMGs3akxEUkhLSWk3cGhmb256elBVT0tWWFlUY0NSSEdRRjNqelplTjdLdHZKS2MwSGd0SzZmWEY4SjVlRnRfVEhsSmZfQWZIOTBEWVJnbllSSTJqZEozMkhybjVHTGl5ekVaMNIBuAFBVV95cUxPcXhTdzlOTnNyTTJOYU1ka2dEWTdfZW0wSVh6Mnd3bzlmbHF6eEFiekhZeFc1WkExajZ2T0tFR0cyeEtvYVNyZEJ5MlJoeEM2QzdaaHR1MnRESWJoOTY2bWZNcXcydFQtblZQeWZzS2RKY290OTh5WDNQdGwyOHMxSVVyQXR4U1NpNUJvTkY2S3pIa3JMakltZUNWSS1Vc3pGV01ZYWYySERLV0JLdUhrNEZkTXRkTG5Y?oc=5",
+   "source": "ET Entrepreneur",
+   "published": "2026-08-29T11:54:08+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "6d54c03d6b25",
@@ -6520,25 +6537,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cf70169940fd",
-   "title": "Raana Semiconductors In Talks To Raise \u20b9100 Cr For Silicon-Growth Equipment",
-   "url": "https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/",
-   "source": "Inc42",
-   "published": "2026-08-22T14:08:11+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Raana Semiconductors In Talks To",
-   "amount": "\u20b9100 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "\u20b9100 Cr",
-    "Series A"
    ],
    "alerted": true
   }

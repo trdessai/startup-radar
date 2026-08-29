@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-08-29T11:41:10.569156+00:00",
+ "generated_at": "2026-08-29T11:50:56.972181+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 1,
+  "fetched": 36,
+  "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "5046bfd74f74",
+   "title": "Deeptech startup Edgeverse raises Rs 3 crore in funding from GVFL",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzFmSVNCMW1YbTFaVExXd3J0RE9rb2htbXlXUkg4VVh1YmphcmZZT1drdGQySlJNTmljMkN4cDNGSjFLYXFCY280a18zZ2Nnb3lhb05BeVUzRVUwcFIzRVNLWmRhTzVQMmVBUFJfVTdjNmJsR19sQjlyQnZtelI1a01hajd1NXNMdHpQdjhla2NsR2JhYnBFeHBYVXdXc2U3SU9uMm11YUM0REt6MFN0SU530gGyAUFVX3lxTFBHMWZJU0IxbVhtMVpUTFd3cnRET2tvaG1teVdSSDhVWHViamFyZllPV2t0ZDJKUk1OaWMyQ3hwM0ZKMUthcUJjbzRrXzNnY2dveWFvTkF5VTNFVTBwUjNFU0taZGFPNVAyZUFQUl9VN2M2YmxHX2xCOXJCdm16UjVrTWFqN3U1c0x0elB2OGVrY2xHYmFicEV4cFhVd1dzZTdJT24ybXVhQzRES3owU3RJTnc?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-29T11:40:21+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "Edgeverse",
+   "amount": "Rs3 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs3 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f3a2772d26ca",
+   "title": "Meta\u2019s $18 Bn Settlement: Why Should Teen Safety Stop At The US Border?",
+   "url": "https://inc42.com/features/metas-18-bn-settlement-why-should-teen-safety-stop-at-the-us-border/",
+   "source": "Inc42",
+   "published": "2026-08-29T11:40:07+00:00",
+   "score": 35,
+   "category": "other",
+   "company": "Meta\u2019s",
+   "amount": "$18 Bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$18 Bn",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "5617619a00e5",
    "title": "Bangladeshi startup launches free AI platform to provide info on h",

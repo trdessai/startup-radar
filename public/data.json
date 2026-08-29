@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-29T05:02:05.212866+00:00",
+ "generated_at": "2026-08-29T05:11:27.625185+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "9f29a1bd310e",
+   "title": "Gnani AI Launches Sovereign AI Stack With 30B-Parameter Model and AI Agents",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1AwSGFsME9WMC1KdWY2MHZzbGZPM1ZHMGZ3U1NoS0RmclRFOE5ZUV8zc1lkbzZJTE1aa1h2U25lVkVod19ySVJmOWxhN2U3Vk1NM0xOdE94T2NicF9zNVk5a2NoV0dwUnJ2ZjNMUzQ1MW1sQzZkTGluNTZ3ZHdsRzZodjJjTWNrem84QkI1bUNUYkd2S0FvRFRkRTJuRXNUWEVkcmxTS21KdHF1bjNZX0xYcw?oc=5",
+   "source": "analyticsindiamag.com",
+   "published": "2026-08-29T05:00:52+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Gnani AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e28094339462",
    "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
@@ -76,6 +93,23 @@
     "$1.1 billion"
    ],
    "alerted": true
+  },
+  {
+   "id": "f37cde55023d",
+   "title": "Webgensis Key People 2026 \u2013 Founders, CEO & CXOs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KZk9wVEptT01ZWTVydDduOTl1aE5OQzJJUnY1NTNwTTNSNWRHTVpweHp0UkxuX29Qd3B2RkdKNEYxZ3BRNnJlNzhONzZhd0E0OFl4OThR?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-29T03:31:19+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Webgensis Key People",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "867007891322",

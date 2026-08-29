@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-08-29T02:41:27.261733+00:00",
+ "generated_at": "2026-08-29T02:51:02.593789+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
+  "fetched": 11,
   "fresh": 4,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "e18cea8bc881",
+   "title": "Judge in Google privacy class action awards lawyers $147 million in legal fees",
+   "url": "https://economictimes.indiatimes.com/tech/technology/judge-in-google-privacy-class-action-awards-lawyers-147-million-in-legal-fees/articleshow/133602660.cms",
+   "source": "ET Tech",
+   "published": "2026-08-29T02:48:07+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Judge",
+   "amount": "$147 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$147 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c0d47df48880",
+   "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+   "url": "https://economictimes.indiatimes.com/tech/technology/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/articleshow/133602615.cms",
+   "source": "ET Tech",
+   "published": "2026-08-29T02:45:19+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Taiwan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "56c827c7e94b",
+   "title": "Pinterest finance chief Julia Donnelly to step down in October",
+   "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-finance-chief-julia-donnelly-to-step-down-in-october/articleshow/133602502.cms",
+   "source": "ET Tech",
+   "published": "2026-08-29T02:33:34+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Pinterest",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "c413523b22ee",
    "title": "Why logistics AI is becoming the bext big bet for investors",
@@ -67,6 +120,23 @@
    "score": 25,
    "category": "other",
    "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8230fe300d57",
+   "title": "\u2018Get over your X, the bird is back.\u2019 Virginia startup creates Twitter.now",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdkN2UEdqOEl6dVNuMjk0cGhBajdsbW43VmdnWHhhUDdrNVh6VGRYVENzSmdNN2VNbjdTLTVPNUx1eFVtMU8wYWNvdmVCZ0dndVB3ZHlZMHpjdnZOMTBtYnZaSlltX0llM3pzNjVOTXVCb3BqVGJWb2ZZcUZmZ9IBgwFBVV95cUxPLVJTalhFTUdYZ2lJdHpBWDhiXzFMV0cyRVY0enExQ0hfZjg2bU1lRkFGZy13ODJvLW1uMEl3UzB1OFN5TUJxMVc2cXFYYXNFekNkSUJ1QkEzNWRPdTNkR243OWRiM090Sm1iM09sWjNfTG5KUU5QYk1vWi16QTZ4Q01EWQ?oc=5",
+   "source": "ThePrint",
+   "published": "2026-08-29T02:05:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Get",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-29T04:11:06.211321+00:00",
+ "generated_at": "2026-08-29T04:21:39.312535+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
+  "fetched": 24,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "79a6b8e3be25",
+   "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
+   "source": "ET Tech",
+   "published": "2026-08-29T04:06:57+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Andreessen Horowitz",
+   "amount": "$1.1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.1 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "867007891322",
    "title": "From Third Wave Coffee To MATTER \u2014 Indian Startups Raised Over $210 Mn This Week",

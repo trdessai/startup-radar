@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-29T10:31:09.713535+00:00",
+ "generated_at": "2026-08-29T10:41:07.054877+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 34,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "a67a1d42b801",
+   "title": "Acquire knowledge, question injustice through constitutional means, bring change democratically: Rajnath Singh to youth",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb21ud1ptTlZMMThnbGt0SUQxTTZ1WkhhZ2ExSnJZak84Q2tZSVQ3dFRnZHlOb1VPc0NNa2VJZXkxc2FCdEpxenVyYVNrSVFNVXZuOHppY1ZtSzU1TlJOUjJqMjJDQmNhZG9IUkVFQWQ0Q1lMeHU4UXZfTWJjNDJ1cHpPcnRGNm5hUDF0UmRrRHh5d3lkLVIwVlI0b09GS29fM1F2SVlqdVluSnduQUtuLTJTMlhXU053aE5LU0RtaTNsdHpmLUNGOTZoYXBjQTYyQmt4UTBaR2tKa0w2eVNIbw?oc=5",
+   "source": "DD India",
+   "published": "2026-08-29T10:27:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Acquire",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ce1f3a99fea",
+   "title": "IIT Madras Global launches \u2018Bharat Ascend\u2019 to build next generation of innovators and entrepreneurs",
+   "url": "https://yourstory.com/2026/08/iit-madras-global-bharat-ascend-build-next-gen-innovators-entrepreneurs",
+   "source": "YourStory",
+   "published": "2026-08-29T10:26:59+00:00",
+   "score": 76,
+   "category": "launch",
+   "company": "IIT Madras Global",
+   "amount": "",
+   "stage": "Bridge",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Bridge"
+   ],
+   "alerted": true
+  },
   {
    "id": "8dab94213eeb",
    "title": "Purple Style Labs raises Rs 306 Cr from anchor investors ahead of IPO",
@@ -201,6 +236,23 @@
    "founders": [],
    "reasons": [
     "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "23c393cfeb0a",
+   "title": "Ather launches Konarc electric scooter starting at Rs 99,999; targets mass-market buyers",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNekJOYU9ZdURaNkktRW9jUXMzM0NiY0NtNEtVV3lCTVlfUUpDMDlpRlZOU0pKdENTZWlNLTBmQkZVa0dCMUtyZkNITzNZSkQ1dVhsdVpTN3hnNld2VmNaS0RORW9FcGV2VUsybjR5aFN0QlN6cmxKcW9HTmk1N0V1dlJFdHR3TTJ6LVl6dERhQkJJYW1ZWV9Fdm14VmFoNS1zd24xVHBja2pzZ1ZCcEdOUF9yUi1hZ0tlam1zaWVPR0daLTUyQ05Ldjl5RC1YcEVHV0Z6bE16bzJSR1o3N0Fsdmg4bndCZVF6Y0twWNIB7AFBVV95cUxNekJOYU9ZdURaNkktRW9jUXMzM0NiY0NtNEtVV3lCTVlfUUpDMDlpRlZOU0pKdENTZWlNLTBmQkZVa0dCMUtyZkNITzNZSkQ1dVhsdVpTN3hnNld2VmNaS0RORW9FcGV2VUsybjR5aFN0QlN6cmxKcW9HTmk1N0V1dlJFdHR3TTJ6LVl6dERhQkJJYW1ZWV9Fdm14VmFoNS1zd24xVHBja2pzZ1ZCcEdOUF9yUi1hZ0tlam1zaWVPR0daLTUyQ05Ldjl5RC1YcEVHV0Z6bE16bzJSR1o3N0Fsdmg4bndCZVF6Y0twWA?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-08-29T06:55:51+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Ather",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-29T07:21:15.401755+00:00",
+ "generated_at": "2026-08-29T07:31:19.731068+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 1,
+  "fetched": 25,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "ba27c57732c1",
+   "title": "Hero MotoCorp raises stake in Ather Energy to 32.8% in Rs 1,758 crore deal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVlJcWN2aVpWdXUzZzVMOGFBQmtyLTdPSUtlQld2VkdObUhlZXl6N1FQeXdsX19RUExLVlBLVjZyZVdQdmlnMGhicVpvQTliMjB3aEFsODFwT3RWd0doVTdJeU0yTEk0QVFjSjhIbmdKUmQzQUJBdTFHSWZEWENxSTJaSmgtdWlJRGtJY0pOdHp1a2RnR0pfNDNBNnBORmJHT3RPVHRUeGFVYWhRNV9Cblc2akl6QdIBtgFBVV95cUxOUVlJcWN2aVpWdXUzZzVMOGFBQmtyLTdPSUtlQld2VkdObUhlZXl6N1FQeXdsX19RUExLVlBLVjZyZVdQdmlnMGhicVpvQTliMjB3aEFsODFwT3RWd0doVTdJeU0yTEk0QVFjSjhIbmdKUmQzQUJBdTFHSWZEWENxSTJaSmgtdWlJRGtJY0pOdHp1a2RnR0pfNDNBNnBORmJHT3RPVHRUeGFVYWhRNV9Cblc2akl6QQ?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-08-29T07:22:47+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Hero MotoCorp",
+   "amount": "Rs1,758 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs1,758 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "8714c27aa76a",
    "title": "India AI funding hits second gear",
@@ -146,6 +164,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "ab9f7deabbd4",
+   "title": "5 Numbers That Defined India\u2019s Tech Week",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmxacUEwaW0xY0swcHo5RHMyY2VITExPc3oxZzZLOWEtUjRZWEhySjRDSTJtNm41aHBWcGFUMUdyVkY1b0NOQmdYRnBBNDVPWDVzOXV2alJGdlhqekYtclRTZ2oxblB4N1hZUVUxaHlxM3pTX3JGeUhjSWxmazZINVRMdk5qOWVQSG1Va0RyVnA3Q2tBQ0RGaNIBmAFBVV95cUxPNmxacUEwaW0xY0swcHo5RHMyY2VITExPc3oxZzZLOWEtUjRZWEhySjRDSTJtNm41aHBWcGFUMUdyVkY1b0NOQmdYRnBBNDVPWDVzOXV2alJGdlhqekYtclRTZ2oxblB4N1hZUVUxaHlxM3pTX3JGeUhjSWxmazZINVRMdk5qOWVQSG1Va0RyVnA3Q2tBQ0RGaA?oc=5",
+   "source": "ciol.com",
+   "published": "2026-08-29T04:48:55+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "e28094339462",

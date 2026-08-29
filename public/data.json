@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-29T10:11:14.901279+00:00",
+ "generated_at": "2026-08-29T10:21:25.591895+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 36,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8dab94213eeb",
+   "title": "Purple Style Labs raises Rs 306 Cr from anchor investors ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVS1BUlJzYWlhbVNKSnU3cXppZUNDUGlJN24xNVpjZkV4MXR4eERHVVRPNWVZb1padkw2bUViamNuSldEVkVnSTZEakM3ZlprajgxcENmM1NtQ1dyeWV3TlpZSnZmdFZ0U2Rkd2tIQUNXUDVMUVozX0RpdnlwUl9lQktibFJfems4SnAxZ1BkcURQZFVaQ3pJM1VMUFFHVzNoWGxUTk55ONIBpwFBVV95cUxOVS1BUlJzYWlhbVNKSnU3cXppZUNDUGlJN24xNVpjZkV4MXR4eERHVVRPNWVZb1padkw2bUViamNuSldEVkVnSTZEakM3ZlprajgxcENmM1NtQ1dyeWV3TlpZSnZmdFZ0U2Rkd2tIQUNXUDVMUVozX0RpdnlwUl9lQktibFJfems4SnAxZ1BkcURQZFVaQ3pJM1VMUFFHVzNoWGxUTk55OA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-29T10:17:50+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Purple Style Labs",
+   "amount": "Rs306 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs306 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "f6d97fa066c4",
    "title": "Purple Style Labs raises Rs 306 crore from anchor investors; Rs 680 crore IPO opens August 31",
@@ -6229,25 +6247,6 @@
    "reasons": [
     "funding in headline",
     "Rs3 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "48808a1a945a",
-   "title": "D2C Brand Be Clinical Bags \u20b921 Cr To Double Down On Clinical Skincare",
-   "url": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/",
-   "source": "Inc42",
-   "published": "2026-08-22T10:16:08+00:00",
-   "score": 93,
-   "category": "funding",
-   "company": "Brand Be Clinical",
-   "amount": "\u20b921 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b921 Cr",
-    "Seed"
    ],
    "alerted": true
   }

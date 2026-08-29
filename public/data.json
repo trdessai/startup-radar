@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-29T05:21:26.751653+00:00",
+ "generated_at": "2026-08-29T05:31:16.926379+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 31,
+  "fetched": 33,
   "fresh": 1,
   "alerted": 0
  },
@@ -111,6 +111,23 @@
     "$1.1 billion"
    ],
    "alerted": true
+  },
+  {
+   "id": "221fcff1b2a6",
+   "title": "DataLabs by Inc42",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzAtdC1qMGU1T0FGTi15SDdCa1dPT3ZXY1cwU3UwckRvWWRQQ1NnNFJQRHZRd2VOTW9QZjhzcUw5Nk45V0VMeWlGbUl4bWprUlJLYUlhVnZFUXBEVUtlcVFQWXVVMW9JNVA4bWhWYkthWEtUMml3NUFmSWZRMnpWalFjcnhpNUU1MTQxMURkVzh4eHc4WWNsM0o1SmFkdWpyNDBDVXVGU2llbUVkNW9wUWM1UF9pbFdRU256NnY3OFRtWlExckRZYjBYUEZ0Q3V2RTFJcWtRaHBfV1hCTWh2TDNaWDU?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-29T03:53:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "DataLabs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "f37cde55023d",

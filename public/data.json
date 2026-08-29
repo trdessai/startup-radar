@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-08-29T13:01:22.351956+00:00",
+ "generated_at": "2026-08-29T13:11:15.705833+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 44,
-  "fresh": 1,
+  "fetched": 42,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a28d3840dc80",
+   "title": "AADYAH Aerospace: The Bengaluru Startup Building the Parts That Steer India\u2019s Rockets",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3U4N1BfV3k2d2hyLVQ2U1lodTRuTFRhdV8zMGdWWGZHQ0NTbURSaW5ZYVdUWHBkT0dRM3JPVHlEdVA1VWRWVE5DVmZrVlo4anNzcVh5Q1g2ZWtpcHJRSDdCOUFEWHk4T0Y5bmdqQmhEZExVa0VkRVVoRms3S2dkRmN1YnN1ckNzOXE5M1ZGdnpSd1JnQmJoalEyYUh3YzVmTmp5bm1OQ1VVLUJCMHVjcW9HRjZVaTQ?oc=5",
+   "source": "OfficeChai",
+   "published": "2026-08-29T12:59:42+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "AADYAH Aerospace: The Bengaluru Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "41c399463bb3",
+   "title": "New-Age Tech Stocks See Mixed Week; Ather Rallies 10%, Shiprocket Falls 9%",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2laYklmd1dyVEZXcTBpZWZvSXExb19HNWJMbzdmLU40RFJweGZYRHVadlJuV2dscXhQVzBXeXpyaGhGUUZmTjVDeS1JU0RVbHRKd1EtM3JRdkZqV3ctRnN5YVVwclNiNFRNVF96WDBFR015TjVYal9oRWcwTVMybUdDalFCZnJVdjN1XzRSdlE5dkdjbDE2dDBB?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-29T12:59:30+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "New-Age Tech Stocks See Mixed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c6553584c19e",
    "title": "Meta\u2019s teen-safety settlement is being called accountability. Experts say consent still isn\u2019t",
@@ -6471,23 +6505,6 @@
     "funding in headline",
     "$469 million",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6902f9be0bd9",
-   "title": "MC2+ Ignite launched at IIT Madras to accelerate India\u2019s deep-tech & energy startups",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdE00Ul8tVThfY0lTTFFtM1VFcEh0SlozNWpYeXFrS3hvNUZwcmJGcnd1VHVLeWdJVWR6MkFpWm1OOFhyX3plVXpOdjVUYzF3cllRLXpQMElmSlZzWWpJcDBtMGV1bkZ4aW92TEpmQ29lUTZkUGVySFpIRFZEeVpTeHJTMGo4SzRmUENOSDdFRzhkMHRic2pYeWY4VFlKYTB5UzBXMXlmS1dkNi0yMHlnaGVrNGNQY3M0R0tudGlOaGU1UdIByAFBVV95cUxNQ3pmZ0tadnVKdjBsTkxqaFU0Umx5d0ZzYncwbkZSZmNDTl9ycTBjSlJxRWNadHA5bTh1dnFuNEIxNjllSk9saDVLRUZwMzBzVFE2c0NIVm8xQjJOcENCYngtcnFUZ2Nud0dsVi1BWUJBRGlHX2laQlA1WXhaVkZpdXRYbjF5dFBLaHhQeDJSZjhuZW9YWkxyNEhPd1RDbnUyOC1jV3BvMDZVMDdDU3ZjRHUwZEI2XzdKUTF0T0w1WU14OU9XZC1Odw?oc=5",
-   "source": "Indian Chemical News",
-   "published": "2026-08-22T13:09:21+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "MC2+ Ignite",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

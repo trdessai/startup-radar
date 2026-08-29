@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-29T04:01:18.205339+00:00",
+ "generated_at": "2026-08-29T04:11:06.211321+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 0,
+  "fetched": 23,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -60,6 +60,24 @@
     "Series B"
    ],
    "alerted": true
+  },
+  {
+   "id": "0b1db31dc953",
+   "title": "SEBI approves Jio Platforms' $3.8 bn IPO",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xYl82RDJBWG5raDdXS21lcEFRaHAtSGp2NlpfMDIya3kxaU1EWV9pOTNNNlJzQ2NJYnRORFlPY0dPVW5fRHZjQzUtblVBZ0VlU3lSMVpYbWxGVVRsNlE3ZE1jUXpaU0tpODJMRGFJR2pmcDZlUlhV?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-29T03:05:47+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "SEBI",
+   "amount": "$3.8 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$3.8 bn"
+   ],
+   "alerted": false
   },
   {
    "id": "e18cea8bc881",

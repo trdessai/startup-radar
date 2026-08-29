@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-29T13:51:50.633145+00:00",
+ "generated_at": "2026-08-29T14:02:14.535669+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 36,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "5ea58de4c56b",
+   "title": "Ola Electric Secures Centre\u2019s \u20b995.81 Cr Incentive Under PLI-Auto Scheme",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BkRFhBSlFJSUFEVnRUMjh3MEVJMDdRUEZla0M4NXJxajhyeThtb3dsUzd3WDNPbEM3X3h6bUZIdWNUT3ozc0tVTm03RGdxUHZYMi1pS296cWRiTTdVOG53bXloNXJ6SW5EaDdidl81c3ZfTVZzRDlEVXRtQk5HbDZscERySXlMREpWcmJBejFKM25PN1FUZll3Sk0wTFhBX1hJSQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-29T13:53:36+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Ola Electric",
+   "amount": "\u20b995.81 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b995.81 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "a28d3840dc80",
    "title": "AADYAH Aerospace: The Bengaluru Startup Building the Parts That Steer India\u2019s Rockets",
@@ -6521,25 +6539,6 @@
     "funding",
     "\u20b9100 Cr",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6b492d363a56",
-   "title": "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbkVsUjNZYUFQVGRNZnZ6RG9ZYm0xSGp6VDNqX0JCQ1BGY2o5d3VpcUhRdUYzaG9uV2JRUHVNQmpNLU9lS1RzVTNOaWNPS1E0c1FZOTROR09tZTlSdW51RWhsamE2WUNUQ0tpb0x2LVp6VklNTDdGQzM3MDRDcHp3Mzh2eWRzeVVqRUstNDJxMXZnX3VsTWFsc2xCVk45STlSNEtMTXhra1diMFRLVDdmUFBvbWZSempUcmx3S1hBTjF5dFVENlpoaWJhckR2aUpicjltRVl1WkduVXFQ?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-22T13:54:42+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$469 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$469 million",
-    "no company named"
    ],
    "alerted": true
   }

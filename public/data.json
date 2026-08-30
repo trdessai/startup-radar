@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-08-30T10:11:20.514165+00:00",
+ "generated_at": "2026-08-30T10:21:21.364875+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
+  "fetched": 20,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "1550c2c9c73f",
+   "title": "Online grocery venture Satvacart shuts down after 12-year run",
+   "url": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run",
+   "source": "YourStory",
+   "published": "2026-08-30T10:14:58+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "Online",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Rahul Saxena",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
   {
    "id": "42b863488768",
    "title": "How a Bengaluru teen turned a lockdown drone project into a $37 million startup",

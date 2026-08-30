@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-30T11:01:09.660469+00:00",
+ "generated_at": "2026-08-30T11:11:20.039056+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
+  "fetched": 13,
   "fresh": 0,
   "alerted": 0
  },
@@ -6902,24 +6902,6 @@
    "reasons": [
     "launch in headline",
     "\u20b995,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fe4f651a467e",
-   "title": "Alibaba proposes $10 billion share placement to fund global AI drive",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-proposes-10-billion-share-placement-to-fund-global-ai-drive/articleshow/133438523.cms",
-   "source": "ET Tech",
-   "published": "2026-08-23T11:08:01+00:00",
-   "score": 65,
-   "category": "expansion",
-   "company": "Alibaba",
-   "amount": "$10 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "$10 billion"
    ],
    "alerted": true
   }

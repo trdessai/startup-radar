@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-30T16:21:21.741479+00:00",
+ "generated_at": "2026-08-30T16:31:28.164688+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 7,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "2260ccd782fe",
+   "title": "Guv launches Shaheed Bhagat Singh Youth Facilitation Centre",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjlSQVJFY3pPR1Q5X2FPckoyNXVBYVZGQWZPSXNnWWpuSFJIUTBwWG1Cd3ZVLUp0RnlSdW9iVjNTUnVpVEJlaUZ1enF5WGVZWEF0TW9mUU90NnFuSERIY2gyZnZNVmhMNlc1ZlhpSkpiUVN0QXA3US00QVhlblpURHRha19Ec1ZWaHBnUERkcDRiVVJScWw3b0hIQzZJX0R0dURzMVJZR0JEa1BvSDJoZEZCNUp6d051Y25aWXNTT3dQc2JmZlHSAcYBQVVfeXFMUEI5UkFSRWN6T0dUOV9hT3JKMjV1QWFWRkFmT0lzZ1lqbkhSSFEwcFhtQnd2VS1KdEZ5UnVvYlYzU1J1aVRCZWlGdXpxeVhlWVhBdE1vZlFPdDZxbkhESGNoMmZ2TVZoTDZXNWZYaUpKYlFTdEFwN1EtNEFYZW5aVER0YWtfRHNWVmhwZ1BEZHA0YlVSUnFsN29ISEM2SV9EdHVEczFSWUdCRGtQb0gyaGRGQjVKendOdWNuWllzU093UHNiZmZR?oc=5",
+   "source": "The Tribune",
+   "published": "2026-08-30T16:25:26+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Guv",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "74766ef31bca",
    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
@@ -4667,23 +4684,6 @@
     "acquisition"
    ],
    "alerted": true
-  },
-  {
-   "id": "0c410a25b944",
-   "title": "The Ecommerce Squeeze, Supertails Chases Profits & More",
-   "url": "https://inc42.com/buzz/the-ecommerce-squeeze-supertails-chases-profits-more/",
-   "source": "Inc42",
-   "published": "2026-08-26T02:30:58+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "The Ecommerce Squeeze Supertails Chases",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f95559844e5e",

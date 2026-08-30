@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-30T17:31:08.193152+00:00",
+ "generated_at": "2026-08-30T17:40:55.982295+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 6,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8dac241b05c9",
+   "title": "HDFC Bank faces governance test as CEO exit raises questions",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3hRc1NUQms5SjR2NjdPdGhWMTExSFMzcktfZXFWbmxCVWc1LUF2ZmxxdUNad252X2xkT1Vna3RjVUtab0pGTEs2Vjhfcm1SbE0yck1EYWkxcEI5YXBhNlNiMXd3OS1Halh5aEZrMGlSTklSenZDRldzOXFkdEhtQ0RFN2UtRUhHRkUzMlpENnNQMUhoOGdIRE9DUnRnQkh1bXBNY1BXX1EtRWpmQS1lbExwNnRRMDdXbW9xWnBJQ28yb3NVT1NObUcyV0VlNGZycUHSAdcBQVVfeXFMTy05ZlZ6NlUzOEJXYWpRZWp5RnllUElkbjlWVkUyX1llaGJMbUh1SVlyYTNOQ3M2TVh0MmwtZllFbjlheVRIWDdGSlk3S0RlZEZuNnRpUW9qVnYxTjdFN0VDbjJpY2d4QTNxbndSQktXdXRTeV9lbEJtQ0M4T2dtd1lTcXJReElpbXExMWNNTGhxNjY0MjJtQ1Jzc0gyMExZYlpDT2JjWFlxSnpKU1N0WmhNdFJMajlqUHhzMUZROU9vbFZvc29tTDItYmFoS0dHbW9xN0lSVUk?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-30T17:36:00+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "HDFC Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "2260ccd782fe",
    "title": "Guv launches Shaheed Bhagat Singh Youth Facilitation Centre",
@@ -4643,23 +4660,6 @@
    "score": 22,
    "category": "other",
    "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e52b70580c3c",
-   "title": "Vietnam tech firm FPT starts construction of UAV, semiconductors, cybersecurity training complex",
-   "url": "https://economictimes.indiatimes.com/tech/technology/vietnam-tech-firm-fpt-starts-construction-of-uav-semiconductors-cybersecurity-training-complex/articleshow/133528469.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T03:24:59+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Vietnam",
    "amount": "",
    "stage": "",
    "founders": [],

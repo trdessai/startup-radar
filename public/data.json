@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T16:01:19.230407+00:00",
+ "generated_at": "2026-08-30T16:11:15.915860+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 5,
@@ -7,6 +7,23 @@
   "alerted": 0
  },
  "items": [
+  {
+   "id": "74766ef31bca",
+   "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU21FMnU2R3Z0TXN4d2ZBYUZGUF9GbktSU1hpdzVHbTJuYlpmNzdSMF9BckQwT0VRVG5QR3dkaThKUWlpdDZNcVk5SURxX0xCMnU1RTFZd21vNEk4OGdvUnVjNktQSHpHNWhOQTZsa3M1ZWFVRXRJT19pZU9vNGMyX2FxbnEwTGloa1kyd3U1T3VKU0k?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-08-30T16:03:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "TechCrunch Mobility: The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "17eecc3850c7",
    "title": "'Borrowers repaid \u20b93,803 crore of \u20b94,808 crore': Subhash Chandra shares personal guarantee details in NCLT case",
@@ -7079,24 +7096,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1965211f2e6b",
-   "title": "Anthropic market debut could break SpaceX IPO record",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-market-debut-could-break-spacex-ipo-record/articleshow/133442327.cms",
-   "source": "ET Tech",
-   "published": "2026-08-23T16:09:52+00:00",
-   "score": 88,
-   "category": "launch",
-   "company": "Anthropic",
-   "amount": "$100 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$100 billion"
    ],
    "alerted": true
   }

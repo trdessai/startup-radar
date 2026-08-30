@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-30T08:21:23.877541+00:00",
+ "generated_at": "2026-08-30T08:31:09.419936+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
+  "fetched": 25,
   "fresh": 0,
   "alerted": 0
  },
@@ -6847,23 +6847,6 @@
    "reasons": [
     "funding in headline",
     "$469 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4d242600f44f",
-   "title": "Mango\u2019s India sales split 50:50 online, offline as q-commerce boosts repeat buys",
-   "url": "https://www.livemint.com/companies/news/mango-india-sales-online-offline-myntra-m-now-quick-commerce-11787384985335.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-23T08:29:24+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "Mango\u2019s India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

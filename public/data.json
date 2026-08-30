@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-30T11:31:18.812664+00:00",
+ "generated_at": "2026-08-30T11:41:13.180554+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 1,
+  "fetched": 15,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "16f1e6697250",
+   "title": "Smartworks to invest Rs 600 Cr in FY27 to expand biz, meet rising demand for managed office spaces",
+   "url": "https://yourstory.com/2026/08/smartworks-to-invest-rs-600-cr-in-fy27-to-expand-biz-meet-rising-demand-for-managed-office-spaces",
+   "source": "YourStory",
+   "published": "2026-08-30T11:35:10+00:00",
+   "score": 75,
+   "category": "expansion",
+   "company": "Smartworks",
+   "amount": "Rs600 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "Rs600 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3dd65469c2fc",
+   "title": "HDFC Bank weighs an insider and an outsider for new CEO",
+   "url": "https://www.livemint.com/companies/news/hdfc-bank-new-ceo-sashidhar-jagdishan-kaizad-bharucha-11788088969518.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-30T11:32:43+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "HDFC Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "866bf7f50f5f",
    "title": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",

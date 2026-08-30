@@ -1,12 +1,39 @@
 {
- "generated_at": "2026-08-30T06:21:16.720239+00:00",
+ "generated_at": "2026-08-30T06:31:11.101369+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
+  "fetched": 13,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "a7385c66af3c",
+   "title": "HDFC Bank CEO Search Tests Investor Confidence, Governance",
+   "url": "https://www.livemint.com/companies/hdfc-bank-ceo-search-tests-investor-confidence-governance-11788071011524.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-30T06:23:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "HDFC Bank CEO Search Tests",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Search Tests Investor",
+     "handle": null
+    },
+    {
+     "name": "HDFC Bank",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f0d0fbcfb1cd",
    "title": "Micromax launches INR 250 crore family office to back deep-tech startups",

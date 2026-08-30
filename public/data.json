@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-30T11:51:23.691451+00:00",
+ "generated_at": "2026-08-30T12:01:25.029030+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 1,
+  "fetched": 16,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -165,6 +165,23 @@
    "score": 23,
    "category": "other",
    "company": "Uniqlo\u2019s India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22189139fd40",
+   "title": "'Given ourselves fiscal discipline path': FM Sitharaman pitches India as investment hub to US",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdElZR2JiRTZCSExTVGlvb0ZhT1ZvSnJiVDBqT29OSWlzSGlFRWkxMHcyNlhfX0t1VGtpRDh1Q0k0ODBlRVZCZW1HeGUzOVFKaFhwb05oNmo0V3JFWFNLTHJpTlBmcnpJXzlXYzZMZkJpUHhqY1BMUXBDSmlJTHpmMW1Yd245SnZnWC0wSW8xcmc4by1ueTRpekwtVUQ4czRZei05bF9tM3ZpeWE3SDRRWlFjQ19PMU1Hd2hKTF9iN2xQcTd6dVRpTkhhNlN4aE10MU1Ob1NuN3lzMk1XTUtPUGNyRmNoNGxKMVZUTElEU0xER1dEWTRlTVhKSGdFdE9WZlRNTmlTX0dlZEln0gGMAkFVX3lxTFB0SVlHYmJFNkJITFNUaW9vRmFPVm9KcmJUMGpPb05JaXNIaUVFaTEwdzI2WF9fS3VUa2lEOHVDSTQ4MGVFVkJlbUd4ZTM5UUpoWHBvTmg2ajRXckVYU0tMcmlOUGZyeklfOVdjNkxmQmlQeGpjUExRcENKaUlMemYxbVh3bjlKdmdYLTBJbzFyZzhvLW55NGl6TC1VRDhzNFl6LTlsX20zdml5YTdINFFaUWNDX08xTUd3aEpMX2I3bFBxN3p1VGlOSGE2U3hoTXQxTU5vU243eXMyTVdNS09QY3JGY2g0bEoxVlRMSURTTERHV0RZNGVNWEpIZ0V0T1ZmVE1OaVNfR2VkSWc?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-30T08:57:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Given",
    "amount": "",
    "stage": "",
    "founders": [],

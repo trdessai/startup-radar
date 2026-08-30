@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-08-30T11:41:13.180554+00:00",
+ "generated_at": "2026-08-30T11:51:23.691451+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 14,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "3945b7a2bf85",
+   "title": "SK hynix open to US investment, sees memory shortage through 2030",
+   "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms",
+   "source": "ET Tech",
+   "published": "2026-08-30T11:35:19+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "SK",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Kwak Noh",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "16f1e6697250",
    "title": "Smartworks to invest Rs 600 Cr in FY27 to expand biz, meet rising demand for managed office spaces",

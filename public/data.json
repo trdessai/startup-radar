@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-30T13:51:07.976246+00:00",
+ "generated_at": "2026-08-30T14:01:21.465900+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 16,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -143,6 +143,23 @@
    "score": 68,
    "category": "launch",
    "company": "IIT Madras",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a84422d5503d",
+   "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvd2FadGE2UE41MGZPci1jSGJhcFNzbUhJd0FRblJGLTA0OEVRUE1sMW1LTlNxV2M1X0MxTTRXVVQwOGNURmpPadIBTkFVX3lxTE1Zb0xqWlh3RkdWaktyM3Njem8wZFB4VFAtd0tuQklxeGM0cXI4VWVmaWVDb2hma2NNVldvUW1FM29oUFZrcElNdjVZZDZTUQ?oc=5",
+   "source": "ET Now",
+   "published": "2026-08-30T10:31:27+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "ET",
    "amount": "",
    "stage": "",
    "founders": [],

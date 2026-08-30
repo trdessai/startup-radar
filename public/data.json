@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-30T10:31:14.451804+00:00",
+ "generated_at": "2026-08-30T10:41:18.332756+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 21,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "c7e8d9481ec4",
+   "title": "Watch Live: Nasa's Nancy Grace Telescope launches to unravel mysteries of universe",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2FBcHM4cmJwQTUxOUFfbmhXcWtKWnkxajNXd21NNkwtb1BLMHdFQlpxbU8zWXFlRDdHak5jeURROUJhN0Q5cFQ2NXpmMVh4UWh3LXY1b0pDY3Vld2xDY3lmSlBtVEw5R09oNzdVZW1WQXVjeF80YVlmX3AzclA2aC1qa1QxNDdKYWJ0Um5tZWRXX2hnc1lBdlY4RUNQdi16aXhQNmJValFvZE14ZHVVQWthT1NnLWVlZXZjTGUzSGNScFdrYWZadnpB0gHPAUFVX3lxTFBsSHlFNDJhVmFscjVzUkpMQ1JQSEpSZ2FTdS1tVm9WdVlGMlBsckVtckhaQTktY1FGeWZxNWlLZW1lZXJjR0tLUE5scUdTY0hzUUpTdGlpcGVwY3lYV0xFejZsem5xWDFidVgtcXJVbmdxUGJRd25ydlVheXBNbGljRnQ0ZXZOSEZWcEd4OW0zRjdEX09kSUQ2cGVSY0lzVFRjdGxRNW0xbzRPX29oc2UzX2VrMFVzbDBmTFlMaGhjZWQxTDdraThfZ3NEQXkzNA?oc=5",
+   "source": "India Today",
+   "published": "2026-08-30T10:30:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Watch Live: Nasa's Nancy Grace",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "1550c2c9c73f",
    "title": "Online grocery venture Satvacart shuts down after 12-year run",
@@ -63,6 +80,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "c2ee8c84ce49",
+   "title": "Ather Konarc launched in India! Price, range, features and more",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YY9IB4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YYw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-08-30T08:16:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Ather Konarc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "f4c3a63705f3",

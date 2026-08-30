@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-30T20:41:10.531519+00:00",
+ "generated_at": "2026-08-30T20:51:06.721323+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 0,
+  "fetched": 3,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -40,6 +40,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "9c0f2b39f6ae",
+   "title": "India's venture capital recovery looks anaemic as deal value grows just 5%",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVWp0VndHMGVoazZEUmo3UGlESzZfaUlDUEJzZU5Ma1NVbS1nMVVuaWRtWUJZcnk5VG9UUUNlVUYxZlJfQXdxbkVVWmJmcXpYV2VMQmthclZEUGJHVU5RV1ZCTHhrNGZFV2p4aDFmUmpOQVFBcG42Q3Fmbnh5bVA5VGlERHFETEZFelBWSHQ4UWdyYjUybUphVWQ3WDFjaVUtdk9vOFZwUlpPUGpoak5QYkRQWERrMTRoLUFadnNwVFF2SndHVzd3VFBGa2ZwcHNsM3FEbzNLX2ZvYzd6Z29LTjhsZTNWUdIB5gFBVV95cUxOVWp0VndHMGVoazZEUmo3UGlESzZfaUlDUEJzZU5Ma1NVbS1nMVVuaWRtWUJZcnk5VG9UUUNlVUYxZlJfQXdxbkVVWmJmcXpYV2VMQmthclZEUGJHVU5RV1ZCTHhrNGZFV2p4aDFmUmpOQVFBcG42Q3Fmbnh5bVA5VGlERHFETEZFelBWSHQ4UWdyYjUybUphVWQ3WDFjaVUtdk9vOFZwUlpPUGpoak5QYkRQWERrMTRoLUFadnNwVFF2SndHVzd3VFBGa2ZwcHNsM3FEbzNLX2ZvYzd6Z29LTjhsZTNWUQ?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-30T18:48:05+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "8dac241b05c9",
@@ -4665,23 +4683,6 @@
    "reasons": [
     "no clear event",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "505c2ae9c8a9",
-   "title": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-huawei-us-pc-maker-hp-sign-multi-year-wi-fi-patent-deal/articleshow/133528834.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T03:49:26+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "China's Huawei US PC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

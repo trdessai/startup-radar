@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-30T15:01:08.275025+00:00",
+ "generated_at": "2026-08-30T15:11:18.427035+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 0,
+  "fetched": 10,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "8a2f8f1f19b7",
+   "title": "LIVE | The Economic Times Startup Awards 2025: Celebrating India\u2019s Startup Visionaries Incendio Grugliasco (J0o52dGImV)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JUXRwd1NMRm50MGNoNl9rcHNmZ09tLTVBSVd2TjA0bXItWVJ2VV92RmFWcW5oV2d5elRHZ2x6WE5ZX21BVXVqY3VKS21LYWRfeHJfLTVSTjBOR28?oc=5",
+   "source": "Mshale",
+   "published": "2026-08-30T14:14:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "LIVE",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "e22354ced9e3",
    "title": "Bira 91 beer maker in more trouble? HNGIL slaps B9 Beverages with \u20b911.77 crore default notice, plans to move NCLT",
@@ -4701,23 +4718,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "758705ef408e",
-   "title": "AMI\u2019s Nvidia chip bet; Groww\u2019s new growth play",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amis-nvidia-chip-bet-growws-new-growth-play/articleshow/133527242.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T01:55:21+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "AMI\u2019s Nvidia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "919b7ec5fe3c",

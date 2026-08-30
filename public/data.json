@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-30T05:41:07.057919+00:00",
+ "generated_at": "2026-08-30T05:51:06.808918+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
+  "fetched": 13,
   "fresh": 1,
   "alerted": 0
  },
@@ -21,6 +21,23 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "674dd73ba534",
+   "title": "Less than $1 per tonne-km: Bengaluru startup announces autonomous seaplane to cut cargo costs",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaEFqVUVYakdhc1d2UmN6MWR2TWk0dzh5SWZvQWpSQXpyRGFvQmtPSzcyZXd1ZUF2UEE2RFFpajVpekRXNENVRXprMWhMYVlOQW9EVHFDb0lpd0k3QmZid0ZLOUhsUF9qVFMxQzRxS1FTTHVVUEdIZ0s4TjRpN3VhRVlOR2paY21ldVpjVVdWazBoekJDeDVHRXRGUVJuaHBrZTNhZ3B2NHpaMWFLbElJY2g1MVI0OU15c0l0a1VqWDg0bnBWREE1TEE4STVvYnZOZGdrV0Z4TnVfWTVEVERfWW1hQlZMZ9IB6wFBVV95cUxOTV9jYlU0azE5djgwS3hxUFZnSnJnNFZHT0JTWUh3RE1aZnhZZk95UG1oSEQ0UTloWmRuTnJsN1V6MFJySVZ1UVRxWHFZWGRBU0tuRGI4ZGYtRVpyeHVGSkc4anhoRXZzVGJJS0V6b1E2eXhiTzJzSWhXVklhLURiNFlBQXdDTHUtUWc5TDRBTldaaFZYRGFTcWRSck1mN245eWNEMmd4bFdNUWcwZHJPckdfTUNpLXFpSlNiZDNsR2xlcndxSXhacUhtRkpSekROcFplaDQ0SlduYlJjOHQ0R2N6a1lWZHpUanZn?oc=5",
+   "source": "Business Today",
+   "published": "2026-08-30T05:05:49+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Less",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
    ],
    "alerted": false
   },

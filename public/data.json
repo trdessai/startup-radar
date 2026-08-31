@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-31T12:51:14.683663+00:00",
+ "generated_at": "2026-08-31T13:01:15.574576+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 76,
-  "fresh": 4,
-  "alerted": 0
+  "fetched": 81,
+  "fresh": 6,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "83a27f642115",
+   "title": "GameStop expects lower quarterly sales on store closures, France exit",
+   "url": "https://economictimes.indiatimes.com/tech/technology/gamestop-expects-lower-quarterly-sales-on-store-closures-france-exit/articleshow/133653749.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T12:55:18+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "GameStop",
+   "amount": "$972.2 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$972.2 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "26e43844b1c5",
+   "title": "Adobe to offer free access to AI tools in Saudi Arabia in $4 billion deal",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/adobe-to-offer-free-access-to-ai-tools-in-saudi-arabia-in-4-billion-deal/articleshow/133653614.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T12:46:57+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Adobe",
+   "amount": "$4 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$4 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "efb6630f1bbc",
    "title": "Consumer Protection Authority fines United Biscuits \u20b91 lakh over McVitie\u2019s \u2018Wholewheat\u2019 claim",
@@ -214,6 +250,40 @@
    "score": 23,
    "category": "other",
    "company": "Coforge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0962ab983c88",
+   "title": "Aurobindo Pharma subsidiary launches generic Advair Diskus in US",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJpeGxheVhMdWNpT3drTk0zN2c5LUtzSTZ6cVNNZWZMb19Jam5aNk16cy1hRUJlODZpOUZhM2huOVlyR0M1bHNLUUc5aUtxcTZIYWRRSktNaGE0bXU2WGFSb2w3ZE93OUEwa2l6QTAySlhXMy1mUmdTV3l2cm16NVRrNExoekZjWkNIVGRNOGhGZU1MYm9FTlpON3VCTU14ZklrREZPU1MyVGRF0gGzAUFVX3lxTFBNbzZKTG1DM2wxMjF0cUtZelFlZU9MR0s1dEZJeXNBVWJtd2UxZ1dPY0NFU2ptU01PR3dScGY3VFEyS2JhZ0ZQMlZTT1BTN1pwcThhSFFUSzJpUms1bHFGcjVFRldNSXRwbjE2dnNfYlFkTnF2ckpRQi1CQ0k4c2FxdExhMVA5RnRrbUVtQnczbU84cjZ2MjE2TGZ3dzM0SmlSbUQwbHlEclhOZm10SDZjWGZz?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-31T11:15:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Aurobindo Pharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2ebece424d74",
+   "title": "Happy Cultures Brings Dubai Kunafa Flavour to Protein Category",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGd3SEV0a0I0aF9vbi1SYjZhTHU5V3ltZUtIMGpMZlRfdWxuejhnSVkwNFd4T2Zac0x4T1BkMUZEdW8xN2lDNUhFUzFoazR5LTBIelR3czhqNnVyVm1XWFFuZ1JXNno5SkwyRzRsaEk3d1JGcHlzVDVCR1NSMG9LLXNnVm9jb2duVHU3dkR6V1Q5czRaN1V5NV96MA?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-31T11:15:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Happy Cultures Brings Dubai Kunafa",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4555,76 +4625,6 @@
    "reasons": [
     "no clear event",
     "$100 mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e18cea8bc881",
-   "title": "Judge in Google privacy class action awards lawyers $147 million in legal fees",
-   "url": "https://economictimes.indiatimes.com/tech/technology/judge-in-google-privacy-class-action-awards-lawyers-147-million-in-legal-fees/articleshow/133602660.cms",
-   "source": "ET Tech",
-   "published": "2026-08-29T02:48:07+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Judge",
-   "amount": "$147 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$147 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c0d47df48880",
-   "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
-   "url": "https://economictimes.indiatimes.com/tech/technology/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/articleshow/133602615.cms",
-   "source": "ET Tech",
-   "published": "2026-08-29T02:45:19+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Taiwan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "56c827c7e94b",
-   "title": "Pinterest finance chief Julia Donnelly to step down in October",
-   "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-finance-chief-julia-donnelly-to-step-down-in-october/articleshow/133602502.cms",
-   "source": "ET Tech",
-   "published": "2026-08-29T02:33:34+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Pinterest",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c413523b22ee",
-   "title": "Why logistics AI is becoming the bext big bet for investors",
-   "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
-   "source": "YourStory",
-   "published": "2026-08-29T02:30:00+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

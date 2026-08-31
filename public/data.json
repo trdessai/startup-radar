@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T16:51:23.047639+00:00",
+ "generated_at": "2026-08-31T17:01:33.967971+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
-  "fresh": 0,
+  "fetched": 41,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "44cbdbfeba9f",
+   "title": "ONGC plans \u20b91 trillion investment in deepwater exploration by FY31",
+   "url": "https://www.livemint.com/companies/ongc-plans-1-trillion-investment-in-deepwater-exploration-by-fy31-11788189691681.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T16:56:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "ONGC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8f78fc2061dc",
    "title": "Subhash Chandra's \u20b96.25-crore repayment plan hits hurdle; NCLT forms 5-member bench to decide insolvency case",
@@ -75,6 +92,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "32a1a5c59f6f",
+   "title": "Indian sneaker brand Zaydn raises fresh capital for expansion",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2Rfd28zRERZLTJ2X1NfRUJtVzZWQWFGVTFVVHdLY2dsS0NjVUQ4cGdhNTlHU1pBZXBhMTEzOWFiWnBINndWN2VLRG44NUtsS1U2a191Q0tubXl1Sm44Wk5jQmYyMUV4WUZNd2RaaUtYSnRqUHNjNjlRU0VnSDA5U1Z1M1dEOUtTcXl5VHhRM2VkcHNzNkZfYWhaN0lzQ2lVNFBuRFRxbmo0ZmhzNEJwWk1R?oc=5",
+   "source": "Sporting Goods Intelligence Europe",
+   "published": "2026-08-31T15:33:09+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
    ],
    "alerted": false
   },
@@ -4390,41 +4425,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "12624e8f936a",
-   "title": "Who is Sandhya Devanathan? Former Meta India head joins OpenAI as Asia-Pacific Leader",
-   "url": "https://www.livemint.com/companies/people/who-is-sandhya-devanathan-former-meta-india-head-joins-openai-as-asia-pacific-leader-11787998126249.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-29T11:01:34+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Who",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0343af1b7fda",
-   "title": "Are tier II & III cities driving premium beauty\u2019s next wave?",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczdNOTF2YVd2aEh3LVFMZGlXS1R6UGI0OE1hSlhybjdHeVhwWm1sXzNrTUVsSjhUZHA1bk1wYldHUG5jS2t4VHJsMjFQYTFrS3FxNkhXZkx5VXNCYXp1cmRfU0ppS1lkdDByTlhmY29OWmlKaXlKYV9ieS1XZF9VQ3VvWWFwRVlJLXhwZEFKNEtfR0RMcXZMRUxScGowbXFOYS1XMjBJMFM4eXdUUlVRcTZ4dmNuUmd5TC1QYS00b24wYXM3?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-29T10:57:47+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Are",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
    ],
    "alerted": false
   },

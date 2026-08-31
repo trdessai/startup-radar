@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T09:01:21.337572+00:00",
+ "generated_at": "2026-08-31T09:11:35.027841+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 75,
-  "fresh": 4,
-  "alerted": 3
+  "fetched": 76,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "dbfa471eb2fc",
+   "title": "Singapore commits $170 million over three years to drive fintech innovation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/singapore-commits-170-million-over-three-years-to-drive-fintech-innovation/articleshow/133647999.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T09:03:32+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Singapore",
+   "amount": "$2.9 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2.9 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "e964298625ef",
    "title": "Why R&D Funding Alone Can\u2019t Bridge Commercialization Gaps",
@@ -22,6 +40,24 @@
    "reasons": [
     "funding in headline",
     "Bridge"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "45797f5c8faf",
+   "title": "NIIF raises \u20b919,000 crore for infra fund, with Temasek, HDFC Bank among backers",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlpwN1pnOUpmREtUbWdRNHBYeHdIRDMyRTJnUDI2MlRXQlpPWnd5RGhZOUhpVG93dnA1cFM2eFJOUWhuTDlxS1BMSVR5QUpjVWpMSWg2WTFQLTZrZXBZVlRUaGUxWmRnd3U5R1JzVEI1enE2NUFsamhxeU9MMEliRm0yUS00NWtrbFpjTG02YkI3aVF1cWJkUDYxLTZiQXl0MXN2eVR5LXZoVGhNdUk5X3cxZThpcVltWmE0X0hIS1XSAcYBQVVfeXFMUDhMVm9ZRzMwaXZoYnZ4aEtlZFdBa05sVWJ3RW9pV1FKVDdPUDZ3VnRuZHBOX0c5Wjk1RlVxV3FXZ1hsanQ2WXZFeXlUUnRsamhCQ2ZnX2I2Vk9TYk81NUdlVFdSVEFNSlIwY3F2M1paWUJ5ZDdkb0RtblFOLVBxM2U4aU9adzBkQzZsa0NRMUNfLUxCS2tja2JFSWdyWkdkYXEtRVlWdEdXTUdJRlVMZnpVc2NscUtQV2pVXzhYVW9VZHFGRldR?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-08-31T08:57:06+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "NIIF",
+   "amount": "\u20b919,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b919,000 crore"
    ],
    "alerted": true
   },
@@ -4802,24 +4838,6 @@
    "alerted": true
   },
   {
-   "id": "2d1c0a795d00",
-   "title": "Zerodha\u2019s Bland FY26: Net Profit Up A Mere 1% At \u20b94,238 Cr, Top Line At FY25 Level",
-   "url": "https://inc42.com/buzz/zerodhas-bland-fy26-net-profit-up-a-mere-1-at-%e2%82%b94238-cr-top-line-at-fy25-level/",
-   "source": "Inc42",
-   "published": "2026-08-26T11:25:38+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "Zerodha\u2019s Bland FY26: Net Profit",
-   "amount": "\u20b94,238 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b94,238 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "043055418754",
    "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-minimax-sees-revenue-nearly-quadruple-in-first-half-as-ai-demand-surges/articleshow/133539148.cms",
@@ -4836,24 +4854,6 @@
     "$116.6 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "725df6aecac1",
-   "title": "Stoicap Ventures targets \u20b9750 crore fund for K-12 schools, student housing",
-   "url": "https://www.livemint.com/companies/news/stoicap-ventures-targets-rs-750-crore-fund-for-k-12-schools-student-housing-11787716027897.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-26T11:20:04+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Stoicap Ventures",
-   "amount": "\u20b9750 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9750 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "af033c4dc7e4",

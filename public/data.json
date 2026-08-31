@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T18:41:16.199723+00:00",
+ "generated_at": "2026-08-31T18:51:02.947448+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 35,
-  "fresh": 0,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -111,6 +111,23 @@
    "score": 23,
    "category": "other",
    "company": "ONGC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "84f0edbec162",
+   "title": "Dheeraj Reddy \u2013 Founder, Fae (Faebikes.com) | Entrepreneur 2026",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOXV5bTIzR2tMR3ZteTZtR1BXTlhzR3FDV2lYTGlZRm9JbkZCRGtnUjMyUnhIeWRNcUVNTkhVM3YxVHAtVzVvSFdxS1VLMHBQRVRvdGlFU3k4azQwci1yUXFjVjJYMWdSMld1ZlRfYmZ1bWRsOVRUNkpQVmJJZUJNNERMbzk5ZDBXbE8yVk8ySlRRY0dFRGRpUERGNTdZYzBxeUZjVzZsZGdud1dSRTNaOW1nNGk3TVlQU1REUHk3S2FnMHUwMVEwdXlac2wxUnYwaDhoSE5rbFp2VWRUY3IxZENTYzcyMzhlTGZIaVN0Zw?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T16:43:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dheeraj Reddy",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4277,23 +4294,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "c6553584c19e",
-   "title": "Meta\u2019s teen-safety settlement is being called accountability. Experts say consent still isn\u2019t",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02R0kyQXlRNzZIalp1eXh1eU84MzhnaWZmRTkxbVZsU1V6SFBrQ2R6am1aQzlMa0RxVHZIczVLQk5ndG10RGVqRjJhVS16d1B5U2k2LWFVOXF5bzZqZVh5YjJKRzJWV2ZqVlRiSDZHVEstMWN6NC1pdTk5NA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-29T12:40:55+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "49fc3f21bff6",

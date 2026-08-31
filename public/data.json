@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T15:11:30.209525+00:00",
+ "generated_at": "2026-08-31T15:21:13.280058+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 0,
+  "fetched": 56,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7009,24 +7009,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c6936e72d807",
-   "title": "Open for hiring: Kita raises $4.5 million to expand AI credit assessment for lenders",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGxCd1RULUdWaWNfTnFPcDY5d0JRLXBidDJpSVc4MXhvWWg4QnZvcE1WdjFmSGgyaUY4NlU1clJrYUE3UmlhdEdDdURHcjQ2TURDVFFZUzk2R3o5NFJsNVlYVGtKWnA3QncyVFBKQ0FVdFN3S0VTLWxhV1g2c2hxMU5Fc2xEaFFxb0x3RS1uTmlFaExFaHY4QXpQOXBCNjFEeTIzNGR5Y0V3eTlNU1JTMFdLcWs0UQ?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-08-24T15:12:02+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Open",
-   "amount": "$4.5 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4.5 million"
    ],
    "alerted": true
   }

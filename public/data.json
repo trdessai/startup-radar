@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T18:11:25.796814+00:00",
+ "generated_at": "2026-08-31T18:21:28.051857+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 35,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 36,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8bccf91a601b",
+   "title": "GRT Jewellers to acquire 74.12% stake in TBZ for up to \u20b91,033.7 crore",
+   "url": "https://www.livemint.com/companies/news/grt-jewellers-to-acquire-74-12-stake-in-tbz-tribhovandas-bhimji-zaveri-11788185905184.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T18:12:53+00:00",
+   "score": 63,
+   "category": "expansion",
+   "company": "GRT Jewellers",
+   "amount": "\u20b91,033.7 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "\u20b91,033.7 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "f92074f90b96",
    "title": "Financing India\u2019s Space Future",
@@ -4349,23 +4367,6 @@
     "funding"
    ],
    "alerted": true
-  },
-  {
-   "id": "cb56994b2de2",
-   "title": "India\u2019s pet project is getting serious",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2VxYm5zVjNVUnM3Y19hS0lXOGJjQ3ItX1ZnMEFOa3lzQnFZaUwzUnVMSVZSNERzaDAzUkxxZThsSzlQVmZFQm52V1ByWGFvMGs3akxEUkhLSWk3cGhmb256elBVT0tWWFlUY0NSSEdRRjNqelplTjdLdHZKS2MwSGd0SzZmWEY4SjVlRnRfVEhsSmZfQWZIOTBEWVJnbllSSTJqZEozMkhybjVHTGl5ekVaMNIBuAFBVV95cUxPcXhTdzlOTnNyTTJOYU1ka2dEWTdfZW0wSVh6Mnd3bzlmbHF6eEFiekhZeFc1WkExajZ2T0tFR0cyeEtvYVNyZEJ5MlJoeEM2QzdaaHR1MnRESWJoOTY2bWZNcXcydFQtblZQeWZzS2RKY290OTh5WDNQdGwyOHMxSVVyQXR4U1NpNUJvTkY2S3pIa3JMakltZUNWSS1Vc3pGV01ZYWYySERLV0JLdUhrNEZkTXRkTG5Y?oc=5",
-   "source": "ET Entrepreneur",
-   "published": "2026-08-29T11:54:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b3832bc7b64b",

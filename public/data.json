@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-31T05:51:21.606025+00:00",
+ "generated_at": "2026-08-31T06:01:33.501327+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 44,
-  "fresh": 2,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "a241248bc459",
+   "title": "Healthians turns profitable in FY26; revenue jumps 37%",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVdFMmpGNTc1dGhjME1ieTlic2xHcUhNWVIyRmE4N0lUVHJmcW9GM1hnMDlsRDlMS0NlS1hnaDk4OEQ0OXNCc3dfODcwWjNtb2FaVGpLWXBSdWZqRW5NU3JCQW5mN1JtRy0xMUVaNHlCeGc3V3JianZ2WjE4Z2VZY21PSU9XRkIzYUg0WFVHcktaS3k3cVJz0gGXAUFVX3lxTE1pV0UyakY1NzV0aGMwTWJ5OWJzbEdxSE1ZUjJGYTg3SVRUcmZxb0YzWGcwOWxEOUxLQ2VLWGdoOTg4RDQ5c0Jzd184NzBaM21vYVpUaktZcFJ1ZmpFbk1TckJBbmY3Um1HLTExRVo0eUJ4ZzdXcmJqdnZaMThnZVljbU9JT1dGQjNhSDRYVUdyS1pLeTdxUnM?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-31T05:55:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Healthians",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "30bdc420f73b",
+   "title": "Air purifier startup Yoga Clean Air raises Rs 20 crore from Info Edge Ventures, others",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTHUyX2tFVGdYLTAyQkhGUE9rZldFZzJiNzNWcUFQV1huLXFHWFBrYTI2OGdzai1jUnpQOGEzcFRKbVFORTIwV2ptQVd0WHdiZ2w0Sk0wY1RNYm1pWW9ON1dORVlRaXlzRXR6U2pJdGszeEFpQUdKX2Ztek82b1QxV0daZTdsZy1xaDdHU0VqOE1JYW1zMUI5YkVLc01KREVJRjRScmtBY2lReVVpRkZiMlFyMFRaaV9pLUduVkIxZHNTM1JqYndybDBmQWdpNXZ5aHQ4OUpObDF5ZnFwMWUwVlFsUC1GYVHSAewBQVVfeXFMUDhUR3QzdzdrZnJYei1sVk5ST1RZRmh6akFIaFNpXzl4dEE0SUV5V1pxeWEtb3NCNG9PaVJPUVVoNGZjRVFIX3Vzc2t0U2hpNzczUERWZDBaMnNUMDl2T19tMXdjNEdta28zZW5oZDlLalhoSmxYMmhtOXNpRmdkWmtZLTYxY1M1YTRmRFFOWU5UTGFTVThMLXdidlc0ZlZKbHFVLWw5aGNWYmdZbnlNeWptV3gzQm1OVXBGUkEtRVVwbnlpdXpQMzZVc2tjTVBfaDBSUmdaNlJBX0RsN2lRazFpY3JhVzM0RnZNV18?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-31T05:54:44+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Air",
+   "amount": "Rs20 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs20 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "4e9c91d7c094",
    "title": "ESDS IPO Subscribed 8X On Day 2, NII Portion Booked 22X",
@@ -40,6 +75,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "2d1852d780df",
+   "title": "Ebco Launches ESmart Digital Lock Range to Bring Intuitive Security to Every Door",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHVKU0lVMGtBaHRXOE4tVE9HNmc4YW55aGMzenh4aUp3WmVqNXo3Y2F6YlZBaGljeDRGN1VEa2FQa1lzR3FXRE5GQUtGZHVFRHR4YVVRRnZDakp0bFhIcDR5dVNnSGxDQ1pfY2NOVjRXNU5QRjAtc19MY0w5dlBSSEFBdUd3WTB1RHNkUXI3SFUwX0tmV3hpT0x4SERncEZYWnpBLTEwQXBrREJKbkN3MDBURnRfQ0ExZWp1LTljWDdYLVFkb1lFdjZlSHY?oc=5",
+   "source": "ANI News",
+   "published": "2026-08-31T05:34:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Ebco",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "80c2fb77ef80",
@@ -4587,23 +4639,6 @@
    "alerted": false
   },
   {
-   "id": "3794bf2f3232",
-   "title": "Korean Skincare Brand Analogy Enters India with a D2C-First Approach",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1Y4R2Z4Q3hJVUxlXzFSSy03ZGo4c29pQWxTTldoZF9ycmVCOGtsUW5McEdaOGFuTVJjU0ROSE9rS20zaDRHTUVYX3pMQ2NWUm14NG10alJaS0U5QVZlSzB0ZTVRa2NNM1U2dThoUENac3NJUzVZNUlzR0ZZX1ZXV2FTWFMzek9PLVBhTzhCMWhBcUNHWVY5UEt3RW50Z2ZOaVF3enhHQU45S1ZieXkwcg?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-08-26T07:55:05+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Korean Skincare Brand Analogy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4e7d2808ba8d",
    "title": "Homegrown IndieSemiC Launches Wi-Fi Module for IP Cameras and CCTV",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2J6Q3YyUFVEMXNpeWpFM3ZsVzJKUXhkRmRHbGVWcE9lY0JjemdYdWhSMnUzQVpoMHozQmdCS09FSVZnN3BnU3hMV0FkcTdlTmhyVDBlbjZmRlZWOFdDMDg3MVloV1R6RHNUZC1jVmNfVjZHMms5RTNtakJ3eVBJNHBHZHZyeFk4dWpkbEpnXzVGSTZqN1dXV1lUVFBRWmU3UUJGN045SHAwOGxtblJvNUxyQl8wUQ?oc=5",
@@ -7055,42 +7090,6 @@
     "funding in headline",
     "Rs21 Cr",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e1c2335ec70f",
-   "title": "Underneat takes over Bengaluru billboards to announce Myntra M-Now launch",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVdpNXVWVzF6cXdydHpJQ0JKYnVBb2M1OHZnQVg0SXpwamlfTGZUcWFSLTV4a2twWkZHRmM1czJudEFTZERwNnFEWTJFYTlOU1dRU0djcDJfY0tyOE9KVUxhMndDSG45UnJLRWJVaTlyM1NmUFhKdV9ndWFsdkhhSU9oM2dHMGFZRlVpWnRQLWxqcy03YUVrSzJnNTNPUWNNZ3E4X2hfQndoLTVC?oc=5",
-   "source": "Adgully.com",
-   "published": "2026-08-24T06:01:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Underneat",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7a48aa9d02c2",
-   "title": "Third Wave Coffee raises Rs 408 crore in funding round led by WestBridge Capital",
-   "url": "https://economictimes.indiatimes.com/tech/funding/third-wave-coffee-raises-rs-408-crore-in-round-led-by-westbridge-capital/articleshow/133452957.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T05:55:46+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "Third Wave Coffee",
-   "amount": "Rs408 crore",
-   "stage": "Angel",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs408 crore",
-    "Angel"
    ],
    "alerted": true
   }

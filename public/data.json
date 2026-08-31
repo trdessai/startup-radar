@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-31T07:01:13.374023+00:00",
+ "generated_at": "2026-08-31T07:11:19.244426+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 50,
-  "fresh": 3,
+  "fetched": 56,
+  "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "95bf090fbe04",
+   "title": "Info Edge Ventures leads Rs 20 Cr Series A round in YOGa Clean Air",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTJTNGo3MlV1WVdCeVVzeXpTTVhHWWlIRUNBb2JnNTlfT1hxeDlJemFCNXhOeGgtS0JQSkhpbTZNWWRmSlNKU0hveGFkcUFqTkVvUjFxU2k1U25ZVHo4MVZMbzFQVno0N0RwNi1helV3bWlXT2lDS1FjandaZTFLdTRFMDZSdFlpRWxBeHZsWU4xeHZBM2RLS0t1bDctdlozYnprbTBiRXPSAagBQVVfeXFMUC0yUzRqNzJVdVlXQnlVc3l6U01YR1lpSEVDQW9iZzU5X09YcXg5SXphQjV4TnhoLUtCUEpIaW02TVlkZkpTSlNIb3hhZHFBak5Fb1IxcVNpNVNuWVR6ODFWTG8xUFZ6NDdEcDYtYXpVd21pV09pQ0tRY2p3WmUxS3U0RTA2UnRZaUVsQXh2bFlOMXh2QTNkS0tLdWw3LXZaM2J6a20wYkVz?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-31T07:06:23+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Info Edge Ventures",
+   "amount": "Rs20 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs20 Cr",
+    "Series A"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c43bd0ee17ac",
+   "title": "E-commerce Startup DealShare Considers Acquisition Amid Leadership Exits and Business Contraction",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGt1T2d6cGtXaEk5YmZjR1BENDN5NW9SWWZteERaVUJHaUJyLW9IRVhteGZLQUV4QU9PTFJFb1QxZGtDLU5OUlljMEdiZll5bG9Jak5tS0JUOU41RlpMdjlqSE5LMndqOWJGU0dud2p0dTVoYUl3enpCc2JoRkRibGJFRHNVaUJHbThIaGU0SXhvQXk0YnNLLWF4ZkVQeVJ0N2QxOXdMdU1tazNBVW5MYkNsb0ZmMzJQMnU1eXZ5RQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-31T07:00:22+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "E-commerce Startup DealShare Considers",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "4fb77d996133",
    "title": "10 Lessons from The Midnight Library about second chances",
@@ -7050,40 +7086,6 @@
    "reasons": [
     "funding in headline",
     "Rs400 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "77537d402348",
-   "title": "GENESIS Entrepreneur-in-Residence (EIR) Cohort-3 Launched at GENESIS NextGen Startup Summit - Coimbatore Edition",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTY2Y0NFaERfLVFmR1hoak5JeVh0MWlIQXB1eUR4QjhIbWJCZG10czRMeERtRnAycU0zMHZaS3dWMkxwRUpBdG1Xa3NqbnFXRWxNZXFXWmZycEhZYzRPdHRFeHpjQTNWbFBYc0ZPeFN2cEl2dWRuQmVNaTVXQy15R2hRNjJZaGkyRzFuT2VCZVgtcUZUN2hPM0xwMjNxcURhNlRBblc2dm51c09MNGgxUk9YSGdCMXBRYnlINkhYeDQ4dG4xdnh3bW9xWV9URVV1b2k2c0xzdw?oc=5",
-   "source": "India Education Diary",
-   "published": "2026-08-24T07:08:14+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "GENESIS Entrepreneur-in-Residence (EIR) Cohort-3",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2ad4e7ed81a0",
-   "title": "CoinDCX expands SIP offering with daily investments and XIRR tracking from Rs 100",
-   "url": "https://economictimes.indiatimes.com/tech/technology/coindcx-expands-sip-offering-with-daily-investments-and-xirr-tracking-from-rs-100/articleshow/133454978.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T07:04:43+00:00",
-   "score": 57,
-   "category": "launch",
-   "company": "CoinDCX",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

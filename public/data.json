@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T11:50:59.216382+00:00",
+ "generated_at": "2026-08-31T12:01:31.898399+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 76,
-  "fresh": 1,
+  "fetched": 77,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -320,6 +320,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4d65f70da2f7",
+   "title": "Ribbit Capital extends India fintech harvest to over $650 mn",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFdFbHNGSFNERFFUdXdMWDBuQkRHZlNQbzc2SFpzcDM5eGNaMGFWbFRLN2w0YlRpY2l4OFVYLW93Uy1zNDZlWURjaTlOTFpPdnFsUk5qS1k2Y1VIVVZkOHExQWExNEFmMmdGZUhNMHNXMEd1X1psZWVhUDdIRHpJLVA2RVRQT0lQejdB?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-31T10:33:35+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Ribbit Capital",
+   "amount": "$650 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$650 mn"
    ],
    "alerted": false
   },
@@ -7051,24 +7069,6 @@
    "reasons": [
     "acquisition in headline",
     "$373 mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "378aa102d0f4",
-   "title": "TCS to buy Porsche's IT unit, bags five-year deal worth $1.5 billion",
-   "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-to-buy-porsches-it-unit-for-enterprise-value-of-373-million/articleshow/133465211.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T12:00:25+00:00",
-   "score": 80,
-   "category": "funding",
-   "company": "TCS",
-   "amount": "$1.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.5 billion"
    ],
    "alerted": true
   }

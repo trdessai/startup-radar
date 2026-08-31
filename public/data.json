@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-31T11:41:17.560646+00:00",
+ "generated_at": "2026-08-31T11:50:59.216382+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 78,
-  "fresh": 6,
-  "alerted": 2
+  "fetched": 76,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -930,6 +930,23 @@
    "score": 27,
    "category": "other",
    "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "40a902d7f227",
+   "title": "KOINDEX 2026 Fires Up Indian Startup Interest in Korean Beauty, Food and Construction Technologies",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWExlQ3hfZlAzeV9fdEVQVzRYbVJRZ25PbDZrNmV6eWxEd0xCWERLM2JKaUlNYkc2UHYtQ0RVbFhiSlh4eU1iZ3BoekYxRmZDWi1VNlpjdjZpZWJHOVI5TkVFd2xQTUJQZjFSM1V3dC1hTjB2WEJOaTJNZVViNWhwd18yZ0VPMXJBcnlfN2N2RG1HUnV3MElfUTNUbDFzdzdVUTdBOURKUENmN1hqd2JSOEY0V2lvRndWTC1TdEFnVk5lS2NSS0tGNUJUQlRiZw?oc=5",
+   "source": "asiancommunitynews.com",
+   "published": "2026-08-31T08:00:13+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "KOINDEX",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4577,23 +4594,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "48d3f61a9051",
-   "title": "'Humbled with feeling of pure sattvic love...': RSS Chief pens heartfelt message on visit to ISKCON New York",
-   "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOUmFzemdGUndSQmQyODNhTHRfOTc5cjdFSzctTXBxREc4TjRvNEV0Um5uOEkyY3VXTUdmUkFUY0s0UlhvWkM1WUxHTnJMcEVweDNRcDB4RXJSNDNBUTh4WGgyVnNFRXNRNmJicVEyX0hzN2QxSkl5VEVFNVVnTzFWc3dFWXFIN2pnWHBKNU1lNVRIcDRFdzYwUUhyeTBxcENIQ25QYlhYbGl4cVRCeFljYXdDMENTUTd0aWNaTTJWWVVuM3dpM2J5Y2lGMFgxeXR4Nks3UTlWYlBKWTBHNWFsZkFudHYxbzZfLXNtdmYxU3dnNUplQ1FUYkxyY3FEMU5RMkZONzRwMVpYYzVZdzNXQkJXcWRPZnRSdTlxRG1uWnQ2S21RVXFPRUNXLWx2cHM3eHVadTE5R1ZjSlhIMV8td1VyTnQ0bXVLMzRmNzloUEVLWFFNYlpzT1Y4Z2RCdkZrR2dTSF9qRE1fbVJab3c4S05ZZmVKZ015Ul8zdkw0QkQ2dXFsRG5Eb1RTVTlrUmx5?oc=5",
-   "source": "Dailyhunt",
-   "published": "2026-08-28T21:06:30+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Humbled",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6791ab54e4e3",

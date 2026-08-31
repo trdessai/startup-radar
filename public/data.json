@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T02:41:21.982624+00:00",
+ "generated_at": "2026-08-31T02:51:14.172542+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 2,
+  "fetched": 21,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
@@ -41,6 +41,23 @@
     "Rs565 crore"
    ],
    "alerted": false
+  },
+  {
+   "id": "56259b41b4f9",
+   "title": "Meta\u2019s Double Standards, Weekly Funding Rundown & More",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScXpmUzBuUXZXV2lTclp0UGVvdURTRlZ5cVlPTFJiUU1UZWlteXYyY1JDbVRXbGM5NExCVmZ5eTZia0czdjFMdkN4akh4bkFQNHQ4YlJSZThkNldmZG01Q0E5ZmJibG15Q1VtdmRfS3RjdUViV2gwVm1sLUU4bWM?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T02:30:23+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Meta\u2019s Double Standards Weekly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "f741a8cfbddd",
@@ -4590,23 +4607,6 @@
    "reasons": [
     "launch in headline",
     "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0648b27fa68d",
-   "title": "August Energy, Energeia float $100-mn energy-efficiency infra fund for India",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcW1mQi1Zc2ZxSEVUVmtsTk41S3ZsczZDYXBOZzlUUnZ2dHIxaHNjdkpBb0lCdlNPTjEzVF9ielpFNGc2clJpbEZ5dWc4Y0RGc0VlNkJPRWJpQTFxODBDRkFqNGdXWFA5V1hGcUhzaDloX2ZLYm54NXJYOEwxUURkaFJUOWxPcHVRNXVoQ1JPTzRhY2RLcnk2WWxPX3FLV0E?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-26T06:07:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "August Energy Energeia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

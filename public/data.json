@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T06:12:13.156566+00:00",
+ "generated_at": "2026-08-31T06:21:22.691903+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 46,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "63a484fe7805",
+   "title": "Veeba expands its portfolio with Veeba Heritage, enters chutney category",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12T25FUUl3dnZDUm9PaDhkRk1uaVNrZXREVzZwcHlNMmdjOEpMendBcnZLdmtVUkVQOXVXQUNBQWtKdk4wakp4OGtsYTZEallHQkRkSHdyWVZnYTdkYlpodmdRWlFuTVp1bUV1SHdkdE9iMHV0UjlZVEE2cUg?oc=5",
+   "source": "newznew.com",
+   "published": "2026-08-31T06:18:56+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Veeba",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "445521f42b93",
    "title": "Appinventiv Opens Free Office Space for Early-Stage AI Startups at New Noida Facility",
@@ -107,6 +124,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bfc806c0e82d",
+   "title": "#startup of the day 20 - Guttify",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmRoRUVINldUN09DV191elZLTHFuMWFkdjU2MUJOb29aZ2dmV0hlc3RBeXpkWlFydDlRRTM5alpWYUdGYUVVZDZwX1VhalpXdDZIakxTUGx3Z1ROaGk3TWMwb19kMGNVT25IeG5rOEgzRTlkVWlvbWdBZ2JQaFQ4NjJ0amZRckllVXdlVl93?oc=5",
+   "source": "BioSpectrum India",
+   "published": "2026-08-31T05:36:09+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -247,6 +282,23 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a545cf698b39",
+   "title": "VC funding news: Bessemer Venture Partners, Malachyte, Hadrian, Acrab, Avatar Robotics",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmxfb3h0cl9JaWJFS0xBYm9wM2ZkZEpwLVpDMVN2aW9hVHVyYjdoWGNoczNmdnRkM2ZnZ1JGQXRpWnJJQWxKRlBTd2xYaHZVU19hTzNzQ0ctd2ptU0h4Q3VRUU1WVkpMeWJITGxzNDRHdWdXUWpodFA4TVFwbThzME43ZEM5bVVwbkFwUVhLRERWbllRQ3FBdUliMkQxMzlRWlRpaEVjMWtZd0U4aTROTkdJQTBWcjdpT0FKYVJGNFjSAcABQVVfeXFMT0JsX294dHJfSWliRUtMQWJvcDNmZGRKcC1aQzFTdmlvYVR1cmI3aFhjaHMzZnZ0ZDNmZ2dSRkF0aVpySUFsSkZQU3dsWGh2VVNfYU8zc0NHLXdqbVNIeEN1UVFNVlZKTHliSExsczQ0R3VnV1FqaHRQOE1RcG04czBON2RDOW1VcG5BcFFYS0REVm5ZUUNxQXVJYjJEMTM5UVpUaWhFYzFrWXdFOGk0Tk5HSUEwVnI3aU9BSmFSRjRY?oc=5",
+   "source": "InfotechLead",
+   "published": "2026-08-31T05:02:44+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "VC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -4656,23 +4708,6 @@
    "alerted": true
   },
   {
-   "id": "51651173b031",
-   "title": "Zoom forecasts quarterly profit below estimates",
-   "url": "https://economictimes.indiatimes.com/tech/technology/zoom-forecasts-quarterly-profit-below-estimates/articleshow/133534208.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T08:00:14+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Zoom",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4e7d2808ba8d",
    "title": "Homegrown IndieSemiC Launches Wi-Fi Module for IP Cameras and CCTV",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2J6Q3YyUFVEMXNpeWpFM3ZsVzJKUXhkRmRHbGVWcE9lY0JjemdYdWhSMnUzQVpoMHozQmdCS09FSVZnN3BnU3hMV0FkcTdlTmhyVDBlbjZmRlZWOFdDMDg3MVloV1R6RHNUZC1jVmNfVjZHMms5RTNtakJ3eVBJNHBHZHZyeFk4dWpkbEpnXzVGSTZqN1dXV1lUVFBRWmU3UUJGN045SHAwOGxtblJvNUxyQl8wUQ?oc=5",
@@ -7051,24 +7086,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f7f274f02e76",
-   "title": "IDFC FIRST Bank And IIM Calcutta Launch Rs 2 Cr Program For Sustainable Startups",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUNHeXVHYlZENmNhODJIbjdIUkJWTFg3bDRmMG1UaHZJbzZIUmJwS1hvRVJiRVlIVGs3YVQ4NE5MYTNvX0hESGd3a2NxOVVjMTNIXzVVRjRHclFkUE45ellRY2ZfNi1tTDZ6QnhKcjE4UFh4aDFvcElMV0w0eDJQY2lWX1plcWxWalVVVk5Ba1JpWDY1c2FxUEw3LWRDdk81UkVIZm5XTUZabkxFZ2FIRm9mb3d4V2hqLXVxejdn?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-08-24T06:14:41+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "IDFC FIRST Bank And IIM",
-   "amount": "Rs2 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs2 Cr"
    ],
    "alerted": true
   }

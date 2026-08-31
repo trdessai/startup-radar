@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T10:41:14.615210+00:00",
+ "generated_at": "2026-08-31T10:51:21.749642+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 82,
-  "fresh": 4,
-  "alerted": 2
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "707fd9d9073c",
+   "title": "Centre Notifies \u20b91.28 Lakh Cr Semicon 2.0, Targets 1 Lakh More Chip Engineers",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0UwTjZOdW43RGhQcnVtZ0lxd05Ka3FZYmhQcUcxZE40R3pkWkJlVk8wUDZXd0cya2pOQXhwRGtOdlNlMDhzNnhGd0UySmZYcmI1Y1NRQUlsc1Zuck1DTXFCc0MzWlN1bXluMk5tajFjRWVOekMyR213alp6Z1Y4NjVwWk9QeVRZVHpnMzhpdXJXcWhjT0ZUYld2STdKQVhVcDBPZ2FXcEF6MzhR?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T10:45:24+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Centre Notifies",
+   "amount": "\u20b91.28 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91.28 Lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "c4252b8e82f3",
    "title": "Slowform Launches Publishing House with Bad Hangover",
@@ -286,6 +304,24 @@
    "founders": [],
    "reasons": [
     "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7da2a47dce20",
+   "title": "NIIF\u2019s second infra fund raises $2 bn from local, global LPs to hit first close",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2NadExuaVBLT2pRT1haUHNsemhhTlluVXJfbFpxMzlfQlpja3lwSUNOWTRGMDdnQ1RBY0lMTUJuNW0yX0ZzbzJuaFBtS2JqRjE0RlRfTVBpMWpNdHB2bzg2OGNFbTJfcUZTSXFWdDl3ZnItRUZwT1BTYWNJRDhTazBGNC02cDdhcXBhUjZnc3hJZlFzLWVhckk1ekJ4aFZqbzBj?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-31T09:17:40+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "NIIF\u2019s",
+   "amount": "$2 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 bn"
    ],
    "alerted": true
   },
@@ -4599,24 +4635,6 @@
    "alerted": true
   },
   {
-   "id": "fce69b085348",
-   "title": "Hala Mobility\u2019s FY26 Revenue Jumps 4.4X To \u20b997 Cr, Posts \u20b93.6 Cr Profit",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSzdyckJibmNKNUgtRlJMN1c3ci05Z2dlSmR6bUZmc2o3MFhmbU1KRm9nQU5kMWVDc0lBRnpZcFJ5Nmg4TFFNTk94TDdTcGZaS1Fmc04wT056WHBFZXRYQzEzTElyUjZmTUFvSTlQM0xpYUlVQllkeFJXQ1dDMHVfZllKS0lmNUpYSVdzbmcxUmZfYUIwejVra040Q3dnLWo4RFJCSFFVb3kyM0ZYU3c?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-26T13:47:25+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "Hala Mobility\u2019s FY26 Revenue Jumps",
-   "amount": "\u20b997 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b997 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "71a1c24e0e88",
    "title": "D2C Kitchenware Startup Curaa Raises \u20b940 Cr To Expand Portfolio",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWFEVkpvRHFjazZNaWNlODlMT3gxTU1KLVd1Vkh4TkQtWTU0aWZzQWtaYXNJcExjSTg0dVJiaDJMZFN2OFA4S3BsRkktajhNbFJkMHZmMGhKZ01KMzFfQjVSOFExY3pHUVZpRGh6VDlpTzNETUQxZDZBY0E5RWpwZjJjZUthT29ScW45TEZ6NlpjdkVxS1RXNG9ERQ?oc=5",
@@ -4633,24 +4651,6 @@
     "\u20b940 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "c6a8ceb62306",
-   "title": "Zerodha reports Rs 4,283 Cr profit in FY26; revenue remains flat",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1Joc3FlNmVDaHhLbEFDSEx3ZnlKLUlSbkJKUWRXUUZSZ08ySDRNQ1dBbVZfRTVNWEdwWjlCVVl0QVlrX2ZnOHdTUF9IcElxXzlzcmxmcWVBdEZlRl85ZXpJRlpyV2RadERKQmlMeE96ZkJQUjdMUkJ6elM5U3VNUzVpSFVQMS1SeUNuaDdyZ0FnUlgzdGFBMEdyeFVYQdIBngFBVV95cUxOb1Joc3FlNmVDaHhLbEFDSEx3ZnlKLUlSbkJKUWRXUUZSZ08ySDRNQ1dBbVZfRTVNWEdwWjlCVVl0QVlrX2ZnOHdTUF9IcElxXzlzcmxmcWVBdEZlRl85ZXpJRlpyV2RadERKQmlMeE96ZkJQUjdMUkJ6elM5U3VNUzVpSFVQMS1SeUNuaDdyZ0FnUlgzdGFBMEdyeFVYQQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-26T13:42:46+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Zerodha",
-   "amount": "Rs4,283 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs4,283 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "dcdfa87cf40d",

@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-08-31T13:31:12.811772+00:00",
+ "generated_at": "2026-08-31T13:41:18.716743+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 76,
-  "fresh": 1,
+  "fresh": 4,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "9660017f9ea9",
+   "title": "As Tim Cook steps down, India stands at the heart of Apple\u2019s next chapter",
+   "url": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
+   "source": "YourStory",
+   "published": "2026-08-31T13:38:12+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "As Tim Cook",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5098cfa85f43",
+   "title": "Close to half the merchants not willing to pay MDR on UPI: Survey",
+   "url": "https://yourstory.com/2026/08/close-to-half-the-merchants-not-willing-to-pay-mdr-on-upi-survey",
+   "source": "YourStory",
+   "published": "2026-08-31T13:35:16+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Close",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "76a765691135",
+   "title": "From Patna\u2019s Settlements to Cancer Care and AI: The Story of Gautam Gauri",
+   "url": "https://yourstory.com/2026/08/story-gautam-gauri",
+   "source": "YourStory",
+   "published": "2026-08-31T13:33:22+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "From Patna\u2019s Settlements",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "97c433956548",
    "title": "Zomato layoffs: Hyderabad employees to get August salary, 4 months\u2019 pay, medical insurance \u2014 Check details",
@@ -16,6 +68,23 @@
    "score": 23,
    "category": "other",
    "company": "Zomato",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "70806cd320e7",
+   "title": "What India\u2019s BRICS chairship can actually do for child safety online",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejBHM1ZYb2NzNGFRc3MxX0JmX1lRcHhBekgyRVU4M3c1YkZITkhOX2VtN0JXa2dHZXF0bjZySXkxMjlIWHFpSjVPS2M1QVhBRnNFandEenlVWWlMZldndXhYWkc4WURXb0hRTjJ1VW83QTlFZWF6MmQ4WXF1d1FMb2NEU1Jqb28?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-31T13:18:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "What India\u2019s BRICS",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4520,23 +4589,6 @@
    "alerted": true
   },
   {
-   "id": "3f81960b9d04",
-   "title": "Veeba\u2019s New Heritage Range Takes Regional Indian Chutney Flavours to Modern Consumers",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGFFTVduc3RQV3dXLTBXRTY5NEFlTDQtU1ZFSTc4MFVGbS13R0hidlRUbFVkSGhxLXJyNWtqYWd4eGZ3RXRwRXNwTHFBVXRiYm1qOHQyY3NZZzVsQ0V4bHp0WlJHT2VRSmpUa0dFblJqeDBwUFVTZWIzSnVFdlhOVGdzbThCM2dRcUdaQzdIS2hPbUpCSkVSNXE1dkpGcnNkQXJVd2JHTXU3eFZ2SHBOTEZnaw?oc=5",
-   "source": "MediaNews4U",
-   "published": "2026-08-29T04:22:09+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Veeba\u2019s New Heritage Range Takes",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "79a6b8e3be25",
    "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
@@ -4555,40 +4607,6 @@
    "alerted": true
   },
   {
-   "id": "221fcff1b2a6",
-   "title": "DataLabs by Inc42",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzAtdC1qMGU1T0FGTi15SDdCa1dPT3ZXY1cwU3UwckRvWWRQQ1NnNFJQRHZRd2VOTW9QZjhzcUw5Nk45V0VMeWlGbUl4bWprUlJLYUlhVnZFUXBEVUtlcVFQWXVVMW9JNVA4bWhWYkthWEtUMml3NUFmSWZRMnpWalFjcnhpNUU1MTQxMURkVzh4eHc4WWNsM0o1SmFkdWpyNDBDVXVGU2llbUVkNW9wUWM1UF9pbFdRU256NnY3OFRtWlExckRZYjBYUEZ0Q3V2RTFJcWtRaHBfV1hCTWh2TDNaWDU?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-29T03:53:45+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "DataLabs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f37cde55023d",
-   "title": "Webgensis Key People 2026 \u2013 Founders, CEO & CXOs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KZk9wVEptT01ZWTVydDduOTl1aE5OQzJJUnY1NTNwTTNSNWRHTVpweHp0UkxuX29Qd3B2RkdKNEYxZ3BRNnJlNzhONzZhd0E0OFl4OThR?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-29T03:31:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Webgensis Key People",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "867007891322",
    "title": "From Third Wave Coffee To MATTER \u2014 Indian Startups Raised Over $210 Mn This Week",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUJtajZqeTEzZEdfSzlMaGpqczcxVmp5LWtnckd1QU4xc1RpaGpiYUVhNkV3eTJwam1sTDdnX0pGaEpuXzRqV2E5SDlwVVFmTW5tNExqaTg0eVE4Y1Eza1Z3Uk9SZ1RKVzVuWW1xZkdIMGcwcnowb3lYSmZWTjBZeFJlRDNPUlQ4T3BfQmIwaS1aOGtoZ1pvdFE5RU5DYi1EeDBv?oc=5",
@@ -4605,24 +4623,6 @@
     "$210 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "ef24e9f2ae40",
-   "title": "Can a cheek swab screen for 7,442 genetic disorders?",
-   "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
-   "source": "YourStory",
-   "published": "2026-08-29T03:15:36+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "Can",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "1aa7dea393cd",

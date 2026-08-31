@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:11:24.966416+00:00",
+ "generated_at": "2026-08-31T17:21:25.366087+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 37,
@@ -129,6 +129,24 @@
     "launch"
    ],
    "alerted": true
+  },
+  {
+   "id": "9c73a9a549bb",
+   "title": "- medianama.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mVExTX05aRUNFdWx2UTNsNzdZdVY5UXV5Q3RuaHlFdy1LWWNMb205TS1xaWtJYjFyczBwcEhKSjFla2lpa085NlA1T0xZZzMyU0l1MUVzU0UtQzVTRnZFc2FLVy0tbzdaWXdXc3JuQzNlaU80UUdtOFJNWWY?oc=5",
+   "source": "medianama.com",
+   "published": "2026-08-31T15:25:10+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "c6e322b14212",
@@ -4403,23 +4421,6 @@
    "score": 18,
    "category": "other",
    "company": "Why Is Aman Gupta\u2019s Boat",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b22be9189110",
-   "title": "SparkStation",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yYWFDX1ZORU1WVEIweVV0NVdrM2wyUmxDeUhuRHVvRXRrb2hCUU5FeHpvQThaNFJ5OEpjNFFLR0xyWFVMQjdVbFMxSzNQbzA?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-29T11:12:37+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "SparkStation",
    "amount": "",
    "stage": "",
    "founders": [],

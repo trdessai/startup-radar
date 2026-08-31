@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-31T06:51:16.393021+00:00",
+ "generated_at": "2026-08-31T07:01:13.374023+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 48,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 50,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "4fb77d996133",
+   "title": "10 Lessons from The Midnight Library about second chances",
+   "url": "https://yourstory.com/2026/08/10-lessons-from-the-midnight-library",
+   "source": "YourStory",
+   "published": "2026-08-31T07:00:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d01247d82271",
+   "title": "SpiceJet seeks more time to pay \u20b950 crore to Maran",
+   "url": "https://www.livemint.com/companies/news/spicejet-seeks-more-time-to-pay-50-crore-to-maran-11788157455274.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T06:53:05+00:00",
+   "score": 37,
+   "category": "other",
+   "company": "SpiceJet",
+   "amount": "\u20b9144.5 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9144.5 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "7fb302ba7062",
    "title": "Sweet Karam Coffee Launches \u2018The Big South Indian Festival\u2019 to Celebrate South India\u2019s Flavours and Traditions",
@@ -175,6 +211,23 @@
    "reasons": [
     "funding in headline",
     "Rs20 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e531ee39b5e7",
+   "title": "After a Sold-Out Debut, The Startup Mixer Returns with Edition 2 in Mumbai on September 2",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0xoMkJOSGlrNUtFRWMzcTlCdl93aTJZMjR2cTRPNHhSVExrYnlYUzY3NWlmdXJPamtuX24yY3BWZ0NENUpOaFNSMk9sVWFZTmlxdEx5eEtrQlEyU3dfejUzeWdiOTdiRFdrQk9QMmMxbmh2dThUSXBnOExDbzZNeXVvZjEteVlYSjN0OS1WLWJDTWxPaEs5Vzh1SFNCR3JkTkZucTFDcnh6OWsyZjNWWEJ0Ym5ObFpYb0xlamRKem5UVV8xdmVyNGZEeThQYW9LdG1ZNXFNWkR0ZjJmOWdz0gHfAUFVX3lxTFA3TGgyQk5IaWs1S0VFYzNxOUJ2X3dpMlkyNHZxNE80eFJUTGtieVhTNjc1aWZ1ck9qa25fbjJjcFZnQ0Q1Sk5oU1IyT2xVYVlOaXF0THl4S2tCUTJTd196NTN5Z2I5N2JEV2tCT1AyYzFuaHZ1OFRJcGc4TENvNk15dW9mMS15WVhKM3Q5LVYtYkNNbE9oSzlXOHVIU0JHcmRORm5xMUNyeHo5azJmM1ZYQnRibk5sWlhvTGVqZEp6blRVXzF2ZXI0ZkR5OFBhb0t0bVk1cU1aRHRmMmY5Z3M?oc=5",
+   "source": "Devdiscourse",
+   "published": "2026-08-31T05:50:53+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "After",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -4650,24 +4703,6 @@
    "alerted": false
   },
   {
-   "id": "7d49a75f5d8b",
-   "title": "Indian D2C companies raised $6B in equity funding across 2,000 rounds between 2021 and 2026 - Tracxn",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnVpbTEtdHduRzBJT2EzejJ6UmhnNEJRUk04dlVuMDkwd1NuZUdjZk52WVZKenlUaVRzS3QxSEJyQkVYMFltVmQ2ZXphUUpsbWViR1dVbHRtU094Z3pfY3NpOGxNMEpyT1BoYmMyYy16d2JuakNDYjV0S0RqSGs3MkJXZDhhcHdiaXNqNkpxMnI0QlpsaHYySlg3WUh6SlhqUjZRQ3RESllnUjhhWHdOT3g3cU9HT05PU1M4a0pmRG9MT214U3RKZVNzT2Y?oc=5",
-   "source": "TNGlobal",
-   "published": "2026-08-26T09:10:49+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b33faac4c4b9",
    "title": "Certain Energy Raises \u00a310M Series A For Manganese Flow Battery, Plans India Grid Project",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaVJGT2ZUME5pNVlkXzdpaEo1bEpWZ1pZM3hfTTJjdXpqLXBnb3JOR3I5VWIwZ2E0THNILUVDcms4SktfVGpJQnB0VHhNSFlMOWlKQ284WVhkNXNReXdDczdfZU1mcXF6YnIzeFpHSHRGTmRsSFk5RlppX2hqcmdDYm5sSFp4Zi0xZzBqU2tVeTVKenVQRFpDLWtCNXBJcFlsWG5CZ3owNm5ZajBmcVBnTnktVE13NDhRZVc3aGEwMVJnSUtkcUJhTHY0d3c2RGFHVlRNeDJtQzAyZw?oc=5",
@@ -4739,23 +4774,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "025f56b2edf7",
-   "title": "AvenuesAI's RediffPay targets consumer UPI payments, credit",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kcVNBZmFjMUJ0OTFHaHNzZ3A1eEFTOU9MVldXRjJnc01sempDYnZJcFluODJmMHVZSFR2TDl5MnBlVjlZSjVPM1dvTU85V0hFaEtqbWJWNkNWWUFkWGJCMDhJN2dTX243dWVPTmJvdGJDZmttQm9j?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-26T08:17:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "AvenuesAI's RediffPay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "dd6fc7c3917e",

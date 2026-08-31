@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-31T10:51:21.749642+00:00",
+ "generated_at": "2026-08-31T11:01:22.759554+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 82,
+  "fetched": 80,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "c8c940ac1a2f",
+   "title": "Semicon 2.0 sets investment thresholds, offers 40% fab subsidy, Rs 15 crore startup funding",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckIxM0JMUzR3blRhakl2SEZZbUtzNUZBNDJrSktVamhMdWZEc1ZvVFNBLVFjeUVuaFc5LWZCSnNCUVZhTE9rcmxnb296SlF1ckVlNmZsS1BiYnpwTFRBc05qbXlzY2VWYkg5V3dTZDFIMVhVUkw5bWRkckY3V3BJdW5TMFNPVU1QMWViN0tKN3FqMmpWdXdoZXA1bTdOVE16WEplT2d6c0xkOU1PUXFvaVlpRy1SV1VPbXlueXZmMENwNFptNWVrLUtGU0QxbndISFJYZw?oc=5",
+   "source": "ANI News",
+   "published": "2026-08-31T10:53:00+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Semicon",
+   "amount": "Rs15 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs15 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8b60878bbf80",
+   "title": "From roots to returns: Why Indian real estate is drawing NRI interest",
+   "url": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest",
+   "source": "YourStory",
+   "published": "2026-08-31T10:50:42+00:00",
+   "score": 49,
+   "category": "expansion",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
   {
    "id": "707fd9d9073c",
    "title": "Centre Notifies \u20b91.28 Lakh Cr Semicon 2.0, Targets 1 Lakh More Chip Engineers",
@@ -4564,24 +4599,6 @@
    "alerted": false
   },
   {
-   "id": "fb1bcf3f527c",
-   "title": "Prudential to sell up to 2% stake in ICICI Prudential AMC worth around \u20b93,190 crore",
-   "url": "https://www.livemint.com/companies/news/prudential-stake-in-icici-prudential-amc-icici-bank-asset-management-india-11787746056042.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-26T14:39:52+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Prudential",
-   "amount": "\u20b93,190 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b93,190 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1a3ff57b444c",
    "title": "2COMS Unveils 'Back to Bengal' Platform at Fourth Tech E-Summit in Bengaluru to Address Talent Migration",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRm1yYlc5bFNIMTdjZnAtRmVVdHdjcXcxSEhBZURpdVUycTVGQ3ZablV0UWFaaUQ4bGZpcXpIYXhxdmNzS2pUM0R4d0FLckNJSnFKc3BpTHhMVW5RcmVsTGQ5SDdQRTIycjdUa2dqeHBzWE5RdTB2V2MxT3RDUWNhS25IWGo4N1g3WEVLQ3hfQnpDOHQ4TUJBeTlld0VRTU5uWndJVE9fTV9IMTlFamR1dXRPbWNTdWJWSFp4Zk1ib3UwcUVjclc0X1c5Q3hSZURS?oc=5",
@@ -4597,23 +4614,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "30b323f44fdb",
-   "title": "Zerodha\u2019s growth stalls; IT\u2019s new deal model",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/zerodhas-profit-stalls-its-new-deal-model/articleshow/133542508.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T14:02:51+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Zerodha\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1fbcd6f7b8c2",

@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-08-31T10:31:13.893666+00:00",
+ "generated_at": "2026-08-31T10:41:14.615210+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 82,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "c4252b8e82f3",
+   "title": "Slowform Launches Publishing House with Bad Hangover",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVnJYQ1kwYmpuV0J1N0l3WnJMcjJHalVPRFp5YzFfU0d1M1dsX0lVdlNSNk8yU0k5b3VXMkxxVFR0TVJWdGZXYjhSXy15VEpVRDZHaDBrN3VodEhlOURjakdwbVhCWjNnSVR4bG40TGlrUGZLVzJlV0NpckgyZElDWlhpamRkOVJtMkp2NTJSYndTREMtSXA1dEVSUTdVY05yZDhkbUwyN1F1SHVNVTBzcy1QaHRBY29LbTVSeFIza3J2bGY4ampCalkwZ01oVzFueDh6eFFfMkR3czZ1M3BMRDVKWnFrSE5PSU1KcjNGTEhJS3FpNTVTQVpSWWZqdS01cDU4cHBBZlNyTXotaXZ6ODNjX195TExaMTdxMUF4ZEJfUQ?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-08-31T10:38:03+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Slowform",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6c2757f0d929",
+   "title": "Mayuri Nikumbh rejoins Elephant as Chief Design Officer",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDdQRUZPWTF5RkstX2RqWUFjMUdobW5IYVowS1lNZUF6YlhsRjJLbWY5c3JFekkwbzAwcm9CTUVyeHh5RmttNzJoVDlPNnoyQ2RYOE44ck5OSHVJUklycXBjZ2I1NzdpZ0xndDFlQm5MajVkNXliVUJReWxhN0VoUk9udFdHXzZxSmtINA?oc=5",
+   "source": "MediaNews4U",
+   "published": "2026-08-31T10:35:05+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Mayuri Nikumbh",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8b85549d9b1e",
    "title": "AI Image Generator and AI Flyer Generator: How Indian Startups Cut Marketing Production Costs",
@@ -19,6 +53,32 @@
    "amount": "",
    "stage": "",
    "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "16fe64c0e915",
+   "title": "Who Is Vivek Raghavan, The Sarvam AI Co-Founder Named Among TIMEs 100 Most Influential Leaders In AI",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1AxbU1xbkZtX3pyaDBXcENlOWVBTFp5UU5HSGZMTlZ0YTByUloxOEcyMHpiYV9fV0lGaTNwTm5HbHhmRjR0UFU4Q01nUWhVMGQwSEp1U0VkazBSbmJycEEyd01MVkpIWFdwTnlQOEpXWGxaMzAwdEc5V1FPT2w3UFd2b3h6S3ppekNhM1k3WEt6bUJxV29aU0RMc1g3amtac0R5WWNXQ3ZReEFIR3E3VnltLW90eEkyVms3NC1raDVDUDYwV0FVVnhkQXNwMUNlelZITVc5a9IB3AFBVV95cUxQQmMtNXdXNUNULXcyUG1TMG1vb05xVlVlU3l4MnVtMjZadkVDdjlGeFVMQU5nb24tY1FMMlBVdDhRSVJUTDE1NlZ5SHQ0TFlrVy03ajR5Y1E2a0pxNWxoWENLSV9vLTd4WkhaSGVwaDcwNXJoZzAtbTB0R2xfcU55c0VhQUlHdENIdnhXZ2ZWMlZIdmw0N3VNeEhObW9LQWRWZmVmaHRtZUR4N2phQXhWLThlNDh1enl4WkFsVHZIcWVySi1fcHdSTnhYcHZCX2x0LUdJWnRiaUQ0UjR6?oc=5",
+   "source": "Free Press Journal",
+   "published": "2026-08-31T10:16:17+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Who Is Vivek Raghavan The",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Named Among TIMEs",
+     "handle": null
+    },
+    {
+     "name": "The Sarvam AI",
+     "handle": null
+    }
+   ],
    "reasons": [
     "no clear event"
    ],
@@ -575,6 +635,24 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c17e19bf609f",
+   "title": "NIIF raises $2 billion for second infrastructure fund; sets target of $3.2 billion",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUJsYU5wTXZFWlVrM2RUZm00Q3E2MUtOLUtKaUwyWUpvUl9mRzBsUW1ZR2JiRnhmZnY1OHExYndQaTM0NGRmdUpVbl96TmpoZUpUbmtEMDgyZHAzZy1fcUFkLThaRl9vQWExcTdJWGNsTnpVMkszakRXRnlaQmE1c09Za0RORzF6cGU1NGFyTmVHOUVrRUkwMWFXMDhOWDVXOTNEV0NxZW9JTC1mNVhZNWozUDNlYUhjclpkclJpZTlMU0RJVXZGX0dpS3l2SUQ1cmJMbU1LRFU3QVF2bWfSAeMBQVVfeXFMTWZjUHpJLW5WSG9Yc0FtQ0xNX2NJeHJjYTlHMmZ1V0k0dVE5UlZ2TENlQW5RSXh4RHp4TUlENnpWVF9NNGU0RFlpMzFySi10enVvTTYxS09HTEN4cXlISEFLV2hRMjF3cHR0V2JGek81YTZZYkxNenBHZ3FVZ0xyTE9oeW1UaE42dW9sSkdNclFVVm1IN3dwdEN1a0NIaUxUQVNvMzFYSGdOTTItN1dlNHlKV3VybkdpT2xkSXZldms2TmRMMnljLVkwRk9uUnhmZzVfeXBTLUhHbWw2SFY2VzgyS3c?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-31T07:42:07+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "NIIF",
+   "amount": "$3.2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$3.2 billion"
    ],
    "alerted": true
   },
@@ -4592,24 +4670,6 @@
    "alerted": true
   },
   {
-   "id": "f80a279710a0",
-   "title": "Agent B Studio Rebuilds Design Software for the AI Era, Targets $800 Billion Interiors and Furnishings Market",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMldzUmxhenlXRWllZXExX2tmazdpMU0zNjR3TjQtSFhmYlhBSjZQWkFHeUUtTlM5SlFpUFNYbkNBZUh0Wlo4RnpVM2s3eGZ5ZE1pS0FwQVhmZHNkNmstZFdYNkwzcTFscjJGSFZSck9TNlF6OU4tSF9od2w2dkJHb25fZ3JaRm5GOTQyNWV1Skp6RHZNbWdPMnJ0ZEZpVzZleTI3STRUekc1cTlEZDJQSUt5T3JsUDgzblhXSmVxVHphX2JIWjkwTlJXbEcyWktqTUNnbVpoczVpZXBvWTNzTVNn?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-08-26T13:36:26+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Agent B Studio Rebuilds Design",
-   "amount": "$800 Billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$800 Billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "172169646c7d",
    "title": "Chef Sanjyot Keer\u2019s kitchen brand C\u00fcraa raises Rs 40 crore funding; says, 'Solving real cooking problems'",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTdnOWpFNU5RQlZ5bEZYX2xlTHBidHc3UjlBWlZZbWQ2RUY2T1F1bnp5dTdHNk1qdUxlOHJXMXNfRmZ0OXUyRFVBRGtPR0MxdEQ4ZWFwTEhHNjJMVUhDYTZPSjdQNHFXaFpneTRCV0paRUlKb1EtR2FqSVQyTmcwcE1kRHF1OHFuZmhscUR0NW9fY1hCdGtaYVJjZHJLa1F3Yl9uQ2FEZ3ZCdW1Vc1hfeG5IXzdiM19mVGJvak5WYkpPeTYxYm4yTF83bGZmT01FdmYwVEZzNkl6LUdSSXY2Q1ZzemhhX2fSAecBQVVfeXFMTUE3ZzlqRTVOUUJWeWxGWF9sZUxwYnR3N1I5QVpWWW1kNkVGNk9RdW56eXU3RzZNanVMZThyVzFzX0ZmdDl1MkRVQURrT0dDMXREOGVhcExIRzYyTFVIQ2E2T0o3UDRxV2haZ3k0QldKWkVJSm9RLUdhaklUMk5nMHBNZERxdThxbmZobHFEdDVvX2NYQnRrWmFSY2RyS2tRd2JfbkNhRGd2QnVtVXNYX3huSF83YjNfZlRib2pOVmJKT3k2MWJuMkxfN2xmZk9NRXZmMFRGczZJei1HUkl2NkNWc3poYV9n?oc=5",
@@ -4628,24 +4688,6 @@
    "alerted": true
   },
   {
-   "id": "30b26f48fe0b",
-   "title": "Meta reaches $16.68 billion settlement over social media harms to children",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-settles-with-us-states-over-social-media-harms/articleshow/133542742.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T13:31:52+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Meta",
-   "amount": "$16.68 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$16.68 billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "23c587abb8a4",
    "title": "Wipro Consumer Care Launches 'Snuggles' Dog Food at \u20b9530/kg",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0VpdzVSbElpTEZ2S3p0Y1YyT3FsMGxvR3hwU3I5ZEVwWUN6OVNxc2pCT3F1bnE4SXFHbTZQWmxwS3pBWVFRMEM0OGVuVms2bkNEakRhbldNYmE2M1NRdnNLYmljN3lnNDhhUVF6RlNRMy1hNGxYYThRSGJIelkyUkJwT1lwRktGWncwVzRlamRXMnlXTzNZODBrS3hqdG43OGxXb1BWQ0dKcWJhMkV1UXdidkFJMVpFd0dqTHVUT3dhM0N5eXpFMUVMa2t0M1h1d2NhSVZsaG10Y3BKeXY0M2JCakU?oc=5",
@@ -4661,42 +4703,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "59fec5401b3a",
-   "title": "VSUREs Portfolio Value Exposure Crosses Rs. 300 Crore Across 40+ Startups and SMEs",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWc0eWFya1A4a0taeEczUlY4LWwzVHE1UEtEVGFfU2JBWl9RUDk3XzYxSFpJRVdIbzVtamdfSmFMZkhKcmpTUnJ6TFpwb2IwU3QteXF2MUhsdWIzRU02TjkxQ0RQZDZuaExhSHRKX1VtczJMa3NDTDRpM3NMZklNNzdqUUFpSFozSlFwOF9LemVVVFB1OVBJOE1JRGZ6UTV0ZlNJTlJDNWhVNDE0RGRGbWZYMXZqTXltY3VXU2dOMUQ3Z9IBxgFBVV95cUxPYkZjUmlJaG1fWnNmTWFHZUdIeVEwTGhkMGh4YlM1TzJ6d00xbjZNT2hZX3JNR1kxUFNCMkNCSUhxSzdlV1ZJc1VUUkprdTJyUWRrc3hPVUEzWGdVTzZyYnMxdTZOeXJhWnFxUnZ2dzBNbFIwd2d6WHhhOHFSWWNxZ1ZGRllzdWlDWjFXcUo4ckg0MWxPTFdvTXY2QjhGMDBEYVFocS05VDZKNVh2ZXdNNEFsR3U3N0hZRHl4OHpQc1FTNzZZUEE?oc=5",
-   "source": "The Tribune",
-   "published": "2026-08-26T13:18:13+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "VSUREs Portfolio Value Exposure Crosses",
-   "amount": "Rs.300 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs.300 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ad06859005d6",
-   "title": "LEAD FY26\u2019s Loss Dips 20% YoY To \u20b934.5 Cr, Operating Revenue Up 10%",
-   "url": "https://inc42.com/buzz/lead-fy26-net-loss-dips-20-yoy-to-%e2%82%b934-5-cr-operating-revenue-up-10/",
-   "source": "Inc42",
-   "published": "2026-08-26T13:16:54+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "LEAD FY26\u2019s Loss Dips",
-   "amount": "\u20b943.3 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b943.3 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "6ae8cecaedcc",

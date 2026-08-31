@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-08-31T07:31:29.101685+00:00",
+ "generated_at": "2026-08-31T07:41:19.030806+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
-  "fresh": 4,
+  "fetched": 63,
+  "fresh": 3,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "9393f8c0bb7a",
+   "title": "Utsav Raises Approx. USD3.8M in Series A Funding",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEJfblZ1QU15Y3NiY1ZTVE9jbkRyX0c5OW1ZUG5JMnRBVF9HVFMyRkd2N0prTzIySjBFQ0NobDkxOUlpUW9NTml4UmFfSGZkM3J1ZzlWSjVmcWV4NnF5OUhLOTZrNzlLdUpvU3l1OWtfN0ZlNkI2TkFvallaSDN3Y3VaMkE4Vnd6ZHk4Tg?oc=5",
+   "source": "FinSMEs",
+   "published": "2026-08-31T07:33:18+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Utsav",
+   "amount": "USD3.8 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "USD3.8 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "5a83626c7abb",
    "title": "PhonePe launches UPI 123Pay for feature phone users without internet",
@@ -16,6 +35,23 @@
    "score": 68,
    "category": "launch",
    "company": "PhonePe",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f7f6da6adef9",
+   "title": "IMDbPro launches free 12-month premium membership for entertainment professionals in India",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUXNLcHNPUGRMdDZTYjFHM0dGbkZKRkp2eG1EOVB0Wkt4RVJYZzk4b211R2xHOW91aFlFSVhfMU5raWxENVN4XzFjWVNhRVpJelNNaE5vYWZWV0FmWlZWRVpFR0NkSHROWHFfVmJkNW1pWjBkQWNENVQ2WHdHajZtOFp5anpNQXN1X2lTRkRkOVd6WDJwWFAyNmt5NG5kVF9pWnl5b3lUcUhKVTktNW1LRW1BclFlTEVmMk50LUMwMGhVbkZWNTUyUjVaeHF2aUFpRXRuMnlQN2lWUzNuNHFzR0czMVkybVJ3VWhXWF9wVEljdGFYcWxnU0pwdVPSAfYBQVVfeXFMTjVucWtZbjdIQ1FBLXBPWk5EOHRTdzJwUy1SanFvdjZ1SkRCOWI4blRLUnNhYmFNdTBxcFNhNm4xU2YwZDRBVHJsWWZIMUphMVRtYURyb2s3WVRSZFVzRTRsZGlqZmNyVGZuRDFuRFZiQWpWY29tZUp3UXNQQkJxZnBVWk1wVkJPa2dTX1o5NlhscE9Uc3gyUi1ydWxJT0NTaVBQN3NRTTcyc3Q0anRTQjRNLV9IYl9xOFZyWVowdHB4dlMzVDBsa3Y5aFdzS0dtblRSUmZYTTJmbFdIa2V1eEM2d0pRWV9SV1pnNUJ0Z0pCUU8tX2tn?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-31T07:28:33+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "IMDbPro",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -38,6 +74,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f5459cce1168",
+   "title": "Uber, Eternal, Porter quit Karnataka gig workers board",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0FGUlRNRUlmNDBVa1ptajhWdHp2T3hiajRTVVBycDFScmp0TXJ3NjFpTnZRWHhJOWtpNmRzY2tKNHlDUF9mdVlOVkp6VnpneVduZEdacTV2WE1UcmlDZXpBc2dJQTAtVHB0TktpS3BWcWt3bzQwUVg0eEdkeHNCYVBwRHdnV3ZJOVFOcWJ4aw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-31T07:25:08+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Uber Eternal Porter",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
    ],
    "alerted": false
   },
@@ -7031,57 +7085,6 @@
    "reasons": [
     "launch in headline",
     "Rs10 lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "43d7965f4785",
-   "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets",
-   "url": "https://economictimes.indiatimes.com/tech/technology/sonova-unveils-new-ai-powered-hearing-aid-platform-to-support-growth-targets/articleshow/133456403.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T07:39:22+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Sonova",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "49c5bb632e5f",
-   "title": "Rohit Sharma Backs Gaming Studio LightFury, eCricket Beta in Sept",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUU9NU0tCUHQ1ZHZuTU9UcHBPamM0TmRJbk9qMHUtcTJveTFEeXNDZWY3eGFQdHdvQ3B3b1BFLVF6dDJySEpFenNrZWFRUF9hcGR6VTBIemtCSUg0MUtQd2V4TWtpUlA0SDlLY3B6blZTQkJ5NXVkSklsOVhQTlE4UkdIWDNQOHZOeFh1c1BvZFA0YldVZ2wxSkh5RVRIZXctQ2RKRjZzWnpGS3p1cjFNRFZjZGh1UEhXMDZicGlXZHZmcDBYdU1PRWVfYVZRNmwxTU9BMkExNjNCV0VVa25sQTdHVWFLSFVK?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-24T07:35:52+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "Rohit Sharma Backs Gaming Studio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c995b854f33a",
-   "title": "Veranda Learning gets NCLT nod for commerce demerger",
-   "url": "https://yourstory.com/2026/08/veranda-learning-gets-nclt-nod-for-commerce-demerger",
-   "source": "YourStory",
-   "published": "2026-08-24T07:32:03+00:00",
-   "score": 61,
-   "category": "funding",
-   "company": "Veranda Learning",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

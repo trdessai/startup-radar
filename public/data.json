@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-08-31T04:51:14.644431+00:00",
+ "generated_at": "2026-08-31T05:01:55.962409+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "20a5a66280fd",
+   "title": "Piramal Finance Raises Rs 3,850 Crore to Drive Retail Growth",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0xKRlNRX015UDV6NllwaVI3YkxscEc1X0ZuUXM5dnFaSWNxQUJuY3I5SzVndWRZOU1zT0loNVg2cjdzRGJ5Um9YdGtFR2Z6YUhrS3F0OWlucW02WEd5Tl9RVWdYLTdvdDlaWDJPU0QwcGhLazkzYzBNczFVeWhHRXJJTDg2cHptSTBveGpHUllka0ViamM3RFp1Q3RTdnpLUVFRa21kUkZrc1lTQ0doLXhtRVlXT0I4?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-31T04:56:38+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Piramal Finance",
+   "amount": "Rs3,850 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs3,850 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "924406a80bb7",
+   "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-issued-warrants-worth-5-5-billion-in-sb-energy-wsj-reports/articleshow/133641894.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T04:40:23+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "$5.5 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$5.5 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "7f90482fc14d",
    "title": "Spark Capital Group expands growth capital push with private equity and credit funds",
@@ -142,6 +178,23 @@
    "score": 68,
    "category": "launch",
    "company": "Linc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "88cddb0ed79b",
+   "title": "IPC launches 12 reference standards to strengthen quality of phytopharma",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTVjYThsQlF0LTdwOWpzUXBFdEtwcjFCbGNJT3VxWFlTU2R6XzdkU1IzZzhQR3hzZGh0dEpWVlMzOFRpSDhKM3lld2JLdWRDWlJrTkg3VWpLUU84VDBCRUQzSjZIbkloaDU0ODhDTVEtbVlLTUpnWkp4Sjg4bWktMnQ4X3lNOVVxNk1WZXQ4aDVuNWtUT3JLa1JmbjJ0c1BpOUNWT2xmR2toakQzWkVGX3N5dmRzcWfSAcABQVVfeXFMT2ZOZXI4ZFF1TTJoRG10bFVWazl1NVhtaUtFYUw1MzRESk1DYUpRWThOQjVnUVNYdEJpSGRrZXJZOG9tbFB6UXZTQlZwWEkxZGhwTTRISkpoT0lRVi1aSUpISUlZOWticmpidEFMMUpUVXFuRmJCVU1RbVVDdkdOTHpvVzlReDRRQlNtbUxWRFp0c0hhajFJbzZORk5tY3FDd1JDamp0V0VsRGNTZ3dfQ3lzYl9DYmdGZTlBa1U5ZFZl?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-08-31T02:35:43+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "IPC",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4544,23 +4597,6 @@
    "alerted": false
   },
   {
-   "id": "77a2aec195f6",
-   "title": "Rapido's Food Delivery App Ownly Puts Bengaluru's Hidden Food Gems on the Map with 'Only on Ownly'",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEpwWXR4N3pWbnFDNHN2Z2R1STB2Rk5FcENzZllzTi02Rmd5NFJuZ1VfSVJGd1RsS2V2bFhRV2YyZXU4Mlo0cEV1OWl3b0ZnUUUxMUFTTFJwQlVBZ0wybkhKZTRIcFVNLUVnREZ5d1FpMXlEMGpYVXpKY090NVlSd1Y2LWdrTUlPWFBDRXVTM1UxVE1FVjBMNFhVNVQ1cE9UNFZPVVpMYVV3QlpuMVBTRHJ3YTJDMTd1VWtmdlNEMzVMUVV4emh0YmQzOWU?oc=5",
-   "source": "Technuter",
-   "published": "2026-08-26T06:59:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Rapido's Food Delivery App Ownly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1321fab7ad83",
    "title": "Instawork\u2019s Instacore Wearable System Launches in India to Scale Real-World Robot Training Data And Deployments",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeHU3VDRTSExzd0ZWc0hjMU85ZG1wOElVOHoyRll3V25Ca1RQU1Z1SG1tTzFCX2lFSF9tVTVfQUFpMi1ueTQwRFZjeTJVX0V6QTh1RW1wTUk3c0FtOXp4NDItb1V0TDBjblM5T2RIY2NDN1N1VHUtdkNiV04zSy1Da0tydkFmVXVQTmhjT21UZDVXR0FzXy11cjQ1ODRjS0FIaGhucjJGLTBBTmY4SWlNYXd3SmZhRFNBVzdscWNaaWFWUDFFWW01X1drS0dkWVhrc1EtczBCaFVqZVNJOFh4SUpQTVdWQQ?oc=5",
@@ -7060,43 +7096,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9cbf86dca795",
-   "title": "Third Wave Coffee raises Rs 408 Cr led by WestBridge",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEZjMVY1T2RNYTZfVks5bE1iZWhZek8taGw1WHpVX2RWOS1DWGpodDBXeDk2ZUI1UjNPX3Fna2xtVDRYeHltOVhTOWNlTGowTXlNMVpEUHQyejd5SzJWZkxmb2ptSFBqY1VoakVwR1JfX2twdzY3YmN5OUpyWG9pRmY5RWZmeTNoeVhubGMyU0vSAZABQVVfeXFMTmhGYzFWNU9kTWE2X1ZLOWxNYmVoWXpPLWhsNVh6VV9kVjktQ1hqaHQwV3g5NmVCNVIzT19xZ2tsbVQ0WHh5bTlYUzljZUxqME15TTFaRFB0Mno3eUsyVmZMZm9qbUhQamNVaGpFcEdSX19rcHc2N2JjeTlKclhvaUZmOUVmZnkzaHlYbmxjMlNL?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-24T04:55:39+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Third Wave Coffee",
-   "amount": "Rs408 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs408 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ed42b05b8805",
-   "title": "D2C skincare brand Asaya raises Rs 88 Cr from RPSG Capital, OTP Ventures, others",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNNIBswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNA?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-24T04:55:02+00:00",
-   "score": 67,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs88 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs88 Cr",
-    "no company named"
    ],
    "alerted": true
   }

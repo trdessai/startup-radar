@@ -1,12 +1,83 @@
 {
- "generated_at": "2026-08-31T08:51:23.231707+00:00",
+ "generated_at": "2026-08-31T09:01:21.337572+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 77,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 75,
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "e964298625ef",
+   "title": "Why R&D Funding Alone Can\u2019t Bridge Commercialization Gaps",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1lhQXdoSlRhUC1xSktJa2RXd0xKVzQ4VDVPOUdNa0lLZVJmOXZkcnE4QkQzTk1Db0RZemVhNnNhOTNuUENJR183ZU84a2Q0cTl4Tk1sQm5rU3ZQQlpZYkx6R18yZEpYVEhTRy1BZlZ0MnQwOHB0OFNFRWw4UWVhUm1TNDY2MWg2aVVtdk9yd0VrQU5TX3Q5LUgzakFLZUZDRmg3b0hXaGYzWDlsTzdLSlhTamNsYXFZemc?oc=5",
+   "source": "Bisinfotech",
+   "published": "2026-08-31T08:58:23+00:00",
+   "score": 69,
+   "category": "funding",
+   "company": "Why R&D",
+   "amount": "",
+   "stage": "Bridge",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Bridge"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "284cd2690b5f",
+   "title": "NIIF raises Rs 19,000 cr as first close in second fund",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGs5eXJxcWpXbEhUdmVnYWZrUkltRTB2RXE5ejd6dmhXTzB4VDNDczVIeVZzaXZkWTE2bmVockkwVjJzeUZvcnNUdG5US1h0QUVCRUsxX040WXA0TE96Sk1mcU9xeTk4LUZybjhOaE1jZzdvSi02TkNSUVowOTVfU01maHVMNG5sNENV?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-08-31T08:56:05+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "NIIF",
+   "amount": "Rs19,000 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs19,000 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1df0d0f10b35",
+   "title": "IIT Bombay professor wants cities in Space. Raises Rs 100 cr to fix satellites first",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSkFXcFNPMXZvZ0VCbTdvcUZyQzZ1MElNdE1ZcU03NVMwQUk5WXBaVFJKOHpFaHpKcm9GUmtvMkY2c2FIemgxeGdudWdEcjBGa1RaS3k4blpMVmt4WWUxblJLNi1YUnBJM0FQVDZJcWJ3VWlFSjNjNXBIcmV3R1V5WnFWQTBSVmVVYkQ3RFVUNzR2TWk3dVlJd1JFcVVpOTQtZ2U2Z1YxazU1a1dDcTNnVXdxZmxDUHdVU0NFZnFRQXpLM24tUXBpMEEwZVJXWkp3Q1lVWmRZOXFIbmc0WndZU0puNkVKc0kxbmtJRnR6eUY1dUVndndjRV9R0gH_AUFVX3lxTFAwc0JmZUtvYkdCQmkyWjZXTmpQS3NaRUZSemNOT3BUSWt3YzNLQmpOdndDcFVwc29QbmJSd0EzT0hFS3k2RmZoNE5JSmhOQk5Eck1icXMycS1Gb1lpZnRRUlVqWnZXbWtCNnJPLUxGbWo1ZHFCajgtTnZhMlpYdVpaNWNVSmQ1ZDR2MGFyOWRlZU1NMENObTJVVW9hNXQ3dnlRc1h3ei1la2xIOUlTLWJfcXlFN2RVOFhKbWRYZThlMml3MEl0bkNsOVdwaDYtRUp1aUdKaUEwS1FWNUJhcDJrV0ZoZWFuU0F5MVdoWV81Y2xPdUtJMGsxZUMtZVMwcw?oc=5",
+   "source": "India Today",
+   "published": "2026-08-31T08:50:58+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "IIT Bombay",
+   "amount": "Rs100 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs100 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7e7b8173dc2c",
+   "title": "Sarvam has a new plan to boost engagement, says it will give creators early access to AI models",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY2JJTXNhWXBhMm90c1d5bTVHaWIxSGpFUThsTTBPUnYwOTVReE5zYW45M0luc0ZNT2dQR2ZvWmdIQnFZc2ZRLU1qOEkwdHlUUFVmbGhDN2JqdUZqam9QZWpqR0VHNmhxTDk1NTZnWnZjdlNqR0NkaEhJOW1fR1BTc0xKNUlYSk5VS0padzgtNGI1NFpUUkgxRGtKT2drcFlmSHR5RkJ4RG9YQ1NBVkVKMFZsb0I2N3BvQVZwMzFLM3p1ZmtSWGtFQ1dDWV9KZlJPbHJtenJ1ZVk3eExYZ1h3US1RbGxEV012WVhEZ0VZM2RGYnfSAfgBQVVfeXFMTmdwdmJ5TmwtbUdXQ25KdmozLW8wZnVmUnBuNGZLNjNWZUV2Qi1QT0FKNW5TMUhZN3dEZnB3SHBYYndNV0hEOW9vdXdDT1gxTDBSX2cxanVCbGZYVngtZWlUUUF0NUs2STljajhiVUprbXI3ekFwM3pfRDFFVzFURHY5U3JBaHVRd2VYMF9hSlNZSDU4M0tySUk1Ympadkx2dDFPU2RKcWF1aGF1Ni1YXzBhQXhYS0lhcG5RLXl0a0lWZHEzRUpWcnRtdUVyTWFsNnhnQjQ3bm5aRENxamlSZ2Jjb3U2ZWFlMDVIVDdhSzFGQmhZd1FHamU?oc=5",
+   "source": "India Today",
+   "published": "2026-08-31T08:50:03+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Sarvam",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b0dc478eefca",
    "title": "Dr. Subhash Chandra addresses personal wealth, guarantor queries; reveals future startup plans on Instagram l",
@@ -4781,76 +4852,6 @@
    "reasons": [
     "no clear event",
     "\u20b9750 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6913ba739532",
-   "title": "Cab drivers challenge Maharashtra\u2019s Marathi proficiency rule: Can it decide access to ride-hailing apps?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUFYRldzVjdqV05XaWxSUlZUel9IQ0ZvMXFxS041UDZscHFwNGYtbjNicUE1dW10clQzamtNMDlEMlFvc0x5U3dKNWpfZ2lERXpzTXpGX2VOZmo3SHdVYXEwR292bWNvOTd6RDBXc3BkLWVKX3ZHNnFOclNtOEhGNA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-26T11:18:57+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Cab",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3e7da6964616",
-   "title": "Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 mn",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTVLYVcyTzRUX3FRaGVjWEkzVTd1NEhqVkZ5XzlNbjluY1RoTE5OclVQTWpvOXdIM011R1ljMDUxMUF5NUlDUXU3RjNvRDhFQzB5Q1hkTF94TTBleU91aXN3X016WmV6YUhSMU0tXy1UWm13S3hJaDdNcHRwcFJKdHZFWlpOemdqOWFXeV9Ic2pMNnlRY1dsdA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-26T11:14:49+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Prudential",
-   "amount": "$333 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$333 mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9938d4c89d2a",
-   "title": "Kolors Healthcare",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40b2YxM2ZETGN0RC1xc3V1MmplSUl6Z2JVdUJEUkE2VTZSWlFBeUM5d1Z0ck91WkZMTTlmQlRuVkpQR05SNWRiRzBUNFlwMWRPTzN0MXRQTnpkQQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-26T11:06:27+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Kolors Healthcare",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a614ef3b327e",
-   "title": "Octave opens Tech and Innovation Centre in Hyderabad; plans to scale to 2,000 engineers",
-   "url": "https://economictimes.indiatimes.com/tech/technology/octave-opens-tech-and-innovation-centre-in-hyderabad-plans-to-scale-to-2000-engineers/articleshow/133538396.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T10:54:41+00:00",
-   "score": 52,
-   "category": "product",
-   "company": "Octave",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
    ],
    "alerted": false
   },

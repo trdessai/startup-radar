@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T03:11:09.753683+00:00",
+ "generated_at": "2026-08-31T03:21:07.744425+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
+  "fetched": 26,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "645a36ad703d",
+   "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
+   "url": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
+   "source": "YourStory",
+   "published": "2026-08-31T03:10:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "aaab96c5d34a",
    "title": "John Ternus to lead Apple into the age of AI",
@@ -7076,23 +7094,6 @@
    "reasons": [
     "funding in headline",
     "\u20b9408 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a406be048694",
-   "title": "Secretary (Defence Production) launches GRSE's 4th wave of indigenous defence innovation \"GAINS 2026\"",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1lxWjVXS3diUllld1pLZ3p5QU1FRUtQVUo0VkVUMk13clNBaGh2UmIxMzR3bFpza1NFU21fVTBnUElUUGlOZmZob0hWOWtoSmFXengtZGZxWXpzVWkyNnJ3QjJubzE2bHgtbUl0SW1JNEFOaFlHbmNYRmlfVDJ6Q3VMV3VpOHEzLXZub1I2a2xqQ0plaUpoYVpteWd6b3dIYmhqTDlFcHpwdjU4YWQ5Y2xTU3RQR0FuWW04R2RadmNtNUh3MEpCVg?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-08-24T03:19:37+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Secretary",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

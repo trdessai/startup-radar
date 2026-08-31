@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T10:01:20.629319+00:00",
+ "generated_at": "2026-08-31T10:11:28.983391+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 81,
-  "fresh": 3,
+  "fetched": 80,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -50,6 +50,23 @@
    "score": 23,
    "category": "other",
    "company": "No Indian Space",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "869b2438145c",
+   "title": "India\u2019s New IST Rules Raise Questions Over UTC Timestamps",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93QkVrSXhlWlBQUWtjTDVRRUl3dVBPNC1qSUFHNFFibU9oXzRYVzN4YzdPWjJzRkdSSFBnRWQyYkFZVDhsaEVOM1hUVFNobm1nX3RETjc3VUN1NFNEZGRVTjNVeWR1T29uNnpkRFhfSk50YzJrZThFNw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-08-31T09:38:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India\u2019s New IST Rules Raise",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7039,41 +7056,6 @@
    "reasons": [
     "funding in headline",
     "Rs88 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "695d05b7dfc7",
-   "title": "Xiaomi launches new Xring chip, partners with TSMC for production",
-   "url": "https://economictimes.indiatimes.com/tech/technology/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production/articleshow/133460700.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T10:06:48+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "Xiaomi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ccf9bb40dffc",
-   "title": "US-based Plaud bets India can outpace its global AI wearables growth",
-   "url": "https://www.livemint.com/companies/news/usbased-plaud-bets-india-outpace-global-ai-wearables-growth-11787548318911.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-24T10:01:57+00:00",
-   "score": 63,
-   "category": "expansion",
-   "company": "Plaud",
-   "amount": "$3.6 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "$3.6 billion"
    ],
    "alerted": true
   }

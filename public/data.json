@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T02:51:14.172542+00:00",
+ "generated_at": "2026-08-31T03:01:31.460524+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
+  "fetched": 24,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "aaab96c5d34a",
+   "title": "John Ternus to lead Apple into the age of AI",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/john-ternus-to-lead-apple-into-the-age-of-ai/articleshow/133640097.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T02:45:00+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "John Ternus",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f40a3523345d",
    "title": "Linc Launches \"Stackoo\" Retail Outlet and Experience Center in Mumbai",
@@ -4589,24 +4606,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5b6dd52e4f49",
-   "title": "Temple India launch soon, 5 ways wearable from Deepinder Goyal stands out",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV3JVOEg5QW9adW1PS2FVNnlkSnNZRXpMTk9WcGJTZ0JUN19vUmNjTUhRaGtqdXQtMUZ5T2RQRXk5ejh6bGdsMkRrd1hfeWNJSnBBOUxxOU9fV0U4ejBPRFRPUWJQYTVNUFZiNjNGbkN1b2JYZnR6NUR5bFktblFKS1RSeEdPRENGTXZPcE13OEFVNGQ2RG1oU1dtbm96dXVPYUVUMHQ1b1QwT0VaV1F3bjBoRlhlTnAwai1tTjNIZ2NTa1J3Mk5EM3hNY1JMOUxWNC00YUlIUFd2b0XSAeABQVVfeXFMTnBRYUdqcHlXUEtmUkVNbHdTdzVPUW5VZXNDU2s2czhkQXlidU5WUTFYTHR6dVNmUk4wQmZsajZwbm16TTNWbUhjY21ELTdJV1pmeXBfckp2bDlrcTF4RW1fSHpORDBOdFlPT3UyWGZwdzZWWC1TUHVuVXR6MHo1M3V3eE1EdE9ZdXB1dDFGUlRONDg2Sm5KY3ZOdGdleGNJRFA1QzIyblpVOUZvV2J1eHBLbjFVV3R1X1llS3RYZHFLbE8wazNUUzNtdkdhQWNoeHU0T2I3b0hTRjVLTGtwX3g?oc=5",
-   "source": "India Today",
-   "published": "2026-08-26T06:11:39+00:00",
-   "score": 18,
-   "category": "launch",
-   "company": "Temple India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "listicle/opinion"
    ],
    "alerted": false
   },

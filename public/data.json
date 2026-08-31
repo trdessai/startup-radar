@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T00:41:13.423952+00:00",
+ "generated_at": "2026-08-31T00:51:11.910699+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
-  "fresh": 2,
+  "fetched": 10,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "3be87e8cb616",
+   "title": "The mother and daughter behind India\u2019s No. 2 tractor maker bet \u20b91,250 crore on a fifth plant",
+   "url": "https://www.livemint.com/companies/news/tafe-tractors-new-plant-mallika-srinivasan-lakshmi-venu-11788073689702.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T00:45:10+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "The",
+   "amount": "\u20b916,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b916,000 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "ee2e73fdd59d",
    "title": "Purple Style Labs Asks For A Luxury Premium",
@@ -7075,24 +7093,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e2d3b16daea9",
-   "title": "IIFCL raises $200 million via 2 ECB transactions",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmFHVEp6c3ZSb0FGY2tFRlhRUXNxbGRSV1ZQaXJDdy1xa21fN1RvUTVVWHJIazB0NWo0Q3dadVFoYWZoeEhzZ1FXT1dPUjlHcFBCdmFzVDVOYWt3SDQwWDNTRG5GcjhkOWFKSlZQM2U0SkM4TEFSdEZld0FCaEp4Q2oyNThJVVZMbDM1ZnZJcEVjR2g2Wjc3T0U1WkFOaE9XZGZBM3p6OGoweHB2TkhJZll5WVgwZ9IBuwFBVV95cUxObnlUMFZUSGExT0NuUXVEOC05TnFxcUpNMWFIQXhCaVVSRUV6VFV5dW9OU2RYSnZlRGhfNVFURzMxNERzc1VNSzIwMmF0RXFyVGFCbHEtdjUtYS11M3BkbjRXUWM1R0U1WHZjMWdKejlaaVhfVXFXcHUxN0xFbkVYNFBhN1o2MERJS04zRmJZc0lIVGVOYmpIYTdhXzUzNlZkdkJRNTRkWGhCVTl5b3VuTVp2SkpOTTI1MlNV?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-24T00:50:26+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "IIFCL",
-   "amount": "$200 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$200 million"
    ],
    "alerted": true
   }

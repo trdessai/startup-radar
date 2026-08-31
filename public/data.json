@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-31T19:51:08.285203+00:00",
+ "generated_at": "2026-08-31T20:01:13.695552+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
   {
@@ -40,6 +40,24 @@
    "reasons": [
     "product in headline",
     "$21 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "21e86e5f6b76",
+   "title": "Piramal Fin raises \u20b92,100 cr via QIP; total fundraise at \u20b93,850 cr",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FNQjZfeEwta3lFTnhVTXZlcEFZalQzMjVHSXBoeFNkZ2ZaNE1qQ1pxaVlCbmFBRXlPR2h3NTBfVUx5YkxYdTMtbmM5WDdtaUxsX1dvWFZvNWM3bHNESDY1RTZZX3NKSmxwRmUxQmduWk9zUThPM1NqanJGQWZBRFBqNmRodUhhOTR4djA0QnlUVVNpWUlucnBSVmEtQXI1WEF5RWwySFRKcVpscU5iSDYtT0ZaaEY3MGZGMNIBwgFBVV95cUxNR091cmJNSl9NSFY4UDBvOHdoZVVyMGdUTkRVbHoxcTVrVi1FVlZlaWI5b2NZSDZqVnhkX1V5NXo2YUM2SkJUQ0JVMWxGR3dKUjZZWmlTYjY0TDhhVkFhb1R6RWtkWFJVczlpenl5X0RTUFNFQ2pvd2tjRmZHWFlubzRHUDNRcGFDOVhaQk5EMkJFcWc2bHBqQW9wbHF6RXlGdXdIS1JRY2NLSVg5X2ZqbEZxdHFwekcyVE9xRTZ5NGd2dw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-08-31T18:27:20+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Piramal Fin",
+   "amount": "\u20b93,850 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b93,850 cr"
    ],
    "alerted": true
   },
@@ -101,6 +119,23 @@
     "\u20b91,330 crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "976ef4d86f0b",
+   "title": "Jigyasa Gupta \u2013 Vice President, FabHotels | 2026",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdG5EMENCTFJvQU1HQnczYWtwUFNGZ0NFWnpaR1pCdUVvY2d2MHUtclJvM0NXUjE4eW4tUHZxNXVMMVNsY1JsTzZweXlPazh6Q004TVdpemtjaldodFV5Z0JLWTVGd0Jna2tSMi1fSUx4VmluNFhNSzhnYjZvcTBLcEE5VDg3UnVWWmxIV3pBUHVWTkxjMVJGekgtNlc3TFQtSEc1RjU0M1QwMUxQNWdwWnk5Skt6NXFCUnVNQXF5RndjUEMzbmw4RG1pNHl4RmxISEd4QTJheWxIWk5BOEdEVEJ0S2J2SjNOT0hXUWQ1QQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T17:54:03+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Jigyasa Gupta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "766081e6839a",
@@ -4244,40 +4279,6 @@
     "\u20b995.81 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "f0aa8bfac57b",
-   "title": "Union Minister Shri Pralhad Joshi Inaugurates New National Test House Building in Bengaluru on Its 115th Foundation Day",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EU0V3M3ZIY0d1ZnRtRW5GeTRHTXE2RjFhT21ZRnFqeUdPN1Q5aWdVdzNMU2JqdWhEV3hjTjBfTGpydHRrLXc0aDNXRUNPZVBldHNObmR2czdyWjRpSzJTbEVWaFBPS2dh?oc=5",
-   "source": "PIB",
-   "published": "2026-08-29T13:15:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Union Minister Shri Pralhad Joshi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a28d3840dc80",
-   "title": "AADYAH Aerospace: The Bengaluru Startup Building the Parts That Steer India\u2019s Rockets",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3U4N1BfV3k2d2hyLVQ2U1lodTRuTFRhdV8zMGdWWGZHQ0NTbURSaW5ZYVdUWHBkT0dRM3JPVHlEdVA1VWRWVE5DVmZrVlo4anNzcVh5Q1g2ZWtpcHJRSDdCOUFEWHk4T0Y5bmdqQmhEZExVa0VkRVVoRms3S2dkRmN1YnN1ckNzOXE5M1ZGdnpSd1JnQmJoalEyYUh3YzVmTmp5bm1OQ1VVLUJCMHVjcW9HRjZVaTQ?oc=5",
-   "source": "OfficeChai",
-   "published": "2026-08-29T12:59:42+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "AADYAH Aerospace: The Bengaluru Startup",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "09a441979629",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T12:21:13.044577+00:00",
+ "generated_at": "2026-08-31T12:31:22.216206+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 80,
-  "fresh": 3,
+  "fetched": 73,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "5531797b8b5e",
+   "title": "PhonePe Launches UPI Payments For Feature Phones",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aa3JFbnFZQ2QzTHdlRDlVcTE4ZWJrWTJnS3luUko2enpieEE5ZWEzMXRuUmtDam5obW5IY3BoLWkydUgxTGZ6cVNrY2h0QXhuaWJTU2FFdWFYdDdnSlhnWVBlcUpmY0Q2eTNuQWxwZzdJUF9UbTl4NWFZYTI?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T12:18:10+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "PhonePe",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "ee00514903a6",
    "title": "Retail India News: Coffee Buddy Enters India With Mumbai Store",
@@ -7030,41 +7047,6 @@
    "reasons": [
     "acquisition",
     "$13.7 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "649498639900",
-   "title": "Mobavenue Launches Neural Engine As An AI Intelligence Layer For Marketers",
-   "url": "https://inc42.com/buzz/mobavenue-launches-neural-engine-as-an-ai-intelligence-layer-for-marketers/",
-   "source": "Inc42",
-   "published": "2026-08-24T12:30:39+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "Mobavenue",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "80fb016cd018",
-   "title": "TCS to buy Porsche's IT unit for $373 mn in AI push",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbXJwZjVlTDctUEZTQk11aTl3b01qUlJMNjctQ0NkNEhPajVVRjBxY3RtbjFnQkEtdzVyeXZtclJUZGVKN1FhRXA1eTNaUC1EeExVWDUyelUtUmFpcmlBaTZaclF5WVNaTUpOM1h2Q3hTbl9BMHZlaFBIalBDZWs?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-24T12:24:05+00:00",
-   "score": 74,
-   "category": "acquisition",
-   "company": "TCS",
-   "amount": "$373 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "$373 mn"
    ],
    "alerted": true
   }

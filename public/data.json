@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-31T15:31:24.225839+00:00",
+ "generated_at": "2026-08-31T15:41:15.728029+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 53,
+  "fetched": 50,
   "fresh": 0,
   "alerted": 0
  },
@@ -6992,23 +6992,6 @@
    "reasons": [
     "funding",
     "$30 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a5c9a5c4fb76",
-   "title": "Infineon Acquires Bengaluru-Based AI Startup C2i Semiconductors",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd0lGWHhTT2xzd0MwX0t4X0VZZzBEbWtVMVF6Z0x2ckxYSGc3dXZ1OGRUUUdYeUhLa3B2RnBqdWZwdU9vR0NneW85ZXdRRHNVSGZOUlZqNm1tVlU4RE83dFl2QjB5YkNxN3NQeFQ4VlVUYjc4M1FBbjdEN2VlcjA2LUlMamM0Q3FBNlhQRG9Xajd6QjJPTWtvSnkyVmkyaGwzUWwybFB3V1dWQWcyVU0xekU4M2FSelpJbDBQV0dIanlrbWtVcGlmU1dmTkI3VFVXSlpzYklB?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-24T15:39:51+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "Infineon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

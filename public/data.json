@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-31T05:31:13.875343+00:00",
+ "generated_at": "2026-08-31T05:41:24.251228+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 38,
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "d2684bf2b229",
+   "title": "Rillet Hits $1B Valuation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XOUJINUZNS0JqU1U4UzBZN3kwMkdaUnBaS1pKN19ua083cm9kWmRQbFJQbXZvWHp0UzUtMkNLd3J1U010SUZGdWo5WEYtWjVVUzdIbWVGVkc0M21fS01JMWdCcUE?oc=5",
+   "source": "varindia.com",
+   "published": "2026-08-31T05:38:07+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Rillet Hits $1B Valuation",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "80c2fb77ef80",
+   "title": "YOGa Bags \u20b920 Cr From Info Edge, Others To Scale Clean-Air Solutions",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDJtRFlHNHMyUDZiRDlfUi1ILUJ5Q1FpX3Y5ZnBDd1VxRU00ZjVfSDNUWWlxNXJBU1NacjRwTnkxa3kwT0p4TklqTzJCV0dGLTBCOGhyM3NNUUVaaEpzTU9ZOGpqSjMtakREZDYwRjk1NS0wSVJ0Qjg3QVlpdXJIdWhiVWZWRnpZZ0p1TGFHN01SdDN5cjAwYTlqOGdzNjhQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T05:30:13+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "YOGa",
+   "amount": "\u20b920 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b920 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "b3f946a2707e",
    "title": "The/Nudge Launches TILT With Rs 250 Cr Fund For Impact Startups",
@@ -22,6 +57,23 @@
    "reasons": [
     "launch in headline",
     "Rs250 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "38244c936ba2",
+   "title": "EIL Backs MC\u00b2+ Ignite: New Accelerator for Energy Deep-Tech Startups Launched",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1BBczJySlJfc0NLdE0zQktmQ0c3dk9MZHZCanM2X3RGeXFUR2g3OEdMb25ZVUJfSk5FUFc0Rmp6OFJ6ZmVQUEFiZVFoeUFlOFN2M2JjOTdZaVVoVkdLTFFEYjB1SlVzTVNGdE94VUlDR2RSQWJnY0FkWlVONVNpaXVRZUxpcExJSWlFYVRWVXJaLWdrSnVHeWs4aXJfVmdZdHVj?oc=5",
+   "source": "PSU Connect",
+   "published": "2026-08-31T05:28:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "EIL Backs MC\u00b2+ Ignite: New",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -181,6 +233,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "db08e4d78ae6",
+   "title": "Missile after missile, Iran launches strikes on US military targets in Jordan",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDFHSmFrU0tLcmNLNGIzZzdidlh0UXRvcHNmdVBzZDhyNWFtOXdyRm95MGU2UHBzOFFQdmpkck1qbWJYa0xSdVpTbUZFQWtqbUFpbUlZdU53d2ZnLWxRcjlhMU56dFVwOFk4aXJnRzNCLV94NS1zVXhaQ0pLUXRreUpJVVd3Q0ZQNVVHMHU5T1lQR19YSENkcF9yNkt1VzBZaU9UWDN2R29Fc3RoNHJjS05ac0dHaG5aOEQ3M3NKNjBzNkVJdU9saTlfSDhEUklOM1c1NEVwLVd5bU9vQmJJ0gHkAUFVX3lxTFA5OUVuY0NBMmNGUU1JZjBHRXpEcjZOc1JZS0E0Q1czNm1pc3FQWDhxX3B6eVVyZXBYU1hrUHp5cS0xZl96RE5kc1FyMGtlTUVaazRnOGFkSFd2dVZLSG04U0VoekNVZkhEdXEzZ1c4QW5uQzZoQmhXeDFkSmF0ZlA2cDZjZ2RiZ1lIdUpSMVA2Q3ZUZ2Y4dVVSSVdVanA5aHBKeG5nNG1UQkstV3VQWFdJSnA4NjhIeWFLZEpWQ3RWbzhfTUJiaVZteXRBZ1ZBMFExd0w4THNVYXM5UF9yWDZ2MnZCcg?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-08-31T04:26:47+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Missile",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "7f90482fc14d",
@@ -4557,57 +4626,6 @@
    "alerted": true
   },
   {
-   "id": "33a4ae0be119",
-   "title": "Adam Mosseri Defends Instagram Measures in Meta Teen Safety Trial",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFRWNUdaUlQ1OFR2OWxCcVFPZjJQWmpnYWcxc2FWWDRqUkRxbURLcGNCaEdwaG1CQUYxU3EtOC1qdjJ0N0hLUUZTenhlaTRMN01TWHk5SlZYS29CNXVIOEU0d1ZtRDdOc09GLTJwdjBwTWI3ZTlrT3lWQ2F1X0tDRkN6OTNTVGtaVklnNA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-26T07:48:53+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Adam Mosseri Defends Instagram Measures",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "563e529e7f72",
-   "title": "Grapevine: Welspun, Macquarie, Ultraviolette, Speciale Invest, others in news",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFVreVRFQm5NYWVKb0hYclBzbWthaHlaTTZSa1dmZVBDUDdYOHM3YnFOUVZNU0NnVm14LTRSVDVhSjRIV2hoRmVKQWI2LUJvdXpzeExBa29QTk1iZkc0d3V3YUItMWtxdTYwNkMyMTd3M3pTa0RPZS04WVM2d0h6ajByNTBvMnZQaGtoYXZuZktiTGx6V3gyWE9hTV8?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-26T07:39:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Grapevine: Welspun Macquarie Ultraviolette Speciale",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c8c150592b46",
-   "title": "Luxury Brand Dior Opens Boutique at Mumbai Airport Domestic Terminal",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmQyMFFjN1U0OVdHM0EydzN3Qjg0NTJfVEI4RTlReUZ1MC1JU01JcENqT1BfTWppQlpfVzFEMEI0Z19MQ1JoTUdlMzZrUVNMYjdKaF9ldHZib29vd3NzdnFjQ3ozZTR2X3U2a29BcjdDNjJMRUhuTEYzeHh0cWJLWDBVLTNycUJfMVFqQWk0QUFUdlRmMGZRYURXS0lCQUIyTkQw?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-26T07:38:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Luxury Brand Dior Opens Boutique",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d3709b770145",
    "title": "AI agent platform Ringg raises $10 million in Series A extension led by Peak XV Partners",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGFXcmJWeTFTb1hqMUxkZ3ZZa084WVBMdzVYQkNnb0dZU0wxUEZuX2huUDBsRTkyc0VReEJEdUdKN2pBejh1Wl80RG03TXoxaFJ6RGl6M3d0V21FcGhYOEV2bGRFTFJTQjQtRzFuQlEyMG5lZGNyQWgzUzc0NkZwbVY5M05tdXppTjJESGdyaEZGTWo3d3AyZXFzNXUwZm5LTmVlNU5tMGRJYlBjZmtNeE9GYnhodFVHdE9BTERRbHgta0pxeFV3ZXhfdm9NMEnSAc8BQVVfeXFMUEhhV3JiVnkxU29YajFMZGd2WWtPOFlQTHc1WEJDZ29HWVNMMVBGbl9oblAwbEU5MnNFUXhCRHVHSjdqQXo4dVpfNERtN016MWhSekRpejN3dFdtRXBoWDhFdmxkRUxSU0I0LUcxbkJRMjBuZWRjckFoM1M3NDZGcG1WOTNObXV6aU4yREhncmhGRk1qN3dwMmVxczV1MGZuS05lZTVObTBkSWJQY2ZrTXhPRmJ4aHRVR3RPQUxEUWx4LWtKcXhVd2V4X3ZvTTBJ?oc=5",
@@ -7075,24 +7093,6 @@
    "reasons": [
     "funding in headline",
     "$43 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "aa602dccb899",
-   "title": "Third Wave Coffee Raises \u20b9408 Cr To Expand Cafe Network, Dessert Business",
-   "url": "https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/",
-   "source": "Inc42",
-   "published": "2026-08-24T05:36:57+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "Third Wave Coffee",
-   "amount": "\u20b9408 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9408 Cr"
    ],
    "alerted": true
   }

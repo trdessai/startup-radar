@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T10:21:15.991257+00:00",
+ "generated_at": "2026-08-31T10:31:13.893666+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 83,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 82,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "8b85549d9b1e",
+   "title": "AI Image Generator and AI Flyer Generator: How Indian Startups Cut Marketing Production Costs",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2dLY0FCdUZPMGFYVGFiSEZHZkRwM3pSZ0NpRWNvN1dBTkQyaFVBTVVudC1rRFRTZlNhWGhuT2VQVUwyd2tqMFlHdnFoMUNWaWJPd1gxcnI0MFpCd3RLVFV0LTM3bkpqcjhNZVBWcWZjd1NHLXFwS1VEYkIxSmVpa2dJeEtGYmoxYkoybDBPbFNoZHpSTDdIY3gybC1kTXd2OW5vVlFIMUVlYjFnb2VCeEtGYXpmYklYRExySVdzbW5KSGtGTHVSclQ1WjNGeDU0a3FycHppR1NhekFPM1BHbF9PRC1xeno4TTJnUQ?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-08-31T10:28:50+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Image Generator",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "83325b4d08b2",
    "title": "Ather Shares Surge 5.7% To Hit Record High After Konarc Launch",
@@ -4678,24 +4695,6 @@
    "reasons": [
     "no clear event",
     "\u20b943.3 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2d35e430e4d3",
-   "title": "Jindal's MG joint venture looks to recover its lost ground",
-   "url": "https://www.livemint.com/companies/news/jindals-mg-joint-venture-looks-to-recover-its-lost-ground-11787743321793.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-26T13:16:14+00:00",
-   "score": 45,
-   "category": "launch",
-   "company": "Jindal's MG",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "launch"
    ],
    "alerted": false
   },

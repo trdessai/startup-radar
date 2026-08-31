@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T20:21:18.895644+00:00",
+ "generated_at": "2026-08-31T20:31:14.545725+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 21,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "a89fc4b4c75d",
+   "title": "BlackRock Buys Ather Shares Worth \u20b9445 Cr",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Jdkw3aFN1SkdhNjd2WHlRV0dQcDBKeVdKdDhBZUFHcGRSbExCYTZQZXRWYndDYzctcnlPdV9qdzZxa05LMXowcGNpS3pHbW5WQnllQ1VkLXRwczk5ak1VbmtOTGsxSnFlR0U5WUU4NU9hcTE1Ym5hOEVGTHpaQQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T20:05:10+00:00",
+   "score": 79,
+   "category": "acquisition",
+   "company": "BlackRock",
+   "amount": "\u20b9445 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "\u20b9445 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "0b53cae59512",
    "title": "BNP Paribas & Millennium Sell 10 Cr Eternal Shares In \u20b93,265 Cr Block Deals",
@@ -24,6 +42,24 @@
     "\u20b93,265 Cr"
    ],
    "alerted": false
+  },
+  {
+   "id": "ecbf75762ead",
+   "title": "Antiscam AI Chatbot Startup Raises $8.15 Million for Global Expansion",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHc5TEZvOUQwc19Ed3F4cksxNXo4VUxNWGhLMURYemcyZWd6blhqdlU5cjZzV2diOTA4RkpNQ2MweWNZNEFsNnhQMUxxNUZOU1djV3ZsaC1RZWdnNEg1MGRXZm9ZZ3hTQW44elNWQ0hELTRWVWNfMG52RHIzT05BTEN6Y2R4dnhJSDR1U2ZXR3FwSkllbUNyV3NkVFl4Zk5wcXI1c0RHc1k4X2ZrMHRzRmpiT2xnOHRz?oc=5",
+   "source": "WSJ",
+   "published": "2026-08-31T19:16:00+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Antiscam AI Chatbot Startup",
+   "amount": "$8.15 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8.15 Million"
+   ],
+   "alerted": true
   },
   {
    "id": "84f69906d178",
@@ -4209,23 +4245,6 @@
    "alerted": true
   },
   {
-   "id": "60b060128ddc",
-   "title": "Sashidhar Jagdishan to exit HDFC Bank in October 2026: 5 key events India's largest private bank saw in 2026",
-   "url": "https://www.livemint.com/companies/news/sashidhar-jagdishan-to-step-down-as-hdfc-bank-ceo-in-october-2026-5-key-events-leading-up-to-his-exit-11788020014970.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-29T17:12:11+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Sashidhar Jagdishan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "40a6a5567ef0",
    "title": "Between August 24 and August 29, 2026, as many as 20 Indian startups from diverse sectors raised over $215 million in funding from investors. These sectors include Cafe, Skincare, AI, Foodtech, Logistics, EV, Petcare, Autotech, Healthtech, Wellness, and Cl",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpUE9ScFFXb1JGODVOd1ZkWGlGbnBZc0FsY0RhVzc3WjFoNloxVDloNnFoSVZITXBHZmZDZEc1VzE3TUlFaVlaUnZqdFB3b29GNGc?oc=5",
@@ -4242,25 +4261,6 @@
     "$215 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "1cfd5a71073b",
-   "title": "Indian Startup Funding Roundup: Matter and Ringg AI Secure Capital",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUExOTgyTTdsdmM1UUhlZTZMTG5xdTFpQ3F6U3RoTzhOUXR6MFJvOG9lWnc4WHpmZUZlR1BJT1ZoTWlfbXdCRnpsVWtoVWRqSUFOaHF1UXZQQkszTWZjRVZKR25aY0RMQVAzeF8tenZ6VktCOGFzTURDZ0JibkxrZ05zcm5JaUxyQmpmNFVqMDF4czF2ZlctVzBoWjZ6bFZnRHRKOUJTdW9OdGVmYTRFSUZUYkxPOW0ycWhzSFFtUkYzWnJqeVMtVlZKWWhZSTN2Z3k4dG1oaUM?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-29T14:08:37+00:00",
-   "score": 8,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named",
-    "listicle/opinion"
-   ],
-   "alerted": false
   },
   {
    "id": "5ea58de4c56b",

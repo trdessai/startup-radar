@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-08-31T08:01:29.877601+00:00",
+ "generated_at": "2026-08-31T08:11:22.448970+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 71,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "d81ab75c999d",
+   "title": "From theory to practice: building customer agents with Google's no-code tools",
+   "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
+   "source": "YourStory",
+   "published": "2026-08-31T08:02:08+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1da876aa5d2a",
+   "title": "Lawyered launches \u2018ChallanPay \u2013 Aaram Se\u2019 campaign featuring Pratik Gandhi",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXR4T1RBWEZPRTVyRHhZeEJ0WGtEQ3lKc3daMVliVm5nakVFczdrdmd1V2FIT2dpQXJkRTZ0QmEwdkVKbWZDbGhGSTRWWnNEMFBKRVFIQkhFSERYVlgwZEdMMEQ3ak9UVjJfWjRNQmlKWkdNUmpsOGp4MG1EWDQ5R0N4eTA1NTBycUJWNHJBNEQ0VFdiWFo3TmdiZWJlRGh4ckF3aTlmbUozS1JRWTBjazZnajhaVDBzYjlxNmZPb1RWQXVr?oc=5",
+   "source": "IMPACT Magazine",
+   "published": "2026-08-31T07:55:06+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Lawyered",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4f90c4fb271c",
+   "title": "State Street Closes \u20b9580 Cr Investment In Groww AMC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1hPTDBuZHNZUU8xUGxfNDBmUGRIdGhBNHF0bHpTYlhwdGtjcmZvLUo4RjFDSk9vS1Q4V2R3YXFpbEVLaHpOeUJmTGtUMVltMUNkcXB0SDRLQUJEYWl1ZEliS0lhYnJJb1JSVTZlN1ZxNjhrM2lTUHVwVzhqVHNDblk3WFMwX21PRTBz?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T07:53:01+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "State Street Closes",
+   "amount": "\u20b9580 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9580 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4f426973a8f0",
+   "title": "Sarvam launches Champions Program for AI creators and community leaders, offers early access to models:...",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxONndLdVNDcGZqejJPY2hSbndTX3E1Wnk3eUh3Sm94bG5xUUp2ZFhMMFU2a0hXUURBWlkwQklnQTRuSm1VOEhvSlYtSzltVUNocFdLc3RJXzVObkRWUG1yY0F4TkkySUNSUzRUU3Rjc091Y05yQkZqNXdqamhhSnRNZlFiSmxVSDRDR3E5QmoyYkRxenhYTExZbVJncGJwZllvZFkzODFTQWRWSlh0MXZ1Z2liUHZvOUpZY1AwelFVY0JOa19LY0JJckM2eDRsMDZjVWNpdHNOQTc4QTdXb1p0U0pnNVNVUmVER0hGQ2x1b2dWVjNqU2VJVEhwekJzZHZwRF9KRVJ3TFYzbkx6UjVILVNra0swZC1kUU50clJOaWkxWU85dExTekRqNE9JaUXSAbQCQVVfeXFMUDZxeE1kMEFKbzR4emVaTVc5NzhRXzJIRVpkemV1UG1sbGV2NWNCWk5kN21vc3UwekFfdW1hVGhXWGllSk5EdVQwUm5Gem8wLWZ0ci16a1VKanc0c0pQWlhUaDhJZ3FfMjdCeXY2TDU3Q0xUbGNzeXJfNnFQYVV4RWZnTUxlMm9VTmtjNlVHajJzZXg5WkJ1ZHMtU2U0M2ZNdFotdUpGRFJlaU0zLTRUSGFkMmVPajVXNVgzNGFOZTFaLVIzbWhzbXRoTzlZajF1RXVfM082QkhRN0dzQldJS2dNcFNmTjQ5R1hWbjctV19rNkVROTJ0UFFrZ1F2dDFobkdDRHQzYnN4ZVhETEV4dm9EaEtZR2NrWG54YTVhbGg5QzhiM3drcXVLSUpHN25kcFQ4Y3o?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-08-31T07:48:54+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Sarvam",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "bcb8a38a0886",
    "title": "Odonil launches regional campaign across seven markets",
@@ -235,6 +304,23 @@
     "390 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "0db07cae337c",
+   "title": "Piyush Goyal Backs India-Japan \u2018Shark Tank\u2019 To Boost Startup Pitches And Investments",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMGxkVkl5Vk1KRTdxcUpUdlVJUTNuQnhfR0tzaXoycldWZmozdjlIOEpReTFoVC1WZGhHejkwZ0VRODhvTk5WWHRlVzBVTmdHS01scGZUNVlmd2JfUmxKd1RuWEdvc2ZjbUFIMDFLMUdJTk16UGdOWE0yWTF2UkRITXlLUFFSSEd2WEc5TzE2R0piQmNteWFXaWRoUXVlTWJWRXdXdkU0a1JpdHlYM2NDTFJOd0QwckpNWUFJVHFkZUdRVEIzY2xleng1bXRpaWdOdDBybUpXUnRWNDBCTHNEUQ?oc=5",
+   "source": "Business Today",
+   "published": "2026-08-31T07:10:08+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Piyush Goyal Backs India-Japan Shark",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "25d29e5b4b0c",
@@ -6955,95 +7041,6 @@
    "score": 63,
    "category": "launch",
    "company": "SIMS Hospital Chennai",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eb89ce5539a3",
-   "title": "Physical AI Startup WATER Secures $2.5 Million Funding",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkYxNlZZUEJDc1hXUGNldEtLXzFvaEZvOWhSMDNfREx0UE9hS0oybk9oNExmN0FPX2hMS2xZZWF5U1VNeDdBbGRja1FNRlQ1bk5iNWhCd1hLOGRHTDZKNVlzS3R3U3BiSE15UExQSk5yVWhmVWFUbU9wRmtZUE51WFE4SzhXNmpMdGRDa1NQckFUUS1aMlRzSnF4S0lHTUtwX1VqblVCcDZkMWxLRUw4SkZJSnI3eDNkeVhhQ2RYRWtHeGFkTllGcDgycEVib3M?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-24T08:10:51+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Physical AI Startup WATER",
-   "amount": "$2.5 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "be00deb85e9d",
-   "title": "Third Wave Coffee raises Rs 408 crore as 9 city expansion and Third Rush Desserts move into focus",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeE11TWdON1AtdVJhc2IySDBGU0F2Z0taNEo1N05BUDIyTHlWQmpMLUV4enAzWV81bmZOTnhVTHVvUlNON1BJb2VMQmEySkxGdDRnWmZ3bHZDS2xYU0pUTnJPeXdiVk5JMHhqWHFROFFvbzVtYnFaTFMzZkpzYUpvb29yNEtVQWtZQk80RXlvSUNnYUdtX010RTVRbUxua0w0NVp2VXhhMElMOTBqTGY3ZU9NcmY3SXg1WTBSZ1dSZkV1RGZlc2EzbHZVYjlRN0lyYUE?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-08-24T08:10:37+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Third Wave Coffee",
-   "amount": "Rs408 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs408 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bbc1bd60640e",
-   "title": "Jaipur Startup Mobile Ki Dukaan Secures Seed Funding Commitment at \u20b91 Crore Valuation, Eyes Hindi-Belt Expansion",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaDgwT0g3bV9qbVpNakhXNS1OTTZ0a1VqSmVhRGJzVkVRa09GeVlXdW8xeUUtZTJ3M1FicFJoeDlSLUttSWRTMXZTQWlWWFNIcXZPek5teDhqbDlBSEp4QTJWR3U1V3JCTWN2X3p6MlB4VGZDOXFUUzAwOU1ydER6cnc4bUdCZ0lUUGI4YnBDSnlzVVVvOGc2SExQN3d4WFhoZFg2R3lmb0QtWDdLNlFrNjZDdnhZcVJCQ0lDc19XbHJBaFVTWDAtTmJhMW1qRzNLdlFpb0VnUkg5MTZESE5aZnIxUTBrQUZrLS1xNzBR?oc=5",
-   "source": "The Eastern Herald",
-   "published": "2026-08-24T08:02:49+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Jaipur Startup Mobile Ki Dukaan",
-   "amount": "\u20b91 Crore",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b91 Crore",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "189a1868b2ab",
-   "title": "IDFC FIRST Bank Launches Sustainable Startup Incubation",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUEtpdXQ0QzB4a3Y1R1BuWDdIRU03RWR2NzVDZFUtZzVsc3ozdjRpMGo1ZnJ1Q09jRW14a3hFQW9PU1ZQTGdqUGJBX1hmWkMtTlhxX1dsOVdjY2dFR0hUeTByUVdfYnlzMExIdG81R2dJbEh6a1p2TkR1RGd6WklfMGVVWHlfUFcyUmVHVzRaTnY3ZElQbnR4R3ZicnUzSEo2ZURVZTMxRXBuUW0zWUhYc3IwN1NNdDBvNEMwbWNNZTdLWElmWnd0V3BxdU1uMzl3RDVLdWhKOFp4VWFlWUZuU1V0MmtnSlVUcDhXOVpOQTYwSWVYX2xSSHpsWkVrVkhxMmp6QkpPV0N5OW43Y0JYdENwXzhwZ0hYbjZwSzZQcW0?oc=5",
-   "source": "Passionate In Marketing",
-   "published": "2026-08-24T08:01:47+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "IDFC FIRST Bank",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d0ec4763bf84",
-   "title": "Greenr launches 12th outlet at IBP \u2013 Caf\u00e9s. Restaurants. Bars. in Goregaon",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2pqM1dUWUdUMnFjV05fWG5fcXNJd2lIaC1oeGxDaE5OTFduUE5Jc18zZUtxcmdSVFNOVHNWMktoMExLdGZhc3NaU09HX245dFFnaVhUQ1V6cngzNWlYZXV0bk94cnBpMENiZW1fcmxOWlRJQlhpRW9nNWVqRHg1R3BOSzhBOTlwRTlRZzJxcW85eFk4SzRoQzRoc0ZmY1JvVldRektpLUt6Zw?oc=5",
-   "source": "India Retailing",
-   "published": "2026-08-24T08:01:47+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Greenr",
    "amount": "",
    "stage": "",
    "founders": [],

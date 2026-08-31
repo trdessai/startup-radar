@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-08-31T04:21:40.304301+00:00",
+ "generated_at": "2026-08-31T04:31:22.515570+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
+  "fetched": 27,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "7f90482fc14d",
+   "title": "Spark Capital Group expands growth capital push with private equity and credit funds",
+   "url": "https://www.livemint.com/companies/spark-capital-midas-fund-ii-private-equity-private-credit-late-stage-investments-alternative-investment-funds-aifs-11788142474101.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T04:22:30+00:00",
+   "score": 43,
+   "category": "expansion",
+   "company": "Spark Capital Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0802379c9b90",
+   "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-and-robotics-drive-an-ipo-boom-in-china-as-shein-lists-in-hong-kong/articleshow/133641386.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T04:18:01+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "",
+   "amount": "$1.7 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "$1.7 billion",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "4041aecf87e2",
    "title": "GVFL Invests Rs 30 Mn In Edgeverse For Edge AI Mobility Tech",
@@ -4524,23 +4561,6 @@
    "alerted": false
   },
   {
-   "id": "ea7d52bfe9fe",
-   "title": "'Movie is beautiful': Bengaluru fan hails Yash's Toxic: A Fairy Tale for Grown-Ups on release day",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWo3Um9GSzBXaW1wTllINzhESWpPaG9EU1pURXBnX1Q4WTJtUDlmc3BNVXA4ajJXR2ZHZEJQdTRMVGxySjJtdC15RUp5Y2NMOTQyNVRmOVR4YUZhWkkyU1J6UDA0a0RidFpFWFZUU055dThKbjgwWEd1aS0weXBpS1NHLWhBWDBwVUhFQkVIWXQxeGFLREJFSkFCNEZEVFFRX3MxZ0Q1QjVkdTNyVXhmUnR2N1hEeTljNzVQRWptQzRuTmVmUHRaclhyZ2tRelpTUUMzZkpEb3BNOVpmTmQ3QWxfMFhTWmJkbHZ4djIzSlRqM2tZ0gH6AUFVX3lxTE1tTWJ0cnpwYXIybUJnOWpENndOR2FkRGh0bTlET1czV21pcDVHU19BLWVSOU00aE1xYlktNFVpbFB5THNPUkNsZ2pRTUZiQTI3OTNXVmlaSmZ6M0g1cVhyQWk0RzliS3c2Y3NpTjRxeVRWSjJic1laMjM4TmZBVS1OQktUNEZZODMxZTVSSmtJS2dpNmpaM01zTkEteFRxamVBLTJaa2E4aHRjN3BNNlZiMGhBekZkZXJleDVndk13cnJYYWlvUWRkVzJodjZIQ0RRR1JFOUJQbFZ5cWV5bVlUUmk4M1ZCc0JuRmNlSEE5WlVncjVYUV93bkE?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-26T06:59:02+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Movie",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1321fab7ad83",
    "title": "Instawork\u2019s Instacore Wearable System Launches in India to Scale Real-World Robot Training Data And Deployments",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeHU3VDRTSExzd0ZWc0hjMU85ZG1wOElVOHoyRll3V25Ca1RQU1Z1SG1tTzFCX2lFSF9tVTVfQUFpMi1ueTQwRFZjeTJVX0V6QTh1RW1wTUk3c0FtOXp4NDItb1V0TDBjblM5T2RIY2NDN1N1VHUtdkNiV04zSy1Da0tydkFmVXVQTmhjT21UZDVXR0FzXy11cjQ1ODRjS0FIaGhucjJGLTBBTmY4SWlNYXd3SmZhRFNBVzdscWNaaWFWUDFFWW01X1drS0dkWVhrc1EtczBCaFVqZVNJOFh4SUpQTVdWQQ?oc=5",
@@ -7077,24 +7097,6 @@
     "funding in headline",
     "Rs88 Cr",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ce7427666e7e",
-   "title": "Third Wave Coffee raises \u20b9408 crore from Westbridge Capital as it takes coffee play to more cities",
-   "url": "https://www.livemint.com/companies/third-wave-coffee-funding-rs-408-crore-westbridge-capital-expansion-11787462869775.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-24T04:31:04+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Third Wave Coffee",
-   "amount": "\u20b9408 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9408 crore"
    ],
    "alerted": true
   }

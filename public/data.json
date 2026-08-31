@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T18:21:28.051857+00:00",
+ "generated_at": "2026-08-31T18:31:20.153512+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
+  "fetched": 37,
   "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "84f69906d178",
+   "title": "Indian Startup Runable Announces $21M to Help Small Businesses Grow Beyond AI-Built Websites",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzRUaVFyYmc0RDNObHc4WDhENHVnRXNsaE4yM2hFdkRVQXV0TTh4QUcxcmwwVFhwS2t1RDVBODlVNHRCUGR2STJsR3hpRWVaWDlGS3ZveTJ0RDlQdjk0dTFVQzVWMHRnWEduZnVjNjhMSzhSTGU3aVAwak5Nb2htMktUS0NCc0VFNERlZ1JwM3RfZVUwZ3JUM2tSVFhLZlVRWUpyR1YyWFJtakZhVWJJMGFReGxzMTQzbDU0cXpjcDhCNzV3T1FfWg?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-31T18:28:19+00:00",
+   "score": 76,
+   "category": "product",
+   "company": "Runable",
+   "amount": "$21 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "$21 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "8bccf91a601b",
    "title": "GRT Jewellers to acquire 74.12% stake in TBZ for up to \u20b91,033.7 crore",
@@ -4332,24 +4350,6 @@
     "8.2 M"
    ],
    "alerted": true
-  },
-  {
-   "id": "84f572c1aeec",
-   "title": "Subhash Chandra 'may borrow \u20b92-4 crore from family' for investment in start-ups; he owes creditors crores of rupees",
-   "url": "https://www.livemint.com/companies/people/subhash-chandra-may-borrow-rs-2-4-crore-from-family-for-investment-in-start-ups-he-owes-creditors-crores-of-rupees-11788003494643.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-29T12:11:32+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Subhash Chandra",
-   "amount": "\u20b922,006 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b922,006 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "5adfaf188654",

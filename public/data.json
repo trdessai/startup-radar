@@ -1,12 +1,83 @@
 {
- "generated_at": "2026-08-31T07:21:29.302399+00:00",
+ "generated_at": "2026-08-31T07:31:29.101685+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 3,
+  "fetched": 60,
+  "fresh": 4,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "5a83626c7abb",
+   "title": "PhonePe launches UPI 123Pay for feature phone users without internet",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUUzOG92c0ZyT0ZFOGFXVm85ajlZUElpM21MU1R1a0RwWDJMWjA2LU9ib1piTHVoZEx2V1Z0SngxU1U3dlRybDBGMkVualRlVGgwa3dzcklOazhlXzBiMTJQUko2STJkNkk5NVVZdG5UaDlWU0pSbEc3bkRJZDhqV2pYcDJBRFBDZmlwbktyLXAyWDlreDd2bkU4Mk94NFY3ZEVQWWpYNnVzTDTSAasBQVVfeXFMTzFFMzhvdnNGck9GRThhV1ZvOWo5WVBJaTNtTFNUdWtEcFgyTFowNi1PYm9aYkx1aGRMdldWdEp4MVNVN3ZUcmwwRjJFbmpUZVRoMGt3c3JJTms4ZV8wYjEyUFJKNkkyZDZJOTVVWXRuVGg5VlNKUmxHN25ESWQ4aldqWHAyQURQQ2ZpcG5Lci1wMlg5a3g3dm5FODJPeDRWN2RFUFlqWDZ1c0w0?oc=5",
+   "source": "Entrackr",
+   "published": "2026-08-31T07:29:04+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "PhonePe",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5af34569f8ac",
+   "title": "Meesho Sees 36 Pc Growth in Rakhi Orders Driven by Non-Metro Markets",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUzNlYnlCa3FTTHA3eW5pQlRlb1pSb0hEMUI1MHN3VjlzMEs5dDMtbTR2dlRsei1BT3F6QWFqU0QtY1NIdVgzdnBCeFNSZmJVYmVRREhDai1OeG9GdGRkal83T0FURVJ6RXFoYkZVWDJ5QUFoajFTb0hKT0hpd3BXc0dvUXUyRTRwbzYyZDBiaXFVLTlqeW5RMl9zVVhfTjA?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-08-31T07:25:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Meesho Sees",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2308065043a5",
+   "title": "YOGa Clean Air raises Rs 20 crore Series A to take patented clean-air systems into public transport",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUVaaXEya25DR3RBWVdZNllBaElOWWJubHFoNFM0X2NiVEt6TnhWZ3o0Yk8zWEg3Sm1PMlhTQlVwYmdwQkJGVTdpam9xUHQyZXRJcnpmM3JGVGNETnpmLTh5UXpTOHVnM1E0XzR3WDNkRF9zLVBhVzdFekVwTVN1X0NrU245bVpkVmc?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-08-31T07:22:44+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "YOGa Clean Air",
+   "amount": "Rs20 crore",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs20 crore",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "039d4a136408",
+   "title": "Government notifies Rs 1.27 lakh crore Semicon 2.0 scheme to boost chip ecosystem",
+   "url": "https://economictimes.indiatimes.com/tech/technology/government-notifies-rs-1-27-lakh-crore-semicon-2-0-scheme-to-boost-chip-ecosystem/articleshow/133645734.cms",
+   "source": "ET Tech",
+   "published": "2026-08-31T07:17:32+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Government",
+   "amount": "Rs1.27 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1.27 lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "05bf36978e37",
    "title": "Diagnostics Platform Healthians Posts First Annual Profit in FY26",
@@ -4628,42 +4699,6 @@
    "alerted": true
   },
   {
-   "id": "4c00b1bdada5",
-   "title": "German firms report rising cyber threat from foreign intelligence services, study shows",
-   "url": "https://economictimes.indiatimes.com/tech/technology/german-firms-report-rising-cyber-threat-from-foreign-intelligence-services-study-shows/articleshow/133536517.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T09:43:36+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "German",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "96d60f3a1bbd",
-   "title": "#PiyushGoyal Flexes #India's Nearly 2.5 Lakh Startups & 130+ unicorns In #Japan",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW5qbXV3eFlRUnlwWU1jZjBObExwX3ROVUJqMXRRbGZZRXZ2SkkzTEdwSk1sdDd0OUxDM0dJeWNMNm5vN0Z4WkhaUmFCcFY5MzNxb1IwRWZ5QzRmWm42bWVpUnQ5bGk0NDlOakp3LUJJWVA1TVpTUXVZY0lHeThqQks1dnhDNW5HU0UwdE5lREVrQUo2UUlCMkJIUGJwWGFRRE04am8zc0Fwd3hVdFNELTdLYVhmeUVpNHVweHlKcWlrd9IBxwFBVV95cUxOekZ0Q1hMWWdZYzJaNV9KbXpTS01oLUVRSS13OThUOXFVQjg5U19vWFdBbEo2R2ZqdS1xcTA3OU5Wa013b3BtdGo2TVNMLUdWSUdjTmFZOWlwQmpUQllpeHRSUDgtLUFHRUplQk1HTFhIZTBuU0RfcDVGeG1aQnBUSUNaajY4VUFpOWJhdlVhWEFuSExNbkVBa0F2eldzUmxsUS1LUXM5WTZaLW9tTklGOFN4bGRhNERtS3F2YmZLMnZqWDdJRmcw?oc=5",
-   "source": "Livemint",
-   "published": "2026-08-26T09:41:09+00:00",
-   "score": 17,
-   "category": "other",
-   "company": "",
-   "amount": "2.5 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "2.5 Lakh",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ea880fd2cb2a",
    "title": "D2C kitchenware startup Curaa raises Rs 40 crore led by 3one4 Capital",
    "url": "https://economictimes.indiatimes.com/tech/funding/d2c-kitchenware-startup-curaa-raises-rs-40-crore-led-by-3one4-capital/articleshow/133536337.cms",
@@ -4681,42 +4716,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "a3c8b6405325",
-   "title": "Why Accel, Avataar\u2019s exit moves from SaaS firm are sweet and sour at the same time",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzJBMVJSeldpc2Y5X0wyOFZzeUFFWVFoTVJGRDQyc3NObGZHVGpvQi1qbjcwTmNMRHVRYWY4N1JQcWNDelhQdC1nMjAyclVYY1ZQSVJYVzVtR0ZwNlVTRU9vbDl5Mk9YeW03M0tSc0Z2QVFfUnVuZWV0RXlXVGd3ZFJaZUxJR3l4N050cUg0SmVVS0JJSDF0NHVYaXI3ajBTZi1nUmRtLVg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-26T09:30:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Why Accel Avataar\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eb5bebe6d24b",
-   "title": "boAt FY26 net profit soars 38% to Rs 84.5 Cr",
-   "url": "https://yourstory.com/2026/08/boat-fy26-net-profit-soars-to-rs-845-crore",
-   "source": "YourStory",
-   "published": "2026-08-26T09:23:16+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "",
-   "amount": "Rs84.5 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs84.5 Cr",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "19d41ff54270",

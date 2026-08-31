@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-08-31T10:11:28.983391+00:00",
+ "generated_at": "2026-08-31T10:21:15.991257+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 80,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 83,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "83325b4d08b2",
+   "title": "Ather Shares Surge 5.7% To Hit Record High After Konarc Launch",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0NlRnhadFZ4d3FxanpPU1laZXFHNlB6c01kX3diRUlSVC1qREJkX2tzTjI5UENmUWdNbEpuSXhIWnRjY1ZZZHExdWhDeXN6cFhHU0hQVkxmZTk3Y3JXYkFfVW05eW40R3dGUE9GcF94akFhMk15b053WloxYTd6S044ZDRFOTRWbU1zNFdR?oc=5",
+   "source": "Inc42",
+   "published": "2026-08-31T10:14:17+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Ather Shares Surge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "a91af3839b68",
    "title": "Exclusive: Wedding services startup Meragi set to raise fresh funds at flat valuation",
@@ -404,6 +421,23 @@
     "funding in headline",
     "$2 M",
     "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "65d0dacb8663",
+   "title": "EuMo Launches Immersive Visitor Experience Centre Services",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd2NuVm84LW1YeTJHYkUtY1RSWGlyM0RmME11LWRFam42REJJODhqd1lZTjRDWlppeHlzOGtOd0NVTmZNZy1pbUxjS1Q2bll0eDZNM0FIcnZiUGZDbjFxT0FxdGNiY1l4VmJSNEpJdHg2cklWTnFVVWN1WHJRX213MGE3VFpQMkl1RS0wMjZQbGsyblFkRnE4MzNVLThSTmxxQ3pnNEk0VUx5Q0RueFEtSWpGWmdqMENJS2swLVBMRmFOUGp6a25ZeUl1eWtGVm03TjRMTE5JVmhJVW81OV9RU1lhQW9HTDExY2NB?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-08-31T08:18:01+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "EuMo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -4719,24 +4753,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "51e1081d8bce",
-   "title": "Wipro Consumer launches Snuggles, joining Reliance and Godrej in pet-food push",
-   "url": "https://www.livemint.com/companies/news/wipro-consumer-care-and-lighting-launches-snuggles-reliance-and-godrej-pet-food-fast-moving-consumer-goods-fmcg-11787739155872.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-26T13:01:10+00:00",
-   "score": 53,
-   "category": "launch",
-   "company": "Wipro Consumer",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "launch in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "1f8b29c81a32",

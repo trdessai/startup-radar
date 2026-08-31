@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-08-31T02:31:13.985869+00:00",
+ "generated_at": "2026-08-31T02:41:21.982624+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 18,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f40a3523345d",
+   "title": "Linc Launches \"Stackoo\" Retail Outlet and Experience Center in Mumbai",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFpBTkpIODR5Zm56LWtNV3pLaDltOHViY1hYOWVJb1BiNEdjb2x4eTJtMmMxanNmNXc4Y0RCX1JKd0FJS0wzRXN6eTFSNl9hNHlQMlhVQXQ2azNwY3UwbFNJTUJTTTdHRFlVQnlLWjVfX1lYVHVDYjBWMmRfYU8xbS0zbjZQQm5nYUsyQU5tRWNpUmxpY0wtMTNINmY4YW1CVHluNXEySFM2dw?oc=5",
+   "source": "Sahi",
+   "published": "2026-08-31T02:38:40+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Linc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "22b006ad594f",
+   "title": "From weekend idea to Rs 565 crore: The \u2018Animall\u2019 success story",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tLWFpTWxoRUNJUmNnT3JHZ2pfbkhuQTN1NGkzc0Nfei1lby1HeU9PYXJ2NHlmSlNBOHByVnJWN0dBRExHeTlTc1YwQmdpckZCaGQzcW1QUkdOUEtaMWhBY1JMTzZOcnZWYnk5Z0xVaWxwdzhaQ01z?oc=5",
+   "source": "Daijiworld",
+   "published": "2026-08-31T02:34:52+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "From",
+   "amount": "Rs565 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs565 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "f741a8cfbddd",
    "title": "Big firms eye ISRO's rocket tech; DealShare's sale talks",
@@ -7059,24 +7094,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "29dc2939d8cc",
-   "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
-   "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-stock-slumps-in-hong-kong-after-10-2-billion-share-placement-to-fund-ai/articleshow/133449641.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T02:32:14+00:00",
-   "score": 72,
-   "category": "funding",
-   "company": "Alibaba",
-   "amount": "$80 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$80 billion"
    ],
    "alerted": true
   }

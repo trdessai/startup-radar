@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-08-31T12:41:26.075561+00:00",
+ "generated_at": "2026-08-31T12:51:14.683663+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 73,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 76,
+  "fresh": 4,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "efb6630f1bbc",
+   "title": "Consumer Protection Authority fines United Biscuits \u20b91 lakh over McVitie\u2019s \u2018Wholewheat\u2019 claim",
+   "url": "https://www.livemint.com/companies/news/consumer-protection-authority-fines-united-biscuits-1-lakh-over-mcvitie-s-wholewheat-claim-11788170993291.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T12:46:26+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Consumer Protection Authority",
+   "amount": "\u20b91 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91 lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "110ffe72d0d8",
    "title": "Olee.space nominated as DCPP partner for \u20b970 crore Advanced Photonics Development Programme",
@@ -143,6 +161,23 @@
    "score": 23,
    "category": "other",
    "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0f5a995a8882",
+   "title": "Next Bharat Ventures, Info Edge Ventures back early-stage startups",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUNCVGpucUlKM2h2UlZndjUyc055OGhXdWNaVUlqUXFKbldzOFhWUi1fUEU5NWtrMW9TMThDSmJwM2JCNVZBYW1oTVFOam8wZk5rV0k3MUd2N0ZsTlVCSHBZcG5EY3YteDAtOERLU195Tk1jMUxsY0FPdFFNNGtiTTlvRkQ1UWFzQnM2WUVaMy1Ddm5kOTZoSDJDbw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-08-31T11:37:56+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Next Bharat Ventures Info Edge",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4594,23 +4629,6 @@
    "alerted": false
   },
   {
-   "id": "ccec779df10e",
-   "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
-   "url": "https://economictimes.indiatimes.com/tech/technology/marvell-selloff-deepens-as-investors-seek-clarity-on-google-ai-deal-payoff/articleshow/133602463.cms",
-   "source": "ET Tech",
-   "published": "2026-08-29T02:29:50+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Marvell",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a61466f7fbef",
    "title": "Envista launches Kerr Consumables in India, eyes growth in restorative and endodontic dentistry",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbndrc0ZVaVQydkxZNzVsU1FhWFVWbGNMd2tvU1Zsd2d4dlJ2THYzZy1iNTE5aHZ5Nm96dFpHRWY3bmhRbmkxMkZFcjF3cXhTdHg5bVNCRERiamU2M2xVS3NwSlVoUHk2bXVua0swM2VHZ1lkak5wUmR2bk9qNzlvM1F1eWVsX0ZFWjFoNHUxcmF4VjNkRmxxZFBEZXlkX0RjVHpsV3JmTk9BVzVUR2o5VkhaUFhBYV9VUW9Fd3ZvZXVaMG9CMnpLbzRTZG9wUG5hb3FRZ9IB2wFBVV95cUxPMDBWeEYxdWI3ZFRrY25JaVVaQTNadVRBbUpSQjNBSDAxOE5hOTZMNTBHOXF1Rm1DSlBSWmtDRHg3ZldQMkoydjlCVDZ1NGxQc0JJazlyYVNDWWduNkZUUkN0WkhtOGktdHpjSEJXTGJoN3JXUUFvYkw5REtNak0yTFlPZFRVZkR3U0V0MFVJdFRWc0x3NGl1eG1wQkF2RHFpc0tqekhPTzdqOUdhWENJU2VIUGtndHQtNlBsTXlkWXhWNnNZTUx1Wl8tOFRLdlgzZkFvbktIYXNyd0k?oc=5",
@@ -7047,24 +7065,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "454041b76876",
-   "title": "Trump-linked RUM Group signs $13.7 billion AI deal with US-based cloud client",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-linked-rum-group-signs-13-7-billion-ai-deal-with-us-based-cloud-client/articleshow/133466771.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T12:48:47+00:00",
-   "score": 68,
-   "category": "acquisition",
-   "company": "Trump-linked RUM Group",
-   "amount": "$13.7 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition",
-    "$13.7 billion"
    ],
    "alerted": true
   }

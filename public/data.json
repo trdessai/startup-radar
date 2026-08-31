@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-31T15:01:21.330556+00:00",
+ "generated_at": "2026-08-31T15:11:30.209525+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 3,
+  "fetched": 58,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7027,41 +7027,6 @@
    "reasons": [
     "funding in headline",
     "$4.5 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1c5b5f7e205b",
-   "title": "TCS acquires Porsche\u2019s IT arm for \u20ac320M; bags \u20ac1.25B deal",
-   "url": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal",
-   "source": "YourStory",
-   "published": "2026-08-24T15:08:55+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "TCS",
-   "amount": "320 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "320 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c09ba5577785",
-   "title": "Sebi launches Cyber Suraksha portal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/sebi-launches-cyber-suraksha-portal/articleshow/133471754.cms",
-   "source": "ET Tech",
-   "published": "2026-08-24T15:05:01+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "Sebi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

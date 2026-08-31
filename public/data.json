@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-08-31T15:41:15.728029+00:00",
+ "generated_at": "2026-08-31T15:51:23.949292+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 50,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 51,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0c9356fdac54",
+   "title": "No mention of Mukesh Ambani, focus on settling debt: What happened in Subhash Chandra's 18-min Instagram interaction",
+   "url": "https://www.livemint.com/companies/people/no-mention-of-mukesh-ambani-focus-on-settling-debt-what-happened-in-subhash-chandras-18-min-instagram-interaction-11788189699136.html",
+   "source": "Livemint Companies",
+   "published": "2026-08-31T15:47:28+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "No",
+   "amount": "\u20b9990 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b9990 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "4e9dac9b3d7b",
    "title": "ISRO\u2019s \u2018Bahubali\u2019 draws L&T, Adani, JSW interest as private firms eye rocket technology",
@@ -339,6 +358,23 @@
     "\u20b91 lakh"
    ],
    "alerted": false
+  },
+  {
+   "id": "d0cf032af029",
+   "title": "Aspera unveils Eureka, autonomous amphibious cargo aircraft",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1A2OEtTNklvZ1NnbXRkcWRhT3BWdk9hTFhVU016akJ5cmF0MENyN2pReUJFLThLdWxDTzI1UFY3X0tjb3AwdEJqVEY3ZlltaGZqZGMtdXZqdkFmQWVZWmpXU3NEWjZ1a3AzZVZHejktUFU2WS1hUGg2WVJKODZXNmZHcWZhOGJaRHBac0NUcHdPcDIxTFd0bDZqRWRjSktm0gGmAUFVX3lxTE9EbFdYRjNxSk9HUGRnZWp2b1lJWU41bmo5TkVUYjlfM2xHNnFYLW1RU2JWZkNyRGU2aGFBRTFFSEp4Q000YU9ZMnFoUkpRR2ZMcGhpTjNBdUh5WEhrNEd6Tm1oOVpYR0NJemNONEUxbm5xZmJkd1R0b3o0X2RUU19sNUNnbU4tbDZQaGo4VURlY3dkMDdMdlROTVhfRXhHQ3ZNQWpWUXc?oc=5",
+   "source": "Indian Transport & Logistics",
+   "published": "2026-08-31T12:33:53+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Aspera",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "110ffe72d0d8",

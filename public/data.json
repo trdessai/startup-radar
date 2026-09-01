@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-01T13:30:35.712710+00:00",
+ "generated_at": "2026-09-01T13:45:36.085006+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 69,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "f4e77af08b27",
+   "title": "Tech3 | FirstCry's War Cry, Agrani, Ananant in fresh funding talks; and more",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZDNmaUo4dkgwZFBDWkphVDZTT1F6emxxSEJLZVBVM0ZBMjBGTWs5dlItNXRtajRxOTNPZlltS0ZmRHE2OHRVUUFLQmtySGRjbnRYZllEVVlhYUtQMVJXSTNlUlNBblIta1RmanZmVGtaV2RDeFh5dnhqVmhNcTVSZEx1ZnllZEhOMVhtTzl5QThGX0xlNHpBeTRiUlg0QzdYZEhUT1VHUF9TTkxsRWlGNVp2Rm5NaERFSUlpUWphaC0xX2FmX3dqTU9HS3ZWN0s3QWRodERKeW9lemVCYVE?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-09-01T13:39:07+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Tech3",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c5daae124793",
+   "title": "OYO parent firm to launch AI agent for end-to-end hotel operations",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmSUgwdGQ1ajRjX0NBU3pLdk00V0liUlF5WndmbWNZV28xTC1fRlpBNFlfaGRyZzZZSHIxUTl0WWUwcEZwUldnMFctbm1XSnRqOENwcUsxQXJvVkN0SDY2S2x6U2FuaW5CYWthREhycVRtcFNkT0h4Ni1UYkRvczg?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T13:09:34+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "OYO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "b399e6153c48",
    "title": "Kepler Aerospace Raises $8M in Seed Funding",
@@ -7069,23 +7103,6 @@
    "reasons": [
     "funding in headline",
     "$200 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "89706989795c",
-   "title": "VCs step up wealthtech bets; Blinkit freezes new launches",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/wealthtechs-new-funding-wave-blinkit-freezes-new-launches/articleshow/133512614.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T13:37:43+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "VCs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

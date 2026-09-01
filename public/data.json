@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-01T03:53:42.808649+00:00",
+ "generated_at": "2026-09-01T04:01:47.584409+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
+  "fetched": 34,
   "fresh": 0,
   "alerted": 0
  },
@@ -7037,23 +7037,6 @@
    "reasons": [
     "funding in headline",
     "$37 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e9cda1e41e68",
-   "title": "A satellite collects more data than it can send back to Earth. TakeMe2Space has built the tech to process it up in outer space itself",
-   "url": "https://yourstory.com/2026/08/takeme2space-in-orbit-data-processing",
-   "source": "YourStory",
-   "published": "2026-08-25T03:58:28+00:00",
-   "score": 56,
-   "category": "funding",
-   "company": "A",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

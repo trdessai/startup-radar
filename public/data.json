@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-01T08:21:20.637050+00:00",
+ "generated_at": "2026-09-01T08:36:23.033503+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
+  "fetched": 65,
   "fresh": 3,
-  "alerted": 1
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "cc502f03c681",
+   "title": "India preparing rollout of agentic payments on UPI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/india-preparing-rollout-of-agentic-payments-on-upi/articleshow/133673880.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T08:25:00+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cab516d0c7dc",
+   "title": "Alteon Raises $2.5 Mn To Develop Long-Endurance Autonomous Aircraft",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHlPSnZGOFhLcjZER3lYOFhsdlZROWhzNTh6ZzlzVUIyTGc1X0ZDMkZEeUYzOFBTRVJkcENnM0l5YWlISjRVRUtMWkxFNXplYUlONTEyU1FtQVVMeUNmbUVYYkpadGVDNHlIOUxuMFB0cUFHVVJkcGhWYjlYNUM2RTRRb2lnQXNmTWlQdjQ5R0xia0I4?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-01T08:19:44+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Alteon",
+   "amount": "$2.5 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2.5 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "3e54befb468e",
    "title": "Unacademy closes UpGrad deal at $200 Mn",
@@ -327,6 +362,23 @@
     "Rs4.2 crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "ea5dd78e1bc6",
+   "title": "HDFC Capital, Japan's Hulic make maiden investment from housing platform",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbV9ibTNJQ05iWmM0Ni0wdnJXSlJDMno0ODJNUjlRZDRWS0VTRDV4VWN6TXhTaWpSZjRraHNVdURaclAya0tjSWlIbFEwb2dRYWxkdF9henpnNXJoMXZNaU9FMTlZaWpzSjFvaFhIN2VvUzVVMVFac0JYRmJrMlNHQlNUZkR6azZsN0RfamczR0xIVlI2ZEJhTTJzajVnSU9kTlI0?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T06:58:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "HDFC Capital Japan's Hulic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "bfaa79320eee",
@@ -7006,41 +7058,6 @@
    "reasons": [
     "funding in headline",
     "$37 mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e61a5ecc50bf",
-   "title": "Mazze launches debut outlet at World St., Worldmark",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnVuSGhyYzE1OGdWVDNZNWkwbHAyMjBkTjhsNDlQVUh2OFMxTm5VOWxLUFJZeEd6c3lqdWZXUmx3bFQxSFJIMHRIQnE0WFZ5S29zOFIxZWtnYWw2YmRIc3Z6S205MzdDLTBOX1EtMW5XOHJtME9zS1l4LUxvRExZMk1Zc1Nnc0E?oc=5",
-   "source": "India Retailing",
-   "published": "2026-08-25T08:28:33+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Mazze",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "33a5c90aa871",
-   "title": "Nexedge Capital Nets $20 Mn To Scale HNI Wealth Management Platform",
-   "url": "https://inc42.com/buzz/nexedge-capital-nets-20-mn-to-scale-hni-wealth-management-platform/",
-   "source": "Inc42",
-   "published": "2026-08-25T08:22:18+00:00",
-   "score": 76,
-   "category": "funding",
-   "company": "Nexedge Capital Nets",
-   "amount": "\u20b9191.4 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "\u20b9191.4 Cr"
    ],
    "alerted": true
   }

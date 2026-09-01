@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-01T22:43:08.140818+00:00",
+ "generated_at": "2026-09-01T22:51:11.237554+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 3,
+  "fetched": 9,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -51,6 +51,40 @@
    "score": 18,
    "category": "other",
    "company": "UZQR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0b0879ab201a",
+   "title": "HUMO - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96ZEo0S2JVUVFPaGFGRU1nelA2bExlVmY2N0RubDBQdzJ2MVZicnYwYUt5VEI2VjljRnFjSWVCVFFKRWw1T0U3b1k4NA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T21:43:55+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "HUMO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9b2d65fcbaab",
+   "title": "Uzbekistan - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMLXdmcGJpODR6MkJRaERROFRDaUxjVXNNU0doN0pXTDRINmhtWXpCcXBBY012dlVnVEFzWVlnSHBhZjJaejExcXJKblhlcmpRWjNV?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T21:43:55+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Uzbekistan",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4029,24 +4063,6 @@
    "alerted": true
   },
   {
-   "id": "110ffe72d0d8",
-   "title": "Olee.space nominated as DCPP partner for \u20b970 crore Advanced Photonics Development Programme",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbktFMFpWLXVudlhhQ08xZEl1OFZVUnROWlJvMVViUDNRNUFtWEpVaUJyTHZsS2E1MnlpaWZqVTFGT016WU96X2ZSN2RPZjRhRXR3YS1kQWNobm93SmVOQXZvVEF6REhwb2J0VWNEZE5mWlJZRHl1d05DSndMOVZ3dWwyZm1JVkZyc0QzWUpCdEM0OUJGWHNvaFU1VVJIVVJaRC05S2RiM1FiTHJLaEhJbU5WOTlNeDA5YS15aU1kUDZ2R2tWZFE5UnVGMDAtb1hFeXdLdFNB0gHjAUFVX3lxTFBnZHVSRG55QW8yTzI2c2NjNFlldTRFeFFfNUdTNU15R1h2enJvLWJxVXFHYnZzbDItU1Q0Z1VBa1VMQnNSbmJma0x6c2xyek8zLWJ6ZFNDREFXWXRpMmJPQlFBQnFpdHl3YmxkUlFxR3BPUVFPMkxtTGNyWG5lY3FOM1Rya3ZibG1lX1E5X05NUTMwNVRkQXJlMlFfVjAzaFNiMXZrX1RwU01uck1IT3FBWnJZVmU3eDNHaDFIc3kxNGtMYTl2Wk4wWGxMdlBybXRidjd0UTY3RWVIOU5jb3ljZXow?oc=5",
-   "source": "Fortune India",
-   "published": "2026-08-31T12:32:26+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "Olee.space",
-   "amount": "\u20b970 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b970 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ee3f653a524e",
    "title": "Dot and Key Launches New Vitamin C Moisturizer Campaign",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTzdWLTY5bDhuODJyTXp6c1YyMnkyY3JTZmsxbWxRWHhNVXkzTjZ1ZFVDck9rOUtfV3VWNFFfNWJkNmdaZFpZMG1YS0JIMUI1QW8yNk5JUHJqWEVrcmdGMnA1Uk5fSjNGUVV1UVpaTXc5M1pJdXdvNTFGaUd3TUltbnlQSVVaN3ZIeThRcnQtQ3RDODFoMURxV0pjeVp1Q2U4b2Q4OWZabnhlcmQyUkRCSEN5RHN4T0ZvcUVhNzI2aDFXdmRVaU5aaU9WNTVLQkF3YWRPSDBDa29xdS13bkNlckFpOUtoOTFwRm5N?oc=5",
@@ -4079,23 +4095,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ee00514903a6",
-   "title": "Retail India News: Coffee Buddy Enters India With Mumbai Store",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0NsMTZaZDZnNFpYR0pvNUQ4eEhWZmdwTTRLUk4zZ1hEVFkzZXZsVlJJMkJHMDRZYkd4TUJsWERZazVEVFZoMHZNV2VwR0tseW80b044anhIc0Nxa2JzMGdpYzRINWUwTkg5MDJYVlNzMzl3V1BiMmlkYkV6aHBwUktPbTNGZGJubmszaGRkQVBjV0x1Y2lZ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-31T12:17:25+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Retail India News: Coffee Buddy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "652276cf8f9a",

@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-01T09:31:49.230316+00:00",
+ "generated_at": "2026-09-01T09:46:39.497861+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 71,
-  "fresh": 3,
+  "fetched": 76,
+  "fresh": 4,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "20358837c9b8",
+   "title": "Dodo Payments breach disclosure disputed by dark web listing",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IMnFqQVo1QjR3ckFsRmJDeGF2U0J1c09ySDFfcjVlb0Q0UUtOZFlQeWxfQ0FHTFhCY0pYbllUZVp0WmYzcVBpd3lDWXdQOHB3VnBuQUtUQnFxQ0tWeWEtYVB2ODJGQVRjOU5IV0U0Vm9XZw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T09:29:28+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Dodo Payments",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "36e24aa9fe56",
+   "title": "India\u2019s UPI Expands to Uzbekistan, But There\u2019s No Rollout Date Yet",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDBzTGc4dGxQSm5ER3pMbF9oQWFCVEtCZ0lyWmZCc2ttMnBTWi04aV9tRklPR3ZJQUhDUlJFTEZDSWQ5UmpYRXh5OHZ4Y0dXbHB6NmF6WHdocTlibHVaYVREUjQySUdIdnIyekxkSnhiZ2tERjQ1NXVqSnlHak5URXktS1d2RUk?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T09:26:25+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "India\u2019s UPI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "de6a4ad945c3",
    "title": "Micron's Taiwan unions threaten strike over bonus dispute",
@@ -120,6 +154,23 @@
    "alerted": true
   },
   {
+   "id": "c114b2a64eda",
+   "title": "Stelatoes opens new store in Jalandhar, takes Punjab store count to 9",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjhGWlJJYTFxc18zd3Z4aVViQ1ZvN2tuRUJVRGR6Tm5LSTctdFdlbWhwcW5hUWQ5OXJyRllZWGYxbG9MMXBJWnk4bU9SYzYyU0QxN0E5LWQ2SnJ4SjZDSGY5ZWNnSEFaRzdpUkc5OHptSXJ3dmoydFhtXzVqeEI3QUY2Vi1xMGVnaGpYSUR5WTVkNmNnemw0Z2VFWGJBMDcy?oc=5",
+   "source": "India Retailing",
+   "published": "2026-09-01T08:57:39+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "Stelatoes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
    "id": "836d09f6b0dc",
    "title": "XStep Raises Funding From Titan Capital To Expand Neurorehabilitation Platform",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWlZLWs4SVdjSlRZQmtOUGEzbG1yODhiNEJaamFDc1NsbXp2MkVGdVJ0SVVkaE5PZGhfRU9ZOHBKb1RnR1V3ODFlQ2hiZVQ3SGxvcXRPeWQxeW1GZi0tOVdELWJVbWZYbnBYNUtYUE4yc2pBdHNpampYVEhPZk1rd1lFbEwzQ1pWS3VUT1NWU1VodnFGbzFkTGxPcG1SWEE5Y2VYeTl2Z05PenRZTm9LOGdFU1BocEpvbTBJ?oc=5",
@@ -145,6 +196,23 @@
    "score": 18,
    "category": "other",
    "company": "Yatharth Hospitals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b930766183a6",
+   "title": "Hulic & Co.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2aEVSQnc0dGQ2Z3FBc0ZGcXhzZ2hwcklNanhWMU1kT2d6MlJ4b0pVN0lYYzVJZzFwa0l6MnhibnUxOXMwU0Izd2xyTVZmN1dXdWpVQTRB?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T08:44:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hulic",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4247,57 +4315,6 @@
    "alerted": true
   },
   {
-   "id": "63a484fe7805",
-   "title": "Veeba expands its portfolio with Veeba Heritage, enters chutney category",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12T25FUUl3dnZDUm9PaDhkRk1uaVNrZXREVzZwcHlNMmdjOEpMendBcnZLdmtVUkVQOXVXQUNBQWtKdk4wakp4OGtsYTZEallHQkRkSHdyWVZnYTdkYlpodmdRWlFuTVp1bUV1SHdkdE9iMHV0UjlZVEE2cUg?oc=5",
-   "source": "newznew.com",
-   "published": "2026-08-31T06:18:56+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Veeba",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1a1f617f5cac",
-   "title": "L Catterton-backed pet food firm Drools\u2019 FY26 revenue, margins jump",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzItalhQN3hmYXJtSDR3dDlPTDRCLUM0azRRT1JlNjFuNTc0VG43NXlNU1hOdElWQks1X2pEdHRweV9CSEpPTjc1dUN1cEJrNkJ1Z3hNQlozTlp0QzJlM3Q1Y2VzZThOck11TGlzWUYxaURIMlpSUDh6TFdKMlIwMV9JMmNoMW9lZEZ6SVJyQmFPZ00?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T06:16:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "L Catterton-backed",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "445521f42b93",
-   "title": "Appinventiv Opens Free Office Space for Early-Stage AI Startups at New Noida Facility",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEdwYnVYd0d4LVNSSU0wa3EwR0Q0Ums4NGpzdEhxUVBKNWZDQ0Z3a0U1S0FNa0hYZkgtbWgtMU42azNua01BeWV0aV95R3ZhM0pHMTNKZzRtLW81b19UbWd6ZldjQUotYnZILUVTMjk3aG9TeGx0dmQtRmRaTDMxUW9sWk9fT1RhaU52WWpCRmdKZTlmOFNuMVA1cXZXY2pDTmt0QXNDR2RTTEZnXzFQZUstTGZkdWU3elpBNmdqUTd5dkxXVk5F?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-08-31T06:10:35+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Appinventiv",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "30bdc420f73b",
    "title": "Air purifier startup Yoga Clean Air raises Rs 20 crore from Info Edge Ventures, others",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTHUyX2tFVGdYLTAyQkhGUE9rZldFZzJiNzNWcUFQV1huLXFHWFBrYTI2OGdzai1jUnpQOGEzcFRKbVFORTIwV2ptQVd0WHdiZ2w0Sk0wY1RNYm1pWW9ON1dORVlRaXlzRXR6U2pJdGszeEFpQUdKX2Ztek82b1QxV0daZTdsZy1xaDdHU0VqOE1JYW1zMUI5YkVLc01KREVJRjRScmtBY2lReVVpRkZiMlFyMFRaaV9pLUduVkIxZHNTM1JqYndybDBmQWdpNXZ5aHQ4OUpObDF5ZnFwMWUwVlFsUC1GYVHSAewBQVVfeXFMUDhUR3QzdzdrZnJYei1sVk5ST1RZRmh6akFIaFNpXzl4dEE0SUV5V1pxeWEtb3NCNG9PaVJPUVVoNGZjRVFIX3Vzc2t0U2hpNzczUERWZDBaMnNUMDl2T19tMXdjNEdta28zZW5oZDlLalhoSmxYMmhtOXNpRmdkWmtZLTYxY1M1YTRmRFFOWU5UTGFTVThMLXdidlc0ZlZKbHFVLWw5aGNWYmdZbnlNeWptV3gzQm1OVXBGUkEtRVVwbnlpdXpQMzZVc2tjTVBfaDBSUmdaNlJBX0RsN2lRazFpY3JhVzM0RnZNV18?oc=5",
@@ -7058,23 +7075,6 @@
    "score": 68,
    "category": "launch",
    "company": "GobbleCube",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "428626fcf6da",
-   "title": "Veeba enters chutney category with launch of Veeba Heritage",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjFyVHpKNEV4dmgzM2RzOVV0UDFGTko5NE04NVZLWmJ3WHc3aGdVal84Vi12SVhIZWYybWJCaEgxVFR5MzVaUzQwd2NlckxwRUhOMExjaWZfa3YxbFVWT2RnYVRVS2NNMEI1MnZfVEh5Rm9rOGhvSHItYXpsU3hCdlN5ZndhRG5lRHJRTEFCOEhsVXN3a191VXIzRjJzWDFvcEtVSS1BX3d2cmV5ZnZGOGdvZTh2Zw?oc=5",
-   "source": "IMPACT Magazine",
-   "published": "2026-08-25T09:33:47+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Veeba",
    "amount": "",
    "stage": "",
    "founders": [],

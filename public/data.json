@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T13:45:36.085006+00:00",
+ "generated_at": "2026-09-01T13:53:38.089265+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 69,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 74,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a32178537330",
+   "title": "Social media companies are trying harder to know which users are kids",
+   "url": "https://economictimes.indiatimes.com/tech/technology/social-media-companies-are-trying-harder-to-know-which-users-are-kids/articleshow/133683545.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T13:48:40+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Social",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f4e77af08b27",
    "title": "Tech3 | FirstCry's War Cry, Agrani, Ananant in fresh funding talks; and more",
@@ -23,6 +40,43 @@
     "funding in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "750790423c0f",
+   "title": "GoPro to be acquired by Starman Optical in $285 million deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/gopro-to-be-acquired-by-starman-optical-in-285-million-deal/articleshow/133683234.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T13:38:21+00:00",
+   "score": 81,
+   "category": "acquisition",
+   "company": "GoPro",
+   "amount": "$285 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$285 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1cc8258112e6",
+   "title": "[Update] ESDS IPO Closes With 135.9X Oversubscription",
+   "url": "https://inc42.com/buzz/esds-ipo-subscribed-42-7x-on-day-3-nii-portion-booked-126x/",
+   "source": "Inc42",
+   "published": "2026-09-01T13:36:57+00:00",
+   "score": 35,
+   "category": "other",
+   "company": "",
+   "amount": "\u20b9720 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9720 Cr",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "c5daae124793",
@@ -286,6 +340,23 @@
    "score": 23,
    "category": "other",
    "company": "How Google\u2019s Android Policies Affect",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9efb3c5c1d3b",
+   "title": "Panasonic India opens next chapter of startup co-creation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYXVZRExhOFdoNk5YU3JKcWNPcV9iSzc2YWMzenRYeDMyX1g4WmE3YVdSV3RhbzRpRl9BXzJwSlpzTHdBMG5paTVkVThEUm5oUVUtdXpzd05tTWVsU01aRFVrN29MREFUU2RJVm1fSDdsTDFVMGtxYUxsbUcxM2M?oc=5",
+   "source": "Manufacturing Today India",
+   "published": "2026-09-01T12:03:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Panasonic India",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -3955,24 +4026,6 @@
    "alerted": false
   },
   {
-   "id": "707fd9d9073c",
-   "title": "Centre Notifies \u20b91.28 Lakh Cr Semicon 2.0, Targets 1 Lakh More Chip Engineers",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0UwTjZOdW43RGhQcnVtZ0lxd05Ka3FZYmhQcUcxZE40R3pkWkJlVk8wUDZXd0cya2pOQXhwRGtOdlNlMDhzNnhGd0UySmZYcmI1Y1NRQUlsc1Zuck1DTXFCc0MzWlN1bXluMk5tajFjRWVOekMyR213alp6Z1Y4NjVwWk9QeVRZVHpnMzhpdXJXcWhjT0ZUYld2STdKQVhVcDBPZ2FXcEF6MzhR?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T10:45:24+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Centre Notifies",
-   "amount": "\u20b91.28 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91.28 Lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2dde303744b1",
    "title": "Rs 15 crore grant, equity co-investment: Semicon 2.0 opens funding route for chip startups",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQW55OExZN0Jra3N4eVAwOW5HODk0MWo2UDlEVDNYdGZYb1BxdGljQVNFNE05QzZhQkVQbXVHN2prNWJrbDFOdVNhdDNHa1cyVVBtY1RpbEFBdGFJNEdoQ0JJQzBoUU9mODhkRFpCSlZKamlWOERIV2RxdEMzVlhTcFRJTHg0R2o4Q0M4ZmRyUF90S0QyVlByVmdBNUVobUgzYTFrMVdFMkxjUGNJWTY0VzNLUHI0WVZZdi1SWTJ1TjlCYmRKT1RBS0pOU1BqQldCSmfSAdABQVVfeXFMT0dLSzZHbjRyeEx3NzhFdEZwM01iSThoRi16VGRCZFhGeGtYQUZ2d2hWOXVSUnpjQ25nZXZUdHVaSFpJYm5ZblB1WHNmcktzSHdGdWVKLVRFYjhOZEh5U3N3ZURTaHlLTjFob2Yxd2swWC03dHF3Wk5MZHg5NHVJQXdheEp5Z1pmeHJibU1kS0dZNkpmdTg2aVAyZndJVHpNVEM0M2hGZzh1UHdtUmdJRE9DV3hxN0VPT2d6U0ZtY0ZHNkhOSjMwU0NNemFzcVBOUg?oc=5",
@@ -4023,58 +4076,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "6c2757f0d929",
-   "title": "Mayuri Nikumbh rejoins Elephant as Chief Design Officer",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDdQRUZPWTF5RkstX2RqWUFjMUdobW5IYVowS1lNZUF6YlhsRjJLbWY5c3JFekkwbzAwcm9CTUVyeHh5RmttNzJoVDlPNnoyQ2RYOE44ck5OSHVJUklycXBjZ2I1NzdpZ0xndDFlQm5MajVkNXliVUJReWxhN0VoUk9udFdHXzZxSmtINA?oc=5",
-   "source": "MediaNews4U",
-   "published": "2026-08-31T10:35:05+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Mayuri Nikumbh",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "df0760c63525",
-   "title": "Bengaluru\u2019s Residential Market Is Entering a More Disciplined Growth Cycle What Developers Must Build for the Next Generation of Homebuyers",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHFua2ZxcFlVblJWOXYxM3ljRk9FVnd4WjV6SmRPX1M0b05idzFwNHVkSkV3NmFsNW81WEd3MElTUDVXUDNuZk83OUI2bkdUNUJ2aHI5ejJBYmdEbnFKbnRFX19PZ3B6b01ObDg0UW1tRUhDUmxENG5QNXM5Q1YtZWFLUWx3cnYxMEJUS3E1MUhYZDVBZXZMcjVmazI2M2VOM21JcTlMcXY3OUQzZk40a0NGaHhWQ19XRDhrblVsYjhiLS1VU3RURG9rWS1BWFJ5ajZPamFJLUoxNXlMSnBEQlZMbUYxYjBYOXZqV3g0cjRlV1pvNDZmMTBDUQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T10:33:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bengaluru\u2019s Residential Market Is Entering",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4d65f70da2f7",
-   "title": "Ribbit Capital extends India fintech harvest to over $650 mn",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFdFbHNGSFNERFFUdXdMWDBuQkRHZlNQbzc2SFpzcDM5eGNaMGFWbFRLN2w0YlRpY2l4OFVYLW93Uy1zNDZlWURjaTlOTFpPdnFsUk5qS1k2Y1VIVVZkOHExQWExNEFmMmdGZUhNMHNXMEd1X1psZWVhUDdIRHpJLVA2RVRQT0lQejdB?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T10:33:35+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Ribbit Capital",
-   "amount": "$650 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$650 mn"
-   ],
-   "alerted": false
   },
   {
    "id": "83325b4d08b2",

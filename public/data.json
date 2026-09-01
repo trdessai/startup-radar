@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-01T12:02:18.011820+00:00",
+ "generated_at": "2026-09-01T12:24:45.435076+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 75,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 77,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "b30ddf22ce4f",
+   "title": "Research Analyst-led platform 72 Street raises Rs 4 crore to expand into F&O, model portfolios, commodities",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2UzYTJsWW5ob1pyZVFXeU5naExBR3phLVhjMEQwMXN5a1JBdkFqWlhtNjNaRzk4aF9ickFxblVfcW15ekRteTZISXdIcHMtV0dsT3BTM05zX0x0bEQtOEsybHhwRXA1WmE5OWxGbDZyNmxUZnNvY3dib0VCLXNnWGwxNk02NDR6RXZ0Z0VQTmtQR01Bb0RGY09CaHBCZS1LOXV2ZGplTUJRV3JPbE5EaURESkI5WG1PZktObUdxbUFhOUFQbzV3bmlxeFlPY0JlZjdGd1djcHZPVzU5bm9vN2tQWmV6d9IB5gFBVV95cUxNN2UzYTJsWW5ob1pyZVFXeU5naExBR3phLVhjMEQwMXN5a1JBdkFqWlhtNjNaRzk4aF9ickFxblVfcW15ekRteTZISXdIcHMtV0dsT3BTM05zX0x0bEQtOEsybHhwRXA1WmE5OWxGbDZyNmxUZnNvY3dib0VCLXNnWGwxNk02NDR6RXZ0Z0VQTmtQR01Bb0RGY09CaHBCZS1LOXV2ZGplTUJRV3JPbE5EaURESkI5WG1PZktObUdxbUFhOUFQbzV3bmlxeFlPY0JlZjdGd1djcHZPVzU5bm9vN2tQWmV6dw?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-01T12:12:39+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "Research Analyst-led",
+   "amount": "Rs4 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs4 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f1c85b131ed3",
+   "title": "UBL sees premium beer growing 3x faster than market",
+   "url": "https://www.livemint.com/companies/news/ubl-sees-premium-beer-growing-3x-faster-than-market-11788250196928.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T12:01:48+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "UBL",
+   "amount": "\u20b9110 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b9110 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a5e80a2c52d6",
+   "title": "California AB 1856 exempts Linux from age-verification law",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajYwcW5BUWtnNkoxN2hnbXhFYWcySGlaRWFKWlBMY0V2NHo2YWNYeXNHcGdJanBqNDhFR1pLNE5ZUDZGR3FkVU9hUUFaaUYzVjhPMGlSOWtVYWhmcE1HRm42QUZIYVpEVXVOc3IzLWdMS3hNR29rdzl0dXgtMkhaRHd5bkE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T12:01:28+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "California AB",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "bc76a899c9f7",
    "title": "Happiest Minds rules out job cuts after merger with ITC Infotech",
@@ -3917,23 +3971,6 @@
    "alerted": false
   },
   {
-   "id": "c5467b4feaca",
-   "title": "Zomato Lays Off 240 Employees, Shuts Hyderabad Customer Support Operations",
-   "url": "https://inc42.com/buzz/zomato-lays-off-240-employees-shuts-hyderabad-customer-support-operations/",
-   "source": "Inc42",
-   "published": "2026-08-31T09:38:22+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Zomato Lays Off",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e71459eb3759",
    "title": "EIL Joins MC\u00b2+ Ignite Launch at IIT Madras to Accelerate Deep-Tech Startups in India\u2019s Energy Sector",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2lCUVFZQ2dWRU9VMnBPbkNCbU0xLVA0MlJ4SjJtSkNrNUhNQml2aVd6dm95cW9NTTFqajVhRHU1WG9zNDdKYTZ0aW0zbWNhVHlsbnZqOUdFVDVOaGpXTk42Ujc3NmQtR2ZEdXlJRnltRm5aWjNoakRoMXRHdy1iSm04b2FsLXNnajdta3ZhRk8?oc=5",
@@ -7048,40 +7085,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "137e94530274",
-   "title": "Google expands Gemini AI platform for law firms, lawyers",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-expands-gemini-ai-platform-for-law-firms-lawyers/articleshow/133509761.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T12:07:31+00:00",
-   "score": 57,
-   "category": "launch",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "54d1db24ffaa",
-   "title": "IIT Delhi, CEP Launches Generative AI Programme as Demand Grows for Professionals with AI-Building Skills",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbGMtRjlHQkhtYXp6ZzJIeWNsM3NEZmpCVWsyOGsxUXpLdlJPUnZPcG00bDlQVWNkcHRQNlY5ZzVaMVFWSnNNTXFJaGVVendVX19teGdrZ0trbnhDaER5TE9OMlVkVTlsLXpWYTdyRXhnRlZZOUlZMWZkYk5IdkxfMGJqVm5SdlM1emRxb1ptSUwyajY5ZGFLNmVGYzdzdEZ5TkRMTmJERHB5Q0JJRG5tQmdKRHh5UkwyYkdDYW5JVy0xVWRPbnA0eVJ3eG5TLXNxekxYMUFUM3Ytc0xaay1fUkxaREItUdIB5gFBVV95cUxPbGMtRjlHQkhtYXp6ZzJIeWNsM3NEZmpCVWsyOGsxUXpLdlJPUnZPcG00bDlQVWNkcHRQNlY5ZzVaMVFWSnNNTXFJaGVVendVX19teGdrZ0trbnhDaER5TE9OMlVkVTlsLXpWYTdyRXhnRlZZOUlZMWZkYk5IdkxfMGJqVm5SdlM1emRxb1ptSUwyajY5ZGFLNmVGYzdzdEZ5TkRMTmJERHB5Q0JJRG5tQmdKRHh5UkwyYkdDYW5JVy0xVWRPbnA0eVJ3eG5TLXNxekxYMUFUM3Ytc0xaay1fUkxaREItUQ?oc=5",
-   "source": "The Tribune",
-   "published": "2026-08-25T12:03:22+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "IIT Delhi CEP",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

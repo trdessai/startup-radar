@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-01T07:45:36.758657+00:00",
+ "generated_at": "2026-09-01T07:58:01.815028+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 66,
+  "fresh": 6,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "e2dc0f4a3159",
+   "title": "Deep-tech aerospace startup Alteon raises $2.5 Mn led by Lachy Groom",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2VTcTdNZEMzS0JXTUoxRDBuUHJkN0xwMmFQRkMtTWtfNDhkQ0ZxdGRvNVpvN2JuaC1xMDdHTjY4Ri11aXI3VXAyMjI5Y3BOSDVLQ1hrZ3dGOU4tc1RMNXZvUTc5QU1Gdk4tVHpienllX2NvdlF2cDZfOURxOHlCcl9hQjJKZmg1WVZKV1UtMm9sd2xJbGhGNEw3dG5PQWdfa0dFT1RrWFrSAagBQVVfeXFMUE9lU3E3TWRDM0tCV01KMUQwblByZDdMcDJhUEZDLU1rXzQ4ZENGcXRkbzVabzdibmgtcTA3R042OEYtdWlyN1VwMjIyOWNwTkg1S0NYa2d3RjlOLXNUTDV2b1E3OUFNRnZOLVR6Ynp5ZV9jb3ZRdnA2XzlEcTh5QnJfYUIySmZoNVlWSldVLTJvbHdsSWxoRjRMN3RuT0FnX2tHRU9Ua1ha?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T07:47:03+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Deep-tech",
+   "amount": "$2.5 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2.5 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "513414dbf5f9",
+   "title": "upGrad wraps up Unacademy acquisition at $200M",
+   "url": "https://yourstory.com/2026/09/upgrad-unacademy-acquisition-usd-200-m-edtech",
+   "source": "YourStory",
+   "published": "2026-09-01T07:44:46+00:00",
+   "score": 71,
+   "category": "acquisition",
+   "company": "",
+   "amount": "$200 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$200 M",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "3fb7a68cfb68",
    "title": "BNP Paribas, SocGen pare lenskart holdings in Rs 2,700 Cr bulk deals",
@@ -69,6 +106,23 @@
    "score": 23,
    "category": "other",
    "company": "Niyo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f6aeef1b02f5",
+   "title": "Yuma Energy",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XaVFOalRTa2hVdGtQN2x6Tk4tVkVzcWRPNFJIazFjM0x2bjdReUJycndBejFnd2NCWWdMYXNob2g5RmlObmZOeDNZdF9zQQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T07:17:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Yuma Energy",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -240,6 +294,23 @@
    "alerted": true
   },
   {
+   "id": "f5d93a5edb00",
+   "title": "Actis scores second exit move of the year from India portfolio",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTZ2VV81a3F4WlpielNNMWhBeGZYMTk4Z0hEaGFIdE9rUWIxbVJoRFdqeFFWUE9kbWN5dUU5aUNSVExOdjNOdTB4VS05d2hmTFBMMGJ2a3FRLXcyZEdDUHZfS2VpY0VsWG13TnlQb1pGVkk0RFZkWlJhQ3ZQbTNOcGlHZUIwNTRTSlA2Ty1DSQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T06:53:41+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Actis",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "3b91577ef443",
    "title": "India\u2019s Deep Tech Race: The Battle to Build the Technologies That Will Define the Next 50 Years",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDhtSnNDZU5LTDVYaGw3ajhXZ1d3X0hZNC1SMEdFNmVzdXp2YzlpV2dRSDBMY2xoQTNUQjBsWjJBdHQxbVUzaGJLeVRKaTVOM0Z4aTV3RkJLU20zVFZtdXpiT3o4VDZTczFYR2JmbWRJc1RwYkw0RFFEekRxNlQ1ckFMWVZQS2oxbVZhRTZHeXN0Ri1Jdi1oM21obHU0ZTJHbGE0OEhkS01VUWZ1cC1pY1hIaURrUjNKSXhn?oc=5",
@@ -391,6 +462,23 @@
    "alerted": true
   },
   {
+   "id": "6db08ba1ce15",
+   "title": "Katrina Kaif\u2019s Kay Beauty moves beyond makeup, forays into skincare",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOanpTZm5MRUF0RUxJY19lbHoxWDBmTUxYUzduczVVYkFreWZfaVY3Y080Ul8yNjRtbVcwNFI4Sl9UbEkteEpCYXhYaFYxb1JtNzVDczJYUkp4YjVzT1E2bUZDMWFQaGNzSDlGX0IxazZDRnlDcDd4YloxTGJFbFlkS0c4bGdPWVpUZ29fc0tJUi1BUk5KUWZqS2xHSTc?oc=5",
+   "source": "India Retailing",
+   "published": "2026-09-01T06:01:52+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Katrina Kaif\u2019s Kay Beauty",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "237dc7861f56",
    "title": "OpenAI says Apple has only itself to blame in trade-secret fight",
    "url": "https://economictimes.indiatimes.com/tech/technology/openai-says-apple-has-only-itself-to-blame-in-trade-secret-fight/articleshow/133669992.cms",
@@ -404,6 +492,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4e10ba99aa19",
+   "title": "Uttar Pradesh Startup Policy 2026: \u20b91,000 Crore Fund, Deep-Tech Support and New Innovation Hubs",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdkpOMTNvZG9TbmhfYlFoN1l6TlIwTkIyOHI1bkxROTNqMWNQVVhyUU1TUmptVDFKR0RmMVpXMDZWcGVoekQybElOcGVJNVV0YXNnQzZGZnZ5WFQwU3FtMXdFaWxoWUN1M0JWdm9yX0t2UTFjX2s0YWdNYWJWSVBrQjFoaElpVlhfYUVuSEFnMEVVamFtekc2cFE3VFlRN3ZVQ1RlXzVqSklrZk1yWnlhMEhxNkxRVVlZNUxMUmRzWGRBTHlKZ1FkSDIya0ZMV2lYNTZxc3BRRlY?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-09-01T05:55:02+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Uttar Pradesh Startup Policy",
+   "amount": "\u20b91,000 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,000 Crore"
    ],
    "alerted": false
   },
@@ -4129,41 +4235,6 @@
    "alerted": true
   },
   {
-   "id": "924406a80bb7",
-   "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-issued-warrants-worth-5-5-billion-in-sb-energy-wsj-reports/articleshow/133641894.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T04:40:23+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "$5.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$5.5 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "82d77bda7c2f",
-   "title": "Norfund-backed green energy company lines up fresh capital as IPO delay lingers",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFpVWmhqb3REZmtBR1lqU0ttcFpyRzdEZkJjZGJJZGxJLUo1RDI4TnBtbWM4dDdfSDJGd19JTjViZkVIdnNFUUZPUFVaU2haZDY4MV9EWndEWUFrb0ctUG5ha29ieG9aMlBUYnhHa0FqQ3l2a2FEZFJBUjBGM3lOc1htaHB6NmFuS1NheGpxSHY4Ujd3T3NfQ05nb3FiYTViOG54T19feU9VNkNYLUE?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T04:37:03+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Norfund-backed",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "db08e4d78ae6",
    "title": "Missile after missile, Iran launches strikes on US military targets in Jordan",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDFHSmFrU0tLcmNLNGIzZzdidlh0UXRvcHNmdVBzZDhyNWFtOXdyRm95MGU2UHBzOFFQdmpkck1qbWJYa0xSdVpTbUZFQWtqbUFpbUlZdU53d2ZnLWxRcjlhMU56dFVwOFk4aXJnRzNCLV94NS1zVXhaQ0pLUXRreUpJVVd3Q0ZQNVVHMHU5T1lQR19YSENkcF9yNkt1VzBZaU9UWDN2R29Fc3RoNHJjS05ac0dHaG5aOEQ3M3NKNjBzNkVJdU9saTlfSDhEUklOM1c1NEVwLVd5bU9vQmJJ0gHkAUFVX3lxTFA5OUVuY0NBMmNGUU1JZjBHRXpEcjZOc1JZS0E0Q1czNm1pc3FQWDhxX3B6eVVyZXBYU1hrUHp5cS0xZl96RE5kc1FyMGtlTUVaazRnOGFkSFd2dVZLSG04U0VoekNVZkhEdXEzZ1c4QW5uQzZoQmhXeDFkSmF0ZlA2cDZjZ2RiZ1lIdUpSMVA2Q3ZUZ2Y4dVVSSVdVanA5aHBKeG5nNG1UQkstV3VQWFdJSnA4NjhIeWFLZEpWQ3RWbzhfTUJiaVZteXRBZ1ZBMFExd0w4THNVYXM5UF9yWDZ2MnZCcg?oc=5",
@@ -4179,41 +4250,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7f90482fc14d",
-   "title": "Spark Capital Group expands growth capital push with private equity and credit funds",
-   "url": "https://www.livemint.com/companies/spark-capital-midas-fund-ii-private-equity-private-credit-late-stage-investments-alternative-investment-funds-aifs-11788142474101.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T04:22:30+00:00",
-   "score": 43,
-   "category": "expansion",
-   "company": "Spark Capital Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "37039c3c5ca5",
-   "title": "Spark Asset\u2019s Agrawal on private credit opportunity, investing strategy and more",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakZ1bTZINVFNVTZVdklqVHF0dHRhT2YxVERucEFKRGpiTzZLcy1vR0NDV2JIcEtyb01jaF9wYmhHb0pHWUNCUmF3SVZzSFFaOGp6MGFCcUpvUDBJMmluOW96ZUZHWWxNNDNuemtIWTRMaFRON3dldmRpVnY1bXdRRk81RHI5NXQydjREX3pwNjBCaUVOQXRrZ18tSWY4aE9hQXZ0cFozeWpWV3Rvcmc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T04:19:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Spark Asset\u2019s Agrawal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0802379c9b90",
@@ -4233,24 +4269,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "4041aecf87e2",
-   "title": "GVFL Invests Rs 30 Mn In Edgeverse For Edge AI Mobility Tech",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekV1bG92ejRELV9wT2d6WWVsVGVLd2YtY2lpRFJhMDFKX1p5TTdpNElScGJnclRRSUpuQWhLQ2o3R0REdHI2MGRhOHhYeHVaS0ZTdVZCY0pEUDltNjIzWngxTVkweWluT2lXUFZVWGo3VklWWXdkV1lla2ZvS3Y5LTlVVUwyMGd2YXl2aWJGTEFyalhsYUNRdklRYUw5OXdzcnFj?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-08-31T03:54:59+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "GVFL Invests Rs",
-   "amount": "Rs30 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs30 Mn"
-   ],
-   "alerted": false
   },
   {
    "id": "987bbde1159c",
@@ -7058,24 +7076,6 @@
     "funding in headline",
     "Rs36 Cr",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6202abb4c69c",
-   "title": "MATTER Nets $25 Mn To Scale Manufacturing, Launch Four New Electric Motorcycles",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ05SU0lJdXJ4UHRaMkZNaEx1bDk4eWhzdEJLc0dLN2FLa0hDeVl3MmtLUnVJV0FVQ3ljWjNwcTBRNW1Uekg1M05tZDBFRmd4U1Vtd3NpR1d6NnVEZk8tVnZidHpKQy1IcElrTXlhWWstWmIxeWVKN1llRXl2dUctamFZdERiaUFWLWNaaS1BSzNTdE53d0RZYTB5WDdBUDh6VUdB?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-25T07:48:12+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "MATTER Nets",
-   "amount": "$25 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$25 Mn"
    ],
    "alerted": true
   }

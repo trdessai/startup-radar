@@ -1,12 +1,86 @@
 {
- "generated_at": "2026-09-01T00:29:40.856919+00:00",
+ "generated_at": "2026-09-01T00:45:47.493205+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 0,
+  "fetched": 9,
+  "fresh": 4,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "1370ca0010f9",
+   "title": "Natco Pharma looks beyond generics for its next growth shot",
+   "url": "https://www.livemint.com/companies/natco-pharma-semaglutide-glp1-generics-ceo-rajeev-nannapaneni-11788163218135.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T00:30:37+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Natco Pharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8bc4cb41a851",
+   "title": "Pernod Ricard India cuts at least 200 jobs in two years in major operational restructuring",
+   "url": "https://www.livemint.com/companies/news/pernod-ricard-india-cuts-at-least-200-jobs-in-two-years-in-major-operational-restructuring-11788012460260.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T00:30:17+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Pernod Ricard India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8c920f6ecd8a",
+   "title": "Exclusive: MS Dhoni Joins Edtech Startup SpeakX\u2019s Cap Table",
+   "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+   "source": "Inc42",
+   "published": "2026-09-01T00:30:04+00:00",
+   "score": 34,
+   "category": "other",
+   "company": "MS Dhoni Joins Edtech Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Arpit Mittal",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4afbdd95e5de",
+   "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmhIZ1JqVFlIdjhIQ2x4T01JZklZU25Hb056YV9WNnJQZnhfYXozQzhfa0xCMGhiM2tXTkEyYUVYTTdnREcxZG9KLVNfelJEWGxXMEJsMlJQZDloellNY1B2azJnbWgxZDZBLXpJUFpINmZDaU9PMEI2dERHQW9YQkN5MEZid2V1SndybGh1UXBsX295NWpxVkZpWXRRZUNybnlERnhvVzM2RUEx?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-01T00:30:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Lachy Groom",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "9e3a722fab2c",
    "title": "BNP Paribas, Societe Generale & Millennium Sell Lenskart Shares Via \u20b92,670 Cr Block Deals",
@@ -4125,41 +4199,6 @@
    "alerted": false
   },
   {
-   "id": "eccc3fe01090",
-   "title": "DPIIT Issues Guidelines for \u20b910,000 Crore Startup India Fund of Funds 2.0",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXRHdzdzdlRIVTdxVlFKQ2ZCRUhJQ0c0YWZJMlZiTFRXb0ZrVV8tUDhhRkZXbEV4UkRpZ1hTSlR1UGJBVE1TdTBoOHY5cmMwOHVSNlpzOExZc29JdjRnVFR3OEU0TGREN0JlZ21RZS1OSWhZZmUxY25TX081MW9aNE1VdjlIWVNBTndJU09pOGZ1cTFsMmJJdDh2eGNTQkdCVVVqSUppci1IZw?oc=5",
-   "source": "News On AIR",
-   "published": "2026-08-30T01:03:49+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "DPIIT Issues Guidelines",
-   "amount": "\u20b910,000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b910,000 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "522364a58917",
-   "title": "Influencer-Led D2C Brands Secure VC Backing, But Risks Persist",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlA2Mlc1NzJLWjZKSFVoNWJ0cGpweVVya3UtSWU0bnBkekpQUWZkUVJ6eElpS2NlTWNOa0RrcTBIREF5SGNBWlItazFQQS1kTXFCMFhObnpNQmVoMElCMjA2VTNvWHA3RzRlZF83NTZUWDByQzY0TUNGQUlkSzBGRHVNNkdhbW8tbENqNktxMS1jSlloenpZdkpIaHQzNVFQRWx5aFZuMnZRaFdtZTlrbTgyTF9JQWI2LUlwNURPZkRnWXRUeXJ0YVRHaThfbGZFNDdpWjFwR0NETGxP?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-30T00:52:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Influencer-Led D2C Brands Secure VC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2b3b5adbbd71",
    "title": "Social media influencers don entrepreneurial hat; launch VC-backed consumer brands",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFZZdGdQZ0ZWVXJWVkpvU2lyNFQ3TjJTSnBpRTczR25uM1M0aEpjQVJFT2JyeHpiVWRkc0FuVXhGcmFHXzA5cFRRZlZFNmo0RmN4c1doOWNZbEE4RUdTLVAyaG5wSTU0RFg2ek1IYmJuaGp3WHRFVGdQM05WbS1UUmNCUF93U1NLZ3JoMlNQUVpxaGw2OE5nbm9ZbUc1VGd2UldfMXZQLTE4NWRQMk1CSVEzbUczYjlmbWdPRlpxSTB0THhxWnpoT2pZTXp5NDhLWnJqYVRlbWpMaHVyTFFLb0pB0gHnAUFVX3lxTE9lcDM4YXBxQk9KSXdrVDVURDEyU01mcUpiOU1hQ0o3dXpiZHJtblFtdXRFYjVCcXF2MXN0NUxGWE5Ja2JLMWtqdXR1M0ptbUNsWkYycFFxMWRJN0RRNlZvZi1YWThRbTNyVng0dnJLc3FFZDVPd2Jkd1dJQUhYSzYzM2RBUVBqVzBJTEFscmdITEE3ZUtBLWlzRWZsRG9FNmtzZlBwN3didXp0WjhPcS1OZTFSTkVsZzR4WDNUU2NUZDV1UFNXQTFkSC1vdUhYX0FqSS1rdjhibXpGLVNISmZpc2g0eHFtTQ?oc=5",
@@ -4175,40 +4214,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d546668e1c84",
-   "title": "Gnani.artificial Intelligence - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcmRRLXJiQTNnVm11NXQwelBVcGJGY3ZWLWFRZDNFeG5xaVp4Z0huQklwWHBVUU1SU0lIdGNlR2Y1dlNsaGx6MzJKMVhYNzViX1pDdUpGZmNSUjVpOVAxNlZsbHotNzlVZDM3aw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-29T23:25:32+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Gnani.artificial Intelligence",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "368ee5cf544e",
-   "title": "Retail and e-commerce firms turn to brand acquisitions after going public",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR01PMWNfVTJHQnJzdkE4cUV2LWhxNXRKZVpSaGdLNTVkcGdIc1dWeThCcTdHSmhJTkdxLThXNUVKRjdwbVA0dS1NVl9lbTJMOGl5eUExeUZQZkd5NGoxUzNuRklab2YxWkd5djhlYVgxd0xKTXhZb0tid3ZDa2NKWmFDM0NCakMtVWF0TmFpNkVxTmpZeklEZEN6akI4MWdzaFRBeWhHcHNpS2dMSlNqeUVDczh4cEwwdURKa2p4UGs3QmFianBMc1ZRc2c0R3BvM192UtIB1AFBVV95cUxOR01PMWNfVTJHQnJzdkE4cUV2LWhxNXRKZVpSaGdLNTVkcGdIc1dWeThCcTdHSmhJTkdxLThXNUVKRjdwbVA0dS1NVl9lbTJMOGl5eUExeUZQZkd5NGoxUzNuRklab2YxWkd5djhlYVgxd0xKTXhZb0tid3ZDa2NKWmFDM0NCakMtVWF0TmFpNkVxTmpZeklEZEN6akI4MWdzaFRBeWhHcHNpS2dMSlNqeUVDczh4cEwwdURKa2p4UGs3QmFianBMc1ZRc2c0R3BvM192Ug?oc=5",
-   "source": "The Hans India",
-   "published": "2026-08-29T21:57:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Retail",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0d8d0bf44b7f",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-01T10:47:13.411417+00:00",
+ "generated_at": "2026-09-01T10:55:21.368593+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 77,
-  "fresh": 5,
-  "alerted": 2
+  "fetched": 75,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "7c357c252c59",
+   "title": "Eureka Forbes: CCPA flags 5,008 complaints about service lapses, deceptive claims; fines company \u20b95 lakh",
+   "url": "https://www.livemint.com/companies/news/eureka-forbes-ccpa-penalty-5008-consumer-complaints-11788253824900.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T10:48:41+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Eureka Forbes: CCPA",
+   "amount": "\u20b95 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b95 lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "fe79fbf1a1c8",
    "title": "{Funding Alert} Footwear Brand Clog London Secures Seed Investment from VG Angels",
@@ -4173,23 +4191,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "fb80f4e29a5c",
-   "title": "India semiconductor subsidy: Who can apply under Semicon 2.0? Investment, revenue and eligibility rules",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ0l2cHNLTFo1R2Y4QVduN1lZN09URzAtMm5YYlZ2eGtvel9IUUxqRVc0ZUJ5Mkx6bmxkSkNyRGd2VGlCeFFlelo1UDB6Y2dfdEFRc0V5aUJZRk1jcnQ1NjhWeVZTYjNLMDRQOWRCRlN2UUx2b2RIWmotcW5ubU9IZjlIUm16YkJCVDE4X3ZZWE5fbHEwRF9zYUVTeDU5c3JBRDcydjJkcHQxZWFFU1FUY054aG9wbW9BY1p3MFRVQXBOR0Y0WEJhOFp3Y3VzWjVVOWdVRGdMLWVrNkpKNUpWd3NlNmRSSFRPdXpv0gHwAUFVX3lxTE1WZFJjbGtMSTYwaVh3YlNYMVV6MDViWHF2RE1IRFRxTldONnJyOGlxcVJRdXpkREt6d0JvUG9GeWhoR3JsdHRRc0FVQWNtQVozOEpOQlN1N1JOZDI5YmNjU1pRVXplb1lqYzZvX1QxSVlCM2Q0V2toVHZ1V0R1SmRKejVFWkpiUlg3ZVBPN2VOYnN2SHNacVRoVDlRRnVhZTRWVFF3eHlpOENUU0MtM3prc1ZJc3hhazMyTnRGcjVFM2c2OXNPNFRWU0xiRmNFVFE0Mk90UGRoVE9VSHJFcDFRVmcxODVmUGZ6Tzhsb2FNTw?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-08-31T07:40:13+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "69e01cfa72e8",

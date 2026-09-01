@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-01T04:29:50.793553+00:00",
+ "generated_at": "2026-09-01T04:40:28.612157+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
-  "fresh": 0,
+  "fetched": 30,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "e95f2ea4d486",
+   "title": "UPI hits new record with 24.51 Bn transactions in August",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0RJdjBuVGRjYWdMYlZNdzJuYnFfYnhFVk4tZloxaVVBeVpyV05IQmFxZkFHZXlxVm00ekFVaWdtbEtmT09vQ0hKOXo4SG1nTTBPSDV5c1hXWHRwejlIRHZNbU5xZ1NkNHl2cVdaV0VkZEZud1luR093M1pxVGotLWpBX1A1b1VoSzZuZDlyUTdfc0pp0gGUAUFVX3lxTFBrREl2MG5UZGNhZ0xiVk13Mm5icV9ieEVWTi1mWjFpVUF5WnJXTkhCYXFmQUdleXFWbTR6QVVpZ21sS2ZPT29DSEo5ejhIbWdNME9INXlzWFdYdHB6OUhEdk1tTnFnU2Q0eXZxV1pXRWRkRm53WW5HT3czWnFUai0takFfUDVvVWhLNm5kOXJRN19zSmk?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T04:33:36+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "UPI",
+   "amount": "24.51 Bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "24.51 Bn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "be452583d424",
+   "title": "US to press G20 on light-touch AI regulation",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T04:29:45+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c11e8e629808",
    "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",

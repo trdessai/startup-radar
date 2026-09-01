@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-01T14:31:48.979506+00:00",
+ "generated_at": "2026-09-01T14:50:18.524964+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 79,
-  "fresh": 0,
+  "fetched": 71,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -183,6 +183,28 @@
     "$285 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "43cc438ab42c",
+   "title": "Whatfix co-founder and CEO Khadim Batti dies",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GelBpcFhKX29fLS04TFpZS0pDTUlUcXBxM2hXUXZGVjBuSUJYQ3FWYkV1YllnQTJDZ3Rvakp0cmtGcG5ScW8xS01BdnF5TFdLWExlZ1VGUE53LVpyemFmRjBpSEh4RlNjWGlZbHZCdUh4Z2wtdVAw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T13:37:21+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Whatfix",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Khadim Batti",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "1cc8258112e6",
@@ -7088,24 +7110,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "90fd733664d1",
-   "title": "CarbonStrong Raises Rs 12.5 Crore to Scale Low-Carbon Cement Alternative",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUEzNjlsN1ozVzRpT2pTVVlSNExKQjNSZmpMMEVTVnZ3bFJEVVYtNkwybDh1Q0JBcU13WVFZRTlVMlhFc0N1U2VrNTdPMHdyMGVSUHV1NkFiTGJzWlAwYTFYcllQdFdGRWZURng3X0I2Ql9BWTJrSktXSzRlT3FGaWxxZGkxNExXY3laUkpmOGhFdWxRT2o4WERZUFUyeEJwS2IzY3hBcHJuT2RJakNiQnBpMTZuTEl4a3JZ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-08-25T14:34:25+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "CarbonStrong",
-   "amount": "Rs12.5 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs12.5 Crore"
    ],
    "alerted": true
   }

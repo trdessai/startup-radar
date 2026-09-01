@@ -1,12 +1,106 @@
 {
- "generated_at": "2026-09-01T06:39:37.094256+00:00",
+ "generated_at": "2026-09-01T06:51:14.350858+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 44,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "a85655d22223",
+   "title": "Kepler Aerospace bags $8M to deploy swarming satellites",
+   "url": "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites",
+   "source": "YourStory",
+   "published": "2026-09-01T06:47:54+00:00",
+   "score": 95,
+   "category": "funding",
+   "company": "Kepler Aerospace",
+   "amount": "$8 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "02b5ed049190",
+   "title": "Bankers in the running for HDFC Bank CEO job after Sashidhar Jagdishan exits",
+   "url": "https://www.livemint.com/companies/news/who-will-be-the-next-hdfc-bank-ceo-candidates-11788239202716.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T06:41:19+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bankers",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "HDFC Bank",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0e7369a8a511",
+   "title": "Rohde & Schwarz Launches AI/ML Design Center in Bengaluru, Eyes Chip Design",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ05UMUZFb0c1d2JWQUl2M2w1OTdiUXlhQ1o4N3JvNG1DLUpQa0M4Wnk2Z0hMZ3haQk11RHpncEJCNmV5S3JvVmV5N3FUZGU2Y003MUtweWRORnJMVElNRUdTazVZelA2RTl6WEpFdTRGSjNSa0VIVHVfMUhhMnNmdmx2ekFPeVh3TlBNZ1EwVnh4QVhMTW1xVWMzWWJMT2VTXzYwWTNWdFd6a0xKdkIxcERiVFA3SkVtMnpWc3ln?oc=5",
+   "source": "Electronics For You BUSINESS",
+   "published": "2026-09-01T06:38:59+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Rohde",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "717e33533bc7",
+   "title": "Senco Gold Targets Rs 10,000 Crore Turnover in FY27, Plans 25 New Franchise Stores",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck5VeFhDc3liaHM4blctZG14NEJEUTVHMmNfX0laWXdJa21JbHpXTlY1cm9wYUZwVHUxVXdnOFBmaHhqdm03azB4NDhDVU9YTG0tYlp4Sy1DTXQzUVlhSEl1SVR1QUJHWFJJVHNEVXVRdW92U2gxSnBSYktiVm9ZLUxIakppdUVQVDRiZGI5WXduNUFBRE9wM3llakpoUXcyOVpWR25VRWFaNHY1dXJNS2hYaw?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-01T06:34:44+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Senco Gold Targets Rs",
+   "amount": "Rs10,000 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs10,000 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "07169a9bba7c",
+   "title": "How Magron is building \u2018Generation 2\u2019 of electric vehicles",
+   "url": "https://yourstory.com/2026/09/how-magron-is-building-generation-2-of-electric-vehicles",
+   "source": "YourStory",
+   "published": "2026-09-01T06:30:46+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "How Magron",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "bd509327e438",
    "title": "Bengaluru CEO Says Employees Are Working Weekends For An Unusual Reason",
@@ -4136,23 +4230,6 @@
    "alerted": false
   },
   {
-   "id": "03488e142c54",
-   "title": "India\u2019s Diaspora Shifts From Remittances to Long-Term Investments",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnoxQkxsa3dUME5oSUVaWHktT2xINE1sOTFRNVEyb2IxTUY2N2V0cGNSbXFvVXBBYlJUTVlqN09hN1I5cUxwX294ZDNpR2JpSElRUm8wUU9RVm1uclJyTFIxS1BYaFBHWmxNd0o2NjlKYnZ6R1hUWDZ6dURKTmtrX29yNW1pUWpqM1Z4eUgzOXVheXVQNU9GTS1DYS1hN0s3VjhuVkhpRzlqYmQ2Ym9ZVWN1cDZ1ejBaVnA1Q0dvX2hiZThRZFFoYU1GX1lWUWhPWTlV?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-31T01:09:37+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s Diaspora Shifts From Remittances",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "520136e4ff65",
    "title": "Mandrake Bio Raises \u20b916 Crore To Advance AI-Driven Gene Editing",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm54M1lvblNKTjRORXQxc3RlOGh6aUlTQWUzN0NXbmF0SlFySkpwRFF5bDQtcTJ0WWVjNjgzVHhLWV9QbnY2WElYOHJfR19XX1loMmpHWWVyYkR5QVdxTTJWb01pWXFOUmx6UXJCZ0JVdmIyNnhTN1NFSDJVQTRBdjFRYWxKajM0U3NIZ0F3VDFSMW9GWGxzQnVLUGwtWVZ5eXZOVkxMamYxR1ZCYmwyUGE3emQ1a0ZDNzhoQU0yd19FLWRMTXctcmVWZUkzR0xnaEhmaUoyMlp5eUpxQWNyR2NnT3lJODBQeUtXOGF3?oc=5",
@@ -7000,60 +7077,6 @@
    "reasons": [
     "funding in headline",
     "$37 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5981e59a8a54",
-   "title": "Airbound, Nexedge Capital, Akron AI bag early-stage funding",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBRNUhkdUtCSS1lMWc5XzFKSTREN0VCWE1sQVZSYlBuS0J2Nk9KNVE5RFJoWld5QW5jeUNEVFFrcmZZazQtOHVLdlFZakdGLVNMMU5hMEZfQmw5emZZbmZXWkJ0c19KbmJSN1VXRHlod0F4a0FZQndxQkJCX2ZEZG15ZHo2aXVM?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-25T06:48:02+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Airbound Nexedge Capital Akron AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "43dfe9d7fc4e",
-   "title": "EV startup MATTER raises $25M to scale electric motorcycle business",
-   "url": "https://yourstory.com/2026/08/ev-startup-matter-raises-25-million-scale-electric-motorcycle-business",
-   "source": "YourStory",
-   "published": "2026-08-25T06:45:34+00:00",
-   "score": 77,
-   "category": "launch",
-   "company": "EV",
-   "amount": "$25 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "$25 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d510cae3856c",
-   "title": "{Funding Alert} D2C Skincare Brand Asaya Secures Rs 88 Cr Funding at Rs 400 Cr Valuation",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFg1emVBcjBCT2t5VTItXy1sUHNyR04xcEYtNnEzRWl0cEV5YWM0aXR6NEFfcTJqY25UNXAtcG5mN1JNVHZheVF4WjBxMU0tQ1piS1dJSlppVDFHRVpSbjJGejIwU0EtdnRPQWlLWUdOdTdmSjNvQ0trbjZOdnVvYmM5Q1YyTGF1Wm5BSGFZNnRZZHVfbFpRNGpUdlFadmZ3LUhYM3Z1WTJmV1M0R2EzdjFxVi0tUVhDSHVn?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-25T06:45:06+00:00",
-   "score": 66,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs400 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs400 Cr",
-    "no company named"
    ],
    "alerted": true
   }

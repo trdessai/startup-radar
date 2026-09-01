@@ -1,12 +1,50 @@
 {
- "generated_at": "2026-09-01T05:01:44.280439+00:00",
+ "generated_at": "2026-09-01T05:18:11.147201+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 38,
+  "fresh": 7,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "e1442c6eace3",
+   "title": "Spacetech startup Kepler Aerospace raises $8 Mn in seed round led by Blue Ashva Capital",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGx3Y3llVjhLOHpkZDFOcXdfN3JMc2otaUdRd1YxT0dXeGc5NTUzbFRaWU56elAtdTNIb21QRUdaa2F5bnc3VmVMOWN3VkN5ZndIektpckU1bkNnWWljZWRwQ0lvQkxNN0MwNnEtWmhwelljWjNfM1BWRV90bmFwaC1xTElUanQwTW5zT2lVY3NvdEs1S0lScU5ENDlLTWRoQW5pYVpBWHR2VzFZX0ZwTEk2Y3N6Q1haM2VGZFZB0gG-AUFVX3lxTE5EbHdjeWVWOEs4emRkMU5xd183ckxzai1pR1F3VjFPR1d4Zzk1NTNsVFpZTnp6UC11M0hvbVBFR1prYXludzdWZUw5Y3dWQ3lmd0h6S2lyRTVuQ2dZaWNlZHBDSW9CTE03QzA2cS1aaHB6WWNaM18zUFZFX3RuYXBoLXFMSVRqdDBNbnNPaVVjc290SzVLSVJxTkQ0OUtNZGhBbmlhWkFYdHZXMVlfRnBMSTZjc3pDWFozZUZkVkE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T05:01:02+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Kepler Aerospace",
+   "amount": "$8 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c9fe4af4890a",
+   "title": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network",
+   "url": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/",
+   "source": "Inc42",
+   "published": "2026-09-01T05:00:57+00:00",
+   "score": 99,
+   "category": "funding",
+   "company": "Yuma Energy",
+   "amount": "\u20b9333 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9333 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "e8e2a7721d90",
    "title": "Strategic Acquisitions Power the Next Chapter of India\u2019s Life Sciences Startups",
@@ -23,6 +61,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "113f885b1858",
+   "title": "Gupshup launches voice AI platform for businesses",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlFxUzZfMEtzcEpKN0FHSHpXZThZelFxVjFLeXludmlXYmtCVnZMMXlDajNlLVlVS3JYTzg4SjA5RVJnbTYtY21DZlpQbmJ5YkpkcEFLSml6VFRUeHhBOHNYbkliWkcxVUk1eGIwQ1JNRWxiOTgxX3JlVHBFU0hwUHliczA3YVVKWDgwRDZhOUw4b0VfVFhvZ0VyMVNFT092SExSdFNCeHlLSkp5TzRNbjFuMjVnY2hK?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-01T04:57:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Gupshup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "8ab150570f24",
@@ -63,6 +118,23 @@
    "alerted": true
   },
   {
+   "id": "c76b7c4a4604",
+   "title": "Canadian pension fund La Caisse set to lift India infra exposure",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblY2bnEzWXY2VTFOS21sVndLbndYdU1jMkR2WnhkTE1zd1E5X1RfRkJXM19nUjJXQ3F6SzNwbG9Vcno2SWR4bGpQaWNLdkNPSmtQOVE0dk9lOWJkbnBEc0NjWjBiWUtjaTY0VFdkUkd2bXk3dVhQTHVPNWI2dEVGOGt2eWJPWmxxZGd0SzZmNkZrQUZoOXJNU0J3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T04:35:50+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Canadian",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "e95f2ea4d486",
    "title": "UPI hits new record with 24.51 Bn transactions in August",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0RJdjBuVGRjYWdMYlZNdzJuYnFfYnhFVk4tZloxaVVBeVpyV05IQmFxZkFHZXlxVm00ekFVaWdtbEtmT09vQ0hKOXo4SG1nTTBPSDV5c1hXWHRwejlIRHZNbU5xZ1NkNHl2cVdaV0VkZEZud1luR093M1pxVGotLWpBX1A1b1VoSzZuZDlyUTdfc0pp0gGUAUFVX3lxTFBrREl2MG5UZGNhZ0xiVk13Mm5icV9ieEVWTi1mWjFpVUF5WnJXTkhCYXFmQUdleXFWbTR6QVVpZ21sS2ZPT29DSEo5ejhIbWdNME9INXlzWFdYdHB6OUhEdk1tTnFnU2Q0eXZxV1pXRWRkRm53WW5HT3czWnFUai0takFfUDVvVWhLNm5kOXJRN19zSmk?oc=5",
@@ -89,6 +161,23 @@
    "score": 25,
    "category": "other",
    "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "53322e70e831",
+   "title": "Former Vivriti exec\u2019s Anahat set to roll out maiden private credit fund",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGlCNWRhUl96NTlVYXdCOTZlbWVTbk1EWURZblJSV3dNdnM1N1Vwa2Y0UmxVck5HQ203bTRuTHgtdlZpcUpFaUoyVWRpVmNNZFlkZkNHZ1piZzNZYzRBeFlwQmZvZHpZRXpsOTRMdnJmMENBeF9Xbm5xQ05JVF9SOURSY19pbDZpN0pZVldXVEFtYUJpSXl0RUE5cw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T04:17:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Former Vivriti",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -361,6 +450,23 @@
     "Seed"
    ],
    "alerted": true
+  },
+  {
+   "id": "f06c8e12911e",
+   "title": "India\u2019s venture capital recovery has a technology problem | Policy Circle",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nSXpiSGk5YjhwLVZjS0FnaTQ1alNKZk5KV1RQVGRjTDdzTEVWV3pod042OHVROXhhenlJQU8yYXpxa2FFZHZuT3ZXMUlmUExaT2syLUt6bk5iYXd4Z0tCcV9ERS12MXlqejRsVHVNSkVwcmQxYjdWTWJDQ2Q1QdIBfkFVX3lxTE1nSXpiSGk5YjhwLVZjS0FnaTQ1alNKZk5KV1RQVGRjTDdzTEVWV3pod042OHVROXhhenlJQU8yYXpxa2FFZHZuT3ZXMUlmUExaT2syLUt6bk5iYXd4Z0tCcV9ERS12MXlqejRsVHVNSkVwcmQxYjdWTWJDQ2Q1QQ?oc=5",
+   "source": "Policy Circle",
+   "published": "2026-09-01T01:35:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "a9ba14032089",
@@ -4016,59 +4122,6 @@
    "alerted": false
   },
   {
-   "id": "17eecc3850c7",
-   "title": "'Borrowers repaid \u20b93,803 crore of \u20b94,808 crore': Subhash Chandra shares personal guarantee details in NCLT case",
-   "url": "https://www.livemint.com/companies/people/borrowers-repaid-rs-3-803-crore-of-rs-4-808-crore-subhash-chandra-shares-personal-guarantee-details-in-nclt-case-11788104672184.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-30T15:59:34+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Borrowers",
-   "amount": "\u20b922,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b922,000 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8a2f8f1f19b7",
-   "title": "LIVE | The Economic Times Startup Awards 2025: Celebrating India\u2019s Startup Visionaries Incendio Grugliasco (J0o52dGImV)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JUXRwd1NMRm50MGNoNl9rcHNmZ09tLTVBSVd2TjA0bXItWVJ2VV92RmFWcW5oV2d5elRHZ2x6WE5ZX21BVXVqY3VKS21LYWRfeHJfLTVSTjBOR28?oc=5",
-   "source": "Mshale",
-   "published": "2026-08-30T14:14:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "LIVE",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e22354ced9e3",
-   "title": "Bira 91 beer maker in more trouble? HNGIL slaps B9 Beverages with \u20b911.77 crore default notice, plans to move NCLT",
-   "url": "https://www.livemint.com/companies/news/bira-91-beer-maker-more-ibc-financial-trouble-hngil-slaps-b9-beverages-rs-11-77-crore-default-notice-plans-to-move-nclt-11788089651460.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-30T13:17:18+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Bira",
-   "amount": "\u20b912 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b912 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c32fdd192453",
    "title": "Falcon Flight: Shubman Gill-Led Fazilka Unveils Official Jersey For Sher-E-Punjab T20 League Powered By Punjab Kings",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXRwMmtnbmtQc2h2N0Z2ZmFMSzVfUVFxVS1rMHp5SHBvUXNvR25xX1dOU1lXcUNCVzdhVXZfckxJTXdFdllabWFValhQSm9KeXQ4Mmt1YWdvQ1hTeDd1RS0yRVE2aFVRQmRZcUJGNVh3c1hRNG1rd05qS3A4eUg4MjlIQ290Wnl4TDVNWDhEUmY5V1o5Y3VMSXlmU0lRRWZjeVF2aUlWbmw4T2hNcGlsUEVIZFRWZ2ZCY0x5S3ItY01Uaks0ak8wblJseFpJOS10Y0dpeXItUFF4QdIB2gFBVV95cUxNcXRwMmtnbmtQc2h2N0Z2ZmFMSzVfUVFxVS1rMHp5SHBvUXNvR25xX1dOU1lXcUNCVzdhVXZfckxJTXdFdllabWFValhQSm9KeXQ4Mmt1YWdvQ1hTeDd1RS0yRVE2aFVRQmRZcUJGNVh3c1hRNG1rd05qS3A4eUg4MjlIQ290Wnl4TDVNWDhEUmY5V1o5Y3VMSXlmU0lRRWZjeVF2aUlWbmw4T2hNcGlsUEVIZFRWZ2ZCY0x5S3ItY01Uaks0ak8wblJseFpJOS10Y0dpeXItUFF4QQ?oc=5",
@@ -4120,28 +4173,6 @@
    "alerted": true
   },
   {
-   "id": "3945b7a2bf85",
-   "title": "SK hynix open to US investment, sees memory shortage through 2030",
-   "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms",
-   "source": "ET Tech",
-   "published": "2026-08-30T11:35:19+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "SK",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Kwak Noh",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "16f1e6697250",
    "title": "Smartworks to invest Rs 600 Cr in FY27 to expand biz, meet rising demand for managed office spaces",
    "url": "https://yourstory.com/2026/08/smartworks-to-invest-rs-600-cr-in-fy27-to-expand-biz-meet-rising-demand-for-managed-office-spaces",
@@ -4158,41 +4189,6 @@
     "Rs600 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "3dd65469c2fc",
-   "title": "HDFC Bank weighs an insider and an outsider for new CEO",
-   "url": "https://www.livemint.com/companies/news/hdfc-bank-new-ceo-sashidhar-jagdishan-kaizad-bharucha-11788088969518.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-30T11:32:43+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "HDFC Bank",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "866bf7f50f5f",
-   "title": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",
-   "url": "https://yourstory.com/2026/08/hngil-issues-default-notice-to-bira-91-plans-to-move-nclt",
-   "source": "YourStory",
-   "published": "2026-08-30T11:16:59+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Hindusthan National Glass",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ac2fdd993b31",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-01T03:31:20.095394+00:00",
+ "generated_at": "2026-09-01T03:45:43.831898+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 34,
-  "fresh": 0,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "c11e8e629808",
+   "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-proposes-record-597-billion-2027-budget-to-supercharge-ai-investment/articleshow/133667004.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T03:22:56+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "South Korea",
+   "amount": "$597 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$597 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "5bc0c836b224",
    "title": "Australia's WiseTech Global appoints Jeff Howard as finance boss",

@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-01T01:35:44.219221+00:00",
+ "generated_at": "2026-09-01T01:44:55.218692+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "7b97f044f36e",
+   "title": "Kepler raises $8M seed to fly autonomous satellite swarms for India's military",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzRhT191ejJ5VlB2cHBjcURtVU5pYk1PTGxVUW5Zdk1XamNUOV90VHdzT0YxWU5NbXV5d1ZkbGJUZVNEMDgza3VIUTlTMnJBV1UxbWhZUDJHeHdkT2JUdGV3YXhobnF4MDdqMHAyLUp3dDIwVU5BRjBwaWEwaEdvMUJOZllHS21rUXFfbHM2SDVUNE5IMG1UUXh6RDBqV0RDRkhzb3ZqVTRYZDV4dGlQdQ?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-01T01:36:23+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Kepler",
+   "amount": "$8 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a9ba14032089",
+   "title": "Zepto\u2019s Retention Play: Fewer Discounts, Premium Carts & A Paid Club",
+   "url": "https://inc42.com/features/zeptos-retention-play-fewer-discounts-premium-carts-a-paid-club/",
+   "source": "Inc42",
+   "published": "2026-09-01T01:30:27+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Zepto\u2019s Retention Play: Fewer Discounts",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7e245ff44cf0",
    "title": "Indian Startup Alteon Raises $2.5 Million to Develop Wind Powered Autonomous Aircraft",
@@ -4129,40 +4165,6 @@
     "INR250 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "f909fec6ad36",
-   "title": "Zerodha\u2019s Diversification Clock Is Ticking",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVWp3MlBVcHRYLV9PYmcyY2hWME10SFZnVFprd2Zrb0FNbi14enhmM1R1eldvQkhwSFB1MlpPdDBreGg5RjRSNklzYzZERVh3dTVxNjhSeUJFdVF0Qk9ERHl3MFNKaW42bWJWeDJvWUN2R25UT1FDeA?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-30T05:30:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Zerodha\u2019s Diversification Clock Is Ticking",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "674dd73ba534",
-   "title": "Less than $1 per tonne-km: Bengaluru startup announces autonomous seaplane to cut cargo costs",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaEFqVUVYakdhc1d2UmN6MWR2TWk0dzh5SWZvQWpSQXpyRGFvQmtPSzcyZXd1ZUF2UEE2RFFpajVpekRXNENVRXprMWhMYVlOQW9EVHFDb0lpd0k3QmZid0ZLOUhsUF9qVFMxQzRxS1FTTHVVUEdIZ0s4TjRpN3VhRVlOR2paY21ldVpjVVdWazBoekJDeDVHRXRGUVJuaHBrZTNhZ3B2NHpaMWFLbElJY2g1MVI0OU15c0l0a1VqWDg0bnBWREE1TEE4STVvYnZOZGdrV0Z4TnVfWTVEVERfWW1hQlZMZ9IB6wFBVV95cUxOTV9jYlU0azE5djgwS3hxUFZnSnJnNFZHT0JTWUh3RE1aZnhZZk95UG1oSEQ0UTloWmRuTnJsN1V6MFJySVZ1UVRxWHFZWGRBU0tuRGI4ZGYtRVpyeHVGSkc4anhoRXZzVGJJS0V6b1E2eXhiTzJzSWhXVklhLURiNFlBQXdDTHUtUWc5TDRBTldaaFZYRGFTcWRSck1mN245eWNEMmd4bFdNUWcwZHJPckdfTUNpLXFpSlNiZDNsR2xlcndxSXhacUhtRkpSekROcFplaDQ0SlduYlJjOHQ0R2N6a1lWZHpUanZn?oc=5",
-   "source": "Business Today",
-   "published": "2026-08-30T05:05:49+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Less",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "993287aee3ec",

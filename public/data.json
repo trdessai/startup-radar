@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T10:21:12.485049+00:00",
+ "generated_at": "2026-09-01T10:36:46.728002+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 74,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 70,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "a42fed2af4f4",
+   "title": "US to urge hands-off AI regulation at G-20, official says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-urge-hands-off-ai-regulation-at-g-20-official-says/articleshow/133677167.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T10:10:59+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "df1975561384",
    "title": "Sarvam launches Champions Programme to expand India\u2019s AI builder community",
@@ -334,6 +351,23 @@
    "score": 18,
    "category": "other",
    "company": "Hulic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "874151f238f5",
+   "title": "Anahat Fund Managers",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jYW9ZeFpQMGttNmJzampEWjhGYmtVV2pONHZjZXNveFA5WWRiMVRQRDIyVWk4Ylhxa2E4SnBiLXIxdEZHSlBWemd6Vkt2emZTNW1XYXJCYkRaNTVGM2FvcjAxSElGQQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T08:44:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Anahat Fund Managers",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4194,24 +4228,6 @@
    "alerted": true
   },
   {
-   "id": "039d4a136408",
-   "title": "Government notifies Rs 1.27 lakh crore Semicon 2.0 scheme to boost chip ecosystem",
-   "url": "https://economictimes.indiatimes.com/tech/technology/government-notifies-rs-1-27-lakh-crore-semicon-2-0-scheme-to-boost-chip-ecosystem/articleshow/133645734.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T07:17:32+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "Government",
-   "amount": "Rs1.27 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1.27 lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "206926c6f754",
    "title": "Europe expands AI computing network with \u20ac390 million order from France's Bull",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-expands-ai-computing-network-with-390-million-order-from-frances-bull/articleshow/133645491.cms",
@@ -7063,23 +7079,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "31e45dad3d5d",
-   "title": "Fractal Analytics Launches Dedicated India Business Unit to Scale Enterprise AI",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHRQTllpdW9WZjkybjR0TDFMNzczY3lJZXhvN3R0UmtYNDh4d3h3SEVHZFZTMktOOTlSNm9ob0NQY1d3WkJOVThqSGJmdGh2SFdoTWJveXJfN1BfaUtOa0JqdW9rb05xaTlyMXNoMC1sMXJGd3N1WUxVbGtlcVVSREFxcC1pMnZsRXN5SGhsV3hjRk5OQ2VfZlBWMmNQQzB5dzZUMmVmd001dkw4VG9wTGRhLXJ6cnc?oc=5",
-   "source": "APAC Media",
-   "published": "2026-08-25T10:31:55+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Fractal Analytics",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

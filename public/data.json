@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-01T08:02:02.538430+00:00",
+ "generated_at": "2026-09-01T08:21:20.637050+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 67,
-  "fresh": 2,
-  "alerted": 2
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "3e54befb468e",
+   "title": "Unacademy closes UpGrad deal at $200 Mn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbV80T2h1Yy1mWUI3UDFITmRPdE11UkJfZzdwekNiU1dNN3R6UDFtSlNOLTNadHRzSGFEWHBBWFpDUHc1VFFEcUJpV29RdWZGNUZ6blktcVdSb2gzYjI1RllwODFRNVZaZUNkMnlOZ1dCUGhkQVA1dU1YZkdFZ9IBfkFVX3lxTE1xbV80T2h1Yy1mWUI3UDFITmRPdE11UkJfZzdwekNiU1dNN3R6UDFtSlNOLTNadHRzSGFEWHBBWFpDUHc1VFFEcUJpV29RdWZGNUZ6blktcVdSb2gzYjI1RllwODFRNVZaZUNkMnlOZ1dCUGhkQVA1dU1YZkdFZw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T08:13:46+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Unacademy",
+   "amount": "$200 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$200 Mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3dca76bb42eb",
+   "title": "Kepler Aerospace raises $8 million seed funding co-led by Blue Ashva Capital and Finvolve",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUjdtVHcxU0tCbk5taFlKcFhiMWxjcFJyLVhKMVdUR1piU09PeFV0ZmtHUGRTTnFsTmk5ZGVWSG1jb0paRUV2UHRSTjczb1kwdGhabV9MZ1dHc3E5MkJ4TlU3TmpIc1h0eTV3YVlBT3E4MTFiNDBGODl6eGVVdVl1UEUwdGhQRmpsWklGb29GaWJrSHNtS0RaRnBiTy1oR1BJS3RsMTNfQ001M19hWjNZYXZkQ3g0VU9RUFBfcHkxVi01Uk1uSjJRRzRqTEZnSDhuUzRnbDhqREp0Y09qekJFdzBLdm8zcDN3elR4WU9Ybw?oc=5",
+   "source": "zeebiz.com",
+   "published": "2026-09-01T08:08:19+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Kepler Aerospace",
+   "amount": "$8 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "a8d4a38cb915",
    "title": "From $3.5 Bn To $200 Mn: upGrad Completes Unacademy Acquisition",
@@ -61,6 +98,23 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "708e5ed68522",
+   "title": "On consent and ownership: from a closed-door discussion",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXFCS2Q4Z0xueVZWVHVtaTgtT0dVUDVpU05jbEFDUVZNMUxrbUFaTWt2MWwyV1pkSEd5bU0taEh3Zm5VRW9DU21LcFY3QUdyeXlEUkV1eUV6M01UZXRxRGRDVU5qdUdVS2VIUG9lRXRncWxoWU5kTVpUaGtYRG9GdU9DTUJiMDlW?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T07:36:10+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "On",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "8f329ca3ec26",
@@ -6987,95 +7041,6 @@
    "reasons": [
     "funding",
     "\u20b9191.4 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a368c099e76f",
-   "title": "Airbound raises $37 Mn from Greenoaks, DoorDash, Lachy Groom and others",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkdlRlVRckVSa0NYRHFqWjFjcThvSTdwM292RmlsMlNMclprSVVCVW5CaVV3dTZEaUpVd0ZSVFJZZ0VneWlvd1pxWDBzdE5PZV9lZER6aV85QjktWVFiV25IaVUyOVBUU2p1b2l5Mm9NZi1oTzNtM1FSMklrT25fX0FkUWJLQk55eGtiM1dGSm9IRjBtSDhmelZ6eURvWW9jelpsVmNn0gGmAUFVX3lxTE1GR2VGVVFyRVJrQ1hEcWpaMWNxOG9JN3Azb3ZGaWwyU0xyWmtJVUJVbkJpVXd1NkRpSlV3RlJUUllnRWd5aW93WnFYMHN0Tk9lX2VkRHppXzlCOS1ZUWJXbkhpVTI5UFRTanVvaXkyb01mLWhPM20zUVIySWtPbl9fQWRRYktCTnl4a2IzV0ZKb0hGMG1IOGZ6Vnp5RG9Zb2N6WmxWY2c?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T08:17:29+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Airbound",
-   "amount": "$37 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$37 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7ae7d2c82d92",
-   "title": "InCred Capital launches UHNI wealth platform with former Avendus executives",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcG5Tc0Zhbk5VU3JDMzVfaVpibHJwUHJpVUQ3UGJaLVNwNHMxN0lfUkZXRTRTNGVIM18zQ0F2WnphcDJndFhjc3BpVFVXdlZPRHN6N09kOVl2dlF3WnRqN3BYUjZfNlRjSHhoLURJZzZuR2xwSXFpQVpnZnA1dWJfVmRKb2xsSE1mXzFhQ2R0a3ZxSFdpX01TTVZ4MWZ0TUNKRzktQnFNUnhMN19MNFBPRnNCSnRWYk16MjJv0gG7AUFVX3lxTFBwblNzRmFuTlVTckMzNV9pWmJscnBQcmlVRDdQYlotU3A0czE3SV9SRldFNFM0ZUgzXzNDQXZaemFwMmd0WGNzcGlUVVd2Vk9Ec3o3T2Q5WXZ2UXdadGo3cFhSNl82VGNIeGgtRElnNm5HbHBJcWlBWmdmcDV1Yl9WZEpvbGxITWZfMWFDZHRrdnFIV2lfTVNNVngxZnRNQ0pHOS1CcU1SeEw3X0w0UE9Gc0JKdFZiTXoyMm8?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-25T08:13:57+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "InCred Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4d17a646092a",
-   "title": "Teal Impact AIF launches maiden fund, to tap micro-cap opportunities",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXpuQ2JvTEFDRVNKRzhmQXAzLTRsclhlZHBaNFRCeFQyOTFBNlNRWUx2QWJwNU1QcUpHZ0JUS0xlMFVrcUh0TTVlY1M2ZndJSUNRQnZuWDh6bmtKeDBUWVlYVWtXZXZtVjR4UE5LaEM3aUh2SnpRSnhjLWF3QkZlb1d5NUlpMFRHLUgxVDlyS21ycms2OHc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-25T08:12:55+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Teal Impact AIF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d87bda83149e",
-   "title": "VC-backed electric bike company Matter raises Series C funding",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVIzaUdMTzJ5b2ZNYW8ySV80dFVFRUx5Y0ZxX1V5Q2pzT3JtOU5icDlpaGZRRFBZUV9GQ3lOTVpUZ2F2aXNLUzlOWXFISmVCYjhOUWdUcWFJSzdqNklYU2Z5eDN0NGxiTUlsTDlSQmdIS0JSNEFKcWhYMWMxOGZKQ3FLVjhRbEdiNnotQTVvTQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-25T08:12:54+00:00",
-   "score": 64,
-   "category": "funding",
-   "company": "VC-backed",
-   "amount": "",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f9b25ef98393",
-   "title": "Utsav raises Rs 36 Cr in Series A led by Atomic Capital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE04eHRuLVJVZ2VOTTJUSF84TEh6WlB4ZTlMWEdPTjNkdFU4czNTQ1l4ZTFJWE5xV0EwWWpJSmJBVEhlWEM3WE84UVBkc1hKeUg5djZTNTRVQVFjV3J1Q2ZHMS1vSE1keXV6TUpfbG1lRTdZNjFYcUNFZlFTVzlUR3E0M3VSeWw3eVktdGVwZE1qS2xMcERWWGt30gGaAUFVX3lxTE44TTh4dG4tUlVnZU5NMlRIXzhMSHpaUHhlOUxYR09OM2R0VThzM1NDWXhlMUlYTnFXQTBZaklKYkFUSGVYQzdYTzhRUGRzWEp5SDl2NlM1NFVBUWNXcnVDZkcxLW9ITWR5dXpNSl9sbWVFN1k2MVhxQ0VmUVNXOVRHcTQzdVJ5bDd5WS10ZXBkTWpLbExwRFZYa3c?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T08:09:41+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Utsav",
-   "amount": "Rs36 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs36 Cr",
-    "Series A"
    ],
    "alerted": true
   }

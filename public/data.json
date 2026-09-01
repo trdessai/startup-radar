@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-01T16:22:55.663707+00:00",
+ "generated_at": "2026-09-01T16:46:02.240100+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 43,
-  "fresh": 4,
-  "alerted": 1
+  "fetched": 40,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -7096,23 +7096,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ddbc42eae50c",
-   "title": "Honasa Consumer calls off Fluence Pharma acquisition",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1I2VlE0X3hMMVhtSElqdTBmeVlnVW8zcmhBd1VUZDJaUkptcW5FcWh6VVZIc3BWMWNORTFMSThQMGhpSU1wdng4eDM0eVRmbHgwQ1c1QTNYdEJmM3hQZUdmRFZHUjRYbUozYjRzWGFEUHVKZmdSaTkyMGo5UkNUTXJDTUwtajJGQlh6M3lXRk5EMlc5MHfSAZYBQVVfeXFMTXNSNlZRNF94TDFYbUhJanUwZnlZZ1VvM3JoQXdVVGQyWlJKbXFuRXFoelVWSHNwVjFjTkUxTEk4UDBoaUlNcHZ4OHgzNHlUZmx4MENXNUEzWHRCZjN4UGVHZkRWR1I0WG1KM2I0c1hhRFB1SmZnUmk5MjBqOVJDVE1yQ01MLWoyRkJYejN5V0ZORDJXOTB3?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T16:27:18+00:00",
-   "score": 56,
-   "category": "acquisition",
-   "company": "Honasa Consumer",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

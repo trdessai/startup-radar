@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-01T11:53:02.644834+00:00",
+ "generated_at": "2026-09-01T12:02:18.011820+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 73,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 75,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "bc76a899c9f7",
+   "title": "Happiest Minds rules out job cuts after merger with ITC Infotech",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/happiest-minds-rules-out-job-cuts-after-merger-with-itc-infotech/articleshow/133680260.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T11:58:45+00:00",
+   "score": 63,
+   "category": "acquisition",
+   "company": "Happiest Minds",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e70ee654f09",
+   "title": "Wearable Health Startup Ultrahuman Eyes Higher Valuation in New Funding Round",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXkzQ1Z1TEZsLVp3T3RNSDhIaUROQld3UU5nSjJDUzJCbG13NmhBbXNVRDRnQ0ZMNjcxczRTYll0c0czNDFTeURpSDYteWVZMmNPTGx3d3dDLTRNMDlGVXFiOThOY0pLa2pRYV9fTHViX3plMVZsZ25ZRmNUUjJjSFhhMVI1TFJ5RVZ0WVpXaExmYjRsLWpUZHk3NlZ6bURJNlZzeXFvY3NoaDI4M2pR?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-01T11:52:55+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Wearable Health Startup Ultrahuman Eyes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "1cb6de897c67",
    "title": "Real dairy cream for \u20b910: Reliance enters India\u2019s ice cream market with Bombay Creamery",
@@ -177,6 +211,23 @@
    "score": 23,
    "category": "other",
    "company": "How",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a124c278d0ca",
+   "title": "Blackstone misses the mark as it wraps up $680-mn exit from Indian firm",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnFycWhxODM1TE1MYnFob3FDaXplRmhIWmZ2NkZDbHd1OG1tUlo0Zi03ZzJOMk5EQ2V0UTExX1pLb2pnaDNIbVBzaURqdHRWWU9vNkdyMUw3cDVjUC1tSFFFNHFNY1hhbjhOQWFCNmg3Vmhua25tNzRjSVEyVVVlZ2xyNmtBVzRuUXVoLVRYdXR2MnNablptb0h3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T11:07:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Blackstone",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -3900,23 +3951,6 @@
    "alerted": true
   },
   {
-   "id": "946950581a65",
-   "title": "Pernia\u2019s Pop-Up Parent IPO: Issue Subscribed 8% On Day 1 Till Now",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2NWZEU2cHpWY0o5WWFRRXNJOW8zOFFHbThyQW9LX0ZJSVFiaHUyeUVNZVk1SS01elBlUUhpVW1JNXZMV1AwUmRXVjFud0JLWTFrZExFdll6c1ppZHBmR0NNdjRGNDdQRFpTaGJlR3RJeU5WbE9neGNITC1vMXloVVJYY1F1cTNzZzBUbEpINA?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T09:35:22+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Pernia\u2019s Pop-Up Parent IPO: Issue",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1cbdb4af7ada",
    "title": "PaySprint Launches SprintPGx: India\u2019s Most Intelligent Multi-Gateway Payment Platform",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhuaUE1bFpqRTVjZ0dpRmg0WW1sdUFXV1dlbGdscXAwRF9lSGJsU3JTckhWeHotSmZaZ2NvRUVPZk5wTVZuYU9Pa083YnUtR20yZzNTUWItdUhZc1o3WXFDMkFOajhRa0dFbXlGVm1YNjhUNFJtWHl6ZmxFMWZ4QTlrcEFkSEtjM3RGX2ZTTmNBUzlHYlU2V0hLWVhUX2ZhY0ZSRWY3ZHJmc1VOOHo5ZHJNejB4X1pzcC1RVw?oc=5",
@@ -3949,41 +3983,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a7bdd6c429b5",
-   "title": "{Funding Alert} Indoor Air Purification Startup YOGa Clean Air Raises Capital for Market Expansion",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3NhSlNtdU5rUjVSWGMzc1dYOG9TZVZnQi1ZZHNjcmNuVXNHRnlhVU9EUk5IV0djZ1RDZG9aU3BqOXVyTUJVZHZkQjhoUDBFemU1WEFLWl8tdVBDeERfQlJnWTBjXzJLSXZPeUY2S3ZIbXh6Q2VIRnk1OTN2NXNLcjlHVTJUdTVXRWM3cGFiVkxrUnBzNGtjUk5VODFxb1NSaUxESllMZkxsSFZ2aG9VUzA0d1NfdGZSNFA3dVBGQ0MwRXA5U0Jz?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-31T09:26:05+00:00",
-   "score": 53,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "050bc54e56fb",
-   "title": "Meta AI glasses will stop recording if capture LED is covered",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaC1CREJfemVyWmQ4RkwxYlhSZkhrdWlJcUJLbU5EZGluM0lHX0JvV1dfcUJVamFmUkNHZDBKX0J1WFROZi0yejllMXVvaTJpelVER2lCVll2cjRJbkhyNDR3RjNIUC15c0xKODNIazhPcVpzMVF4Ui1WNUt5UlBmZTB3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-31T09:20:03+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b9ef96f088ae",

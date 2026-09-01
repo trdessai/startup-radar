@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-01T07:58:01.815028+00:00",
+ "generated_at": "2026-09-01T08:02:02.538430+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 66,
-  "fresh": 6,
+  "fetched": 67,
+  "fresh": 2,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "a8d4a38cb915",
+   "title": "From $3.5 Bn To $200 Mn: upGrad Completes Unacademy Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0RQOXltdkhCQVlSOUtOVkZWY3BPLXVTaFkwTDVLZElWSmFvQ3BsUm5HV3hPYjR2cGx2YzBPZmxEdllsRk5EaVNKM3VOZmlfQ0Vqc2pMZzVjWE16WVg4dHJUZF83czNzRHAxZkFVUTZiN25YLUtQdHdwclIzTG1CWmZUeDUzZGN6cldIMA?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-01T07:57:14+00:00",
+   "score": 79,
+   "category": "acquisition",
+   "company": "From",
+   "amount": "$3.5 Bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$3.5 Bn"
+   ],
+   "alerted": true
+  },
   {
    "id": "e2dc0f4a3159",
    "title": "Deep-tech aerospace startup Alteon raises $2.5 Mn led by Lachy Groom",
@@ -41,6 +59,23 @@
     "acquisition in headline",
     "$200 M",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8f329ca3ec26",
+   "title": "Yuma Energy, Kepler Aerospace, DocPharma, others raise early-stage funding",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjJhU3d5WWVKeU8xSHdrLTU3Y29fQThTb01ZcVU1NEtUYnVaNGhXR3FWeW9BLXVqX01zSTAyVmVVNnUzV3Z5US1CVXZ6NUFvTVlqaEZ0ZkNJQWQ1VE5OaVRIaFp2bFRwSWRkckgzUGFRV2VtdEhPbC1lZzE0djduUzA2MEVkeW84cjk1YnF3YzE3ZGhlMUoxOTNtSW5JODRSbzNN?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T07:33:50+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Yuma Energy Kepler Aerospace DocPharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -4131,24 +4166,6 @@
    "alerted": false
   },
   {
-   "id": "bbc3c75b4d7e",
-   "title": "Bira 91 Faces Fresh Insolvency Threat Over \u20b911.8 Cr Dues",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1dMc2pSRlRpWm1Qc2I1dUw5M3NwUEREazRWbFRFcFpNUURKdkZWVmRkbnRQUGl5bk5yV0NibVdfcE1OWXVFa2tiV19TQnI2N0lIcjE2MUhCSVRVeGs0UTV1b1FxVkxEWkVkeGpHVkFJRm9GMXBUcVNsdmFka2xRNjlhd09Xd1Z2cWgtWDhHWGFKdw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T05:17:50+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Bira",
-   "amount": "\u20b911.8 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b911.8 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b12e44ade653",
    "title": "Indian Banks Launch \u2018Banking for Youth\u2019 Drive to Win Over Gen Z",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXFKSnQ5OURtOFFVU2dVb2FDYWtYOHVuRzNkVFZnVTFIZzlmaTV3bWdDMG5UdEFVS3RPZG15SG1iX1Fkcms4UVYzZDd0dFlHcTdFZmhWeVhKZGhSRU5LNmFzTnVBVTRFNWxrOWd1QllIM2JrZXc3QVRwRV9UVTc3MjkzVUt4VjRRQlV6ZVRfbHRRc2Q1MXB6bDh3a2dkaGlyWnNUYmMzNUJ6bGlsa3lCYkp4TDZLa0QwV1NiUUFMczlRUjRwSzdBc0I0ek5tQ2lOS1ZUX19EbFo?oc=5",
@@ -4181,23 +4198,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "09a639be61e4",
-   "title": "French \u200bchip materials maker Soitec locks customers into multi-year deals as AI wafer demand surges",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-chip-materials-maker-soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/articleshow/133642503.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T05:02:22+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "French",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ab7305acba2f",

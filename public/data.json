@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-01T22:34:38.890606+00:00",
+ "generated_at": "2026-09-01T22:43:08.140818+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
+  "fetched": 11,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "4794ff90cfa8",
+   "title": "Dodo - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TUG9xZ1BISnJtUVpKSkZIR0dKNlJSM21UZHVtNmhBTVJsZVpRQkE1dndQeThqY3RvbUVtbXhPRlFvcWQtY19zUjR2QQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T21:44:10+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dodo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bb83d144f289",
+   "title": "123pay - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MX2hXSzFDOHZOQXlyamVFRU9LVXBOMm0wUGx0d3Rzb2YxcjhXdlFNZHVYOWtYRVlIOW9xX0lTaUR2aE96TXJWanFDQ2dmQQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T21:44:03+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "462264a89d19",
+   "title": "UZQR - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VNWRuWm91ZGpnbjZNN1NkVDlyckdqTzRybUM3Z0hQYjdUM2l0N19zdXJ4blRYN2ZPWU5wZTNiMi1lWUswNExVT1l2VQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-01T21:43:55+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "UZQR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "0ecd7623fcb6",
    "title": "RemitX",
@@ -4046,47 +4098,6 @@
    "alerted": false
   },
   {
-   "id": "be8e26c02d7c",
-   "title": "Kotak Mahindra Bank is said to recommend two internal candidates for CEO",
-   "url": "https://www.livemint.com/companies/news/kotak-mahindra-bank-is-said-to-recommend-two-internal-candidates-for-ceo-11788178147778.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T12:12:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Kotak Mahindra Bank",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ashok Vaswani",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5c86ab9e6020",
-   "title": "When purpose becomes the filter, alignment becomes inspiration: Rohit Mathur of Ramco Systems",
-   "url": "https://www.livemint.com/companies/news/when-purpose-becomes-the-filter-alignment-becomes-inspiration-rohit-mathur-of-ramco-systems-11788175771953.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T12:03:24+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "When",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "652276cf8f9a",
    "title": "Mikiamo Launches Amaro Rosso, a Premium Italian Red Bitter in India",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDZvWm1UYW9pa0g1M1dreXBQUU5wVDBOdFFuMG81TkE3SHRIUURscDRPWUFmVkRvWVVzYXJjaEpPU1JacTljcmtUZlNDT25vN0VrRFk1WlF6MHV4QXJqTlVJbV9JanlGRi1WZEg3T2ZaQ1h0d3pldi1TZEpNT3I2cHF3eTdUUC0zS201ajQzaTY4M1RUR1BoQnEzMVhCUQ?oc=5",
@@ -4102,23 +4113,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "c6b2480c97a7",
-   "title": "Google updates spam policy in Europe to avoid antitrust fine",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1o4MFMzajhLUHNGeWJVZTRHaVBCOUIxdmtlcHpwWnpjUGJNa1kyTUNtWWRDTXRFM3QxSF9ZTjIzTzZ6OU1yd1JKNlNXRm1Cclk1S1lJcXVXTVZLeVdYTTVRdlF3SmwtQW9EbmJ2WllSR01tQlhYUzJQMmd1eTBER1JjYXAwVmpQcHg1N080YzVsZw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-31T11:43:32+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "7a32e480757c",

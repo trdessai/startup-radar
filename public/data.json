@@ -1,12 +1,50 @@
 {
- "generated_at": "2026-09-01T04:40:28.612157+00:00",
+ "generated_at": "2026-09-01T04:52:31.749468+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
+  "fetched": 33,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "8ab150570f24",
+   "title": "Kepler Aerospace Raises $ 8 Mn Seed Round To Build Autonomous Swarming ISR Satellites",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjJCcXJleklmSmtLTlMtUnpCZlVVWFkwUzlsRkdKNEszUGExa3gzdVJLbnhpcGx6VXVpUlZCa1pQZ3YxeThrVW1qV055MDZVV01ITExzRjRweXc3dnAxaWlhU3ZMUW9ic3J6X3haY2pUc2ozUzRCN3pjME1LTlQydUM0YjBWWWY2UTJvNlVYZFJ1S1RBRXlUdFVMRXhGandiRTZLSnd3OWZITWpfanNnOGs0ZzBQTnEtZkhxUGhfOTZrZw?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-01T04:42:23+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Kepler Aerospace",
+   "amount": "$8 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e9905edb114f",
+   "title": "Zenergize raises $4 Mn in pre-Series A round led by Giraffe Studios",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3ZoMW5qX3NScU0wdENXMlFCUXd2YldZRHJ5X1ZsOUsweW1jalFsZEQ4RXZOeFFfSFoyYUI1dWVOZGtlYWYzLXVNTEpJdEtzLWRvZUczLVNmVzVaWnAzZG1UcXlIWS1mMHNnLUdwOEhGRnlqZ19Kel9jSC1ZRGRZNm0wUHdvY3NHc2daNWNnNktsUkdsNEpOTlhVSUhNY2JHb2NiZDNlSUbSAagBQVVfeXFMT0t2aDFual9zUnFNMHRDVzJRQlF3dmJXWURyeV9WbDlLMHltY2pRbGREOEV2TnhRX0haMmFCNXVlTmRrZWFmMy11TUxKSXRLcy1kb2VHMy1TZlc1WlpwM2RtVHF5SFktZjBzZy1HcDhIRkZ5amdfSnpfY0gtWURkWTZtMFB3b2NzR3NnWjVjZzZLbFJHbDRKTk5YVUlITWNiR29jYmQzZUlG?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T04:38:36+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Zenergize",
+   "amount": "$4 Mn",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4 Mn",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "e95f2ea4d486",
    "title": "UPI hits new record with 24.51 Bn transactions in August",
@@ -7018,24 +7056,6 @@
     "$37 m",
     "Series A",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a1b22a88bf30",
-   "title": "Wealthtech startup Nexedge Capital raises $20 Mn in maiden funding round",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWJ3QmJfTFBoaE15VEZQcmJhZThpUGVNNEhtRVRidXdOU0MxeFI4ZlVkWXBwWHR2TXFsWXBmVm5yWE1jb2h6azg3MUc4LWdwZEVRelZzd1F0VGJKRjB5ZmdsS1Q2QWlseDNuZF9xVjRiby01MlBTMldaWHdnVzdaT0lBQnJLUWdJcEdCZFpINk9Ba2R4cGdKdF9NTHdBNUFqaG84TFB6dEdhd9IBqgFBVV95cUxNWWJ3QmJfTFBoaE15VEZQcmJhZThpUGVNNEhtRVRidXdOU0MxeFI4ZlVkWXBwWHR2TXFsWXBmVm5yWE1jb2h6azg3MUc4LWdwZEVRelZzd1F0VGJKRjB5ZmdsS1Q2QWlseDNuZF9xVjRiby01MlBTMldaWHdnVzdaT0lBQnJLUWdJcEdCZFpINk9Ba2R4cGdKdF9NTHdBNUFqaG84TFB6dEdhdw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-25T04:46:23+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Wealthtech",
-   "amount": "$20 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$20 Mn"
    ],
    "alerted": true
   }

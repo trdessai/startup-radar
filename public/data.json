@@ -1,12 +1,137 @@
 {
- "generated_at": "2026-09-01T14:02:03.085472+00:00",
+ "generated_at": "2026-09-01T14:19:45.099495+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 72,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 77,
+  "fresh": 7,
+  "alerted": 5
  },
  "items": [
+  {
+   "id": "f7a4002e4cd8",
+   "title": "DTDC launches Kaarigo to take India\u2019s grassroots businesses online",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1ZmTUQxb292VnV2TEo1ZHM1NW1Fa1BCTHllWDdxYkxNM1NyMi1ORVhCSTI3MnlsclpCTmpGVTVKcTctNHVDUERBc2dZZ2VWcF9aUEpDUzVQTmdmcnRjRzRKdlhUTmZlQldXekZnVzdGNzF0Um4yY1BlTjk2WXZPcmE2ekZheUJEYklLeWtJOFJ6a00zWFotaFZKWmtDUjVHNlBxTEtqSHZJMGl0Zl84Yl9xVlZVZ3hHOTA5OUZB?oc=5",
+   "source": "IMPACT Magazine",
+   "published": "2026-09-01T14:11:56+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "DTDC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f7e1aec5e109",
+   "title": "Former Google applied AI expert launches AI startup Guickly, raises $4.2M in seed funding",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGF4SHkzUUs2ZEFuRHhTZHpiRUJlaGxzR1Zub1B2N3IxM010T2FoaGczNk5WN1p1TERUaGFMOFR6bDY4MnFuTkN1LWo1ZHV2cHhEeE9pWHI2eXNERFE5bV9DVml4RzlwdkJwMXBheHJRZkdrZ3FWRGpjTGU1SWJONmVvNzFKWWt2cGRxUHJaR2hVdGJhOURQRmM0bUE0NWVu?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-09-01T14:09:33+00:00",
+   "score": 90,
+   "category": "launch",
+   "company": "Former Google",
+   "amount": "$4.2 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$4.2 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "bca360d71282",
+   "title": "Fervo signs 396-MW geothermal power supply deal with Google; shares jump",
+   "url": "https://economictimes.indiatimes.com/tech/technology/fervo-signs-396-mw-geothermal-power-supply-deal-with-google-shares-jump/articleshow/133684181.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T14:08:38+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Fervo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "da923c67feb6",
+   "title": "Odisha's Lok Bhavan becomes India's first Platinum certified green Lok Bhavan",
+   "url": "https://yourstory.com/2026/08/lok-bhavan-igbc-platinum-green-campus-odisha",
+   "source": "YourStory",
+   "published": "2026-09-01T14:08:15+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Odisha's Lok Bhavan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ca35298734c8",
+   "title": "Minimac Systems Raises \u20b930 Cr To Scale Lubricant Recycling Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1c4Y2FVT1VYZXpvLUZyTVFNVXVnMkFncHpIVlFnRlcyMmtxdUx3Rjl2SXZrbVZVd0tOM0c3WEhPSVRIU2hIdlJOcUVoZURhQXhjMXBQMG00NEVubXdIRmRXSUpvZ2sxdFAyQVdwYmhNYWZiblRZYm5BeWVLMWZNTTZkWnJYTzVRTjdrS2oxRkNyRmxWdjNUMXpwREY0QlktQXZyRUdWemw?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-01T14:04:29+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Minimac Systems",
+   "amount": "\u20b930 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b930 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4af06ca1375a",
+   "title": "Oppex AI raises Rs 4.2 crore in pre-seed round from Info Edge Ventures",
+   "url": "https://economictimes.indiatimes.com/tech/funding/oppex-ai-raises-rs-4-2-crore-in-pre-seed-round-from-info-edge-ventures/articleshow/133683856.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T14:02:16+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Oppex AI",
+   "amount": "Rs4.2 crore",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs4.2 crore",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4dd254d384b6",
+   "title": "UpGrad-Unacademy merger complete; Ultrahuman\u2019s $60 million raise",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/upgrad-unacademy-merger-complete-ultrahumans-60-million-raise/articleshow/133683284.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T13:56:55+00:00",
+   "score": 81,
+   "category": "acquisition",
+   "company": "UpGrad-Unacademy",
+   "amount": "$60 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$60 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "a32178537330",
    "title": "Social media companies are trying harder to know which users are kids",
@@ -3937,60 +4062,6 @@
    "alerted": false
   },
   {
-   "id": "761571ded3e3",
-   "title": "Huawei H1 profit drop quickens to 36% on rising costs, R&amp;D spending",
-   "url": "https://economictimes.indiatimes.com/tech/technology/huawei-h1-profit-drop-quickens-to-36-on-rising-costs-rd-spending/articleshow/133650687.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T10:59:20+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Huawei H1",
-   "amount": "467.82 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "467.82 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6fc2a40fa4be",
-   "title": "Meghna Sharma appointed Editor of Prestige India",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajUwUTljUVl4YV9LbGJaZ2Nmd1k4dFdXZWhYUmE5V01Dcm9henRtOTJhUmhpcllkYV9LSTIwTUpmdzVBZVgyT1g5Ui02eElmMTEzX1VvclFDNWx2eXpIc2t2d1V6NHh2X2l2TFh0ek5vS1pjVVl4bVVzUzMwUWdpc2JSWUUzSDNjOERjTUhSNG95czVYY0tLQkU2OE1wZ0NtUWl3dmJ3YnVwX2hYeXd4dzhR?oc=5",
-   "source": "Exchange4Media",
-   "published": "2026-08-31T10:57:38+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Meghna Sharma",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7bd60d33ff81",
-   "title": "ChatGPT, Reddit, Roblox to adhere to EU's \"very large platform\" rules",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-reddit-roblox-to-adhere-to-eus-very-large-platform-rules/articleshow/133650637.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T10:56:18+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "ChatGPT Reddit Roblox",
-   "amount": "45 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "45 million"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c8c940ac1a2f",
    "title": "Semicon 2.0 sets investment thresholds, offers 40% fab subsidy, Rs 15 crore startup funding",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckIxM0JMUzR3blRhakl2SEZZbUtzNUZBNDJrSktVamhMdWZEc1ZvVFNBLVFjeUVuaFc5LWZCSnNCUVZhTE9rcmxnb296SlF1ckVlNmZsS1BiYnpwTFRBc05qbXlzY2VWYkg5V3dTZDFIMVhVUkw5bWRkckY3V3BJdW5TMFNPVU1QMWViN0tKN3FqMmpWdXdoZXA1bTdOVE16WEplT2d6c0xkOU1PUXFvaVlpRy1SV1VPbXlueXZmMENwNFptNWVrLUtGU0QxbndISFJYZw?oc=5",
@@ -4007,23 +4078,6 @@
     "Rs15 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "8b60878bbf80",
-   "title": "From roots to returns: Why Indian real estate is drawing NRI interest",
-   "url": "https://yourstory.com/2026/08/roots-returns-why-indian-real-estate-drawing-nri-interest",
-   "source": "YourStory",
-   "published": "2026-08-31T10:50:42+00:00",
-   "score": 49,
-   "category": "expansion",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
   },
   {
    "id": "2dde303744b1",
@@ -7052,58 +7106,6 @@
    "reasons": [
     "funding in headline",
     "Rs12.5 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7852a3f99a36",
-   "title": "Germany\u2019s Infineon is acquiring Bengaluru\u2019s C2i Semiconductors",
-   "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
-   "source": "YourStory",
-   "published": "2026-08-25T14:18:48+00:00",
-   "score": 60,
-   "category": "acquisition",
-   "company": "Germany\u2019s Infineon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3d70375388f7",
-   "title": "TRUSTNOW Launches EKAM: India\u2019s First Governance Platform for Autonomous AI Agents",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvTzlTcktpT1FBZXJqUzBTM0hicExLVFQ2ekhvREVYdEROd3NYUGFhUkRzMDBrU0xhc2E0a0VXWFZTYWxNNkc2elJpc0R1WlM1MXZENU5TUzJrbmVKM2tmSzE3V3JlYzhnQkxNS2ZROUo?oc=5",
-   "source": "TechnoSports Media Group",
-   "published": "2026-08-25T14:11:21+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "TRUSTNOW",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2fb4f4674c37",
-   "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWU9uRnhkclpmekkyMk1TeXZ3VF8zT01CNVRvdVBfSUdFdmd5SmdwbTJNNldHRW5VNlQ4N2ZSU1M2LUg2czhmX0Y2cHZHSXpuWlFWamZDLTRZMUF1MkplRGlTVnVjQVQ4NklwVFp4SjJYZjZOeHNuS3c1aThCQmsyRkpHVmZyVVdZNk5STHpnSVVNYmV3cXhhOFVUZE1OZTVFWEktTQ?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-08-25T14:10:26+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Self-driving",
-   "amount": "$200 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$200 M"
    ],
    "alerted": true
   }

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T09:55:01.657770+00:00",
+ "generated_at": "2026-09-01T10:02:05.295684+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 78,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 77,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "df1975561384",
+   "title": "Sarvam launches Champions Programme to expand India\u2019s AI builder community",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEthRDk3TzF3c1dJUVVnM3ZNeklwek9jblVULUlZQWt3RE5JY3F5WXFycUhKd0RJRFlCT2k4a25DVVNfal84OUhsYzdKZzlSUmlYa1Y2NTRrQzk4MFFEZENyT3h3YTZlcUl3VnNzek9LMnZEek80VVV1bEtJR2Z1Ym5UXzc1Tm1BbkNhc192MjZNYVFPeUdxR3hncExsd0dQUzR1bQ?oc=5",
+   "source": "varindia.com",
+   "published": "2026-09-01T09:59:53+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Sarvam",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "025ccbf63604",
    "title": "LEGO Opens Large-Format Store at Phoenix Marketcity Bengaluru",
@@ -147,6 +164,23 @@
    "alerted": true
   },
   {
+   "id": "61fd2a127972",
+   "title": "Titan Capital backs xStep, the Shark Tank India-featured neurotech startup",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUF90alI4S3FoQVB5Y3dPNmNqR3hSSHJJRFMzX2EwUFBPODZGU2NUQS1mbzRFZ3ZwaGcxZUFrdFNtcjlZdUttWFJCQ3M5bHdKLVpwRVVacHc0VldlZTktend4cF9VYWwxdjZzb0R4TmJsYnNrOFFqaGp3UkFCT0sxdGhodHFxc3M1Q3g5RDgwaFdra1RaaUxsRGs2dGJFQmpRaXBKWnJ2d3dzUUZjVURLcUdVMF9MM2FWckpBQmtwY3FFaFNEeHRlbkZWQVpKeVkwbTdPMmtwQ1F4dWluZ3loelJ30gHnAUFVX3lxTE9mbE1fb3dvZ1V1M0NOYUIxalNvZy0tUkdxMEhLZ3hUSktES3hOZXNGV3Z4SU91eGxMVFc0eFNkNTJkZWRtbmJyVUlvbHFtMEY2SVVCZ29PQWZnZE9ZaTEtYXhWcFl2aHJyYlJxa3lUR1hzU3BGTE85bzY0RVBWWTZsby10Wk4tZExTcHNneXI2ZENHc1hHSmgxS1NLUkIteThjUVFjeGVxTnNKNWpaUEpQUm80U0FNVHdyd2o2U0RXaExBd2xaLU8wdnJVbEg3ckQ1Nmd6b2lBY1I3OFBjbDJtZ04zaWtEZw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-01T09:13:14+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Titan Capital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "c28b8c0eb673",
    "title": "Capacity pricing gains ground as 80% of AI software vendors choose fixed commitments: Bain",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/capacity-pricing-gains-ground-as-80-of-ai-software-vendors-choose-fixed-commitments-bain/articleshow/133675081.cms",
@@ -237,6 +271,23 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "61d6b8e69ca9",
+   "title": "Indicorn Angels",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95TEFWMkFXeWtfcmFyMHlIYXNuUjMzSEQtelpVXzM0ZllwYUt3SVNvWGFweGxPeFNERTVNQ1FFNDFwR0RNZjVuUENBQ3RDZlZ5ZlVNOE1yOUxQUll1VTJocjVnNVdkT2laZFE?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-01T08:46:26+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Indicorn Angels",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -4142,23 +4193,6 @@
    "alerted": false
   },
   {
-   "id": "05bf36978e37",
-   "title": "Diagnostics Platform Healthians Posts First Annual Profit in FY26",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHZpc3pCVURlaWVwMmFWVkg3d01fel9ZNmZzMUhrNzB5cWpFNUVTWng4SDU5R3prbmZYTlJ1ZXdXc3cySHViaWlCajZONVJ3MjNESzBKbzNDNGFUdkU5OGJ6V1N3SEtMbEVqdmZ6X0tESlYzZnk1YzNSVm9KTlBVbEdzOTlDUnQ2aTJFQlpuVGllbnZCOXNCb2RNZWRCSzQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-31T07:11:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Diagnostics Platform Healthians Posts First",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "206926c6f754",
    "title": "Europe expands AI computing network with \u20ac390 million order from France's Bull",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-expands-ai-computing-network-with-390-million-order-from-frances-bull/articleshow/133645491.cms",
@@ -4177,23 +4211,6 @@
    "alerted": true
   },
   {
-   "id": "0db07cae337c",
-   "title": "Piyush Goyal Backs India-Japan \u2018Shark Tank\u2019 To Boost Startup Pitches And Investments",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMGxkVkl5Vk1KRTdxcUpUdlVJUTNuQnhfR0tzaXoycldWZmozdjlIOEpReTFoVC1WZGhHejkwZ0VRODhvTk5WWHRlVzBVTmdHS01scGZUNVlmd2JfUmxKd1RuWEdvc2ZjbUFIMDFLMUdJTk16UGdOWE0yWTF2UkRITXlLUFFSSEd2WEc5TzE2R0piQmNteWFXaWRoUXVlTWJWRXdXdkU0a1JpdHlYM2NDTFJOd0QwckpNWUFJVHFkZUdRVEIzY2xleng1bXRpaWdOdDBybUpXUnRWNDBCTHNEUQ?oc=5",
-   "source": "Business Today",
-   "published": "2026-08-31T07:10:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Piyush Goyal Backs India-Japan Shark",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "25d29e5b4b0c",
    "title": "Satvacart Shuts After 12 Years as Small-Tranche Funding Fails to Support a Rebuild",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWhKd3hWSE9oUHM5RDlMWm9yZWtpbDRRcUlzb0hON21DcEMyS0piNkZvdkY3QnUxWVRQYXJZR1Y4al9XLTNIU3l3U2JSakRDZzJValhQa2xZSHRZRUt4WXA3ZWZLbnhRb1lFVlRFVnhZRnUzU1haOEpCLW9DaUFYak5xR2VZOTYySkFBRVJ6dDhxeEloZXlQa3FmV0Y1Vzd6YUdPaXctcGZoeW5kaGZRY1NFSVJYSE1ydUJqZkgzU1dUTnlQX2JRa3FhaTVlQWFUSmR5TkppaDI5S2F3a0ZhQQ?oc=5",
@@ -4209,25 +4226,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "95bf090fbe04",
-   "title": "Info Edge Ventures leads Rs 20 Cr Series A round in YOGa Clean Air",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTJTNGo3MlV1WVdCeVVzeXpTTVhHWWlIRUNBb2JnNTlfT1hxeDlJemFCNXhOeGgtS0JQSkhpbTZNWWRmSlNKU0hveGFkcUFqTkVvUjFxU2k1U25ZVHo4MVZMbzFQVno0N0RwNi1helV3bWlXT2lDS1FjandaZTFLdTRFMDZSdFlpRWxBeHZsWU4xeHZBM2RLS0t1bDctdlozYnprbTBiRXPSAagBQVVfeXFMUC0yUzRqNzJVdVlXQnlVc3l6U01YR1lpSEVDQW9iZzU5X09YcXg5SXphQjV4TnhoLUtCUEpIaW02TVlkZkpTSlNIb3hhZHFBak5Fb1IxcVNpNVNuWVR6ODFWTG8xUFZ6NDdEcDYtYXpVd21pV09pQ0tRY2p3WmUxS3U0RTA2UnRZaUVsQXh2bFlOMXh2QTNkS0tLdWw3LXZaM2J6a20wYkVz?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-31T07:06:23+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Info Edge Ventures",
-   "amount": "Rs20 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs20 Cr",
-    "Series A"
-   ],
-   "alerted": false
   },
   {
    "id": "c43bd0ee17ac",

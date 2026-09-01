@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T05:18:11.147201+00:00",
+ "generated_at": "2026-09-01T05:28:24.780244+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 7,
-  "alerted": 3
+  "fetched": 39,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "070cf1c7d222",
+   "title": "InsuranceDekho and RenewBuy officially announce merger",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGZRSDNRSTA4QjlkbnRaT2FDdGRpR085QWktNlMxTVRNM1B2LXB2TGNLTU9yZmE5Mms1SFNadEJzUVZWcU5IZUk2NGNyWW0zTXNiTGlBcmE3RGVfS3QwbUZQdVlGX0VjanB5NGVPMmYyNWl3dmlfY2J5MHRhR2ItZXRHSlFqeV94czJENUxOX19wTlHSAZMBQVVfeXFMTmhmUUgzUUkwOEI5ZG50Wk9hQ3RkaUdPOUFpLTZTMU1UTTNQdi1wdkxjS01PcmZhOTJrNUhTWnRCc1FWVnFOSGVJNjRjclltM01zYkxpQXJhN0RlX0t0MG1GUHVZRl9FY2pweTRlTzJmMjVpd3ZpX2NieTB0YUdiLWV0R0pRanlfeHMyRDVMTl9fcE5R?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T05:16:11+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "InsuranceDekho",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e1442c6eace3",
    "title": "Spacetech startup Kepler Aerospace raises $8 Mn in seed round led by Blue Ashva Capital",
@@ -4103,23 +4120,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "74766ef31bca",
-   "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU21FMnU2R3Z0TXN4d2ZBYUZGUF9GbktSU1hpdzVHbTJuYlpmNzdSMF9BckQwT0VRVG5QR3dkaThKUWlpdDZNcVk5SURxX0xCMnU1RTFZd21vNEk4OGdvUnVjNktQSHpHNWhOQTZsa3M1ZWFVRXRJT19pZU9vNGMyX2FxbnEwTGloa1kyd3U1T3VKU0k?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-08-30T16:03:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "TechCrunch Mobility: The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c32fdd192453",

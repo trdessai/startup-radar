@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-01T15:32:14.471323+00:00",
+ "generated_at": "2026-09-01T16:22:55.663707+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
+  "fetched": 43,
   "fresh": 4,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "52ee4880c5ca",
+   "title": "Masters\u2019 Union Secures University Status From Haryana Govt",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHpYWEJ4RkcxSmxhSG5YMXVra0h2eGpYMUNPQUZHRElScGpOWVZHeHFLazFTbmFpSm0tZWlIci1ldS1xc0pnMmRNV3BCRWJOeVhPZldoY2M0VkhLVURhcTJDZlRocC1VdTJEOTFaOG9GRGdwSnpETEhJanRrZEFTN1h0akUyc3ZD?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-01T16:16:18+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Masters Union",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e75b3b6f6b3d",
+   "title": "InsuranceDekho + RenewBuy: Ankit Agrawal On Making Of A Pan-India Insurance Distribution Giant",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWJiMVlWdVJrOFRiYnpCNE1uNTBDTF9TdjZFU3NfRDlMeDVsN3BSWGwwOXUwZlpVa2ZRcTZnbHg5Q1pRcDhXUlI3VTh4UVA3bmFGaVRhOVZ0cjVKUVJubHQ2SUtPNmRweFI1cjNUSDVncGZMWi1faDR6Q3RZNV9MT3ZyMkc3RnU4WXc5UmVEeFlMWEFDQ2hEVFNua1NfWnltZEF1RGdVNW9SekNoOTdEZm5GbC16NTU2UUww?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-01T16:00:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "InsuranceDekho",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b20449493b3c",
    "title": "GIC Re flags GIFT City competition amid changing reinsurance market",
@@ -21,6 +55,23 @@
    "founders": [],
    "reasons": [
     "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2e07c54292c2",
+   "title": "Oppex AI",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fdVAxZHp1VTl0RWVBb2o1OEZHQ19OU09LQjdaQWYtbFFFeTVBd005MUF0X1Q4Q1FsRnJuRTE4ODZHV212Xzl1My1R?oc=5",
+   "source": "entrackr.com",
+   "published": "2026-09-01T14:31:25+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Oppex AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
     "no clear event"
    ],
    "alerted": false
@@ -4087,40 +4138,6 @@
    "alerted": true
   },
   {
-   "id": "f75cb143978d",
-   "title": "PE/VC Investments in India Jump to $4.1B in July",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1hpQ0tYbEZKYVhuUDVDbEhaeldWYTdtQjFLd0JhZmZSNkppOGcwUEdnOHhock1JcE95S0dsLWVaSk1VVWZBSXAtX0JSeDlReVFpYU5nU05HRlc4TzVlZFBzbGJBZmxZZ3B1TENMM2RqUWZPVFJLNkhvWmVnNVBBRmlBVkVYa2RaVTBwMHgyS1RPRjB5R01fZ3VSX2dQbFZvVFg4UVZn0gGmAUFVX3lxTE4zWGlDS1hsRkphWG5QNUNsSFp6V1ZhN21CMUt3QmFmZlI2Smk4ZzBQR2c4eGhyTUlwT3lLR2wtZVpKTVVVZkFJcC1fQlJ4OVF5UWlhTmdTTkdGVzhPNWVkUHNsYkFmbFlncHVMQ0wzZGpRZk9UUks2SG9aZWc1UEFGaUFWRVhrZFpVMHAweDJLVE9GMHlHTV9ndVJfZ1BsVm9UWDhRVmc?oc=5",
-   "source": "Rediff MoneyWiz",
-   "published": "2026-08-31T11:05:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "PE/VC Investments",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3bd402ab8677",
-   "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-cyber-risk-is-top-concern-for-global-financial-stability-watchdog-says/articleshow/133650851.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T11:02:53+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "AI-driven",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c8c940ac1a2f",
    "title": "Semicon 2.0 sets investment thresholds, offers 40% fab subsidy, Rs 15 crore startup funding",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckIxM0JMUzR3blRhakl2SEZZbUtzNUZBNDJrSktVamhMdWZEc1ZvVFNBLVFjeUVuaFc5LWZCSnNCUVZhTE9rcmxnb296SlF1ckVlNmZsS1BiYnpwTFRBc05qbXlzY2VWYkg5V3dTZDFIMVhVUkw5bWRkckY3V3BJdW5TMFNPVU1QMWViN0tKN3FqMmpWdXdoZXA1bTdOVE16WEplT2d6c0xkOU1PUXFvaVlpRy1SV1VPbXlueXZmMENwNFptNWVrLUtGU0QxbndISFJYZw?oc=5",
@@ -7096,23 +7113,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "16ab67920521",
-   "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
-   "url": "https://economictimes.indiatimes.com/tech/technology/apple-launches-faster-mac-mini-mac-studio-to-tap-ai-boom/articleshow/133517463.cms",
-   "source": "ET Tech",
-   "published": "2026-08-25T15:46:29+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

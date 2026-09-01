@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-01T02:18:19.635480+00:00",
+ "generated_at": "2026-09-01T02:28:54.998902+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 26,
+  "fresh": 3,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "af2ebaf96697",
+   "title": "Anthropic resumes external cyber tests after Claude AI hacks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks/articleshow/133666188.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T02:24:40+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6eb7406f6be5",
+   "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda/articleshow/133666163.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T02:22:50+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "$35 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$35 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0732ef88f04b",
+   "title": "Apple alleges OpenAI employee accessed circuit plans after joining startup",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup/articleshow/133666149.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T02:21:33+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8f60bc1320b2",
    "title": "How Tim Cook turned India into Apple\u2019s growth engine; NIIF raises Rs 19,000 Cr infra fund",
@@ -4053,23 +4105,6 @@
    "alerted": false
   },
   {
-   "id": "22189139fd40",
-   "title": "'Given ourselves fiscal discipline path': FM Sitharaman pitches India as investment hub to US",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdElZR2JiRTZCSExTVGlvb0ZhT1ZvSnJiVDBqT29OSWlzSGlFRWkxMHcyNlhfX0t1VGtpRDh1Q0k0ODBlRVZCZW1HeGUzOVFKaFhwb05oNmo0V3JFWFNLTHJpTlBmcnpJXzlXYzZMZkJpUHhqY1BMUXBDSmlJTHpmMW1Yd245SnZnWC0wSW8xcmc4by1ueTRpekwtVUQ4czRZei05bF9tM3ZpeWE3SDRRWlFjQ19PMU1Hd2hKTF9iN2xQcTd6dVRpTkhhNlN4aE10MU1Ob1NuN3lzMk1XTUtPUGNyRmNoNGxKMVZUTElEU0xER1dEWTRlTVhKSGdFdE9WZlRNTmlTX0dlZEln0gGMAkFVX3lxTFB0SVlHYmJFNkJITFNUaW9vRmFPVm9KcmJUMGpPb05JaXNIaUVFaTEwdzI2WF9fS3VUa2lEOHVDSTQ4MGVFVkJlbUd4ZTM5UUpoWHBvTmg2ajRXckVYU0tMcmlOUGZyeklfOVdjNkxmQmlQeGpjUExRcENKaUlMemYxbVh3bjlKdmdYLTBJbzFyZzhvLW55NGl6TC1VRDhzNFl6LTlsX20zdml5YTdINFFaUWNDX08xTUd3aEpMX2I3bFBxN3p1VGlOSGE2U3hoTXQxTU5vU243eXMyTVdNS09QY3JGY2g0bEoxVlRMSURTTERHV0RZNGVNWEpIZ0V0T1ZmVE1OaVNfR2VkSWc?oc=5",
-   "source": "The Times of India",
-   "published": "2026-08-30T08:57:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Given",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c2ee8c84ce49",
    "title": "Ather Konarc launched in India! Price, range, features and more",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YY9IB4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YYw?oc=5",
@@ -4104,24 +4139,6 @@
    "alerted": true
   },
   {
-   "id": "f4c3a63705f3",
-   "title": "Exclusive-Indias HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-   "url": "https://www.livemint.com/companies/exclusiveindias-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-ceo-sources-say-11788076007845.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-30T07:46:47+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Indias HDFC Bank",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0c5e466cf115",
    "title": "American startup raises $180 million to drill rock over 5km deep to build world's first superhot geotherm",
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYTVjWDV1S0k1UERvZFhPR0hLX0dHQTRRZEtQTVBQNy0xQzUwSWNpVXMxeDJnRXNUTlFRQ29vd3EzZGpORG9McE5mbU5Tak1PcXRveFNWRXFxcUc4YWFvS0E4WVc2VkdCYTBQd0RBWG43dWM5czhFZno0SG1NWjFBUEZab2FPZmM1OHUyRmVfZ3M3VWVRbDl6R05OLVE4eGlQeHFnMTJUWVptZXRnMHJvREhldGM2YU5VUVphWi1tNGVoZTEzLU9sVGJ2V2xySkM0a0l6UlFLRjNkX3NrV3c4bnAzNUlJNE40RmJacjQ4cERIYXA2ZjA1WHJaX0dObXBOekRUWWxYNDZsUUVuUThwdTVNMHZicnN6RkJn0gGgAkFVX3lxTE5xa1V2Yy1XS3JpWHNNLTFNdC01QW03ZjRHdjJsVVJoSVFYRWEwbzhtZnlWeHZSd3VjR0dWaEhlTlU2bVlLa3l5NFNSSUxxVV9mUDlSOHJjdlV4NjhRb3pJMXFqcXNCSl9Vd0NvcV82RGVRUW1OZlVuc2VBc3p1QnpSZGRmakR2T2dtdmU4TmZ6emctQXdqeGFkMThkWkZNN1VtVEtUdWtQb1VIQUVsaHlsakJhTURfZENyWlBuYjkyN004TW5vZDBjSHhUa2hfbWRHSUphWmNUcTdKNFR1bU1qdDE5NHFYMWE1M1hRUHZxLVI0M3hRRmdVVjkxdWZsU2ZZamV6S0dBQlFfOFhGTG5GUDRWZHRkcUZHMDJzUU5LSg?oc=5",
@@ -4138,33 +4155,6 @@
     "$180 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "a7385c66af3c",
-   "title": "HDFC Bank CEO Search Tests Investor Confidence, Governance",
-   "url": "https://www.livemint.com/companies/hdfc-bank-ceo-search-tests-investor-confidence-governance-11788071011524.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-30T06:23:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "HDFC Bank CEO Search Tests",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Search Tests Investor",
-     "handle": null
-    },
-    {
-     "name": "HDFC Bank",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f0d0fbcfb1cd",

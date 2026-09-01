@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T05:52:44.765636+00:00",
+ "generated_at": "2026-09-01T06:02:29.353050+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 40,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c13bc522dc58",
+   "title": "Indian Gaming Startup ARC Partners with Qualcomm for \u2018Arc X1\u2019 Handheld Console",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uN0hYRHFudFRLcjVtbHBSN0lWVTVjZnhNRGRlR1hVQnMteURrQ1hZWC1QNFp1S2tWeHhqaFJWcVNiTi02NEI1ODVCTERrSndoQXdycWI3RWJxZzI1cEUtWGt1NXNqNGduWWQ0VnB2aEF1UQ?oc=5",
+   "source": "Gadget Pilipinas",
+   "published": "2026-09-01T05:55:01+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Gaming Startup ARC Partners",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "1c774683419d",
    "title": "Ashwini Vaishnaw highlights 20-year vision for India\u2019s semicon industry",
@@ -40,6 +57,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "d930c44c31bd",
+   "title": "AI-focused logistics startup Shipsy launches 'Shipsy Brain' to power AI agents",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGduQWxRTFAxdXZ6ckRmOEtyeW83Y2l4bXFIY3k3ZDByR1JNaWNMS1I0cVI1cEpzQndCNWJUbGRWcEZPZmloSDgxdkFUbFFiZFZhaHB4SFA0ZFJfdFRZTlBYa04wVDlJMlQ3Y0tMMTQ2SEgzdWdxS044NWY2eTVIMHQtNDJTNnlPdGZmMXkxbUh3SllKV3pqU1JkOVZWdkdYMFZtSTd4V1RUMGV3ZzBDZlhBYnpNczQ2eTM3eTR1bkVITHlhUWxvMGpvNWEzQ1gySklvR0hJS3dlME0tb2fSAeMBQVVfeXFMTnBVWkdqc0ZsQ1ZrU1JuNDc2LVRmbnNyTEVzelBtNTVHU051RVN6SDJjcEU0ZXRIU2F2WU1tSjF3VkVtTEdGNkdBVnU4SGRkSGYyYlAyQ2Uxelg4cVVPQ2k1TWp1eGlQaTRheTBFLWdFRExZY2dxOEtMQ00zVlVhUGNhVDZ4RVdhXzJOQ29La2Y3WmFWUWc4ZHRFdndPWlhyd3l0M1lMZUVIaTdVQVppZVIyaUJmU21iOGxXZGxBOUdNOVhrbDQxblVFWVFPVmYzNnhJaHpmbnZ2OUxJOVBPakItMXc?oc=5",
+   "source": "economictimes.com",
+   "published": "2026-09-01T05:30:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "AI-focused",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "070cf1c7d222",
@@ -4028,23 +4062,6 @@
    "alerted": false
   },
   {
-   "id": "79dc6de2f505",
-   "title": "Ranjith Balan \u2013 Founder, Doubtbox | Startup Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWxJenlqRU94Z3dtTlpQSnNJdTJpbTUzYjRrMFRFOHVITFFaZVFRaHZnRzZGMk9GZEw4SzVZZTg0MDlNU1A4ZldyTy0tYjRRWDRTa2ZKc2dLTndfSGlqZV9rT0VFajNUUURKcmw0SHJiWGp2aFdTUDVPS2VHQ2hvWktuNXlITC1nSmN1MjNBLUJ4TFpDRGRQbXFPTGxCUmNtTlhBdWhCSzlMZXAyZlktclQwTVhoY3Jfc3o1NXhaS3YyTFJKNlhpOVIwNUw3RC12TXhIdnAxT3pGUjE3TGdLUw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T00:55:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Ranjith Balan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "520136e4ff65",
    "title": "Mandrake Bio Raises \u20b916 Crore To Advance AI-Driven Gene Editing",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm54M1lvblNKTjRORXQxc3RlOGh6aUlTQWUzN0NXbmF0SlFySkpwRFF5bDQtcTJ0WWVjNjgzVHhLWV9QbnY2WElYOHJfR19XX1loMmpHWWVyYkR5QVdxTTJWb01pWXFOUmx6UXJCZ0JVdmIyNnhTN1NFSDJVQTRBdjFRYWxKajM0U3NIZ0F3VDFSMW9GWGxzQnVLUGwtWVZ5eXZOVkxMamYxR1ZCYmwyUGE3emQ1a0ZDNzhoQU0yd19FLWRMTXctcmVWZUkzR0xnaEhmaUoyMlp5eUpxQWNyR2NnT3lJODBQeUtXOGF3?oc=5",
@@ -4061,24 +4078,6 @@
     "\u20b916 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "3be87e8cb616",
-   "title": "The mother and daughter behind India\u2019s No. 2 tractor maker bet \u20b91,250 crore on a fifth plant",
-   "url": "https://www.livemint.com/companies/news/tafe-tractors-new-plant-mallika-srinivasan-lakshmi-venu-11788073689702.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T00:45:10+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "The",
-   "amount": "\u20b916,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b916,000 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "3ff35fccec14",

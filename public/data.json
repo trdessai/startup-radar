@@ -1,12 +1,118 @@
 {
- "generated_at": "2026-09-01T13:02:21.154152+00:00",
+ "generated_at": "2026-09-01T13:19:31.309021+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 74,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 70,
+  "fresh": 6,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "b399e6153c48",
+   "title": "Kepler Aerospace Raises $8M in Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWJ1VE5VTVJ1TzhoRnVEakptZEhkUUZZT0pQalRvZXZ1TEQ1VkRCMmhQQlc5eGJmTnFpS19ncW5pUEh3WHlLeEN2ZkNadnVvVXllR2dFLUlQTGRKZXhHa3p0NTNIY0VlT1NJTWVTQmxYRVFRUk5ZUTBpNW53dVJDNUwwcnlEZw?oc=5",
+   "source": "FinSMEs",
+   "published": "2026-09-01T13:08:44+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Kepler Aerospace",
+   "amount": "$8 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3f8aa35a3e68",
+   "title": "Tim Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tim-cook-hands-apple-to-ternus-bigger-and-richer-but-catching-up-in-ai-race/articleshow/133682247.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T13:01:42+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Tim Cook",
+   "amount": "$350 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$350 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b16a54c8b304",
+   "title": "Why Sashidhar Jagdishan chose to leave HDFC Bank, refused another term at India\u2019s largest private bank",
+   "url": "https://www.livemint.com/companies/news/why-sashidhar-jagdishan-chose-to-leave-hdfc-bank-refused-another-term-at-india-s-largest-private-bank-11788267068654.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T13:00:35+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Why Sashidhar Jagdishan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d6ebb4e5c00b",
+   "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+   "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T12:58:58+00:00",
+   "score": 67,
+   "category": "launch",
+   "company": "Apple's",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "John Ternus",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5daa766e8a51",
+   "title": "Apple CEO Tim Cook gives nod to founder Steve Jobs in final memo",
+   "url": "https://economictimes.indiatimes.com/tech/technology/apple-ceo-tim-cook-gives-nod-to-founder-steve-jobs-in-final-memo/articleshow/133682102.cms",
+   "source": "ET Tech",
+   "published": "2026-09-01T12:54:50+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Apple CEO Tim Cook",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Tim Cook",
+     "handle": null
+    },
+    {
+     "name": "Steve Jobs",
+     "handle": null
+    },
+    {
+     "name": "John Ternus",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "07cbf9f6d25a",
    "title": "Dot & Key unveils upgraded moisturiser formulation with new campaign",
@@ -3937,66 +4043,6 @@
    "alerted": false
   },
   {
-   "id": "8b85549d9b1e",
-   "title": "AI Image Generator and AI Flyer Generator: How Indian Startups Cut Marketing Production Costs",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2dLY0FCdUZPMGFYVGFiSEZHZkRwM3pSZ0NpRWNvN1dBTkQyaFVBTVVudC1rRFRTZlNhWGhuT2VQVUwyd2tqMFlHdnFoMUNWaWJPd1gxcnI0MFpCd3RLVFV0LTM3bkpqcjhNZVBWcWZjd1NHLXFwS1VEYkIxSmVpa2dJeEtGYmoxYkoybDBPbFNoZHpSTDdIY3gybC1kTXd2OW5vVlFIMUVlYjFnb2VCeEtGYXpmYklYRExySVdzbW5KSGtGTHVSclQ1WjNGeDU0a3FycHppR1NhekFPM1BHbF9PRC1xeno4TTJnUQ?oc=5",
-   "source": "Siliconindia",
-   "published": "2026-08-31T10:28:50+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Image Generator",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f15a0d5c7315",
-   "title": "PE firms, developers line up bids for Welspun One\u2019s maiden fund assets",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlczTnNrTldndlNTRVN5amtBNTV6TkZvU1REQUk1X3lMV3VrMnMxVlVVRjRFUnNrR2RPaFByTUVUa2F3TXdaNmhobnpka1VsdGxEM2E5b056bXBPVzlhdFRYTC1heGlmWkJKVXo0WUVpVFJzUEpFU05GeUR2SUczNmZxWGFFbi1xRDFSQU8xUVFUSVBnSm5zVg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-08-31T10:17:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "PE",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16fe64c0e915",
-   "title": "Who Is Vivek Raghavan, The Sarvam AI Co-Founder Named Among TIMEs 100 Most Influential Leaders In AI",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1AxbU1xbkZtX3pyaDBXcENlOWVBTFp5UU5HSGZMTlZ0YTByUloxOEcyMHpiYV9fV0lGaTNwTm5HbHhmRjR0UFU4Q01nUWhVMGQwSEp1U0VkazBSbmJycEEyd01MVkpIWFdwTnlQOEpXWGxaMzAwdEc5V1FPT2w3UFd2b3h6S3ppekNhM1k3WEt6bUJxV29aU0RMc1g3amtac0R5WWNXQ3ZReEFIR3E3VnltLW90eEkyVms3NC1raDVDUDYwV0FVVnhkQXNwMUNlelZITVc5a9IB3AFBVV95cUxQQmMtNXdXNUNULXcyUG1TMG1vb05xVlVlU3l4MnVtMjZadkVDdjlGeFVMQU5nb24tY1FMMlBVdDhRSVJUTDE1NlZ5SHQ0TFlrVy03ajR5Y1E2a0pxNWxoWENLSV9vLTd4WkhaSGVwaDcwNXJoZzAtbTB0R2xfcU55c0VhQUlHdENIdnhXZ2ZWMlZIdmw0N3VNeEhObW9LQWRWZmVmaHRtZUR4N2phQXhWLThlNDh1enl4WkFsVHZIcWVySi1fcHdSTnhYcHZCX2x0LUdJWnRiaUQ0UjR6?oc=5",
-   "source": "Free Press Journal",
-   "published": "2026-08-31T10:16:17+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Who Is Vivek Raghavan The",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Named Among TIMEs",
-     "handle": null
-    },
-    {
-     "name": "The Sarvam AI",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "83325b4d08b2",
    "title": "Ather Shares Surge 5.7% To Hit Record High After Konarc Launch",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0NlRnhadFZ4d3FxanpPU1laZXFHNlB6c01kX3diRUlSVC1qREJkX2tzTjI5UENmUWdNbEpuSXhIWnRjY1ZZZHExdWhDeXN6cFhHU0hQVkxmZTk3Y3JXYkFfVW05eW40R3dGUE9GcF94akFhMk15b053WloxYTd6S044ZDRFOTRWbU1zNFdR?oc=5",
@@ -7058,42 +7104,6 @@
    "reasons": [
     "launch in headline",
     "Rs10 Lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "68b12ed1ffe7",
-   "title": "Growth Sense Receives SEBI Approval for \u20b91,000 Crore Growth Sense ApexFund and Group Launches Growth Sense India Foundation to Strengthen",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPT2hKQlBlaURNeHpzaC1RQUVWXzMwQ3RFekdqVlBWcXlIbkladFg5Z25icE03WkFJakdtdnhmTkhJVUZBYmp4MTQ5ajRHTndJVmFfdDlVdDMxRTJzM3dhZWdFRGJtbDZHRGtMR1NKcFNiZm1YU3RDalFDMzFlYmQ4eDIwRHlBajUyV2cxb2NkZDY2dV9zUmtweGVKY0lJMG9NdWVPcUdmN2MxbFN4ZWJadEE5RnoyV3F1NkxlYkRYSUhwRVI4QlNVdUc0UjU4WmtVd3RWelhDUk9UUXZvYS1XcVI5d3VpdTM3a3dqdEJPemF5eWFSbHl4dm4zRVhuZVRtYVo4Wks4Zkd3VUtXMlF1WktOVQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-08-25T13:09:56+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Growth Sense Receives SEBI Approval",
-   "amount": "\u20b91,000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b91,000 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fbe24ab53705",
-   "title": "Electric motorcycle maker Matter Motor Works raises $25 million to expand manufacturing",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYXBfOEhDOGVMdjJCdWgxOHg4YjVRMFhKZFNWTHF4M3JELURiUGRXV3A4c1E0NS05VzVrOFNUdEFaa0tMQmpLcDk2cURBTXBReENNUVBKc2JDa1lnWGtsODFjWnAyMXQ3ZW1VdWNOQWRRV09tcGJYcm14ZDdFbWpwMUk3OVZUUEVpMHVsTGM4YTAwSld6YS1lcDRIYjVfV1ZKNE5DSktCbW1BNy1yc3VZVHNWekIwMzZtMDExNlNjUEplaVdDb0VvTnZXaHVsQdIBzgFBVV95cUxPYXBfOEhDOGVMdjJCdWgxOHg4YjVRMFhKZFNWTHF4M3JELURiUGRXV3A4c1E0NS05VzVrOFNUdEFaa0tMQmpLcDk2cURBTXBReENNUVBKc2JDa1lnWGtsODFjWnAyMXQ3ZW1VdWNOQWRRV09tcGJYcm14ZDdFbWpwMUk3OVZUUEVpMHVsTGM4YTAwSld6YS1lcDRIYjVfV1ZKNE5DSktCbW1BNy1yc3VZVHNWekIwMzZtMDExNlNjUEplaVdDb0VvTnZXaHVsQQ?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-25T13:04:14+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Electric",
-   "amount": "$25 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$25 million"
    ],
    "alerted": true
   }

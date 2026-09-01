@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-01T23:01:43.651463+00:00",
+ "generated_at": "2026-09-01T23:15:35.893409+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 12,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "837cc69d7c95",
+   "title": "JioHotstar Rolls Out Services In The UK, Canada and Singapore",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHZVR09qa29ZVkVlMjhnVGs0SFhybTQ1UVlmcEJYWVBLWGFFbDI1a0M2T2ZmOThubkVRWmJ6LVpqNWFFS2dwblZIcUVBUUs4emNTaUZoOTVoZGt5dEY0VkZ3YjdIUU9OV3RiR0h5MkhSMkdibmNEd1FYOHZlWmk1NmdNbkVQUDgzNEVJMw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-01T23:00:04+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "JioHotstar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d1b23da45f1d",
+   "title": "JioHotstar expands into UK, Canada and Singapore",
+   "url": "https://yourstory.com/2026/09/jiohotstar-expands-into-uk-canada-and-singapore",
+   "source": "YourStory",
+   "published": "2026-09-01T23:00:00+00:00",
+   "score": 82,
+   "category": "launch",
+   "company": "JioHotstar",
+   "amount": "500 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "500 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "4794ff90cfa8",
    "title": "Dodo - MediaNama",
@@ -4008,42 +4043,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "26e43844b1c5",
-   "title": "Adobe to offer free access to AI tools in Saudi Arabia in $4 billion deal",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/adobe-to-offer-free-access-to-ai-tools-in-saudi-arabia-in-4-billion-deal/articleshow/133653614.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T12:46:57+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Adobe",
-   "amount": "$4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$4 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "efb6630f1bbc",
-   "title": "Consumer Protection Authority fines United Biscuits \u20b91 lakh over McVitie\u2019s \u2018Wholewheat\u2019 claim",
-   "url": "https://www.livemint.com/companies/news/consumer-protection-authority-fines-united-biscuits-1-lakh-over-mcvitie-s-wholewheat-claim-11788170993291.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T12:46:26+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Consumer Protection Authority",
-   "amount": "\u20b91 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 lakh"
-   ],
-   "alerted": false
   },
   {
    "id": "d0cf032af029",

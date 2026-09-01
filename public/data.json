@@ -1,12 +1,36 @@
 {
- "generated_at": "2026-09-01T08:55:38.516696+00:00",
+ "generated_at": "2026-09-01T09:02:29.281547+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 73,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 67,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "53d512ae9871",
+   "title": "Unacademy\u2019s $3.44 billion valuation to $200 million acquisition by upGrad: Gaurav Munjal reflects on journey",
+   "url": "https://www.livemint.com/companies/news/unacademys-3-44-billion-valuation-to-200-million-acquisition-by-upgrad-gaurav-munjal-reflects-on-journey-11788243091634.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-01T08:58:03+00:00",
+   "score": 74,
+   "category": "acquisition",
+   "company": "Unacademy\u2019s",
+   "amount": "$3.44 billion",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Gaurav Munjal",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "acquisition in headline",
+    "$3.44 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "836d09f6b0dc",
    "title": "XStep Raises Funding From Titan Capital To Expand Neurorehabilitation Platform",

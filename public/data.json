@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-01T12:39:11.722775+00:00",
+ "generated_at": "2026-09-01T12:51:11.620472+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 78,
-  "fresh": 6,
-  "alerted": 2
+  "fetched": 71,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "07cbf9f6d25a",
+   "title": "Dot & Key unveils upgraded moisturiser formulation with new campaign",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWdpbHIxSnRJT1RTcXU1enFZdlI0MzYzWnJiV1V0OHJtejlfZWt4OHNSbXc1RmF4Rm5LSXExM1ZSOWVscXg5Z2dwWmk3SXZISGI4X3FNRmtxbG9yR2JRcWR6VkxiWV9Kb1NGd3pzZjBVN05ybVExeVVqVnBjcGthVUpBRTMyR1FNdENxTUxveHAtM1cxMnZVVXYxU1NGQjdpOXliWERpZG1iZ1AzcmtEVEVOUzRBMEYzNFVvV080TQ?oc=5",
+   "source": "IMPACT Magazine",
+   "published": "2026-09-01T12:41:38+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Dot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "a40380f01d79",
    "title": "Meta to limit the reach of undisclosed AI-generated profiles on Instagram",
@@ -365,6 +382,23 @@
    "reasons": [
     "no clear event",
     "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "941713f01942",
+   "title": "Alteon",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NWVpSMXV0d253YjF0aUdZZDhMTGZVZTMwOHd2aTlhYkVXZ2FVYUFsTjFDUlBNcWVXNWlVdmVvRlhjT1EwZ1Jv?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-01T11:18:06+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Alteon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -3978,41 +4012,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "55304cff926d",
-   "title": "siliconindia Startup Funding Report: CleanTech, EV, AI, DeepTech and Logistics",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDdvTmFiWHpIN1pPUVFWc0poWEpHd2NxMWw1MUZqVGhCaGpZNHE1V3Azd1pIMGM3TEZUN0kxdU9lSWRvcUQzLV9nY1QyczVhZkhtd1JBSFlRdHZDbkRQYlNmRWY3VThBdHBCdGRmMDFkSk1kRXFXcTdULXRMVmRsZ1JIMnNtUFlkb1JRX0VoRTk2VW11VVBqc0pNZjIzdGZSMFhhUXR4RWJGYTFkODFtYm9lNVNOdkVvZl9nYVBhRGtTWW9hYnlOWkRHZm55ZVMwMDhlS3VRM2JXSms?oc=5",
-   "source": "Siliconindia",
-   "published": "2026-08-31T10:04:16+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a91af3839b68",
-   "title": "Exclusive: Wedding services startup Meragi set to raise fresh funds at flat valuation",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUExvd0JBOUFsWmI1eDN4dlNGSlcwaEh4enYxdGFkQjZwOGo4Nlpza0dKN0kzM3VzaHRzWDJaVHlpd3pCNHR1M2VNM1puemlpa3E2Wk90YUFiTFBuTkJjbVFIak91QlNQaklENWxPTkZ5cEZma3pCTzhoMzdDMm1BdDVaRmItb2JFNWs3cmJrRlFXY3JEZXU4ZlFJNFJheDZ2aG1FVWNNbm45TkJVMk1FX0xnZXFZWV84NE5USUZfRks2d9IBwgFBVV95cUxNUExvd0JBOUFsWmI1eDN4dlNGSlcwaEh4enYxdGFkQjZwOGo4Nlpza0dKN0kzM3VzaHRzWDJaVHlpd3pCNHR1M2VNM1puemlpa3E2Wk90YUFiTFBuTkJjbVFIak91QlNQaklENWxPTkZ5cEZma3pCTzhoMzdDMm1BdDVaRmItb2JFNWs3cmJrRlFXY3JEZXU4ZlFJNFJheDZ2aG1FVWNNbm45TkJVMk1FX0xnZXFZWV84NE5USUZfRks2dw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-31T09:57:27+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Wedding",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e71459eb3759",

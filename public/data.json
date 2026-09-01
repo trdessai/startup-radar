@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-01T01:06:53.877102+00:00",
+ "generated_at": "2026-09-01T01:18:51.153627+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
+  "fetched": 15,
   "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "7e245ff44cf0",
+   "title": "Indian Startup Alteon Raises $2.5 Million to Develop Wind Powered Autonomous Aircraft",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN1Q1TDRJb1VJRThxaEMzWEc0UnRvRXpjdk5fVXhZZENWM0Z3NUp6ZUwwVjZVSGF1SDNkbUFsS2FxRk5nc1dMMFpQc05tVVZhcFBWMWVlaUlzaFdreHJwR19NaXExOC1KUUVB?oc=5",
+   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+   "published": "2026-09-01T01:16:45+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Alteon",
+   "amount": "$2.5 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2.5 Million"
+   ],
+   "alerted": true
+  },
   {
    "id": "ab16cdc2fba8",
    "title": "Kepler raises $8 mn to build swarm satellites for military surveillance",
@@ -4142,24 +4160,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b74e25bb8572",
-   "title": "iPhone 18 Pro Max launching on September 9: Expected price in India, design changes, camera upgrades,...",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPb3ZNZy00c0tZaVZNOXBVYkpKMzBwVGNDcFd3U3JZMWpnWlo2SnZuUk44VFdSWWtvSTR0TTBYVlBlLUl6V1NaR1o5eTNjRXhPNWExWXhCanVMS2w0N1d4Q3d4VnFnSXNDWnlQMlNCbWMzR0dCQmFvZUVhemhoOTU1TXpEM1FmVm11RFJzMG1sc2NEcnBTejBIbERTMkgxaFN0ODRqRzdrcVpVb0JNcWVSWFFZWEdFdDhCN3lrRHRxV3Rtd1Utd1NveV9wVXVKbURTbEk4NlRSdzZ1aWd1TnV5eWpoMElTT1A0YzVEcXF3UEJxcjZkMS1QMGtxQ3VTa1MwNGJXRUdpdWxGRlVsVmtRQWFSTll2Q1VlLWh6X3BqUDZhME1oLVRn0gGsAkFVX3lxTE9qQnV5U1Z3dWw1U3JycnJXS2J4M1ZJUDdPTDgyVEhFNkxEcW44TGNZNVcxRnJJaUhmQWk2QnR4LXlBZ3ZQOFpWUDhRaTRvajJNUjgtLUpHZ25fR1NDaWNhWjhNU0xodWFjVmlSdldQTnNsWjVNN2FFZEhLZFBoR0NDR0xXWE1MYUhWZE5XWVdENkc2ZDk3V2NGYmNHcHpodzhTUzdHLTVzX09KMzZOMXM1OXp6T0d6ZTdzSnQwNU9DWUJrSkk4eF9HVE1DR3RhNFpiVVplOVVvRzYwZk1vUmZFZ1ZXMG1FTUdIZnNvanNFcDRFLWtoTUpUZnl6aUtKYnpDcGxCZ1ljeWw0MjhPbWx4VXY5RVZ4MGpxTl9BWEpJTzlTMkJyNXpxYks5eA?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-08-30T04:38:20+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
    ],
    "alerted": false
   },

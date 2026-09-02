@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T07:29:44.215320+00:00",
+ "generated_at": "2026-09-02T07:39:53.828270+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 31,
+  "fetched": 34,
   "fresh": 3,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "fa73e881381c",
+   "title": "Sonos launches AI OS alongside new soundbar and headphones, brings Sonos Play to India",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYnl5cmFpbVRWaWtBLWNkaHBkTDBYaDJvQlhkdVFYUF9CLUg0UF9ZX3A4dVFNSXhEcEFZV3RlbTU4eVFDbHNGbTdqaGRwY1R1cjR5MnFtN1luYjV2LUQ3S3VOV05nVlFQNm9VMVM5OWc4ZmdydTlfSzR5SWs1cnlHOVJON3ROT0VQenpvZVNUZ1lhOU9pM2JXcFdDY21QYk4ySDNvQjdwemdHZ2YyNVE3ZTYwcHlRZEZvUFg0OW9GaHUwRklhdFFGa3VWNmx1eUpRU0Z6VVpfQ0MtSmFLWGVJOHRGZDVLbjTSAewBQVVfeXFMUG5pMl9KZy00aERjU0FEN0cwckhSc0dLSUdMUjBfSWthd1VwSVN5V3VWMWgyWWhremxVLXJOTWdJRnpVYU53T2pQTGt3NjFHdzZRT19oSXJOdS1RNHh0RkE2T2FFc2hZRXB5VGpTeGtBZ0R6YXVtSkFHOWRMVGpDbm9OYnJ5V0JQVE1tMmlBRDdZekZmU2YxdDgwNFAzejJ3TWc4aFlHcm1rNl9rTjY3a2pjd0VQTXBjYkFHbng1dDhubExidElaaWJPOXdQbmxHTHFnTDFCaGdLYjdVQXRuWTUxdzBUaXlXM0gxWFU?oc=5",
+   "source": "India Today",
+   "published": "2026-09-02T07:21:27+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Sonos",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "14bf3271d7f9",
    "title": "Byju Raveendran Offers Aakash Shares To Settle Qatar Holding\u2019s $235 Mn Claim",
@@ -110,6 +127,25 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "4c0db612bd97",
+   "title": "Funding|Financial News|Funding news |Latest Funding News India|Angel Funds for India",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53b0pSOFhCazB5WTFveE50QnlmWWlteEtENmpJb0c0N20tLTRLZEFKakNybDlDRmdTb3N5Z3pMZEt2Zm1GRlk1ejhoelVsRFlVQW84U015MGJKS3Y4UHc?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T06:10:32+00:00",
+   "score": 52,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Angel",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "94b621982e5d",
@@ -232,6 +268,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "828b77979513",
+   "title": "Alteon\u2019s Wind-Powered Drone Aims to Transform Surveillance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGZicHd6MVBXS0Z3SmxSam85TmU5WFFOMF95dWFvbkNJSXNXa2gzYWdQMnIwOXF0b0Zha3RzOERBTjJRQU5qcFVhaTZxTi10Uy1DYUZpamc2M1BrZjB4OFdaOUNPTmxqb2tLLWRuQVRqVTZ6X3pyZTV6RU80Vkdfd2h6bGlEbzJiOGVvUHFNOA?oc=5",
+   "source": "thetraveler.org",
+   "published": "2026-09-02T04:51:33+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Alteon\u2019s Wind-Powered Drone Aims",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "1ad2b35315fc",
@@ -4216,41 +4269,6 @@
    "alerted": false
   },
   {
-   "id": "84f0edbec162",
-   "title": "Dheeraj Reddy \u2013 Founder, Fae (Faebikes.com) | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOXV5bTIzR2tMR3ZteTZtR1BXTlhzR3FDV2lYTGlZRm9JbkZCRGtnUjMyUnhIeWRNcUVNTkhVM3YxVHAtVzVvSFdxS1VLMHBQRVRvdGlFU3k4azQwci1yUXFjVjJYMWdSMld1ZlRfYmZ1bWRsOVRUNkpQVmJJZUJNNERMbzk5ZDBXbE8yVk8ySlRRY0dFRGRpUERGNTdZYzBxeUZjVzZsZGdud1dSRTNaOW1nNGk3TVlQU1REUHk3S2FnMHUwMVEwdXlac2wxUnYwaDhoSE5rbFp2VWRUY3IxZENTYzcyMzhlTGZIaVN0Zw?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T16:43:51+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dheeraj Reddy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8f78fc2061dc",
-   "title": "Subhash Chandra's \u20b96.25-crore repayment plan hits hurdle; NCLT forms 5-member bench to decide insolvency case",
-   "url": "https://www.livemint.com/companies/people/subhash-chandras-rs-6-25-crore-repayment-plan-hits-hurdle-nclt-forms-5-member-bench-to-decide-insolvency-case-11788193406722.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T16:37:15+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Subhash Chandra's",
-   "amount": "\u20b922,006.57 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b922,006.57 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "21dae4b1a105",
    "title": "Blaze.tech Secures $8.5 Mn Pre-Seed Funding to Accelerate AI-Powered Healthcare App Development",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmtQOUViaVVxNzNGTUY1b2xoSXBQWG0xUGRSSkZCNm54ZkotYjlWOWo1dTNBQndZM053WVN3NzNXZ1Fha202VHdvc3Y1dlhjcS1zbTNDRW1xSWJvZ3VpZVZndklEMGhFcWhSQ1oyaUQ1ZmtIQUNuVGxXVmNXUnBIckRSOWllNnpJTkRZdzkzem1JNjdlQ3hJbVNKeGtnRmdjSUw0OVNpbzZuc1Y4WlF3cHg5d3lVd21KeFVtMEM3dWRuU2ZPQkdv?oc=5",
@@ -4268,23 +4286,6 @@
     "Pre-Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "689f942915fc",
-   "title": "E2W Registrations Contract By Over 16% In August; Ola Electric\u2019s Market Share Improves",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEhnSUJ5OUsxam12dTdQSXVRZ25XYnM2SVhNYzgtME15cjlkRDhpUDQ3MThQWHc1aU94WjNiQkE4cXNtRmJncDVleXgxTHQ2TUZncm5sMFExSGVGZk56STZDUFdTMjN5WFhNejlWLXZMOXhUVEhuanhTc1drTllXOGMyOEJDUGgwWnJ0cFpQSXJsVGEzcXJ4RTFxOHh4dVJ5cXJvR0ZlMW8tS2M?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T15:55:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "E2W Registrations Contract By Over",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3d060205df8d",

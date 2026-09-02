@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-02T04:35:29.502777+00:00",
+ "generated_at": "2026-09-02T04:45:43.487341+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
+  "fetched": 18,
   "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a82489206a26",
+   "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
+   "url": "https://economictimes.indiatimes.com/tech/technology/palo-alto-networks-beats-quarterly-earnings-estimates-acquires-ai-platform-console/articleshow/133698016.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T04:39:11+00:00",
+   "score": 28,
+   "category": "acquisition",
+   "company": "Palo Alto Networks",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "markets story"
+   ],
+   "alerted": false
+  },
   {
    "id": "3ccfb0f39e88",
    "title": "Exclusive: Mokobara set to raise Rs 91 Cr in Series C round at 2.8X valuation premium",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T06:02:23.192721+00:00",
+ "generated_at": "2026-09-02T06:29:25.871741+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 26,
@@ -7,6 +7,23 @@
   "alerted": 0
  },
  "items": [
+  {
+   "id": "f35b5b06df71",
+   "title": "ED raids 12 places across four states in Cyprus-based betting platform Parimatch probe",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ed-raids-12-places-across-four-states-in-cyprus-based-betting-platform-parimatch/articleshow/133699886.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T06:01:31+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "ED",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6679cbe553e6",
    "title": "The Ad Break Comes To AI",
@@ -7051,41 +7068,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "872906d1497a",
-   "title": "SpaceX plans $100 billion Starship launch hub in Louisiana",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2RBZXhHY0NpamRxTjBENjJpRm9QLVE0cE96QUs1c2pMT2lpZ1JqYlY4d3l3bld6VTFBQUJOZ2JOX2t3ZXpqVG01X0VOa3Y0REtJN1lKZnBsMjdzUTFhMWJfZ01BMDJEV3pvR2dBYm1KMUJFWHhuMmdhbkpwalFRUEtjSXhkbEE5cWkxT1FOckRzajMxX1p6XzZ5ZXhvUmNuR2g5TTZrWE1UMTR6UEcxOU9zdmYxaHhh0gG4AUFVX3lxTE1DZEFleEdjQ2lqZHFOMEQ2MmlGb1AtUTRwT3pBSzVzakxPaWlnUmpiVjh3eXduV3pVMUFBQk5nYk5fa3dlempUbTVfRU5rdjRES0k3WUpmcGwyN3NRMWExYl9nTUEwMkRXem9HZ0FibUoxQkVYeG4yZ2FuSnBqUVFQS2NJeGRsQTlxaTFPUU5yRHNqMzFfWnpfNnlleG9SY25HaDlNNmtYTVQxNHpQRzE5T3N2ZjFoeGE?oc=5",
-   "source": "Firstpost",
-   "published": "2026-08-26T06:26:01+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "SpaceX",
-   "amount": "$100 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$100 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0787ccab19ee",
-   "title": "Nitro Launches AI Platform To Let Shopify Merchants Build Apps With Prompts",
-   "url": "https://inc42.com/buzz/nitro-launches-ai-platform-to-let-shopify-merchants-build-apps-with-prompts/",
-   "source": "Inc42",
-   "published": "2026-08-26T06:25:06+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "Nitro",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

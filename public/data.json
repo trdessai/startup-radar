@@ -1,12 +1,99 @@
 {
- "generated_at": "2026-09-02T02:08:53.403092+00:00",
+ "generated_at": "2026-09-02T02:35:02.212492+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 7,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "6566e0206958",
+   "title": "Audit firms rewire to meet bot book-keepers, data deluge",
+   "url": "https://www.livemint.com/companies/audit-firms-ca-hiring-ai-data-tech-scientists-forensic-rotation-client-mandate-auditors-cyber-experts-11788251668643.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-02T02:30:37+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Audit",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dd8cf4abcc55",
+   "title": "Edtech\u2019s Big Consolidation, ESDS\u2019 Bumper IPO & More",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5acWU3dENCUXNodDJNYWMtQ1VYMlR6VnlFZ2R3QXFxUzlka25LemJ3cXUwQ1NDSTFxRnlNNmNIR3JxSGZZVWlQVWNVYTc4OFlkRGY2QUREUUx0akQwQjE3Ui15TDFsT1E3TFlrYlZkOEtjXzZWMWtHRUZ3?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T02:30:09+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Edtech\u2019s Big Consolidation ESDS Bumper",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "108a0102d2ed",
+   "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones/articleshow/133695518.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:20:30+00:00",
+   "score": 55,
+   "category": "expansion",
+   "company": "John Ternus",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cb329f1dbe7d",
+   "title": "UP unveils Startup Policy, sets up \u20b91,000cr fund, \u20b9400cr corpus; MedTech makes the cut",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3cyb3RUNEgtbERYSHBBYUZ4SkpQSWNtREEzSXl4M2E5QWQwcjdHM2FqRUV4bDRvT3dTaTluWVhqUUY3SnNFTVdCM1ZCa3NfNURldksxcktEWUxsc3hUM1V4NFNodUlIVlc5SkZFSDN4dmlMX1RLTEhpVDIxUXZSUG9iR1NjQlVnWXp2R0Z4YkhqRHk0SnVweC13ZndPRU1yeExtclJMQkk4djdacFRmNDUyMmxQcjRYdDlqRElGeUNEZ3R0?oc=5",
+   "source": "Medical Buyer",
+   "published": "2026-09-02T02:17:15+00:00",
+   "score": 86,
+   "category": "launch",
+   "company": "UP",
+   "amount": "\u20b91,000 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b91,000 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "36d2e9232ce5",
+   "title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/not-just-nvidia-these-power-and-cooling-firms-are-riding-the-trillion-dollar-data-centre-boom/articleshow/133695423.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:12:31+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Not",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c4784fee0e0e",
    "title": "Geek Appeal: New Gadgets & Apps on the Block",
@@ -21,6 +108,41 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cdb6fe16c01a",
+   "title": "Restaurants step up food safety; UpGrad seals Unacademy deal",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/restaurants-step-up-food-safety-upgrad-seals-unacademy-deal/articleshow/133695195.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:02:52+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Restaurants",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "67b714e3ded2",
+   "title": "How the Unacademy-upGrad deal unfolded; Why AI could push India\u2019s ER&D revenue past $100B",
+   "url": "https://yourstory.com/2026/09/unacademy-upgrad-deal-ai-could-push-india-erd-revenue",
+   "source": "YourStory",
+   "published": "2026-09-02T02:00:00+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "How",
+   "amount": "$100 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$100 billion"
    ],
    "alerted": false
   },
@@ -3942,24 +4064,6 @@
    "alerted": false
   },
   {
-   "id": "9660017f9ea9",
-   "title": "As Tim Cook steps down, India stands at the heart of Apple\u2019s next chapter",
-   "url": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
-   "source": "YourStory",
-   "published": "2026-08-31T13:38:12+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "As Tim Cook",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2023e4e8628f",
    "title": "Gatik raises $200 million as autonomous trucking moves towards mass deployment",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZlliNGcxc0NwRnJnaXZLeUtPekl3OTJHUXRMTFZsbncyWXlnbzBOMEd2bHRQS1BGUjVjbURCaVN6RlA3c1dBbWRfMXNRYW9uRmhxT2Z6am9VM1lNUUx1SWx0UVVIVWpfZFp6alJ0OUxmRjdpaWNHX3N0TkRWWENTMm5IU3hYRDdPRWtKWGFqWXNiVGhvQTJNdlRTRTdsazZYNmJJdlpBWkQyM3pEOHpLckVfVHBQSXZhZTVjTnM2Ri14bzdCVjJ4T1liYS1FYnpXenJUYUIxOGdpVjAzYTVj0gHkAUFVX3lxTE5hVWJpV0x6V3lpSEswaHM0ODNYdDBEamlTODBkR0ZfNkdyLTVIWHY1UTY1MWltMVBhelBZcUZQdmdQV0pKeDNrdjdJWEpfdnhoY0VEVlVfTEs1SWZ4b2dnSTl5Z2o5SDYxbXk1V3poVHlPZW9tQklHRmtzQTNkYUJvZ2l2VDVsNjZkRHhLZnlCUlpIc2k3SlRvWHNuOVBoY05Md3dRam5KaS04UnJBcGR4dmk3a3kzTWlMdldYVnVuTWdBSUN2VlNNd3pqODRzNVpZVEpuSmo2eUE1YzRleEhYRS1LOQ?oc=5",
@@ -3976,74 +4080,6 @@
     "$200 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "5098cfa85f43",
-   "title": "Close to half the merchants not willing to pay MDR on UPI: Survey",
-   "url": "https://yourstory.com/2026/08/close-to-half-the-merchants-not-willing-to-pay-mdr-on-upi-survey",
-   "source": "YourStory",
-   "published": "2026-08-31T13:35:16+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Close",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "76a765691135",
-   "title": "From Patna\u2019s Settlements to Cancer Care and AI: The Story of Gautam Gauri",
-   "url": "https://yourstory.com/2026/08/story-gautam-gauri",
-   "source": "YourStory",
-   "published": "2026-08-31T13:33:22+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "From Patna\u2019s Settlements",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "97c433956548",
-   "title": "Zomato layoffs: Hyderabad employees to get August salary, 4 months\u2019 pay, medical insurance \u2014 Check details",
-   "url": "https://www.livemint.com/companies/news/zomato-layoffs-240-customer-service-job-cut-hyderabad-offer-employees-august-salary-4-month-pay-medical-insurance-laptop-11788177740322.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T13:23:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Zomato",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "70806cd320e7",
-   "title": "What India\u2019s BRICS chairship can actually do for child safety online",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejBHM1ZYb2NzNGFRc3MxX0JmX1lRcHhBekgyRVU4M3c1YkZITkhOX2VtN0JXa2dHZXF0bjZySXkxMjlIWHFpSjVPS2M1QVhBRnNFandEenlVWWlMZldndXhYWkc4WURXb0hRTjJ1VW83QTlFZWF6MmQ4WXF1d1FMb2NEU1Jqb28?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-31T13:18:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "What India\u2019s BRICS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5b130cb094c3",
@@ -7074,41 +7110,6 @@
    "founders": [],
    "reasons": [
     "acquisition"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f95559844e5e",
-   "title": "SpaceX to build $100 billion Starship rocket complex in Louisiana",
-   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-to-build-100-billion-starship-rocket-complex-in-louisiana/articleshow/133527636.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T02:22:20+00:00",
-   "score": 75,
-   "category": "launch",
-   "company": "SpaceX",
-   "amount": "$100 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "$100 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d7a1eabb4aab",
-   "title": "The AI founders who walked away from Bezos-backed Prometheus to model the universe",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe/articleshow/133527534.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T02:12:24+00:00",
-   "score": 57,
-   "category": "launch",
-   "company": "The AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

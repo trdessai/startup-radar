@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-02T12:51:17.448632+00:00",
+ "generated_at": "2026-09-02T13:01:57.384936+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 2,
+  "fetched": 59,
+  "fresh": 3,
   "alerted": 1
  },
  "items": [
@@ -320,6 +320,24 @@
    "alerted": true
   },
   {
+   "id": "08d89b797f16",
+   "title": "Retail India News: Milky Mist Profit Soars Past Rs 64 Cr in Q1",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM09WTl95ckh1elZZMTBoMmktNDkzT2E0WldfRVU5QmRrY3V5bjZEZXN5dmZnRWt2WGVYb2pZRWVqY203dzRwRldmRFRZc2RkcTUtdjBwQWprRVBvWDJtZmFTZEwzOTFrQWNWekdGd2E0QkhndTI4TEhselM1MkVfTG5rOG5tOHJ5d1F1ZTkyVnRlcTBNTXBRVEpR?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-02T11:17:58+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Retail India News: Milky Mist",
+   "amount": "Rs64 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs64 Cr"
+   ],
+   "alerted": false
+  },
+  {
    "id": "3fad04941b06",
    "title": "D2C Wellness Brand VAHDAM India Reports Strong Profit Growth in FY26",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDVtWVY2SVJkNkMzWGJWanAtYjBlMzUxVEVvWGJLMlp4U1lEUWxLeTFZTVJZaW9zck1XSDBoMEk5Tm9PWGVoLWZDdXpFQWpOcFZMd0Y5a2VUZm5hdU5FTWNDUnlFM05SR1RCVEFFaEo5T2dwYjlRWFFObDIydkRWeHd6bVFNY3AwRnV2dEZCWVJyZnpjeXpSd1MxMGpDS3dId3RF?oc=5",
@@ -420,6 +438,23 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "aae3b33c9705",
+   "title": "AM/NS India Secures 30-Year Captive Berth Concession at Paradip Port",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQby1zOTdLS3ZJUTNIUlphV1pUUVh3cHNqb0IxNV96N1RQQjROVzZCZ29RTWFIVDJwLVRIX1VsbDNkZEFHWXpWZTczTHlQYTNCbmFhQ2RpM0tPWGhkTU1UT1JlMEVLMlNmeUx1OWxaZWFXNkZsQmZmSkFjcFFvSkcwNHlycmRzaVFuak1palhlUDYtYWxtb2pxRVZXc1gtcy1BOUZzQV9PUWpSU29JR1FTRUxycnNIZkRwbUlQN0lINnZvV1JVWWNEUEEzdFBFcTB3RVNpRWJrR2RZaTRBX2ZLQTZlelM?oc=5",
+   "source": "Construction World",
+   "published": "2026-09-02T10:57:35+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "AM/NS India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -4036,40 +4071,6 @@
    "reasons": [
     "no clear event",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2dc59180d949",
-   "title": "Sony, Warner sue Anthropic over pirated lyrics in Claude",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU4yUGhzLXkwcHlYLXozbm5WRkdOLUJvSXB5UGNCaURLQlJpblFzRFM0UDNHajBEbW1QVFdKdjFZellDZllYVVFPd05xN2hvdWNsSWh3clplR2swdjZ2M01FNkpLbkdKZFQ4eERnZVFiMEE3eEEzbjJ5aWtzNTB0YkIwWQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T07:28:58+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Sony Warner",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9d77e53bdbb8",
-   "title": "Niyo to acquire Capital India Finance\u2019s RemitX forex business",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXlFU3lYdXZjN3RCU3VzOEdrMFdpcDlMUWVydzA0V3ktMHd2TGlRa2N3TWdvd3hqRldvV1Jxa3hzUmo0dl9EdENTZ1VKTkpfYVdnRmlyZHQzSTZSc2J1OXVYeU1WRThOSHhrWFdkNU9YdllxS0dRZjhrMW9reWRiWVdNekplT1JVbnJjeWlTdG9mNlpsUW1peFRvRUhkNWZf0gGgAUFVX3lxTE1leUVTeVh1dmM3dEJTdXM4R2swV2lwOUxRZXJ3MDRXeS0wd3ZMaVFrY3dNZ293eGpGV29XUnFreHNSajR2X0R0Q1NnVUpOSl9hV2dGaXJkdDNJNlJzYnU5dVh5TVZFOE5IeGtYV2Q1T1h2WXFLR1FmOGsxb2t5ZGJZV016SmVPUlVucmN5aVN0b2Y2WmxRbWl4VG9FSGQ1Zl8?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T07:21:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Niyo",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

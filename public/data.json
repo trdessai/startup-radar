@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-02T09:31:09.140592+00:00",
+ "generated_at": "2026-09-02T09:45:27.884178+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 44,
-  "fresh": 3,
+  "fetched": 47,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "1970922a017e",
+   "title": "Quick Commerce Supply Chain Startup DocPharma Nets $2 Mn For Expansion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnhUYVAxeHNxQ2dTYm9Va3l1ZDBiVnAxeTB3MlpldExWTDFNZGVtTHpGemlVNVdQaVpOLTZSUnRNUDhzOUstSlB0QnZ5OHhMa20wYlZmbmZGcjFpaE13VVQxWW02NENlNDhEMElpU0VFajJwT1lGOENENXlMRUEyRVJLeVJhd2d5VURaMkFoVmN3bjhRVXZRRw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T09:36:17+00:00",
+   "score": 63,
+   "category": "expansion",
+   "company": "Supply Chain Startup DocPharma Nets",
+   "amount": "$2 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "$2 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c320d853e487",
+   "title": "MediBuddy appoints former Swiggy, Flipkart executive Shalabh Shrivastava as Head of Operations",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmxCN2poaFAzN1c4NWhKeDVzTnBvUFFUVDB5OTBPTXg0bjQ1bjU1M015eW1ubTM2LXgxRWxoMHVWbnBpLVZmRU9EZ2pHTm8zZkw0Q0V3VEJQV0RvZWJtTXM1R2tuNFlkeWh5YUNHRkx2MFdWNlVVb0JqRDMwc1RJRlI0TlE1RG9RS1hpWG1DeDdRUVlQaFRUT2hwVkkwbGdlNDZad0VlVnMtekRCUnhDT2tkaGV0aTRpMWQxMGtENnV0ZjRMVzY0OVJ3dTfSAcwBQVVfeXFMUDZsQjdqaGhQMzdXODVoSng1c05wb1BRVFQweTkwT014NG40NW41NTNNeXltbm0zNi14MUVsaDB1Vm5waS1WZkVPRGdqR05vM2ZMNENFd1RCUFdEb2VibU1zNUdrbjRZZHloeWFDR0ZMdjBXVjZVVW9CakQzMHNUSUZSNE5RNURvUUtYaVhtQ3g3UVFZUGhUVE9ocFZJMGxnZTQ2WndFZVZzLXpEQlJ4Q09rZGhldGk0aTFkMTBrRDZ1dGY0TFc2NDlSd3U3?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-02T09:33:58+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "MediBuddy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "5ce8c95f62f7",
    "title": "Amazon India creates 1.6 lakh seasonal jobs ahead of festive season",
@@ -7053,42 +7089,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "50d89d1ef08a",
-   "title": "Swiss Beauty Select introduces 'Born To Bloom', a 3-in-1 blush + highlighter",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmlQay03ODVNYy1xeGNVRjJLR3JxeE1sSjBWMk5IWXM1eVdhd1cyZ3RGYWRVenctWVlXQW5ySUp6alJuQ1FUZjFqVVZSZlFrNFpCSzl0VHVkTjBORXV4MmItUHlVWUFOVXdEOGtpMm9YbDlhVHctaGFSVGE1NnVFdzh3aENidWVHSDJqRkI2ZXhwSDZFZGhEcGE4MlBCVFFV?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-26T09:44:16+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Swiss Beauty Select",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ea880fd2cb2a",
-   "title": "D2C kitchenware startup Curaa raises Rs 40 crore led by 3one4 Capital",
-   "url": "https://economictimes.indiatimes.com/tech/funding/d2c-kitchenware-startup-curaa-raises-rs-40-crore-led-by-3one4-capital/articleshow/133536337.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T09:34:41+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs40 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs40 crore",
-    "no company named"
    ],
    "alerted": true
   }

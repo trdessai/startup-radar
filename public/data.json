@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-02T11:19:04.320039+00:00",
+ "generated_at": "2026-09-02T11:29:38.013938+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
+  "fetched": 56,
   "fresh": 6,
-  "alerted": 3
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "19be3acb3791",
+   "title": "Dropbox says about 5,000 accounts compromised in August hack",
+   "url": "https://economictimes.indiatimes.com/tech/technology/dropbox-says-about-5000-accounts-compromised-in-august-hack/articleshow/133708729.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T11:23:16+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Dropbox",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ec8a7c7b1af",
+   "title": "New Beauty Launches 2026: Skincare, Haircare and Makeup Products to Know",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWpuQ1FXRHZWSm45dFhfR3FsRzFfRDJCeDRuLWUwZy1KRndGLTB5UVBuOVptelNmZzNaa01vbTBwdFlCbFcteHllamxWX29rVDNMREFNaUNreEk5eVpzNU85M283SzBOTE5sSE0taGFYaVc4QUg4c1hYUUhFeTFheVlFbmNEUTY0cnpFV1paM2ttenMwWXJ6VWwwbHJCRGVJd29LeS1Oc2xldFJIeVJNUVZYcXVLVXczTktGalJ2UQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-02T11:18:43+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Beauty",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3fad04941b06",
+   "title": "D2C Wellness Brand VAHDAM India Reports Strong Profit Growth in FY26",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDVtWVY2SVJkNkMzWGJWanAtYjBlMzUxVEVvWGJLMlp4U1lEUWxLeTFZTVJZaW9zck1XSDBoMEk5Tm9PWGVoLWZDdXpFQWpOcFZMd0Y5a2VUZm5hdU5FTWNDUnlFM05SR1RCVEFFaEo5T2dwYjlRWFFObDIydkRWeHd6bVFNY3AwRnV2dEZCWVJyZnpjeXpSd1MxMGpDS3dId3RF?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-02T11:15:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Wellness Brand VAHDAM India Reports",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "dec42ea6c580",
    "title": "Flipkart enters microdrama space with short form content on app",
@@ -21,6 +72,23 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "57438855191e",
+   "title": "APAAR consent form: court-ordered opt-out and privacy gaps",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nd18wRGkwM0ZFTFdhNXU0M2RoX0hLUG04MzVaTWs4ZDlyd1RaZ0R4eU1vZjhIdzVCbUkxV0l4WnJBRFVWUzhSVGdNcS03ZGFpSTl4TW1sQVNldEZMam5fZHF3WE5MQ0tWbmFsQjhZTkpIVDNZN0E?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T11:10:31+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "APAAR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -108,6 +176,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bdc223277533",
+   "title": "CCPA fines Dial4Trade Rs 10 lakh over ammonium nitrate listings, rejects Section 79 defence",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkk4NEV2UC1JbllycmtpWDZWTVFKRGpHbEhmcEhVME10dGZRZGF1NWQ5MU95dGtPVEpRQmltMkhubGphb2FPRlVKZDdBME81WVFKNUQ3T0VGWHVHSzNkSUlQUjVrVWdXTDJjWlJhcXZ3R2xZQzBxRXItU0NJUUY5eEt4WWpKQQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T10:53:07+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "CCPA",
+   "amount": "Rs10 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs10 lakh"
    ],
    "alerted": false
   },
@@ -4021,57 +4107,6 @@
    "alerted": false
   },
   {
-   "id": "c13bc522dc58",
-   "title": "Indian Gaming Startup ARC Partners with Qualcomm for \u2018Arc X1\u2019 Handheld Console",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uN0hYRHFudFRLcjVtbHBSN0lWVTVjZnhNRGRlR1hVQnMteURrQ1hZWC1QNFp1S2tWeHhqaFJWcVNiTi02NEI1ODVCTERrSndoQXdycWI3RWJxZzI1cEUtWGt1NXNqNGduWWQ0VnB2aEF1UQ?oc=5",
-   "source": "Gadget Pilipinas",
-   "published": "2026-09-01T05:55:01+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Gaming Startup ARC Partners",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1c774683419d",
-   "title": "Ashwini Vaishnaw highlights 20-year vision for India\u2019s semicon industry",
-   "url": "https://yourstory.com/2026/09/ashwini-vaishnaw-highlights-20-year-vision-for-indias-semicon-industry",
-   "source": "YourStory",
-   "published": "2026-09-01T05:36:02+00:00",
-   "score": 49,
-   "category": "expansion",
-   "company": "Ashwini Vaishnaw",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "618abadab785",
-   "title": "The Festive Delivery Squeeze",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UaGtoT0x1NmJta1Bwc2xfLWZqWTBzcHFLQ2hudy1ZaERKcjc2T01BWG1ma0V2Wl9KT0VLSlc0aXR6RFZXZGFydjI5dElFMExDZ0F5alJtWDRRSHFuR0c1bUdMRXRhXzA?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T05:30:15+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "The Festive Delivery Squeeze",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d930c44c31bd",
    "title": "AI-focused logistics startup Shipsy launches 'Shipsy Brain' to power AI agents",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGduQWxRTFAxdXZ6ckRmOEtyeW83Y2l4bXFIY3k3ZDByR1JNaWNMS1I0cVI1cEpzQndCNWJUbGRWcEZPZmloSDgxdkFUbFFiZFZhaHB4SFA0ZFJfdFRZTlBYa04wVDlJMlQ3Y0tMMTQ2SEgzdWdxS044NWY2eTVIMHQtNDJTNnlPdGZmMXkxbUh3SllKV3pqU1JkOVZWdkdYMFZtSTd4V1RUMGV3ZzBDZlhBYnpNczQ2eTM3eTR1bkVITHlhUWxvMGpvNWEzQ1gySklvR0hJS3dlME0tb2fSAeMBQVVfeXFMTnBVWkdqc0ZsQ1ZrU1JuNDc2LVRmbnNyTEVzelBtNTVHU051RVN6SDJjcEU0ZXRIU2F2WU1tSjF3VkVtTEdGNkdBVnU4SGRkSGYyYlAyQ2Uxelg4cVVPQ2k1TWp1eGlQaTRheTBFLWdFRExZY2dxOEtMQ00zVlVhUGNhVDZ4RVdhXzJOQ29La2Y3WmFWUWc4ZHRFdndPWlhyd3l0M1lMZUVIaTdVQVppZVIyaUJmU21iOGxXZGxBOUdNOVhrbDQxblVFWVFPVmYzNnhJaHpmbnZ2OUxJOVBPakItMXc?oc=5",
@@ -7055,42 +7090,6 @@
    "reasons": [
     "funding in headline",
     "$5.5 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6b37ed1dd554",
-   "title": "Zoomcar expands into bike rentals as Q1 loss widens to $5.4 million",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85ckZuTEJrLXFPbS1sNHRoS0JsNTlSU1VBXzcycGhSNVE3UzJRREl0Vl9hWHdPLTk4bnhTdzJEdXRTdTZSYUpTNFF3dkhQck1Sd3RkZWh3VElhRWdMZC1iZzBacEgzM3dqZE9lQU4yT1QxVS1TY0tRcV9MLS0?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-26T11:28:04+00:00",
-   "score": 62,
-   "category": "expansion",
-   "company": "Zoomcar",
-   "amount": "$5.4 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "$5.4 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "043055418754",
-   "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-minimax-sees-revenue-nearly-quadruple-in-first-half-as-ai-demand-surges/articleshow/133539148.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T11:20:57+00:00",
-   "score": 75,
-   "category": "launch",
-   "company": "China's MiniMax",
-   "amount": "$116.6 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "$116.6 million"
    ],
    "alerted": true
   }

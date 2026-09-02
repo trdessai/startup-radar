@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-02T07:19:07.548163+00:00",
+ "generated_at": "2026-09-02T07:29:44.215320+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
+  "fetched": 31,
   "fresh": 3,
   "alerted": 0
  },
@@ -22,6 +22,40 @@
    "reasons": [
     "no clear event",
     "$235 Mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a13f5476963b",
+   "title": "US calls for hands-off AI regulation at G20 tech meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WR3dGdHB5OUVTMF9tWVVWZEFlU3FlYWg0VWQ0bERkb0NRLXJDYXVMX2lmMnRWRl91Nk9vMlU0bGJhQ21hQUNxOU0tRnZVT1N5aUdpYnl5RmhZQUxrQmVtTkpMcUdxZTdhdzRreGdUMmZ4WHlLOWdMT2gzWGw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T07:15:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ee56c18ebfbe",
+   "title": "Exclusive: Hitachi Payment Services quietly surrenders payment aggregator licence",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkIwYWN5bXA2Ty1QV0ZiNVRQZ1BwU3pHaWNiUlNKcEc2ZVZJbE1yam1ORUFJc01BUTlpNTFjejRGRlduZ1puaDVhRnFJRmpnclF2TjJVVk9iMEJBNDZIb2t6a1AyUG1jbFN3MXkyRnZJOGM2SjFHaTdNaVA4WnUxMW56d2hnbFNrdjRRTUtn?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T06:58:02+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Hitachi Payment Services",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -76,6 +110,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "94b621982e5d",
+   "title": "VCCircle.com: Latest Indian Financial News, Investments, Corporate & Startup Deals, Exits",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiUDM1WnhuOGVETEtlb21DblFIVkl3V2phaWl1U05udWtrZ3dnbFQzVVZFNEdmS0xyc3d4ZHhNQnphT29xTlo5aTV1aWx0VWdLRC13UDhZNVIxQjdGaGtiVHJsbjJwdGhLOUxDNmln?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T06:08:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "VCCircle.com: Latest Indian Financial News",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "90429311a658",
@@ -4236,42 +4287,6 @@
    "alerted": false
   },
   {
-   "id": "0c9356fdac54",
-   "title": "No mention of Mukesh Ambani, focus on settling debt: What happened in Subhash Chandra's 18-min Instagram interaction",
-   "url": "https://www.livemint.com/companies/people/no-mention-of-mukesh-ambani-focus-on-settling-debt-what-happened-in-subhash-chandras-18-min-instagram-interaction-11788189699136.html",
-   "source": "Livemint Companies",
-   "published": "2026-08-31T15:47:28+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "No",
-   "amount": "\u20b9990 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "\u20b9990 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b3e4be474d0d",
-   "title": "Meta removes ads for fraud apps posing as porn after India sounds alarm",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-removes-ads-for-fraud-apps-posing-as-porn-after-india-sounds-alarm/articleshow/133657269.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T15:40:09+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "3d060205df8d",
    "title": "Meta defeats Instagram shopping monopoly lawsuit for now",
    "url": "https://economictimes.indiatimes.com/tech/technology/meta-defeats-instagram-shopping-monopoly-lawsuit-for-now/articleshow/133657047.cms",
@@ -7085,26 +7100,6 @@
    ],
    "reasons": [
     "product"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d3709b770145",
-   "title": "AI agent platform Ringg raises $10 million in Series A extension led by Peak XV Partners",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGFXcmJWeTFTb1hqMUxkZ3ZZa084WVBMdzVYQkNnb0dZU0wxUEZuX2huUDBsRTkyc0VReEJEdUdKN2pBejh1Wl80RG03TXoxaFJ6RGl6M3d0V21FcGhYOEV2bGRFTFJTQjQtRzFuQlEyMG5lZGNyQWgzUzc0NkZwbVY5M05tdXppTjJESGdyaEZGTWo3d3AyZXFzNXUwZm5LTmVlNU5tMGRJYlBjZmtNeE9GYnhodFVHdE9BTERRbHgta0pxeFV3ZXhfdm9NMEnSAc8BQVVfeXFMUEhhV3JiVnkxU29YajFMZGd2WWtPOFlQTHc1WEJDZ29HWVNMMVBGbl9oblAwbEU5MnNFUXhCRHVHSjdqQXo4dVpfNERtN016MWhSekRpejN3dFdtRXBoWDhFdmxkRUxSU0I0LUcxbkJRMjBuZWRjckFoM1M3NDZGcG1WOTNObXV6aU4yREhncmhGRk1qN3dwMmVxczV1MGZuS05lZTVObTBkSWJQY2ZrTXhPRmJ4aHRVR3RPQUxEUWx4LWtKcXhVd2V4X3ZvTTBJ?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-26T07:25:36+00:00",
-   "score": 77,
-   "category": "funding",
-   "company": "",
-   "amount": "$10 million",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 million",
-    "Series A",
-    "no company named"
    ],
    "alerted": true
   }

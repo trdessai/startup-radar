@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-02T07:54:27.740153+00:00",
+ "generated_at": "2026-09-02T08:02:07.025766+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 35,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 40,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "944f5aeb47cf",
+   "title": "Aeron Systems Raises \u20b945 Cr To Scale Navigation, Weather-Monitoring Systems",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcDRoeDFGOU40dTZOUmd6al9pbEQ3cWxnX0Rhd0RKVHM3blIzM01tM1V5MzVuZHBtdzYyaWZlVG5NdU9mc01PWVR5eWw5cXZnaUdLMVMxTS1UOUpjeVhtS3ZCa0ZjNndGMl9JeVIwWlo4eDB6a3QyTkw2SzVLYWRpeng3Y0lHekNfcVRGSnJ0bll2NXN3ZzJYU19FdWxuQlJlazNJSXl2NkZMZw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T07:54:30+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Aeron Systems",
+   "amount": "\u20b945 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b945 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "62566011d491",
+   "title": "DataAgent Raises $10M to Make Infrastructure Fix Itself",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjR1R1cDZmQ2h2QnBjNTM3S1dta3V4a1AtSmM5N0JqbHVPd3V0b3ZOYmN0VGJDZUtDRWV0WUNrQXYyTjFNaHVNMUloaXlyYjhWcWs5UGdLRVg?oc=5",
+   "source": "israeldefense.co.il",
+   "published": "2026-09-02T07:49:59+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "DataAgent",
+   "amount": "$10 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "326f20491efe",
    "title": "Online bank account opening for first-time earners: What to check before you apply",
@@ -16,6 +52,23 @@
    "score": 27,
    "category": "other",
    "company": "Online",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cdf6fe32fae7",
+   "title": "FTC, 22 US States Sue Amazon Over Alleged \u2018Hidden\u2019 Ad Surcharges",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYlRBajJVT05PSmVwRzE1bUZYUmZmYm5KaDF4V0ZVQWtZVnNyVS1vRHlFSHNFSUZYMGZudDFCZ012NFgtMmRsVFo3cFExSnRmZFFYaGNDTlZWMDFQb0hEbk05QlhDUWlpbm5rZjRBVENNS3pKM2hHNnRB?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T07:42:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "FTC",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -155,6 +208,23 @@
    "score": 23,
    "category": "other",
    "company": "Eyora Bets",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "54ea9081a53b",
+   "title": "Grapevine: HSBC, Nuvama, Victura, Byju's, Peak XV, others in news",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHBSVW5DOWx2Y3Jra19Remd6QVFISnlmdUozZWdpSEc4dzJyWFFfcDZmcS1tR003NGwtU3FBY0FtcnpJdTlNX1E1ZVhrUlZ3TXJ0Yy1vUVFCX0cxOXBxYlFvY3ZPeDdnNVVNbVVDOVoxX3MwdnV3UzBLcDIzOHFiYTBDd1RqRWJXSkQ4?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T06:43:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Grapevine: HSBC Nuvama Victura Byju's",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4211,23 +4281,6 @@
    "alerted": true
   },
   {
-   "id": "f92074f90b96",
-   "title": "Financing India\u2019s Space Future",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HX0lRN3FPVXhuTWpRWklpUFFMdDZfNmlnZlpRTkx4SlBmbFVYNG1tYmdvazN4QVBFS2ljZ3VrNzJCY3ZRT3V4MGZmMjRaTnAwTzVxWERuVXcwdk9aY3ctQ2FoRUs4a0M2RGdiYVBwXzhkUlNYelo2U2kyMVJJSVXSAYQBQVVfeXFMTkJYejJNRzdaRmxwODNnZldBUXdTRzlPQUtEZDN0NkQwZWs3MGpEbU9CaWtpUElWSFF2bFRkQUVtSWs3czNSTlppYkhLWUxKeE52bXhvYTJHdmpCZzFqWnVZci1vNHBmeHBSNExqVXJpM1pLY1l2YTlROFRBeFhPTlR2a29a?oc=5",
-   "source": "MillenniumPost",
-   "published": "2026-08-31T18:05:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Financing India\u2019s Space Future",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9398cd8d5ceb",
    "title": "ITC sets stage for its third listed firm, larger IT play with Happiest Minds merger",
    "url": "https://www.livemint.com/companies/itc-infotech-it-play-happiest-minds-merger-ai-ma-11788191908345.html",
@@ -7046,23 +7099,6 @@
    "reasons": [
     "expansion in headline",
     "\u20b927,308 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4e7d2808ba8d",
-   "title": "Homegrown IndieSemiC Launches Wi-Fi Module for IP Cameras and CCTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2J6Q3YyUFVEMXNpeWpFM3ZsVzJKUXhkRmRHbGVWcE9lY0JjemdYdWhSMnUzQVpoMHozQmdCS09FSVZnN3BnU3hMV0FkcTdlTmhyVDBlbjZmRlZWOFdDMDg3MVloV1R6RHNUZC1jVmNfVjZHMms5RTNtakJ3eVBJNHBHZHZyeFk4dWpkbEpnXzVGSTZqN1dXV1lUVFBRWmU3UUJGN045SHAwOGxtblJvNUxyQl8wUQ?oc=5",
-   "source": "Electronics For You BUSINESS",
-   "published": "2026-08-26T07:54:54+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "IndieSemiC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

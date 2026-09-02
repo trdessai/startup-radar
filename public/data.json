@@ -1,12 +1,72 @@
 {
- "generated_at": "2026-09-02T09:53:04.599026+00:00",
+ "generated_at": "2026-09-02T10:02:12.093756+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 46,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 48,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "1c838495338f",
+   "title": "Pine Labs appoints Razorpay SVP Jayaram Karthik as chief operations officer",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHhnemlFVG9fWkNwSzhtZUN6VlhNTEhTNm1UazZDNkFXVWw1aHUyckd0NXBKQWo0STA5RVdXS3VhVm1JMU5wZzNrT0Z5alpQN1RIekNlS1RRYzduWDNkdldENWFCR2gwdUJ4MFQxVlhFX29lbU1IZnNhSmJhaEQyUlVfdm5KcEZEMDNXSEtrX3NVQlNxNGNLQXJhUG9TN2hYTXRHbXZTbmxBTVZtQUdTXzlWXzbSAbQBQVVfeXFMTXR4Z3ppRVRvX1pDcEs4bWVDelZYTUxIUzZtVGs2QzZBV1VsNWh1MnJHdDVwSkFqNEkwOUVXV0t1YVZtSTFOcGcza09GeWpaUDdUSHpDZUtUUWM3blgzZHZXRDVhQkdoMHVCeDBUMVZYRV9vZW1NSGZzYUpiYWhEMlJVX3ZuSnBGRDAzV0hLa19zVUJTcTRjS0FyYVBvUzdoWE10R212U25sQU1WbUFHU185Vl82?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-02T09:56:59+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Pine Labs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "911f42872678",
+   "title": "{Funding Alert} Comet Set to Raise Rs 98.75 Cr in Series B Round Led by Verlinvest",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0pJdUoxalhIQUhrS3VMaVBhUV8zSFlmWHY2MHFXT0JweXFXOFFEN2JQSnRWbVNjRXVKcXBtclVVNG92SWNlUmN1OWM5aUZzbnBvN092UDF4WC1PVmwxbVJWQUVKT1hlTHJJVUtQZGM2elp1UjMxQ3RCTWNiT3JtTThiZ2JUNl9IVEw2a2RPN1lKeElpUl9CaS0wRTYxY0diWWNZa2VNRzRyZw?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-02T09:56:15+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs98.75 Cr",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs98.75 Cr",
+    "Series B",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c32d741200ff",
+   "title": "How Hexalog is helping MSMEs simplify cross-border logistics and scale globally",
+   "url": "https://yourstory.com/2026/09/-hexalog-msmes-cross-border-logistics-scale",
+   "source": "YourStory",
+   "published": "2026-09-02T09:53:16+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "How Hexalog",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Dibyanshu Tripathi",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "1970922a017e",
    "title": "Quick Commerce Supply Chain Startup DocPharma Nets $2 Mn For Expansion",
@@ -75,6 +135,25 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "570a382d04b4",
+   "title": "Alteon Raised USD2.5M in Pre-Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RkNTl6eEVYclBXWmJDdVBoTmVGYzE4cjZhVlZjbnJQLVhJZnlLZGpqUGRBOU9ncjNJUHNzMUQ4Y2VXWHdlaHBCM3ZLOURZS2Z5dU1aUkxWZTBqU0daSnZobHkyZmxiMXZlQTliRnRiYTFIU21CWk8zTEJvYkZ2U3FWZjg?oc=5",
+   "source": "FinSMEs",
+   "published": "2026-09-02T09:02:27+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Alteon",
+   "amount": "USD2.5 M",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "USD2.5 M",
+    "Pre-Seed"
    ],
    "alerted": true
   },
@@ -4147,75 +4226,6 @@
     "$4 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "3516289c1799",
-   "title": "Welcome to India\u2019s Startup Graveyard: Here, Even the Good Founders Get Buried",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODVJcmpjQmNVRlEyY2E3RFVnYzV6Z3lZZU1EbDVQcGVLZjAxeHM2ZHJ5VDNSSHlBdmxPWG85NFV3Tnp0MHZrYVZYejFWd2VWa0VXQW1hME1QSWxjczNFSTY4ZW43WkNlSWoweTdWYXA4U1BydEcwbThXY3hKZjBfNy14c2NVTHpXMk83YUZYM3FnT3g5ZDQtZ21uaHZka2o0dGdOdUJDQ2JEdFZsRm1yMA?oc=5",
-   "source": "Open Magazine",
-   "published": "2026-09-01T02:30:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Welcome",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "af2ebaf96697",
-   "title": "Anthropic resumes external cyber tests after Claude AI hacks",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks/articleshow/133666188.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T02:24:40+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6eb7406f6be5",
-   "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda/articleshow/133666163.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T02:22:50+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "$35 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$35 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0732ef88f04b",
-   "title": "Apple alleges OpenAI employee accessed circuit plans after joining startup",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup/articleshow/133666149.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T02:21:33+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "8f60bc1320b2",

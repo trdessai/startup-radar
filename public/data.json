@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-02T07:47:48.799220+00:00",
+ "generated_at": "2026-09-02T07:54:27.740153+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 35,
-  "fresh": 3,
-  "alerted": 2
+  "fresh": 0,
+  "alerted": 0
  },
  "items": [
   {
@@ -7063,45 +7063,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7c754e8b6157",
-   "title": "Instagram head Adam Mosseri, at children's addiction trial, says few teenagers knew of safety feature",
-   "url": "https://economictimes.indiatimes.com/tech/technology/instagram-head-adam-mosseri-at-childrens-addiction-trial-says-few-teenagers-knew-of-safety-feature/articleshow/133534074.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T07:52:30+00:00",
-   "score": 62,
-   "category": "launch",
-   "company": "Instagram",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ba8421f3f6ad",
-   "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bill-gates-alarmed-by-ai-has-policy-ideas-he-wants-to-discuss-with-chinas-xi-jinping/articleshow/133533998.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T07:48:58+00:00",
-   "score": 57,
-   "category": "product",
-   "company": "Bill Gates",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "The Microsoft",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "product"
    ],
    "alerted": true
   }

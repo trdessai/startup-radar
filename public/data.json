@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-02T16:21:03.724215+00:00",
+ "generated_at": "2026-09-02T16:36:00.411455+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
+  "fetched": 48,
   "fresh": 3,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "4623677bc40d",
+   "title": "Flipkart launches microdrama on main app to drive platform engagement",
+   "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-launches-microdrama-on-main-app-to-drive-platform-engagement/articleshow/133715779.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T16:27:41+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Flipkart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0fc822b2915e",
+   "title": "SoftBank to offload 1.5% stake in Meesho via block deal",
+   "url": "https://www.livemint.com/companies/softbank-to-offload-stake-in-meesho-block-deal-e-commerce-india-ecommerce-nse-11788363509176.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-02T16:25:58+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "$151 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$151 million"
+   ],
+   "alerted": false
+  },
   {
    "id": "08f1fb702002",
    "title": "LIC\u2019s SAIL holding slips below 5% after insurer offloads 8.26 crore shares",
@@ -221,6 +257,23 @@
     "funding in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "0a62e6eb53d8",
+   "title": "Alteon plans aircraft that can stay airborne for months without fuel",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcktITUUxZDJEd1VJd01yX01zblFLd1BZek4wNHVsT1V5S2c1RWpmVUZXZlBsYVNQWmd5QUVHME5XYmRhVVliQVozRDA0QzB3OTF2djVHYW5NeGpSckpRbkxhVlhSam02NHd5Tm55OTZQTHdSOG16WEFYZ2NqQnVrTUpVRlMxclJQbF9qS3BXQTlUMkQ1VTN6cEJQYlpqNF9HTlBteDY1OVlMN21OQ1VGU0hnYXNMTkJBcXpXVkRaMWYyQ25wU2wzNVdNaF9NaG1xUzRpUzhZNk1NV09I0gHcAUFVX3lxTE1yS0hNRTFkMkR3VUl3TXJfTXNuUUt3UFl6TjA0dWxPVXlLZzVFamZVRldmUGxhU1BaZ3lBRUcwTldiZGFVWWJBWjNEMDRDMHc5MXZ2NUdhbk14alJySlFuTGFWWFJqbTY0d3lObnk5NlBMd1I4bXpYQVhnY2pCdWtNSlVGUzFyUlBsX2pLcFdBOVQyRDVVM3pwQlBiWmo0X0dOUG14NjU5WUw3bU5DVUZTSGdhc0xOQkFxeldWRFoxZjJDbnBTbDM1V01oX01obXFTNGlTOFk2TU1XT0g?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-02T14:17:50+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Alteon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "df76bba66676",
@@ -3879,24 +3932,6 @@
    "alerted": false
   },
   {
-   "id": "7c357c252c59",
-   "title": "Eureka Forbes: CCPA flags 5,008 complaints about service lapses, deceptive claims; fines company \u20b95 lakh",
-   "url": "https://www.livemint.com/companies/news/eureka-forbes-ccpa-penalty-5008-consumer-complaints-11788253824900.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T10:48:41+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Eureka Forbes: CCPA",
-   "amount": "\u20b95 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b95 lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "fe79fbf1a1c8",
    "title": "{Funding Alert} Footwear Brand Clog London Secures Seed Investment from VG Angels",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzhrNjRLYUhuR1FyV1pDdFhEeDdvMGVoMnNyUmZhd1MxM2d2bHFJU1BNZUxrMWtXa2VRTUZMT1VGbWVXTmx0TWVQb1U4MlR0UmlVMkF3WFdtT2Fad1ZUcHpCdDI4b3ZxSjdINGpLSS1kN1BBdk43UDIxM25Xci1TajFzVkFlV2tzc1NFQ0xHX1Z0WHNob003SFVCS1ZOdFJudkxKMDZsdkJ6SVFoN293?oc=5",
@@ -3931,41 +3966,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "f8a0c4e03190",
-   "title": "Bengaluru employees are working late nights and Sundays, and money isn't the reason",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSERXcVdOTTdUcFNfR0czRncxY0JkclBnWFF5NVV6RXA3cnQwTnlkZWxQNVFYbjdQcDVGX2djUEx3bk5aSEV4ZnBlTXZSc181b1VFZ2lFUWwyemlBajl0c3A5OHR4NTZ0aE4yMmhhTmpGRm5jQ0FPNHJrLURaa1V3UV9nd0JFTGU5UktPZnlhbWF6Z1pBMDNKS1dHd1VxaFpIN3hwYzhPS0RndWpwRU4zNVlBZXZ4MDgyT0ladnUtTndvTGxOS2xFU3NxUldtcGFYN01IUXJoTkhqd9IB3wFBVV95cUxPZmpQR3oxQjdfMGlCeGNpM0lDTHBNZnJjN2l3V2psUGhwWGNLTGlnMVlYYjBBMTVtU0tzdFBsMGk5dEtibk5RczVnSmtRZzcwNmFXdzFaekFBd0JtTFpEbGkwS3NhaVc4UVVoYk90ak9hck10ek5RSmFwVTB2OVJ4QlVVbFdqTkVSQlNoQ2FJMGI2b2phWl9WMXNMRnF5Ymdzc2Vjc1lkRVVNOF8wRHBmWFprakZPb0M4NFhIak9RX1pOYW5UMEF0Y0ROZTRCZ19Fc3BBWkc4WkZPWlg5Q2g0?oc=5",
-   "source": "India Today",
-   "published": "2026-09-01T10:37:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Bengaluru",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bb913c93e49a",
-   "title": "Exclusive: Qualcomm Ventures to lead $60 Mn round for Ultrahuman",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWFENU9XbjBzakdGcUJlOUs3Z3VqRjZfX3ZnODNxZkt3b3ZEb2FFMXV4WDdFQ0h2LVI2VF8tS3ZTZUhwYWd4Q09wbVh3WUdQRThDcUViTnhoSHlXeFdYc1lCYnA2ZW5uOFJoeVBtdWtTSzRTQWlnQ0hQdUdkbXliWTBHckxsX1JjNlZ0Q3J1QU9hRW1LTXg3T2xJUGx3d2hMaS1fMtIBpAFBVV95cUxOUWFENU9XbjBzakdGcUJlOUs3Z3VqRjZfX3ZnODNxZkt3b3ZEb2FFMXV4WDdFQ0h2LVI2VF8tS3ZTZUhwYWd4Q09wbVh3WUdQRThDcUViTnhoSHlXeFdYc1lCYnA2ZW5uOFJoeVBtdWtTSzRTQWlnQ0hQdUdkbXliWTBHckxsX1JjNlZ0Q3J1QU9hRW1LTXg3T2xJUGx3d2hMaS1fMg?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T10:32:46+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Qualcomm Ventures",
-   "amount": "$60 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$60 Mn"
-   ],
-   "alerted": false
   },
   {
    "id": "df1975561384",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T08:46:06.069765+00:00",
+ "generated_at": "2026-09-02T08:54:09.164702+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 41,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e175e6da31c7",
+   "title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-plans-kaohsiung-site-expansion-to-boost-semiconductor-testing-efficiency/articleshow/133704171.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T08:38:08+00:00",
+   "score": 55,
+   "category": "expansion",
+   "company": "TSMC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "f9a6c845fec9",
    "title": "Dell again lifts annual forecasts as AI demand powers record results",
@@ -59,6 +76,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "c2f0a949b7fc",
+   "title": "OpenAI links Epic patient records to ChatGPT under HIPAA",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1dRLTJmOWthSGtqcWJhSlplM1UwakhmQURZcVd0cDh2bVFSY2xRcG1CbjNWMEJ4bGZzMXlHdlhyZVJySHZ5dnVYOHpmbW5JR2FCb2xNUUE4bEE3RFJ3TzYwUDM0YWp6MW9LQngwdUJwX256UG82OU1yNkFjQzFhdlBmdGxIUHc4WUtTdFpDM2Y?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T08:17:46+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "49b48ce90f6e",
@@ -334,6 +368,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "869b40db78d3",
+   "title": "Yotta targets Jan-March 2027 IPO, seeks up to $1.5 bn amid AI boom",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkhZZ3JXMDVXT0lQZ0xiX05zUEtGQjVPM3NiNGVLb0ZEcFZwNHFTb1RZSk1XNENDQUs4MkhFREIzME9aMzZYdHhpcUtfNkZiVmZBYXR0ZUM1cmdQYnNCS2I2cVRTRE02bHFYRmRRT3A2VlMtTkNfOTVpUHBuZzAxNGtKMlZDcXVwaFVVV0cwd0UtUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T06:48:36+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Yotta",
+   "amount": "$1.5 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.5 bn"
    ],
    "alerted": false
   },
@@ -4131,23 +4183,6 @@
    "alerted": false
   },
   {
-   "id": "a9ba14032089",
-   "title": "Zepto\u2019s Retention Play: Fewer Discounts, Premium Carts & A Paid Club",
-   "url": "https://inc42.com/features/zeptos-retention-play-fewer-discounts-premium-carts-a-paid-club/",
-   "source": "Inc42",
-   "published": "2026-09-01T01:30:27+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Zepto\u2019s Retention Play: Fewer Discounts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7e245ff44cf0",
    "title": "Indian Startup Alteon Raises $2.5 Million to Develop Wind Powered Autonomous Aircraft",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN1Q1TDRJb1VJRThxaEMzWEc0UnRvRXpjdk5fVXhZZENWM0Z3NUp6ZUwwVjZVSGF1SDNkbUFsS2FxRk5nc1dMMFpQc05tVVZhcFBWMWVlaUlzaFdreHJwR19NaXExOC1KUUVB?oc=5",
@@ -7055,24 +7090,6 @@
     "funding in headline",
     "10 M",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5165f631a600",
-   "title": "Scooby\u2019s Club raises $250K to add 2 Bengaluru dog-care hubs built around temperament-tested groups",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWFTVzM0ZGloUUZqTjdLd1V4Ukp4cDhxbEpVeU9LaEFnM1dUNUZtOXg1ZmtYanpiNU5scF82c0Q2LUxHNU41b3A3aDk3SEUtUlFkX1hKN1o3TW9yYWM4aHYtX3E2RHlCLWxJeFpubDhsNjFWd2JaaDNyak5GaVpVMlkyX2ZjdUtuRk5TeWNPWk1SVzNjUlVybV9uRHhIejdLWENMVw?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-08-26T08:53:07+00:00",
-   "score": 66,
-   "category": "funding",
-   "company": "Scooby\u2019s Club",
-   "amount": "$250 K",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$250 K"
    ],
    "alerted": true
   }

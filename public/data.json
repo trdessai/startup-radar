@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-02T15:50:26.604553+00:00",
+ "generated_at": "2026-09-02T16:01:44.242074+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 0,
+  "fetched": 46,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "08f1fb702002",
+   "title": "LIC\u2019s SAIL holding slips below 5% after insurer offloads 8.26 crore shares",
+   "url": "https://www.livemint.com/companies/lics-sail-holding-slips-below-5-per-cent-after-insurer-offloads-8-26-crore-shares-11788363706040.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-02T15:57:27+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "LIC\u2019s SAIL",
+   "amount": "8.26 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "8.26 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "c471d11b2fd8",
    "title": "Pernia\u2019s Pop-Up Shop IPO Subscribed 37% On Final Bidding Day",
@@ -3965,23 +3983,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "025ccbf63604",
-   "title": "LEGO Opens Large-Format Store at Phoenix Marketcity Bengaluru",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzhRQnBhNlhIRTFCS014cVlLMGNwTVhGLTMxYS0wM3NWb18xUHVTSmJDcklFRlp3bkhQd2NCU2RRMHZHTUFrTFFTU2VVTVRwOTRaQ2RsNzlaTlZGdmcxRFVNbFdhcDBOWlZnZGcxWGs4VnpJUWVWOFpkX3RoTFJIbGdvUnlGLTZuQ0tsZ3RwbDB0cE9KZXZxd29n?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-01T09:43:11+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "LEGO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "f06890ac0714",

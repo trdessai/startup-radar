@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T13:55:06.293663+00:00",
+ "generated_at": "2026-09-02T14:02:00.135833+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
+  "fetched": 58,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "30063db2cd48",
+   "title": "Uber cuts 3,300 jobs; Inside Happiest Minds-ITC Infotech merger",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/uber-cuts-3300-jobs-inside-happiest-minds-itc-infotech-merger/articleshow/133711742.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T13:42:19+00:00",
+   "score": 63,
+   "category": "acquisition",
+   "company": "Uber",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "ae39f4ef77cc",
    "title": "India's ecommerce market to hit $345B by 2030: report",
@@ -159,6 +176,23 @@
    "score": 25,
    "category": "other",
    "company": "IPO-bound Simple Energy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d7e1270d3974",
+   "title": "KKR doubles down on Indian infrastructure portfolio firm",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRldqMHU0NFFoZkFLMUhxbkNuSGVfRHltQnZ3amgzZXg2dlJWT1I2VF9YME5TenhGcHMxZHpOeEdDd0FjeFNqX21JUE43LXM0MUNfdTNGMS05RDJpeENaTjNyUEdzUjZvbFFNNDlTczFOLVJzM2g4R3RZQ01KZ3F4OFZyeGZKb1hrUnlQM0JzQQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T12:31:24+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "KKR",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -4071,24 +4105,6 @@
    "alerted": true
   },
   {
-   "id": "3e54befb468e",
-   "title": "Unacademy closes UpGrad deal at $200 Mn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbV80T2h1Yy1mWUI3UDFITmRPdE11UkJfZzdwekNiU1dNN3R6UDFtSlNOLTNadHRzSGFEWHBBWFpDUHc1VFFEcUJpV29RdWZGNUZ6blktcVdSb2gzYjI1RllwODFRNVZaZUNkMnlOZ1dCUGhkQVA1dU1YZkdFZ9IBfkFVX3lxTE1xbV80T2h1Yy1mWUI3UDFITmRPdE11UkJfZzdwekNiU1dNN3R6UDFtSlNOLTNadHRzSGFEWHBBWFpDUHc1VFFEcUJpV29RdWZGNUZ6blktcVdSb2gzYjI1RllwODFRNVZaZUNkMnlOZ1dCUGhkQVA1dU1YZkdFZw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T08:13:46+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Unacademy",
-   "amount": "$200 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$200 Mn"
-   ],
-   "alerted": false
-  },
-  {
    "id": "6ce108d28ce9",
    "title": "Oppex AI Raises Rs 4.2 Cr Pre-Seed Round From Info Edge Ventures",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkdueFhHUmtLVWNsVzV6anVwOUR3d0E2SG0wQm1HQnRXLWpPckFTLVZpVkxSWENmdjM3U293Rnd1YzJnYXFRU3ZWYkw0WjEzTmNBOWRzeUVGZE9kejdOeC1MZzFHZmY2dnFGbEEtWTBqM1lNajE4aXlIYUtweWVJV2JhM1RDNk9yYVhSaGFaYjNBdVA3LUtJck5Jc2VZOHlldVEwMHVGZVM?oc=5",
@@ -4180,23 +4196,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "708e5ed68522",
-   "title": "On consent and ownership: from a closed-door discussion",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXFCS2Q4Z0xueVZWVHVtaTgtT0dVUDVpU05jbEFDUVZNMUxrbUFaTWt2MWwyV1pkSEd5bU0taEh3Zm5VRW9DU21LcFY3QUdyeXlEUkV1eUV6M01UZXRxRGRDVU5qdUdVS2VIUG9lRXRncWxoWU5kTVpUaGtYRG9GdU9DTUJiMDlW?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T07:36:10+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "On",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "8f329ca3ec26",

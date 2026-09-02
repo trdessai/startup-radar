@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-02T10:20:24.942725+00:00",
+ "generated_at": "2026-09-02T10:34:53.099613+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 49,
-  "fresh": 3,
-  "alerted": 2
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8009389e4cc8",
+   "title": "Inside 88-Year-Old Jagdish Farshan\u2019s \u20b943.5 Cr Bet On Quick Commerce",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVJ6bFZQNGcwMEUxZzF1Y20zYzVzazNSVllqSEphOHExU2RKTzFwRFJkNjU1Z0NTbEpZOWMxVVFuUTI3Nk5iN2Z0UENBODNHb1gwV0NaeFl3SmFPanFBSldPSmVtYzM2THYweFJxV3BfWmlraE9GRjQwRnVaOEphT3FDakZSaFhmUU41eEVhYnNGVFY2aDlKWkd2c09NODA?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T10:27:38+00:00",
+   "score": 37,
+   "category": "other",
+   "company": "Inside",
+   "amount": "\u20b943.5 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b943.5 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "502bdf16a889",
+   "title": "Salaries rise for tech professionals with AI skills, but dip or stagnate for those in traditional IT roles: Study",
+   "url": "https://yourstory.com/2026/09/salaries-rise-for-ai-skills-dip-stagnate-for-traditional-it-roles-foundit-study",
+   "source": "YourStory",
+   "published": "2026-09-02T10:26:28+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Salaries",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "86140c3d6d7f",
+   "title": "How Cashfree Payments is helping India\u2019s next wave of SMBs build and scale",
+   "url": "https://yourstory.com/2026/09/cashfree-payments-helping-indias-next-wave-smbs-build-scale",
+   "source": "YourStory",
+   "published": "2026-09-02T10:23:34+00:00",
+   "score": 49,
+   "category": "expansion",
+   "company": "How Cashfree Payments",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ad9839aa7dc",
+   "title": "Syrma SGS Announces New Facility With Elemaster Group in Bengaluru",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUZLc2hhcHhhd2dyeUFQMzRTRTRQRFNvV2trRk9tNWtnRk5aeGpTUk5Ed3loc1VYcERTUndQLXI1MGxaMzhsWjRYTVROa0ZFUzJZM0k2RzhkTFVkZDVvaXdENXM3RWZDZ1Zwc3N5dUtOZllTaEY1c1lsNkF0WlFFSHU5ajlQdUZoTHZpZ2N0Y01wTlNpWHI3S015Z2NEYVhCRWJqa1pucDVUa1g3eGV1Zm1FdEcyZw?oc=5",
+   "source": "Electronics For You BUSINESS",
+   "published": "2026-09-02T10:17:32+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Syrma SGS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "8b212f832925",
    "title": "Payoneer India Cross-Border Excellence Awards 2026 unveils jury panel",
@@ -23,6 +92,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "2f7a00a54440",
+   "title": "Retail India News: Ben Sherman Opens New Store in Thane",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWURtdXNadlBDNGRuOU0wcHBWQlJNaV9ITHFpbGpEdUpCRWcyZl9jV3NrUkp1eFBRYnp5Rk1LOEtLazZpYjZWVDVDbkd0Q09ybTNrdlpyY2lkMWlCd2xHT2JrYmNuYl8tbmFMR2RjN2x2ZDlXcUVCWGt6UUZ5a3RtSjljTFhHUDV5TmpqTlJFM0Q?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-02T09:59:17+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Retail India News: Ben Sherman",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "1c838495338f",
@@ -4077,82 +4163,6 @@
    "alerted": false
   },
   {
-   "id": "53322e70e831",
-   "title": "Former Vivriti exec\u2019s Anahat set to roll out maiden private credit fund",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGlCNWRhUl96NTlVYXdCOTZlbWVTbk1EWURZblJSV3dNdnM1N1Vwa2Y0UmxVck5HQ203bTRuTHgtdlZpcUpFaUoyVWRpVmNNZFlkZkNHZ1piZzNZYzRBeFlwQmZvZHpZRXpsOTRMdnJmMENBeF9Xbm5xQ05JVF9SOURSY19pbDZpN0pZVldXVEFtYUJpSXl0RUE5cw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T04:17:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Former Vivriti",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "26e17ee8a559",
-   "title": "Fluid Ventures co-founder Amit Singal floats new angel fund",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE10OWl1WHU2X0pwUU42WnhiYndtYi1UcFd4VFc0SHoxemo4azdaWlR1VmJVeXhHUDlMRjNHX0VVQlprdENhYmxhd1R0LVpjTHVDenVRMUtHa0RUcjdyUE5Wc0p2Yk1KdWJLUWo0QWxEZmdSdFQ4bE5mdVBuS1RJZ25vam0wY09Sb3M0WA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T04:17:31+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Fluid Ventures",
-   "amount": "",
-   "stage": "Angel",
-   "founders": [
-    {
-     "name": "Amit Singal",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "Angel"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c11e8e629808",
-   "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-proposes-record-597-billion-2027-budget-to-supercharge-ai-investment/articleshow/133667004.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T03:22:56+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "South Korea",
-   "amount": "$597 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$597 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5bc0c836b224",
-   "title": "Australia's WiseTech Global appoints Jeff Howard as finance boss",
-   "url": "https://economictimes.indiatimes.com/tech/technology/australias-wisetech-global-appoints-jeff-howard-as-finance-boss/articleshow/133666732.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T03:04:15+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Australia's WiseTech Global",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0659bcc31bbf",
    "title": "EquityList launches AI-native cap table and compliance OS",
    "url": "https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform",
@@ -4169,23 +4179,6 @@
     "$20 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "846b91feaf77",
-   "title": "TVS retains EV two-wheeler lead in August as market declines 11%",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDd3ZDhOMnNpVmgwWmtfdW1SUXNjcms2VmgzaGVPNXBPMm5oYkxzOVBwWGRPRkdTVzZ4OGtoZUhJVS1nRnNSVGVlaVNJeHhobUZ2aTBVMzhoR1diWmhlaTV5d1dHejRJMnlhV1BqVk01bDlLNngtOHhkUXg5dGJpQ0hXZGJObURyeUlUQTdFUTdGMHlBR2IwWndxQmlOQk3SAZ8BQVVfeXFMUGg3d2Q4TjJzaVZoMFprX3VtUlFzY3JrNlZoM2hlTzVwTzJuaGJMczlQcFhkT0ZHU1c2eDhraGVISVUtZ0ZzUlRlZWlTSXh4aG1GdmkwVTM4aEdXYlpoZWk1eXdXR3o0STJ5YVdQalZNNWw5SzZ4LTh4ZFF4OXRiaUNIV2RiTm1EcnlJVEE3RVE3RjB5QUdiMFp3cUJpTkJN?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T02:49:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "TVS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "32ede57d53eb",

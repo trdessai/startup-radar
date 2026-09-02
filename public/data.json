@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-02T14:02:00.135833+00:00",
+ "generated_at": "2026-09-02T14:19:25.439611+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 68,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "df76bba66676",
+   "title": "Oppex AI Raises Approx. USD500K in Pre-Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1I3NDZDQzdmZkdic0g2X2REWm9vcVYxbVhuVi1XNk84YUpiSGpFbjh3cHlTSDgtbWpkR0VObFprcTJNVlN4Uk1panFHc0Z5dUFlVW1KNGpYSV9uUGdrN3o4RTBDR2dqdHAteWVmZ082ckxic0NlUDlYVXFmR0p4RXRfYmllSjJodDE1Qnh5Yko?oc=5",
+   "source": "FinSMEs",
+   "published": "2026-09-02T14:04:23+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Oppex AI",
+   "amount": "USD500 K",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "USD500 K",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d1b2d832a7d4",
+   "title": "AI startup Wonderful valued at $5 billion in latest funding round",
+   "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-wonderful-valued-at-5-billion-in-latest-funding-round/articleshow/133712688.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T13:57:05+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Wonderful",
+   "amount": "$5 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$5 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2d55e8a9edb5",
+   "title": "Two-wheeler EV maker Simple Energy eyes another fundraise",
+   "url": "https://yourstory.com/2026/09/two-wheeler-ev-maker-simple-energy-eyes-another-fundraise",
+   "source": "YourStory",
+   "published": "2026-09-02T13:55:33+00:00",
+   "score": 64,
+   "category": "launch",
+   "company": "Two-wheeler EV",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "30063db2cd48",
    "title": "Uber cuts 3,300 jobs; Inside Happiest Minds-ITC Infotech merger",
@@ -75,6 +129,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eed9480f0917",
+   "title": "India draws $136.38 bn in forex inflows, boosting reserves",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzViWDRXeVUwTzJYcHptYm5KTXhtclIzUnlvWUhvTVk4dnVfaHYxX1hXZVZ6U1RrV01oTlBweXdCdUlJWVl4TTFiMEdCcnhaQmtZc041VUd0MDZGMVlCRG1UVTVXa2h4cXMtRTdaUTNYQm9jUXJkbVJSdDQ0eFJCUTNkbE9KdFZmMjlEVEdlNA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T13:26:35+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "India",
+   "amount": "$136.38 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$136.38 bn"
    ],
    "alerted": false
   },
@@ -3994,78 +4066,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7bfb2848fffd",
-   "title": "Welspun One Logistics Park I",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc1lQMlE2N2RudURDc0VnVjU4N0hKcTVidDlwQktWbnhlS2lwcThQSU1UdGU0dzhDaWxJbGVvT0tQU2VGa2Z3c3ZXNTVCR01qRXFPdnhMVkhzay00V0xGSi1jNnNWbjdZ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T08:44:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Welspun One Logistics Park I",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3b5ebc69da66",
-   "title": "IPO-bound Parle Products appoints former PepsiCo executive George Kovoor as CEO",
-   "url": "https://www.livemint.com/companies/news/parle-products-ipo-george-kovoor-ceo-11788246496054.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T08:42:54+00:00",
-   "score": 1,
-   "category": "other",
-   "company": "IPO-bound Parle Products",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4babd30876ab",
-   "title": "AI Art Can Be Copyrighted in India, But Who Counts as the Author?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVDR2SXZwZGJRVm5nV3ZUM1V0eENyVjV0TXBHamNzc3VNMEI3ZjNNWnhiMl9yc0E0UkZmcWttVmN3NzNmX1ZiQVBtU0YwaWdiV0d2T3hFVWdXUENLNjZ2UDE5ZUlnN240VWlJYzVVTUxSRjlQd2RwUnhhT1JtSkk?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T08:36:06+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Art Can Be Copyrighted",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fb8e2f1bb9a5",
-   "title": "xStep",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zSi1rQTJNNDdqYkJkYnlUZExncHc5TjBGOFpJb2ZObklJLWpjZHVhenY1OWtmRG9XdV94cFpXaUR0ZWduMHEyVGd3?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T08:31:31+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
    ],
    "alerted": false
   },

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-02T13:46:41.410085+00:00",
+ "generated_at": "2026-09-02T13:55:06.293663+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
+  "fetched": 61,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
   {
@@ -21,6 +21,25 @@
    "founders": [],
    "reasons": [
     "expansion",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "239ca552d2c9",
+   "title": "[Update] Pernia\u2019s Pop-Up Shop Parent IPO Closes With 1.29X Oversubscription",
+   "url": "https://inc42.com/buzz/pernias-pop-up-shop-parent-ipo-subscribed-37-on-final-bidding-day/",
+   "source": "Inc42",
+   "published": "2026-09-02T13:41:09+00:00",
+   "score": 35,
+   "category": "other",
+   "company": "",
+   "amount": "\u20b9680 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9680 Cr",
     "no company named"
    ],
    "alerted": false
@@ -58,6 +77,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "abdc173a8307",
+   "title": "Ultrahuman raises $60 million to expand smart ring business",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MdWdsTWZNQV9TaVRLd1ZrdVprSjByV0dLa3d5aHl0cjRNUk8zSnlQMDg2NDJkeUJYU18xczdxZXhHZ3VIRlpUXzgzX2JnWGF4c3FTWk53WEpLQWVDaTgxLThZUXFDbWFUZHkxZkpoQzRVR3dFTDdZT2p2Yw?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-02T13:13:29+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Ultrahuman",
+   "amount": "$60 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$60 million"
+   ],
+   "alerted": true
   },
   {
    "id": "bfb5f87d1168",
@@ -4179,24 +4216,6 @@
    "alerted": true
   },
   {
-   "id": "3fb7a68cfb68",
-   "title": "BNP Paribas, SocGen pare lenskart holdings in Rs 2,700 Cr bulk deals",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEY1WmEtMDVIaUZGVWt5Yl9DMW1zdmxaX1FJZy1EdVgtUkJvdThGNWtSMXNEcldOUG16TDNlYjU5NHJVMDFVbFFfUjBmMm9lSUlvS2pqTmFDc055QzJKRnZ6WWVOSGhRNWtEWGZvU3hhMlkxSXBmN1pOZDNwdm5xQTJaMUhDTmJ3c3JvRXJ1cndndFRMODI3TFVuUU14enhGS25Z0gGjAUFVX3lxTFBkRjVaYS0wNUhpRkZVa3liX0MxbXN2bFpfUUlnLUR1WC1SQm91OEY1a1Ixc0RyV05QbXpMM2ViNTk0clUwMVVsUV9SMGYyb2VJSW9LampOYUNzTnlDMkpGdnpZZU5IaFE1a0RYZm9TeGEyWTFJcGY3Wk5kM3B2bnFBMloxSENOYndzcm9FcnVyd2d0VEw4MjdMVW5RTXh6eEZLblk?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T07:31:58+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "BNP Paribas SocGen",
-   "amount": "Rs2,700 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs2,700 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "25d3e8ad0c6d",
    "title": "Indian startup funding nears $1 Bn in August after July slowdown",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcy03TXhTN2Q3aGxsUzhEbl8wdEYwZVFaLWtLMW1sVERKcmRMYy12Y1NxUV9sNF82UFZJUEI0c0UxMThLM3pHUDRFbGJSTXlZMHRTZFNGV3VqYVJaMHNKV3NwN1FfZFpzR0diY0oyNm5NV2tWM29SS2g1bzlxMUJETGZMVzdvbTlmenBtU3ltUFNxOG5VYTNORTBoTE10RWJzQWfSAaIBQVVfeXFMTnMtN014UzdkN2hsbFM4RG5fMHRGMGVRWi1rSzFtbFRESnJkTGMtdmNTcVFfbDRfNlBWSVBCNHNFMTE4SzN6R1A0RWxiUk15WTB0U2RTRld1amFSWjBzSldzcDdRX2Rac0dHYmNKMjZuTVdrVjNvUktoNW85cTFCRExmTFc3b205ZnpwbVN5bVBTcThuVWEzTkUwaExNdEVic0Fn?oc=5",
@@ -7054,25 +7073,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1fbcd6f7b8c2",
-   "title": "AI data centre software startup Emerald AI raises $150 million at $1.05 billion valuation",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUcyWGFGRlBrZm9KRjY3VjRjajNkZ1cxd1dBOEpiVGM4Z1pudjJ2SVlyeGtnVWQ3NE1lR0ZTRHNVSjdqRTZpYjZBSnZ2MUlUX0NjZ2ZOSVFzNnJldjd0T0Rzd1RVdFRjMlZzYjZUQmU0bEMtOEZYbXpCd3I4aEhzaDlJeGhLV2VSNVkyZXJUU01mMUdXeVZQTHFSbzNyT2VQc2ZEU1Q0LUlpd2F6U3lzY1RxLWlrRmI1cHJESTY3aHAtQXk0c3UyRy1YU0M2d9IBzgFBVV95cUxQYUcyWGFGRlBrZm9KRjY3VjRjajNkZ1cxd1dBOEpiVGM4Z1pudjJ2SVlyeGtnVWQ3NE1lR0ZTRHNVSjdqRTZpYjZBSnZ2MUlUX0NjZ2ZOSVFzNnJldjd0T0Rzd1RVdFRjMlZzYjZUQmU0bEMtOEZYbXpCd3I4aEhzaDlJeGhLV2VSNVkyZXJUU01mMUdXeVZQTHFSbzNyT2VQc2ZEU1Q0LUlpd2F6U3lzY1RxLWlrRmI1cHJESTY3aHAtQXk0c3UyRy1YU0M2dw?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-26T13:48:28+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$1.05 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.05 billion",
-    "no company named"
    ],
    "alerted": true
   }

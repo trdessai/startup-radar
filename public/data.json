@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-02T06:56:02.867431+00:00",
+ "generated_at": "2026-09-02T07:03:48.527977+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 2,
+  "fetched": 29,
+  "fresh": 6,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "f1f06da481ff",
+   "title": "Why is Isro launching GISAT-1 EOS-05 satellite nearly 35,000 km above Earth?",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbldoU1lkQi1xcWtvSmJxU194X19mcTMxSmdnRWFBR2VDRzdINWZPSWVpdURFMzlDVFhRQnltczczU2d5aVNwSDE5OUh3d1B1M3REU0d3b3NoWU9jXzZFQjB2QlFRNDVpYlMwNUNKUnVWSUJhd1F6UUI3QlJTcTFidF9feGpVWnkxQnZkS0p0MDRpdEl6aXJOQjlLMHZBbVZmZU4yamlWR2hhQVlxUU9FMUFiSFBQcG9yMVdueXhpTlZBRi1OVzJFNS1BZHJWUkMwemowaDFIYVhpVlFxZ1lYbkVhOXI1VFlw0gHuAUFVX3lxTE9zeXFzaUpoWEtCd1JqMEZRQ1lnY3h1cjV5SWJYWE9iSndXcWZxT0JVNkppcHp0clFCWlZTS09velhWcnpJVXRsejcxWkpWSm9YMEpWWTVwSkZWd2JvS0ZOOTR0ODhxQ1VjUGk2eXRaa3YtZGxRMlo2X3RDaXYzSUw1QXpSMmRKM2FPNXI3aHVxb3FubC1mLWEtQ1d3MDNWLTJNazctYmlvNVk1OGFSM1B2M0xjc0haNzl3TjFPNmJXZXZKLThaNHA5aXdYc3lfdGp3TXcyUk1HNmx1UEstcV9ZRTB3Zi12MVFQZE5OQ1E?oc=5",
+   "source": "India Today",
+   "published": "2026-09-02T06:56:42+00:00",
+   "score": 56,
+   "category": "launch",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "question headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e4ebe90bee46",
    "title": "Eyora Bets on India\u2019s Growing Natural Diamond Solitaire Market",
@@ -109,6 +127,25 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "1ad2b35315fc",
+   "title": "Equentis leads $2 Mn pre Series A round in DocPharma",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2ZYZU1fVlg4SHJLNFZEU2liLUlTRVRDZGc5MmFYdjJ4bkVPYzltZnBXblphY19pdDBBWkFpRXFDRzhRcXl3Y2pveUlKTHZYcXR1UlJuX3NkWExma1YxbnRIMnphcGZNVmxEWHY2YjNHRkRyNWpmbkNlSDIxRnAzMEwwamNLME9YN3dKNGRjb1pxM1ZH0gGUAUFVX3lxTE83ZlhlTV9WWDhIcks0VkRTaWItSVNFVENkZzkyYVh2MnhuRU9jOW1mcFduWmFjX2l0MEFaQWlFcUNHOFFxeXdjam95SUpMdlhxdHVSUm5fc2RYTGZrVjFudEgyemFwZk1WbERYdjZiM0dGRHI1amZuQ2VIMjFGcDMwTDBqY0swT1g3d0o0ZGNvWnEzVkc?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-02T04:49:15+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Equentis",
+   "amount": "$2 Mn",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2 Mn",
+    "Series A"
+   ],
+   "alerted": false
   },
   {
    "id": "a5398747477a",

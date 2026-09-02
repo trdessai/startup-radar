@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T05:01:55.891984+00:00",
+ "generated_at": "2026-09-02T05:19:38.592067+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 22,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a5398747477a",
+   "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-fable-5-1-and-mythos-5-1-for-coding-and-knowledge-work/articleshow/133698083.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T04:42:59+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "a82489206a26",
    "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
@@ -7055,24 +7072,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eb92c1f1e23a",
-   "title": "Five things to know about Anthropic ahead of Wall Street debut",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-things-to-know-about-anthropic-ahead-of-wall-street-debut/articleshow/133530437.cms",
-   "source": "ET Tech",
-   "published": "2026-08-26T05:09:59+00:00",
-   "score": 83,
-   "category": "launch",
-   "company": "Five",
-   "amount": "$86.2 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$86.2 billion"
    ],
    "alerted": true
   }

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T01:54:47.822094+00:00",
+ "generated_at": "2026-09-02T02:08:53.403092+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
+  "fetched": 10,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "c4784fee0e0e",
+   "title": "Geek Appeal: New Gadgets & Apps on the Block",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXBqT3g4Q1pCYVB3My1VeEtFNF9YY1ZCMmdzZnd6bVpmU2Jrb0U4ODdnRnBDNU9jWFZ0dmZSemxVb1FPc1d6X2lJNld1N0E0UnBSSXRCT0N2WWxQRlZTOVUyTWlrZmRKS0FVNk83QUw3Ynd3TmJ6VEhjSXlzeW8zUmJ3?oc=5",
+   "source": "TheTechPanda",
+   "published": "2026-09-02T02:07:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Geek Appeal: New Gadgets",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "26d7b703a0c1",
    "title": "TVS Motor makes global picks for growth and leadership",
@@ -7087,23 +7104,6 @@
    "score": 57,
    "category": "launch",
    "company": "The AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4b4eb0c438ff",
-   "title": "Ten years of UPI: The infrastructure that quietly rewrote how India lives",
-   "url": "https://yourstory.com/2026/08/ten-years-upi-infrastructure-quietly-rewrote-how-india-lives",
-   "source": "YourStory",
-   "published": "2026-08-26T02:05:00+00:00",
-   "score": 59,
-   "category": "launch",
-   "company": "Ten",
    "amount": "",
    "stage": "",
    "founders": [],

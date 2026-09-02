@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-02T04:01:52.253335+00:00",
+ "generated_at": "2026-09-02T04:21:00.883439+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
+  "fetched": 23,
   "fresh": 1,
   "alerted": 0
  },
@@ -40,6 +40,23 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4b80c7906152",
+   "title": "What SIR and Electoral Rolls data reveals about you",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlNXQ3VpUHY2anVSbkRnQzVfUGhoS0xWS3A3SDlvZ2xGMGdodWFKS1pQNldwejVFVzBTdlN3Ymk2OGJWMVc2OFZTdXJSRUpIT3R6ZExjMWUtNlpQeFNlU0Z0bC1OVFJ5ckpqOXhCbmE1WmlBR3ZIRjhjMjhYV3ljQWVIdw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T03:46:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "What SIR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -7092,24 +7109,6 @@
    "reasons": [
     "funding in headline",
     "$10 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "58548f321a8b",
-   "title": "Indian Startup Ringg Raises $10 Million to Expand Voice AI Agents",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxZ194VEh6eFpUOXVKYjZFa1kxMGQ5UjZRLUVEZTYtQ3hKb21UVnJSMG1INmhwSEdLVVhCaWtqaVVRWVJ6Z0d6VVVkNmd0R1lRRVByc3lydlJiWVZsWnJzUFFOT0VmY0E3RFE?oc=5",
-   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-   "published": "2026-08-26T04:10:44+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Ringg",
-   "amount": "$10 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 Million"
    ],
    "alerted": true
   }

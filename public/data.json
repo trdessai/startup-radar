@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-02T02:57:19.629394+00:00",
+ "generated_at": "2026-09-02T03:05:39.582376+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 21,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c04c39718794",
+   "title": "Mark Zuckerberg, Elon Musk make plea at G20 for more AI data centers",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-elon-musk-make-plea-at-g20-for-more-ai-data-centers/articleshow/133696193.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T03:02:46+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Mark Zuckerberg Elon Musk",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "024c2e8b938c",
+   "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails/articleshow/133696056.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:55:04+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "23bd28a6a0c0",
+   "title": "South Korean finance minister nominee vows to advance AI projects",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-finance-minister-nominee-vows-to-advance-ai-projects/articleshow/133696016.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:51:41+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "South Korean",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4fd0f0cef096",
    "title": "Indian Startup Wants Planes to Fly for a Year",
@@ -23,6 +74,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "dbee09294868",
+   "title": "Perplexity CEO announces rollout of hybrid compute feature for Mac application",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/perplexity-ceo-announces-rollout-of-hybrid-compute-feature-for-mac-application/articleshow/133695683.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T02:37:40+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "Perplexity CEO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
   },
   {
    "id": "6566e0206958",
@@ -3959,58 +4027,6 @@
    "alerted": true
   },
   {
-   "id": "70874b7d078f",
-   "title": "Autopay - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZHcwRWhHeGFoalVfdVJ2YWhDMURySi1xTVgzaXE5Wko3LU1BRDJVZTV1ZjhNV0lDTmJJTENtWnhQZzJObGhTZHBBUEtXaFE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-08-31T15:25:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Autopay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4e9dac9b3d7b",
-   "title": "ISRO\u2019s \u2018Bahubali\u2019 draws L&T, Adani, JSW interest as private firms eye rocket technology",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamJIOWRJYlJLaE02dVJpaEwtOEdzSzN0d01RVi03dUc1TDIzSFk2OEgxbUpsTW5NZ192dTdrcDlZQTcyck5lWDdvQ2Q5NDZqY25qcFUtX3lDQndDSGp0d05NN18xTV80ZnM4SW9TQkF1QXZHbnhKRnNhbEtHOVp1R3d6N1FST3hTaXhHeEF1c2JvLXd4NExBTDJDQ29JbEk2MzdybHhmLXJYWEhBZF9TWFJ4d1Bjd05pMnBoeTkzSXJNWGMwVlE?oc=5",
-   "source": "Convergence Now",
-   "published": "2026-08-31T14:54:54+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "ISRO\u2019s Bahubali",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0fb9d7d8323e",
-   "title": "LEAP India Q1 Profit Jumps 30% YoY To \u20b925 Cr, Revenue Up 19%",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmw0eGp0eEZhMHEtYUxtOGFwWnlPSnhiOEo5dlJZLTlmeGdCTEF1QU1UTUJSSjB1cHh2ZEZIYlhWazMzRlVUejF5alhRNE41OC03V25DUUJ2enRkN3F3RFNoek56c3VucXlqTkk2Tnh4c2xpYjBmaFNHQlB0czA1ZlB0M042RnRWY2R3SXRTc01xTHc?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T14:48:05+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "LEAP India Q1 Profit Jumps",
-   "amount": "\u20b925 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b925 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c777888861c4",
    "title": "ITC Infotech to acquire 22.1% stake in Happiest Minds for Rs 1,330 crore; firms to merge",
    "url": "https://economictimes.indiatimes.com/tech/information-tech/itc-infotech-to-acquire-22-1-stake-in-happiest-minds-for-rs-1330-crore-firms-to-merge/articleshow/133655977.cms",
@@ -4045,23 +4061,6 @@
     "$1 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "fb702d1046e3",
-   "title": "The Big Reset On AI-Powered Indian Startups: MoneyControl Startup Conclave 2026 Is Here",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMGRGdWlTaWhaRTA0X3JKbG5NUEtRa251ZmtvZ0prc0RYRVpDUWE1MGllNVF2RWd3WXdnSmFFcDVVLXJlNHFIQWdFU2d6aVBNWlVfYWNPazJ3aEVobU1GWGN1Ylc4cFdLa18tQjgyMWFYR0VXeHJRQnBib1B1VmZqTV9Uel9uWXFIdVlDbG1fNzUxR2dJcHlqSUpMUWkwUnZ6U3QwQjZNNDNDT2V0eFlDVjhvQTQ5bmh4Rl9BcmdYN1JvTlJsc3d2ODFyVnhaaXUzaElmSmRWYm1sMlnSAeABQVVfeXFMTS1zcEttY2RwX2xRN3lqRnVnY0E5QnpHLW16V0dVRXcxemVZeWdpUVQwQUlPS1gxUXZIUGZqYUtKOG1XOW55N3ZLRXJvM3VkNURMV0FXY1oyUGxDUmcwaXh4U0FuTVBPOGtxYUF6b1dJVjZadWxGaUZIX2dIZ0FiQkVwYmhUa0JQcUVRRVNGTFZsSkJDekJQS19LQ2pkWUlySjV4MEE0T2tHc0VEVVlXNXo3ckMyNUJDOGJYQ1hjeFcwczdyY1doTzJlcC1XWFZZWjJoQml6amU1RGFidGN3d3o?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-08-31T14:10:56+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "The Big Reset On AI-Powered",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "2023e4e8628f",

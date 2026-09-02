@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-02T11:47:04.213160+00:00",
+ "generated_at": "2026-09-02T11:53:32.089505+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 53,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 57,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "5d559f8a3c85",
+   "title": "Simple Energy Launches Wave Family Escooter At \u20b91.1 Lakh",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTlXTWtIcjJFc0pHeFA1R1ZhUFVOVmxTU3U1TlNGTWlfUkc1RDh4amNFWkJMYlh0NDdTWjM1clhKTzlIbFZMUGFxWk13aHV4Y3IxQVFoT1VHZFhTVVgteU0tdDNWZ2RhaWtwM3NJcDNtSXdtRWFCemxsLVVYMURIdElBYUZqSVBXdmZENmtvOVBkUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T11:48:57+00:00",
+   "score": 74,
+   "category": "launch",
+   "company": "Simple Energy",
+   "amount": "\u20b91.1 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b91.1 Lakh"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "946a3afac9af",
+   "title": "Uber to cut 3,300 jobs in overhaul: Bloomberg",
+   "url": "https://economictimes.indiatimes.com/tech/technology/uber-to-cut-3300-jobs-in-overhaul-bloomberg/articleshow/133709074.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T11:34:22+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Uber",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6e13bd84f9ae",
+   "title": "Ram Mandir journalist challenges X data demand in SC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVNYTWVJZzdxSUlOVWctT0RCRFZHbUhpT0lBMERFM2gzNnlEQ255MG8xRkNnRWFJbGI4T3g1UV9GOTFZTWN0ZElaR1JFdnI4S3ZYTHVrMVdpNVFCZlJwRTRxTGg0MFRMcWhqSzZlMWlDcHlZeW8yd2lINDgweVB3MUMxZ2xkbTlG?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T11:32:38+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Ram Mandir",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6de4364fb8b9",
    "title": "Pine Labs Appoints Ex-Amazon, Razorpay Executive Jayaram Karthik As COO",
@@ -22,6 +74,23 @@
    "reasons": [
     "no clear event",
     "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6a0dba0bbbeb",
+   "title": "EU antitrust regulators quiz publishers on Google's AI search opt-out",
+   "url": "https://economictimes.indiatimes.com/tech/technology/eu-antitrust-regulators-quiz-publishers-on-googles-ai-search-opt-out/articleshow/133708802.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T11:25:44+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "EU",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -299,6 +368,24 @@
    "founders": [],
    "reasons": [
     "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "69dd2287b1a8",
+   "title": "Ex-Googler\u2019s Guickly Launches With $4.2M to Evaluate AI\u2019s ROI",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjZiSXlGWnlxNWVYdXdmVDdIb2VXTjZvak85ODdQWHBRelFVQnNoR3BoSnY5Z3JMU0d0eEpRZ000SGJQcTdGSlZza0NIX3RSdHRocVRJWll3ZC1hTmtEaEZoOU9BZnFBNWZJM1NwVkRWSVcta0t5TE9EOU1xYU1vQWtZOTlyeGs0YXBMRXJ5QWNxY0djOFdFSWhZNkVyUQ?oc=5",
+   "source": "citybiz",
+   "published": "2026-09-02T10:17:16+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Ex-Googler\u2019s Guickly",
+   "amount": "$4.2 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$4.2 M"
    ],
    "alerted": true
   },
@@ -4033,62 +4120,6 @@
    "alerted": false
   },
   {
-   "id": "4dd2f3cce84a",
-   "title": "GRT Jewellers",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TWVwR1BrVUk1ZkM5VENnbFo5d0F5SUJVWWdady1MMThlUTh2VVE4SGdPcVpTRk1YNkJiUjNxYTZISVA1SFU4V2NWaHRUVHJKcHluNg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T06:32:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GRT Jewellers",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "07169a9bba7c",
-   "title": "How Magron is building \u2018Generation 2\u2019 of electric vehicles",
-   "url": "https://yourstory.com/2026/09/how-magron-is-building-generation-2-of-electric-vehicles",
-   "source": "YourStory",
-   "published": "2026-09-01T06:30:46+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "How Magron",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bd509327e438",
-   "title": "Bengaluru CEO Says Employees Are Working Weekends For An Unusual Reason",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0ptdDMwTnpXek52azNlZHA2c0daSUlnWEVRU2lJblhRVmJxZDhGckZjQXUtMWVualh5R2lybUcwUzZoWXczV00tSWZVbDRSalc0UW1LVDJNMGgyNUNHOHVlem5kSXg2NFpDWV95a01sOUJLVnh5Zy1TZzJCZ1BQaG1QVFF6azJFU2ptYWpWUUpTZ1J4Y0FLWE5PdXRGZVdBWDhkd0o5UWJJcHFic1AzZE1DVWhGX0JTenNhd0RWRVrSAcABQVVfeXFMTm9KbXQzME56V3pOdmszZWRwNnNHWklJZ1hFUVNpSW5YUVZicWQ4RnJGY0F1LTFlbmpYeUdpcm1HMFM2aFl3M1dNLUlmVWw0UmpXNFFtS1QyTTBoMjVDRzh1ZXpuZEl4NjRaQ1lfeWtNbDlCS1Z4eWctU2cyQmdQUGhtUFRRemsyRVNqbWFqVlFKU2dSeGNBS1hOT3V0RmVXQVg4ZHdKOVFiSXBxYnNQM2RNQ1VoRl9CU3pzYXdEVkVa?oc=5",
-   "source": "News18",
-   "published": "2026-09-01T06:30:19+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Bengaluru CEO Says Employees Are",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Says Employees Are",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2719eb61b8c1",
    "title": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnYtLTBqU1A1dUdQd01UcnpxOW1yTEtrVmxIdjVGMk5CSkFpWDBDS1ZwSTJYNHJPeUtUNi1zOU9mT3N6dnoxeVJCN3l2dGFGNG5tLTFkS3ZKTTlGaFZPX291cVkzSlZpVnNneGUtdnFmQzBBNy1oR2VLcU5Rb3pMM2VGUDlLdXVwVUU1N2tUV25oQTNMRlc0WVVjN3RpNTRYRGdj?oc=5",
@@ -4105,23 +4136,6 @@
     "$8 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "6db08ba1ce15",
-   "title": "Katrina Kaif\u2019s Kay Beauty moves beyond makeup, forays into skincare",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOanpTZm5MRUF0RUxJY19lbHoxWDBmTUxYUzduczVVYkFreWZfaVY3Y080Ul8yNjRtbVcwNFI4Sl9UbEkteEpCYXhYaFYxb1JtNzVDczJYUkp4YjVzT1E2bUZDMWFQaGNzSDlGX0IxazZDRnlDcDd4YloxTGJFbFlkS0c4bGdPWVpUZ29fc0tJUi1BUk5KUWZqS2xHSTc?oc=5",
-   "source": "India Retailing",
-   "published": "2026-09-01T06:01:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Katrina Kaif\u2019s Kay Beauty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d930c44c31bd",
@@ -7072,23 +7086,6 @@
    "reasons": [
     "launch in headline",
     "Rs5,500 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "919413bdcbc0",
-   "title": "Akshit, Bithika and Aditi join forces to launch D2C lifestyle brand Modus & Mood",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDhJQnBqQmV1MzBGaVdZNEU4dlpjSTRteVdzMGNMeVFnX0JnRFdQUlNydHg2VTNMcm1fRy1IQllENUdKQXBiZTlUODVTcmZnVU9mU1JRR0FYOGU3OUVQNWdhVDFEU2p2bE5yUWd4ejFPcGljd1dfRDdMUVJnRUd2cW1HQkNpWWJEMjEzanF1bG90bnlVbDNNR1dSSkRaeVd3Q01SSHppX0F0UQ?oc=5",
-   "source": "MediaNews4U",
-   "published": "2026-08-26T11:52:07+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Akshit Bithika",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

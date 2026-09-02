@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-02T14:19:25.439611+00:00",
+ "generated_at": "2026-09-02T14:31:19.362553+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 63,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "fed396313827",
+   "title": "Hexaware CEO Srikrishna quits, EXL veteran named successor",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/hexaware-ceo-srikrishna-quits-exl-veteran-named-successor/articleshow/133713421.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T14:20:30+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Hexaware CEO Srikrishna",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "df76bba66676",
    "title": "Oppex AI Raises Approx. USD500K in Pre-Seed Funding",
@@ -236,6 +254,23 @@
    "reasons": [
     "no clear event",
     "\u20b912,100 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6d4de66c273e",
+   "title": "SIR - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wMkttR1RCQnRWR2doanF6T3NUWDJFeHNGWmt3X0pwbnhoTnYzTWFKMVp4Y01TNktoelp1Mlk1dDF3OW1HbDdJLUdB?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-02T12:57:27+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "SIR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -4053,23 +4088,6 @@
    "alerted": false
   },
   {
-   "id": "819c0ca0554f",
-   "title": "Credit & Growth Scheme I",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4OE02aHF1RkFpSlloTTlfQzNoTkh6YlVBM0h0OWk0bEtELWpQQ05OalZ3anFBcm93VFUtMHQwOWRadTN0WmxKUmFCbEF1U1NudmtjNUljZzRqUXN6Wmd6cA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T08:44:14+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Credit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "cc502f03c681",
    "title": "India preparing rollout of agentic payments on UPI",
    "url": "https://economictimes.indiatimes.com/tech/technology/india-preparing-rollout-of-agentic-payments-on-upi/articleshow/133673880.cms",
@@ -7055,23 +7073,6 @@
    "reasons": [
     "launch in headline",
     "1 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1a3ff57b444c",
-   "title": "2COMS Unveils 'Back to Bengal' Platform at Fourth Tech E-Summit in Bengaluru to Address Talent Migration",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRm1yYlc5bFNIMTdjZnAtRmVVdHdjcXcxSEhBZURpdVUycTVGQ3ZablV0UWFaaUQ4bGZpcXpIYXhxdmNzS2pUM0R4d0FLckNJSnFKc3BpTHhMVW5RcmVsTGQ5SDdQRTIycjdUa2dqeHBzWE5RdTB2V2MxT3RDUWNhS25IWGo4N1g3WEVLQ3hfQnpDOHQ4TUJBeTlld0VRTU5uWndJVE9fTV9IMTlFamR1dXRPbWNTdWJWSFp4Zk1ib3UwcUVjclc0X1c5Q3hSZURS?oc=5",
-   "source": "Technuter",
-   "published": "2026-08-26T14:21:01+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "2COMS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-02T04:53:08.119058+00:00",
+ "generated_at": "2026-09-02T05:01:55.891984+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 0,
+  "fetched": 22,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7073,25 +7073,6 @@
    "reasons": [
     "launch in headline",
     "$86.2 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "724358cafe9a",
-   "title": "Exclusive: Even Healthcare set to raise Rs 208 Cr in Series B led by Khosla Ventures",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdzZvR3FDYVpCS0tmNU5fY3h4cHhOVUZPSjhtc0QzLXpFVVpkVkJsVkxuREZtR1Q1RzZVYlkwVXNnSENXbWV4VlBpU0tGZzhHUFljTWg0MFgwamhYXzRkOXNsRnpDeUNkLWNBUmZaMXFURm5iQnlIZGRiY2FPdHhpalhtc090bXVYOURBbjRVYi1IWFROVXJCOXR2MHpTZVpqOEJXNTEyT1QwOXJIbTlHZnJ1akdxWGF3bjVwR0M4RVPSAcABQVVfeXFMTnc2b0dxQ2FaQktLZjVOX2N4eHB4TlVGT0o4bXNEMy16RVVaZFZCbFZMbkRGbUdUNUc2VWJZMFVzZ0hDV21leFZQaVNLRmc4R1BZY01oNDBYMGpoWF80ZDlzbEZ6Q3lDZC1jQVJmWjFxVEZuYkJ5SGRkYmNhT3R4aWpYbXNPdG11WDlEQW40VWItSFhUTlVyQjl0djB6U2VaajhCVzUxMk9UMDlySG05R2ZydWpHcVhhd241cEdDOEVT?oc=5",
-   "source": "Entrackr",
-   "published": "2026-08-26T04:53:30+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Even Healthcare",
-   "amount": "Rs208 Cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs208 Cr",
-    "Series B"
    ],
    "alerted": true
   }

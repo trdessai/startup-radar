@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-02T05:19:38.592067+00:00",
+ "generated_at": "2026-09-02T05:33:16.508470+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 25,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "6679cbe553e6",
+   "title": "The Ad Break Comes To AI",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uemp5NE1aR0Z6OG9YS1RVTUZjYmVtTVRsbDNpYXJ6Wk1pakFXcVR5cURhaFZXUFc5LUE5YlFyTkRwV1djcUVCZVVNTFdtNkRzbTdBZU56Qkdja3hjZGxUSmV3?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T05:30:14+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The Ad Break Comes To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a5398747477a",
    "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
@@ -39,6 +56,23 @@
    "reasons": [
     "acquisition in headline",
     "markets story"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0c207ded1a1f",
+   "title": "Transition VC plans Opportunities Fund, in talks with European LPs for Fund II",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2dkOGV0Zk5BMTl4UWpnSlRzdE42dF9PaDNDSGRCbHk2b19pdEg2a05IR3RjeTZLVzljVUdIbXRCVm5LYThTSnF2cHB0bkxqVlJDaENKTFNwZ0RlWXNCOUFUbzZiUkhSSkRBeVRNbXNkZ05WN1UtRGFyVW9icllfYTZIQzB2dFNWQlpRVF9TMU5sMlpUVDh4QWM4SjhNSEIzdnJj?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T04:10:57+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Transition VC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -7035,43 +7069,6 @@
    "reasons": [
     "product",
     "$20 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "861446dfb775",
-   "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
-   "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
-   "source": "Inc42",
-   "published": "2026-08-26T05:30:58+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "",
-   "amount": "$15.5 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$15.5 Mn",
-    "Series A",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "219293609f42",
-   "title": "Data Ingenious Launches Startup Track: Engineering Equity Investment",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVV8tLVEtbjZyTTI0NW9ORGIxdDBfRGFSS3Utd2ZzeXBEUjNDRVpMZDRtekhPVDRTNjR4a1dldnZwNDRNRFVzamZ1RS0xUS1odUhXcUJ1YzlKYS1tbFFVU2syYzlqeDAwejV3ekZsdHllc2drQkMtenZKZ05DaFdKSExPOVk1akhDRUFpYloxemZpTmhrYTQ2ZWpBVnlNaU11eEM4XzFQTkM2cUk3eUJIRWhaSlFXUE42QkJ5dg?oc=5",
-   "source": "IT Voice Media Pvt. Ltd.",
-   "published": "2026-08-26T05:30:38+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Data Ingenious",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

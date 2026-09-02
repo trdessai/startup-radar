@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-02T11:53:32.089505+00:00",
+ "generated_at": "2026-09-02T12:02:15.005230+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 5,
+  "fetched": 56,
+  "fresh": 4,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "ff823e96a76c",
+   "title": "AI content creator platform Creedom raises seed round",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFpMX2M5dWtiWm9scW5xcVozV29FbldvWm11YWpSTkJ1VjZVN2VydExkZVJxa2lZU3hiX2lkWC1pMVh0anRybzRmUzc4Y3dtWERlb3pkTEQ4WTY0QlVLVk5wQXVBbHUzWUl1anJfSzcyRFBZeVV0Z01lbGtfRVE2M3ZLTWlWNWw5c21ESWs4UDBqOWwzU2FN0gGXAUFVX3lxTE1YWkxfYzl1a2Jab2xxbnFxWjNXb0VuV29abXVhalJOQnVWNlU3ZXJ0TGRlUnFraVlTeGJfaWRYLWkxWHRqdHJvNGZTNzhjd21YRGVvemRMRDhZNjRCVUtWTnBBdUFsdTNZSXVqcl9LNzJEUFl5VXRnTWVsa19FUTYzdktNaVY1bDlzbURJazhQMGo5bDNTYU0?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-02T12:00:02+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Seed",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "665019a6bab6",
+   "title": "Deeptech startup Minimac Systems raises Rs 30 crore from Zerodha's Rainmatter, other investors",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZDNIc2c5aXlFR1M3WHh5TXM0Q2ozSTFWZzZsMWpseEdrMEZTWlJyaDRCejVITHZfMXpjN2lSd2FWWXQwM1lqRXJ6QVZfR2JVTTBkWVNuSmlKSW5tR0tGdlBVMHVvaTlfTUZLQnZKMFR4R0RBRUY2X0lHaEFoazRqZWR0bG1RQmc5S2p3NG5oUzhsbC1KZ0JpNUI3NzR6WnRmeHNFNHNqMjFRWHdHSkJhb3VONmZ6TS1EZUl4STctd0d6Z3lmYkQxZ05TZWRCcEdPdzV3U2FB0gHWAUFVX3lxTE9kM0hzZzlpeUVHUzdYeHlNczRDajNJMVZnNmwxamx4R2swRlNaUnJoNEJ6NUhMdl8xemM3aVJ3YVZZdDAzWWpFcnpBVl9HYlVNMGRZU25KaUpJbm1HS0Z2UFUwdW9pOV9NRktCdkowVHhHREFFRjZfSUdoQWhrNGplZHRsbVFCZzlLanc0bmhTOGxsLUpnQmk1Qjc3NHpadGZ4c0U0c2oyMVFYd0dKQmFvdU42ZnpNLURlSXhJNy13R3pneWZiRDFnTlNlZEJwR093NXdTYUE?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-02T11:59:19+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Minimac Systems",
+   "amount": "Rs30 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs30 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d7a1841081ab",
+   "title": "Flipkart Eyes Microdrama Entry Amid Diversification Push",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1NuMW9GczBkckV1TFgtR3IyNUdZekFXU1dKQ3hKMnp6ZVdYQmlRcUQ3clVRTEV5V0h6WlN4ckdEUWpVc3Y4OHdqbGZJM0xHMjhQYm5sRGFWM091cVF6Unl0c2JPMTJrYlI0WFBqYmFMQWVfMFNBeU9idUlsajdHWVFhVXd0T28?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-02T11:57:01+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Flipkart Eyes Microdrama Entry Amid",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5d559f8a3c85",
    "title": "Simple Energy Launches Wave Family Escooter At \u20b91.1 Lakh",
@@ -24,6 +78,23 @@
     "\u20b91.1 Lakh"
    ],
    "alerted": true
+  },
+  {
+   "id": "fe592bd43eb6",
+   "title": "Opera loses court challenge against EU exemption of Microsoft's Edge from DMA rules",
+   "url": "https://economictimes.indiatimes.com/tech/technology/opera-loses-court-challenge-against-eu-exemption-of-microsofts-edge-from-dma-rules/articleshow/133709435.cms",
+   "source": "ET Tech",
+   "published": "2026-09-02T11:45:39+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Opera",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "946a3afac9af",
@@ -4026,23 +4097,6 @@
    "alerted": false
   },
   {
-   "id": "3b91577ef443",
-   "title": "India\u2019s Deep Tech Race: The Battle to Build the Technologies That Will Define the Next 50 Years",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDhtSnNDZU5LTDVYaGw3ajhXZ1d3X0hZNC1SMEdFNmVzdXp2YzlpV2dRSDBMY2xoQTNUQjBsWjJBdHQxbVUzaGJLeVRKaTVOM0Z4aTV3RkJLU20zVFZtdXpiT3o4VDZTczFYR2JmbWRJc1RwYkw0RFFEekRxNlQ1ckFMWVZQS2oxbVZhRTZHeXN0Ri1Jdi1oM21obHU0ZTJHbGE0OEhkS01VUWZ1cC1pY1hIaURrUjNKSXhn?oc=5",
-   "source": "Goa Chronicle",
-   "published": "2026-09-01T06:52:26+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s Deep Tech Race: The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a85655d22223",
    "title": "Kepler Aerospace bags $8M to deploy swarming satellites",
    "url": "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites",
@@ -4062,29 +4116,6 @@
    "alerted": true
   },
   {
-   "id": "02b5ed049190",
-   "title": "Bankers in the running for HDFC Bank CEO job after Sashidhar Jagdishan exits",
-   "url": "https://www.livemint.com/companies/news/who-will-be-the-next-hdfc-bank-ceo-candidates-11788239202716.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T06:41:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bankers",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "HDFC Bank",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0e7369a8a511",
    "title": "Rohde & Schwarz Launches AI/ML Design Center in Bengaluru, Eyes Chip Design",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ05UMUZFb0c1d2JWQUl2M2w1OTdiUXlhQ1o4N3JvNG1DLUpQa0M4Wnk2Z0hMZ3haQk11RHpncEJCNmV5S3JvVmV5N3FUZGU2Y003MUtweWRORnJMVElNRUdTazVZelA2RTl6WEpFdTRGSjNSa0VIVHVfMUhhMnNmdmx2ekFPeVh3TlBNZ1EwVnh4QVhMTW1xVWMzWWJMT2VTXzYwWTNWdFd6a0xKdkIxcERiVFA3SkVtMnpWc3ln?oc=5",
@@ -4100,24 +4131,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "717e33533bc7",
-   "title": "Senco Gold Targets Rs 10,000 Crore Turnover in FY27, Plans 25 New Franchise Stores",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck5VeFhDc3liaHM4blctZG14NEJEUTVHMmNfX0laWXdJa21JbHpXTlY1cm9wYUZwVHUxVXdnOFBmaHhqdm03azB4NDhDVU9YTG0tYlp4Sy1DTXQzUVlhSEl1SVR1QUJHWFJJVHNEVXVRdW92U2gxSnBSYktiVm9ZLUxIakppdUVQVDRiZGI5WXduNUFBRE9wM3llakpoUXcyOVpWR25VRWFaNHY1dXJNS2hYaw?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-01T06:34:44+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Senco Gold Targets Rs",
-   "amount": "Rs10,000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10,000 Crore"
-   ],
-   "alerted": false
   },
   {
    "id": "2719eb61b8c1",
@@ -7068,24 +7081,6 @@
    "reasons": [
     "funding in headline",
     "$21 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1e50a77d85c7",
-   "title": "Wipro Consumer Care enters pet food market with launch of Snuggles",
-   "url": "https://yourstory.com/2026/08/wipro-consumer-care-pet-food-market-launch-of-snuggles",
-   "source": "YourStory",
-   "published": "2026-08-26T11:56:02+00:00",
-   "score": 85,
-   "category": "launch",
-   "company": "Wipro Consumer Care",
-   "amount": "Rs5,500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs5,500 crore"
    ],
    "alerted": true
   }

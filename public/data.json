@@ -1,12 +1,35 @@
 {
- "generated_at": "2026-09-02T16:55:11.980996+00:00",
+ "generated_at": "2026-09-02T17:01:50.110191+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
+  "fetched": 44,
   "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "4850bf2e3b1b",
+   "title": "Hexaware names EXL's Vivek Jetley CEO as Srikrishna exits after 12 years",
+   "url": "https://www.livemint.com/companies/news/hexaware-technologies-appoints-vivek-jetley-as-ceo-designate-11788362883556.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-02T16:59:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hexaware",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "EXL's Vivek Jetley",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4623677bc40d",
    "title": "Flipkart launches microdrama on main app to drive platform engagement",
@@ -3913,23 +3936,6 @@
     "acquisition in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "38d7ef1a47da",
-   "title": "Meta Pulls 39 Scam Ads Promoting Malicious Porn Apps After India\u2019s Warning",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZi1WcVVzR0pDWU1WdGl1R3k2RWx1SDd5cHZUMDBodWVmNnRnQXZkSVB0RnljTzVja0g4STU5bnhvc1psTlF5SU9vRU1TRm9KdDQyZXl3NXpPNV85cVJHdDZsR3QtWWI3UUp6NFlWVjhIdkpRaEZ5RHZ6cUFGc3RRRUZwMVVlMTdRdHhkbFF5czRkQXE2Y29Teng0V3lsUQ?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-01T10:57:58+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta Pulls",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fe79fbf1a1c8",

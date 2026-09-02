@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-02T12:39:32.314245+00:00",
+ "generated_at": "2026-09-02T12:51:17.448632+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 58,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
   {
@@ -40,6 +40,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "10d091e45ad5",
+   "title": "Thomas Cook India Introduces Exclusive Lakshadweep Charter Flights For Year-End 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanVfUWtxbmxhTVQta25BSmI1ZU5MWWhFRmdpNW1zVkROM1VpRV9GMXJ6a0VPMW54YnpZQTVpLTZRMzBZYjdvX0NxOGhQMUhsaTkwSDhQNWxnZVg4cHp1bnFHZmJYSURRYWpHSXlyN0FDRVRIVEdWQkdPTjFPeHFHblliOFplOUYwYnh4M3pjaUdzRzkydW5tZ2JtRjdwa2FHdVItMWdxa2t3MW01bDVZdmNLcGV6ZmJucjlHNkllNVI?oc=5",
+   "source": "Sahi",
+   "published": "2026-09-02T12:09:30+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Thomas Cook India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "7e51a832d06a",
@@ -195,6 +212,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ba0603bc3d23",
+   "title": "Indian cricket icon MS Dhoni invests in SPEAKX; says, 'Learning English is not about learning another subject'",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbTNBdy1aeEZGcU5Xc0V2N3ZmTTF0eGJ3RkswR0x6dFFWN0loZDdxRWxSWnlWTGd4em5BRnRXY3FYMjZKV0x3REtFTllyZGV0ZVhSbUJ4bjR1UDd5Vk10UThaNUgzaXhPYzNMT3ZXWFdYX2tmY1UxbTdiMXNjTndXeGVKNk9xZTdsVFR1MmVVWDFIRWVOY0I4Y0xtaTJLaGxvWjNfdldWU2gwaUlHLVhhakdhU2tFM1FXZjZTbllDdFFDSV84VHhUTUhUbkFRd0xpX2hRYWtSTkZvUlpUdnZqV2cxYzJxa0Vf0gHoAUFVX3lxTE9tM0F3LVp4RkZxTldzRXY3dmZNMXR4YndGSzBHTHp0UVY3SWhkN3FFbFJaeVZMZ3h6bkFGdFdjcVgyNkpXTHdES0VOWXJkZXRlWFJtQnhuNHVQN3lWTXRROFo1SDNpeE9jM0xPdldYV1hfa2ZjVTFtN2Ixc2NOd1d4ZUo2T3FlN2xUVHUyZVVYMUhFZU5jQjhjTG1pMktobG9aM192V1ZTaDBpSUctWGFqR2FTa0UzUVdmNlNuWUN0UUNJXzhUeFRNSFRuQVF3TGlfaFFha1JORm9SWlR2dmpXZzFjMnFrRV8?oc=5",
+   "source": "indianstartupnews.com",
+   "published": "2026-09-02T11:33:33+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -4039,23 +4074,6 @@
    "alerted": false
   },
   {
-   "id": "f6aeef1b02f5",
-   "title": "Yuma Energy",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XaVFOalRTa2hVdGtQN2x6Tk4tVkVzcWRPNFJIazFjM0x2bjdReUJycndBejFnd2NCWWdMYXNob2g5RmlObmZOeDNZdF9zQQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T07:17:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Yuma Energy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "25d3e8ad0c6d",
    "title": "Indian startup funding nears $1 Bn in August after July slowdown",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcy03TXhTN2Q3aGxsUzhEbl8wdEYwZVFaLWtLMW1sVERKcmRMYy12Y1NxUV9sNF82UFZJUEI0c0UxMThLM3pHUDRFbGJSTXlZMHRTZFNGV3VqYVJaMHNKV3NwN1FfZFpzR0diY0oyNm5NV2tWM29SS2g1bzlxMUJETGZMVzdvbTlmenBtU3ltUFNxOG5VYTNORTBoTE10RWJzQWfSAaIBQVVfeXFMTnMtN014UzdkN2hsbFM4RG5fMHRGMGVRWi1rSzFtbFRESnJkTGMtdmNTcVFfbDRfNlBWSVBCNHNFMTE4SzN6R1A0RWxiUk15WTB0U2RTRld1amFSWjBzSldzcDdRX2Rac0dHYmNKMjZuTVdrVjNvUktoNW85cTFCRExmTFc3b205ZnpwbVN5bVBTcThuVWEzTkUwaExNdEVic0Fn?oc=5",
@@ -7052,23 +7070,6 @@
    "score": 63,
    "category": "launch",
    "company": "Contemporary Mexican Restaurant Selva",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1f8b29c81a32",
-   "title": "Nykaa Luxe Launches Mini Mart Pop-Up in Delhi for Luxury Beauty Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEZyNzFTdXlqV2dqVDhDdVBZMlhIelB3TWx0bzZkTDRsRFZTN1R6M2I0azFqdjlOZVNCbkItSFhBSF9EZ21ucHFsdmpHUkFXZFVYUkVhNE0tWGNPS3hNb2xJRkRVVzdtVXhVODN5WWZ2dENNWVlWNURuWjVwWThIX3ZrR012X2czbXJ1X1c2NWlHMTVETEFER0t2VkxBYmhK?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-26T12:44:30+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Nykaa Luxe",
    "amount": "",
    "stage": "",
    "founders": [],

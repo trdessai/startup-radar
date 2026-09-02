@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-02T13:35:32.998815+00:00",
+ "generated_at": "2026-09-02T13:46:41.410085+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 63,
-  "fresh": 1,
+  "fetched": 60,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "ae39f4ef77cc",
+   "title": "India's ecommerce market to hit $345B by 2030: report",
+   "url": "https://yourstory.com/2026/09/india-ecommerce-market-to-hit-345-billion-by-2030-report",
+   "source": "YourStory",
+   "published": "2026-09-02T13:41:57+00:00",
+   "score": 37,
+   "category": "expansion",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "bbeabfe63aa5",
    "title": "Govt defends new GDP estimates, says revisions reflect data upgrades, not higher growth by design",
@@ -632,6 +650,23 @@
     "Rs1.10 lakh"
    ],
    "alerted": true
+  },
+  {
+   "id": "3c9a8bb0e7ee",
+   "title": "BigHaat Agro",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SY1QwS1NFWkEyb1k3dUdmamNXODd5bThtV1pTNDc2aTM0UU1VbUdXd2JWNGV0cWZveWpMSmczU3F0QWJhZ1p0REhBNkRYcFlGSFR6YnpXbm1hV1NRbzVhTg?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T10:32:14+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "BigHaat Agro",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "8009389e4cc8",
@@ -7038,41 +7073,6 @@
     "funding in headline",
     "$1.05 billion",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "71a1c24e0e88",
-   "title": "D2C Kitchenware Startup Curaa Raises \u20b940 Cr To Expand Portfolio",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWFEVkpvRHFjazZNaWNlODlMT3gxTU1KLVd1Vkh4TkQtWTU0aWZzQWtaYXNJcExjSTg0dVJiaDJMZFN2OFA4S3BsRkktajhNbFJkMHZmMGhKZ01KMzFfQjVSOFExY3pHUVZpRGh6VDlpTzNETUQxZDZBY0E5RWpwZjJjZUthT29ScW45TEZ6NlpjdkVxS1RXNG9ERQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-26T13:45:59+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Kitchenware Startup Curaa",
-   "amount": "\u20b940 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b940 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "dcdfa87cf40d",
-   "title": "RASA Group launches NEXT UNICORN to back India\u2019s next generation of founders",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HT3g1TDN0TGZ6WHVvYURnYzFOdlJIZ3dtNWd0YUxhTHBVXy1kbnNMc09vQUUxYm9kS1hyYmVSRnFJcUtkcFRBaWlLeGw4d0xhZE8taWh5d1cyQTE5SXZCMllrR0J6Ymc?oc=5",
-   "source": "MediaBrief",
-   "published": "2026-08-26T13:42:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "RASA Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-02T14:46:46.019070+00:00",
+ "generated_at": "2026-09-02T14:56:13.784583+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 63,
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "20d0730ddd75",
+   "title": "Creedom Raises \u20b94.1 Crore in Seed Round at \u20b942 Crore Valuation to Scale AI Growth Coach for Creators",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPendBTFlaZGNyeFQ2NXNXZEJqVGVoNnVnZ2lFZVhQOU11RlJzaThIX05zblNyZ0pHbnE5LXFMN0ctWk8xTDFiMlRHQ3JJVWJmWUJ0U3M1b0RKdEtsZFJDdlI5N0YtdUUxZjNJOS11MU9zNzVaTUtiOWZSZVB1SlcxZ0VxRmhab0E4RWVPNXhoQ0JVQVZHd0EzMEtKQ0ltcFpVWmxlcktyVlRqbWpabGNTSU5nM2ZXWHdRald2VzhEb3JGRHVUZUp5ZEtpcE5tSlYxWHJxQW9UQ2hYMWIwR0ItcFFsVE1RNE1rdnF2WlVB?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-09-02T14:51:39+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Creedom",
+   "amount": "\u20b942 Crore",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b942 Crore",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "16a9930297ea",
    "title": "Zerodha's Nithin Kamath says India's primary market is 'red hot'",
@@ -64,6 +83,24 @@
     "people move"
    ],
    "alerted": false
+  },
+  {
+   "id": "1e7c12a22275",
+   "title": "One month out of stealth, Act Security lands first acquisition and launches Amphi",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UOXhWcTNNRmVaNUhrZktYVTFSbXFDRGJnZUIyWEZNMjZ4alFnVTVyVU9VTXo2Q2ktTDhhQnRIcGFqVmlSTHlMT1U3cUJSQ2ZJYUVtVTVnNG9Ca1ZGdzFJUzVB?oc=5",
+   "source": "Ynetnews",
+   "published": "2026-09-02T14:20:10+00:00",
+   "score": 80,
+   "category": "launch",
+   "company": "One",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "stealth exit"
+   ],
+   "alerted": true
   },
   {
    "id": "df76bba66676",
@@ -278,6 +315,23 @@
     "$1.5 Bn"
    ],
    "alerted": false
+  },
+  {
+   "id": "547b5f16c193",
+   "title": "Creedom, Guickly raise early-stage funding",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aa3ctZFNNZW0zbkxJdG5hWjQ2SnFCaXJlekU2NFNCX3hfUnl1OHJld0RaQVZuNndNZkloc3JPdUdvdHVDbkJJRmdiMFdrVExLRHo5X3dhYktOaDdIS3gzMTBHT0laTU4xQlY2NS1Wby1XX2FRSXRZUk03NA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-02T13:03:14+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Creedom Guickly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "78636d0774e9",
@@ -4026,40 +4080,6 @@
    "alerted": true
   },
   {
-   "id": "c114b2a64eda",
-   "title": "Stelatoes opens new store in Jalandhar, takes Punjab store count to 9",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjhGWlJJYTFxc18zd3Z4aVViQ1ZvN2tuRUJVRGR6Tm5LSTctdFdlbWhwcW5hUWQ5OXJyRllZWGYxbG9MMXBJWnk4bU9SYzYyU0QxN0E5LWQ2SnJ4SjZDSGY5ZWNnSEFaRzdpUkc5OHptSXJ3dmoydFhtXzVqeEI3QUY2Vi1xMGVnaGpYSUR5WTVkNmNnemw0Z2VFWGJBMDcy?oc=5",
-   "source": "India Retailing",
-   "published": "2026-09-01T08:57:39+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Stelatoes",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "61d6b8e69ca9",
-   "title": "Indicorn Angels",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95TEFWMkFXeWtfcmFyMHlIYXNuUjMzSEQtelpVXzM0ZllwYUt3SVNvWGFweGxPeFNERTVNQ1FFNDFwR0RNZjVuUENBQ3RDZlZ5ZlVNOE1yOUxQUll1VTJocjVnNVdkT2laZFE?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T08:46:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Indicorn Angels",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "836d09f6b0dc",
    "title": "XStep Raises Funding From Titan Capital To Expand Neurorehabilitation Platform",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWlZLWs4SVdjSlRZQmtOUGEzbG1yODhiNEJaamFDc1NsbXp2MkVGdVJ0SVVkaE5PZGhfRU9ZOHBKb1RnR1V3ODFlQ2hiZVQ3SGxvcXRPeWQxeW1GZi0tOVdELWJVbWZYbnBYNUtYUE4yc2pBdHNpampYVEhPZk1rd1lFbEwzQ1pWS3VUT1NWU1VodnFGbzFkTGxPcG1SWEE5Y2VYeTl2Z05PenRZTm9LOGdFU1BocEpvbTBJ?oc=5",
@@ -4075,23 +4095,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "df6512973674",
-   "title": "Yatharth Hospitals",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jU0N6QllNTk9faFI3bC14aDY4cVk3bFZweVZNMzU5QmZIN2k0ME0wWHVkeGFSWWU0QXRZR2RFSmkyRXdqWUFyc3hfRFV4a0xsdEd3WGlKdU5hWjFiclJYQzVCMA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T08:44:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Yatharth Hospitals",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "cc502f03c681",

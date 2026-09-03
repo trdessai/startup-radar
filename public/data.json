@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-03T15:02:53.456244+00:00",
+ "generated_at": "2026-09-03T15:22:35.876091+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
+  "fetched": 41,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "775afe46b515",
+   "title": "PayPal\u2019s Global Mass Layoffs Impact 220 Indian Employees",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDE2TTZOM0RCVEVZd2JPb2dWOUhIZUpXTHdJVjRQTENKNjFETWtKMWZpOXVxb1ZkZWNhUHZUVTVaSTVwUEwzUUZEaGxoWUxhTlFSZ3gwbHltTEphMjN4ZUowMnBxRHVnUzB0M1N6Qm82OUs1bFFLUWlnX09wNndRdldUU2tYdw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-03T15:13:32+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "PayPal\u2019s Global Mass Layoffs Impact",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7a8effac3771",
    "title": "HDB region can drive Karnataka\u2019s tech-led growth, says Priyank Kharge",
@@ -178,6 +195,25 @@
    "reasons": [
     "launch in headline",
     "Rs1,800 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e57bae8319f",
+   "title": "Catch Raises $5M in Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40V0NyTkVtTTM0UUZ6b1dqTzZJbnd5NzU1RkIwRTZrcy00cGFqUmNoS0lueV9rZWFGZEhyS0N5bUFFZ2FQYV9OeXlWNWtwaGw1dHNJaGdpM0p0QnY3QU9NNTJfcWZ0M0ZmbWNJbE1SUDExejUxcHY0?oc=5",
+   "source": "FinSMEs",
+   "published": "2026-09-03T13:24:57+00:00",
+   "score": 86,
+   "category": "funding",
+   "company": "Catch",
+   "amount": "$5 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$5 M",
+    "Seed"
    ],
    "alerted": true
   },
@@ -2273,41 +2309,6 @@
    "score": 18,
    "category": "other",
    "company": "Bengaluru",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "30a2aed54c87",
-   "title": "- MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RdWwwYWtyU05vWFMxZEJXaEZnRWVKTlJaNGRWWlVZM1FWdFpNNHF3SS1UU0hQMENVQUZWYVNXaDRXVVZ2Um5sMUVwcXQ0VXFrUEhjYVdxQ05jNm5IbHkyLW9DS0tjeHAzOFhGSVAzTTVyYUdRbjNRMTFHUnUwRVU?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-02T19:08:20+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9cf7f4c72da7",
-   "title": "Digitisation Of Health And Education - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DZV9HMlNva291VFJpcmxGUXlRUU5MSWNtdEN3aGNYcVZrb2FBbVg1MTJJLU1Ec1k2cEFwVXdCNjRUcDY1bXlzQS1hdWhEemh5ZjMwU3FiYUNoSWJZanQ5YlhsVmgxVWxZQWlNRzhCZEozaDdTVWc?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-02T19:08:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Digitisation Of Health And Education",
    "amount": "",
    "stage": "",
    "founders": [],

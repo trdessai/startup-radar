@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-03T16:02:07.240394+00:00",
+ "generated_at": "2026-09-03T16:20:20.390112+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
+  "fetched": 51,
   "fresh": 2,
-  "alerted": 1
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "f0e3e840ac82",
+   "title": "Kumar Mangalam Birla's UltraTech enters wires, cables business with \u20b91,800 crore Ultravolt bet",
+   "url": "https://www.livemint.com/companies/news/kumar-mangalam-birlas-ultratech-enters-wires-cables-business-with-rs-1-800-crore-ultravolt-bet-11788449157424.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T16:13:47+00:00",
+   "score": 71,
+   "category": "expansion",
+   "company": "Kumar Mangalam Birla's UltraTech",
+   "amount": "\u20b91,800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "\u20b91,800 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3ae02c14d1c9",
+   "title": "India\u2019s EdTech Sector Moves From Funding-Led Growth to Model-Led Consolidation",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUI4RVFRd2Z4TFlxbTlrdlRTRjhRb0tqdDRYbTFpU3pJbkZta0lnMnYwcUE4OG1FNkh4RUtqRnppN0M0bXJrWFl4X05zMlA0UTAxNGpudm53Mi1rVHJZZWp2aW52cFdPNlpFUVlSNmJoelVoaVdSSGhLRlM0MmlqMWl5aUYybndtYjZ4MWFzY0NWRkRuSElOQjNsemtISnZsQktFYnRGaUh6QVZ2emc?oc=5",
+   "source": "TheTechPanda",
+   "published": "2026-09-03T16:12:49+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "India\u2019s EdTech Sector Moves From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "76bd6bb83a48",
    "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
@@ -2225,40 +2260,6 @@
    "score": 20,
    "category": "other",
    "company": "US Commerce",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3aa1d7d86e27",
-   "title": "A gem shines brighter after life\u2019s hardest trials & friction",
-   "url": "https://yourstory.com/2026/09/gem-without-trials",
-   "source": "YourStory",
-   "published": "2026-09-03T03:30:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "A",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3ba23d086113",
-   "title": "US government backs OpenAI in New York Times copyright case",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-government-backs-openai-in-new-york-times-copyright-case/articleshow/133724096.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T03:13:00+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "US",
    "amount": "",
    "stage": "",
    "founders": [],

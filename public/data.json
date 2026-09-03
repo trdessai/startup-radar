@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-03T05:20:42.557068+00:00",
+ "generated_at": "2026-09-03T05:50:29.472207+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
-  "fresh": 22,
-  "alerted": 4
+  "fetched": 33,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6da8401271af",
+   "title": "Uber to lay off 200\u2013250 employees in India amid global restructuring: Report",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjIwMjJPV2czZWhTeE1qZlplaklPWFhEcWxNYV9FTVZsN2VqU1NWc2N6SXhrVldydkc3TEhDY0FyT0ZPc3FGd3FhRnRHRkEzd2tSOF8yQm9Vc2VQZEpDUm9fTlVsZHc5a1JDRThaWlNiUHJtNFBxN0lFZjRCUDRHclRUWWVTRHBMQk5DVzNJcXhOQjV3dlkySElSbGM0OWh2Tmt0TDhHVWxHelVqdHh2aGE2RdIBswFBVV95cUxQSjIwMjJPV2czZWhTeE1qZlplaklPWFhEcWxNYV9FTVZsN2VqU1NWc2N6SXhrVldydkc3TEhDY0FyT0ZPc3FGd3FhRnRHRkEzd2tSOF8yQm9Vc2VQZEpDUm9fTlVsZHc5a1JDRThaWlNiUHJtNFBxN0lFZjRCUDRHclRUWWVTRHBMQk5DVzNJcXhOQjV3dlkySElSbGM0OWh2Tmt0TDhHVWxHelVqdHh2aGE2RQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T05:33:55+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Uber",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e76366210c2a",
+   "title": "D2C brand Plum\u2019s revenue crosses Rs 500 Cr in FY26; profit doubles",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTNoSDFqVjZHU1VLQzJ0SGpXSHltUkh1TFNpeUtrbHdvSF9DR0JycWdKcGhMRG4wWjNDSUFoYThDenVzZDJ6SGdSazE3MVBPdkJ3M2NhZUlkbVRBcUZFTTY5OHJzV0ZSQ0NJV09BU0JGY19LcTU5V2ZIeWx6UWFCazFQTDZNMXR6cXRnaWZhOVFLSHBHVFJXbS1ZZEczU2ZCTDNRZEY1NNIBpwFBVV95cUxOcTNoSDFqVjZHU1VLQzJ0SGpXSHltUkh1TFNpeUtrbHdvSF9DR0JycWdKcGhMRG4wWjNDSUFoYThDenVzZDJ6SGdSazE3MVBPdkJ3M2NhZUlkbVRBcUZFTTY5OHJzV0ZSQ0NJV09BU0JGY19LcTU5V2ZIeWx6UWFCazFQTDZNMXR6cXRnaWZhOVFLSHBHVFJXbS1ZZEczU2ZCTDNRZEY1NA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T05:31:19+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "",
+   "amount": "Rs500 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs500 Cr",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e4d58d490949",
+   "title": "LTTS Launches FARM for Deep-Tech Innovation",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fYTBPZTNZYS1jV21DR2ZyWkJsamoxRm0wQTQzQ0hydkdNZHJGTmkyVVF6T0plY1JSTEtYaFZwbTRqSm9VYy1nWTNJczdDTG5zaGMxbl8zZmpxV1NmdTdlUzkyOVp2MWYyajR3MWF3MGtCVjA?oc=5",
+   "source": "TimesTech",
+   "published": "2026-09-03T05:02:59+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "LTTS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "0e9e4b614359",
    "title": "Data centre industry, Piyush Goyal discusses power availability, regulatory issues",
@@ -3455,58 +3508,6 @@
    "reasons": [
     "launch in headline",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4794ff90cfa8",
-   "title": "Dodo - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TUG9xZ1BISnJtUVpKSkZIR0dKNlJSM21UZHVtNmhBTVJsZVpRQkE1dndQeThqY3RvbUVtbXhPRlFvcWQtY19zUjR2QQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T21:44:10+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dodo",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bb83d144f289",
-   "title": "123pay - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MX2hXSzFDOHZOQXlyamVFRU9LVXBOMm0wUGx0d3Rzb2YxcjhXdlFNZHVYOWtYRVlIOW9xX0lTaUR2aE96TXJWanFDQ2dmQQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T21:44:03+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "462264a89d19",
-   "title": "UZQR - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VNWRuWm91ZGpnbjZNN1NkVDlyckdqTzRybUM3Z0hQYjdUM2l0N19zdXJ4blRYN2ZPWU5wZTNiMi1lWUswNExVT1l2VQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T21:43:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "UZQR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

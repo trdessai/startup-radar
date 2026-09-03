@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-03T07:45:56.812813+00:00",
+ "generated_at": "2026-09-03T07:53:53.151906+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 50,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "430702918f98",
+   "title": "UP, GIBA To Launch Indo-German Gateway To Help MSMEs, Startups Enter EU Markets",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlY2TmgzSmZKUXlMNlNDbnV1djFsUzZzVnpCR1NDejIwajJoUG5VRVotRkVFbjdLbU5fVFRfUWlVWGtJdTlDLTBTYlNiSlBCYVJrY05KVndDR0xxaFV6WXlUMHVTLWhReTgxOWlaOTdjR0dQNWtuYVZhM2NEVEFkckxlTGhEUjkzUE5maTc1Uk1NNFJKQmU0VmJJaVN4NUJoQzZPeDhsMkoxUmJtekt5SzZlbTc3QTc3OFlTNFYzMUY?oc=5",
+   "source": "KNN India",
+   "published": "2026-09-03T07:46:10+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "UP GIBA To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "c876483304ee",
    "title": "Ola Electric to consider another fundraise amid market share pressure",
@@ -3380,24 +3397,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a82489206a26",
-   "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
-   "url": "https://economictimes.indiatimes.com/tech/technology/palo-alto-networks-beats-quarterly-earnings-estimates-acquires-ai-platform-console/articleshow/133698016.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T04:39:11+00:00",
-   "score": 28,
-   "category": "acquisition",
-   "company": "Palo Alto Networks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "markets story"
-   ],
-   "alerted": false
   },
   {
    "id": "dbee09294868",

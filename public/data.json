@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-03T18:49:03.600857+00:00",
+ "generated_at": "2026-09-03T18:56:41.567041+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 31,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "9c8ec754fbac",
+   "title": "Trivest Partners leads $2 Mn seed round in power electronics startup Leanwatts",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkNCVlN2ZmpCd2h5Y2RBLTloSWhpTTZGMzFhY1JHbjVJMHBYVkttb0ZmRDl1eVNFLXYtVVE5SmdHWVhna1FxdmJxU1RySTNPVXJTTnd2VTVqZkZEQ01QTGxiajZoWW0wSk5tVG1Rald4Tzk2Q3NjUFAwVkhyMERseEI5elZHRUNaa3JUYjBDeElITEZjaVNnQjNxb2VIaVVzMDhaSDc4bTRXbGloT1JicVV1TFlITEHSAbcBQVVfeXFMTkpDQlZTdmZqQndoeWNkQS05aEloaU02RjMxYWNSR241STBwWFZLbW9GZkQ5dXlTRS12LVVROUpnR1lYZ2tRcXZicVNUckkzT1VyU053dlU1amZGRENNUExsYmo2aFltMEpObVRtUWpXeE85NkNzY1BQMFZIcjBEbHhCOXpWR0VDWmtyVGIwQ3hJSExGY2lTZ0IzcW9lSGlVczA4Wkg3OG00V2xpaE9SYnFVdUxZSExB?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T18:46:09+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "Trivest Partners",
+   "amount": "$2 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2 Mn",
+    "Seed"
+   ],
+   "alerted": false
+  },
   {
    "id": "6089cd994c56",
    "title": "Cars24 Trims FY26 Net Loss By 19% YoY To \u20b9441 Cr, Revenue Slides 18%",
@@ -2170,24 +2189,6 @@
    "reasons": [
     "no clear event",
     "$15 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f4d79acb8cb7",
-   "title": "New AI models, critical threshold, and a design debate: A busy day for AI industry",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-ai-models-critical-threshold-and-a-design-debate-a-busy-day-for-ai-industry/articleshow/133727482.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T06:20:57+00:00",
-   "score": 50,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "no company named"
    ],
    "alerted": false
   },

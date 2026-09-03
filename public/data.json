@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-03T14:35:12.127079+00:00",
+ "generated_at": "2026-09-03T14:46:50.982648+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 19,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "26301eb3feb1",
+   "title": "AMD, Delhi University partner to train 10,000 students in AI",
+   "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
+   "source": "YourStory",
+   "published": "2026-09-03T14:38:00+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "AMD Delhi University",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "889944a5c978",
    "title": "Kalaari Capital opens applications for investor fellowship programme",
@@ -2354,29 +2371,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "4850bf2e3b1b",
-   "title": "Hexaware names EXL's Vivek Jetley CEO as Srikrishna exits after 12 years",
-   "url": "https://www.livemint.com/companies/news/hexaware-technologies-appoints-vivek-jetley-as-ceo-designate-11788362883556.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-02T16:59:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hexaware",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "EXL's Vivek Jetley",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4623677bc40d",

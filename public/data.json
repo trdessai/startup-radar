@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-03T17:39:57.188818+00:00",
+ "generated_at": "2026-09-03T17:48:27.817837+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 26,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "970e44eb6f4a",
+   "title": "Airbus to deliver over 2 aircraft a week to India for next 10 years amid 1,200-plane backlog",
+   "url": "https://www.livemint.com/companies/airbus-to-deliver-over-2-aircraft-a-week-to-india-for-next-10-years-amid-1-200-plane-backlog-11788456646811.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T17:41:42+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Airbus",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "dacd45f00e3d",
    "title": "Aditya Birla repeats Opus playbook with UltraVolt, eyes wires market leadership",
@@ -2204,28 +2221,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b2292d52cf24",
-   "title": "Uber to cut about 10% of global workforce, nearly 3,400 jobs likely to hit",
-   "url": "https://yourstory.com/2026/09/uber-cut-10-pc-global-workforce-3400-jobs-likely-to-hit",
-   "source": "YourStory",
-   "published": "2026-09-03T04:26:28+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Uber",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Dara Khosrowshahi",
-     "handle": null
-    }
-   ],
    "reasons": [
     "no clear event"
    ],

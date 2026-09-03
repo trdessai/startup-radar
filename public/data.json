@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T13:53:59.982179+00:00",
+ "generated_at": "2026-09-03T14:02:26.974392+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
+  "fetched": 43,
   "fresh": 1,
   "alerted": 0
  },
@@ -108,6 +108,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "729a17d1eec6",
+   "title": "India\u2019s Stratosphere Is Up For Grabs, Can Red Balloon Make The Uncharted Skies Commercially Viable?",
+   "url": "https://inc42.com/startups/indias-stratosphere-is-up-for-grabs-can-red-balloon-make-the-uncharted-skies-commercially-viable/",
+   "source": "Inc42",
+   "published": "2026-09-03T13:08:10+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "India\u2019s Stratosphere Is Up For",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
    ],
    "alerted": false
   },
@@ -2444,28 +2462,6 @@
    "founders": [
     {
      "name": "Retired Air Marshal",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16a9930297ea",
-   "title": "Zerodha's Nithin Kamath says India's primary market is 'red hot'",
-   "url": "https://yourstory.com/2026/09/nithin-kamath-india-primary-market-red-hot",
-   "source": "YourStory",
-   "published": "2026-09-02T14:41:25+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "Zerodha's Nithin Kamath",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Nithin Kamath",
      "handle": null
     }
    ],

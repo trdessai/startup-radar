@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-03T14:55:52.872947+00:00",
+ "generated_at": "2026-09-03T15:02:53.456244+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 34,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
   {
@@ -344,6 +344,23 @@
    "alerted": false
   },
   {
+   "id": "e07ba5c3eb76",
+   "title": "YoLearn.ai",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Fa3pObFhxNnJ5X2JyNEY5MXhzcmJid1Vfd1JreTNBdWRQem0yejRjcFU0ZWZWME5ZaGJFdjQ0a1NHQThsYlZ3bjJfTQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T12:50:19+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "YoLearn.ai",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "1d4e17f93771",
    "title": "Slice raises $100 Mn at $450 Mn valuation: Report",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkkwMkcxdlJVcWxGY1h6TjdpRlNtd0llbWNKaHo5X2VLMnpzeklMWmt2U1FyYlZXaGk0cXBfeG9fNy1kdDJ5bnVEbVVJbkt6bzU5bW5kZGFmUzBSXzZVNVNONWx5Q3F3cXotS3NKV3ExMmUwb0t0bHFudkpnN0FaOVlCUG9qbGha0gGIAUFVX3lxTE8ySTAyRzF2UlVxbEZjWHpON2lGU213SWVtY0poejlfZUsyenN6SUxaa3ZTUXJiVldoaTRxcF94b183LWR0MnludURtVUluS3pvNTltbmRkYWZTMFJfNlU1U041bHlDcXdxei1Lc0pXcTEyZTBvS3RscW52Smc3QVo5WUJQb2psaFo?oc=5",
@@ -489,6 +506,23 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "424595fd96ed",
+   "title": "Retail India News: Fitness Brand Boldfit Names Oliver Kaye as Chief Operating Officer",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZHE1MVZmV0FNeldTd01yRzF5bGdzODUwUjRlb3dSYnRJMVptYVh6MXBkc3RKS05pYk9OcXdKXzJSS0xILV9KNXpBblpodHMzR2lhNktIMXdmU05nUTZFdVJBZVd0ZlhNV3Jfa0VtWXVVVjZ5dVhWc29rUGFJSllsaHRtXzh1WFl2NWZ2cGdSR0ZJenZOamlJaUpDT083U3gxNVJXUXlGZGJjRFRfXzRaWWs1QThzajFP?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-03T12:15:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Retail India News: Fitness Brand",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "4c60ca7839c0",
@@ -2274,40 +2308,6 @@
    "score": 18,
    "category": "other",
    "company": "Digitisation Of Health And Education",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9faa50b64705",
-   "title": "India\u2019s Tech Pulse: Ecosystem Harkat & the Shifting Investment Temperament",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1BwZWo5cTF5enBFT2dLYThKS0VnZTdIRUlRcXg2NHVFNXNvTFhOX1J6NHFmOHE5VXUxVkVyMkloeWRkWUVRYUlHNE5Qd0lJSWxmT3BfVExjYmFPc0hXSUw0RlU5ZWpmakpqako0cUpvenRReXhyU1psWUo5NW1sbGdWRUtITU9fVWNrcmJlTU8taVY2US05ZDNDeVpfMW81Y1p1UTR2OEk?oc=5",
-   "source": "TheTechPanda",
-   "published": "2026-09-02T18:48:13+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s Tech Pulse: Ecosystem Harkat",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1b6f33532af5",
-   "title": "Adobe",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lcnVhLTdxRG9naWZSbzRETkJnMmVSVnA4T3V4YmJYemw2VTFZLVliSVRMTnNmNFVmN2lqUGxTeXNtQlZMX2c?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-02T18:29:41+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Adobe",
    "amount": "",
    "stage": "",
    "founders": [],

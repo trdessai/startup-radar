@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-03T00:29:59.558502+00:00",
+ "generated_at": "2026-09-03T00:45:09.129472+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 1,
-  "fresh": 0,
+  "fetched": 2,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "0fea9268a5f1",
+   "title": "AB InBev pours more into India, bets on states' policy push",
+   "url": "https://www.livemint.com/companies/news/ab-inbev-india-investment-plans-hoegaarden-corona-beer-made-in-india-11788342039095.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T00:30:40+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "AB InBev",
+   "amount": "$1.5 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.5 bn"
+   ],
+   "alerted": false
+  },
   {
    "id": "30a2aed54c87",
    "title": "- MediaNama",
@@ -3833,25 +3851,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f1c85b131ed3",
-   "title": "UBL sees premium beer growing 3x faster than market",
-   "url": "https://www.livemint.com/companies/news/ubl-sees-premium-beer-growing-3x-faster-than-market-11788250196928.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T12:01:48+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "UBL",
-   "amount": "\u20b9110 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "\u20b9110 crore"
    ],
    "alerted": false
   },

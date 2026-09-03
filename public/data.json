@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-03T18:02:40.423415+00:00",
+ "generated_at": "2026-09-03T18:22:31.088167+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 39,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "cad046b07fa6",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0RxN25tUmIwSWNkRUtlaDUzM2UwOVNtMFROYkZrYW1QU1o0LUN1Ukw5RWVaRTU2d1AzV2ZkQ25iOS04WDJPX0dLWlk4dVpvb2g5cHBtTEpPaGx1MzdZYU5vLXJnRUZDWkgtSEpyWmNOWWFkOTQzdUZLaHFvazRmWlg5TVVfX0Q3MDlvV091dXpsNVBMMFQtOUQ4NHduQQ?oc=5",
+   "source": "techcrunch.com",
+   "published": "2026-09-03T18:01:45+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "594a4dc2a291",
+   "title": "Ultrahuman Bags $70 Mn For Its Integrated Healthtech Play",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGowbjBOeFJtcjhmbGdSekVGa0VkWGlldmdjcnItcTNra3l4a1hwYkhMMUVOSEFRbWo1T3A3LUdBTXdjYjVlZlR0d0k3U0xfWVJPM3d1SnJZdTRtNVlMTFJaMkwzaVBQTWxQYlJOeHlHcV9GZHlteUZENkRYdXVZTUhNbTdMSk1aajFNZVRYOTJRQQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-03T18:00:17+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Ultrahuman",
+   "amount": "$70 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$70 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "850c6f8cd853",
    "title": "Ultrahuman raises $70 Mn from Qualcomm, Alpha Wave, Nexus and others",
@@ -61,6 +96,23 @@
    "alerted": false
   },
   {
+   "id": "b031eda53e99",
+   "title": "Delhi Government Announces Holiday On September 11 Ahead Of BRICS Summit",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdE9zRGtseDhzQlEtbzRoTTVVUXc1a29vWldKaDVETjVHY1RxQTBJNC04TzhaWmFjcnJ1eWJCTUtyaFJfVlBac2V2NzZNR0pFaWFfTjk2TmZrQkE1QzVicVJHeGN4Y0g1OUdMblZWdG5RV0pNTHVrWEVLakRCNnFUQWdxUERmaUxSbU9GclNGcEFOcXkzLTRNaHlrT1RBLWRLWjhUUHNjRm9JWUlXYjRjU1MwY9IBuwFBVV95cUxOYW9ySVY5dmlFNHZyQnl6aW5aRkZhMlljR1FqaEFMd0s5dkVzWmdULWFZUVAyU2d1RTYwRzE5VF82VXNEVHlhdnZLeDdET2FpZ2p2OC1mZXdjaGdoRjdXcnZHcGo1R0FaOFA5NEdRd2dtSGJHcEVXdUx1QkdVcFAyM0RMcDA3TFdtZVRUczBWWkh1Sk5rdTZrdEZwQTg3MjBYUXhKbk9XWnBNLWVqY0lBNUhyVUxad0xSYlRJ?oc=5",
+   "source": "NDTV",
+   "published": "2026-09-03T17:23:47+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Delhi Government",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
+  },
+  {
    "id": "04a8b3e3ba6f",
    "title": "Ultrahuman raises $70M to develop smart rings t...",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdVRm5ZTURoSE9Yd21sOW1YS3FvNkdPMHp3VDFUMnRTUFFxdWwza3RQUVo5U2w0MW1VQ3d2bTVmRTdqU21vR2l2VzE3VWw2U3JnY1huX2NZME1xQ0V5VlM0YVFjSUc2RjVBRjBZVHNwczRXMU9fbHdlMnMwWEc0bmN3S21YTlZGejdFdHUtSFVCOU0tbWUzNU1PTmZJTms4NFZlZVF2QndWUkpC?oc=5",
@@ -77,6 +129,23 @@
     "$70 M"
    ],
    "alerted": true
+  },
+  {
+   "id": "8a99fe29feef",
+   "title": "Dodicci Opens New European Dining Space in Delhi",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEtGdU9QZFkxZGR2elM2dWJwNGpKYlJJamZvSEZmNTRqMmpOVWl1OTlKWEF6YTRhaDRDTnltc2pMUTBURGFEMTFPZnFqZFN5aGg5V2cwcmt4RU84V2VRWDZtSjA5bGxuWG9mcmE1OWhoM2Y2dXdOWDhvSm9iNUkzWkdrTms3blUt?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-03T17:07:34+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dodicci Opens New European Dining",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "f36e1b7b3ab5",
@@ -2141,40 +2210,6 @@
    "alerted": true
   },
   {
-   "id": "0e9e4b614359",
-   "title": "Data centre industry, Piyush Goyal discusses power availability, regulatory issues",
-   "url": "https://yourstory.com/2026/09/data-centre-industry-piyush-goyal-power-availability-regulatory-issues",
-   "source": "YourStory",
-   "published": "2026-09-03T04:48:31+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Data",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8e8d77be889e",
-   "title": "Aakash struggles to break free from Byju era as topline stagnates for three years",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWJwNzZFUGdfVmdFYjEzanpxamlKMWZrcVBlekNvT1YtUHE1TV9hRXI1Q3QwUk1xM0t6M2JfOUxQQlNraHdCLXJORG1YQTJoVGxETzNQSFFGZmlRZG92MHJ0ZmRhMU52OFpqUUNHTnVYZFBvTV9hNURuMjExQ290dE1CTDlRd3RTWTFEUFRNeUFqRi0zcHBDUEpvb2hUVTh4UGM0MEhfWHd1TFk4NllrMElwWFFkQno1UC1nRNIBvAFBVV95cUxQQWJwNzZFUGdfVmdFYjEzanpxamlKMWZrcVBlekNvT1YtUHE1TV9hRXI1Q3QwUk1xM0t6M2JfOUxQQlNraHdCLXJORG1YQTJoVGxETzNQSFFGZmlRZG92MHJ0ZmRhMU52OFpqUUNHTnVYZFBvTV9hNURuMjExQ290dE1CTDlRd3RTWTFEUFRNeUFqRi0zcHBDUEpvb2hUVTh4UGM0MEhfWHd1TFk4NllrMElwWFFkQno1UC1nRA?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T04:43:29+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Aakash",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e0625d754509",
    "title": "Tata Sons to pump \u20b910,000 crore+ into Air India \u2014 but not without conditions: Report",
    "url": "https://www.livemint.com/companies/news/tata-sons-to-pump-10-000-crore-into-air-india-but-not-without-conditions-report-11788409842139.html",
@@ -2191,41 +2226,6 @@
     "\u20b910,000 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "d9f9fb008144",
-   "title": "Karnataka clears investments from Toyota, Mahindra, and others worth \u20b929,679 crore, will create over 66,000 jobs",
-   "url": "https://www.livemint.com/companies/news/karnataka-clears-investments-from-toyota-mahindra-hero-future-energies-and-others-worth-rs-29-679-crore-will-create-o-11788408988016.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T04:34:08+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Karnataka",
-   "amount": "\u20b929,679 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b929,679 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ae7037c52064",
-   "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says/articleshow/133725313.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T04:33:14+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "9aa8dbd09788",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-03T16:20:20.390112+00:00",
+ "generated_at": "2026-09-03T16:35:25.545355+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 44,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "8bd0d720d498",
+   "title": "SoftBank Offloads Meesho Stake Worth \u20b91,650 Cr",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDJUOEp6LUNNVFF4aUx3YmM2TDM4ZTZBZTRHOXhieEdYYl9ydGloX1VUUU5fcHN4cGpOaFNfVDF0b1BiNERHNXh0WDZITm5TLWEzV0NkVnN6OFo3eHJQNXdNek9KUGw1REFxMzZGU19lVkNmcGdWeGxLUUxyNVlsU2M3UQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-03T16:29:03+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "SoftBank Offloads Meesho Stake Worth",
+   "amount": "\u20b91,650 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,650 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "f0e3e840ac82",
    "title": "Kumar Mangalam Birla's UltraTech enters wires, cables business with \u20b91,800 crore Ultravolt bet",
@@ -2243,23 +2261,6 @@
    "score": 18,
    "category": "other",
    "company": "The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ff772c7792d4",
-   "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-commerce-chief-says-anthropic-back-on-right-side-with-trump-axios-reports/articleshow/133724330.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T03:34:58+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "US Commerce",
    "amount": "",
    "stage": "",
    "founders": [],

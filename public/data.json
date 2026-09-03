@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-03T18:37:25.668611+00:00",
+ "generated_at": "2026-09-03T18:49:03.600857+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 32,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "6089cd994c56",
+   "title": "Cars24 Trims FY26 Net Loss By 19% YoY To \u20b9441 Cr, Revenue Slides 18%",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXEtSzI5V194c0dNZGdxUGQxeE5UTGJwZEo1bEltNXF3NzRGc2ZVUkZrUE9GRDBkcHh4MFV2TEJ4OFFhSk9kY1lCUldEMHY1NkFKV0tGYjJ2TDdfZEt0bEoyTW1MSmZJMm5DX1V4dUZqTlM5NWxOSEFTQkFFdHpyWTFRTTFUVWVBZ2lDYXQ3LUNBRm1lZDJ1SGNURUM3Zw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-03T18:37:51+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Cars24 Trims FY26 Net Loss",
+   "amount": "\u20b9441 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9441 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d3392336ae7e",
+   "title": "IDFC FIRST Bank and BITS Pilani launch accelerator programme to support technology startups",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa3V4a2VBa2ZBOWp6Q1U1MFJlTHMyM2Q2UXNpZzZTMUY2bHhSWEQxTDYwVVl3MnQ3VnNIMTNIRFlYbktmSzd3aUU2Um9uMDFJUlM5UnRBRmFBeDQ4OWEtU040ZUs1VjQ0RnNScFNXNDBab1ZfMU1MWUhKZkNqN0NGY1A0NDNxN3VFZEVMQTdsVWZvcHAtRTU3QXJIbHIyMnlSXzExTkJNTnpSN0hPRE5raTdja19wSVZkV19MZ2JmdUROczZUdDhzVlYxNjBRMUozd0tBYWpuQUM4aFE?oc=5",
+   "source": "BioSpectrum India",
+   "published": "2026-09-03T18:33:45+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "IDFC FIRST Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "cad046b07fa6",
    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
@@ -192,6 +227,23 @@
    "score": 68,
    "category": "launch",
    "company": "WhatsApp",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d0d6d76127e0",
+   "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBwSXBXbDNtcXQ1TkwwWTB4bDBIQVQ2ZnR0U2FJN29XTnRRc0wzem1jX3pYUVM5T0dSSUlYcTJsZGpEamFnMGFuOHdQM2xGNU9FSnBxTU45cVJaOE1qd0tjT2ptSHZvUGsxaEw4Y01WZG9nR1lhQXJDRF9Bbmo2OGpQUk1oLXJrbTRvMG95Y1Z1NGc3UEFBeDdmM1BrdGF5bTlPaHQxWGVsRDZGeWpwcVdPYXBBLW5HUHhveVZJQQ?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-03T16:42:54+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Circular",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2136,59 +2188,6 @@
    "reasons": [
     "launch",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6da8401271af",
-   "title": "Uber to lay off 200\u2013250 employees in India amid global restructuring: Report",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjIwMjJPV2czZWhTeE1qZlplaklPWFhEcWxNYV9FTVZsN2VqU1NWc2N6SXhrVldydkc3TEhDY0FyT0ZPc3FGd3FhRnRHRkEzd2tSOF8yQm9Vc2VQZEpDUm9fTlVsZHc5a1JDRThaWlNiUHJtNFBxN0lFZjRCUDRHclRUWWVTRHBMQk5DVzNJcXhOQjV3dlkySElSbGM0OWh2Tmt0TDhHVWxHelVqdHh2aGE2RdIBswFBVV95cUxQSjIwMjJPV2czZWhTeE1qZlplaklPWFhEcWxNYV9FTVZsN2VqU1NWc2N6SXhrVldydkc3TEhDY0FyT0ZPc3FGd3FhRnRHRkEzd2tSOF8yQm9Vc2VQZEpDUm9fTlVsZHc5a1JDRThaWlNiUHJtNFBxN0lFZjRCUDRHclRUWWVTRHBMQk5DVzNJcXhOQjV3dlkySElSbGM0OWh2Tmt0TDhHVWxHelVqdHh2aGE2RQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T05:33:55+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Uber",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e76366210c2a",
-   "title": "D2C brand Plum\u2019s revenue crosses Rs 500 Cr in FY26; profit doubles",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTNoSDFqVjZHU1VLQzJ0SGpXSHltUkh1TFNpeUtrbHdvSF9DR0JycWdKcGhMRG4wWjNDSUFoYThDenVzZDJ6SGdSazE3MVBPdkJ3M2NhZUlkbVRBcUZFTTY5OHJzV0ZSQ0NJV09BU0JGY19LcTU5V2ZIeWx6UWFCazFQTDZNMXR6cXRnaWZhOVFLSHBHVFJXbS1ZZEczU2ZCTDNRZEY1NNIBpwFBVV95cUxOcTNoSDFqVjZHU1VLQzJ0SGpXSHltUkh1TFNpeUtrbHdvSF9DR0JycWdKcGhMRG4wWjNDSUFoYThDenVzZDJ6SGdSazE3MVBPdkJ3M2NhZUlkbVRBcUZFTTY5OHJzV0ZSQ0NJV09BU0JGY19LcTU5V2ZIeWx6UWFCazFQTDZNMXR6cXRnaWZhOVFLSHBHVFJXbS1ZZEczU2ZCTDNRZEY1NA?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T05:31:19+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "",
-   "amount": "Rs500 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs500 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c25a0c167c00",
-   "title": "Peak XV-backed bread brand The Health Factory in advanced talks for fundraising",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWVJVDA4N09tS3JUeUtYQzdQejhOblpFR0lyUlhSN2QzNmJvTmduelNKaVdFRVFBOTcxVl9hWWN2REJxYkJrQS01cWNqV0lQTWk0ZjF0by1vRjZjbEpGbk5SNFBad0xqR1V4VkJJYWpUMkR3OElyRk92STVZUUpoaWw1N3pJX2xudzNEMTU5aU9uZUNGalZRc2pxODU0UFAzY21BWWpn?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-03T05:24:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Peak XV-backed",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

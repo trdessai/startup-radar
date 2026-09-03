@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-03T05:50:29.472207+00:00",
+ "generated_at": "2026-09-03T06:04:55.149780+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 3,
+  "fetched": 32,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
@@ -203,6 +203,25 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "9aa8dbd09788",
+   "title": "Wonderful Raises $ 550 Mn In Series C Funding At $ 5 Bn Valuation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjF2U00yZnY1MzZBQTFQbm9JMmdNVXZfOUh2MGw0OFBxbXFWemEtTDQ2TDhCT3QzdmFQa19XYjE1NjU5Y0hsaWREVmsxMDYwNURVRTd3cUxqUlRZNDh6SVVmc2lpWmU2TEJhYnFSWUtrMndibzdtR1dkT0Y5Z0lSRUt0b0R2SUdtSzNYU29WYzdseXV1QmFPVWVaM0ppZEhxeTJrVQ?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-03T04:24:15+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Wonderful",
+   "amount": "$5 Bn",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$5 Bn",
+    "Series C"
+   ],
+   "alerted": true
   },
   {
    "id": "a29335ef5091",
@@ -3490,24 +3509,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "55c5ba7e7e4e",
-   "title": "Indian streaming service JioHotstar launches in Canada with Bollywood, reality TV rights",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHJZcnF5T1l5U1FLb3RrcllrU0lGVGlrVlQtUlJ4M29sMWcwUU1EdEFnTUtCdGcwa2ZnVEhQbk5SV2hYcjdKMXhlVS1nS2hvQnBpMUd0dVdhMzhsSWhhVnNlWmVGSG9zd0JoTXJXWU5ZazNPWmJkNGNDck9OX2hIcEt4NTdGVWJUTC1YbDBSbFZBVWlYZDk0blhYb0NQcUtsa2F1QzR2UlVwNk5vZ2VRZ0wyRDRXRUdSZFlB?oc=5",
-   "source": "The Globe and Mail",
-   "published": "2026-09-01T22:55:00+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
    ],
    "alerted": false
   },

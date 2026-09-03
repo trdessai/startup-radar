@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-03T08:02:08.103856+00:00",
+ "generated_at": "2026-09-03T08:21:24.609213+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 57,
+  "fresh": 5,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "da19d25e1624",
+   "title": "Cradlewise raises $12M in Series A led by 3one4 Capital, Prudent Investment Management",
+   "url": "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management",
+   "source": "YourStory",
+   "published": "2026-09-03T08:00:59+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "Cradlewise",
+   "amount": "$12 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$12 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c5b67a0a791e",
+   "title": "VLCC raises Rs 110 Cr in funding from BlackSoil Capital",
+   "url": "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital",
+   "source": "YourStory",
+   "published": "2026-09-03T08:00:31+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "VLCC",
+   "amount": "Rs110 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs110 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3c113f44e155",
+   "title": "Jazz launches data loss prevention app on CrowdStrike",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajJlcng5bUhSMmVYWWJIX25KWjNqd0NHRHgyM1g3QkRaUGg0SS1wU19NU1ZkbW5JZ29CVnFFSUNlWkpNWUZvSERaemg3dXFud25iZ2tYOE5ES3d1dDdnM2dwbl9ud19ucUZJUGR0cm1iRTRjaTk5SGFzTndnR19kRGRrcV9GbWtKV245YUVR?oc=5",
+   "source": "channellife.co.uk",
+   "published": "2026-09-03T08:00:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Jazz",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "64c4d4ba4525",
    "title": "D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio",
@@ -42,6 +96,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "63b139e31770",
+   "title": "Space Wrap Newsletter | India's Space News & Insights",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mMVk5Y0txZ3hEYkZWVW1MWDhza3Q0SlVDTmZXc2JRVk1EVklsQjJIbTdaNl9XUTVTVWdrbW8wU3dKZkdqTEFwSTJocHVOLTdaUWVGR0ZNQkZzNUU?oc=5",
+   "source": "The Hindu",
+   "published": "2026-09-03T07:41:15+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Space Wrap Newsletter",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "270f925a1859",
@@ -203,6 +274,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "a46b7a286812",
+   "title": "NIELIT And Intel Launch Agentic AI Skilling Programmes In India",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzZILWExcHpVaWpQR2JyWmpRM2NlRlRHblpIOTdoQW4tWmYzV3NOSF9WdFotanlYaUhHVkZ6RXBma2NZY1VFVVZnRjRZWWxoYU5uN2RXRVZCOEJMeWpzUk9iUHI0TjBvRDRRbDJ3OF9UYUdhbWdzS0dwT2lpRmgyZm5mcmxoU2szdGZaQWNIbjFIRDN4V3NwMnJzTFhzM2piNVE?oc=5",
+   "source": "APAC Media",
+   "published": "2026-09-03T06:46:29+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "NIELIT And Intel",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "75b73fd18a46",
@@ -3243,58 +3331,6 @@
    "alerted": false
   },
   {
-   "id": "94b621982e5d",
-   "title": "VCCircle.com: Latest Indian Financial News, Investments, Corporate & Startup Deals, Exits",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiUDM1WnhuOGVETEtlb21DblFIVkl3V2phaWl1U05udWtrZ3dnbFQzVVZFNEdmS0xyc3d4ZHhNQnphT29xTlo5aTV1aWx0VWdLRC13UDhZNVIxQjdGaGtiVHJsbjJwdGhLOUxDNmln?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T06:08:53+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "VCCircle.com: Latest Indian Financial News",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "90429311a658",
-   "title": "GRT Jewellers to Acquire 74.12 Pc Stake in TBZ for Rs 1,033.71 Cr",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFBQZkZRTmIySk1kUjdOenJCX2xZdFk0b0ZPdFhKNW43d1R2NHNxeTN5b0NlbndFZ1kwTll4RHd0SFBkNzF2eTVQQUg5Wnd6T2NMaml6RlM1TmZRYmx2UldyQ0xyRnY4TVNrazQ1elA5TVZ2WXFoSmZ0Um1TVmRTei1TV0cxRjQ2dTFweXpzd0hPdw?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-02T06:03:29+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "GRT Jewellers",
-   "amount": "Rs1,033.71 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,033.71 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f35b5b06df71",
-   "title": "ED raids 12 places across four states in Cyprus-based betting platform Parimatch probe",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ed-raids-12-places-across-four-states-in-cyprus-based-betting-platform-parimatch/articleshow/133699886.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T06:01:31+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "ED",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "5656c31eb6cb",
    "title": "ERI and Ecoreco join forces to launch \u2018ERI India\u2019 in major e-waste push",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnZkNFVpM2ZKVVVpdUllNFVCNUlYN0RJMWRkQXhGTGF2X1hsTEVScVhibVEzbjY3RUhjY0lGaDdwRXFhaG83TnI0SVdlSVI4NXNNTzV1ZkVYWDBDZ1dGUWRJQnRfT2FMNUVuZ0tEZDhxZG9nWTBiZnExMWJfdm52M0lDcEVjTjFQVC1pWDJUekpsMjlzNGRneEotRXU5c004bXl4RkpnbVJJZkJaSzI3X0h6UGxBcFNOVlZkY9IBwwFBVV95cUxOTGNPZHhpcHJOQk9tV2xkbk1KeWEwZTFKcFlKeXVhQkhNeXl3M2owM183OElSeWppbHpJdnpySlFITmRxUTJ3WE9zSUZ2TWF0TnJUbzBxTlVkYjgxaE9vYlJ5cXM4aHRiRmlhUUI1UXhTNGVkQ0NoNUo3MGEwQ2dQTGNkWkU4emx3Q3BubVhhVkNBNUtIZnNNaW10Si0tanJ5RXRrZFp1UkFhSUl2c2lCSHFQWTNHZFcxZnBxYTQwN2g4NWM?oc=5",
@@ -3310,41 +3346,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a0c3bbd98546",
-   "title": "How did WestBridge Capital fare in its latest exit move?",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWI0SFI1aWFtQkNhREVLeUZ3U3F0aTRhT1ZlRmtXQ3VlVjM0NU1PT3JMM1BWVU9wbXJ0Y2hIak1zb2pIdGItaVhyc3AyYmhFNnlZdTYtME9PS1dfUE9CclVqNnpuUURNOUVkWThsbnQ3ZnJGbzRNWVVpdnB4bmFzVEt3TjJ4ZUk?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T05:31:58+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "How",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6679cbe553e6",
-   "title": "The Ad Break Comes To AI",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uemp5NE1aR0Z6OG9YS1RVTUZjYmVtTVRsbDNpYXJ6Wk1pakFXcVR5cURhaFZXUFc5LUE5YlFyTkRwV1djcUVCZVVNTFdtNkRzbTdBZU56Qkdja3hjZGxUSmV3?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-02T05:30:14+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "The Ad Break Comes To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ce437f289930",

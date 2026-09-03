@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-03T17:55:28.453542+00:00",
+ "generated_at": "2026-09-03T18:02:40.423415+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 34,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "850c6f8cd853",
+   "title": "Ultrahuman raises $70 Mn from Qualcomm, Alpha Wave, Nexus and others",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWpfQVFGellvdnVnRjNOTW81Z2pKQWhzUU92d0lGS2tCTGJlbzNoWjlzWFFPQ0drYi15NmExUHV2S0Z3WlRsNDJjVWx0b19seGlMeXZFbnQxdndvRWZqVHdUWDNjaXJXMWJidjk1ajBwUVMwSVJQbnprUjdDRE1uWm1pbUpMSUhfYWstNUFfTDZKcm1fdFN5YV9mVTZpZlJwQ2fSAaIBQVVfeXFMTjlqX0FRRnpZb3Z1Z0YzTk1vNWdqSkFoc1FPdndJRktrQkxiZW8zaFo5c1hRT0NHa2IteTZhMVB1dktGd1pUbDQyY1VsdG9fbHhpTHl2RW50MXZ3b0VmalR3VFgzY2lyVzFiYnY5NWowcFFTMElSUG56a1I3Q0RNblptaW1KTElIX2FrLTVBX0w2SnJtX3RTeWFfZlU2aWZScENn?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T17:59:37+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Ultrahuman",
+   "amount": "$70 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$70 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "970e44eb6f4a",
    "title": "Airbus to deliver over 2 aircraft a week to India for next 10 years amid 1,200-plane backlog",
@@ -2206,24 +2224,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "03efd8c0a81b",
-   "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
-   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift/articleshow/133724655.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T04:29:01+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Microsoft",
-   "amount": "$101.9 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$101.9 billion"
    ],
    "alerted": false
   },

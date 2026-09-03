@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-03T12:25:39.743542+00:00",
+ "generated_at": "2026-09-03T12:40:03.254807+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 3,
+  "fetched": 26,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "d033205863ed",
+   "title": "Nvidia buying artificial intelligence platform Hugging Face for $13 billion",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-buying-artificial-intelligence-platform-hugging-face-for-13-billion/articleshow/133736454.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T12:32:10+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Nvidia",
+   "amount": "$13 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$13 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "3aa83ec98d5e",
    "title": "India Blockchain Week Conference 2026 Heads to Mumbai, Launches Institutional Forum",
@@ -2772,23 +2790,6 @@
    "score": 18,
    "category": "other",
    "company": "British PE",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "946a3afac9af",
-   "title": "Uber to cut 3,300 jobs in overhaul: Bloomberg",
-   "url": "https://economictimes.indiatimes.com/tech/technology/uber-to-cut-3300-jobs-in-overhaul-bloomberg/articleshow/133709074.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T11:34:22+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Uber",
    "amount": "",
    "stage": "",
    "founders": [],

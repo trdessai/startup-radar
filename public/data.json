@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-03T11:27:27.580953+00:00",
+ "generated_at": "2026-09-03T11:36:05.580884+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 1,
+  "fetched": 52,
+  "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "005bc498f837",
+   "title": "Zerodha gets SEBI approval for merchant banking business as it expands beyond broking",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0RjTlU4RGV5UFdZWVRNU0xGNkdLQWVXaldudzdvcTg5MkdDUndlTUg1T0xlSl9SeThMOGliU3B6YU94MVMzbi03VGlBSXZpdG9BU2NHd3JNYUpRVWFiWkFqQmJCUC1HTXA2Tm5DOGFvNDIxQWhENFJqeUxIZEs0aDV1djRSQmVROHJ0VUc2eUM4ZjZuMWJXYzk2NG5lSG40cDd3TzZKdDA1SlFWbjhkY0RMOXhtRGRGcFg1Y2xiR0F0TFhCSXNCUtIByAFBVV95cUxOY0RjTlU4RGV5UFdZWVRNU0xGNkdLQWVXaldudzdvcTg5MkdDUndlTUg1T0xlSl9SeThMOGliU3B6YU94MVMzbi03VGlBSXZpdG9BU2NHd3JNYUpRVWFiWkFqQmJCUC1HTXA2Tm5DOGFvNDIxQWhENFJqeUxIZEs0aDV1djRSQmVROHJ0VUc2eUM4ZjZuMWJXYzk2NG5lSG40cDd3TzZKdDA1SlFWbjhkY0RMOXhtRGRGcFg1Y2xiR0F0TFhCSXNCUg?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-03T11:31:11+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Zerodha",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5a63623605b6",
+   "title": "Why Startups Need A Scale-Ready Finance Stack Before Going Global",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeHVYalYyOWhQT0NtSWNlVkxVdkV1T010UDNCY1VPNldtZ2V5X0NKanlZRUdQTjd2NUFKV0xQb1FWYzlzYkNmZFZVeTd1aUFxcmpndGMyRzVmTFlBUWJON2R2XzlLUkhWeGxfcndvRUJlZEVCVHRYVUNycXFySE4zbEtzMksxc2J4S0FqTjdLclZzVGw5UlE?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-03T11:30:50+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Why Startups Need A Scale-Ready",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "fe6d5319aa19",
    "title": "Bengaluru-based Pranos unveils India's 1st private compact nuclear fusion reactor",
@@ -23,6 +57,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "12f94a70b99c",
+   "title": "From Space Diagnostics To Earth Observation, India's New Space Economy Is Not Just About Going To Space",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDlkSU5QdUZUSWYtQjJmZ1MtenZUY2d0QS1fRS10Vkdzb0JvOXZ0LW9IZlpXQ1pFRG13eXpkSTVuY3pEa3N0QVZfc2FucVY3M2lIRTc1am0zZkgwLWVuTExYWnc4bmxvN3RmS1AweHZ1eXIzc1h1UnBKcnozQm9uakg4QTJ1eVFiWXA2T0F1U3dHYlBuWVlmWGp4QWRPWWV1amxtOUc5V284NF81cEl5a2JBd3lvLXRrcnhhVnctd3hJSllOZy1uWENQR3oyX0tBenBkVTlXbTZ2MkI1ZHl5TF84ak9MZ9IB6wFBVV95cUxNM085UFJrbW8tNGlmOFB4WjB1WjBYdVVQSl9qY0dZenhnYWtXX3BqYWh1VmZwQ1lpM1ZfdVV6MkJLdEo0dkpqZXhLYVo0M3FmU0ZacGs0VkhFNFBWRXprVWhmSUhoUURrdXRDZFRVb0k3UmZLamR0N2NUT1c5SXo5YUQtZU83WnJpNW5qSWZHbFA1UWszY3JQQkh2bTRRSnl3UWJRR1NpZ01uWTdHUmhXeFNwcXA5aVJLLTlIdDBDdE9ZdEFKVlp0OEJxNXQ2QnROQkNpX2RmUWdKUjdnc2Vyd1d3dmFGMDNvckc4?oc=5",
+   "source": "ETV Bharat",
+   "published": "2026-09-03T11:11:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "From Space Diagnostics To Earth",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "366632845177",
@@ -232,6 +283,24 @@
    "reasons": [
     "launch",
     "$2.7 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d8c08ffbeefc",
+   "title": "Semiconductor startup Makr Microsystems raises Rs 10.2 crore for chip inspection technology",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2ZGSWM2LUJNbEZuWnRwSEJVcGZUWU1xOWdwTU5FN1o2YzBtaEQ4UUJYRlNuXzQ0TDFqNkVJX3UyWERfUlh6eHpVTzJHdUNNdVhtcDlEQU5DMDdtQWJ2ZUFWekxXQkU2SlBBRW5PRlpwc2JRS21NUU83a01qM2EyZ2hEbS1tRnZGTmxoYnVZZXZaclFJYVhRaUMxLWhMeGJiNi1SLXdocy0wMEk2M1ROMU5ZelRORzVGTHhuMHM5ajREazJCNUVjTThLdjJNcVpWRUxn0gHTAUFVX3lxTE9LZkZJYzYtQk1sRm5adHBIQlVwZlRZTXE5Z3BNTkU3WjZjMG1oRDhRQlhGU25fNDRMMWo2RUlfdTJYRF9SWHp4elVPMkd1Q011WG1wOURBTkMwN21BYnZlQVZ6TFdCRTZKUEFFbk9GWnBzYlFLbU1RTzdrTWozYTJnaERtLW1GdkZObGhidVlldlpyUUlhWFFpQzEtaEx4YmI2LVItd2hzLTAwSTYzVE4xTll6VE5HNUZMeG4wczlqNERrMkI1RWNNOEt2Mk1xWlZFTGc?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-03T09:33:18+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Semiconductor",
+   "amount": "Rs10.2 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs10.2 crore"
    ],
    "alerted": true
   },
@@ -2747,24 +2816,6 @@
    "alerted": false
   },
   {
-   "id": "719b94a56ca5",
-   "title": "10 Lessons from The Book of Joy about lasting happiness",
-   "url": "https://yourstory.com/2026/09/book-joy-lasting-happiness",
-   "source": "YourStory",
-   "published": "2026-09-02T11:00:00+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8ca10505338e",
    "title": "Rapid food delivery startup Swish to raise $20-25 million led by Bertelsmann India: Sources",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnBfWmZNQVh5VWZ3SUtoVVJwenFHUUg1Umw3YzhLYndwSTNDUlpGQ0FYYUF5LXhCd2lybFY0dWU2UXdJX1FNaDRIQTFGampicDZXUi1tZUZ1VlJRMUF1SEtQQ2FUa1VUTEQ0Y0l4UTBGczA0aGZXbUtyRTFkclk3VHFTMEd3d0dmaHR5LXduQ2ttbTFmNk9CYUxvQXNwMHNBR1NvTGJkMzZrS2c1blJrS0pMbGx1eS1ybU8xcnE5TF9rQV9vNFdXczNuT2hFQ1pvMzRFb0lqdmtNR3pzNXk4QTdCS0hpd01tc0tzOdIB8gFBVV95cUxOSzExWVpuazc3b0wzWWtvRVBnSmNwc3BjcGRsblNzRmJBSzcxYU00emhfZWF1LWo5UHM0VHBNc21tenBkMlhnMExXV09YLXh2elhncWtZelA1dTBQeWlrdkhhXzlRWkYzdWVrbWZFOHJjdzVpMjBtSVdyTHZHbXo4d2ppbUpQSks4UGRibmJWUm9xOElPOVd1ZTlyODdVYm5Sb0xxb1VWSXc0M3pZa05mbkNCbWRmaXhualFMbHZMMFZzLXRNMnVRX004V3hsUTBFRXVoLVFpS091azcyT3NiX0lvQ1FHZUpBMXNCel9WV2JPZw?oc=5",
@@ -2834,41 +2885,6 @@
    "alerted": true
   },
   {
-   "id": "090ab1f2d446",
-   "title": "Building a D2C Natural Baby Care Brand in India: A Founder\u2019s Playbook",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEFwMG9wTi1kUnhQY2NJNEdoRklad2ZpYkd2UEd5VGNCcGlWSnhSNEIwaWhLdHh1NjVRYWZHWWxPaWJQaXdIMk9FOEYwWXBGLUJucmpqVV90MzJlTHJvcXotWl9kb25JbmR4T3RQU3A4WUtEUW9aeXpPYldwQWZsd01WSDFJM3d2UHIxWHBHR2pfclhQbFM2LVFmeUxTZWtTckhzR0xtTGxuNXM5d2dhVUpB0gGyAUFVX3lxTE40QXAwb3BOLWRSeFBjY0k0R2hGSVp3ZmliR3ZQR3lUY0JwaVZKeFI0QjBpaEt0eHU2NVFhZkdZbE9pYlBpd0gyT0U4RjBZcEYtQm5yampVX3QzMmVMcm9xei1aX2RvbkluZHhPdFBTcDhZS0RRb1p5ek9iV3BBZmx3TVZIMUkzd3ZQcjFYcEdHal9yWFBsUzYtUWZ5TFNla1NySHNHTG1MbG41czl3Z2FVSkE?oc=5",
-   "source": "smestreet.in",
-   "published": "2026-09-02T10:56:11+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Building",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bdc223277533",
-   "title": "CCPA fines Dial4Trade Rs 10 lakh over ammonium nitrate listings, rejects Section 79 defence",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkk4NEV2UC1JbllycmtpWDZWTVFKRGpHbEhmcEhVME10dGZRZGF1NWQ5MU95dGtPVEpRQmltMkhubGphb2FPRlVKZDdBME81WVFKNUQ3T0VGWHVHSzNkSUlQUjVrVWdXTDJjWlJhcXZ3R2xZQzBxRXItU0NJUUY5eEt4WWpKQQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-02T10:53:07+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "CCPA",
-   "amount": "Rs10 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10 lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "89a9cd7a218c",
    "title": "Simple Wave Launched from Rs 1.10 lakh",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeENHbW5JQXpkOHZ2b0ZWUFY3LURRLVBQMjNkMzBHMGRILXd4UFl2aWE4ak0tUl9DaXlFWDZCdXFMdVE2XzBhZUJFR3hFczBNUHF3TWlpaGpGNjkyemZhZ2Q5T2JmMWFaRmZlRzlJR3VyQ202UDNPWVg4ZGY2OWV0Mko1bUdRY3Jn0gGOAUFVX3lxTFBtT21WUGQzX3E2c3NqQlVxOXdnQkE2WmtKUU1ZaWNjQzBkc0VrYmhCTkxaa3Nzal82MVFYWFdUeURMY0ZTbUpNaU1BZ19mYTVGU3A2c05ieGNRdThSdGhid25yUE8zak1fUDdHMW15VmNJRGJ6MmZleE5kdExyTjhHTnI2N0Y5a0FQcHc5VHc?oc=5",
@@ -2885,23 +2901,6 @@
     "Rs1.10 lakh"
    ],
    "alerted": true
-  },
-  {
-   "id": "3c9a8bb0e7ee",
-   "title": "BigHaat Agro",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SY1QwS1NFWkEyb1k3dUdmamNXODd5bThtV1pTNDc2aTM0UU1VbUdXd2JWNGV0cWZveWpMSmczU3F0QWJhZ1p0REhBNkRYcFlGSFR6YnpXbm1hV1NRbzVhTg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T10:32:14+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "BigHaat Agro",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5ad9839aa7dc",

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-03T19:31:14.072340+00:00",
+ "generated_at": "2026-09-03T19:41:46.856898+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 29,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -43,6 +43,25 @@
     "\u20b9441 Cr"
    ],
    "alerted": false
+  },
+  {
+   "id": "4aabe0c9ed5a",
+   "title": "Leanwatts raises \u20b918.15 crore in seed funding led by Trivest Partners",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2RadG12cmR6M3dqUWgzX3VtczVQdWRtLVlLNEV0RDlCckZ4V2VKcTRXMVZJYkNNUDR6OUdTTWRjYklLeWdNNlpiUXdRUlotYm9QdGhUcFFubTh3aVp3dXNUZVN5ZjMzWWFPRDQzQU15OFM1SkZaS3dibXJlcDBYV2JHQktMZ2d6UU9qSnRiVGZpUEV0elZ1dldIcDVQX0FVMlh4ektDQUdpS1Z3b2RpalpVaGhlaXU3V29MS3BfOEhBTUVmRzN4VXlQbWJkMjBQRE5yZFBsRUkySUhFLVBv0gHfAUFVX3lxTFBjZFp0bXZyZHozd2pRaDNfdW1zNVB1ZG0tWUs0RXREOUJyRnhXZUpxNFcxVkliQ01QNHo5R1NNZGNiSUt5Z002WmJRd1FSWi1ib1B0aFRwUW5tOHdpWnd1c1RlU3lmMzNZYU9ENDNBTXk4UzVKRlpLd2JtcmVwMFhXYkdCS0xnZ3pRT2pKdGJUZmlQRXR6VnV2V0hwNVBfQVUyWHh6S0NBR2lLVndvZGlqWlVoaGVpdTdXb0xLcF84SEFNRWZHM3hVeVBtYmQyMFBETnJkUGxFSTJJSEUtUG8?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-03T18:35:40+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Leanwatts",
+   "amount": "\u20b918.15 crore",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b918.15 crore",
+    "Seed"
+   ],
+   "alerted": true
   },
   {
    "id": "d3392336ae7e",
@@ -2170,23 +2189,6 @@
    "reasons": [
     "no clear event",
     "Rs425 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "36e32f3c6f0e",
-   "title": "NYC schools ban student-facing generative AI through grade 8",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEw2cjVJQkF2U3d0Uk9UWUJiNzVMV0hEQWdMTHFMT2U0c0ZyN3FwOU80REwwbFA0Y3JSUk1zUG9jZlBRT1NURFN3R3dEY3oweWRPN2Vlems5WXdmUGFpaW1reUFPazF5cWt3aXhiVVRnWllCMzJhMkoxa3lXakh2clFNcw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-03T06:30:44+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "NYC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

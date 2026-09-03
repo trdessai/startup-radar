@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-03T15:52:58.903380+00:00",
+ "generated_at": "2026-09-03T16:02:07.240394+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 33,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
   {
@@ -22,6 +22,24 @@
    "reasons": [
     "no clear event",
     "Rs2 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9f00ccbaf3cc",
+   "title": "Furlenco\u2019s FY26 Profit Surges Multifold To \u20b959.5 Cr, Revenue Up 62% YoY",
+   "url": "https://inc42.com/buzz/furlencos-fy26-profit-surges-multifold-to-%e2%82%b959-5-cr-revenue-up-62-yoy/",
+   "source": "Inc42",
+   "published": "2026-09-03T15:40:34+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Furlenco\u2019s FY26 Profit Surges Multifold",
+   "amount": "\u20b959.5 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b959.5 Cr"
    ],
    "alerted": false
   },
@@ -373,6 +391,23 @@
     "question headline"
    ],
    "alerted": false
+  },
+  {
+   "id": "bf0bcbb7e6bb",
+   "title": "InvAscent-backed RPG Active Pharma buys Raghava Life Sciences\u2019 API business",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEhyTVNDUVN5TW9JcV8zdTdQaEFBVHJ0TVZrX0xyVXFUX0taWDAtOGkyYkwxbUlnRGREWGk1Tm15TnNGSU54Zlg0bi1KeWlCSldiLVROUi1ITGMwVkstRHVsUDlISHNTempJbWRXZFhuQ1EySXp1aDhta2kxYkFtRlRISWRuNW55T0ktQmVRUk0wdFBBeTNjd0ZsOWpMSGM?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T13:05:33+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "InvAscent-backed RPG Active Pharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "1147a629d866",
@@ -2224,41 +2259,6 @@
    "score": 20,
    "category": "other",
    "company": "US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "859ad552e553",
-   "title": "AI boom is testing tech firms' climate pledges",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-is-testing-tech-firms-climate-pledges/articleshow/133723821.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T02:58:37+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "67173898f221",
-   "title": "Tech pilgrims flock to China as global innovation race heats up",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up/articleshow/133723772.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T02:55:29+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Tech",
    "amount": "",
    "stage": "",
    "founders": [],

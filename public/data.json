@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-03T07:30:59.350460+00:00",
+ "generated_at": "2026-09-03T07:45:56.812813+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 1,
+  "fetched": 51,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
@@ -16,6 +16,23 @@
    "score": 23,
    "category": "other",
    "company": "Ola Electric",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1c76135d7cc0",
+   "title": "Why Nykaa Is Bullish on Its Quick Commerce Platform, Nykaa Now",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUk5xbGozX0tIbzNQN0xleGx4XzJ3ekd5YVJEWnFzWGEtTzhfTG1wZEZUOHV4X0p4anduQWhaYnVhVlhxMXJ0aGxCTmRHWFR6UW82R1BuMG9Dd2tTQmZSMnBjaG1hQlg0MWg0NVBEZzQ2RTBVYUFiRHUtYkpvb0pYbkY5bHU?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-03T07:14:23+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Why Nykaa Is Bullish",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -114,6 +131,23 @@
    "reasons": [
     "no clear event",
     "Rs59.5 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "694c65391e52",
+   "title": "Grapevine: JSW Neo, Bertelsmann India, BluPine, Ultrahuman, others in news",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDA4S2ItdDNQdmhjWUoycE1IcDdfZ0hwSUVjRDZpY0ctY0JBbFAtMURMMURpNGtueEVac0VXekpuWV9ZS0hIcnlQQkc4bHJjakt5QjJDWThKcTJJZkhlRW1Ta3pHTE9JTFpQTFpJMjNSeWtIdTZGc005ZlI2RFFXaHpqODhwczVGd3lFLWJMUTVGT1cwZ3JCXw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T06:48:59+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Grapevine: JSW Neo Bertelsmann India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -3362,40 +3396,6 @@
    "reasons": [
     "acquisition in headline",
     "markets story"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "41c9b53db8e2",
-   "title": "Carlyle\u2019s ambitious India platform deal turning out to be a mixed bag",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFZuOW5CWkhWRXlhdjhWdndacHFCNUF3TnB1VHNUbWtsbkpxWUM4X3BwRkoxMVdIQk1PVVVuR3RkYjZGaWJ5SVRfNm9VY3ItZF9Qc0t1R01YVVRRR0xBVlRFeG0xR2d0Vkpud0hCblpIQjd6ZG90LTFvaVg0Ni1lNU5jY1pqWmc2QVVITWdnNWhOa2ZaQVFyNg?oc=5",
-   "source": "vccircle.com",
-   "published": "2026-09-02T04:29:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Carlyle\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0c207ded1a1f",
-   "title": "Transition VC plans Opportunities Fund, in talks with European LPs for Fund II",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2dkOGV0Zk5BMTl4UWpnSlRzdE42dF9PaDNDSGRCbHk2b19pdEg2a05IR3RjeTZLVzljVUdIbXRCVm5LYThTSnF2cHB0bkxqVlJDaENKTFNwZ0RlWXNCOUFUbzZiUkhSSkRBeVRNbXNkZ05WN1UtRGFyVW9icllfYTZIQzB2dFNWQlpRVF9TMU5sMlpUVDh4QWM4SjhNSEIzdnJj?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T04:10:57+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Transition VC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

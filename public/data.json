@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-03T11:17:43.117921+00:00",
+ "generated_at": "2026-09-03T11:27:27.580953+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 46,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 49,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "fe6d5319aa19",
+   "title": "Bengaluru-based Pranos unveils India's 1st private compact nuclear fusion reactor",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSENNdVFfTXV3OGZDWE02bzB2ekJYZXVmbkZkLUE1OGZROWFyRnVuLWt0eVd4cjRVQndPaGtsT2hSa3VHQ0ttOWlyeHBQbWs4eDYybDhvZlQ3Ym15RmVKUzRFRkdFd3o5WEZveS0zREgzOTYzT1NwUnFOSUNTMjRaRDl0SHJoU3FCVzlEV2s2eFY1MnRzSktqQ1F3N0RnNkd2eS1TUS0wSnZIRUJLNXlaV1VWaV9nRHRNbmxqQXY5NFpUNXIzbTJ1VVAxaTJsNDJFSWNvTkJhWkFGdUxuV1pZ0gHkAUFVX3lxTE9lOFZ4dzRPc2tlS0RlUHdGSXAySnoxLW55Ti15OFdRZTZKOGw4RS1mUGU4TEhpNXBRUnF3NjNmcXV0Y24xYVcwbWJob2M5SVpjV2EwV0hfUThaMXc5Z19Nb0ozVG5TM1BzUkN0VzVDb0J0YkRNZ19LOTVNbEQtQkhzUlBJMXV0RzU0aVRYSzFBTUliQ1hoeUtnY1FQRUZEU0szNmRNMUQ4dEtZVEg1aU1HdU0yb3RTdHVDSW5DaG8td3E3THM0Y2U0aUc3cGdrdkZ6S0RmY0dYTk5oX0czOEFzRkRBdQ?oc=5",
+   "source": "India Today",
+   "published": "2026-09-03T11:21:33+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Pranos",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "366632845177",
    "title": "Retail India News: Tira Beauty Expands with New Raipur Store",
@@ -2883,24 +2900,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8009389e4cc8",
-   "title": "Inside 88-Year-Old Jagdish Farshan\u2019s \u20b943.5 Cr Bet On Quick Commerce",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVJ6bFZQNGcwMEUxZzF1Y20zYzVzazNSVllqSEphOHExU2RKTzFwRFJkNjU1Z0NTbEpZOWMxVVFuUTI3Nk5iN2Z0UENBODNHb1gwV0NaeFl3SmFPanFBSldPSmVtYzM2THYweFJxV3BfWmlraE9GRjQwRnVaOEphT3FDakZSaFhmUU41eEVhYnNGVFY2aDlKWkd2c09NODA?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-02T10:27:38+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "Inside",
-   "amount": "\u20b943.5 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b943.5 Cr"
    ],
    "alerted": false
   },

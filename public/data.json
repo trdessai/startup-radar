@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-03T09:35:13.812778+00:00",
+ "generated_at": "2026-09-03T09:45:31.073375+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 52,
-  "fresh": 1,
+  "fetched": 60,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "cf247660c0a4",
+   "title": "Credlix crosses $1 bn in export financing for MSMEs, targets $10bn in five years",
+   "url": "https://www.livemint.com/companies/news/credlix-1-billion-export-financing-msmes-11788419090684.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T09:34:10+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Credlix",
+   "amount": "$10 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$10 bn"
+   ],
+   "alerted": false
+  },
   {
    "id": "94aee9196069",
    "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software",
@@ -73,6 +92,23 @@
    "reasons": [
     "no clear event",
     "Seed"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "21974651fc11",
+   "title": "Force Motors August sales soar 62% on strong demand",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tVDR6ZGRUWmFMbmZmdTFqbkZCM1RUM3BFU1k0QmpfclEwb3VtSUp2dGYxakZHM2JhSGs4ekZZeC1UcC1TQjhzbzhfbnVuZWJCUVh1bHBnOUstdWYwVkM1NFJRQXl2ZTdFYmJoRkVnXy1iUFI5U1ZuSjlR?oc=5",
+   "source": "Manufacturing Today India",
+   "published": "2026-09-03T08:58:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Force Motors August",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -3104,23 +3140,6 @@
    "alerted": true
   },
   {
-   "id": "c2f0a949b7fc",
-   "title": "OpenAI links Epic patient records to ChatGPT under HIPAA",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1dRLTJmOWthSGtqcWJhSlplM1UwakhmQURZcVd0cDh2bVFSY2xRcG1CbjNWMEJ4bGZzMXlHdlhyZVJySHZ5dnVYOHpmbW5JR2FCb2xNUUE4bEE3RFJ3TzYwUDM0YWp6MW9LQngwdUJwX256UG82OU1yNkFjQzFhdlBmdGxIUHc4WUtTdFpDM2Y?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-02T08:17:46+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "49b48ce90f6e",
    "title": "Blue Machines AI Launches Project Icebreaker Ahead of GFF 2026: A Sovereign AI Co-Innovation Program for Indian BFSI",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNN2tPZTFIR0hzUEE1UGF1VDY5SmVyTFhROENtUzlXUC02d080SmFxMUstNTl3OFFHNmNkbnhrWnM0bjRTbnFqLUZSR1h3Zkt6SVpxWF9FUGh5QjFTZFdVVjdQSHpGLVd5ZThrUExEYXV6QTVzNkN5cFRNLXFrWkpSbkxiNjRzQTNEMjNockZTV2Z6emNMd3otdUVtV0VwS19Yejh3QjctVEhqbldEdEx5b2tRdXJiZUxOTjlvTUhZLWp5ZEs2b1JJX0dJTnlZZldPYmdqcVY4YnlDMGJpemVsVUhxMEs0dWx2ckNOQk5rNjNpaUxuWmtCQlQwbGQ4ak0zVVFWTGNneDM5WmRNNllKTtIBkAJBVV95cUxNN2tPZTFIR0hzUEE1UGF1VDY5SmVyTFhROENtUzlXUC02d080SmFxMUstNTl3OFFHNmNkbnhrWnM0bjRTbnFqLUZSR1h3Zkt6SVpxWF9FUGh5QjFTZFdVVjdQSHpGLVd5ZThrUExEYXV6QTVzNkN5cFRNLXFrWkpSbkxiNjRzQTNEMjNockZTV2Z6emNMd3otdUVtV0VwS19Yejh3QjctVEhqbldEdEx5b2tRdXJiZUxOTjlvTUhZLWp5ZEs2b1JJX0dJTnlZZldPYmdqcVY4YnlDMGJpemVsVUhxMEs0dWx2ckNOQk5rNjNpaUxuWmtCQlQwbGQ4ak0zVVFWTGNneDM5WmRNNllKTg?oc=5",
@@ -3136,23 +3155,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d3f2f64900a9",
-   "title": "Induce AI is training its own vision models to reason about film at a level general-purpose LLMs cannot",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTVc4LVJzZDFaVll6OFNnd0pFeWxZdENKZmFyZXpXWFJ6QjQ0VXJlOGxIS1c1dWVKUEVXQ0pKVkZqZmR4bW1aTGExaDhMTFVXcEtEQkhDd20tamNIME1JcG1nSGxpdVNubEFpY3dZVmRJeEtJSDVxTXIwYzFoajB4eDFKZ1dLX3dnYzRxY2N6SUYwRDdwTHFfUmJvZ3ZnSnFKV1NVLXg4TGo0ZGM1OE5Cak5TWFV6akdxTWE1a01pWVFtT25fNjF3ZXk1QWE3eE8ySWVkVUI2eWdhNElHenBUYkI5NjnSAeoBQVVfeXFMUF96Z2pTVnJYWFFxWXd3RGtxb1BEZXA4N3ltLWVzVWtNemxCNEtVSXJvcnVrUFlqWDRxY2V1d3RyWEVET1BnQkRNSzVMamNLVFZxd3RudmFrbk05S1ZNMG9VeW4xamY4YWxQdE81WU43Z1NNc1pkcFlaTkZPQVN2WlNxay1RenI1Mnl2VXlvbW1SSG5hWVlaMlFTdVJDN0N6d245aUdfbTdCYmdhN0dEMTc0YW5XMlZnN1EzNW9Ia0dLY3VZLTZtSmhXNVU0ZXYzQUxXWW5rV2hLbGl0NnRhVFRBYUVDVW5BWk9n?oc=5",
-   "source": "Sangri Today",
-   "published": "2026-09-02T07:58:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Induce AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "cdb6821e6e80",

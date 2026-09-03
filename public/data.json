@@ -1,12 +1,384 @@
 {
- "generated_at": "2026-09-03T02:31:55.105019+00:00",
+ "generated_at": "2026-09-03T05:20:42.557068+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 30,
+  "fresh": 22,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "0e9e4b614359",
+   "title": "Data centre industry, Piyush Goyal discusses power availability, regulatory issues",
+   "url": "https://yourstory.com/2026/09/data-centre-industry-piyush-goyal-power-availability-regulatory-issues",
+   "source": "YourStory",
+   "published": "2026-09-03T04:48:31+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Data",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8e8d77be889e",
+   "title": "Aakash struggles to break free from Byju era as topline stagnates for three years",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWJwNzZFUGdfVmdFYjEzanpxamlKMWZrcVBlekNvT1YtUHE1TV9hRXI1Q3QwUk1xM0t6M2JfOUxQQlNraHdCLXJORG1YQTJoVGxETzNQSFFGZmlRZG92MHJ0ZmRhMU52OFpqUUNHTnVYZFBvTV9hNURuMjExQ290dE1CTDlRd3RTWTFEUFRNeUFqRi0zcHBDUEpvb2hUVTh4UGM0MEhfWHd1TFk4NllrMElwWFFkQno1UC1nRNIBvAFBVV95cUxQQWJwNzZFUGdfVmdFYjEzanpxamlKMWZrcVBlekNvT1YtUHE1TV9hRXI1Q3QwUk1xM0t6M2JfOUxQQlNraHdCLXJORG1YQTJoVGxETzNQSFFGZmlRZG92MHJ0ZmRhMU52OFpqUUNHTnVYZFBvTV9hNURuMjExQ290dE1CTDlRd3RTWTFEUFRNeUFqRi0zcHBDUEpvb2hUVTh4UGM0MEhfWHd1TFk4NllrMElwWFFkQno1UC1nRA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-03T04:43:29+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Aakash",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e0625d754509",
+   "title": "Tata Sons to pump \u20b910,000 crore+ into Air India \u2014 but not without conditions: Report",
+   "url": "https://www.livemint.com/companies/news/tata-sons-to-pump-10-000-crore-into-air-india-but-not-without-conditions-report-11788409842139.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T04:39:24+00:00",
+   "score": 71,
+   "category": "acquisition",
+   "company": "Tata Sons",
+   "amount": "\u20b910,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "\u20b910,000 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d9f9fb008144",
+   "title": "Karnataka clears investments from Toyota, Mahindra, and others worth \u20b929,679 crore, will create over 66,000 jobs",
+   "url": "https://www.livemint.com/companies/news/karnataka-clears-investments-from-toyota-mahindra-hero-future-energies-and-others-worth-rs-29-679-crore-will-create-o-11788408988016.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T04:34:08+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Karnataka",
+   "amount": "\u20b929,679 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b929,679 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ae7037c52064",
+   "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says/articleshow/133725313.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T04:33:14+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "03efd8c0a81b",
+   "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
+   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift/articleshow/133724655.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T04:29:01+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Microsoft",
+   "amount": "$101.9 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$101.9 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "393e2e3c3ebe",
+   "title": "Prism FY26: OYO parent sees 89% growth in gross booking value, driven by G6 Hospitality",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qeU8ydFVuNXRSTWtha0k3N1RDdEdrRnhVa2lRdlZhTTFwblJfN1pEckY4R2VhdlNNTUVKWDJibjhUZVVUcy1iZkp0T21VNmwzSHB5REZGM1hyd190OFhQX2FBSW00WnJ2YjBvNnNOZng?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-03T04:28:04+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Prism FY26: OYO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b2292d52cf24",
+   "title": "Uber to cut about 10% of global workforce, nearly 3,400 jobs likely to hit",
+   "url": "https://yourstory.com/2026/09/uber-cut-10-pc-global-workforce-3400-jobs-likely-to-hit",
+   "source": "YourStory",
+   "published": "2026-09-03T04:26:28+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Uber",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Dara Khosrowshahi",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a29335ef5091",
+   "title": "Family offices tie up to launch Arjav Capital with \u20b92,500 crore buyout fund",
+   "url": "https://www.livemint.com/companies/news/arjav-capital-private-equity-buyout-fund-family-offices-industrials-manufacturing-11788401539911.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-03T04:17:18+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Family",
+   "amount": "\u20b92,500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b92,500 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "efb42f85ee13",
+   "title": "NFRA\u2019s Narayanaswamy on improving audit norms, allegations against ICAI and more",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHlXa1UzYXpId0JFbW5vUW4tUE1wZ0FLalBXenphRmdJQ2dURmhhenEyWmV4OGVQN0pkTkdXWEViRDdDeEtOV21sWGVqbHMwU1NoX3lMU1l1NGNnUzEzRldaQ3BfYlJYVEdMWGZtSkVsR1lRal9DWUpnc2JtVmgtNXNXRFl5U0ZtcGhvWi04X01LQXM2SzlrSXBrOWxsZERTaHhQRmpn?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T04:07:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "NFRA\u2019s Narayanaswamy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "15e4eb125fd4",
+   "title": "Had benefit of watching PM Modi talk about AI 10 years ago: Nvidia's Jensen Huang",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/had-benefit-of-watching-pm-modi-talk-about-ai-10-years-ago-nvidias-jensen-huang/articleshow/133724573.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T03:52:40+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Had",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0f8e805d6847",
+   "title": "Warburg Pincus hits sell button on seven-year-old India investment",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3hYbndOd1N6N1lNaDloV2Nfd0VnRWRVbEtmODlrR21UX2dGQ1FmT2VJNUg3U2pNaU1BSlR0cGFuZjdCd1FmazlFS2NJVDVwWlRmOHNyam41dnNqeEhvY2g1ZFV0dWYtMmZmbFJIaldBOWREXzhHdFhQdTBPeTlkQ2NmUnRibTBydE1FaDhxMXgyalFF?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T03:42:49+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Warburg Pincus",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f16a5569ae6b",
+   "title": "The challenges with Voice AI",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRnVsdWZSTkp5NHZwd2xndkJ3VUU5bG4yRjEyMFE4cjhGTEVWdm15WEtlZVBXNWNVdHZhLWpBd2J3UXB6T0FoT2d0Q25mSnhyMC0tT1M0RVRZbWJsNF9NUUFOSmpLdEpkQXc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-03T03:40:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ff772c7792d4",
+   "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-commerce-chief-says-anthropic-back-on-right-side-with-trump-axios-reports/articleshow/133724330.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T03:34:58+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "US Commerce",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3aa1d7d86e27",
+   "title": "A gem shines brighter after life\u2019s hardest trials & friction",
+   "url": "https://yourstory.com/2026/09/gem-without-trials",
+   "source": "YourStory",
+   "published": "2026-09-03T03:30:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3ba23d086113",
+   "title": "US government backs OpenAI in New York Times copyright case",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-government-backs-openai-in-new-york-times-copyright-case/articleshow/133724096.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T03:13:00+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "859ad552e553",
+   "title": "AI boom is testing tech firms' climate pledges",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-is-testing-tech-firms-climate-pledges/articleshow/133723821.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T02:58:37+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "67173898f221",
+   "title": "Tech pilgrims flock to China as global innovation race heats up",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up/articleshow/133723772.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T02:55:29+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Tech",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4986cc801ba0",
+   "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-raises-ai-chip-forecast-as-big-tech-keeps-writing-bigger-checks/articleshow/133723691.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T02:49:46+00:00",
+   "score": 62,
+   "category": "funding",
+   "company": "Broadcom",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d569b6661fa2",
+   "title": "Flipkart\u2019s Microdrama Foray, Purple Style Labs\u2019 IPO & More",
+   "url": "https://inc42.com/buzz/flipkarts-microdrama-foray-purple-style-labs-ipo-more/",
+   "source": "Inc42",
+   "published": "2026-09-03T02:30:05+00:00",
+   "score": 54,
+   "category": "expansion",
+   "company": "Flipkart\u2019s Microdrama",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec0dc3317a1f",
+   "title": "Early.Partners launches KYC to help D2C brands understand the \u2018why\u2019 behind customer behavior",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3ZINEVZUXhCSTlIcmxkT2ZVOWdoaVp4Yi1EVWFZMV9TbE9mZzd1NDV2RUxTYmEzd004TlAyTEFYTmxnMDc0ZHBaODhyajZna3lUYjExVTltNkdXX1YyODYySi04aUNzUmJhbENFVy04YlRrb0lHUXNJdlpBSzZzcVAxS0UzNVRsN3VSTkl3LUZ2RlV1SHhNOGxLN1FUV3lqZGt0WjY3b0Rjd3VBTG54YWM5MUhrd2xBaWc?oc=5",
+   "source": "marketech apac",
+   "published": "2026-09-03T02:17:59+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Early.Partners",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "c7a9ffe58f76",
    "title": "Uber layoffs impact India; RMG ban, a year on",
@@ -3139,74 +3511,6 @@
    "alerted": false
   },
   {
-   "id": "0b0879ab201a",
-   "title": "HUMO - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96ZEo0S2JVUVFPaGFGRU1nelA2bExlVmY2N0RubDBQdzJ2MVZicnYwYUt5VEI2VjljRnFjSWVCVFFKRWw1T0U3b1k4NA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T21:43:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "HUMO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9b2d65fcbaab",
-   "title": "Uzbekistan - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMLXdmcGJpODR6MkJRaERROFRDaUxjVXNNU0doN0pXTDRINmhtWXpCcXBBY012dlVnVEFzWVlnSHBhZjJaejExcXJKblhlcmpRWjNV?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T21:43:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Uzbekistan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0ecd7623fcb6",
-   "title": "RemitX",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxM3pkdldpY0FHbFFZaTZqc1ZUMjJzT3NXOEx3b2h2QUdHLVVhTGlsVlZqUG9mSEF2Mm9kWDg5MUtnaXhFSXY3VGxkVEl3ZlNiQUhv?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T20:06:56+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "RemitX",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ed612a8bacf1",
-   "title": "Oracle To Lay Off Another 3,000 Employees In India: Report",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0pLMUV6QzBRUjBkb0lVV1Q4N2NFcjNKSUo4eVA3ZHBHcTFDWC12UXYwREw1X0szLWppM0pTWVBYZnpNQXJSejBqdlFHLVhtQ2JIVjNzT2ZoalBrcHhpQ3hOTDdHd0x5bEwtRE0yYWJtLXQ2dFlKbkJTaXNqdUU3aDJFZDVid3M?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T19:40:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Oracle To Lay Off Another",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "db1aed911da2",
    "title": "Eutelsat OneWeb seeks urgent security approval for LEO constellation to launch commercial satcom services in India",
    "url": "https://economictimes.indiatimes.com/tech/technology/eutelsat-oneweb-seeks-urgent-security-approval-for-leo-constellation-to-launch-commercial-satcom-services-in-india/articleshow/133691078.cms",
@@ -3222,24 +3526,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8b99960ae86c",
-   "title": "India\u2019s growing gig economy saved Yulu. What next?",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjl2VUNONEh4NjlOY2RRTGN0aE5JVjZ0YmptQkE3SEtrVWZsYU5DMXByenkydzVjbWpuOTJjeHdfLXczRHFHZUhvWFZpMG5UUzkxalJtTzRPYVJVQjRKYmpNVGxNM2wtR2tISXlFY0pBNFYteGNQc2czbWhqSHhDT3k0VkNRUEFxQ0p1ZHhjVQ?oc=5",
-   "source": "The Morning Context",
-   "published": "2026-09-01T19:14:44+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "85ca60dca639",
@@ -3279,23 +3565,6 @@
    "alerted": true
   },
   {
-   "id": "f197ac68c8d8",
-   "title": "India Startup Week 2026 Bengaluru Concludes; Eyes Hyderabad Next and Mauritius in 2027",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkFmdVoxbzFjSUpaSWZlOWlxa2tialRxdXhnbzJuX3VvVGJmMURWTklsdEFpQlpfbkhrY2lrNHlXUm9SYS1sb1hzU3RHaW1IMmctdWxWcGhoZ185NzVCQkRraEgyQmhJWUxOcjZSQzlXVV9NM3B4R3kxV2o2ckZpNUpDejZjdHVYNFJFODFIZm9vTHYyajdrb3BNbVdVUmdnSkF6UDhVM01WSVl6R3FLbTdKMTVUc0NTNW11MlZ5eE5qRlV3SXVON3RkTFNJOWZWMmlfTFQweTdxUdIB3wFBVV95cUxQVmZFZU4zeWFGZkUwNWQ4V0tTZUxCWkx3X0I2SFRnYlVKbzJkb0RqZVdiZUhUcndXM1dJRkhBYTZwYXI3VVRsYnA2U3p2dE1obG8xV3ZGc0xxQU5zUFhBd2tBNEd3RFJjaFR0cXhtVU1ZNHVMTDI1bjBobjd1ZEZGWmpKSFpnbmp2Yk44XzZSUlh2eTd3MzFReHFYQnVLc3ZwVENWa0k0ZDdRWkdWczYxTzJYeThDb01GRnFHUDBjdUtWTG9fQTY4Nmt6Mllwel9aUVdpU1Zxc1NMRFhTZ3Nz?oc=5",
-   "source": "Sangri Today",
-   "published": "2026-09-01T16:52:31+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India Startup Week",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "52ee4880c5ca",
    "title": "Masters\u2019 Union Secures University Status From Haryana Govt",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHpYWEJ4RkcxSmxhSG5YMXVra0h2eGpYMUNPQUZHRElScGpOWVZHeHFLazFTbmFpSm0tZWlIci1ldS1xc0pnMmRNV3BCRWJOeVhPZldoY2M0VkhLVURhcTJDZlRocC1VdTJEOTFaOG9GRGdwSnpETEhJanRrZEFTN1h0akUyc3ZD?oc=5",
@@ -3311,58 +3580,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e75b3b6f6b3d",
-   "title": "InsuranceDekho + RenewBuy: Ankit Agrawal On Making Of A Pan-India Insurance Distribution Giant",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWJiMVlWdVJrOFRiYnpCNE1uNTBDTF9TdjZFU3NfRDlMeDVsN3BSWGwwOXUwZlpVa2ZRcTZnbHg5Q1pRcDhXUlI3VTh4UVA3bmFGaVRhOVZ0cjVKUVJubHQ2SUtPNmRweFI1cjNUSDVncGZMWi1faDR6Q3RZNV9MT3ZyMkc3RnU4WXc5UmVEeFlMWEFDQ2hEVFNua1NfWnltZEF1RGdVNW9SekNoOTdEZm5GbC16NTU2UUww?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T16:00:25+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "InsuranceDekho",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b20449493b3c",
-   "title": "GIC Re flags GIFT City competition amid changing reinsurance market",
-   "url": "https://www.livemint.com/companies/company-results/gic-re-flags-gift-city-competition-amid-changing-reinsurance-market-11788266700328.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T15:06:48+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "GIC Re",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2e07c54292c2",
-   "title": "Oppex AI",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fdVAxZHp1VTl0RWVBb2o1OEZHQ19OU09LQjdaQWYtbFFFeTVBd005MUF0X1Q4Q1FsRnJuRTE4ODZHV212Xzl1My1R?oc=5",
-   "source": "entrackr.com",
-   "published": "2026-09-01T14:31:25+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Oppex AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f7a4002e4cd8",
@@ -3399,40 +3616,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "bca360d71282",
-   "title": "Fervo signs 396-MW geothermal power supply deal with Google; shares jump",
-   "url": "https://economictimes.indiatimes.com/tech/technology/fervo-signs-396-mw-geothermal-power-supply-deal-with-google-shares-jump/articleshow/133684181.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T14:08:38+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Fervo",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "da923c67feb6",
-   "title": "Odisha's Lok Bhavan becomes India's first Platinum certified green Lok Bhavan",
-   "url": "https://yourstory.com/2026/08/lok-bhavan-igbc-platinum-green-campus-odisha",
-   "source": "YourStory",
-   "published": "2026-09-01T14:08:15+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Odisha's Lok Bhavan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ca35298734c8",
@@ -3472,42 +3655,6 @@
    "alerted": true
   },
   {
-   "id": "04dad2965db0",
-   "title": "TechnoSport appoints Aditya Gadiyar as Chief Marketing Officer",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnp6STR5aFNWbmVKcDdyNXFNNllpOXdGUF9mU2M1Nmp4dnpSbFp4T21YdHFfUnk1LXo2R3Bvb2N2dGo4Qk1fOXBIVTd6TFdiU0N3bmVLQkpOYXNyWkQ4WE9qWm4wVWdUVGxwSGNTX00wZFZKTkUxSkFnQnFOenpjakFQRF9uMnFDc2pLdWREV0wtTjZyN2JpMw?oc=5",
-   "source": "India Retailing",
-   "published": "2026-09-01T14:01:57+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "TechnoSport",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "13ccedc8c870",
-   "title": "India\u2019s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGJfSHRIczhydjdwdXZSTWJFWXdSYW0xVFpMaWwxVDdWOEJpTGV1ZlBjU0c1bDgyR2t4bjUtZ3dZNF9laVZ6TEJFRDB5M0F6d3hiNVZYd1pUNV9maUFDZFljNDR3SVpBN3lubnFfdlRrcHhNaWNCMEVvNHBaMTl2bkF4ZWE5cHN0Qm9UVW1mMTlLNFhVMmRNSlpQZWd6SmpYOWtFZGlROFJhRjM5dDZHaDBTS1pQNUtOaEFOVQ?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-09-01T13:58:42+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "India\u2019s Unacademy",
-   "amount": "$206 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$206 M"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4dd254d384b6",
    "title": "UpGrad-Unacademy merger complete; Ultrahuman\u2019s $60 million raise",
    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/upgrad-unacademy-merger-complete-ultrahumans-60-million-raise/articleshow/133683284.cms",
@@ -3524,23 +3671,6 @@
     "$60 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "a32178537330",
-   "title": "Social media companies are trying harder to know which users are kids",
-   "url": "https://economictimes.indiatimes.com/tech/technology/social-media-companies-are-trying-harder-to-know-which-users-are-kids/articleshow/133683545.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T13:48:40+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Social",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f4e77af08b27",
@@ -3576,64 +3706,6 @@
     "$285 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "43cc438ab42c",
-   "title": "Whatfix co-founder and CEO Khadim Batti dies",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GelBpcFhKX29fLS04TFpZS0pDTUlUcXBxM2hXUXZGVjBuSUJYQ3FWYkV1YllnQTJDZ3Rvakp0cmtGcG5ScW8xS01BdnF5TFdLWExlZ1VGUE53LVpyemFmRjBpSEh4RlNjWGlZbHZCdUh4Z2wtdVAw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-01T13:37:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Whatfix",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Khadim Batti",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1cc8258112e6",
-   "title": "[Update] ESDS IPO Closes With 135.9X Oversubscription",
-   "url": "https://inc42.com/buzz/esds-ipo-subscribed-42-7x-on-day-3-nii-portion-booked-126x/",
-   "source": "Inc42",
-   "published": "2026-09-01T13:36:57+00:00",
-   "score": 35,
-   "category": "other",
-   "company": "",
-   "amount": "\u20b9720 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9720 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f5e0a3e3ab29",
-   "title": "Oman India PE fund makes another portfolio exit move",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQnlmUDJwbVhRTXhYYkt2dlA0TU51YWwwNDdUSzNMRGpzQ0drUVd6VzJuSllEbE1qbjRxdnE5Z2d0bVphTkFhdUI1cXpqQnlDeGRmd0I0NnQzWjJONXlUMzJYZFRCcE1peFdmV0RsX2lfbTd4M2N1cjE3Qzd0RG1NY2Zn?oc=5",
-   "source": "vccircle.com",
-   "published": "2026-09-01T13:11:21+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Oman India PE",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c5daae124793",
@@ -3672,41 +3744,6 @@
    "alerted": true
   },
   {
-   "id": "3f8aa35a3e68",
-   "title": "Tim Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tim-cook-hands-apple-to-ternus-bigger-and-richer-but-catching-up-in-ai-race/articleshow/133682247.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T13:01:42+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Tim Cook",
-   "amount": "$350 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$350 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b16a54c8b304",
-   "title": "Why Sashidhar Jagdishan chose to leave HDFC Bank, refused another term at India\u2019s largest private bank",
-   "url": "https://www.livemint.com/companies/news/why-sashidhar-jagdishan-chose-to-leave-hdfc-bank-refused-another-term-at-india-s-largest-private-bank-11788267068654.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-01T13:00:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Why Sashidhar Jagdishan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d6ebb4e5c00b",
    "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
    "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
@@ -3729,36 +3766,6 @@
    "alerted": true
   },
   {
-   "id": "5daa766e8a51",
-   "title": "Apple CEO Tim Cook gives nod to founder Steve Jobs in final memo",
-   "url": "https://economictimes.indiatimes.com/tech/technology/apple-ceo-tim-cook-gives-nod-to-founder-steve-jobs-in-final-memo/articleshow/133682102.cms",
-   "source": "ET Tech",
-   "published": "2026-09-01T12:54:50+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Apple CEO Tim Cook",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Tim Cook",
-     "handle": null
-    },
-    {
-     "name": "Steve Jobs",
-     "handle": null
-    },
-    {
-     "name": "John Ternus",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "07cbf9f6d25a",
    "title": "Dot & Key unveils upgraded moisturiser formulation with new campaign",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWdpbHIxSnRJT1RTcXU1enFZdlI0MzYzWnJiV1V0OHJtejlfZWt4OHNSbXc1RmF4Rm5LSXExM1ZSOWVscXg5Z2dwWmk3SXZISGI4X3FNRmtxbG9yR2JRcWR6VkxiWV9Kb1NGd3pzZjBVN05ybVExeVVqVnBjcGthVUpBRTMyR1FNdENxTUxveHAtM1cxMnZVVXYxU1NGQjdpOXliWERpZG1iZ1AzcmtEVEVOUzRBMEYzNFVvV080TQ?oc=5",
@@ -3774,23 +3781,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a40380f01d79",
-   "title": "Meta to limit the reach of undisclosed AI-generated profiles on Instagram",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UlM1TmQtSE5iNldfLTdLVy1ZVjd2b2RjUm9kUHVDSTBTeEJtY1ZXaUtieWdaVzlBNnVXY2dtZG5feW5MTVcycFRPNkdaci1NZWFzZVF4QUJwUnZEcGVaN1A4Nnl2YTN1c1JOYV9JU3JOVDZMbEFPWWlB?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-01T12:35:53+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "623a9cfe80ba",

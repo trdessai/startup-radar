@@ -1,12 +1,102 @@
 {
- "generated_at": "2026-09-03T06:25:32.913437+00:00",
+ "generated_at": "2026-09-03T06:38:53.024532+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 1,
+  "fetched": 39,
+  "fresh": 5,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "3dd2a57dd075",
+   "title": "SC overturns Rs 425 Crore penalty over fake AI citations",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDg1ejZGVTNVQ05ySEV1OGR6QVRBVUNqMUFfMzJGS3QtOVFXNk81TFVCZ1FUZGx6TFpxd2t0bzFPUFdfTDJ3U2lhRUU3VVg1aDJfNF9fQWVHbEtEeGx0OElmTEhHYTd4NndwM29xUXJpdFFGSFdqQlY1emdYR2x0ZVZCNWtSRU8yMTBZ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-03T06:30:54+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "SC",
+   "amount": "Rs425 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs425 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "36e32f3c6f0e",
+   "title": "NYC schools ban student-facing generative AI through grade 8",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEw2cjVJQkF2U3d0Uk9UWUJiNzVMV0hEQWdMTHFMT2U0c0ZyN3FwOU80REwwbFA0Y3JSUk1zUG9jZlBRT1NURFN3R3dEY3oweWRPN2Vlems5WXdmUGFpaW1reUFPazF5cWt3aXhiVVRnWllCMzJhMkoxa3lXakh2clFNcw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-03T06:30:44+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "NYC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1c260ef9f998",
+   "title": "Frontier Tech Fund Bluehill leads Rs 10.2 crore seed round in Semicon Metrology startup Makr Microsystems",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORnFmNXU5anoyY05UMU9QX0gweXVscnF2MmRkUUNQY3RxbjdRbjZrTjJid25tRjF6TE9XLTV3T2NxeGFYSlZQNXRka1lKTWY3WjlieHBtTDZMSkJTNzRyUEFrOEgzM2VVS0E5VzJjV3FBVFNBNUI0UjRQWWVldFRnWGI3ZU10U2V6RmRITWd6TkF6cFl4bk5EWjFqT1lORGpBbVQ1ZXpZQ2dOMnhjTzRpdmwydm5MM2g0UGk0MHIzTWpBZ3JMWFA5QjM2dTRUSmpwXzZQbVd4dEVkZ9IB2gFBVV95cUxORnFmNXU5anoyY05UMU9QX0gweXVscnF2MmRkUUNQY3RxbjdRbjZrTjJid25tRjF6TE9XLTV3T2NxeGFYSlZQNXRka1lKTWY3WjlieHBtTDZMSkJTNzRyUEFrOEgzM2VVS0E5VzJjV3FBVFNBNUI0UjRQWWVldFRnWGI3ZU10U2V6RmRITWd6TkF6cFl4bk5EWjFqT1lORGpBbVQ1ZXpZQ2dOMnhjTzRpdmwydm5MM2g0UGk0MHIzTWpBZ3JMWFA5QjM2dTRUSmpwXzZQbVd4dEVkZw?oc=5",
+   "source": "SMEStreet",
+   "published": "2026-09-03T06:27:37+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "Frontier Tech Fund Bluehill",
+   "amount": "Rs10.2 crore",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs10.2 crore",
+    "Seed"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e10f011db819",
+   "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T06:22:43+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "South Korea",
+   "amount": "$15 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$15 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4d79acb8cb7",
+   "title": "New AI models, critical threshold, and a design debate: A busy day for AI industry",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-ai-models-critical-threshold-and-a-design-debate-a-busy-day-for-ai-industry/articleshow/133727482.cms",
+   "source": "ET Tech",
+   "published": "2026-09-03T06:20:57+00:00",
+   "score": 50,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "6da8401271af",
    "title": "Uber to lay off 200\u2013250 employees in India amid global restructuring: Report",
@@ -3355,76 +3445,6 @@
    "alerted": false
   },
   {
-   "id": "c4784fee0e0e",
-   "title": "Geek Appeal: New Gadgets & Apps on the Block",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXBqT3g4Q1pCYVB3My1VeEtFNF9YY1ZCMmdzZnd6bVpmU2Jrb0U4ODdnRnBDNU9jWFZ0dmZSemxVb1FPc1d6X2lJNld1N0E0UnBSSXRCT0N2WWxQRlZTOVUyTWlrZmRKS0FVNk83QUw3Ynd3TmJ6VEhjSXlzeW8zUmJ3?oc=5",
-   "source": "TheTechPanda",
-   "published": "2026-09-02T02:07:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Geek Appeal: New Gadgets",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cdb6fe16c01a",
-   "title": "Restaurants step up food safety; UpGrad seals Unacademy deal",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/restaurants-step-up-food-safety-upgrad-seals-unacademy-deal/articleshow/133695195.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T02:02:52+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Restaurants",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "67b714e3ded2",
-   "title": "How the Unacademy-upGrad deal unfolded; Why AI could push India\u2019s ER&D revenue past $100B",
-   "url": "https://yourstory.com/2026/09/unacademy-upgrad-deal-ai-could-push-india-erd-revenue",
-   "source": "YourStory",
-   "published": "2026-09-02T02:00:00+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "How",
-   "amount": "$100 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "26d7b703a0c1",
-   "title": "TVS Motor makes global picks for growth and leadership",
-   "url": "https://www.livemint.com/companies/news/tvs-motor-ceo-global-leaders-export-growth-norton-11788267344933.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-02T00:31:16+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "TVS Motor",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b678ca587fff",
    "title": "Astrobase in talks to raise $40-50 million led by Peak XV at $300 million valuation",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNTBWRDduMlk5QU9vUWJFUkQ0VHF6aklGVVNYYXI5bVN2Ym56bTlHNzZWQ09JdWtJMHVIdm4wazVOYnNpcWxyLUc1UTgwVEt4VE1mOUNGWDNnYmJmWmduSGFTMG1xRzlnc2dUVEpEYnpheVB4WTJOeTVvajVQQ3Jsb1RQWVRONkxyZ1E0aVUySTJjUHNHTXUzUzBOTUZvd0VWUW51UmJDX1diRmlBYTdPdlBZd2xXV3ZZcDNQYkoxXzBkMVp6Q1dMMlR1UlVHakJ6T2JSbkE0UWhtRGJwOEdIV0xn0gHnAUFVX3lxTFB1c0NwNUpKbXhWbUxtZkNMclRTeU1LUm9La2NtemJiM1hpQTJwQzRsU2oxX1dPczdQWEx3ZHFjT09pUC1iQlZpMHNsVERqMjhRSzZqSHFYY0FkQmJNbFBjS3VMQU81ZkxtYWF4TWticEF6RzNqSUZ2S0dZVVY3NjB2M1ZRUVFNc2NxVDBLTUNwbGdLdlJIZ05QZ2VvZ0JnOW1qekZfSjZISEhJSEZBZ3BLdWJZTUNPXzV5bGhhWnJFYWpPNm5mZlM5czRhM3ZaLWR0bDJGd3dueVlZbi02LXNKbDNBN3NZWQ?oc=5",
@@ -3494,23 +3514,6 @@
     "500 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "e7b7d3f6c3b3",
-   "title": "Reliance\u2019s JioHotstar takes its streaming empire global \u2014 without sports",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmdqa2xfSFFJRWd1YktYNDlEbU9GU3F4bHFjX2ljem1YeTVSZXJsZ3FpWlhPRnRoOVR1b2JLV0EyLTVqcmtCX2tDb19DcFJ2M0V0ZllFQ3dhUkJTRWg0YnhtVFVGT0xIbnRqTmZxb0gtRTRyQks1LTFrUUFKekh6b0RvSHVjZzVQUHBiQlk4VEpRSkpxMzN4Q0xIdmJtUjJESjZ4VHN4MA?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-09-01T23:00:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Reliance\u2019s JioHotstar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "db1aed911da2",

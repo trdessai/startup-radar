@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T17:48:27.817837+00:00",
+ "generated_at": "2026-09-03T17:55:28.453542+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
+  "fetched": 34,
   "fresh": 1,
   "alerted": 0
  },
@@ -59,6 +59,24 @@
     "$70 M"
    ],
    "alerted": true
+  },
+  {
+   "id": "f36e1b7b3ab5",
+   "title": "RentoMojo Files RHP, Trims OFS To 2.7 Cr Shares",
+   "url": "https://inc42.com/buzz/rentomojo-files-rhp-trims-ofs-to-2-7-cr-shares/",
+   "source": "Inc42",
+   "published": "2026-09-03T17:02:31+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "RentoMojo Files RHP Trims OFS",
+   "amount": "2.7 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "2.7 Cr"
+   ],
+   "alerted": false
   },
   {
    "id": "98143a438088",
@@ -2206,23 +2224,6 @@
    "reasons": [
     "no clear event",
     "$101.9 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "393e2e3c3ebe",
-   "title": "Prism FY26: OYO parent sees 89% growth in gross booking value, driven by G6 Hospitality",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qeU8ydFVuNXRSTWtha0k3N1RDdEdrRnhVa2lRdlZhTTFwblJfN1pEckY4R2VhdlNNTUVKWDJibjhUZVVUcy1iZkp0T21VNmwzSHB5REZGM1hyd190OFhQX2FBSW00WnJ2YjBvNnNOZng?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-03T04:28:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Prism FY26: OYO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

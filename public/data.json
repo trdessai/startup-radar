@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-03T10:34:40.114511+00:00",
+ "generated_at": "2026-09-03T10:44:22.083986+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 55,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 58,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
   {
@@ -24,6 +24,23 @@
     "$100 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "0b1125ad6d64",
+   "title": "Honasa enters fragrance market with FIKN perfumes",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XS3dsTUpZV3Y5dWhDdGtEM1JzOVdlSUljNzRPWHZUblNCdE9IUU90eFRGOE1zOGN1bDFXeUFzZ19XSVlubzh2Wjl0M21XT09SV2gyMWstT0xEVWE4dmtyQndHWVB4Y3NuVS1mMzM0d3NQV0NMNDdVTHh3?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-03T10:20:59+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Honasa",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "6c2a837898bd",
@@ -58,6 +75,25 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "331fe8c4015b",
+   "title": "India's $136 bn dollar haul aids rupee but raises future risks",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkVpN2hTZldrR1hRamxBeDJzYTVxeHRvdkJ0VnZzN2dPb2N3dXRjZ2FjZzliRUFKTFhCQk9FdUhQaFVlcHR1MXg4Y0Rtb2JOTXZXZFJPSzBtR0dMQXp0NFZVNG5DV0hwZ21uWUdjYXNlME45N0kyR3dUVWZfV2lrcWU2Y2dKODNIWkFsME9R?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T10:00:44+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$136 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$136 bn",
+    "no company named"
+   ],
+   "alerted": true
   },
   {
    "id": "195f18470a98",
@@ -282,6 +318,24 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9af3cd47c999",
+   "title": "NBFC Business Nextgen Finance raises $23 mn; Baring PE, Saison Cap participate",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDJuT29xTDdVcmNQbF9QVEJ1MWIwaWI0SkJhZHktV2tNRVBUYXE0Ql9zbnlQV0FacE9YZlFHSkN0RExrRC1EWkx0d0x6TFY0VW5JRWhibktRUm50c0hVQUdBTDZQRUlSV1lIY09Qa3dkbFRrVzlDWm5LangzUHJlSG9HZXh1UGMzaUZlYXRrbmFYQy10Q0dTVEVYcUU4SGVHRHUySGxXQ00?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-03T08:47:12+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "NBFC Business Nextgen Finance",
+   "amount": "$23 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$23 mn"
    ],
    "alerted": true
   },
@@ -2851,23 +2905,6 @@
    "alerted": false
   },
   {
-   "id": "39453b840090",
-   "title": "General Atlantic eyes stake in south India-based hospital chain",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWtLU3ctSDhpYzNIQ3hSVU01R1hrcEZmTXVYcjFHaUU0bmxvdFhJbGRfUkQ5dXRvenpTeWpOdnRDUEZEVkFGRDNTYkZ3YmpjSUJhd1haNXNYMTZvUkNycWRScGgzSVZMMWhscVRlM1VMUHEzMWRVTnk4ZWJRTFd0SXlNWldKeE90QkhjSkpVdTQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T10:22:22+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "General Atlantic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "5ad9839aa7dc",
    "title": "Syrma SGS Announces New Facility With Elemaster Group in Bengaluru",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUZLc2hhcHhhd2dyeUFQMzRTRTRQRFNvV2trRk9tNWtnRk5aeGpTUk5Ed3loc1VYcERTUndQLXI1MGxaMzhsWjRYTVROa0ZFUzJZM0k2RzhkTFVkZDVvaXdENXM3RWZDZ1Zwc3N5dUtOZllTaEY1c1lsNkF0WlFFSHU5ajlQdUZoTHZpZ2N0Y01wTlNpWHI3S015Z2NEYVhCRWJqa1pucDVUa1g3eGV1Zm1FdEcyZw?oc=5",
@@ -2918,41 +2955,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "2f7a00a54440",
-   "title": "Retail India News: Ben Sherman Opens New Store in Thane",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWURtdXNadlBDNGRuOU0wcHBWQlJNaV9ITHFpbGpEdUpCRWcyZl9jV3NrUkp1eFBRYnp5Rk1LOEtLazZpYjZWVDVDbkd0Q09ybTNrdlpyY2lkMWlCd2xHT2JrYmNuYl8tbmFMR2RjN2x2ZDlXcUVCWGt6UUZ5a3RtSjljTFhHUDV5TmpqTlJFM0Q?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-02T09:59:17+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Retail India News: Ben Sherman",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1c838495338f",
-   "title": "Pine Labs appoints Razorpay SVP Jayaram Karthik as chief operations officer",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHhnemlFVG9fWkNwSzhtZUN6VlhNTEhTNm1UazZDNkFXVWw1aHUyckd0NXBKQWo0STA5RVdXS3VhVm1JMU5wZzNrT0Z5alpQN1RIekNlS1RRYzduWDNkdldENWFCR2gwdUJ4MFQxVlhFX29lbU1IZnNhSmJhaEQyUlVfdm5KcEZEMDNXSEtrX3NVQlNxNGNLQXJhUG9TN2hYTXRHbXZTbmxBTVZtQUdTXzlWXzbSAbQBQVVfeXFMTXR4Z3ppRVRvX1pDcEs4bWVDelZYTUxIUzZtVGs2QzZBV1VsNWh1MnJHdDVwSkFqNEkwOUVXV0t1YVZtSTFOcGcza09GeWpaUDdUSHpDZUtUUWM3blgzZHZXRDVhQkdoMHVCeDBUMVZYRV9vZW1NSGZzYUpiYWhEMlJVX3ZuSnBGRDAzV0hLa19zVUJTcTRjS0FyYVBvUzdoWE10R212U25sQU1WbUFHU185Vl82?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-02T09:56:59+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Pine Labs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
   },
   {
    "id": "911f42872678",

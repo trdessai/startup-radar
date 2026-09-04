@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T02:29:07.737076+00:00",
+ "generated_at": "2026-09-04T02:38:34.309831+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
+  "fetched": 14,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "cd83a298bda2",
+   "title": "RentoMojo Files RHP, Uber India Axes 200 Jobs & More",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PNktNd09ZQ2VvVDM1MHNTaURtSTFFRVdLUlJvYUhaVW9jVjRMTkJMZFJtTTJ3OUwxc1MyS1pJZHFYaklRZEZMZzdueEVWWkg4Q3NWNmEwa2NWMXZKaVdkRmo1V2FVY29hSkpteE1jNmpIby1TYWlwRF9YeHJDZw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T02:30:43+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RentoMojo Files RHP Uber India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5db8352dfe3f",
    "title": "Sugar\u2019s valuation slump; Slice takes a hit",
@@ -2015,25 +2032,6 @@
     "Rs2 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "1847100f973c",
-   "title": "Bluehill leads $1.1M seed round in Indian semiconductor metrology startup Makr",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzBPeE9wQTlLbjVDeFQ1MEVvcGRmU202cGRPQ1JfWFlBUzl4bURoRUVxaktwVDNkaFRVczNoa0VoTUMzMGVGY1pmczRIMkJXYVVxck1TUUJZX1pNU3hsY01ieUZsMVJIUFNsV0VRcGpxdXg0d0c0X0VfUTl1VHJMY0ZIU3R0eXMyRGJ6V1ptRGthMlBSSE5MUVRmNjFJa0FrM08zRVNpak1idFNsYkRSSQ?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-03T08:25:51+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "Bluehill",
-   "amount": "$1.1 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1.1 M",
-    "Seed"
-   ],
-   "alerted": false
   },
   {
    "id": "d2944557fdd7",

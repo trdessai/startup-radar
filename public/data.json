@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-09-04T02:54:11.563362+00:00",
+ "generated_at": "2026-09-04T03:01:45.988315+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 21,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "fee79c987ae4",
+   "title": "Rentomojo IPO price band set at \u20b9384-404; issue to open on September 9",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGpCT2U4M2o3MlJBS0ItUzktdWZmUkRmQ1FweXc5THNpbHNXR25JNmxlajRISWhobGw3MXRSNlpROUdPTU1JOTlSYnhRWDZlY1FfYXhWNHlYRXVXaUtlUzBES29tNjNuQUFiaVctSnByLXF0VWhDYmo4QXBPSnByZEZnWTc1NWZaU0dCNGtaYThmTTVuTlhnbG9jSzk5NUVrUVAwYkE5UQ?oc=5",
+   "source": "IndiaIPO",
+   "published": "2026-09-04T02:53:30+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Rentomojo IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fa3f9005e794",
+   "title": "Hugging Face, the French start-up that became AI's warehouse",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hugging-face-the-french-start-up-that-became-ais-warehouse/articleshow/133750214.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T02:50:16+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Hugging Face",
+   "amount": "$12.9 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$12.9 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c65bdb073852",
+   "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/articleshow/133750116.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T02:44:49+00:00",
+   "score": 80,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "$1 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fc18fee83d15",
+   "title": "Data at law firms Quinn Emanuel, McDermott exposed in cyber breaches",
+   "url": "https://economictimes.indiatimes.com/tech/technology/data-at-law-firms-quinn-emanuel-mcdermott-exposed-in-cyber-breaches/articleshow/133749999.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T02:38:10+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Data",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f23b3aa3aaa7",
    "title": "NRDC Seed Funding for Promoting Manufacturing Startups in India",
@@ -1915,75 +1985,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7ed7c2b73383",
-   "title": "Simple Energy Catches The Mass-Market Wave",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PTnV3dThwR1VCd09mcEZpa2pXZjdzTWFCejN6bE5GQkdJUk9fQUxSZTR3dmhiS1lpLUE1R1FnSzU2N01jQ05oMGxGUVA0UmRuR2JMMFNEZm9CSk1YS0VwZWxja2h0NjJ4YnNoUGJDSnlCVmpyVmJZNHlR?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-03T09:17:07+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Simple Energy Catches The Mass-Market",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cec5c616c6f6",
-   "title": "How long can cybercrime police hold your money? MP HC sets a 3-month limit",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSDBrMkRMeXRWSzdld3dkUUpWR2hoUVdrRWxVaG5yVFJXTkFJWm5kZVJXMGY4bHdvbE1nXzR5dEotN1JMSTJVTXlXbWViTzNHVHFmSTM4Um1pODlPUmJrMzVVMEVIYUVvX05sSlp2ZXpkbHU0bUdBQ0pSUDdVdw?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-03T09:03:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "How",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bde768f47109",
-   "title": "ABP Education leads seed round in edtech platform YoLearn.ai",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2ZmU2YybnlrTGFocHhYREJOdURCYTZRdGxnZFZwdUlmcWNaLXV4SVZvSEhTeE5md2lUNFNKRlU3cHh4VllTVXJ3SngyYWdJbmxZRElMU2ZheS1jYjlWNTNTLVNCbFJzTDVSdkdzOWszeUttZVY0MTZBU0tNZkRPcXZLTXVydVJOS0loQ0NfajE3RVRKRzJlYVNKM2pGMW_SAZ8BQVVfeXFMT1NmZlNmMm55a0xhaHB4WERCTnVEQmE2UXRsZ2RWcHVJZnFjWi11eElWb0hIU3hOZndpVDRTSkZVN3B4eFZZU1Vyd0p4MmFnSW5sWURJTFNmYXktY2I5VjUzUy1TQmxSc0w1UnZHczlrM3lLbWVWNDE2QVNLTWZET3F2S011cnVSTktJaENDX2oxN0VUSkcyZWFTSjNqRjFv?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T09:02:09+00:00",
-   "score": 35,
-   "category": "other",
-   "company": "ABP Education",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Seed"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "21974651fc11",
-   "title": "Force Motors August sales soar 62% on strong demand",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tVDR6ZGRUWmFMbmZmdTFqbkZCM1RUM3BFU1k0QmpfclEwb3VtSUp2dGYxakZHM2JhSGs4ekZZeC1UcC1TQjhzbzhfbnVuZWJCUVh1bHBnOUstdWYwVkM1NFJRQXl2ZTdFYmJoRkVnXy1iUFI5U1ZuSjlR?oc=5",
-   "source": "Manufacturing Today India",
-   "published": "2026-09-03T08:58:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Force Motors August",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d1d4b1e6b7d2",

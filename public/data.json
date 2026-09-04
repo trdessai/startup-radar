@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-04T10:52:44.426501+00:00",
+ "generated_at": "2026-09-04T11:02:01.266155+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 53,
-  "fresh": 1,
+  "fetched": 56,
+  "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "f0da835f4ff2",
+   "title": "Rahul",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1COFIxTEZSN2JQX05DMTlDVGo3cmxnNDJSTWFzeUprVnhsYjItdHE5TTR1TUxBWHhadU9KQzhJaEpSLV9tc284blpaRGd6QkRZekxqeFpn?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-04T10:55:24+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Rahul",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "82510471c973",
+   "title": "'I Shut Down Satvacart 45 Days Before Break-Even'",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlZVY09SY2xITjR2QkpwcE1SRXl5VHNOaTRkNkNaVm1MU1VGQksyTHQwRHNJZHVIcUNoc3lWQ1pnNUpEMnhwZi1HQnFzS05pM1R0V3J0ZEloWmxiTGRpZllGZUJKX1VxNzF5b1hOYjBUakZCSnlFZHFrSHRZTXgzenNFek5uaHdRdU5IdE9HV1FQUdIBkgFBVV95cUxNYlZVY09SY2xITjR2QkpwcE1SRXl5VHNOaTRkNkNaVm1MU1VGQksyTHQwRHNJZHVIcUNoc3lWQ1pnNUpEMnhwZi1HQnFzS05pM1R0V3J0ZEloWmxiTGRpZllGZUJKX1VxNzF5b1hOYjBUakZCSnlFZHFrSHRZTXgzenNFek5uaHdRdU5IdE9HV1FQUQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-04T10:52:06+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "I Shut Down Satvacart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a7fdb21ffd96",
    "title": "Sneaker brand Comet raises Rs 100 Cr in Series B led by Verlinvest",
@@ -95,6 +129,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "fb6f372af055",
+   "title": "Infinix HOT 70 Pro debuts in India with 144Hz display, 50MP Sony camera",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkZIc3BaN1ZEX3R3S3pVdHVGcEdLS3JuTjBDMjRGR2oxMmJkdXFOWU9WNGJnOHpmZncwbDJNbkVGaFpuQVBWeVZ4M1ZOU2RqYkNHY2ZUS0RHRzNNWXFOdjFocUxiNjZRejBBYlhkel96R1JoVGtqQ3R5b3NfMmtMQXpNd2pyX01ENUFsdE8tTUlieGdDVDhWaEd1NEx6QkVMVVE?oc=5",
+   "source": "varindia.com",
+   "published": "2026-09-04T09:59:35+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Infinix HOT",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "1644d5460ea0",
@@ -1053,58 +1104,6 @@
     "$70 M"
    ],
    "alerted": true
-  },
-  {
-   "id": "26c6e5e5a71e",
-   "title": "8 Taylor Jenkins Reid quotes to help men understand women",
-   "url": "https://yourstory.com/2026/09/taylor-jenkins-quotes",
-   "source": "YourStory",
-   "published": "2026-09-04T04:30:00+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "82e9829b99f0",
-   "title": "South Korea says chip investments under discussion with US amid tariff concerns",
-   "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-says-chip-investments-under-discussion-with-us-amid-tariff-concerns/articleshow/133751847.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T04:28:59+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "South Korea",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3cf0d40cdf25",
-   "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo/articleshow/133751573.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T04:14:53+00:00",
-   "score": 52,
-   "category": "product",
-   "company": "Chinese AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
-   ],
-   "alerted": false
   },
   {
    "id": "05b9508e7b3f",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T09:19:46.974074+00:00",
+ "generated_at": "2026-09-04T09:31:14.955195+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 48,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 52,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "8a99a9869c5e",
+   "title": "WhatsApp adds bill payments in India through BBPS",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TdVloN1g3RGo3T2NjSmZBcEZPV0o2cXlZQVc2VlZpSG5rU1BSd3I5QTBmbTJ2Z3ZDdkd3UWpEc2NJSTZhYmdwcVB0NWM1SFZCdGhMTHRlbEM2NFNBeEJEMVJZN0dkQnNNdXVOYUpac25OOEZOOHc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T09:17:08+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "WhatsApp",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "f344a768c3cb",
    "title": "Retail India News: Carrefour Enters India with Greater Noida Flagship",
@@ -25,6 +42,24 @@
    "alerted": false
   },
   {
+   "id": "e806cc92fcc5",
+   "title": "What\u2019s Next for India\u2019s Real Money Gaming Industry After GST Dues?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0hqWmRIZnR1YlpGemNGWnhrSTZ6SFlpdE4ydHo2dWRVaWRFaGlOTGxaQy1yYWJYVVZBdWFQOFdmOUNvRzhES0QzLVFtblo3cllFQ0RIQ1JfWFAzTzBLenlNQWcyaTdIUmVib1hWam1mV01sUi10YXhHaFdSejhnVGJKbFpUTUdRN2c?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T08:55:42+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "What\u2019s Next",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
    "id": "749f1582c856",
    "title": "Bluehill Backs Makr In Rs 102 Million Semiconductor Metrology Deal",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaG5CNHFtd0tPR2tid092dFhoXzhsSWYzRTBOOWlVT0ZsMWxEdTdDLTJXT1E4VVN0LXkta3dDM2NPWnoyN24wUktnSHVsRlBZUlkyV2E1bnVXdV9KaGdKRlZKaWgteWkwVXl5ODN5ZVcyYmo2a1VzR0JqX3A3M2ltb2RraXVoUEZkc3hFTWhTUkpTSGVTWk5fY1dQOVc3UUNfTWhKa0V3VEJEQk1ObWJvZ0lKeTRMdw?oc=5",
@@ -39,6 +74,42 @@
    "reasons": [
     "no clear event",
     "Rs102 Million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9f508c6a8f81",
+   "title": "AICTE launches Rs 245 crore doctoral fellowship programme to boost innovation and entrepreneurship: Check",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNV1FNWXZ1MFozcUloMld6NFpBQ3lBNGlhbWRZc2Z6MG5zUV83Q1JaOXc3aXU3VEN1c0FCVWZRRnhUWjlaOWZhVV9fdDh5RlU0NkJ0OVZ3eDFCUGEzYUpIcGlEWGVGUm5VeXRXckU5YUVpOElYMGZwR21kSnlWcmFNRjFsNTBZalY1bkFUalNBM2l4Tk9wbmk2UEhCTElkSF96MEtaU0NLbTJIWDVpT2YyQlFkTzd5eHBIOXdiTk9jNkRMdmtIeW1kNnZIeTBMWWhxeEdMOUp4OEF1eUNHd0JCLXZzMDlFcl9WMEJ2YkhrSE9TYVJvbTdxLW1NMmRsZGtGeTNNS2NlRWlYSzUtbjdGOTFHakpQWEktWUJqMlFfemlxcU5UMXRQc1ZsVdIBsAJBVV95cUxOOHpKZGx6SDdkdWVYYmFNSTdHUEFVWEk5b09kY1Y5TEJRNVJWMTcxMXlJSzByU1NqWHRqRFZXekFmNm5XaHR4Y3NYN0dHMVVKc08tekZBaktBdnI4dlFHclhhN3NVWnVsbDZ4bVhOS1czdGtDUlBKYWxqQnhBWVAxbDJvbFoteTBWeW53OWk0aFhOLTE5cl9pVWE4dklOZnNsVUZBT2t5M2xhd3JqaF9GZDJIYXQ0V0czV1d2LTJxQmc5aUEwNHI0QmlxSGpJbkVsOTF5UHowLW9QdmpzQmJETlhfZjdGb2g1dGpsVWNRelJWX0VfekZkTVM0ZVhCM1d4R3FiSGZ5Y2EzRFZSbml0MWw4Zy1aeGtkdFVpa1Z3SkFTUnFpMXNERzRVaDRSenND?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-04T08:44:00+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "AICTE",
+   "amount": "Rs245 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs245 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5a0d614a162c",
+   "title": "{Funding Alert} Cradlewise Secures Fresh Capital for Child Sleep Technology Expansion",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzlVdnZaWE91MXVPMW9lbzlXQXVjREt0blpkZ1IzT2g1WW9jYXJkS2hWVXo5R3pvVzVBMGdQdGhrSGs2VGJ6N0JOZVd4aDFfc21jR2RXTi0yd2lBZ1dSLXV4eGptLXYwQmpmS0VpYjdmb2JzM0FHY190ZjFSTmlIaUVOZ1pyLTlQcGZVUkJkd1pzMkI5OW9ZY3RVU2JvdFVVTjRaaU90Wmp3TmdOb1Z6VWhFVW1tUQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-04T08:32:32+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
    ],
    "alerted": false
   },
@@ -401,6 +472,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "8176f0d3b98a",
+   "title": "\u2018Targeting 6 more launches this financial year\u2019: ISRO chief V Narayanan",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW8weFZNZDJFUzI2MXFjRTF4dW9WUHdfZ1c1WGlGd01lREV2RHJEQ1ZEQjhqd2YwUjBpWi0xaVNrWnFlcFc4QWh3QmJLZF9sVGdLRnZQZXE2WGhRcEt2UWNaMy0zWnNaaHlhV1F5aVkzaU1xS050RnFJY0Q2WWNPcmI0dVJENE12WlpjYUNTS29pX09IVTVVb3hRRDRqQQ?oc=5",
+   "source": "Public TV English",
+   "published": "2026-09-04T06:45:45+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Targeting",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "886f73272ecf",
@@ -1207,24 +1295,6 @@
    "alerted": false
   },
   {
-   "id": "6089cd994c56",
-   "title": "Cars24 Trims FY26 Net Loss By 19% YoY To \u20b9441 Cr, Revenue Slides 18%",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXEtSzI5V194c0dNZGdxUGQxeE5UTGJwZEo1bEltNXF3NzRGc2ZVUkZrUE9GRDBkcHh4MFV2TEJ4OFFhSk9kY1lCUldEMHY1NkFKV0tGYjJ2TDdfZEt0bEoyTW1MSmZJMm5DX1V4dUZqTlM5NWxOSEFTQkFFdHpyWTFRTTFUVWVBZ2lDYXQ3LUNBRm1lZDJ1SGNURUM3Zw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-03T18:37:51+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Cars24 Trims FY26 Net Loss",
-   "amount": "\u20b9441 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9441 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4aabe0c9ed5a",
    "title": "Leanwatts raises \u20b918.15 crore in seed funding led by Trivest Partners",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2RadG12cmR6M3dqUWgzX3VtczVQdWRtLVlLNEV0RDlCckZ4V2VKcTRXMVZJYkNNUDR6OUdTTWRjYklLeWdNNlpiUXdRUlotYm9QdGhUcFFubTh3aVp3dXNUZVN5ZjMzWWFPRDQzQU15OFM1SkZaS3dibXJlcDBYV2JHQktMZ2d6UU9qSnRiVGZpUEV0elZ1dldIcDVQX0FVMlh4ektDQUdpS1Z3b2RpalpVaGhlaXU3V29MS3BfOEhBTUVmRzN4VXlQbWJkMjBQRE5yZFBsRUkySUhFLVBv0gHfAUFVX3lxTFBjZFp0bXZyZHozd2pRaDNfdW1zNVB1ZG0tWUs0RXREOUJyRnhXZUpxNFcxVkliQ01QNHo5R1NNZGNiSUt5Z002WmJRd1FSWi1ib1B0aFRwUW5tOHdpWnd1c1RlU3lmMzNZYU9ENDNBTXk4UzVKRlpLd2JtcmVwMFhXYkdCS0xnZ3pRT2pKdGJUZmlQRXR6VnV2V0hwNVBfQVUyWHh6S0NBR2lLVndvZGlqWlVoaGVpdTdXb0xLcF84SEFNRWZHM3hVeVBtYmQyMFBETnJkUGxFSTJJSEUtUG8?oc=5",
@@ -1259,23 +1329,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "881742638da2",
-   "title": "Padel 360 Expands Mumbai Footprint with New Lower Parel Centre",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWQ5WnE2SVIyY3FYTEI5Q014TnNxTjl6Uk9zZ0d0bXVHT0llS3lndFdRTklfZ210LVFjdWNyRUVKOXNrbWx2dzR0YnZvaEZNWXZEazN2RXlFbkQwdUlzR0tNdFJBT0pyWEFCN1l4dThTb3VYZHFfc1ZKWVEzWm5maWdFQnlHaEI1ejlqazN5cjYwaXlNaVRUeA?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-03T18:33:45+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Padel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "cad046b07fa6",
@@ -1329,58 +1382,6 @@
     "$70 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "970e44eb6f4a",
-   "title": "Airbus to deliver over 2 aircraft a week to India for next 10 years amid 1,200-plane backlog",
-   "url": "https://www.livemint.com/companies/airbus-to-deliver-over-2-aircraft-a-week-to-india-for-next-10-years-amid-1-200-plane-backlog-11788456646811.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T17:41:42+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Airbus",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dacd45f00e3d",
-   "title": "Aditya Birla repeats Opus playbook with UltraVolt, eyes wires market leadership",
-   "url": "https://www.livemint.com/companies/aditya-birla-repeats-opus-playbook-with-ultravolt-eyes-wires-market-leadership-cables-wires-polycab-kei-havells-11788447089967.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T17:23:51+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Aditya Birla",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b031eda53e99",
-   "title": "Delhi Government Announces Holiday On September 11 Ahead Of BRICS Summit",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdE9zRGtseDhzQlEtbzRoTTVVUXc1a29vWldKaDVETjVHY1RxQTBJNC04TzhaWmFjcnJ1eWJCTUtyaFJfVlBac2V2NzZNR0pFaWFfTjk2TmZrQkE1QzVicVJHeGN4Y0g1OUdMblZWdG5RV0pNTHVrWEVLakRCNnFUQWdxUERmaUxSbU9GclNGcEFOcXkzLTRNaHlrT1RBLWRLWjhUUHNjRm9JWUlXYjRjU1MwY9IBuwFBVV95cUxOYW9ySVY5dmlFNHZyQnl6aW5aRkZhMlljR1FqaEFMd0s5dkVzWmdULWFZUVAyU2d1RTYwRzE5VF82VXNEVHlhdnZLeDdET2FpZ2p2OC1mZXdjaGdoRjdXcnZHcGo1R0FaOFA5NEdRd2dtSGJHcEVXdUx1QkdVcFAyM0RMcDA3TFdtZVRUczBWWkh1Sk5rdTZrdEZwQTg3MjBYUXhKbk9XWnBNLWVqY0lBNUhyVUxad0xSYlRJ?oc=5",
-   "source": "NDTV",
-   "published": "2026-09-03T17:23:47+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Delhi Government",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "04a8b3e3ba6f",

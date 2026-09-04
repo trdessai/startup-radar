@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-04T08:36:09.833580+00:00",
+ "generated_at": "2026-09-04T08:47:31.542321+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 46,
-  "fresh": 3,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
@@ -23,6 +23,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "0e2061e39900",
+   "title": "Bengaluru's EtherealX Unveils Reusable Rocket Engine Tech",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW4yRXFQQnE3eDBheUw2OWEzWVdNcFlOU1VvYVpJbENBSndpUEk5QUw0MHJWaEFsSElsTmJfZkRWUG9oa29zTGt5UTllWDRaU3FpVHFfaTYzSHlLbGE3WVQ5UmdHWVFwOXZjcFhBVGNGR2dFTnQ0bmFPVHR6Y1RDQUxGcGdEWWN1ZEZxdlJtSGdLcFlLYV9EWHhfX0lRdWlPVGVrUFlXQzdXOXFYZDJYeFcwR0M5ZFlTaGJqUkZLQVNxUVBjZEE?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-09-04T08:29:30+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Bengaluru's EtherealX",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "d4142fe710c7",
@@ -1379,24 +1396,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f36e1b7b3ab5",
-   "title": "RentoMojo Files RHP, Trims OFS To 2.7 Cr Shares",
-   "url": "https://inc42.com/buzz/rentomojo-files-rhp-trims-ofs-to-2-7-cr-shares/",
-   "source": "Inc42",
-   "published": "2026-09-03T17:02:31+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "RentoMojo Files RHP Trims OFS",
-   "amount": "2.7 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "2.7 Cr"
    ],
    "alerted": false
   },

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T11:38:41.017540+00:00",
+ "generated_at": "2026-09-04T11:46:21.940607+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 59,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -194,6 +194,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eccc3fe01090",
+   "title": "DPIIT Issues Guidelines for \u20b910,000 Crore Startup India Fund of Funds 2.0",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXRHdzdzdlRIVTdxVlFKQ2ZCRUhJQ0c0YWZJMlZiTFRXb0ZrVV8tUDhhRkZXbEV4UkRpZ1hTSlR1UGJBVE1TdTBoOHY5cmMwOHVSNlpzOExZc29JdjRnVFR3OEU0TGREN0JlZ21RZS1OSWhZZmUxY25TX081MW9aNE1VdjlIWVNBTndJU09pOGZ1cTFsMmJJdDh2eGNTQkdCVVVqSUppci1IZw?oc=5",
+   "source": "News On AIR",
+   "published": "2026-09-04T10:47:06+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "DPIIT Issues Guidelines",
+   "amount": "\u20b910,000 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b910,000 Crore"
    ],
    "alerted": false
   },
@@ -886,23 +904,6 @@
    "score": 27,
    "category": "other",
    "company": "Rentomojo",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "47262f997206",
-   "title": "WhatsApp Takes On PhonePe, Google Pay With Bill Payments In India",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUMtaTNvWDlvREF5SFZrMTZpbTFHSTZ4RWFYY0Y5NzBkVkVSaVhVN2YxSkFBTFFXXy12aFF6Z2Vkb2ZzMWh4bTVfRUU5OTRWUFJmNTBMaldjYW1uYW9uWm9BVk1NVWZxMHlTOW9MVTNwaVJKQ3lvU3RHYmUyQl9fRDU5MGNIZTFqUms1TktyUHZ1QQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T07:04:37+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "WhatsApp Takes On PhonePe Google",
    "amount": "",
    "stage": "",
    "founders": [],

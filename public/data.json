@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-04T00:26:56.836503+00:00",
+ "generated_at": "2026-09-04T00:40:45.622037+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
+  "fetched": 10,
+  "fresh": 4,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "1f7428aa363a",
+   "title": "In ease of biz push, govt rewriting the corporate compliance rulebook",
+   "url": "https://www.livemint.com/companies/news/ease-of-doing-business-push-corporate-affairs-ministry-compliance-rulebook-msme-ai-11788428976387.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-04T00:30:54+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "In",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cac758a56d1c",
+   "title": "Korean cosmetics importer Skintl loses licences over labelling, warehouse lapses",
+   "url": "https://www.livemint.com/companies/news/india-drug-regulator-skintl-enterprises-label-misbranding-11788412796978.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-04T00:30:34+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Korean",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4890ccae4ec6",
+   "title": "India's regional aviation needs broad policy tailwinds, says ATR chief",
+   "url": "https://www.livemint.com/companies/news/regional-aviation-policy-incentive-udan-atr-turboprop-aircraft-11788427553151.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-04T00:30:34+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "e22f372923c9",
    "title": "Leanwatts Bags $2 Mn To Build Portable EV Chargers In India",
@@ -2112,64 +2166,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bdd40d104990",
-   "title": "Bengaluru startup builds India\u2019s 1st private nuclear fusion tokamak. Next step is a reactor",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXNDa3FsTnV1Z3o3Qm82WC1oNGR3WUlIWTZzQlBpQm1GS2pwWkdFR3RNdFNSd3BtSXBTbXJKTWFrYkUzSmtsUGd5aU83NGlmRmZFdF9TTkFIaW5vRzEydUd4Q2E4ZlJHdll2aDRFY0k3UU42SW5ENlU4dFFodF9rME5oRG8tZ3g1azNzU3pCY0VfUdIBlwFBVV95cUxNZU5zX0Jpd2lyUW9Leng1U2RTVWVNTmRhWEc3eTJZaENES0RBcHQwWElkdTVfcFkzOFE0ZGRGcnNoOERvQVI0OFBoX3lZT1BpUXE0QkFmXzhIMGhobDlCRlgxT21lcVhsc3YwUXBlQlFfSEdEVlR2MExRV2I2cnpPd0xZUkliN0YtNXJTTmtwQk9Gb2thV1lv?oc=5",
-   "source": "ThePrint",
-   "published": "2026-09-03T07:12:07+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bengaluru",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16e58fbf43a5",
-   "title": "From Teen Founder to Investor: How Jeet Chandan Is Reshaping Private-Market Access",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXZMWTJCVVN3T3RIVWRFOGZrNDUtdTZncGgtb0JZcUVpeHdvMVBSN0xZT1RjaDV2Vjh3VXBMUTBUQjZoZ0lTdy1kYmRQdm9rSXVMUU5NOV9nYzlVby15aXlYOXM5VmRVNV9uV3hWeEV1b01ZNUttWHNSRWpFM3huNEV3WTFUUkZWQk5vLU4xRXFIXzdNa0p0b1poZUwyMXhWWFBmd1FwYmNrZi1CQUVkM1N1VjBhYzJuRERVcWlvUGpsS0RodWpj?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-03T07:08:04+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "From Teen Founder",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "From Teen",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2cb6c9497f2e",
-   "title": "Bluehill VC leads Rs 10.2 Cr seed round in Makr Microsystems",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODJtUmNqNGw1ZXJNbU84MHJFUHlHZjJUM2xjZHExWWxEZUswNGJ1czluaVhYbkpKeU1tQk9BVmpPWjU0QkR5ZmZ4NTlad2NwNWNGSThoeGZZSF9PQloyZDB0TjN2TFJFMUl4XzZXN19RRGp0MElWSWpBWGpyb2UyeXlDYVEyY2hmckJKZWhfZTdjM1UxY3kwRl9vUXJYN1HSAZ8BQVVfeXFMTzgybVJjajRsNWVyTW1PODByRVB5R2YyVDNsY2RxMVlsRGVLMDRidXM5bmlYWG5KSnlNbUJPQVZqT1o1NEJEeWZmeDU5WndjcDVjRkk4aHhmWUhfT0JaMmQwdE4zdkxSRTFJeF82VzdfUURqdDBJVklqQVhqcm9lMnl5Q2FRMmNoZnJCSmVoX2U3YzNVMWN5MEZfb1FyWDdR?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T07:06:32+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "Bluehill VC",
-   "amount": "Rs10.2 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10.2 Cr",
-    "Seed"
    ],
    "alerted": false
   },

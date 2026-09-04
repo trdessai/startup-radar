@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-04T04:30:44.832430+00:00",
+ "generated_at": "2026-09-04T04:44:47.643159+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 26,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "60c703810320",
+   "title": "ESDS Software Makes Stellar Debut, Lists At 76% Premium On NSE",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUlpV0NRYmk3a243X0FYTjNOQ2NVZmVPckhwMVpkNVVuTV9DUzRNVFA2Y2J1VjNIZW1rM0dQbkRBNk9uYklISkFhMlRIQnV6Y0J4MTRKelNId1dhU2lMM1ZHTUdXd0s0Q2Y4WUNYVUswdVdaYnF0OVpvNDZ6VEpIRWhZNWR2aWY1OWdYbw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T04:40:12+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "ESDS Software Makes Stellar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a27c3a17b490",
+   "title": "Ultrahuman bags $70M from Qualcomm Ventures, Alpha Wave, and others",
+   "url": "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others",
+   "source": "YourStory",
+   "published": "2026-09-04T04:34:48+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Ultrahuman",
+   "amount": "$70 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$70 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "26c6e5e5a71e",
+   "title": "8 Taylor Jenkins Reid quotes to help men understand women",
+   "url": "https://yourstory.com/2026/09/taylor-jenkins-quotes",
+   "source": "YourStory",
+   "published": "2026-09-04T04:30:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "3cf0d40cdf25",
    "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO",
@@ -1866,23 +1919,6 @@
    "alerted": false
   },
   {
-   "id": "e3c9bcf0fb9c",
-   "title": "Zerodha Gets SEBI Nod For Merchant Banking, To Focus On New-Age IPOs",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUQwX2dtWmE4VmVwbzJQbVc0VTdUMGF0Y0w2dXM2OEFUcUZxMGY1TGlMZUcxRzMzNzQ3VTk0M2xJbjV5N2FfbGNtNzFRX0ZKOTJETURycHZvdXBYY3R3VjA0bmNrNDVsV0xMeVdTdVFkMUY1eTgtaXhTZ0xwMXJ6REJRSGpBSlBDSFA1WVVLbDk5eDJLdUE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-03T10:08:44+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Zerodha Gets SEBI Nod For",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "331fe8c4015b",
    "title": "India's $136 bn dollar haul aids rupee but raises future risks",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkVpN2hTZldrR1hRamxBeDJzYTVxeHRvdkJ0VnZzN2dPb2N3dXRjZ2FjZzliRUFKTFhCQk9FdUhQaFVlcHR1MXg4Y0Rtb2JOTXZXZFJPSzBtR0dMQXp0NFZVNG5DV0hwZ21uWUdjYXNlME45N0kyR3dUVWZfV2lrcWU2Y2dKODNIWkFsME9R?oc=5",
@@ -1900,41 +1936,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "195f18470a98",
-   "title": "Can Flipkart make micro-dramas work after years of content bets?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SY1FNd2o2N0dhZkRKUFBFSFJENDBWcU13MGx2SVd6eGZ2TFV2REZ0R0xvM2h3aHhuOHNJTWVma0RVTC1MdVlhVUk0V3hEOERyek1yVWFscWlNdThvSU9mbEhzR0RwRGRPV3ZXbTM2MldWS3dCZVVjNXJUUGE?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-03T09:59:55+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Can Flipkart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0a2031f45afd",
-   "title": "Cradlewise",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mYXlHRDFidkFVZjRTVWN1b1gxSUd6ekdfUS1jUTM3amlRdUlfNnJVV0NnZEVFVlJmZTBUQmdrbzNLVzRZZjFyTEVLam0?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T09:49:27+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Cradlewise",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e6963d16a45d",

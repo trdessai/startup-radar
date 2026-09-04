@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-04T12:02:15.720234+00:00",
+ "generated_at": "2026-09-04T12:24:41.110652+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 59,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "6b0d9544642d",
+   "title": "India regulator presses ahead against Hindenburg, others in Adani case, sources say",
+   "url": "https://www.livemint.com/companies/news/india-regulator-presses-ahead-against-hindenburg-others-in-adani-case-sources-say-11788523559262.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-04T12:12:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d6741503ffa5",
+   "title": "Tata Motors Passenger Vehicles Launches the All-New Tata Osprey in South Africa",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEpCbTdPRUtXMlc4RWlYdHJaUGtFOUZJZ0RfRVJlVlg1N2RWRThTTkdXWlQ3TDBROTVNX1d0dEt0ZnIzUm1fX1pvNEdfWGlPNUJxLUFlOGU1WGg3UUYyT1Ata3F2dkU5ZktQNDJJb0FCMnlvWHFISHB6eVIyWXh1anJmZ1A2QjlBRUM0RUNsTFJ3cFBiY3RaMnVKV3FKUmNlRjdZZFhYM083aXBNMlJ3dXRxMHA1akhvNUhVMFpyMA?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-09-04T12:01:54+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Tata Motors Passenger Vehicles",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e12bcaf46a62",
+   "title": "ByteDance secures $29.6 billion loan in AI push, sources say",
+   "url": "https://economictimes.indiatimes.com/tech/technology/bytedance-secures-29-6-billion-loan-in-ai-push-sources-say/articleshow/133761619.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T11:48:40+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "ByteDance",
+   "amount": "$29.6 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$29.6 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d6f9b82ee82f",
+   "title": "Suniel Shetty, Ghazal Alagh, and many serial Entrepreneurs to visit Odoo Experience, championing MSME digitisation.",
+   "url": "https://economictimes.indiatimes.com/tech/technology/suniel-shetty-ghazal-alagh-and-many-serial-entrepreneurs-to-visit-odoo-experience-championing-msme-digitisation-/articleshow/133760714.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T11:39:34+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Suniel Shetty Ghazal Alagh",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "e20b733ee7b1",
    "title": "Why are digital-first beauty brands prioritising physical stores?",
@@ -639,6 +708,23 @@
    "alerted": false
   },
   {
+   "id": "e2538cc66398",
+   "title": "Zostel launches Zo Selections, enters premium hospitality segment",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3pBbXlEd2pMbUNqX0lmOHJENk1aVTJaMDVMN1owUzVPenBuVjdBMWJzdGllOGloNDVkR0RMNVhSTU85cXpxTS1QS2hGUWdRN2VnOWVEOVo2empjM2ZDVUF6dXRoalVPbHpwRVBCQmp3UnVzWDNnSy1FcF9MOTZZQ2YtVDZQQk8zRmZ0NFA3Z0EyeVcyTHJxSzc1V2NTX24xRjQ1RlhiWTk4QQ?oc=5",
+   "source": "Hotelier India",
+   "published": "2026-09-04T08:30:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Zostel",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "0e2061e39900",
    "title": "Bengaluru's EtherealX Unveils Reusable Rocket Engine Tech",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW4yRXFQQnE3eDBheUw2OWEzWVdNcFlOU1VvYVpJbENBSndpUEk5QUw0MHJWaEFsSElsTmJfZkRWUG9oa29zTGt5UTllWDRaU3FpVHFfaTYzSHlLbGE3WVQ5UmdHWVFwOXZjcFhBVGNGR2dFTnQ0bmFPVHR6Y1RDQUxGcGdEWWN1ZEZxdlJtSGdLcFlLYV9EWHhfX0lRdWlPVGVrUFlXQzdXOXFYZDJYeFcwR0M5ZFlTaGJqUkZLQVNxUVBjZEE?oc=5",
@@ -810,76 +896,6 @@
    "alerted": false
   },
   {
-   "id": "b4a05a88fef7",
-   "title": "Indian-origin Anil Chakravarthy to take over as Adobe CEO",
-   "url": "https://yourstory.com/2026/09/indian-origin-anil-chakravarthy-to-take-over-as-adobe-ceo",
-   "source": "YourStory",
-   "published": "2026-09-04T07:40:03+00:00",
-   "score": 49,
-   "category": "expansion",
-   "company": "Indian-origin Anil Chakravarthy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2dcec0a686b9",
-   "title": "Delhi Police FRS flagged 25 jailed people at Jantar Mantar",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVFLVGl3ellBYkpNbFFMNHcwb2MtNFprZmM1eTFnRmZfeGtrbzJUbzdzbEhKUDQ3YVZmNzFjNnR4ZEx4TzcyZE0yc3E2V1JWZng5TUt1WEtuQlMzLUFKSDU4TU8tYkJTSXQ3cU5YX2hLNDFHMmRXb3N5VlI0T1J3d01yczNIc2FBdDJGRmdB?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T07:32:49+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Delhi Police FRS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "981f31670d54",
-   "title": "Anthropic finalising $15 billion pre-IPO credit facility",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDN1cXdYbDhIMk1RV1VqZ0pleDhBeUl5dThSa0lFQ2VuRHJqQThjUHNtclpjZXVUTjlpS3RXUWMwMWR0eDU0UHJ3cl9SeFFpbnZtalg5eFQzZUhEOEF4bmZ6SUxhUTFBekpCZkV6NXg0Z3VEaWFYeUlxM2xfc2lwVHdlSlk4YzVkcU5Jd3YwXy1kbjFQdkU0dEM1eDdIYTRhU0N1RFAxUWFtRUV5TThPbTN6SHU5QUJqRUR4YzJsN0lNY0otbjBZUjd3ZWl4YTlRdzdJaWd1d2w4QdIB2gFBVV95cUxQbDN1cXdYbDhIMk1RV1VqZ0pleDhBeUl5dThSa0lFQ2VuRHJqQThjUHNtclpjZXVUTjlpS3RXUWMwMWR0eDU0UHJ3cl9SeFFpbnZtalg5eFQzZUhEOEF4bmZ6SUxhUTFBekpCZkV6NXg0Z3VEaWFYeUlxM2xfc2lwVHdlSlk4YzVkcU5Jd3YwXy1kbjFQdkU0dEM1eDdIYTRhU0N1RFAxUWFtRUV5TThPbTN6SHU5QUJqRUR4YzJsN0lNY0otbjBZUjd3ZWl4YTlRdzdJaWd1d2w4QQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-04T07:31:00+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "$15 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$15 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "04ab6e454e47",
-   "title": "Rentomojo Eyes Rs 4,246 Crore IPO Valuation, but Just Rs 150 Crore of the Offer Will Bring Fresh Capital",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEQ5M0w1TFdIaWVPWjU4VGtwT1V4QU1iRW5BN19vS3Q2OGE0Z2t6b2Z3dDZDSjBsS21xZTN6RGoxYjg4XzYyTTVVTUt1bFB5RUdweUJVVzVaVkpRWDRGU1p3M2dwR2g1U08wdXM1WmQyZHBYU3Rmdm4wSG1aTmZMWktFTDBrT3NC?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-09-04T07:29:46+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Rentomojo Eyes Rs",
-   "amount": "Rs4,246 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs4,246 Crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f7c95cf2fb18",
    "title": "Poco X8 Power and Poco X8 launched in India",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWlFTFJ2LW9IcUhyOGxNektTZ1Q0UUhUR3FMWXNpT3JKNXBCM2JVOFg3YVZXQnpwSUpxT09UY05jVUdKZ1pCX0dLRzJ4alZ2bXpJTkVwMk5Nakkxam9INXI0R1lHRGxnYURKd1dIeGxVdTl1ZFhRV0hqQUZsN3ljQllOeV93TFNpRVBSM2JFbEs5U0lCUDg4VzNsbHlZRG1EaTkwNU5YOFpLMG1jbmpYamJBazBFT3PSAb4BQVVfeXFMTVRqekt5UGs4ZGdVRXpNcnNjUC1RSXBCcWZPQWxuV2dGVVFFTnpULXlTOGctWEJwb2lSeUtjaUV4RkI3dHBOeXpyY09HaDVCQ0NpM0s5N0ZrYTlUaFU3SmZXRkdkMENKbklyeWc2bDUwRC1DcTRFRDlzWXVYUm1jZVRjdkY2VDQ3bnlmdDFOU1BzeEtXZ2NTVFh3YjVHUDVhMGxIQ0d0QmZVMmVyVFlVYzRqZkg2RGY3d2otYjUwZw?oc=5",
@@ -895,23 +911,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "9ed0a7b84c92",
-   "title": "Flipkart Minutes\u2019 order value nears Blinkit\u2019s: UBS",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2gySTVBRkpVUEFacnppTWZmT1dYdmVLLWpBMHZXd0NVS2NpcEJweFJJQnlyc01uZ0lGTzN4Zlg1azV4cDllc0czMVc1YmR5c1ItNDgwQUp3NHkzSGdPWTNmaEtXU0VUdjhnQmdvSC1oRVpJSjVWZ016RjhSaWNwVWY3djhpbC1zRUHSAYoBQVVfeXFMTk9oMkk1QUZKVVBBWnJ6aU1mZk9XWHZlSy1qQTB2V3dDVUtjaXBCcHhSSUJ5cnNNbmdJRk8zeGZYNWs1eHA5ZXNHMzFXNWJkeXNSLTQ4MEFKdzR5M0hnT1kzZmhLV1NFVHY4Z0Jnb0gtaEVaSUo1VmdNekY4UmljcFVmN3Y4aWwtc0VB?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-04T07:23:29+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Flipkart Minutes",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3ecd72e815d1",

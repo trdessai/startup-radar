@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T13:31:10.255728+00:00",
+ "generated_at": "2026-09-04T13:45:35.882296+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
+  "fetched": 53,
   "fresh": 1,
   "alerted": 1
  },
@@ -226,6 +226,23 @@
    "score": 68,
    "category": "launch",
    "company": "When Architecture Becomes Furniture: Yuvraj",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c7e73ad57116",
+   "title": "Govt launches BIO-NIVESH to drive private capital into biotech startups",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2RTSk1JeFJFQUdNMnFRYnRDNFZ4WVBTX21BNTltaFFfVzRUZzRibWR3OHRxMWNTM054UmxuSnB1bTQyUk5ndVBVOFpaYXgwX1ppb3pjTGhuX0gyTHJ1dkZ5QTZheUl1UDdwTlozOHY1akU4aVRpbTNoNG9pSWpsQnQtS1NVV3p2UXFPRGNNT3FCQ1RRVGFWZzR2MWFVQmFfdGttZWI0RFFZeGRTZXNmY0YzMnh6RkZs0gG_AUFVX3lxTFBVR3JBRTBFd2ZuY0Fnd1poUTNNVkpBRnR4NE8wOFZuOXI1VGk1TXNGYk84bnJCY2tuVVFWN1lyOHNKc0lLMW9DdHlld3FRNzN4SDd2NkVqVS1iN2tac25UV1FhdEFXLVBFaUpwcFY1S01vQ05FbXBnb2Qzb0Z1MFdZYkJlVFFZUE1vaHcxWjFaQ3lrM2hxODd3TU40YXdFemtLSEZ2QVJ6THY5eV9SS05fS2lKTUt4TTZha1hhTWU4?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-04T11:15:57+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Govt",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -759,23 +776,6 @@
     "Rs245 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "dfaf76feac9e",
-   "title": "The Overlooked Power of Leveraging Indian Consumer Festivals for Market Penetration - Startupmentors",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBOQ2xyaHpJTlRlVTRTYmZpby1kckFOQ0FCWDh6ZHRKYzRxX1Z6bXZTaUU3a05FZF9UY2I0?oc=5",
-   "source": "t.co",
-   "published": "2026-09-04T08:37:05+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "The Overlooked Power",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e2538cc66398",

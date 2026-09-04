@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T03:18:51.452324+00:00",
+ "generated_at": "2026-09-04T03:29:59.409278+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "45e581e88259",
+   "title": "OpenAI launches GPT-6 Astra, Sam Altman calls it best AI model in the world",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcU5ELXNlZGlWTzlWVW9lNXZGTDcxaG9QSWZhLXJ2Wm5reWRncXFNcUllRjhQcWE4MmY1S3lZTDdQVnpsUDNEYV9CTzZIN1FJcU9JV0lNYm1xclBXdEdHamtQcEFmQU1ESlpWTGowdGpFQlhza3BZblNyVUVlckF2cnVhcnYzaUlOR1hLN3BTS196NkxyRzd1cUtSNEg0R3JiZXE2ZXVkV1AtSFp3ZjlpQV9yYWlRbVg3M3MyWjlwc3RCTldVVERiN0VqOGljWEM4Q21uS2U3bUbSAd4BQVVfeXFMTUc5TnhpY0pPRHlfd1J6V3hHVXRiOEpHUHRFRTM2Uy1pXzN0MERsQzd1RXI2cXE3RlNhU2RIdUxneFV1RkYtMzU1ekJFTWJ1c1dMUC01U05wbnJBSkV4QkFBdTAzT2V6cDBxQVpwcDBHTF9rSmhsTW9DUUZlMGlROWczT0RDMGpGZmFsOGRyempOR2VrOG42dkJYMW5RdTd5Y0J0c2ZqNEdkRm5Td3dzNXNjSWowV2x3M3h6czBERDV1UEVvampILXNsU2owYW80LTRENUdDd3EwN0NOMUVB?oc=5",
+   "source": "India Today",
+   "published": "2026-09-04T03:09:06+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "fee79c987ae4",
    "title": "Rentomojo IPO price band set at \u20b9384-404; issue to open on September 9",
@@ -1949,23 +1966,6 @@
    "founders": [],
    "reasons": [
     "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e4eee8596382",
-   "title": "YouTube Video Download Application Free for Offline Use in India",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBeUJqN2FEcTFMaWFiNC1SVVhFZjYxUWZUYndQdnAybkgyTUtJTnhvc05yNHNOVkt5Ymo1aXpocUxGdU9Nc2FDaXFTUjJlbFFraGxjcmlJMGxSMVdEQXJybmNZcURiUUhyS2xQaHNQOFVJLXNTLWNLS3d1WUE?oc=5",
-   "source": "Business Outreach Magazine",
-   "published": "2026-09-03T09:29:10+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "YouTube Video Download Application Free",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

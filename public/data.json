@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-04T12:39:21.400772+00:00",
+ "generated_at": "2026-09-04T12:51:39.062546+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 55,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "25b908eced32",
+   "title": "A Mumbai court told Meta and Reddit to remove defamatory posts \u2014 and to leave the true ones up",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSy1KaF9maFlYX2h4VHhxVy03UmJBR25ucHN6S0JONlV0SnV3T00wbFNYMWRzYlNjaXF5RlBnOVhIQlpvVDZQV0JMZWJHanIxazg3ZlBpTnE2eTByVV9vSVpkS1VURnJ1aERMeHNqRXpWMnl2QnN2WlhqTkxxbl9mcWFpWjBtb3M?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T12:25:01+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "A Mumbai",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "61c636340ba3",
+   "title": "ISRO launches Earth observation satellite EOS-05 from Sriharikota",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhaaWZkM2lHVHl6WVVGejRjeDdiYTgzS1MxcXZ6RE1BeDA2WEl6eHFMTDRGdGZ3aEN2SjFOQzZldDNha0lERUdZZ3RUWGNRZ3dCYmZpaEdEV0hManI2OWZrbWVwQm03Yy1OUFpZdk1vdEdtWHhsSWNwY1d6ellWZUM4NEtFWnIzTnRza2NUNjRkcld2RThjMQ?oc=5",
+   "source": "The Indian Awaaz",
+   "published": "2026-09-04T12:21:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "ISRO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "6b0d9544642d",
    "title": "India regulator presses ahead against Hindenburg, others in Adani case, sources say",
@@ -845,23 +879,6 @@
    "alerted": true
   },
   {
-   "id": "678b85585a3a",
-   "title": "Why Swiggy Is Turning CREW From a General Concierge Into a Travel Service",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NRG9sbkotWVJGM1J5TFFDdWxVUnZSU2tHNEpaQjlpLVBLbElhY2pCQV9DYXY5VVRhdFVEWE5QOVk4cWZ0enM2alNfcHU4ZDRZLWdZa3kwZHQ4dnVUVmVDN2o5WjZKS2Y5R1RIeC1ZMWxHMkd5V0E?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T07:47:20+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Why Swiggy Is Turning CREW",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "365008ba77f8",
    "title": "Top News Today: Ultrahuman Funding, Nvidia RTX Spark, Goa Hiring Rules, Bitcoin Buying, LLM Content Gaps",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWnV6Y3FmWGM5ekstSnBIa1NxM2hXX2txb1N4R2hGWE9rUmpzdGRYbEJMNGNUcjlZSVBiUzhMZ0M0N19LaGVxVVNjTUZxR2dwSnVuckxtMW1WRnhqRjZNa3p3Ql9TSTlJN1hkSU1iaVdwbmFrSVFWUFNTY1NXN1MtSm4tTDJacl84Zm5lR0IzMl9fVzlNdnpxUVJHNVJsckIxTGt0LW5mVlpCM2V6TUlwSk5HZzdTamR0V0tqNEF0V0tDVnA5TG0wd2dFaV90MTdRa29ERlV3U0FwQdIB5wFBVV95cUxOd2xTdWdXT2pqRW9RTmFrWFpTang1ODVrcmFOV2ZiRnEwa0d6SUF4WjZNQWlHUDMyM19OQmpLSjVhUENqY0Y5cS14TEVZLWhiMzQ0c2Vqb3VvdW9sYW5lVkR3ZnplUUdCOE5QTW9SQWs1MFZaTndDMlM3OU0ta21pMVlwalZvQ1NYVHpWa3U3aG5IN211Z0YxSUM4YUt0Qmd2cXZVdGF5cWw3NVlWOWtQMU5UYVJJckRYYnU3NW9uakNQMVNpbjFQam01S2l2Y0l0QTExelFMVGdiak9Tb0lHX3pVbHNIZlk?oc=5",
@@ -877,23 +894,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "95d5f4f140f5",
-   "title": "Cars24 revenue declines for second year in a row, core biz falls 23% in FY26",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVJyTkpJREdNWE94eXNQM05sQmRleTNtaVF3WFdFQlN0cndxSGZkS3ZVZlNaeHBnM3FDeTdQUU5kVGJyVldCREZQOXdhQVozZzlsWUhzeHdza2h2T1VEcmJVSkVwdjJHM3JmbU5DLU5rcU5xdWYzNmZwU3h2cmZoM3htWEhWV2w1dHlpNE9mSlJEdWpfd1IyeU9rSjNsMTZoTXBDN05DTGVOdmNWTnBvNlRUVHnSAbQBQVVfeXFMUEVSck5KSURHTVhPeHlzUDNObEJkZXkzbWlRd1hXRUJTdHJ3cUhmZEt2VWZTWnhwZzNxQ3k3UFFOZFRiclZXQkRGUDl3YUFaM2c5bFlIc3h3c2todk9VRHJiVUpFcHYyRzNyZm1OQy1Oa3FOcXVmMzZmcFN4dnJmaDN4bVhIVldsNXR5aTRPZkpSRHVqX3dSMnlPa0ozbDE2aE1wQzdOQ0xlTnZjVk5wbzZUVFR5?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-04T07:41:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Cars24",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f7c95cf2fb18",

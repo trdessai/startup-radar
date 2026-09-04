@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T04:52:29.125231+00:00",
+ "generated_at": "2026-09-04T05:01:45.103363+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
+  "fetched": 28,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
   {
@@ -159,6 +159,23 @@
    "score": 68,
    "category": "launch",
    "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5597c6d5db6e",
+   "title": "Agilent launches new ICP-MS, GC Systems and Digital Lab Execution platform in India",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeV9sMXlsRGlOOTJ6SVJMWDVGSm42cENtUEgzSzQ1Mm1CNU9BTDFFVFFVWFlPcjNCQ2xZcHBzZ0ViVmhCTTJ0WVdaN0dORTA1dG5GazdvaWFnWHJmN01TNjZkekNVRk1OSmJnR2ZxZjhnbm9DQ1dTRTRJUUJoM3pzOWx6d19FU2FiVGxINTdMRVBoSncyWHFpYUtfZGtfb0p0SkJhLW4wOHRkQ01XbXRRMXk2RWREemFJSDljUFlReVVrcVlO0gHTAUFVX3lxTE1OWTJGQ1FaWVV3QmpISGl5SDZLSTVKUWUzNmdBV0JHRURtQ3dlRFJIS3M1dTdQV2hiYXlfcTBGN0wtaHlUU01QVjNhaEhWX2pXZ1ZYWDFBNzBGMWlrZVg4cV8xT3hqdDE5RlJ4REQyQjhJZHhCY2lpNnR4TGQ2Z0hJYXhLWU9GVnktZkZNVFB3Rnl0RmtZMnlKeHkzXzg5WEZ6aGM0RnZoQXE1cjJYZ0ZkNFhsZnI4UFNSQXZnSkhPNTBobDJ3eWwzbmZXeG9ydkdheU0?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-04T03:07:36+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Agilent",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -1900,23 +1917,6 @@
     "$100 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "0b1125ad6d64",
-   "title": "Honasa enters fragrance market with FIKN perfumes",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XS3dsTUpZV3Y5dWhDdGtEM1JzOVdlSUljNzRPWHZUblNCdE9IUU90eFRGOE1zOGN1bDFXeUFzZ19XSVlubzh2Wjl0M21XT09SV2gyMWstT0xEVWE4dmtyQndHWVB4Y3NuVS1mMzM0d3NQV0NMNDdVTHh3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-03T10:20:59+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Honasa",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "331fe8c4015b",

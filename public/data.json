@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-04T13:19:43.765348+00:00",
+ "generated_at": "2026-09-04T13:31:10.255728+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 2,
+  "fetched": 58,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
@@ -23,6 +23,24 @@
     "funding in headline",
     "Rs18 crore",
     "Angel"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d01181f9d948",
+   "title": "Cradlewise raises $12M as AI crib data raises DPDP questions",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hZlNvV2pYNV8yTEhwdHBEVjQzSTNMTElWVkF4cWY5QUpOV1RBYkE4UVNiaVZWeU1RU094TXZIaEZISmhzTExGTjVzYlg4TlMwblZzV0VCSy1mU0Y4WjFCVFQxajVGbWpSb0JZcGJRSWpXc3ZodUE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T13:04:08+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Cradlewise",
+   "amount": "$12 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$12 M"
    ],
    "alerted": true
   },
@@ -756,24 +774,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5a0d614a162c",
-   "title": "{Funding Alert} Cradlewise Secures Fresh Capital for Child Sleep Technology Expansion",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzlVdnZaWE91MXVPMW9lbzlXQXVjREt0blpkZ1IzT2g1WW9jYXJkS2hWVXo5R3pvVzVBMGdQdGhrSGs2VGJ6N0JOZVd4aDFfc21jR2RXTi0yd2lBZ1dSLXV4eGptLXYwQmpmS0VpYjdmb2JzM0FHY190ZjFSTmlIaUVOZ1pyLTlQcGZVUkJkd1pzMkI5OW9ZY3RVU2JvdFVVTjRaaU90Wmp3TmdOb1Z6VWhFVW1tUQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-04T08:32:32+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
    ],
    "alerted": false
   },

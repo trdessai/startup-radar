@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T16:51:42.332799+00:00",
+ "generated_at": "2026-09-04T17:01:43.956536+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
+  "fetched": 34,
   "fresh": 2,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
   {
@@ -69,6 +69,40 @@
    "score": 25,
    "category": "other",
    "company": "Trump's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ef2e8381f1b6",
+   "title": "Jantar Mantar - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13UzZmNjZPTDdtZU15ZHppVWpVQW5oODhKbmZWcEdXYnV0VllPVzI5X0s4Y0V6eE9JVmRCTWpZTHZXdEVoUnlWUm1sb2FIOXJabGs0dlZVQQ?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-04T15:53:16+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Jantar Mantar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b86a0b17d6fd",
+   "title": "Stephen Thaler - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiX3Q4azJSbG5lOElKY285OXB4SFpGZlFESTdOeEVQVlpTby1BQUhoS2xZMmVhZnpsMndTb1I4azBETGdkUTdBaEp3Z1E1allwbUpQN1pOYU0?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-04T15:53:12+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Stephen Thaler",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -551,41 +585,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7c9a1779e30a",
-   "title": "The Biere Club opens third Bengaluru outlet in Bellandur",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1dVelR3Z0w1a2VyQWE0LUtKVk8yUEJ0azdIdVA5WkJIa1lHV24zRDF3MXdYOTNuSDluM1NNaENrOUNwSDZlX3BXelNDTElhN2lfdmZ5SkxGTzlZQTI3VHVlSElwbElpOUIyXzFkNG9neUFhWjVJdVg1enc3NzNMS0F2VlhHTjZHYmhXeUp3?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-04T11:15:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "The Biere Club",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4df4aafa242b",
-   "title": "US lawmakers introduce bill to ban artificial superintelligence: What does it consider dangerous AI?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0hoTFNTNEs5NlFrSXk4Q0FqSHFFWGkyNmtNb0x2dUVhMU1LWmtuYjFhcldVNE5MMkh5MXhfSG5XcnQ0QWozSFo1bzg4eGRkak91cVB4ZExBaUJjVnowUlU5SnJMSUhZNjZ3T3d5THVXM01wbmFsS1hZZWVJY0tJZjhOel9SUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T11:14:59+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "a7fdb21ffd96",

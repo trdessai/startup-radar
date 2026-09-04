@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T04:44:47.643159+00:00",
+ "generated_at": "2026-09-04T04:52:29.125231+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 27,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -57,6 +57,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "82e9829b99f0",
+   "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-says-chip-investments-under-discussion-with-us-amid-tariff-concerns/articleshow/133751847.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T04:28:59+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "South Korea",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -1898,23 +1915,6 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6c2a837898bd",
-   "title": "NHRC seeks reports from MeitY, MIB, Delhi Police over Instagram CSAM ads",
-   "url": "https://economictimes.indiatimes.com/tech/technology/nhrc-seeks-reports-from-meity-mib-delhi-police-over-instagram-csam-ads/articleshow/133732607.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T10:10:30+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "NHRC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

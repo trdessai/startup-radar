@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-04T05:45:25.196915+00:00",
+ "generated_at": "2026-09-04T05:52:34.382645+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
+  "fetched": 32,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "aec037b2fe55",
+   "title": "Rentomojo to go public at Rs 4,246 crore valuation; up 5x from last private round",
+   "url": "https://economictimes.indiatimes.com/tech/startups/rentomojo-to-go-public-at-rs-4246-crore-valuation-up-5x-from-last-private-round/articleshow/133752736.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T05:47:24+00:00",
+   "score": 77,
+   "category": "funding",
+   "company": "Rentomojo",
+   "amount": "Rs4,246 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "Rs4,246 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "fb1f8fe786d6",
    "title": "Finance Ministry notifies norms allowing ecommerce firms to maintain inventory only for exports",
@@ -1860,23 +1878,6 @@
    "score": 23,
    "category": "other",
    "company": "Anthropic AI Shopping Agents",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "12f94a70b99c",
-   "title": "From Space Diagnostics To Earth Observation, India's New Space Economy Is Not Just About Going To Space",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDlkSU5QdUZUSWYtQjJmZ1MtenZUY2d0QS1fRS10Vkdzb0JvOXZ0LW9IZlpXQ1pFRG13eXpkSTVuY3pEa3N0QVZfc2FucVY3M2lIRTc1am0zZkgwLWVuTExYWnc4bmxvN3RmS1AweHZ1eXIzc1h1UnBKcnozQm9uakg4QTJ1eVFiWXA2T0F1U3dHYlBuWVlmWGp4QWRPWWV1amxtOUc5V284NF81cEl5a2JBd3lvLXRrcnhhVnctd3hJSllOZy1uWENQR3oyX0tBenBkVTlXbTZ2MkI1ZHl5TF84ak9MZ9IB6wFBVV95cUxNM085UFJrbW8tNGlmOFB4WjB1WjBYdVVQSl9qY0dZenhnYWtXX3BqYWh1VmZwQ1lpM1ZfdVV6MkJLdEo0dkpqZXhLYVo0M3FmU0ZacGs0VkhFNFBWRXprVWhmSUhoUURrdXRDZFRVb0k3UmZLamR0N2NUT1c5SXo5YUQtZU83WnJpNW5qSWZHbFA1UWszY3JQQkh2bTRRSnl3UWJRR1NpZ01uWTdHUmhXeFNwcXA5aVJLLTlIdDBDdE9ZdEFKVlp0OEJxNXQ2QnROQkNpX2RmUWdKUjdnc2Vyd1d3dmFGMDNvckc4?oc=5",
-   "source": "ETV Bharat",
-   "published": "2026-09-03T11:11:27+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "From Space Diagnostics To Earth",
    "amount": "",
    "stage": "",
    "founders": [],

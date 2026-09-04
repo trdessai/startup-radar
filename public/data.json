@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-04T04:19:23.402193+00:00",
+ "generated_at": "2026-09-04T04:30:44.832430+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 1,
+  "fetched": 25,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "3cf0d40cdf25",
+   "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo/articleshow/133751573.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T04:14:53+00:00",
+   "score": 52,
+   "category": "product",
+   "company": "Chinese AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05b9508e7b3f",
+   "title": "AI startup Crusoe valued at $30 billion after new funding",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-crusoe-valued-at-30-billion-after-new-funding/articleshow/133751506.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T04:10:02+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Crusoe",
+   "amount": "$30 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$30 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "30be9a626ae3",
    "title": "Power Electronics Startup Leanwatts Raises $2 Million In Seed Funding",
@@ -1893,40 +1928,6 @@
    "score": 18,
    "category": "other",
    "company": "Cradlewise",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "904738166bb2",
-   "title": "Uber faces backlash over \u2018Parcel Mini 3W\u2019 service, use of passenger autos for goods delivery in Bengaluru: Report",
-   "url": "https://www.livemint.com/companies/news/uber-faces-backlash-over-parcel-mini-3w-service-use-of-passenger-autos-for-goods-delivery-in-bengaluru-report-11788424780602.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T09:47:15+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Uber",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "deca577362a1",
-   "title": "Everstone Capital-Backed Wingify Ropes In Ex-Dayforce Mehernaz Dalal As CFO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0lHU2hHbHgyaERDSmIyVXlnUWR2bk5OZERCWUhqQnNSV0xBMV9aNDJqUVRzaWUxNEVCaWJ3RDExMlRsUEVQUlNaZTVVUExGNVQyWWFDRnUyNzJORUlwRHJmdmVENlByTXhuY2ZZOV9lLXY3NUdoZzJ4MHhQYXViQU9wUUgzTFN6OWdLZXVHa3pPUlF6UjIwWHB5QjkyTnVO?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-03T09:43:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Everstone Capital-Backed Wingify Ropes In",
    "amount": "",
    "stage": "",
    "founders": [],

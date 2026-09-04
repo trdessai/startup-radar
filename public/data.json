@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-04T13:53:47.114245+00:00",
+ "generated_at": "2026-09-04T14:01:53.468098+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 50,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "10cf25ec0779",
+   "title": "Sneaker brand Comet raises Rs 100 crore to expand retail network and develop new footwear",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1VWTnZnWHpGNUlmNTRSN3FRV3YwWHl3RENFMjVwVkFFNFJJYndWWDJCQmQtRmhoR0pkamRiaDZLblhUZHhOc250cVAybDBCNnBURS1OQzE2dzJMWTl0VU1wQjhicUpGMzZvcHNWU1BSbDg3RjdXcnZjV0lWcDBHbkF1QXF3OVVNQ2N2cEhvb2NnaU55Z1N4UTkzSF84UllFYnAta0NETGFkak4yVGZMaE1QOE54TEJEY2VnZDhvSTBzVkNBMUQyMnZVczk2V1pEZHfSAdIBQVVfeXFMUEdVVk52Z1h6RjVJZjU0UjdxUVd2MFh5d0RDRTI1cFZBRTRSSWJ3VlgyQkJkLUZoaEdKZGpkYmg2S25YVGR4TnNudHFQMmwwQjZwVEUtTkMxNncyTFk5dFVNcEI4YnFKRjM2b3BzVlNQUmw4N0Y3V3J2Y1dJVnAwR25BdUFxdzlVTUNjdnBIb29jZ2lOeWdTeFE5M0hfOFJZRWJwLWtDRExhZGpOMlRmTGhNUDhOeExCRGNlZ2Q4b0kwc1ZDQTFEMjJ2VXM5NldaRGR3?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-04T13:53:29+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Sneaker",
+   "amount": "Rs100 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs100 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "2b370641db41",
    "title": "Techie quits Accenture job for 'peace of mind', his startup now clocks Rs 1 crore monthly revenue",
@@ -245,6 +263,23 @@
    "score": 68,
    "category": "launch",
    "company": "When Architecture Becomes Furniture: Yuvraj",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c59665439f3a",
+   "title": "The World Is Carried Within\u2019 Launched in Bengaluru, Exploring Nature, Leadership and the Working Life",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xelo5dzY4SmdoR29oWS12THRlSnctZm5EQnhCSnpFdXBtRE9ZWG5MSHVMS191VlNXMzNWNE5Id0x2cHptOS1ObDhpTVNMYWZPUFlsbm45QklDdXVWRU8wX0VjaHdvX2tQSzVLdHFIUy13ZGtFVzRnVldtY2M?oc=5",
+   "source": "SugerMint",
+   "published": "2026-09-04T11:28:26+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "The World Is Carried Within",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -724,41 +759,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "f344a768c3cb",
-   "title": "Retail India News: Carrefour Enters India with Greater Noida Flagship",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnFseFhHZXY1WlE1NVBDd2ktSjBYZ3g0VnBFTVJGaHY5UmxyOEtMU0lhVlkzS21aUGhockFGTU91RmY1UXc5aE42dFRYZFJIX0VKMWg0d3ZLXzhibWpmalhvNHkwZXh1V28yWXFEUENTTzJTZ21VbUtYbjYyS3l6RUxnSl9ZMEtCb1NFbGFEQ3NIN3o1OHlLTEF3Uml4U1Jy?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-04T08:57:37+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Retail India News: Carrefour",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e806cc92fcc5",
-   "title": "What\u2019s Next for India\u2019s Real Money Gaming Industry After GST Dues?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0hqWmRIZnR1YlpGemNGWnhrSTZ6SFlpdE4ydHo2dWRVaWRFaGlOTGxaQy1yYWJYVVZBdWFQOFdmOUNvRzhES0QzLVFtblo3cllFQ0RIQ1JfWFAzTzBLenlNQWcyaTdIUmVib1hWam1mV01sUi10YXhHaFdSejhnVGJKbFpUTUdRN2c?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T08:55:42+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "What\u2019s Next",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "9f508c6a8f81",

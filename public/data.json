@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-04T10:31:21.521021+00:00",
+ "generated_at": "2026-09-04T10:45:16.351381+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 53,
-  "fresh": 2,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "a7fdb21ffd96",
+   "title": "Sneaker brand Comet raises Rs 100 Cr in Series B led by Verlinvest",
+   "url": "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest",
+   "source": "YourStory",
+   "published": "2026-09-04T10:39:16+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Sneaker",
+   "amount": "Rs100 Cr",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs100 Cr",
+    "Series B"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "540bd3237844",
+   "title": "Flipkart Minutes Could Add 1,000 Dark Stores By Mid-2027: UBS",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0JoX0NLbGtuYXlpaW55UzRINjBneWlSUkdRTnVrYXVNZElTTlVKS1NmcXE0S1dZZ0I3Zmt5V2NGd1J4cktuMkpzdFVzdFI5VVM5eWt1OWdzaktYdFVjdHR4YUlDQ2V3V01oSm5JMklac0FhVXpLQlM0YVc2Z3lxMlFUWDdNSVNlTFRj?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T10:37:01+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Flipkart Minutes Could",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b2abfe7040fc",
+   "title": "D2C Sneaker Brand Comet Raises \u20b9100 Cr To Expand Offline Presence",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU094VEVNSDBJeFhrd0dvT0lHTGw3SC1rRmNHSWQyN3BSd041SUxUT3JLX1N3OXEzT3V5OUpSeERwVENhOUlkb0x6bi1ORmFKb2RiZDR0bl9JVnloQUpRQ0JiYmw1VUNiMFR1bno3ZFpfSG1mTWVpRDhqeXgzLXlHOWVCcmxYVy1DVmJvQnBYQ3dWLTR3c2kzRENxeVZMZw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T10:28:44+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Sneaker Brand Comet",
+   "amount": "\u20b9100 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9100 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "c7b32f966d38",
    "title": "WhatsApp Banned 5.36 Million India Accounts in July 2026",
@@ -1142,24 +1196,6 @@
    "alerted": false
   },
   {
-   "id": "fa3f9005e794",
-   "title": "Hugging Face, the French start-up that became AI's warehouse",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hugging-face-the-french-start-up-that-became-ais-warehouse/articleshow/133750214.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T02:50:16+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Hugging Face",
-   "amount": "$12.9 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$12.9 billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c65bdb073852",
    "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/articleshow/133750116.cms",
@@ -1178,23 +1214,6 @@
    "alerted": true
   },
   {
-   "id": "fc18fee83d15",
-   "title": "Data at law firms Quinn Emanuel, McDermott exposed in cyber breaches",
-   "url": "https://economictimes.indiatimes.com/tech/technology/data-at-law-firms-quinn-emanuel-mcdermott-exposed-in-cyber-breaches/articleshow/133749999.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T02:38:10+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Data",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f23b3aa3aaa7",
    "title": "NRDC Seed Funding for Promoting Manufacturing Startups in India",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU19iWG1sbFFCV0liSW5YS1k1eWZYRzZvdXR6QmZFQTN4Slh3Y21ldGRZV3JFejVRa2hUREJUWGx0ZEJETGVYOEN2ZE5yTEFlZFF1RzhrS2NKTG5idmE4bUY1LVdvRU1PTkhNZEZPMVpRYXNwemxuXzA0Y2FPYmFGc2VidjIxV3pobDNGRXdkZFM1eEtOQVVYMl9SZWhTY3BkWHlv0gGoAUFVX3lxTE1IVWFEeHRJY1ZRclJVZXljQWxPN09uMTh5eHlEMTByUEtTTUlfd1M1aHktMGxWVG9uMXp1enI3YWxocWdFQkJ1ZXJoV3gwVVdTcHYtakhPVFpfb21fQTNULTZFSHFSYjc3M1BKOF9PQjZ4UWlRM2NBT3U2NHBFLW5IVWpRN2NiNWdxUHV6cFJydXZINVdENkR1Q1J5bUFBcXg4b2Rrek01Yw?oc=5",
@@ -1211,28 +1230,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "421de98c9709",
-   "title": "Tesla starts Cybercab rides in Austin, prompting US safety agency evaluation",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tesla-starts-cybercab-rides-in-austin-prompting-us-safety-agency-evaluation/articleshow/133749927.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T02:33:43+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Tesla",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Elon Musk",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e22f372923c9",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T19:22:19.222083+00:00",
+ "generated_at": "2026-09-04T19:31:21.935418+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 0,
+  "fetched": 18,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "be27820775e8",
+   "title": "DeepSeek plans big Huawei AI chip order to power new data centre",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center/articleshow/133776211.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T19:14:44+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "DeepSeek",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5f4a1f218acf",
    "title": "Smart ring maker Oura reveals revenue surge in US IPO filing",
@@ -498,23 +515,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "8b5c88e97592",
-   "title": "Shashank Kumar Success Story: From Microsoft to Razorpay",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aT1ZtV2xfOVpYUEd6WEhfYWVpRVUweC1OR3piZi1nZWJodERHUWZCc2tDQi1iejlBRWVVRC1GRzc1dTkyVFg5b051bjRMZWhPQ2ZEYWhYc054a3JGLVBVR01MdndyaHBYTThqM19B?oc=5",
-   "source": "Business Outreach Magazine",
-   "published": "2026-09-04T12:53:53+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Shashank Kumar Success Story: From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "61c636340ba3",

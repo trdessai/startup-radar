@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T07:29:49.819998+00:00",
+ "generated_at": "2026-09-04T07:40:26.550057+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
-  "fresh": 4,
-  "alerted": 1
+  "fetched": 40,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "f7c95cf2fb18",
+   "title": "Poco X8 Power and Poco X8 launched in India",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWlFTFJ2LW9IcUhyOGxNektTZ1Q0UUhUR3FMWXNpT3JKNXBCM2JVOFg3YVZXQnpwSUpxT09UY05jVUdKZ1pCX0dLRzJ4alZ2bXpJTkVwMk5Nakkxam9INXI0R1lHRGxnYURKd1dIeGxVdTl1ZFhRV0hqQUZsN3ljQllOeV93TFNpRVBSM2JFbEs5U0lCUDg4VzNsbHlZRG1EaTkwNU5YOFpLMG1jbmpYamJBazBFT3PSAb4BQVVfeXFMTVRqekt5UGs4ZGdVRXpNcnNjUC1RSXBCcWZPQWxuV2dGVVFFTnpULXlTOGctWEJwb2lSeUtjaUV4RkI3dHBOeXpyY09HaDVCQ0NpM0s5N0ZrYTlUaFU3SmZXRkdkMENKbklyeWc2bDUwRC1DcTRFRDlzWXVYUm1jZVRjdkY2VDQ3bnlmdDFOU1BzeEtXZ2NTVFh3YjVHUDVhMGxIQ0d0QmZVMmVyVFlVYzRqZkg2RGY3d2otYjUwZw?oc=5",
+   "source": "The Hindu",
+   "published": "2026-09-04T07:27:33+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Poco X8 Power",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "9ed0a7b84c92",
    "title": "Flipkart Minutes\u2019 order value nears Blinkit\u2019s: UBS",
@@ -33,6 +50,23 @@
    "score": 27,
    "category": "other",
    "company": "Rentomojo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "47262f997206",
+   "title": "WhatsApp Takes On PhonePe, Google Pay With Bill Payments In India",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUMtaTNvWDlvREF5SFZrMTZpbTFHSTZ4RWFYY0Y5NzBkVkVSaVhVN2YxSkFBTFFXXy12aFF6Z2Vkb2ZzMWh4bTVfRUU5OTRWUFJmNTBMaldjYW1uYW9uWm9BVk1NVWZxMHlTOW9MVTNwaVJKQ3lvU3RHYmUyQl9fRDU5MGNIZTFqUms1TktyUHZ1QQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T07:04:37+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "WhatsApp Takes On PhonePe Google",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -92,6 +126,25 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "6a2a8b33f148",
+   "title": "{Funding Alert} Ultrahuman Raises $70 Mn in Funding Round Led by Qualcomm Ventures",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlZqSGZKVnN6dVVMelBxd3ZhTnpLT002TDV3YlB6NmRUU19ZX2xYbnk0MklmczVyNFExUkZrNi1BcU1MTEJOVHZJWmc0TUpiNUw2OVRwRWk3YndFN1pQZnk4bE44V1lUWm1NZnphMXBlY2dqM1JyYmUxSWhtZVEzMVdkT2R4Ti1RUjNyQzJSUzRhQ3hKN0p4b0t2STA5M0lJSFVTd1lONzJhcjdwNFE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-04T06:36:43+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "",
+   "amount": "$70 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$70 Mn",
+    "no company named"
+   ],
+   "alerted": true
   },
   {
    "id": "591ec837ac26",
@@ -1598,24 +1651,6 @@
    "alerted": false
   },
   {
-   "id": "729a17d1eec6",
-   "title": "India\u2019s Stratosphere Is Up For Grabs, Can Red Balloon Make The Uncharted Skies Commercially Viable?",
-   "url": "https://inc42.com/startups/indias-stratosphere-is-up-for-grabs-can-red-balloon-make-the-uncharted-skies-commercially-viable/",
-   "source": "Inc42",
-   "published": "2026-09-03T13:08:10+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "India\u2019s Stratosphere Is Up For",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "bf0bcbb7e6bb",
    "title": "InvAscent-backed RPG Active Pharma buys Raghava Life Sciences\u2019 API business",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEhyTVNDUVN5TW9JcV8zdTdQaEFBVHJ0TVZrX0xyVXFUX0taWDAtOGkyYkwxbUlnRGREWGk1Tm15TnNGSU54Zlg0bi1KeWlCSldiLVROUi1ITGMwVkstRHVsUDlISHNTempJbWRXZFhuQ1EySXp1aDhta2kxYkFtRlRISWRuNW55T0ktQmVRUk0wdFBBeTNjd0ZsOWpMSGM?oc=5",
@@ -1689,40 +1724,6 @@
     "Rs125 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "2bbd794444b2",
-   "title": "Norway seeks stricter smart glasses rules amid privacy concerns",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3NSZE8tSnFELXFJYXBuMGJReWFDb0tGQTlBNzRWeDkxTmt3c0lOZmpGaHN4NkFvbkZDUVR6RC1CNEM0Y0JSV3pfVXN0WnBUQ080ajU5Ylc2Nk1VYzdleU9RbWhEYVVqNTg4c1BTX09CNzNseW5kOHJqclpkd2VzVHh6ay1kNGE0SlE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-03T12:53:36+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Norway",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e07ba5c3eb76",
-   "title": "YoLearn.ai",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Fa3pObFhxNnJ5X2JyNEY5MXhzcmJid1Vfd1JreTNBdWRQem0yejRjcFU0ZWZWME5ZaGJFdjQ0a1NHQThsYlZ3bjJfTQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T12:50:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "YoLearn.ai",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1d4e17f93771",

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T09:54:05.194028+00:00",
+ "generated_at": "2026-09-04T10:02:04.332924+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 55,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 56,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
   {
@@ -108,6 +108,23 @@
    "founders": [],
    "reasons": [
     "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "53786ea96812",
+   "title": "OpenAI unveils GPT\u20116 Astra, its most advanced AI model",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkNBQTBHTVA2V1VhTE5hNklXSEFaaFVIelpiTVBqbUMzZ01abGluRGRGQWpwUDk2UVVvSFFvM0Q3Z3NGMHZWSmJfZUt0NGo5dE5ydVd4WW9mbEh6YndOOVVwazJQcG16MUhfbWg0c0txbHZ3SnA4Z0FMeGZQNUZVSFdOZG5ocEcwSTdqcGMxWVByMVRVWjJJ?oc=5",
+   "source": "varindia.com",
+   "published": "2026-09-04T08:59:19+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -312,6 +329,23 @@
    "score": 72,
    "category": "launch",
    "company": "Ekta Kapoor's Balaji Telefilms",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "83b5551d43ea",
+   "title": "IIT Madras' Bodhan AI launches four AI models for Indian languages in partnership with AI4Bharat",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVklHTmZJWV9qc3NrQzJaTld4ek1SeFFaYzZ3WDFDZmw2Y2ZhN3pDeVlPSFIyQVU2Nk1hYUN3aEp6Zkt3NWJuS0V5cWRWZzNKSXRreUtVZkoxN3hvdEtleUd4cjdDdEpRSW9JbC1XZVRUR1hraHJRYVROREZ6amhKT2JHZGZBZXZucjEtNHlLMjRtVGNVTHdlZGFRUlppQUdnTURkOWJhYlJqSlVjRy0yT25xSVNUYUJ6NndUS1hxb2ZWSkxpQUl2cDV4Tk5qWDBoRk5Gc2VrdzMyX0xOVktlLU9acEhXZndLUWlSeUlGempXa2cyUjln0gH8AUFVX3lxTFBOTkFSaUNkRlFVY2RMbU40VS11TDY5eUFGUlc5U0xyTXZudVVJbHRIRkN2dnlaR04zNmdMUXFJN1BaMXpGWEd3cy1yZFJKc3NfOEdDVm02aEUzZ08yVW80Mm1DMVZBT1hMNnppQ2staWtWbTJYclpsNTE2NzdyQzQ3ZlB2SV9GeUNIVnlBVVcydkFtcHhNU3RzTTcxTEZ3OUx0VTNLbDJRd0pNYkFYSlBmNkVkUkxvc1RGanc0MWZqeG1OT0cxY2tQSU91TEJKZDA5aDhTNE5ZMzVWd0JzMjMwSzQ1bHhMb1A3XzNPUUR3elZsdjFYTjA5VEl4Rw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-04T07:47:57+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "IIT Madras Bodhan AI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -1201,42 +1235,6 @@
    "founders": [],
    "reasons": [
     "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1f7428aa363a",
-   "title": "In ease of biz push, govt rewriting the corporate compliance rulebook",
-   "url": "https://www.livemint.com/companies/news/ease-of-doing-business-push-corporate-affairs-ministry-compliance-rulebook-msme-ai-11788428976387.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-04T00:30:54+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "In",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cac758a56d1c",
-   "title": "Korean cosmetics importer Skintl loses licences over labelling, warehouse lapses",
-   "url": "https://www.livemint.com/companies/news/india-drug-regulator-skintl-enterprises-label-misbranding-11788412796978.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-04T00:30:34+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Korean",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
    ],
    "alerted": false
   },

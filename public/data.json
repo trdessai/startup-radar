@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-04T11:29:00.876969+00:00",
+ "generated_at": "2026-09-04T11:38:41.017540+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 5,
+  "fetched": 60,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "e20b733ee7b1",
+   "title": "Why are digital-first beauty brands prioritising physical stores?",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTd5akdYbF9IRnVidDFucnJrMF9aYlJpcXJkX09rVUVKclgweExtWVJnWmhENGkxdzZoa2pqOG9tVG9sMlZoaG9GV0xOUmxmRElRb0xxZUd2dXh4a1dhZlc4NmlxUl9zSW53MnY0WHpFbDdjanRRSU9XTTdKQmxMSjZ4U3NYRjZWek9RM3psVmdHQkNtTFJoU1E1cVBpWFN4cWc3SGFfUzhqVTZHUDlvTDJIZEtKQkZGaS1INVdMMVEwZkpPZFE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-04T11:37:42+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eb346df2756f",
+   "title": "When Architecture Becomes Furniture: Yuvraj Vohra Launches Villaro Design Studio in MG Road, Delhi",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMF9ibXo5MXhPa0JLWTFhcml1OGtNSDZIVGF6cHN6dkM4bUN4V1pGMVJSU0xmQTd2U3VPRzZ5elJlclpTQXk1ZlpwN1FLOVluYnFhRFBsSHZTVjNGZm1QeHAwUXlVeUlwczBhb3lkcmhGbnNKWDFhSWhLT3BFNFE3Nk91cTlBbWxURHN1LUEwSVRhMmxXWEdILUozUmtVakVWaW9QWG5HVWNmVjZCUmpWeWc5TVpLMTNCaWtiWTA3RDdCejMtUUluMmQ1YW5yV3Uwa09PZjFn?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-09-04T11:31:41+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "When Architecture Becomes Furniture: Yuvraj",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "7c9a1779e30a",
    "title": "The Biere Club opens third Bengaluru outlet in Bellandur",
@@ -873,41 +908,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "875b01fd8522",
-   "title": "Hyderabad-based RADPL announces JV for 30-hour endurance MALE-300 drone",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5VSjR4cWFwMk82WnZ5VWUzUE9DUVdvVmxyenQyTjhKY2IzVVZ4OHAtRHhFdWdOTVNKX2g0WXNwdElRdGNkeldwN2tKY3NnYnM3eURGVThGWUF2M2lKR1I2enI4aGhyV0JENHYwcmVTaUN4S3RmSUVwSWp4anNmS1h5eFh1ZHNUSURUMmRGYWtETGFaM2NUc1hVTlpkb0hDTnE2eGxoeV81eVlZa2VHZDRGdlAyelpSS1dldGQxZEVVVElMOHJpUHNkWWQ4dGNwbkJlMtIB2gFBVV95cUxPLTZ0bExxV3VGOWI5R1B3SU4yeU05NDRhNktMWWlpSnUyU2dKdXJTRU1jUEt1V215YUZkdHdjNTRtRENjQ0hhOUxISGdqNjJxT1U0TnNPMllFOFdKNGU1a3l3VllnYUJlR21Xa2FOOThkaGJQZ0p5bFViYzFRZ0xUMDBncHZGamJDOWNRNWpoaWhPQWtBRzVidDVQNS1RSmlBU1ZZNE9hN1lsRHp0dDFtcmhNbXYzVE16elJyWVFzVkhYRUluUm01S1luUEdubjd6SjlfWTBxOW5tZw?oc=5",
-   "source": "Business Standard",
-   "published": "2026-09-04T07:01:52+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "RADPL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "39a09e0edd8c",
-   "title": "Retail India News: Rentomojo Sets Price Band for Rs 1255 Cr IPO",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWw1cWljNlcyYzh1dXVWOG5TZHY0QjFrVjlaMV9aRERTQzFqdWhUc0FXQ2ttVjRXeTZ6MXJRLVNHT0ZENkRYY2pFaDN0LWZnZ2cxbllYcFBOWXNiejY0bmEyM09DLUQ2MTMwTFFyZXFoajFLWUU2djlxbmhmWkR3bXV4YzhqcUZ6Y3MySHJUbTJDOTFnTlg2WVJn?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-04T06:56:39+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Retail India News: Rentomojo Sets",
-   "amount": "Rs1255 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1255 Cr"
    ],
    "alerted": false
   },

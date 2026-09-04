@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T17:17:00.805154+00:00",
+ "generated_at": "2026-09-04T17:25:38.943589+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
+  "fetched": 27,
   "fresh": 2,
   "alerted": 0
  },
@@ -78,6 +78,23 @@
    "alerted": false
   },
   {
+   "id": "b163bd63dabf",
+   "title": "Abhishek Upadhyay - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rdkFqUWdzMXp5RTZKcmU2Q2EtMnJMV2tJSjdseUhXUENMUXRhVTBRbm9pckhQQ1VxYVdJRHB6MVhKVEttdEREZDVsbFRnM3E0Wk5DUHp2REd4M1Fq?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T15:54:10+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Abhishek Upadhyay",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "ef2e8381f1b6",
    "title": "Jantar Mantar - MediaNama",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13UzZmNjZPTDdtZU15ZHppVWpVQW5oODhKbmZWcEdXYnV0VllPVzI5X0s4Y0V6eE9JVmRCTWpZTHZXdEVoUnlWUm1sb2FIOXJabGs0dlZVQQ?oc=5",
@@ -137,6 +154,23 @@
    "score": 18,
    "category": "other",
    "company": "Voice Artificial Intelligence",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e1d9aeb0203e",
+   "title": "Hugging Face - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTnZTLXdxTHdLblhYQkZXRDNYS2JRQXBKTkdOVmdUYWZCR2VnYkE2Nm9CS29BNlRkSGNwZDBtYWVETzFubjZueHVPZWdxem92bGlPcEZB?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T15:52:29+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hugging Face",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -464,24 +498,6 @@
    "alerted": true
   },
   {
-   "id": "d49f5a06f154",
-   "title": "Hyderabad Emerges as Senior-Living Hotspot as Vera Vita Living Plans \u20b9600 Crore Investment",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVY3emllczNkNXhZY1lNMTZUMDQ4c1R1N0ZYaTMyTDY2c0tQSkZ4aGFmRzlLTDhXTXFOT2c1ejFpNGVRNjJPT0ltQ0k0OU5kVlRDRG1iQTl6emVJZ0FHNlJ6eHdBVk41cmdvZU5OaEdZemMyeWpWT195dENjaUFTUVZ1VHVaNVR5QkRiYUxvRVpTZlRSYzdTazkxMGVNanFxT2VUZ1Z3TXN4YnFuMHBIWWg4a1BRTjFZVnJleTJIX1RTQ3dFY1RndGNCNTljSEdBM0dZLUNB?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-04T11:57:49+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Hyderabad Emerges",
-   "amount": "\u20b9600 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9600 Crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e12bcaf46a62",
    "title": "ByteDance secures $29.6 billion loan in AI push, sources say",
    "url": "https://economictimes.indiatimes.com/tech/technology/bytedance-secures-29-6-billion-loan-in-ai-push-sources-say/articleshow/133761619.cms",
@@ -498,23 +514,6 @@
     "$29.6 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "bf4b9d22723c",
-   "title": "Prisom Technology Key People 2026 \u2013 Founders, CEO & CXOs",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mb0ZZd0R2N3pqLTBjUkZ5MzJ5dkIzaHNyMk5VOTVURjNYQzJtWnhQT24wc1JjTnNlcXEtMEZkN053TWZISFRXWG5nQUV1ZUZORnBZWVVWczZucUZ6ZXVla2FB?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T11:40:27+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Prisom Technology Key People",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ce28291cac65",

@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-04T07:18:56.058158+00:00",
+ "generated_at": "2026-09-04T07:29:49.819998+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 39,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "9ed0a7b84c92",
+   "title": "Flipkart Minutes\u2019 order value nears Blinkit\u2019s: UBS",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2gySTVBRkpVUEFacnppTWZmT1dYdmVLLWpBMHZXd0NVS2NpcEJweFJJQnlyc01uZ0lGTzN4Zlg1azV4cDllc0czMVc1YmR5c1ItNDgwQUp3NHkzSGdPWTNmaEtXU0VUdjhnQmdvSC1oRVpJSjVWZ016RjhSaWNwVWY3djhpbC1zRUHSAYoBQVVfeXFMTk9oMkk1QUZKVVBBWnJ6aU1mZk9XWHZlSy1qQTB2V3dDVUtjaXBCcHhSSUJ5cnNNbmdJRk8zeGZYNWs1eHA5ZXNHMzFXNWJkeXNSLTQ4MEFKdzR5M0hnT1kzZmhLV1NFVHY4Z0Jnb0gtaEVaSUo1VmdNekY4UmljcFVmN3Y4aWwtc0VB?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-04T07:23:29+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Flipkart Minutes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c177e8e3838b",
+   "title": "Rentomojo sets price band at Rs 384-404 for Rs 1,256-Cr IPO",
+   "url": "https://yourstory.com/2026/09/rentomojo-sets-price-band-at-rs-384-404-for-rs-1256-cr-ipo",
+   "source": "YourStory",
+   "published": "2026-09-04T07:14:16+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Rentomojo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "39a09e0edd8c",
    "title": "Retail India News: Rentomojo Sets Price Band for Rs 1255 Cr IPO",
@@ -76,6 +110,23 @@
     "$2 Mn",
     "Seed",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b1198acc1301",
+   "title": "A peptide party that never happened has raised questions Indian sellers are yet to answer",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWwydGlJRTBVN21HNDZhclN0RlBpREhBdUZab216SjR6MDU1RnpVdGozWV8yRHlkX2x0NWx2RjFsWVdETGlEWVZBdVNhdDlpYjNPUXpwSlo1aEJzQjhMandSakJBYjBEUTlmZThKUHhPRGNyYjdZcDlqbkctbmF2MTg2WXZtU0w4VUUtQU1DaVNZcHA2cGZhY2lob3k3aEh0ZGxyT1FwWnpDVEJ5dzV2S0FMUVNmWHRITVI0dG53aEZWX19FNEE?oc=5",
+   "source": "The Ken",
+   "published": "2026-09-04T06:25:25+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -1707,60 +1758,6 @@
     "product"
    ],
    "alerted": true
-  },
-  {
-   "id": "34c665d9de85",
-   "title": "Alipay+\u2019s UPI Linkup Stalled Over Security, Data Concerns: Report",
-   "url": "https://inc42.com/buzz/alipays-upi-linkup-stalled-over-security-data-concerns-report/",
-   "source": "Inc42",
-   "published": "2026-09-03T12:40:44+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Alipay+\u2019s UPI Linkup Stalled Over",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "061b2dc8c668",
-   "title": "FLY91, now with Abhinandan Varthaman as pilot, orders 40 ATR aircraft for nearly $1 billion",
-   "url": "https://www.livemint.com/companies/fly91-now-with-abhinandan-varthaman-as-pilot-orders-40-atr-aircraft-for-nearly-1-billion-11788436479529.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T12:36:43+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "FLY91",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion",
-    "$1 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d033205863ed",
-   "title": "Nvidia buying artificial intelligence platform Hugging Face for $13 billion",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-buying-artificial-intelligence-platform-hugging-face-for-13-billion/articleshow/133736454.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T12:32:10+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Nvidia",
-   "amount": "$13 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$13 billion"
-   ],
-   "alerted": false
   },
   {
    "id": "a58bf18728b2",

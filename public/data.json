@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-04T11:18:29.643768+00:00",
+ "generated_at": "2026-09-04T11:29:00.876969+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 61,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "7c9a1779e30a",
+   "title": "The Biere Club opens third Bengaluru outlet in Bellandur",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1dVelR3Z0w1a2VyQWE0LUtKVk8yUEJ0azdIdVA5WkJIa1lHV24zRDF3MXdYOTNuSDluM1NNaENrOUNwSDZlX3BXelNDTElhN2lfdmZ5SkxGTzlZQTI3VHVlSElwbElpOUIyXzFkNG9neUFhWjVJdVg1enc3NzNMS0F2VlhHTjZHYmhXeUp3?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-04T11:15:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The Biere Club",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4df4aafa242b",
+   "title": "US lawmakers introduce bill to ban artificial superintelligence: What does it consider dangerous AI?",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0hoTFNTNEs5NlFrSXk4Q0FqSHFFWGkyNmtNb0x2dUVhMU1LWmtuYjFhcldVNE5MMkh5MXhfSG5XcnQ0QWozSFo1bzg4eGRkak91cVB4ZExBaUJjVnowUlU5SnJMSUhZNjZ3T3d5THVXM01wbmFsS1hZZWVJY0tJZjhOel9SUQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T11:14:59+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "4360a8de06a5",
    "title": "\u2018To save tens of millions of dollars\u2019: Volkswagen to cut 12% workforce in India",
@@ -42,6 +77,24 @@
    "alerted": false
   },
   {
+   "id": "755ecf21c9c3",
+   "title": "Weekly Startup Funding Roundup: AI, Robotics, Deep Tech Draw Fresh Capital",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHc2bTUzNnRMekZOaVduLUcyUHN4SDVMZ1BLNWQtU1pXTlBqRk1QOXByYXZZZTR2WGNwOEJKY0s4OHJwZENMUVFPbmJXcm9nWmRxbGp5WGNIQTVWazlEUWN2YU1QQWUyUEVTMGNnbkJSS0pVQTFmTllUTmt3TVdmWVo1dXQ0Vm5vWUxERzhLc2FSTEhOdjVsXzdtVnVrWjNkak51QUFTYWw4a2NXa1HSAbsBQVVfeXFMUEJOeXpac2dnYXBURWkxSHRKMHoxN25manRpZ2RINEpoWlZMVzE4cG53dVlpQkpsUGk2bkxPSWFRemZtbllyckN1WHVNcEd4VGJzV2ZrTFpkTndycDV5RlBtcHphVDhlM0x0ZkNHUEJOc0kzSkEtcGFBNGVXN3VWem92d3RJdTlfeGNIWUZUeURack9rdjVkT0Z1TTA4NzFaeFZDNjFtRmhFUC1ZdkJCM0I1aG96YWFWZXpCRQ?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-09-04T11:00:00+00:00",
+   "score": 20,
+   "category": "funding",
+   "company": "Weekly Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
    "id": "831c47f2ab06",
    "title": "ET Excellence Awards Telangana 2026 celebrates business excellence and innovation",
    "url": "https://economictimes.indiatimes.com/tech/technology/et-excellence-awards-telangana-2026-celebrates-business-excellence-and-innovation/articleshow/133758843.cms",
@@ -50,6 +103,23 @@
    "score": 25,
    "category": "other",
    "company": "ET Excellence Awards Telangana",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9a9a7ed66434",
+   "title": "Stephen Thaler Says India Got DABUS Copyright Half Right",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXdfb3RnY1JpSWtDVi1EdUNjSHdqaHdJb0dNUmxkbnZZN0RqRzdRVEJVa0Q3bjVscGVROFV5ZlVfRHBxWWg2SUhzN2YyOWlORVZrTjAtcGhMeWxlR204MmlWQ0dROVVMRDZfdHhvbjUyT2g4N21DWExPaVlyNUgyVlFsWmo?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T10:58:28+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Stephen Thaler Says India Got",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -213,6 +283,25 @@
    "reasons": [
     "funding in headline",
     "$70 Million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0b1c2e8d8aef",
+   "title": "Leanwatts Raises $2 Million Seed Round Led by Trivest Partners",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUG9ISU5pM0xYaGNZWEdRdXdTWXFKeUFHd0wteXdEWWMzXzNaTnROYnkxWlJGSWhhcmpsa1hUdFBleGF4N1ByWnBPU3RMeUtibE9oOXRfVURkbDdnQ2VPbk5IUEt2YXJKTWM1SlBRT0U4TW95QlQ1YUhYYmFQR2M2eHRDVUl1emFacGY3Z2RLMkRhRi1qNVlGc1VLRjhqZjV5clRuTEY2VTNqTEsyTllsclp5S3B6ZlVLNGVNbXlHanlNajVaYkJQVEtn?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-09-04T09:54:06+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Leanwatts",
+   "amount": "$2 Million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 Million",
+    "Seed"
    ],
    "alerted": true
   },
@@ -840,23 +929,6 @@
    "alerted": true
   },
   {
-   "id": "1cb5b842a42f",
-   "title": "Google Cloud Startup Summit to explore how agentic AI can reshape startup growth",
-   "url": "https://yourstory.com/2026/09/google-cloud-startup-summit-to-explore-how-agentic-ai-can-reshape-startup-growth",
-   "source": "YourStory",
-   "published": "2026-09-04T06:47:26+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Google Cloud Startup Summit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8176f0d3b98a",
    "title": "\u2018Targeting 6 more launches this financial year\u2019: ISRO chief V Narayanan",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW8weFZNZDJFUzI2MXFjRTF4dW9WUHdfZ1c1WGlGd01lREV2RHJEQ1ZEQjhqd2YwUjBpWi0xaVNrWnFlcFc4QWh3QmJLZF9sVGdLRnZQZXE2WGhRcEt2UWNaMy0zWnNaaHlhV1F5aVkzaU1xS050RnFJY0Q2WWNPcmI0dVJENE12WlpjYUNTS29pX09IVTVVb3hRRDRqQQ?oc=5",
@@ -872,23 +944,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "886f73272ecf",
-   "title": "Flipkart challenges CCPA jurisdiction over non-BIS toys",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOEVQSjJKUGxsUTVYSnJqOThFZ09ySHV1OFBlRlJhNTJpLUdhMHZkdFFxeVVUZjNobEdiVjBDb1RYSFBJVXNWWEpDVXd6R3JlV0dtVUVtWkthSHpMc2lkRkJ4cHJWVm5jc21vYWV2czhzcVZ1OFoyVWhpSzJ4d0hXVTQ1RHgzamRwUFFMUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T06:41:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Flipkart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6a2a8b33f148",
@@ -962,58 +1017,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "709382d64bbb",
-   "title": "Startup Roundup: Ecosystem, Mergers, Acquisitions and Funding News this week",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEI2Z24zX3NJS2JXWTF4cVBWbjVHdXE5RUVSMWt5Yms5NzNMaUxLYkRDR0pNS0k3QXNEYTBhRGJfdEZQeEI1YTZaeUc5cV9CVWRKUnJGaFhDRk93RGhjUVFZNWtOVWhEelVmSklfaDJrbzJRWFptMFY3UF9UWDZEd3JmLXFUel9GWUw2aUZnNNIBjwFBVV95cUxPZEI2Z24zX3NJS2JXWTF4cVBWbjVHdXE5RUVSMWt5Yms5NzNMaUxLYkRDR0pNS0k3QXNEYTBhRGJfdEZQeEI1YTZaeUc5cV9CVWRKUnJGaFhDRk93RGhjUVFZNWtOVWhEelVmSklfaDJrbzJRWFptMFY3UF9UWDZEd3JmLXFUel9GWUw2aUZnNA?oc=5",
-   "source": "Local Samosa",
-   "published": "2026-09-04T06:15:37+00:00",
-   "score": 20,
-   "category": "funding",
-   "company": "Roundup: Ecosystem Mergers Acquisitions",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6a606de1b2b1",
-   "title": "PhysicsWallah Shares Jump 6% As Motilal Oswal Sets \u20b9200 Target",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUVJd2gtQ2x4bkpqZzFZWHhzUjVDWHZjakRxcFh4SFVMS2MxdTNxZFpKaVBreGJHakVmWUU2aEREc29uWFdoSzl1b0VMVERPUktSaVl2aUJuXzlVSzRMSTJYenlqS1BKUzkyeWNXVTBNNzlPN19IYTJBTnU3Sk5XU3BJX2tJMEZxdkt3VGRJZEdyYjJvVFQwZg?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-04T06:04:11+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PhysicsWallah Shares Jump",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ca87e2d3b2de",
-   "title": "Piyush Goyal urges auto makers to increase localisation",
-   "url": "https://yourstory.com/2026/09/piyush-goyal-urges-auto-makers-to-increase-localisation",
-   "source": "YourStory",
-   "published": "2026-09-04T05:59:54+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Piyush Goyal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "9ed1cacfed42",

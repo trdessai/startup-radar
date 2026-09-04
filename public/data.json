@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T23:16:09.794473+00:00",
+ "generated_at": "2026-09-04T23:23:56.833930+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
+  "fetched": 10,
   "fresh": 1,
   "alerted": 0
  },
@@ -34,6 +34,23 @@
    "score": 18,
    "category": "other",
    "company": "Brijesh Vadukiya",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b1b643252844",
+   "title": "Manoj Rupareliya \u2013 Startup Ecosystem Profile 2026",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSk11TmdFdEtlUUdLeUVQUzBQQVBNVHQzM0hHMEdsOEs0V0NUbzNFeXlyNGJGeEtiWkI4cDV0X2VSdUsxX1g1dVhReGJ2dkdnTHNEYlZqaVhGTXRzMDlWbGMxVjJqQTNDYWRIa0dPenRwNHFDREx1QWJhbmN4SlMyanQzT0RySndjZzYwSjRKSkctQmM3bnVlM01zdUFIWVluMEdDdUFuTl9fRXpiVEd4QVV1M2J2ck5pY3liX2pobldtRkVBQXdVb3ZwRGNqQl94SFFZeFFJQUUxY0hlNFQ5LTFQYkk5UzA?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-04T21:05:06+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Manoj Rupareliya",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -403,25 +420,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "575e51391415",
-   "title": "(Weekly funding roundup Aug 29-Sept 4) Marginal dip in fund inflow",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEM2S1dlb3YtYWs4MWdWOXFBYWQ2VTJ4dm1peEd3VHFQSDNOcmhGUDZabnhBWU1jT0tmb3dJRGxGTjhvOEdaOXM3R0hFWlhubUQ1V3drc2JweXJoeTlBZWdhdUM2ajhFRy1jcTA3TGZMVnZsUHkwSG1YMjYwRDM3Z3hWRTNaZlUtOHZGSUhaeUhnZE1TTXFqTzh3?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-09-04T14:07:11+00:00",
-   "score": 8,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named",
-    "listicle/opinion"
    ],
    "alerted": false
   },

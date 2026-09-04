@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-04T20:28:48.028337+00:00",
+ "generated_at": "2026-09-04T20:38:34.854445+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
+  "fetched": 13,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "098975da20b8",
+   "title": "KFC India GM Moksh Chopra to lead Taco Bell\u2019s India, Sri Lanka and Kuwait markets from 7 September",
+   "url": "https://www.livemint.com/companies/people/kfc-india-gm-moksh-chopra-to-lead-taco-bell-s-india-sri-lanka-and-kuwait-markets-from-7-september-11788549845976.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-04T20:34:56+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "KFC India GM Moksh Chopra",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4285c94a817a",
    "title": "KRAFTON To Invest $250 Mn In Indian AI & Deeptech Startups",
@@ -425,23 +442,6 @@
     "Rs24 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "3c9370415f35",
-   "title": "Rentomojo\u2019s valuation jump; SoftBank\u2019s Meesho windfall",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/rentomojos-valuation-jump-softbanks-meesho-windfall/articleshow/133765315.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T13:55:57+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Rentomojo\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "10cf25ec0779",

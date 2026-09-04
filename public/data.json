@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T17:01:43.956536+00:00",
+ "generated_at": "2026-09-04T17:17:00.805154+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
+  "fetched": 28,
   "fresh": 2,
   "alerted": 0
  },
@@ -120,6 +120,40 @@
    "score": 18,
    "category": "other",
    "company": "Challenges",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b206b3417cf5",
+   "title": "Voice Artificial Intelligence - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bTBoMVM1VnRraGlUTEEwMnh6ZFk3N3IwbTNWX091RlZlNTZIbG81SnNOZ3djcENlWHdEVGl3RGJzLTBxWF9lSVFydVpldUY4UU5MdXZoZmhXaDR4WjZ1Ti1saDc2VFdfZnE3VQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T15:53:04+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Voice Artificial Intelligence",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "244fc68e4b6f",
+   "title": "Micro Drama - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bmxrbFpnRDgyVWVzTU5BMXpTSThfREVNNUYxWHA0U1hveDJXT1BzZS05Y0lLZTJuMGd6NzlUSzlKeFo3dGRtOU9mY1ZtNndRODdLaA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-04T15:52:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Micro Drama",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -479,41 +513,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d6f9b82ee82f",
-   "title": "Suniel Shetty, Ghazal Alagh, and many serial Entrepreneurs to visit Odoo Experience, championing MSME digitisation.",
-   "url": "https://economictimes.indiatimes.com/tech/technology/suniel-shetty-ghazal-alagh-and-many-serial-entrepreneurs-to-visit-odoo-experience-championing-msme-digitisation-/articleshow/133760714.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T11:39:34+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Suniel Shetty Ghazal Alagh",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e20b733ee7b1",
-   "title": "Why are digital-first beauty brands prioritising physical stores?",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTd5akdYbF9IRnVidDFucnJrMF9aYlJpcXJkX09rVUVKclgweExtWVJnWmhENGkxdzZoa2pqOG9tVG9sMlZoaG9GV0xOUmxmRElRb0xxZUd2dXh4a1dhZlc4NmlxUl9zSW53MnY0WHpFbDdjanRRSU9XTTdKQmxMSjZ4U3NYRjZWek9RM3psVmdHQkNtTFJoU1E1cVBpWFN4cWc3SGFfUzhqVTZHUDlvTDJIZEtKQkZGaS1INVdMMVEwZkpPZFE?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-04T11:37:42+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
    ],
    "alerted": false
   },

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T16:43:16.010460+00:00",
+ "generated_at": "2026-09-04T16:51:42.332799+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
+  "fetched": 27,
   "fresh": 2,
   "alerted": 1
  },
@@ -24,6 +24,23 @@
     "Rs755 Cr"
    ],
    "alerted": true
+  },
+  {
+   "id": "2edd506bd01f",
+   "title": "Elon Musk's xAI loses court bid to block Minnesota's AI 'nudification' ban",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-xai-loses-court-bid-to-block-minnesotas-ai-nudification-ban/articleshow/133770351.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T16:23:04+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Elon Musk's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "f057210411ac",
@@ -94,6 +111,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "fc3c57251683",
+   "title": "Medulance raises $2.5M to expand India's ambulance network",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjNlMHB0UkpNMTNYa2JRZWpvcE9hYVJEWC1tSGh0RmpWTlB0TzZ0QUVBM1YtNVU1Wk1LR0lBdnZHVWlHUTFkZGJkc2Rmbk9iSE1TbkpWRDVIeTZLc3BRejJqUmExemJFTDNVb0JnM2ZBZHFTa3RyQVAxYTVnTmkzVEhhaDZYdXJPVEZTbllWWjNqRlZuTVE?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-04T14:56:37+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Medulance",
+   "amount": "$2.5 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2.5 M"
+   ],
+   "alerted": true
   },
   {
    "id": "62c5605fcaaf",
@@ -549,40 +584,6 @@
    "reasons": [
     "no clear event",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4360a8de06a5",
-   "title": "\u2018To save tens of millions of dollars\u2019: Volkswagen to cut 12% workforce in India",
-   "url": "https://www.livemint.com/companies/news/to-save-tens-of-millions-of-dollars-volkswagen-to-cut-12-workforce-in-india-11788518589667.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-04T11:14:01+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "957834078750",
-   "title": "AssisTech Foundation Opens Applications for 6th ATF Awards 2026 to Spotlight India\u2019s Assistive Technology Innovators",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORkFzSWFkNjB5MzhDRGxHZzVFUmFfc2RsdENQWXgyWFBvUFBSb0JTUjJvLVNUTXJHQ0o3ZzYtY29YTGUzTVNwUHJOaldRLW9kdGZvVlQzbHJEZnllVkxfYWdyWjFGa2s5bHdtZDUwcHdFbjRlRndiTW94ZGFSbk9vdjdMWllGQUk1dW1kT084RGkyY2VMcGdzaHNtdlc3TVpQUXJDUkpYN2dTNUFwT2xydGZzTkczdDl4d0l1QVhVR0F4NG83NTBBNW1TbVk1Q3BzU2gwUnpvUElxNWNXbFJRSkZ2VEFJOHpubF9OZQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-04T11:12:48+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "AssisTech Foundation Opens Applications",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

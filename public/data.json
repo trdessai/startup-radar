@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T14:18:38.203596+00:00",
+ "generated_at": "2026-09-04T14:29:37.780345+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 4,
-  "alerted": 1
+  "fetched": 53,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -78,6 +78,23 @@
     "Rs24 crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "3c9370415f35",
+   "title": "Rentomojo\u2019s valuation jump; SoftBank\u2019s Meesho windfall",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/rentomojos-valuation-jump-softbanks-meesho-windfall/articleshow/133765315.cms",
+   "source": "ET Tech",
+   "published": "2026-09-04T13:55:57+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Rentomojo\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "10cf25ec0779",
@@ -619,23 +636,6 @@
    "reasons": [
     "no clear event",
     "5.36 Million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c798a54d96ae",
-   "title": "Ola Electric Opens First Dealer-Led Stores, Eyes 500-Outlet Network",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEl3V3Zwck80UGdtZE5RWkQtMVFEYlk1WENXSDhWcEFZamw2N0Vac1dtRnNQTkRJekFfbVVRcGphMG1Xb2lIMGxmQklCd1UzZk1IZTljUkduU0lHak5iQ25sRUZsTm1oOGlBRERnRFcxS3pBOGczeUxKM2xQckVHWE1yejRreHhHMm03a1JSdHJJMjRD?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T10:12:06+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Ola Electric Opens First Dealer-Led",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

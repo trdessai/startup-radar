@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T03:45:00.283716+00:00",
+ "generated_at": "2026-09-05T03:51:12.085323+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 11,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a912367d8c3b",
+   "title": "PUBG-fame Krafton to invest another $250 million in India as it expands beyond gaming",
+   "url": "https://www.livemint.com/companies/news/pubgfame-krafton-to-invest-another-250-million-in-india-as-it-expands-beyond-gaming-11788575428581.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-05T03:47:52+00:00",
+   "score": 71,
+   "category": "expansion",
+   "company": "PUBG-fame Krafton",
+   "amount": "$250 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "$250 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "a29f27b631ae",
    "title": "From Ultrahuman To Comet \u2014 Indian Startups Raised Over $177 Mn This Week",
@@ -434,23 +452,6 @@
    "score": 18,
    "category": "other",
    "company": "Stephen Thaler",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2649617f9472",
-   "title": "Challenges - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VR1VDblRDYXZOSXFqWXpwZHZWTi1kRDNnTk05WE1rX3REdjN6LXFXd3hjd1VOTW9TdFZFdFRhTUFjcEtoZDFWN0tpUzNYOXNnYUl3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T15:53:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Challenges",
    "amount": "",
    "stage": "",
    "founders": [],

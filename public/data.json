@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-05T13:51:25.766206+00:00",
+ "generated_at": "2026-09-05T14:01:44.411522+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
+  "fetched": 19,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
   {
@@ -39,6 +39,23 @@
    "reasons": [
     "no clear event",
     "\u20b970,000 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "777657ee0a4d",
+   "title": "Business News",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkw2Qk9VQkJSN1hzS0UtWTQ4YUk0WUdYVktSRTQxNmdMV1NxaThOQ2tzelIwMHFpNkdUTjduR0s3ck1LczVFZ1dVdjNzc1dQdWZPU3FQeUJVcUo0aUp5blVLZndPT0VPRWxZZG5RbnBvS1BOR0NsTnUyZXhzbGd4MUdzMkx6MnpfTzk1Yng1bzlDUV9hTFFqNURMQk9jb0M4aHVFaVJqa01iazlOYlN1SGtPUUZUYm9jNVNpVVhQbDB5MnBvNTBWdGxxWk00M1JlTUZTR1NESzJZMS1jcjlZTTVTaXpVQlNKdUo1RWVVN09FQlXSAfMBQVVfeXFMT1ZMNkJPVUJCUjdYc0tFLVk0OGFJNFlHWFZLUkU0MTZnTFdTcWk4TkNrc3pSMDBxaTZHVE43bkdLN3JNS3M1RWdXVXYzc3NXUHVmT1NxUHlCVXFKNGlKeW5VS2Z3T09FT0VsWWRuUW5wb0tQTkdDbE51MmV4c2xneDFHczJMejJ6X085NWJ4NW85Q1FfYUxRajVETEJPY29DOGh1RWlSamtNYms5TmJTdUhrT1FGVGJvYzVTaVVYUGwweTJwbzUwVnRscVpNNDNSZU1GU0dTREsyWTEtY3I5WU01U2l6VUJTSnVKNUVlVTdPRUJV?oc=5",
+   "source": "LatestLY",
+   "published": "2026-09-05T12:30:25+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Business News",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -7050,24 +7067,6 @@
    "reasons": [
     "funding in headline",
     "$215 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5ea58de4c56b",
-   "title": "Ola Electric Secures Centre\u2019s \u20b995.81 Cr Incentive Under PLI-Auto Scheme",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BkRFhBSlFJSUFEVnRUMjh3MEVJMDdRUEZla0M4NXJxajhyeThtb3dsUzd3WDNPbEM3X3h6bUZIdWNUT3ozc0tVTm03RGdxUHZYMi1pS296cWRiTTdVOG53bXloNXJ6SW5EaDdidl81c3ZfTVZzRDlEVXRtQk5HbDZscERySXlMREpWcmJBejFKM25PN1FUZll3Sk0wTFhBX1hJSQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-29T13:53:36+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "Ola Electric",
-   "amount": "\u20b995.81 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b995.81 Cr"
    ],
    "alerted": true
   }

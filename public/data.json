@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T10:01:44.486261+00:00",
+ "generated_at": "2026-09-05T10:17:12.631771+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "eafbd9a60d1b",
+   "title": "VLCC raises Rs 110 crore from BlackSoil Capital to fuel beauty and wellness expansion",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZG1ON1h3N0ZNX19xb0ZWWExfRlVHWmFrbVlmeFFKLW81Ny1ZX2t0RE5kRGN6SE9tNlV0Z3BZN2RvX1N2VkVJb2dkLXhMOHdUTGZLeW11Vlh6X2xLYjlWV3dLWXdiTThtOWRqUFNsS2lnMk9DdUREdnVLZFNrR2ZhRTlCaU1COUIyTVlQb1ZRTXNfQ09MbFk3dmtia1RiRG9wcDNFR21zWjRZdUhhMUNQRDA4c0Z5N2t5UjFQWS1Rbi1uOVlzVnhDWXFORnrSAcwBQVVfeXFMTmRtTjdYdzdGTV9fcW9GVlhMX0ZVR1pha21ZZnhRSi1vNTctWV9rdEROZERjekhPbTZVdGdwWTdkb19TdlZFSW9nZC14TDh3VExmS3ltdVZYel9sS2I5Vld3S1l3Yk04bTlkalBTbEtpZzJPQ3VERHZ1S2RTa0dmYUU5QmlNQjlCMk1ZUG9WUU1zX0NPTGxZN3ZrYmtUYkRvcHAzRUdtc1o0WXVIYTFDUEQwOHNGeTdreVIxUFktUW4tbjlZc1Z4Q1lxTkZ6?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-05T10:11:54+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "VLCC",
+   "amount": "Rs110 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs110 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "a22a299a8558",
    "title": "ESDS Listing Pushes New-Age Tech Stocks\u2019 Market Cap Past $170 Bn",
@@ -584,23 +602,6 @@
    "reasons": [
     "no clear event",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "558d3f838bad",
-   "title": "Business Lending",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT0lfblo3MUctTVc4NWVGZlkxRjVDMExva2pqRENMU1BiWmJQdGFnbG1meFZ4eTE0UHpQc1NpMS1nMW8wMmZySE1jU1RIQVEyT29GUDVhYy1rMno5Nk4tV2Zrb0VaLTFXbVpVb0dOQVFTa3dGMDhPNzVpeFRQRllaM2JJckVZR1FqUmZ3STBLeXBEV2s1MUFRUV9JMEc4UmhDeUJIOUpYOHgyVFBFRlEyMG14blhBanBCQ0pPSEdfUGFqclhUYUVEbC1QYmpLT1pyMVpPZ2loYTlRSDNjaUFLS05KTW5uTWxSR2NUVGFMampEV0U?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-05T03:38:38+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Business Lending",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

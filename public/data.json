@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T06:22:14.272191+00:00",
+ "generated_at": "2026-09-05T06:36:29.214534+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 24,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "0a79eabc114e",
+   "title": "Funding and acquisitions in Indian startups this week [Aug 31 - Sep 05]",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbklzc1FrWTNQTzdEd21EbTVEQmoxTGpabnMxemJlUkVMTnlHZmUzVThmY19wSFdXMzlTTkxyLXVPeFhTZjNMMXh4ek5BZzk4MTNINjZkTkxsd1dlV2c0Q2JESXZpb2ZQeVV3NFR5ZS1TaTNYN2Y4cnhEWmZoeHBIdUtWcVFFZTg3VVR6VlZDSWFwanZoUWJFR0pEc3ZsSHdCakR1dU1oWmYzblhBd2RmMHJIdlhONnJRUUJ3eUQycjl1THNnS0czSm1pMjZNcURuVDRuajZLRktBcG95NHZpdEV30gHiAUFVX3lxTE1uSXNzUWtZM1BPN0R3bURtNURCajFMalpuczF6YmVSRUxOeUdmZTNVOGZjX3BIV1czOVNOTHItdU94WFNmM0wxeHh6TkFnOTgxM0g2NmROTGx3V2VXZzRDYkRJdmlvZlB5VXc0VHllLVNpM1g3ZjhyeERaZmh4cEh1S1ZxUUVlODdVVHpWVkNJYXBqdmhRYkVHSkRzdmxId0JqRHV1TWhaZjNuWEF3ZGYwckh2WE42clFRQnd5RDJyOXVMc2dLRzNKbWkyNk1xRG5UNG5qNktGS0Fwb3k0dml0RXc?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-05T06:18:09+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "3b58ddc7cd9a",
    "title": "India\u2019s deep-tech dilemma: Why startups are innovating at home but scaling overseas",
@@ -453,23 +471,6 @@
    "score": 25,
    "category": "other",
    "company": "DeepSeek",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5f4a1f218acf",
-   "title": "Smart ring maker Oura reveals revenue surge in US IPO filing",
-   "url": "https://economictimes.indiatimes.com/tech/technology/smart-ring-maker-oura-reveals-revenue-surge-in-us-ipo-filing/articleshow/133776082.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T19:06:29+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Smart",
    "amount": "",
    "stage": "",
    "founders": [],

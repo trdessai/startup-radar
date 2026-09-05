@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-05T15:51:05.519640+00:00",
+ "generated_at": "2026-09-05T16:01:35.941489+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 26,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
   {
@@ -22,6 +22,40 @@
    "reasons": [
     "funding in headline",
     "\u20b9170 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6101f8abc65a",
+   "title": "L&T technology services introduces FARM for startup growth",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVRXSTdjdjhVZGZ1amZWWU81WmVqd1h5RldVcGF2ZHhCZGRZZjA5TWt5QmtRRkRJZk1yb202QXhqNHF4dTYyY2tDWm85a3VHVGQzbHBqT20tSTNXQ1RFQTc2QTY5M3Y4cmNoQU5yRnNaYTBhRnFCeTd3dVV3bkhoVE4xVVluUWlJeTdMYmFQTmhmc2tQOTdjMGhjQkRzenI2UnB5R0hqRlRKWk5GNHhwRTJHdVBQLWdMU3A1OEtlcVlGZGJYV1RxQVo5NVBhemZCUkpBdjAwONIB3AFBVV95cUxQU3Z1d3JJRlNOQlNnQUU1eEdsMkpOSHdNdTNHeUxZekNyNURnOWNpS2pKVDdRNGI1cjJqbzRpVXpwX1VhcldMVE9ELXJZWC1NdHNPNkJxejVaRjBuUy1FeVEwamZjV0hic0pjOVFyNmJHZ2otYzlLcW0xUktMTEdEZVVJMk1MR2o4YTRhUjdXbmxubDBRc1g4UVpyMFM1RjctR1ZzZWxNYlhWQjQ2Qm5TRW1DRjdGSTU3OHBqWVUyYjhlWm42SF9jVWFiMktZaG1WcW03TzFvR0FHcE1B?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-05T15:34:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "L&T",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0d8d0bf44b7f",
+   "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+   "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+   "source": "Inc42",
+   "published": "2026-09-05T15:30:38+00:00",
+   "score": 66,
+   "category": "launch",
+   "company": "FY26 Financial Tracker: Tracking The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
    ],
    "alerted": true
   },
@@ -7037,23 +7071,6 @@
    "alerted": true
   },
   {
-   "id": "0d8d0bf44b7f",
-   "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
-   "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
-   "source": "Inc42",
-   "published": "2026-08-29T18:29:38+00:00",
-   "score": 66,
-   "category": "launch",
-   "company": "FY26 Financial Tracker: Tracking The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
    "id": "57282d5f947c",
    "title": "Weekly Startup News: Indian Startups Raise $218.69 Mn as AI and Deeptech Lead the Funding Rush",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUVqQ1NkVjFnckI1b0FQcldVZ28yTFJlc2lhR29KNDRhdUNfYlYyWUlBXzNNSzNCdGE4Zng1X0VVZFlmdGszUlpwd0RaTkxRNFEzaEhpbWhOa1NDcHhXNEI1UlU0cVNHNG9leGI1ckhZdGtCTUQzZmdIRmpzdkU1R2NjMFRNVE1uTXB0ZmtqanZVaXFtUGFFVnp3?oc=5",
@@ -7068,24 +7085,6 @@
    "reasons": [
     "funding in headline",
     "$218.69 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "40a6a5567ef0",
-   "title": "Between August 24 and August 29, 2026, as many as 20 Indian startups from diverse sectors raised over $215 million in funding from investors. These sectors include Cafe, Skincare, AI, Foodtech, Logistics, EV, Petcare, Autotech, Healthtech, Wellness, and Cl",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpUE9ScFFXb1JGODVOd1ZkWGlGbnBZc0FsY0RhVzc3WjFoNloxVDloNnFoSVZITXBHZmZDZEc1VzE3TUlFaVlaUnZqdFB3b29GNGc?oc=5",
-   "source": "instagram.com",
-   "published": "2026-08-29T16:01:11+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Between August",
-   "amount": "$215 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$215 million"
    ],
    "alerted": true
   }

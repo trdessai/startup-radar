@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-05T03:51:12.085323+00:00",
+ "generated_at": "2026-09-05T04:02:05.696121+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 13,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "6f22f0fdbcad",
+   "title": "Anthropic IPO launch shifts toward mid-October, sources say",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133786749.cms",
+   "source": "ET Tech",
+   "published": "2026-09-05T03:52:56+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Anthropic IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b5f8fa419070",
+   "title": "US, China gear up for mid-September AI safety talks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-gear-up-for-mid-september-ai-safety-talks/articleshow/133786667.cms",
+   "source": "ET Tech",
+   "published": "2026-09-05T03:48:43+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "US China",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
   {
    "id": "a912367d8c3b",
    "title": "PUBG-fame Krafton to invest another $250 million in India as it expands beyond gaming",
@@ -418,40 +452,6 @@
    "score": 18,
    "category": "other",
    "company": "Abhishek Upadhyay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ef2e8381f1b6",
-   "title": "Jantar Mantar - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13UzZmNjZPTDdtZU15ZHppVWpVQW5oODhKbmZWcEdXYnV0VllPVzI5X0s4Y0V6eE9JVmRCTWpZTHZXdEVoUnlWUm1sb2FIOXJabGs0dlZVQQ?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-04T15:53:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Jantar Mantar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b86a0b17d6fd",
-   "title": "Stephen Thaler - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiX3Q4azJSbG5lOElKY285OXB4SFpGZlFESTdOeEVQVlpTby1BQUhoS2xZMmVhZnpsMndTb1I4azBETGdkUTdBaEp3Z1E1allwbUpQN1pOYU0?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-04T15:53:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Stephen Thaler",
    "amount": "",
    "stage": "",
    "founders": [],

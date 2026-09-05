@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-05T18:32:11.944551+00:00",
+ "generated_at": "2026-09-05T18:46:10.107529+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
+  "fetched": 26,
   "fresh": 2,
   "alerted": 0
  },
@@ -34,6 +34,40 @@
    "score": 18,
    "category": "other",
    "company": "Artificial Superintelligence",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "49d7946db5f5",
+   "title": "Cradlewise - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wMkVhb3piRS1FR2p3M0JHVXE0Uno5S21xaUdhdzRwRUhtRThOTDlWcWhLMjJyTXFOMjdrRFdQWmNQdEJaWHhNMm9SMkJETU1zTmNJ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-05T17:21:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Cradlewise",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "40fdba23a6c4",
+   "title": "Mumbai City Civil Court - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWS1UNHJGcUdxYXhKeDEzaDM0NklNQTJyRWZ5OV9jVm5sVWRLNmR0QzZfU0szRXVtNWRxX2l2aEpCektYRlB4UlV5MU5BbTJEaVhxWTBOc2FmQnZuOVNUaUJucUk?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-05T17:21:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Mumbai City Civil Court",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -714,41 +748,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7d329e45b698",
-   "title": "Samant Chauhan & Symetree Fine Jewels Redefine Luxury Retail with New Delhi Flagship",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2tQVWJCRFpIb2p2REw4UFdZTk9MQmozbjhMcmJ2ZUFRSDluVUxfTnpkVzV6dENqQ1hSNkJ1X1U0dEV0UVdLU3VGRkN0RzlYUU1HWmRxczZURzJnekdESnItUEY1T2Y2dVVhaGtpOVU0Z0tDTmhUSUpuTW1Ndkh2MzVqakdBS3htYTIwVHZ5MDVzR081QmFQWVpiUHpMRUpfc3ZHeUpoY1RLMEIyOVNkMVVNaw?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-05T06:45:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Samant Chauhan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "92462df4c362",
-   "title": "Weekly funding roundup: The startup deals you may have missed in week of September 6",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXZGbW1XNm4yVEVQZndJOHdXZ3dzUkJPaWlJaDdobTZwVXZYa3ZJMTNPMk1wdm4yM2paMTF3VVhRQmM5X1hjb0Fsc3ZvVVNFSTdkcnRzOHg2OW9yTVdKUnp2VmdCTFJmUENzYTBKYWVRWjF6SVg0SlVVYXpyR2l4T0p2bWdlV2o0TkxtZG9xbmJpS1NNdzJiX1RnSnQzZ0N5NzVlVDNwSUFUTF8wYUdmM1Q5eG1KTktYZENhczFCUk1Samk0Y0RYbVEya1hYX3JGN3dzeXE3eFB6Mnkxb19IVHN30gHnAUFVX3lxTE5JcHNXd2xhNW9xV3RtLTI5ek10NFVOTzZKYWlNMDFndUtISjJiTWZNdHlmQ04tZ1pWSXJCZWRWTFpuTXNjVVFObi03NlpnU0VvcjJTRGdDU2M1cjhIb1c3dWNWN2JPU29jM1hmSk5HZE0zeFlKZGhVNTdSTmFhWnd3Z19STDRCWU9kV0p2cU0wMU5mYV93U0I5Wll2M00ydFFrcDY2eEhaa0R5MDZSdkRMUGEzNTdwV1VINlNaT3JybjBrSFYwME1DMVN5eFdWQWVuRXE3SkVGMWZwTzluZTBjOE83UGhLYw?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-05T06:42:11+00:00",
-   "score": 20,
-   "category": "funding",
-   "company": "Weekly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "listicle/opinion"
-   ],
-   "alerted": false
   },
   {
    "id": "ac11ab6d01c3",

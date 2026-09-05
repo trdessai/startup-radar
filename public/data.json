@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T15:34:10.522297+00:00",
+ "generated_at": "2026-09-05T15:42:40.337681+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "4679b3cd40b9",
+   "title": "D2C Luggage Brand Mokobara Bags \u20b9170 Cr",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbU03VzY5eG5pa283N2lUWUFHWGItNWJ2WFQ5WWRoU3FvN0JtQzZycDAwSXYxOHdMNEFHM3NwQlB5M0dnYjFjaXdBS1JfNUZKUWtSUUhEWW5Mek1iVk1vd2JvUGdUTDQ1dXpocVpyQlQ1WmxtMlVCNTNlVQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-05T15:35:40+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Luggage Brand Mokobara",
+   "amount": "\u20b9170 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9170 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "84ba1ff19593",
    "title": "Ola Electric approves Rs 1,500 Cr fundraise; COO Hyun Shik Park resigns",
@@ -707,24 +725,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "217a709ce297",
-   "title": "NoPaperForms files updated draft papers for IPO; eyes Rs 375 Cr via fresh issue",
-   "url": "https://yourstory.com/2026/09/nopaperforms-updated-draft-papers-ipo-rs-375-cr-fresh-issue",
-   "source": "YourStory",
-   "published": "2026-09-05T05:51:53+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "NoPaperForms",
-   "amount": "Rs375 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs375 Cr"
    ],
    "alerted": false
   },

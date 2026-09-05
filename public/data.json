@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-05T05:01:36.368484+00:00",
+ "generated_at": "2026-09-05T05:17:05.921943+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 0,
+  "fetched": 16,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -180,6 +180,23 @@
     "$887 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "94e2068000e5",
+   "title": "K12",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGFnck8xb3RJN2dQbUpfQXljR2tuakRaSHpXQllLdllEX0VuX2NtbE9fSlRqbHl5Q0xVcll6SXIzekNLNDRmdU56NXJEMHhsSy1vZF9pbld4MEJySEVTc294UGMza2ZyZFhCbURtOHh5ZFpWcXhEcTdaMXdRbXJ6Wlh1TTlHMXFPVTJSdEFodWdLYjdqYWtwNkJsRWo3UFJfYllBSEZ0Qmg2dldsQ0hoN09wSjNBQ1oxbFpCbWQzajNieWJwdVZWRXJnaGNBQVFoVk5HY1BOampaeHBz?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-05T01:19:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "K12",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "cef64a234f1f",

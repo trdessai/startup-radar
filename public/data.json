@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T08:37:59.359548+00:00",
+ "generated_at": "2026-09-05T08:45:41.146340+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 30,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "5e15d6051f8d",
+   "title": "Healthtech startup Ultrahuman raises $70 million to expand wearable health, AI platform",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFByYzByc0dTYjZTTEs1QXVJTVBzYzJjYlZ0YTB0MHpWLUZmZEMzR21Zc19YNGNCZFUza09EbkQ4YnB5dXoxc05oVjRKbmp6VHViYkJGV2xxVWhPalNuTXVPMmFKV1JVNW1wbWlONURDalpTQk9OZVcxblA5dlJmaHc1ZWFiY1hDYk02UWhTRWNqc1ZKR2pVajZDMHI4MnppaUphYWxqOW5BRm1SRUNPc2p4bS1ySlJkZllSR2dHdFAtUzl2UEZhTU14R2XSAcwBQVVfeXFMTWxQcmMwcnNHU2I2U0xLNUF1SU1Qc2MyY2JWdGEwdDB6Vi1GZmRDM0dtWXNfWDRjQmRVM2tPRG5EOGJweXV6MXNOaFY0Sm5qelR1YmJCRldscVVoT2pTbk11TzJhSldSVTVtcG1pTjVEQ2paU0JPTmVXMW5QOXZSZmh3NWVhYmNYQ2JNNlFoU0VjanNWSkdqVWo2QzByODJ6aWlKYWFsajluQUZtUkVDT3NqeG0tckpSZGZZUkdnR3RQLVM5dlBGYU1NeEdl?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-05T08:35:07+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Ultrahuman",
+   "amount": "$70 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$70 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "f0b70da7f8a6",
    "title": "GemSense launches a crystal bracelet builder that\u2019s trending right now",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-05T13:17:13.112435+00:00",
+ "generated_at": "2026-09-05T13:25:51.264398+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 18,
-  "fresh": 0,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "b25535e8dc12",
+   "title": "TCS\u2019s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside \u20b970,000 crore \u2018historic\u2019 project",
+   "url": "https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-data-centre-in-telanganas-hyderabad-inside-70-000-crore-historic-project-11788610018101.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-05T13:15:47+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "TCS\u2019s HyperVault",
+   "amount": "\u20b970,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b970,000 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "6786f3a67ac4",
    "title": "Vazaneh Launches First Flagship Store \u2018House of Vazaneh\u2019 in New Delhi",
@@ -76,6 +94,25 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "8eae188830ec",
+   "title": "AI boom lifts Foxconn August sales to USD 29.14 billion",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3ZvazhLclhvM0h1eW5UaW1ja1lEQ08wZGtmamZPSDB4QWlZUi1nSkwxeGNPOHZmMDZzX2xFMlc1TWhzZ0dEV3pocTdtdlRmYkhsaFVhaU1od1p0eFZfeDczUXRpTEJ1N0JocTJsaGxOa24zN1haZUdYR3dzNVAzalZwbEwtNTZpRmlncVJqbWw0TC1mbFZxTjdnOWtFa3o4amhiWHJZRkdUUUR3RWR0cGRTanlqc2VSQm9LZGZ1UjVSWE9COUJWZtIByAFBVV95cUxPT3ZvazhLclhvM0h1eW5UaW1ja1lEQ08wZGtmamZPSDB4QWlZUi1nSkwxeGNPOHZmMDZzX2xFMlc1TWhzZ0dEV3pocTdtdlRmYkhsaFVhaU1od1p0eFZfeDczUXRpTEJ1N0JocTJsaGxOa24zN1haZUdYR3dzNVAzalZwbEwtNTZpRmlncVJqbWw0TC1mbFZxTjdnOWtFa3o4amhiWHJZRkdUUUR3RWR0cGRTanlqc2VSQm9LZGZ1UjVSWE9COUJWZg?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-05T12:14:00+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "",
+   "amount": "USD29.14 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "USD29.14 billion",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "e77524ac5185",

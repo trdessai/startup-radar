@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-05T11:31:28.809236+00:00",
+ "generated_at": "2026-09-05T11:41:33.159802+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 22,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e77524ac5185",
+   "title": "BLR Startup Island Computing Launches India's First Fully Managed Sovereign Cloud; Beats AWS At Cost",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTE9FcVVXSjEzRGNSUFZ4N2d4NFA1WXhMVDhSLWl4aS1ZVnQxZ25FOXUwbFFORDVHdGhzT3RsNVRZeEdvWkVzbkFyTW0yVGdnR2N3alRDQWpyTkVaN3BTdXVPUEw2OXFCMko0aXVRM05zYjNPTHRFcjN4LUZhcUoxbV96c3QwTXhPRUxCOGNjLXh1Ri05Q3k5SHZwTUFaVFR5NkRCcjUwNTcyN2ZaRGtMejdKd3VSaDkwcjE2a0RHQlBVbGQwUVM3UnhhdkJELTBEbHFnSk5YbnJTbWVpcmVmcQ?oc=5",
+   "source": "Startup Pedia",
+   "published": "2026-09-05T11:29:13+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "BLR Startup Island Computing",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "ece5f0526104",
    "title": "Subhash Chandra\u2019s troubles mount: CBI files FIR alleging net worth \u2018inflation\u2019 to secure \u20b9980 cr loan from LICHFL",
@@ -7017,24 +7034,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5046bfd74f74",
-   "title": "Deeptech startup Edgeverse raises Rs 3 crore in funding from GVFL",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzFmSVNCMW1YbTFaVExXd3J0RE9rb2htbXlXUkg4VVh1YmphcmZZT1drdGQySlJNTmljMkN4cDNGSjFLYXFCY280a18zZ2Nnb3lhb05BeVUzRVUwcFIzRVNLWmRhTzVQMmVBUFJfVTdjNmJsR19sQjlyQnZtelI1a01hajd1NXNMdHpQdjhla2NsR2JhYnBFeHBYVXdXc2U3SU9uMm11YUM0REt6MFN0SU530gGyAUFVX3lxTFBHMWZJU0IxbVhtMVpUTFd3cnRET2tvaG1teVdSSDhVWHViamFyZllPV2t0ZDJKUk1OaWMyQ3hwM0ZKMUthcUJjbzRrXzNnY2dveWFvTkF5VTNFVTBwUjNFU0taZGFPNVAyZUFQUl9VN2M2YmxHX2xCOXJCdm16UjVrTWFqN3U1c0x0elB2OGVrY2xHYmFicEV4cFhVd1dzZTdJT24ybXVhQzRES3owU3RJTnc?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-08-29T11:40:21+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "Edgeverse",
-   "amount": "Rs3 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs3 crore"
    ],
    "alerted": true
   }

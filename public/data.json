@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-05T23:41:35.033632+00:00",
+ "generated_at": "2026-09-05T23:51:14.953591+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 3,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "15751f6b725c",
+   "title": "Isar Aerospace: Launching Europe's Journey to Space Autonomy",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa29ZVXdaQldfZENmd1dhT1BFeTNvNUEwZWFoSExaNVF0cGt2eU9LWDJONTF6WTNneXppcXZldjJ6QS1OeUNPQjFySHFVVGxoVlduTTZKS0ZrZkF6V1JqaERRSUpPS1JSUnNVVEFoRkdUV1JIOHd4X2hSaGR1SjM3Rnh5QWlBcUdlRU9hMU5VdVVWZUVnSnB6ell5QllMc0NRWk5mRFkybnFFOWhhN3RqU3hrSVVMUXZMMm5NdVIxVG5XUzZfYmfSAcYBQVVfeXFMUGtvWVV3WkJXX2RDZndXYU9QRXkzbzVBMGVhaEhMWjVRdHBrdnlPS1gyTjUxelkzZ3l6aXF2ZXYyekEtTnlDT0IxckhxVVRsaFZXbk02SktGa2ZBeldSamhEUUlKT0tSUlJzVVRBaEZHVFdSSDh3eF9oUmhkdUozN0Z4eUFpQXFHZUVPYTFOVXVVVmVFZ0pwenpZeUJZTHNDUVpOZkRZMm5xRTloYTd0alN4a0lVTFF2TDJuTXVSMVRuV1M2X2Jn?oc=5",
+   "source": "Devdiscourse",
+   "published": "2026-09-05T22:20:22+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Isar Aerospace:",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "312cd839219b",
    "title": "Isar Aerospace: Europe Reaches for the Stars",
@@ -462,23 +479,6 @@
    "reasons": [
     "no clear event",
     "\u20b970,000 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "777657ee0a4d",
-   "title": "Business News",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkw2Qk9VQkJSN1hzS0UtWTQ4YUk0WUdYVktSRTQxNmdMV1NxaThOQ2tzelIwMHFpNkdUTjduR0s3ck1LczVFZ1dVdjNzc1dQdWZPU3FQeUJVcUo0aUp5blVLZndPT0VPRWxZZG5RbnBvS1BOR0NsTnUyZXhzbGd4MUdzMkx6MnpfTzk1Yng1bzlDUV9hTFFqNURMQk9jb0M4aHVFaVJqa01iazlOYlN1SGtPUUZUYm9jNVNpVVhQbDB5MnBvNTBWdGxxWk00M1JlTUZTR1NESzJZMS1jcjlZTTVTaXpVQlNKdUo1RWVVN09FQlXSAfMBQVVfeXFMT1ZMNkJPVUJCUjdYc0tFLVk0OGFJNFlHWFZLUkU0MTZnTFdTcWk4TkNrc3pSMDBxaTZHVE43bkdLN3JNS3M1RWdXVXYzc3NXUHVmT1NxUHlCVXFKNGlKeW5VS2Z3T09FT0VsWWRuUW5wb0tQTkdDbE51MmV4c2xneDFHczJMejJ6X085NWJ4NW85Q1FfYUxRajVETEJPY29DOGh1RWlSamtNYms5TmJTdUhrT1FGVGJvYzVTaVVYUGwweTJwbzUwVnRscVpNNDNSZU1GU0dTREsyWTEtY3I5WU01U2l6VUJTSnVKNUVlVTdPRUJV?oc=5",
-   "source": "LatestLY",
-   "published": "2026-09-05T12:30:25+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Business News",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

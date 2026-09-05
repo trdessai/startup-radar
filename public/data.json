@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-05T08:18:48.241120+00:00",
+ "generated_at": "2026-09-05T08:28:28.201402+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 4,
-  "alerted": 3
+  "fetched": 27,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f0b70da7f8a6",
+   "title": "GemSense launches a crystal bracelet builder that\u2019s trending right now",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX09ieTgtdUhzMl8xNk5sQW8wSUFTeDNtTTFUTVZ3TzVSZkE1dlQzcDl2WXB3ZDBDV1o2QUFMVmtqYTJYalJWX3I5OUlta3pGMEt5QzlXelM4N01GZFhWTFFmWldFRUZkZXFLV0RzVUFzMl9GeUhqRGl1UFpUcXcwM3hqRnFpOGk2UEJla3F3aDZuYko5cXNZSUsxVWxoeVB6ZEZLMlpvc2hjTmZa?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-09-05T08:18:32+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "GemSense",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "a631a625ed0a",
    "title": "Nykaa raises stake in personal care brand Earth Rhythm",
@@ -108,6 +125,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "7d329e45b698",
+   "title": "Samant Chauhan & Symetree Fine Jewels Redefine Luxury Retail with New Delhi Flagship",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2tQVWJCRFpIb2p2REw4UFdZTk9MQmozbjhMcmJ2ZUFRSDluVUxfTnpkVzV6dENqQ1hSNkJ1X1U0dEV0UVdLU3VGRkN0RzlYUU1HWmRxczZURzJnekdESnItUEY1T2Y2dVVhaGtpOVU0Z0tDTmhUSUpuTW1Ndkh2MzVqakdBS3htYTIwVHZ5MDVzR081QmFQWVpiUHpMRUpfc3ZHeUpoY1RLMEIyOVNkMVVNaw?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-05T06:45:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Samant Chauhan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "92462df4c362",
@@ -544,42 +578,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cef64a234f1f",
-   "title": "Bajaj Group's Bajel Projects skips the elephant dance, opts for a steady walk",
-   "url": "https://www.livemint.com/companies/news/bajaj-group-bajel-projects-epc-t-d-energy-11788512843873.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-05T00:30:56+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Bajaj Group's Bajel Projects",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ef010497bf8a",
-   "title": "Edtech \u2013 Latest News, Funding, Financials, Acquisitions, IPOs & More",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnJ4eUk1Tk1qQXBGdjZQYW9zX0w5X0FIUUFHNTZVakZsMHRtNkJTRzlJalZvRWgxdzA1TWw3cDN3WlE2SU9zTnNnV0lqNGh0X0Q5RUVST1FiY1dyQm0wcGtBTGczczRxNGhOZDBSTkJFZkdRUi14N3U3cWdwcTRnS3RxMk5xRXctT1lEOFBJekl5X0czbUtKWUVBUGlUUHNCakNCUFg3NWlRejZ0dlE4VHM5aHk3dHhhT1liMUNPZG9MX20xek5oSkpoX0NLdDFpaTFZU3U5aWlNeTZSbllZVg?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-05T00:11:27+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
    ],
    "alerted": false
   },

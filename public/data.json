@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T02:17:53.681974+00:00",
+ "generated_at": "2026-09-05T02:28:00.931619+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 6,
@@ -39,6 +39,24 @@
    "reasons": [
     "India only in body",
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ef010497bf8a",
+   "title": "Edtech \u2013 Latest News, Funding, Financials, Acquisitions, IPOs & More",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnJ4eUk1Tk1qQXBGdjZQYW9zX0w5X0FIUUFHNTZVakZsMHRtNkJTRzlJalZvRWgxdzA1TWw3cDN3WlE2SU9zTnNnV0lqNGh0X0Q5RUVST1FiY1dyQm0wcGtBTGczczRxNGhOZDBSTkJFZkdRUi14N3U3cWdwcTRnS3RxMk5xRXctT1lEOFBJekl5X0czbUtKWUVBUGlUUHNCakNCUFg3NWlRejZ0dlE4VHM5aHk3dHhhT1liMUNPZG9MX20xek5oSkpoX0NLdDFpaTFZU3U5aWlNeTZSbllZVg?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-05T00:11:27+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
    ],
    "alerted": false
   },
@@ -397,23 +415,6 @@
    "score": 18,
    "category": "other",
    "company": "Hugging Face",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "244fc68e4b6f",
-   "title": "Micro Drama - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bmxrbFpnRDgyVWVzTU5BMXpTSThfREVNNUYxWHA0U1hveDJXT1BzZS05Y0lLZTJuMGd6NzlUSzlKeFo3dGRtOU9mY1ZtNndRODdLaA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-04T15:52:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Micro Drama",
    "amount": "",
    "stage": "",
    "founders": [],

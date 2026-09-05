@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-05T21:41:41.183471+00:00",
+ "generated_at": "2026-09-05T21:51:05.859574+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
-  "fresh": 0,
+  "fetched": 8,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "331a3285af0b",
+   "title": "Francisco Cerundolo eliminates Taylor Fritz in thriller, Swiatek battles past Bouzkova",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDRKUW5RWERibUJFVmdzMlYyTmtJUGJENWJjVUZ4cklYdVBjZmVwaUNEamlkYmkyeUY1cWdxRVVSRnd3UlU3YXY2MVJrYlZCOHJkdUl0NjRERnJCZlRnQmlucUJUbnlaYTdVb2ktNV9qYXl5YkpOTFNObzVkMUNReDRTMmVCdmduR2xrVHpMSW5mVWRxMUxELWxuZVc2Wnl0eEVHNVBsd2sxanNCQVlvd2xjM1JOVU96ZE1namFlVVBzQTcyMU9UN09zMG12WUlm0gHWAUFVX3lxTFBCbUZWSDAwTjd1OUhSS09rZVRMN3JjOHVLeEZWTW5hekg0dlMySWltNjBTQ3NQelo5Y29zWkdRcTdnTHdSTEhrd0hSc05WUXRvVXkxYnNHVkl0dUE1MlEtX1l3Qzd6MW1XX0ctNEVETHlkbFBVRHlHMUlFWF9JVFBWUlNuUXhyMGU2UzJySG1paFFPZ21oaEZObldzYXR6eENZcDh2dV9KM1d5aklUWWZNYzFROFhOQ1BGNk9FdW5qNGg5ZVpyMnRsaVBnTXVsWDNXWUFGbEE?oc=5",
+   "source": "indiatoday.in",
+   "published": "2026-09-05T20:38:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Francisco Cerundolo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8a672baa76a8",
    "title": "German space rocket lifts off from Norway base",
@@ -553,24 +570,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ece5f0526104",
-   "title": "Subhash Chandra\u2019s troubles mount: CBI files FIR alleging net worth \u2018inflation\u2019 to secure \u20b9980 cr loan from LICHFL",
-   "url": "https://www.livemint.com/companies/people/subhash-chandra-s-troubles-mount-cbi-files-fir-over-alleged-net-worth-inflation-to-secure-rs-980-cr-loan-from-lichfl-11788603370946.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-05T10:32:58+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Subhash Chandra\u2019s",
-   "amount": "\u20b9980 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9980 cr"
-   ],
-   "alerted": false
   },
   {
    "id": "eafbd9a60d1b",

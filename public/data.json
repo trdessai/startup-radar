@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-05T06:01:49.605495+00:00",
+ "generated_at": "2026-09-05T06:22:14.272191+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 19,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "3b58ddc7cd9a",
+   "title": "India\u2019s deep-tech dilemma: Why startups are innovating at home but scaling overseas",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1E5MkZkRkx1dkRuOEhxVndiZGhqVTlIUzZDMndBeFVjRVotaUcyNFpUYi0yMF9mUFNhemdmS3FWam5zV1QzU3BrYS1vRWctZlU4S0V0SG5MZkVPZ25JUzRCczBoM0ctcXVvX0tXOFNTMGJtNExDS2t0bW1TaUt0VlFaSk1WbE9ESTBRaWZndkttQ3NXMXh1clVSN3o5TlpMVGlIMGZwUFI?oc=5",
+   "source": "SME Futures",
+   "published": "2026-09-05T06:04:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e2c7eb6c87f4",
+   "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/articleshow/133789879.cms",
+   "source": "ET Tech",
+   "published": "2026-09-05T05:54:23+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Seattle Times Newsday",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "217a709ce297",
    "title": "NoPaperForms files updated draft papers for IPO; eyes Rs 375 Cr via fresh issue",
@@ -42,6 +76,23 @@
     "Rs100 Cr",
     "Series B",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b276b52dc177",
+   "title": "Gulf\u2019s Leading Curly Hair Concept, The Curl Nation, Enters India With Mumbai Launch",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTBaWnplMVRFZFFraFBPekNLdlRVREIzbEJldmNDczZVU21mTzFxeElWQ2FTbkg1ZGgyNzFMeHZLRk1XQTIzV2g5M1VlMTdrU1NuRnFHeTVBanA1MjRJZXRtLVdDYkE0ZkFhMXZENXJUdHJYcXZKcm1UdDE1U2tJdmQxN3RmbTNnTVV6UDZMbXB2LWJkeDRVbHM0SGU3T1N2RXM1OFZsQTl5UXMzNFQ0eHZPRHBtd280ZnVYSUlaamU?oc=5",
+   "source": "businessnewsthisweek.com",
+   "published": "2026-09-05T05:26:05+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Gulf\u2019s Leading Curly Hair Concept",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -147,6 +198,23 @@
    "reasons": [
     "funding in headline",
     "$177 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b16074740ee7",
+   "title": "MedGenome launches tumour-informed MRD test for longitudinal cancer monitoring in India",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUzJpRUxDR2w4NEFKcUcxM284SmkwN3VhUkVLQ3RYTG5fd2ZIdGpFWHBiSFVEMmg3MmVEejQ3WjBZUF9kWUtWQ3BsZ2xwOXVjYjJmR3V4YXF2TTU2UTlGZmE4a0g2UWdWNm1WMTIzVVJFekdkcVVCekV4UjNnNXNYaFBYdTNjSXZweU1kb0tHaFdlTXA3Q3pGbEdSUENoUVVwZ0RmaHpWNlNZQnRhdUVUZ3lXN21kYXhPU3dJWFlSRktWMVlyaHJreDZMbFJiR3ZDWUpZ0gHaAUFVX3lxTE5nZEEzNFRJNG9rVmRZVHJ2LWNpQ0IzcTZhelRpRWFIaE9GQkMtMDBHeDFlUWZRdEs4ZU5yanZzMzZoQlpDbTF3QjNKMWJXSDZuc0RiLXRxRmxsV3dPLXYxZERzQmstRDM1QXRXOTVNQkhnRDVIcWpkSF81Tm91NHlKQ0NSYlBXeUhJSW5PSkZlMWd6VEprQy1fb1pyME5OYXRYdGpHUS1fT2E5YWJZeDExbks3VkFPaHV3QTBsU2FOLXlCTldobFA3ZDU3RC1nakFNVXh2OHhsTXhn?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-05T03:27:08+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "MedGenome",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -411,24 +479,6 @@
    "alerted": false
   },
   {
-   "id": "8e727b8e0aad",
-   "title": "Meritto Parent NoPaperForms Files UDRHP For \u20b9375 Cr+ IPO",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNklZMFFCWVZJQUZXajBlalJRSXVHVTVvZ1VhQWNVazJKVDNmVG1udWRqVnZBOUQwanpRM1ZSRnVGOXIzY0JJU1ZJV1djYTF0djhaMGZNaUluODlfSk5fMWMxLVVYdGVKOHkzWDdLWWN3VEU2WDQ1T3VxRDZTMmxQS193UDhaSExOYzFrM1JBZU13SXl2NG5Hek1B?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T19:05:11+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Meritto Parent NoPaperForms Files UDRHP",
-   "amount": "\u20b9375 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9375 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4d88e73c47c3",
    "title": "Sugar Cosmetics Raises Rs 144.5 Cr As Valuation Drops To Rs 755 Cr",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkhCREhYUjhhTWhCM3pET0lyclRVZ3YwUkVldGVSaGJielMzWE5lQlppQVRCVUJTb3ZvZDBMTE1YYWxraHhQNm9aRTBGZHNTT2x2azlDRmUyZENZTzhqem1qRTd3am03VE1LZlU0aDNybkk3a0I3TnZ5S0Eydlc3Ukpoem5palBmOFZSX0N6UzhOWlduNlQ2Qm1uaUtOcXVsbzNnSnFyYnBJOEZIcUFndnFn?oc=5",
@@ -447,23 +497,6 @@
    "alerted": true
   },
   {
-   "id": "5366f110e3d4",
-   "title": "Uplane to work with AG1 and Kalshi to replace marketing agencies with AI",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEJRbHRZNjBGNldhMmpaMC1zbTVuYkI5dEZpaFRJQ0lUR0E1Sks0c2dGZVFwdEVoTW9qaFk3a2tpaVJub3pyZkQ3QmZycGdFVkVUNnZHTVZ3V3g3RklLZjZ4dGtlcFB4VlZTWGNBZWE4WHVGRE1lMzFDZVktY3IyMEctTkVTNWF3TTNld2Y4NFVUVjRKUzk3bWNHRTdxM3cxajFxS1dVWjQxdGlfd3hVX3BYOS1rN0k?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-09-04T17:22:13+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Uplane",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "62ccf980328a",
    "title": "Sugar Cosmetics raises Rs 144 Cr at Rs 755 Cr valuation; early investors seek steep discount exits",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcm9HQ1NDOERLLUVoSTRJS3AyMXdMNW9rbUUyLWpqWXFKWXMtUi1IYmZ6NjdHaUg2VXVpOVJjdFpWTFVPdDU2TnhTTW92MDNRbkZEYkU3TGhXVjZkc2pzc2ZLM0dlbXdaYXRtNTJhREhNYXdOaFNGMXBiUkg3aE9Ba05rbXB1TlQ4cFpoellsa3Nybk8zTjVlUkJYNDROSkx3RkUtOW9oaUpGUWpYVHlIcDdURlBSc2Z5N1B6NVltVGVub0I5QUVUYURlZXDSAcwBQVVfeXFMT3JvR0NTQzhESy1FaEk0SUtwMjF3TDVva21FMi1qallxSllzLVItSGJmejY3R2lINlV1aTlSY3RaVkxVT3Q1Nk54U01vdjAzUW5GRGJFN0xoV1Y2ZHNqc3NmSzNHZW13WmF0bTUyYURITWF3TmhTRjFwYlJIN2hPQWtOa21wdU5UOHBaaHpZbGtzcm5PM041ZVJCWDQ0TkpMd0ZFLTlvaGlKRlFqWFR5SHA3VEZQUnNmeTdQejVZbVRlbm9COUFFVGFEZWVw?oc=5",
@@ -480,23 +513,6 @@
     "Rs755 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "2edd506bd01f",
-   "title": "Elon Musk's xAI loses court bid to block Minnesota's AI 'nudification' ban",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-xai-loses-court-bid-to-block-minnesotas-ai-nudification-ban/articleshow/133770351.cms",
-   "source": "ET Tech",
-   "published": "2026-09-04T16:23:04+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Elon Musk's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f057210411ac",
@@ -7057,23 +7073,6 @@
    "score": 63,
    "category": "launch",
    "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "81c73718eb72",
-   "title": "Don\u2019t Just Consume, Create: Vice President Launches India\u2019s Sovereign AI Stack",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRF80VHk5aGx0RzRfLWw5WHp0ZEdLY1lhZHBYYWdseGFhRkFQZGdNVFVYQUNKQ19vU3h0TDg1aFlndEV6ZmJ5RnhVWll4Y1ZacUlKRFdudE5vVkQxT2FWRXN6cl9LZ09GVGdIZnhCcVY3aUtNWDllb2VUMjc2UkF1aHJWOXcwUldsS3RYRGlmeXdQYWdqbnliaGxn?oc=5",
-   "source": "tennews.in",
-   "published": "2026-08-29T06:03:14+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Don\u2019t Just Consume Create: Vice",
    "amount": "",
    "stage": "",
    "founders": [],

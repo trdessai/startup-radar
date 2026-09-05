@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-05T21:01:36.981486+00:00",
+ "generated_at": "2026-09-05T21:16:31.641050+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 0,
+  "fetched": 15,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "8a672baa76a8",
+   "title": "German space rocket lifts off from Norway base",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-05T20:24:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "German",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "92c7260bafbb",
    "title": "Teachmint Earns 2026 Great Place To Work Certification\u2122",
@@ -572,25 +589,6 @@
     "Rs110 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "a22a299a8558",
-   "title": "ESDS Listing Pushes New-Age Tech Stocks\u2019 Market Cap Past $170 Bn",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNms2eWN0enZSalFXcWtMNjk5M0xPVmVnRnBPWDRSZXdFZTE0WjR3OW1sM3Z1b1NrZVRfLTlidUdIRVRUSEZIeHl4cnJNUkIwV05laUFaNmNfallGZTdiRUxXZzdkOFVnWExOb1pXZjFsRmNhSS05SEZydVRTYmc5WlEzT05mVnJyMHJKdHN6Yw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-05T09:33:58+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "ESDS Listing Pushes New-Age Tech",
-   "amount": "$170 Bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$170 Bn",
-    "markets story"
-   ],
-   "alerted": false
   },
   {
    "id": "ad22943cae96",

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-05T04:02:05.696121+00:00",
+ "generated_at": "2026-09-05T04:18:22.296807+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 17,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -58,6 +58,24 @@
     "$250 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "4be151281a16",
+   "title": "From shelf appeal to scroll appeal: Are brands redesigning products for the feed?",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2ZlaVVRUVNtbFBKV2RRS3poODczTmVsX0toaG5INHF1OFhSMFE3NVVUTHZFNUZvRXM4MXZOYU1zZjFMTHlNQnAySUYweG5MXzVVbVFJNkhGUGV3LVFoTkZQZFpPSENZWjBUMFdCUnlHejVRWUFwVFk0eHA3dnJyVjNRMHJJNks4YTdKY2otMkpyODBkMElaWG1CSzVPbFFtaGpzU1cwdVNrbXhnQmN1WkZwVzBJc3M4VHFUdTZnLVZSc2RFVnFiVjdaWmJMNUVxQ1ZN?oc=5",
+   "source": "Exchange4Media",
+   "published": "2026-09-05T03:41:22+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
   },
   {
    "id": "a29f27b631ae",
@@ -7058,24 +7076,6 @@
    "reasons": [
     "funding in headline",
     "$137 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "79a6b8e3be25",
-   "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
-   "source": "ET Tech",
-   "published": "2026-08-29T04:06:57+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Andreessen Horowitz",
-   "amount": "$1.1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.1 billion"
    ],
    "alerted": true
   }

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T13:27:06.238445+00:00",
+ "generated_at": "2026-09-06T13:35:03.341723+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
+  "fetched": 17,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "69f005343600",
+   "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3VlRDY4dGN6a3F1SldrWWJmMDhqamdxUTVtc0wtNVcxTkktb0lmLXRCSG1wVlJPYmZkY21wQ1A3TzRPeDlEdTJkT2RGSDVGc01vb0xJd0dQQ1VXTVFIc1FwWFJTNDNndklnVkc0T0hpYTFNMUd6MlZFN2FRdWRKMnkwQ1BjbnRjSWRCblFVLWJvOHRqdEt1U190NTJjc1F4d1otcFUxcmxKckpoelZWeDdSa1Z5LXo4T3pEZzJjajZYZURaTUE?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-09-06T13:27:06+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "552aef11173a",
    "title": "Apple event on Sept 9: iPhone 18 Pro series, iPhone Ultra launch expected",
@@ -613,29 +631,6 @@
     "45 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "a81d8b7859ee",
-   "title": "How Zeelab Is Turning Its Affordable Pharma Play Into A \u20b9200 Cr Business",
-   "url": "https://inc42.com/startups/how-zeelab-is-turning-its-affordable-pharma-play-into-a-%e2%82%b9200-cr-business/",
-   "source": "Inc42",
-   "published": "2026-09-06T04:30:24+00:00",
-   "score": 52,
-   "category": "other",
-   "company": "How Zeelab Is Turning Its",
-   "amount": "\u20b9200 Cr",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Zeelab Pharmacy",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "\u20b9200 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "fa8f747e1ca7",

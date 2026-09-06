@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-06T06:37:39.305360+00:00",
+ "generated_at": "2026-09-06T06:48:52.569749+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 13,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -166,6 +166,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "a80be70982c9",
+   "title": "Man Beaten to Death with Wooden Logs in East Delhi, Police Launch Probe to Nab Accused - India Today",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0ZFOENab2taTjAzQnh0eVU2YkphQlp3RS10MVVULXJxUjB6MENYUUcxOVlCRC12RVlsYmlWLWtIeDZqV3VPOVpPN3Y4NmFIYXMwV1VOOFB5VGJZRDZoNldTaEZnR1Fxd0hRZzRSN1hQNVktOUUwZjRZNjZQMjE3TXRvZWwwRExFYjhIMXJoMkc4ejJFQ3dsMzA4NGU5Y094cTFuemNmNGl3bUxzOGhEbTlBNUhzN1BvVXM3U3NIeWhMQVF6X0JSQVNsd0xSN2JpdTZwNjFXbkhZLTltZ05VT9IB5gFBVV95cUxNLThVZ3d3M05Yby1VY1RNZHJCZjgzRTZ6ajhSZDA2OFA0bVFHeHZ2TlRSLS1pS29VQURXWlN3ZkkyNGNjekJVc1U5b0VZalFMbFQ4RE1CQjFHSXBDMmdLb1ZmaFluVmRXNFdqS3NLNXlselR3a2V4blQ1Yk1NUUVudE5oQkRBSWdpNWNnRjRDbUhVN1hxODZlWWd3cTlVcmFyb2tvcG5oQ29iRTFHcFJvb0VtQUM2UllXRjN3d05Bd3l5OElGN2xiSVBKNnREcE5xYWNwSm5MVGRLMVdWSEs0dGZqc01Fdw?oc=5",
+   "source": "India Today",
+   "published": "2026-09-06T04:47:48+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Man Beaten",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "63ceaa10c152",
@@ -465,23 +482,6 @@
    "score": 18,
    "category": "other",
    "company": "Artificial Superintelligence",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "49d7946db5f5",
-   "title": "Cradlewise - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wMkVhb3piRS1FR2p3M0JHVXE0Uno5S21xaUdhdzRwRUhtRThOTDlWcWhLMjJyTXFOMjdrRFdQWmNQdEJaWHhNMm9SMkJETU1zTmNJ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-05T17:21:51+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Cradlewise",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T01:08:01.898707+00:00",
+ "generated_at": "2026-09-06T01:18:35.448467+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 3,
-  "fresh": 0,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "357f29221f0a",
+   "title": "NCLT stays disposal of Byju's K3-linked assets: \u2018Articles worth \u20b9150 crore auctioned for about \u20b916 crore\u2019",
+   "url": "https://www.livemint.com/companies/news/nclt-stays-disposal-of-byjus-k3-linked-assets-articles-worth-rs-150-crore-auctioned-for-about-rs-16-crore-11788656524119.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-06T01:11:46+00:00",
+   "score": 37,
+   "category": "other",
+   "company": "NCLT",
+   "amount": "\u20b9150 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9150 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "15751f6b725c",
    "title": "Isar Aerospace: Launching Europe's Journey to Space Autonomy",

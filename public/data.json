@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T14:43:21.845276+00:00",
+ "generated_at": "2026-09-06T14:51:16.154357+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 17,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ff47fdeba898",
+   "title": "Piper Serica Targets Rs 220 Crore Deeptech Funding Plan",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0lETDBKRlF2U0lrOU9WQzBxbEZtVDBjTW1ndHhrN2xSQXp1Ml9uLVpGQmNGaUZiM1pDekFzTnpwTEdWUjBxTC1mWTU4Nk5SckpLczY1cXZnOHdpNW54V181ekdKQmtBMm14VUFwcG4teE11bVg4WE5GSWd2NUpnMWJMWElCUUxuc0tXVzZubUtyS0dWOTh2VEdRVTB2d3JRMnBaYlYyRmU3OTRoLXBvM2FUMEttWXlVc0VkeldzZW5YZ0hBVE10djdEaw?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-09-06T14:39:30+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Piper Serica Targets Rs",
+   "amount": "Rs220 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs220 Crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "3f82ca6df5b4",
    "title": "Shared infra: Q-Comm\u2019s next funding bet",
@@ -562,23 +580,6 @@
     "acquisition"
    ],
    "alerted": true
-  },
-  {
-   "id": "103e83ed360c",
-   "title": "Zheng Qinwen Stages Miraculous Comeback Against Madison Keys To Storm Into US Open 2026 Fourth Round",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT1NJU2FTVXlVYkdicWlQRm5aNkJSWDZLeWNmUjJFc0dFN1NzT1JlVUdmOVd6X0hocTRsSmUtWUdPXzFaYl9BQ0QzbEc5Yy1peG1jX3ZpRVcxX0l0ODQ0UHV6M2p4S1BHMExSdm5ZdjlJNm5mbzVVMXpxLUpLbi1ySHE2OUVuTzRLUmZHSzgydHUwd2VzQ2lvNERwc0FRN25OZzVFOWRlOWROR0tEWmtxUUNVNFlJejF6cGRWaFYxd3dhRnE5RUZnNUF6Zkl2RW04aVRF0gHTAUFVX3lxTE5PU0lTYVNVeVViR2JxaVBGblo2QlJYNkt5Y2ZSMkVzR0U3U3NPUmVVR2Y5V3pfSGhxNGxKZS1ZR09fMVpiX0FDRDNsRzljLWl4bWNfdmlFVzFfSXQ4NDRQdXozanhLUEcwTFJ2bll2OUk2bmZvNVUxenEtSktuLXJIcTY5RW5PNEtSZkdLODJ0dTB3ZXNDaW80RHBzQVE3bk5nNUU5ZGU5ZE5HS0Raa3FRQ1U0WUl6MXpwZFZoVjF3d2FGcTlFRmc1QXpmSXZFbThpVEU?oc=5",
-   "source": "Outlook India",
-   "published": "2026-09-06T04:59:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Zheng Qinwen Stages Miraculous Comeback",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e1850cdf5fd1",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T10:01:43.108070+00:00",
+ "generated_at": "2026-09-06T10:18:13.368699+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
+  "fetched": 17,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "e697d5bb73a2",
+   "title": "From 450 startups to 50 launches a year: Pawan Goenka lays out India\u2019s space ambition",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnkyQzE2Tm9CaUlnaEFYZWhCZ1VodGRyVk1SQ0h6TXBiOEVsb3B5TUJNOERoakZiZTAwNURnanMzaG5GYnM1MkxMZW1BdGk2VC1HWnVpalFFTlF0eG5XTDZ4TUZHWjREUzRFaVR3dU5IRE81bHJuYjV2dGlWQ2tVbC1BcFY1a3p1ZFhLVi1ZSEI2X0hoUFhTSmxfSXFPeUR0NFZpNzZJaUNQZUdVUVIzRGlxMGJDVkhyenA5SUxWeGt3MWdRZjdoMzdoLTJRaWk3YkFzNdIB2gFBVV95cUxOT19VSUVZRi1hZnlnUWJVRlZhUEJfSkIwVlVrSVB4YU5ET1ljM0d0MWM3LXJELTJlMUVxTWVTOHpLZEFOR1FwRmczRERLelV1OEJueXVzVFRaMEZ5YWxrTEdfcEZrOHphT3c3czl6UjNId1F5czhyX1E3eHJzNzU4b0RFcmVGamw4YVRMSThQZDJrd3d6ZDJsdGYzSlJRRFQxcUFtYkFUNVVvZE1xUXpEem1WcEtJLVBOT1d1ay1HU1M1U1lpYWNiT21xZ1hZODh3Q0R4MTBWNnJ4QQ?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-09-06T10:08:54+00:00",
+   "score": 23,
+   "category": "launch",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
   {
    "id": "f12915b92fe2",
    "title": "50 launches a year by 2030: IN-SPACe chief bats for Isro-private sector tag team",
@@ -7073,28 +7091,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1550c2c9c73f",
-   "title": "Online grocery venture Satvacart shuts down after 12-year run",
-   "url": "https://yourstory.com/2026/08/grocery-venture-satvacart-shuts-down-after-12-year-run",
-   "source": "YourStory",
-   "published": "2026-08-30T10:14:58+00:00",
-   "score": 66,
-   "category": "funding",
-   "company": "Online",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Rahul Saxena",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

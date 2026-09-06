@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T12:37:47.396038+00:00",
+ "generated_at": "2026-09-06T12:48:40.406821+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
+  "fetched": 13,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "512c9b6518d5",
+   "title": "NCR's gourmet grocer Modern Bazaar halves store count amid q-comm push, internal woes",
+   "url": "https://www.livemint.com/companies/news/ncr-supermarket-modern-bazaar-stores-close-q-comm-grocery-retail-11788629614673.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-06T12:44:27+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "NCR's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5c777ef819d1",
    "title": "IN-SPACe Chairman Pawan Goenka Says India Aims For 50 Space Launches Every Year By 2030",
@@ -624,23 +642,6 @@
     "Rs5 lakh"
    ],
    "alerted": true
-  },
-  {
-   "id": "9e5a0e0ac1af",
-   "title": "Sustainability, livelihood, AI: test your business creativity with Edition 248 of our weekly quiz!",
-   "url": "https://yourstory.com/2026/09/sustainability-livelihood-ai-business-creativity-entrepreneur-quiz-education",
-   "source": "YourStory",
-   "published": "2026-09-06T02:45:00+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Sustainability",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "15751f6b725c",

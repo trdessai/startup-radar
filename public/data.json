@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-06T12:01:42.822413+00:00",
+ "generated_at": "2026-09-06T12:22:24.282630+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 16,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "40c02617c029",
+   "title": "RPG Life Sciences bets on China-plus 1, goes on an API buying spree",
+   "url": "https://www.livemint.com/companies/rpg-life-sciences-bets-on-china-plus-1-goes-on-an-api-buying-spree-pharma-healthcare-medicine-generic-11788660657183.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-06T12:19:00+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "RPG Life Sciences",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5c13f5fbdb08",
+   "title": "German space rocket reaches orbit in Europe\u2019s first commercial launch",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVdIRU5DUUUtNE1lS252bnhoNzFheXhiT201cXI4ajhfSnlVQ0RUcFJGSndpT1lraWpzWXZ6aG9OUnBkVjJKUy13MU0ySXJuUGtPc0xLMUVYSUsydGpaQk5xQ3NwNzdWSjNZRFJTTmE3YWxiem5ZV092MW9BTklMUHgtM0JLRERHRTg0ZFJOb0lIbWRHcTUyelN3?oc=5",
+   "source": "DD News",
+   "published": "2026-09-06T12:11:43+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "German",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "3bf2feb53cdc",
    "title": "Unicorn NoBroker aims to be profitable in 8-10 months; FY26 revenue crosses Rs 1,000 crore: CEO",
@@ -7043,23 +7078,6 @@
    "score": 63,
    "category": "launch",
    "company": "Falcon Flight: Shubman Gill-Led Fazilka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7ee3ad587e84",
-   "title": "NASA's newest space telescope launches on a quest to explore the hidden universe",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOGFPSVd6LW1EYmZ2TkFtOHVXVmFDZDJreXN3M09rVHQxUkYtSlpYMkEzWGNMQTlYRzVqcklhMEprbUZqcHlpR1d4blo2YzFNb0RWcTEzOVdEa3Utem9CaTR1M1JSaFpiTnY0bFRRY2ZfUG5iRDhhcHBvT2dqNXZjSUJyZWhCOEx4dk9FT0JWVUVCQ1FkUmFBTHk2YnhmUjFTRlJUR1VJM3k0VjF6bGhTcE1vWGNYRk44Ukh3NEU2c1dlZFlLMm1BOXRwQWtBdy0xdnZfbllyLVhqc1RJUS1NStIB5gFBVV95cUxNNXhycnI4SHRmV3YyOExrWW5nMlhlclJ5bV9CcjZFZ0tlaEFneWwtdXhOTTV0R1J5RWpwcWRwY3VEMVdxNDlpVXN6VExRUFdaeHFURDNOOTZ6RTl6NkhyY0hXUWN1U3BlUEdpWUlraXV6NXlzb3AxckVQTzVaMlNIdG02RlRTNDlRWkdfdG1kVHlQbmxJNlpuSUFjbjNIdTlnZktXVmF3LXhsOVAxU3NHUG1vQUdpYWxhWWFxQ25qTUktdlNxNDllc0ZnWFFGX3Z1LVRiZVFNT1pCaEczT3NkRW9BQ0dSdw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-08-30T12:21:39+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "NASA's",
    "amount": "",
    "stage": "",
    "founders": [],

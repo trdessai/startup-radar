@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T17:24:44.945771+00:00",
+ "generated_at": "2026-09-06T17:31:56.751013+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 12,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8f34fcd98300",
+   "title": "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTTN3dnBDVkFMRmU3NDJnbHE5R3Y4TWNHUmdOVG9IUE1QX2VWWGFCMlo5ZnFwT1pXME9ndE1TSGJLei1GVGMyVktJY0tGa1FGdnc?oc=5",
+   "source": "instagram.com",
+   "published": "2026-09-06T17:27:02+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Between August",
+   "amount": "$291 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$291 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "91a4293a51b2",
    "title": "Burma Burma Expands to 21 Outlets Across India with D2C Lines",
@@ -557,24 +575,6 @@
     "Series C"
    ],
    "alerted": true
-  },
-  {
-   "id": "d825ffa0a74a",
-   "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
-   "url": "https://yourstory.com/2026/09/nclt-stays-disposal-of-byjus-k3-linked-assets-auctioned-for-rs-16-cr-flags-valuation-concern",
-   "source": "YourStory",
-   "published": "2026-09-06T05:41:18+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "NCLT",
-   "amount": "Rs150 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs150 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "5567b5a6edb0",

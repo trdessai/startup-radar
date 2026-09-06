@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-06T10:51:28.285394+00:00",
+ "generated_at": "2026-09-06T11:01:31.989543+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 16,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -40,6 +40,25 @@
    "reasons": [
     "launch in headline",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8b8c84631524",
+   "title": "Medulance raises Rs. 24 crore in Series A-2 round",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGY2UFdDaW92ckp4RGxjby16a2IzMlNoRDZTa0M2QW5DR1B2WS05TDU3MXU2eEI2VmtvcDJlZ0VUeDdnMlp1SjFzbHVleVgzQ096Q3RmSmtTQk9od2djM2RkVTdDS1lOVGw0amVjSFlCQWFuSVc4QmJpSlBaQ0dCOVFDOTVPSnlXaEtKNXFMZVYwQ1ZiTllB0gGkAUFVX3lxTE9HWW0yN1ZVRHcxalBDN2xzeG5IM3F0SUtEdWZPQUNITkx5bGVpb1RGV0d1ZHl3RUVJdE9xeDIzTmNieGhYZkdUVUEtZmpHa2pYQUlEdTRId3ZEdWw5dkxvSTFIeGY2YWJJemphQWEyaFFhX0R0akpydWp0T3M5WEJZOVhDYW41WktOb254ZzlycGZtTzhheDFuR1RkUG12MGNrNUNl?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-06T09:37:18+00:00",
+   "score": 80,
+   "category": "funding",
+   "company": "Medulance",
+   "amount": "Rs.24 crore",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs.24 crore",
+    "Series A"
    ],
    "alerted": true
   },
@@ -7040,23 +7059,6 @@
    "reasons": [
     "expansion in headline",
     "Rs600 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ac2fdd993b31",
-   "title": "IIT Madras Launches Bharat Ascend to Boost Grassroots Innovation",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXUxNmhocXVjbTZjMF9mZmJPbElCNm9QMTUxYzNkaUJiTGplU1NYSEIzaTBHZ2c1Qnhham5fb0pPc2wxSUdyV1RMQU43WDVWS1c1RVNJNTltRzN0eWdXdUt3dWFaRExqNG0zeGdmaS1fSzh4Vk5XbjEwNmY3TmxMQ2NjWm96TkNlTHhDdUhsYjZ0SEpmZm0tQ2N3?oc=5",
-   "source": "varindia.com",
-   "published": "2026-08-30T10:55:30+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "IIT Madras",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

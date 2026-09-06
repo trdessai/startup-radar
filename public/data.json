@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-06T22:51:19.670451+00:00",
+ "generated_at": "2026-09-06T23:01:29.697044+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 5,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "07bb8e424850",
+   "title": "Lumio Solar Raises US$900,000 for Plug-and-Play Solar Appliances",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkxDbHJSbWpVbjJrZVJnS1QzbndqSFJOeENyZW5KQUFRemRTVkktcW15WFJ4Z2lnbVdPb281R0pnUWN1Vi0xUm84OW9GQ25BajRPUXplTXJlNnp0Z1plc0hQbWQ3aUc1Y0dtLV9ZcHdUNWZ4ak5XWGZfUk9zZlRwcEVnTG9LNTZ3aUlGTnZhOA?oc=5",
+   "source": "Retail News Asia",
+   "published": "2026-09-06T21:18:19+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Lumio Solar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "ade2b5401a9c",
    "title": "\"We can certainly grow together\": Australia's Connolly on expanding space ties with India",
@@ -483,24 +500,6 @@
     "product in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e8014afc78f0",
-   "title": "IPO-bound Rentomojo pins growth on 'hard-to-copy' supply chain moat",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-rentomojo-pins-growth-on-hard-to-copy-supply-chain-moat/articleshow/133834067.cms",
-   "source": "ET Tech",
-   "published": "2026-09-06T11:00:45+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "IPO-bound Rentomojo",
-   "amount": "Rs1,255.6 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,255.6 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "f12915b92fe2",

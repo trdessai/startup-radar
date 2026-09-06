@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-06T23:25:56.059950+00:00",
+ "generated_at": "2026-09-06T23:32:51.112393+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 5,
-  "fresh": 0,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -36,6 +36,28 @@
    "amount": "",
    "stage": "",
    "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "61b2b4d8587a",
+   "title": "Karunakar Gautam \u2013 Founder, Frameloop AI | Entrepreneur 2026",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT0xUYUhTUWlyRGpTQk9wUVMyZVN3TWV5b2hscVU4T1huYm1mREJUWU5tOWJkTFB4c29DekkxcUJKbngtNE1wbVdjNHZybENzUE56NGwxTG1iRkdqQ0tmTTMtMnpJdFZ0Y2tnZm9RT043aG8zSXNCME4xZ00wZXpoRm9BSHppOV8xbmV4UGZVdklkeVFRZTVoUDZJNzdEdERzQ2E2TTA5YTFwMzJSZE5qSUdIcWJaSEdLdjJ4U3U1OTRxMFdUQU1vbm8xWkdBd1RBbkdVeU84ZVFzVUg3SFVZNW9PbDc1TnVudVlENElodmppZWp5?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-06T19:51:30+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Karunakar Gautam",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Frameloop AI",
+     "handle": null
+    }
+   ],
    "reasons": [
     "no clear event"
    ],
@@ -425,24 +447,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "40c02617c029",
-   "title": "RPG Life Sciences bets on China-plus 1, goes on an API buying spree",
-   "url": "https://www.livemint.com/companies/rpg-life-sciences-bets-on-china-plus-1-goes-on-an-api-buying-spree-pharma-healthcare-medicine-generic-11788660657183.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-06T12:19:00+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "RPG Life Sciences",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5c13f5fbdb08",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-06T13:42:59.879591+00:00",
+ "generated_at": "2026-09-06T13:50:58.866336+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 17,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "3f82ca6df5b4",
+   "title": "Shared infra: Q-Comm\u2019s next funding bet",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWIwaGVSalRBQjNGTjg1NVFPMDQwVkU2VFh1LXZpMnBzcVlhUVI3UnlGZGhiazNGUHNyUXBwLXAtZjhPdU1oNENNLThYWmRPYnpFRHAxYVU2YW5Zb0JldVJmS24td3NSNkMxZTZwTklVOTFCZXVUWkkyZFBVeEtCdFp0dEU1MW9DeTZGbXdXRGRSSXBjbXR2RNIBnwFBVV95cUxOTWU5WkJUaDhYWTlXUWRHRzMybnZDa2NjQTVwZXByblJRVXZaYjQtQi1lckx3cTItWU96d29paVh0NC05b2tobGdKN3hxODlseFhDZWY3c0FpSDQ5czdLOHo2UUMzMUh0SE03SUtCYlhWMmkxRnYtdjNMaW13c0J1cURCNlp2YUZXeVJ0aU5WQzJ4bkwydUpoUk96NVZkamM?oc=5",
+   "source": "financialexpress.com",
+   "published": "2026-09-06T13:28:30+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Shared",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "69f005343600",
    "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding",
@@ -579,23 +596,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "19b2a45a6953",
-   "title": "Consumer brands are still choosing packaging by consensus. Investors should ask why.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjZoTmNtdHJfRmNrTE1MQ19ZSmxCLVd1Qi1iVk1TTkw5MWNmdFd0S2wzQ3FWdEpuU1NjdVRiTVJPWk1Vd0FfR29KMjNUb3h1R0dSZ1Fmd3B2MWN5VTRLZlc2YXBNMlM4MlB6cV9nWVNfeVgycnJQdEtsVDYxd0Fxd284eFBYS0V5eWt0ekhnR2J4VC1KTjFQLWdEUFVmamk5YkNNMUhocVA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-06T04:55:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Consumer",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a80be70982c9",

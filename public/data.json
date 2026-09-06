@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-06T20:01:49.064564+00:00",
+ "generated_at": "2026-09-06T20:18:40.519739+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 0,
+  "fetched": 14,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
@@ -38,6 +38,23 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e6991ec53488",
+   "title": "Nuclear power expansion: India needs a clear financing strategy",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUFhQjRJRGFHVE1WRXRFWC1YRFR6cmM5ejdYZW52OHdPZkR2Q29HM0kxRldQS2ZMV211US1ublZlTEJDc2dRbkZVX1ZaYWMzTlY1WlpZYjBUdjdoV0hsaTFXRVVmR0RGNzBRdnI4RFkxNGE5VkRZc01rTzlMX0VpWDlpZ1p6ZU5mSnlxNlRweWpGc2I1QXN1bkJqbGtKNWMtd0NQRUE4emdUSnI2ZlRTYU5aekx5bkd3RWJvamlycktNdUlGWGdtZ0FIX2hkTWxSS2ZETtIB2gFBVV95cUxNQUM4cVJiclJSVW40a1g2T29MOFZYRWtfUDViY2pWSmJwa0RTQ0pxbHo2RzRLX2FhNUdDWGs1OEdLRmRyUzhTVW1CRVVSUHJIb3REeVJFbjI5bVg2UkxQNFVSaUtiUnV3Ri1GNTVwVDFRcF9ldHZwWlY3M0VjbV9tSm9pNnpkR05CZW40Z29nc01lYTlnS3BfXzlyZG55UFdxcnluQmpldHB5T050Uk8ybnpYS1RZMEtIOGtNRlNDQUlpSjNSRVpNNy1QX2lad3QxQWJzOVZ0dG5lQQ?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-06T18:04:00+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "Nuclear",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
    ],
    "alerted": false
   },

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-06T06:01:45.958443+00:00",
+ "generated_at": "2026-09-06T06:22:38.390295+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 1,
+  "fetched": 15,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
@@ -94,6 +94,41 @@
    "founders": [],
    "reasons": [
     "acquisition"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "19b2a45a6953",
+   "title": "Consumer brands are still choosing packaging by consensus. Investors should ask why.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjZoTmNtdHJfRmNrTE1MQ19ZSmxCLVd1Qi1iVk1TTkw5MWNmdFd0S2wzQ3FWdEpuU1NjdVRiTVJPWk1Vd0FfR29KMjNUb3h1R0dSZ1Fmd3B2MWN5VTRLZlc2YXBNMlM4MlB6cV9nWVNfeVgycnJQdEtsVDYxd0Fxd284eFBYS0V5eWt0ekhnR2J4VC1KTjFQLWdEUFVmamk5YkNNMUhocVA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-06T04:55:46+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Consumer",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "63ceaa10c152",
+   "title": "Dadachanji Group launches KAISHA Pharma with \u20ac45 million Investment",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaE1ERlFscTVhWC1qQmVTallBNGc5UVRlTmhCX2N1NEh1TjNzODZ0d0gtb0lZc0ExeUFfVVRfLU81amRUMmV0dm42M25mUG1pcERiRjJFcFI0RWRNM3lqanlTbDNtOHEwZmVXMW1ham9TelVhMkVlQnVtNzBWZ2VDdlM0dzAyaGZGckx5QlRwbFhYQTFzai1lWS1zT2l2cGlYWFV2SDZoMWVDYTQzYVEw0gG2AUFVX3lxTE1hemNrZVZ0OFlVMjJnZHE2dC1VYWM5aUxfZjZyT1JxdzVWLUtsRGNtTDdHdFU3X0VuSi0yTUxLRW9CeWhtWElObWVoRHBsMWdPWkhRVnU3b3VBZUZGeHhnZW5OOGVuNjYxN1JXdTYtaXpxNXZNanZLTE1mYUNHdjNYamNxRXc0TTd2MFVhZGJpUDJLQ0FBZExsV1J6Rmx0UXEwd1RucDhGdi1zN1p4X1FudUUyRkhR?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-06T04:39:47+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Dadachanji Group",
+   "amount": "45 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "45 million"
    ],
    "alerted": true
   },
@@ -448,46 +483,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f418b75e0f1",
-   "title": "TCS HyperVault To Invest \u20b970,000 Cr To Set Up AI Data Centre in Hyderabad",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUgyX3lYb3lxRzMzcmhvWWl1c2VPUnh5T0tRc2NsbVhXSEtHalFEdVFWLW4yd1NaRDZ4aC1NSmFIMEtJYlNTanpZcXFHcWtIbkNmTGxnVXBqSVo2YW5iWjNtZDZQUTRMUGM5TzI1Z2tSYkZZX3NreklrZmpuaHQ4Ty1fUV9aeHlnU0NlejRsVXVHNHpOLVVTeDZSVjE3OExkRkY1anZnQQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-05T16:16:45+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "TCS HyperVault To Invest",
-   "amount": "\u20b970,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b970,000 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6ecf07b2a0b6",
-   "title": "Tata Sons succession race narrows to Narendran, Agrawal; NSE's Ashish Chauhan emerges as dark horse",
-   "url": "https://yourstory.com/2026/09/tata-sons-succession-race-narendran-agrawal-ashish-chauhan",
-   "source": "YourStory",
-   "published": "2026-09-05T15:53:58+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "Tata Sons",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Tata Steel",
-     "handle": null
-    }
-   ],
    "reasons": [
     "no clear event"
    ],

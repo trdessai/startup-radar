@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-06T08:31:39.258765+00:00",
+ "generated_at": "2026-09-06T08:44:56.753733+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 1,
+  "fetched": 26,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "065632b16f7e",
+   "title": "Delhi Announces \u20b9400 Crore Startup Ecosystem Support",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXdreGdDT0JVdUpBWFpJc3c3ZjlLTk5DQkhNNXZSN3dSNmp1Zld4Z1ZVM1F2ZElFbm1aUElwNy00YUgtdHVscnltWmJxNnU0bUtwQUVQMGRJRTFxaFh2eFVXQ21IcloxalRYcWlCT0xKSmtGQVlkaHpwdEFNelJrVmt5RldZVDlucS1IQ3lsVlBTVE5nQl9EZ2hDVEFBdzZYMDRfVlp5UjZHX3piOXlVTVktYW42d09iZTRZZlRSZWtfdw?oc=5",
+   "source": "Dainik Jagran MP CG",
+   "published": "2026-09-06T08:36:27+00:00",
+   "score": 76,
+   "category": "product",
+   "company": "Delhi",
+   "amount": "\u20b9400 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "\u20b9400 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "38e2c333eba8",
+   "title": "Piper Serica plans to deploy \u20b9180-220 crore in 4-6 deeptech startups",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdzdfVmNGVjBHRU9ZSXkxaXlhbll4N0d4ZjhwMmE0T3ptWGFrWjFpZHNhQUs4MXFkaGVPSkFselF0R0tSQXhfanczeEZwekI1Sml2a2daekZtbjNyMFZKckhSTWR2OXFLTXRfdVdfWk1oX1p1ZzBWTWVDelpmQWw2N3ZRMzRIdXlnYTY2NUp3LXBJNkswbFo3NzEtQ2Z0SGdvOHI0WE95Y25NUkREVkhHRlJldkprck1iSnhVLUVfLTFacGRzRldCaC1aZmdQSHpaM0HSAdcBQVVfeXFMT2FIVW0zX2NzcXptM3FQTzRvd0xweE1XaXJpZWZ4Y3lTbjlfMmIxQWN4OV9YQTdoSFJMeU9pdzlad0hYTzNOVkFhdkFWUGtWT1dTdUhidkpKWkloTWtUdVZldmJOd21JanVkd3NHTTlnRnVqdmtCUXRuQ0ZnR21OWjI5em1jbFlEdC1vVV9Sc21UTDUxNDBLZ3B4UGhrU0wyaGtfaHZMTU04cXY2QloyV0ZoVHRhdmQ4cVpPeVktbjlzd3d5aFA3SHRybUJ6TzM5N2JaeHk2MEk?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-06T08:24:15+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Piper Serica",
+   "amount": "220 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "220 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "5388ee2eb1de",
    "title": "Piper Serica to Invest Rs 180-220 Cr in Deeptech Startups",
@@ -484,40 +520,6 @@
    "score": 18,
    "category": "other",
    "company": "Isar Aerospace: Europe Reaches",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "da0f57c45f54",
-   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
-   "source": "News On AIR",
-   "published": "2026-09-05T20:57:10+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Maharashtra",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "331a3285af0b",
-   "title": "Francisco Cerundolo eliminates Taylor Fritz in thriller, Swiatek battles past Bouzkova",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDRKUW5RWERibUJFVmdzMlYyTmtJUGJENWJjVUZ4cklYdVBjZmVwaUNEamlkYmkyeUY1cWdxRVVSRnd3UlU3YXY2MVJrYlZCOHJkdUl0NjRERnJCZlRnQmlucUJUbnlaYTdVb2ktNV9qYXl5YkpOTFNObzVkMUNReDRTMmVCdmduR2xrVHpMSW5mVWRxMUxELWxuZVc2Wnl0eEVHNVBsd2sxanNCQVlvd2xjM1JOVU96ZE1namFlVVBzQTcyMU9UN09zMG12WUlm0gHWAUFVX3lxTFBCbUZWSDAwTjd1OUhSS09rZVRMN3JjOHVLeEZWTW5hekg0dlMySWltNjBTQ3NQelo5Y29zWkdRcTdnTHdSTEhrd0hSc05WUXRvVXkxYnNHVkl0dUE1MlEtX1l3Qzd6MW1XX0ctNEVETHlkbFBVRHlHMUlFWF9JVFBWUlNuUXhyMGU2UzJySG1paFFPZ21oaEZObldzYXR6eENZcDh2dV9KM1d5aklUWWZNYzFROFhOQ1BGNk9FdW5qNGg5ZVpyMnRsaVBnTXVsWDNXWUFGbEE?oc=5",
-   "source": "indiatoday.in",
-   "published": "2026-09-05T20:38:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Francisco Cerundolo",
    "amount": "",
    "stage": "",
    "founders": [],

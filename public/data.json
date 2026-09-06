@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-06T08:02:04.575951+00:00",
+ "generated_at": "2026-09-06T08:19:51.510095+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 0,
+  "fetched": 25,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "5388ee2eb1de",
+   "title": "Piper Serica to Invest Rs 180-220 Cr in Deeptech Startups",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQam1xMi1rZ05rUDdsVHhmTGowSjdkUy1wSnNpX1ZmLUVpRkhFMXM2RFRTLTVKZU1pNWItdHIteV8tMElfczVPZ2tkVXJFTFViMFRRWUJhUVdGeWpDOTFBUlVsUjlYaEd0NVpHRUJNLUFReGJPQUgyYVZJTWJCV19LTTMzLXZJeGxRYmRKWFpHVlN6ODNMNmYtYmtGNXlSY0ZiNUlaWFE5eXVOdzkzcGfSAbMBQVVfeXFMTnMwZEo4d0Vzakg2ZVNETTA2X28yejlZaVE2S0Z0MGprcVlJQWZBVjhwQXlzRWM3OG9zZ1d6TzNzbmROVFpXc0l2TzN5ZGNOSVhKS0E4VTk2TlM1aS1OelVUS0ozN1JWUTlPcXotSllub290WGI5RXJZRW40MFZ2MHR2U2ZOZTM2V2pCOEU0ZnFYUm9UbUtsbXllUTdQZndmVWlkckxLeF9rVnFDWmFYbTg3Skk?oc=5",
+   "source": "Rediff MoneyWiz",
+   "published": "2026-09-06T08:03:10+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Piper Serica",
+   "amount": "220 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "220 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "e07b56b81de9",
    "title": "\"Delhi lagged in developing startup ecosystem; it should have\": Minister Ashish Sood announces \u20b9400 cr support",
@@ -7057,23 +7075,6 @@
    ],
    "reasons": [
     "funding"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c2ee8c84ce49",
-   "title": "Ather Konarc launched in India! Price, range, features and more",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YY9IB4wFBVV95cUxOemg2LXJBemk1cGFVOWdDV1lUMnROVVRuU05xWl9scFhrcDN0MlhPYnlZUFBfSEdSUmlZOWFDUElwZ2lYNTV5djdEYm1pSGdVb2VyVnhSM2V6eHd3Sl81R3BfeERReVR0RWhGT1BrWVlwWURqNWctZWZVZS02ZzVCMjdRMnlGOE9nbW4xTGI0OFVuSldGTXk1VmJKY1hlRG5VMWFMZUZkU2JJbzN1bG9MYmdvNm9NMDQ1cUVzUzFHc19HSkhmNk9nNUREMVJPR1EyZElfczZGSkZDOGlDLUNqLW1YYw?oc=5",
-   "source": "The Times of India",
-   "published": "2026-08-30T08:16:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Ather Konarc",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

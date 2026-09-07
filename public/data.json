@@ -1,28 +1,52 @@
 {
- "generated_at": "2026-09-07T04:46:26.104610+00:00",
+ "generated_at": "2026-09-07T04:55:28.406127+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 8,
-  "alerted": 3
+  "fetched": 56,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
   {
-   "id": "61d4a91b80f1",
-   "title": "Pernia\u2019s Pop-Up Shop Parent Purple Style Labs Lists At 7% Discount",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFBDeTZPWEVVa1FIeElScW5EOHotVXJOcmtGTGNtSkRHN2ZrM2dpRkZLRnlLYkhzQWlJWHZkVWxybW9wV1dIQXJxUUxwdTRwcHpGRzhIQzhQbDZVZm8zTVk2NzZaQ0Y5MXhWU3g4UVNWdmxpWkNiamp0QV9vSG9PWDNOZUFZSXVZTF9hTHVGcmdhdw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-07T04:41:26+00:00",
-   "score": 23,
+   "id": "244bc114d90c",
+   "title": "IdeaBaaz Co-founder Mudit Kumar Sees Physical AI Leading India\u2019s Next Deeptech Growth Wave",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUJHVTVtOXlQUTZudlhFMXhIeUxLNnJMUXRXSjFpX2lTcTFuRkIwQTBaaFNYVmU2Zlgxakc1T1BuSFpMMkliZWhqa0FTOVRCM1JxYUZNN0lmb3dBV0hKc0VtbGZWbU5JZ01RTWs4cVBRaEoybThCYTdQay1LVkNiMklqN0ktZExiV0FFLUJCeTMxY25lR1V0aWNOMEpSbExxWXJuTlRfSFgwWTZXUFpvNUZjRmZ5YW0yQnpaZExFZFpsSzVhblR3WnRvNA?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-07T04:46:02+00:00",
+   "score": 28,
    "category": "other",
-   "company": "Pernia\u2019s Pop-Up Shop Parent Purple",
+   "company": "IdeaBaaz Co-founder Mudit Kumar Sees",
    "amount": "",
    "stage": "",
-   "founders": [],
+   "founders": [
+    {
+     "name": "Mudit Kumar Sees",
+     "handle": null
+    }
+   ],
    "reasons": [
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "30e48b231616",
+   "title": "Spacetech Pixxel raises $100M to build next-generation EO infra",
+   "url": "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure",
+   "source": "YourStory",
+   "published": "2026-09-07T04:42:33+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 M",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 M",
+    "Series C"
+   ],
+   "alerted": true
   },
   {
    "id": "71926a202028",
@@ -42,25 +66,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "94dafae819c3",
-   "title": "Temasek emerges as sole contender for $100 million Blue Tokai stake",
-   "url": "https://www.livemint.com/companies/blue-tokai-temasek-tpg-chryscapital-blue-tokai-coffee-roasters-specialty-coffee-premium-coffee-caf-market-11788747642378.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T04:39:22+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "Temasek",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "$100 million"
-   ],
-   "alerted": false
   },
   {
    "id": "7af575ac5696",

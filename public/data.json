@@ -1,12 +1,131 @@
 {
- "generated_at": "2026-09-07T11:01:48.207797+00:00",
+ "generated_at": "2026-09-07T11:19:33.286294+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 79,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 109,
+  "fresh": 9,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e3297c2a5b2f",
+   "title": "The Affiliate-First Launch: D2C Brands Skip Flat Fees",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jbEVhSUhYTUJtRWFtdHpHZlhCVXd4SDFMTy1oczJVR04wU3V5M0N2QlhHTmY5QmRtb3Qzbi1VR2N5cUhVZWFjbjdnR2RfYTFqWVYxQi12cWlaOUN0YW9ybnBaME1sOUZVV1FxeGRIWk56dkdXN2hVY3FR?oc=5",
+   "source": "agencyreporter.com",
+   "published": "2026-09-07T11:11:05+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "The Affiliate-First",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "16aff3e0a5fa",
+   "title": "Suresh Naik",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIaFExeHdpZE5LX3lxVmpyV3NxYUxid1BMNWVnNnpMZV96Tm9sZ3lCSDVOUmpiSUFVRE9nR1RRSENYUlgwbXd4TzdYNEdKXzZMZlE?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T11:09:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Suresh Naik",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "de3142db9316",
+   "title": "RSB Transmission",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wQTRsZ0p1Z0E1X0c2R213LXBGcVNKbE5HeE9jYjNBRXZUZWVFYlp1SU5CM2ViQVVjMExycDJaT1kyaUxvZzlEWU82NVZvajRpaE1qZ1h3WGw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T11:09:11+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RSB Transmission",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b687c59f451e",
+   "title": "Retail India News: Reebok Expands India Presence Through Evenflow",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWVqWmlXNGFjYTRLSTk4dTZaZEk2bmlxU1huS21GczktdndheU1wYnVITXpQby1Vam1LUDh4bHVFdHYteGpJWjFZcTZoYmZRQ3NVdm10RkNXLVpqNHQyTzJSQ3RGTE5JYkhKNE5YZVBhdGVKeDBXeC1taFRaTnNUV2pUbzY4YS1FZnRiWWpvY2pGbUpUWVRpWEwxNnhPMzNsNHc?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-07T11:03:45+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Retail India News: Reebok",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4e91ae08c93",
+   "title": "Vaibhav Domkundwar",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90eWstRWc3Vy1FTTUxSjR2cGlwTDg5NUtvN1lpZC1SU1dGWjJGdU1BczlQSGNTc2lONEo4VXJ5Qk9LbUVDdnNKS2I4cw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-07T11:03:38+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Vaibhav Domkundwar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d6b2c3abbbbe",
+   "title": "The neobank bet: what backing digital banks in India actually taught us",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlpbFc5a1RSWGMtMk9BeUdDVVFkdjZycW5RbmFsdEZJaU9XVVdGcElCMVpIOU10QktYMGVVZzVqUTdKZUNYQkZ0ZVJIRmN6SEZJQlpIWnNNdnhwNTNTbDBRVHpfVGk1VWFnaG9FdGIyZXE0c1piYjdVNTR0eXI2SHp6Nlprakp0cHFza3IzYmlrb2l2UkFsUjFPMVc1cEEwa3lCQTNLbTlSSTJGeTZpZNIBsAFBVV95cUxNVnlpbFc5a1RSWGMtMk9BeUdDVVFkdjZycW5RbmFsdEZJaU9XVVdGcElCMVpIOU10QktYMGVVZzVqUTdKZUNYQkZ0ZVJIRmN6SEZJQlpIWnNNdnhwNTNTbDBRVHpfVGk1VWFnaG9FdGIyZXE0c1piYjdVNTR0eXI2SHp6Nlprakp0cHFza3IzYmlrb2l2UkFsUjFPMVc1cEEwa3lCQTNLbTlSSTJGeTZpZA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-07T11:02:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "090ab1f2d446",
+   "title": "Building a D2C Natural Baby Care Brand in India: A Founder\u2019s Playbook",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEFwMG9wTi1kUnhQY2NJNEdoRklad2ZpYkd2UEd5VGNCcGlWSnhSNEIwaWhLdHh1NjVRYWZHWWxPaWJQaXdIMk9FOEYwWXBGLUJucmpqVV90MzJlTHJvcXotWl9kb25JbmR4T3RQU3A4WUtEUW9aeXpPYldwQWZsd01WSDFJM3d2UHIxWHBHR2pfclhQbFM2LVFmeUxTZWtTckhzR0xtTGxuNXM5d2dhVUpB0gGyAUFVX3lxTE40QXAwb3BOLWRSeFBjY0k0R2hGSVp3ZmliR3ZQR3lUY0JwaVZKeFI0QjBpaEt0eHU2NVFhZkdZbE9pYlBpd0gyT0U4RjBZcEYtQm5yampVX3QzMmVMcm9xei1aX2RvbkluZHhPdFBTcDhZS0RRb1p5ek9iV3BBZmx3TVZIMUkzd3ZQcjFYcEdHal9yWFBsUzYtUWZ5TFNla1NySHNHTG1MbG41czl3Z2FVSkE?oc=5",
+   "source": "SMEStreet",
+   "published": "2026-09-07T10:58:32+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Building",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "434622d5f3a6",
    "title": "ISRO remains a government organisation, says Chairman V Narayanan",
@@ -60,23 +179,6 @@
    "alerted": true
   },
   {
-   "id": "61bef01eb1cf",
-   "title": "Retail India News: Villaro Design Studio Opens on Delhi\u2019s MG Road",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDlKaUJvWnV5Wm1MczBlUnZOWS1nTkNJLUJoQXpmVUNDOFVabkZLeWQ1T3dTWW1SeDZFOVlpd1Zod01pbmY3Tzl3eFNrNFo5QlE5akRCUWQ1cnFMeEIxNndIajdnODJZNHkwWFdwRnVoZjFLUXNFWGJoeEpWMDRVZm5MM0VUc1E1MVdLUTlRVVNtcHF4ZmI0X2dwbEc?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-07T10:46:06+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Retail India News: Villaro Design",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f0d2b269698c",
    "title": "Dot & Key Launches Dragon Fruit Jelly Moisturiser",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25GYUZLek1LYjZFUU9uMWNSOERqSDhTSldka3N1eXBVMFNLTWlXbm1CLTZqU2N5YTk4NHVUdDRCam9ycGRWTllnVUJPY0NLNE9KNktnWUtLeGFwalpaeXh4WnFTVnZRRGY4bm50WjgxYUgxRjIwV2R4clN5ZmtmZ25jLWJsZW1kTGxrWjRHWUdTUXo2UDRrdEVUY1I4YkpKblFub1c5aE80S18tZlFaWlNFd3oyLVBXSzBOMldQQQ?oc=5",
@@ -92,42 +194,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "82b8707ad162",
-   "title": "Tata Motors\u2019 Jaguar Land Rover to lay off 4,000 jobs, reduce costs by \u20b921,700 crore",
-   "url": "https://www.livemint.com/companies/news/tata-motors-jaguar-land-rover-to-lay-off-4-000-jobs-reduce-costs-by-21-700-crore-11788777549404.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T10:43:07+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Tata Motors Jaguar Land Rover",
-   "amount": "\u20b921,700 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b921,700 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "36a0005cff89",
-   "title": "Info Edge-backed NoPaperForms files for Rs 375 cr+ IPO",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0R1eEZhUjc1Sm9qUTd6eU5ndlMzX0xrNXJVN0FqNDIwdjlNbFhwbXdraWJCcnhrbThMNmFvcE5QTm50VzYzd1BzSW1ZcUMyUEQyVTNGcTh0c21JQVMybGVXbDV2SGF0c1FzSE5EUXRHNGpNZldqRHhNSzl1Rnd2eHFkQ0U?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-07T10:34:58+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Info Edge-backed NoPaperForms",
-   "amount": "Rs375 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs375 cr"
-   ],
-   "alerted": false
   },
   {
    "id": "01685315e924",
@@ -167,23 +233,6 @@
    "alerted": true
   },
   {
-   "id": "1b22a6aab2d5",
-   "title": "Inside Neysa's $1.4B Bet on Closing India's AI Compute Gap",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITkVaLUc2NEFXcHlTTWVZc0lCcUpDdDkyZnp4X1JIZXZ4b3ZRNV95RVZGUWlad2RIZFFWMUZmMG1yeC1Ea1BiNmxTcTJ2MGxsWHJpakZXU1RnUS1VSjZFaA?oc=5",
-   "source": "TradeFlock",
-   "published": "2026-09-07T10:27:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Inside Neysa's $1.4B Bet",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "511be35af15e",
    "title": "Pee Safe Launches Within Brand for Hormonal, Gut and Menstrual Wellness",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYi1IQ0xqSzFmSTEwcXV1VUJuMDlNYlEzbExVLUJYNFBWY05yVVliNHRJWXdVZjJ2bWw4dDFBaHlYT1dleldDNVA1NGFNdE5JdGU1REpzcGg4SUQzcVlUdnJPbks4WEZBNWwwWXdYYS1uNmw1SkItS01qM0h3REtSMkVITEg5eG1BcmhUWjZwN2lvTHc2RTJqVTVjNG96YVpQa3NxbQ?oc=5",
@@ -199,25 +248,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "26a7834d2b21",
-   "title": "Indian Space-tech Startup Pixxel Raises $100 Million: Why India's 'Space Race' Is No Longer Just About Rock",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa0tqZXZOU0J5eHhTampIX1RIOVpxOHIyUTNkdFE3NWN4d1REb0NqR1phRncyRFJzYW03QkQ0ZzVIRzdYM0FjTnh4alBhTENaUmxobjBWbC1aQlRXSmlacmQyNW51SHdOYTJVeVZiRWUxMGJYVzNUVzdSeTEwamNIRmp0LXVqM3Q2QVNiSU1xMFZiOGtjeHh1Qm9qVjdvTzZzdWpGQUVYemQzRkJTVjR6d2hwNjdUbVVDVWhsQ25iOURDOHNhTlBPeUdKcDFaTFVZa19Wdkl2eDZSd3VCRkE1UtIB5gFBVV95cUxNamNTSVp1VDdkbHNGSjhCNnNmQ1k5d1hVMEFQUk0ySGVORTBON29WMFhaa1U2c05vVUZhV2FfY0FCWmlqU3dIX0k1NmVhR0F4NXByRFJYbWt2NlRsSDh6Y3FLZ0ZCaWo2YzAwNUNMQk1fV0NnYVJRVUxhLTIxS29hOEhQM1ZTX2JPVEc4d3JDSnpvYThydFFFRHJzNGpIOGo1V3NjMjBfYUNrR1FyWHJGVnZtcUtEM3dDc3YwaFhZdmFBM19FWGI4TzVidUprZnU5b3ZFeHNEZkdEQlI2OEo1NGpxaXZEZw?oc=5",
-   "source": "News18",
-   "published": "2026-09-07T10:18:19+00:00",
-   "score": 38,
-   "category": "funding",
-   "company": "Space-tech Startup Pixxel",
-   "amount": "$100 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 Million",
-    "listicle/opinion"
-   ],
-   "alerted": false
   },
   {
    "id": "bc10168da52e",
@@ -7086,41 +7116,6 @@
     "funding in headline",
     "Rs43.5 Cr",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0962ab983c88",
-   "title": "Aurobindo Pharma subsidiary launches generic Advair Diskus in US",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJpeGxheVhMdWNpT3drTk0zN2c5LUtzSTZ6cVNNZWZMb19Jam5aNk16cy1hRUJlODZpOUZhM2huOVlyR0M1bHNLUUc5aUtxcTZIYWRRSktNaGE0bXU2WGFSb2w3ZE93OUEwa2l6QTAySlhXMy1mUmdTV3l2cm16NVRrNExoekZjWkNIVGRNOGhGZU1MYm9FTlpON3VCTU14ZklrREZPU1MyVGRF0gGzAUFVX3lxTFBNbzZKTG1DM2wxMjF0cUtZelFlZU9MR0s1dEZJeXNBVWJtd2UxZ1dPY0NFU2ptU01PR3dScGY3VFEyS2JhZ0ZQMlZTT1BTN1pwcThhSFFUSzJpUms1bHFGcjVFRldNSXRwbjE2dnNfYlFkTnF2ckpRQi1CQ0k4c2FxdExhMVA5RnRrbUVtQnczbU84cjZ2MjE2TGZ3dzM0SmlSbUQwbHlEclhOZm10SDZjWGZz?oc=5",
-   "source": "Indian Pharma Post",
-   "published": "2026-08-31T11:15:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Aurobindo Pharma",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "188b85e122b3",
-   "title": "SLB to expand data center business with $3.4 billion deal for Kelvion",
-   "url": "https://economictimes.indiatimes.com/tech/technology/slb-to-expand-data-center-business-with-3-4-billion-deal-for-kelvion/articleshow/133651051.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T11:10:56+00:00",
-   "score": 73,
-   "category": "expansion",
-   "company": "SLB",
-   "amount": "$3.4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "$3.4 billion"
    ],
    "alerted": true
   }

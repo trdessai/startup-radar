@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-07T18:22:17.373498+00:00",
+ "generated_at": "2026-09-07T18:38:09.533583+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 0,
+  "fetched": 17,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7037,42 +7037,6 @@
    "reasons": [
     "funding in headline",
     "$8.15 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "84f69906d178",
-   "title": "Indian Startup Runable Announces $21M to Help Small Businesses Grow Beyond AI-Built Websites",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzRUaVFyYmc0RDNObHc4WDhENHVnRXNsaE4yM2hFdkRVQXV0TTh4QUcxcmwwVFhwS2t1RDVBODlVNHRCUGR2STJsR3hpRWVaWDlGS3ZveTJ0RDlQdjk0dTFVQzVWMHRnWEduZnVjNjhMSzhSTGU3aVAwak5Nb2htMktUS0NCc0VFNERlZ1JwM3RfZVUwZ3JUM2tSVFhLZlVRWUpyR1YyWFJtakZhVWJJMGFReGxzMTQzbDU0cXpjcDhCNzV3T1FfWg?oc=5",
-   "source": "AI Insider",
-   "published": "2026-08-31T18:28:19+00:00",
-   "score": 76,
-   "category": "product",
-   "company": "Runable",
-   "amount": "$21 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline",
-    "$21 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "21e86e5f6b76",
-   "title": "Piramal Fin raises \u20b92,100 cr via QIP; total fundraise at \u20b93,850 cr",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FNQjZfeEwta3lFTnhVTXZlcEFZalQzMjVHSXBoeFNkZ2ZaNE1qQ1pxaVlCbmFBRXlPR2h3NTBfVUx5YkxYdTMtbmM5WDdtaUxsX1dvWFZvNWM3bHNESDY1RTZZX3NKSmxwRmUxQmduWk9zUThPM1NqanJGQWZBRFBqNmRodUhhOTR4djA0QnlUVVNpWUlucnBSVmEtQXI1WEF5RWwySFRKcVpscU5iSDYtT0ZaaEY3MGZGMNIBwgFBVV95cUxNR091cmJNSl9NSFY4UDBvOHdoZVVyMGdUTkRVbHoxcTVrVi1FVlZlaWI5b2NZSDZqVnhkX1V5NXo2YUM2SkJUQ0JVMWxGR3dKUjZZWmlTYjY0TDhhVkFhb1R6RWtkWFJVczlpenl5X0RTUFNFQ2pvd2tjRmZHWFlubzRHUDNRcGFDOVhaQk5EMkJFcWc2bHBqQW9wbHF6RXlGdXdIS1JRY2NLSVg5X2ZqbEZxdHFwekcyVE9xRTZ5NGd2dw?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-31T18:27:20+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Piramal Fin",
-   "amount": "\u20b93,850 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b93,850 cr"
    ],
    "alerted": true
   }

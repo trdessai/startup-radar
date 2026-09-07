@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-07T06:58:15.946496+00:00",
+ "generated_at": "2026-09-07T07:09:54.791466+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 66,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "359b6a088d1d",
+   "title": "HerSpace Manufacturing raises $40M from Gray Matters Capital",
+   "url": "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital",
+   "source": "YourStory",
+   "published": "2026-09-07T06:53:04+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "HerSpace Manufacturing",
+   "amount": "$40 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "12add1892a82",
    "title": "Indian spacetech startup Pixxel raises $100 million in Series C funding",
@@ -115,6 +133,24 @@
     "$175 Mn"
    ],
    "alerted": false
+  },
+  {
+   "id": "0985a47beb1c",
+   "title": "Bengaluru firm Pixxel raises $100 million to build infrastructure for changing planet",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajgxcmk3ZWVxX2pzM0dKanZxOEFLeGk0MHd6V0pacnhkZThxQmFWLXJZRlgtaWM3Y0VnRzVxTnpsRVd6eHZCcnFaWmk0UEVTeFJjcWwtelJaUElxdnJNZ05ySERLeFBZMUstcnM0ZFJaOVlZcVhKbHVaM0VBZGVvWTU3VjlES29RWW1RbFNPeldlOVJBNEtTSzJabnJJZllfbzZWMXlDelJHUDRqSkM2WTM3dmh2a1VsancxY0pRRG5TNmdxbVdOSWU5Y0FxUi1MT2NEd1NMNk5peVg3ekHSAd4BQVVfeXFMT2o4MXJpN2VlcV9qczNHSmp2cThBS3hpNDB3eldKWnJ4ZGU4cUJhVi1yWUZYLWljN2NFZ0c1cU56bEVXenh2QnJxWlppNFBFU3hSY3FsLXpSWlBJcXZyTWdOckhES3hQWTFLLXJzNGRSWjlZWXFYSmx1WjNFQWRlb1k1N1Y5REtvUVltUWxTT3pXZTlSQTRLU0syWm5ySWZZX282VjF5Q3pSR1A0akpDNlkzN3ZodmtVbGp3MWNKUURuUzZncW1XTkllOWNBcVItTE9jRHdTTDZOaXlYN3pB?oc=5",
+   "source": "thehindu.com",
+   "published": "2026-09-07T06:18:40+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Bengaluru",
+   "amount": "$100 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 million"
+   ],
+   "alerted": true
   },
   {
    "id": "f4d3ea40a4a5",
@@ -7085,40 +7121,6 @@
    "reasons": [
     "expansion in headline",
     "390 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "25d29e5b4b0c",
-   "title": "Satvacart Shuts After 12 Years as Small-Tranche Funding Fails to Support a Rebuild",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWhKd3hWSE9oUHM5RDlMWm9yZWtpbDRRcUlzb0hON21DcEMyS0piNkZvdkY3QnUxWVRQYXJZR1Y4al9XLTNIU3l3U2JSakRDZzJValhQa2xZSHRZRUt4WXA3ZWZLbnhRb1lFVlRFVnhZRnUzU1haOEpCLW9DaUFYak5xR2VZOTYySkFBRVJ6dDhxeEloZXlQa3FmV0Y1Vzd6YUdPaXctcGZoeW5kaGZRY1NFSVJYSE1ydUJqZkgzU1dUTnlQX2JRa3FhaTVlQWFUSmR5TkppaDI5S2F3a0ZhQQ?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-08-31T07:09:17+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Satvacart Shuts After",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c43bd0ee17ac",
-   "title": "E-commerce Startup DealShare Considers Acquisition Amid Leadership Exits and Business Contraction",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGt1T2d6cGtXaEk5YmZjR1BENDN5NW9SWWZteERaVUJHaUJyLW9IRVhteGZLQUV4QU9PTFJFb1QxZGtDLU5OUlljMEdiZll5bG9Jak5tS0JUOU41RlpMdjlqSE5LMndqOWJGU0dud2p0dTVoYUl3enpCc2JoRkRibGJFRHNVaUJHbThIaGU0SXhvQXk0YnNLLWF4ZkVQeVJ0N2QxOXdMdU1tazNBVW5MYkNsb0ZmMzJQMnU1eXZ5RQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-08-31T07:00:22+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "E-commerce Startup DealShare Considers",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

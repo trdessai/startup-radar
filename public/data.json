@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-07T08:48:52.919051+00:00",
+ "generated_at": "2026-09-07T08:57:33.563784+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 78,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 74,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
   {
@@ -96,6 +96,24 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9cc259c4ce2a",
+   "title": "Indian EV charging startup Leanwatts raises $2 million",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2pMdVcwV1BkOUVKMUVFb25ZNm94a3ZuLUVMakZXOTIya0U4YlB3a0tOdWdsNXhJWXNjZ2FCVzZRckZSRl9aZ20wWW9zakE3UzBTQWtBZTJfanVaMzIyZnJmbzFUUkhyT2lzU3c0MVA2ejVDMU5GMzB0UThYZ0dweU9ZZkJMM01HeE9ZbUs5aklZUmM?oc=5",
+   "source": "Evertiq",
+   "published": "2026-09-07T08:01:22+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "EV",
+   "amount": "$2 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 million"
    ],
    "alerted": true
   },
@@ -327,6 +345,23 @@
    "alerted": true
   },
   {
+   "id": "107f8d7a35db",
+   "title": "Perilicious Opens New GK 2 Outlet in Delhi",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNi1jZU9PNjRZTVd2alNuQWRHUWgwZ2F3ck15UlEtSnY0ZnNYTVV5NHlwS19pVzlZaHJJX2NWZVgzMVBSLTRkM01LSzB0UlJsYkZTWjhaTWNzclJmNzVJWWZsNnIwdjRkcUsxV1B1RWR6OGRrQ0hTdFlNSkZIUm9TeQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-07T07:00:43+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Perilicious Opens New GK",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "359b6a088d1d",
    "title": "HerSpace Manufacturing raises $40M from Gray Matters Capital",
    "url": "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital",
@@ -379,6 +414,24 @@
     "funding in headline",
     "$24 Mn",
     "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b81a4876ac54",
+   "title": "Largest funding in India's space sector: Pixxel raises \u20b9944 crore; company to expand satellite network and ...",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlBUdUEtSUI5eDVXS1lMaU44cERmcHFucDMxcHhWM05fa2dLQ3ZRQnQxOWlKSkFHeExRc3RjRE5zS01zNS1IblFoNUE4Y194R1JGbHV3T0RxWUpQcnhyaWVraE9QeTVvNV9BNVJvLUVsNmQ2Nm9IV3Z6eTM1ZFhMQWVkbkNqaTJOWjdNcV85em1kY19fM2hXdlM4LTdUdjN5UTMwVjhTeHdjUkkzOWF1Y2FBSzkzVmk4NFNKYVB0WVVWQlpXejBnYdIBzgFBVV95cUxNRHFXYUFpUk1Ka1daOGhBV2FkNnloRlV1RlFGS1lTYzRuWEh3d3lkc3dGSGNscUFKSGcwdzlvYzh4SkFmMkRzVkN6ZHJZeVpuMlVMMmxub2lUNFF4cmxIdkZlTEZNOHNfamR4RUYyVmFxSnE5TjFsSGlERE5NZFFKclhZTENWd2VPU18zV3BvZm9EMFBNU01ha1hEWU5lanlPM1VTN3NGSklfeDNTZ3NkNllHZkFOMURGYnlFY3BvOXppQk5HOUY2Tk1oOE5SZw?oc=5",
+   "source": "Bhaskar English",
+   "published": "2026-09-07T06:40:49+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Largest",
+   "amount": "\u20b9944 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9944 crore"
    ],
    "alerted": true
   },
@@ -7069,60 +7122,6 @@
    "reasons": [
     "funding in headline",
     "Bridge"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "45797f5c8faf",
-   "title": "NIIF raises \u20b919,000 crore for infra fund, with Temasek, HDFC Bank among backers",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlpwN1pnOUpmREtUbWdRNHBYeHdIRDMyRTJnUDI2MlRXQlpPWnd5RGhZOUhpVG93dnA1cFM2eFJOUWhuTDlxS1BMSVR5QUpjVWpMSWg2WTFQLTZrZXBZVlRUaGUxWmRnd3U5R1JzVEI1enE2NUFsamhxeU9MMEliRm0yUS00NWtrbFpjTG02YkI3aVF1cWJkUDYxLTZiQXl0MXN2eVR5LXZoVGhNdUk5X3cxZThpcVltWmE0X0hIS1XSAcYBQVVfeXFMUDhMVm9ZRzMwaXZoYnZ4aEtlZFdBa05sVWJ3RW9pV1FKVDdPUDZ3VnRuZHBOX0c5Wjk1RlVxV3FXZ1hsanQ2WXZFeXlUUnRsamhCQ2ZnX2I2Vk9TYk81NUdlVFdSVEFNSlIwY3F2M1paWUJ5ZDdkb0RtblFOLVBxM2U4aU9adzBkQzZsa0NRMUNfLUxCS2tja2JFSWdyWkdkYXEtRVlWdEdXTUdJRlVMZnpVc2NscUtQV2pVXzhYVW9VZHFGRldR?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-08-31T08:57:06+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "NIIF",
-   "amount": "\u20b919,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b919,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "284cd2690b5f",
-   "title": "NIIF raises Rs 19,000 cr as first close in second fund",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGs5eXJxcWpXbEhUdmVnYWZrUkltRTB2RXE5ejd6dmhXTzB4VDNDczVIeVZzaXZkWTE2bmVockkwVjJzeUZvcnNUdG5US1h0QUVCRUsxX040WXA0TE96Sk1mcU9xeTk4LUZybjhOaE1jZzdvSi02TkNSUVowOTVfU01maHVMNG5sNENV?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-08-31T08:56:05+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "NIIF",
-   "amount": "Rs19,000 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs19,000 cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1df0d0f10b35",
-   "title": "IIT Bombay professor wants cities in Space. Raises Rs 100 cr to fix satellites first",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSkFXcFNPMXZvZ0VCbTdvcUZyQzZ1MElNdE1ZcU03NVMwQUk5WXBaVFJKOHpFaHpKcm9GUmtvMkY2c2FIemgxeGdudWdEcjBGa1RaS3k4blpMVmt4WWUxblJLNi1YUnBJM0FQVDZJcWJ3VWlFSjNjNXBIcmV3R1V5WnFWQTBSVmVVYkQ3RFVUNzR2TWk3dVlJd1JFcVVpOTQtZ2U2Z1YxazU1a1dDcTNnVXdxZmxDUHdVU0NFZnFRQXpLM24tUXBpMEEwZVJXWkp3Q1lVWmRZOXFIbmc0WndZU0puNkVKc0kxbmtJRnR6eUY1dUVndndjRV9R0gH_AUFVX3lxTFAwc0JmZUtvYkdCQmkyWjZXTmpQS3NaRUZSemNOT3BUSWt3YzNLQmpOdndDcFVwc29QbmJSd0EzT0hFS3k2RmZoNE5JSmhOQk5Eck1icXMycS1Gb1lpZnRRUlVqWnZXbWtCNnJPLUxGbWo1ZHFCajgtTnZhMlpYdVpaNWNVSmQ1ZDR2MGFyOWRlZU1NMENObTJVVW9hNXQ3dnlRc1h3ei1la2xIOUlTLWJfcXlFN2RVOFhKbWRYZThlMml3MEl0bkNsOVdwaDYtRUp1aUdKaUEwS1FWNUJhcDJrV0ZoZWFuU0F5MVdoWV81Y2xPdUtJMGsxZUMtZVMwcw?oc=5",
-   "source": "India Today",
-   "published": "2026-08-31T08:50:58+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "IIT Bombay",
-   "amount": "Rs100 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs100 cr"
    ],
    "alerted": true
   }

@@ -1,12 +1,51 @@
 {
- "generated_at": "2026-09-07T03:01:52.124432+00:00",
+ "generated_at": "2026-09-07T03:20:22.660463+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 40,
+  "fetched": 41,
   "fresh": 2,
-  "alerted": 2
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "4ea72734f31d",
+   "title": "Nvidia CEO Jensen Huang claims GPT-6 Astra is AGI",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3RwVHFLTzlwQkJUZ0ZsTnZmOVVZdFBNQnZzQlIwQU1ZX3J5blp5RzR1VHJvSlByN0NjYVpMY2lwM2JPcXhWYUlvSXVnYzZ0a1J2TXBpb1R4NzBRRG85NHdFNG5oZTJmSEl5S0dETkRlTUloWk1udHV5eC1mQlZoTmFJSVUzUm5ZcFhpQXNvSDg2MUJPZFpyX3FaaUVCUnpSRUpSNGZLVnhXR1dSV3FVb3VVWVFfVWJSNi0wQdIBvAFBVV95cUxOd3RwVHFLTzlwQkJUZ0ZsTnZmOVVZdFBNQnZzQlIwQU1ZX3J5blp5RzR1VHJvSlByN0NjYVpMY2lwM2JPcXhWYUlvSXVnYzZ0a1J2TXBpb1R4NzBRRG85NHdFNG5oZTJmSEl5S0dETkRlTUloWk1udHV5eC1mQlZoTmFJSVUzUm5ZcFhpQXNvSDg2MUJPZFpyX3FaaUVCUnpSRUpSNGZLVnhXR1dSV3FVb3VVWVFfVWJSNi0wQQ?oc=5",
+   "source": "India Today",
+   "published": "2026-09-07T03:14:45+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Nvidia CEO Jensen Huang",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1f5e04ddac0c",
+   "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies/articleshow/133860775.cms",
+   "source": "ET Tech",
+   "published": "2026-09-07T02:58:13+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Taiwan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5dce8eb02fb0",
    "title": "Pixxel Raises $100 Mn In Record Funding Round Led By Temasek, Seraphim",
@@ -395,41 +434,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d57bec710285",
-   "title": "Amara Raja joins Indian groups monetizing family-owned brands",
-   "url": "https://www.livemint.com/companies/news/amara-raja-energy-mobility-royalty-revenue-to-promoter-family-11788688391432.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T00:20:57+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Amara Raja",
-   "amount": "\u20b913,814 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b913,814 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4bf0b5708f4e",
-   "title": "ISRO denies privatisation claims and affirms its central role in India\u2019s space sector reforms",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZPZnNRa1JVRnFzaFo4Q1ZoVC1DbTBfc1ZHbnNLVTN6VkkxMzhWeGdsRjJpVGl0T0VsRUF6OXpiaFF2aW5lSlZGUklIM0U2YVZUNzhHOC1fUmtVUnhqS3poRjdPVVNXRzEzcm45UERUeXI4OEhITEJvZFQ5M2sxY3hkNUhtTjdKNmVRa2ktM2xfU2lIMXk1TVJJV0taa3I2QV9FRHY0TndaM1BFWmw2dmN0cUthVkUwaVhKalpSbnhBSkE?oc=5",
-   "source": "The News Mill",
-   "published": "2026-09-06T23:32:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "ISRO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "07bb8e424850",

@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-07T03:47:27.573602+00:00",
+ "generated_at": "2026-09-07T03:55:53.227437+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
+  "fetched": 49,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "9ac32813940c",
+   "title": "Spactech startup Pixxel raises $100 Mn in Series C led by Temasek, Seraphim",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcktpNnY2NlZDVl9UMEVSdUlsTlc0UmFzbHZiSXVDWE03MDVoTmotcnBIMDdMd0d1MDNmTG90MGhXT280WloxaWpnczZQVGFSbXczcXJjT21YbGtNY3JCLUsxUnFwMXFqZmhNazUyRU16TEJyQTllNS1jSW1FS25nbXNOZllydjdJVVdCdUNDZUkwc0RFdFpkTE9Sb3g2UF95ZDNsZHc4clVBTEJZ0gGsAUFVX3lxTE9yS2k2djY2VkNWX1QwRVJ1SWxOVzRSYXNsdmJJdUNYTTcwNWhOai1ycEgwN0x3R3UwM2ZMb3QwaFdPbzRaWjFpamdzNlBUYVJtdzNxcmNPbVhsa01jckItSzFScXAxcWpmaE1rNTJFTXpMQnJBOWU1LWNJbUVLbmdtc05mWXJ2N0lVV0J1Q0NlSTBzREV0WmRMT1JveDZQX3lkM2xkdzhyVUFMQlk?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-07T03:51:44+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Spactech",
+   "amount": "$100 Mn",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 Mn",
+    "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "85fc7bda8c26",
+   "title": "Pixxel raises $100 mn in biggest funding for an Indian space-tech startup | The startup is backed by Google | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2Z1b3lKVFRfNnNGNGNtR1BMMERfWjBKczRUMy1yZDg4dmd2ZkctV0hvMk5MbnZ5QlZ1dDM2WjJaWXZpN1VuM3gxMGxhV1lrWU1KVFZtVHB2MGZacWdfdWpuRkw1cU0zaVg3N04zY052azNxX0FiU0tpMF96am9xY2g4N2ZpbE5OODdMN3ZXNzJobU1Mb2gwQzNwdzZZT1hFa0RxTnF1Tm5pQkFzWmlCbXVLQ0I3QU3SAbwBQVVfeXFMT0JhTFBmS01ZQ0hWclgxZk81WW5qU1pxaFVwUEtpb2RCdGtWMkxZQXFDT20zRy1PQllYRGZFSWZoWlRwQnh2QkQzbGhjZzZDZzZBRmg0UkZ5ME9zYnpad2F5TVp3YlBNOC1fcE5OYWQ1VXdiSUR6Y0lFel9sanNwUFZKMmp1QWEwOUJVaW03bDVWTFNrYTU5V0VOUG5uUFFWRkJHTS12elVkbXdIbWF4TVo3a1IzNzZObTFYYUw?oc=5",
+   "source": "Inshorts",
+   "published": "2026-09-07T03:43:07+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "ba0eae6a5bec",
    "title": "The product challenges for AI that records for us",
@@ -312,24 +349,6 @@
    "alerted": true
   },
   {
-   "id": "436d6d284ae3",
-   "title": "Pixxel Lands $100 Million For Its Earth-Data Satellite Network",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVZZUEtUMndackRwRGVud1FFUzBpcmYxczNmY1AtU0d1bEtSLURaNk05TUZEU1hsQ0ZlV0FHYTdLbjdOU05sR2Y4b1cxMU9zRUZSY1ROZHJVUjFkbFlCdnRyRU4yaFpRYW1fOUhnN1JBZUp6cFhKSmhpejc1UmxaZnZ6Z1V0cHJYRWhPd0tlNkE1cTZ3?oc=5",
-   "source": "Finimize",
-   "published": "2026-09-07T01:50:14+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Pixxel Lands",
-   "amount": "$100 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 Million"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a86934ba4b74",
    "title": "India Launches Semicon 2.0 Framework Across Six Pillars",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGxWaGdxMmFIbnM4d21XN0tleEptUGJhM3Z4aWdmWV8wUkRTcTZVT2VOZU12akZXek9zZlpySDM2NzZjbGNTQ0dxWk0xMkI3NmxlYkJJXzZhODNoWTJkVE9rVTYzZjk2NkVkbGs1TC1MbFBwMkd1ZjhiSm9NZ1cwak1GcDg4R3FOOEY0?oc=5",
@@ -345,24 +364,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "5ab203115f31",
-   "title": "- inc42.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFJTll3cml1ZUVUUlFWNGstME03bmgxM0pEZ3gtb0g2WlVpNlpXVnhDSVBMM0tBT2ZNLW0tZGR1U3FqYldLV1lLUlo4YWdzV1ZQVEdPTTM4YklHS0Q3T3hLWWkzYmhrWjBmSEIyY1VlZWF0U0NreVgtemlySGp4ZUtBTFZyVUN4MlF6bkU2SHoyMmxsSHJlbngtMmM1cGFzR1IzSUpVdmYxNk1feXVUSFVfUlo?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-07T01:43:59+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "36a3a7c52d3a",

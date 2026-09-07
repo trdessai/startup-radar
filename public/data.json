@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-07T02:19:37.153210+00:00",
+ "generated_at": "2026-09-07T02:31:05.203816+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 28,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a412e2678c80",
+   "title": "Can dogs sniff cancer? AI joins the hunt in India",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFFGTlkwUWg3LW1FSkx0Y2IxMllsaEVpTFVqNGY3elJKODBmb20yTjdCRkNFYkE4LWU3Z2JLakRMTVZsa3c5ak9zR1pvenRZd3A2U2ptRUIwbHB1Q2lsY2NyWHJ0RGFRS1daSlBqRmt2VjQ1dHUzbUxUNmpVYkFCa3I1THVvUUFrdW44Z1ludXNkRC1DbG96VzY5ekhUN3ZDb01GY0VaendJUQ?oc=5",
+   "source": "ABS-CBN",
+   "published": "2026-09-07T02:10:58+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Can",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5465f5783e9d",
    "title": "Pixxel raises $100 million, with Honeybee satellites and Aurora software at the heart of its expansion plan",
@@ -24,6 +41,24 @@
     "$100 million"
    ],
    "alerted": true
+  },
+  {
+   "id": "436d6d284ae3",
+   "title": "Pixxel Lands $100 Million For Its Earth-Data Satellite Network",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVZZUEtUMndackRwRGVud1FFUzBpcmYxczNmY1AtU0d1bEtSLURaNk05TUZEU1hsQ0ZlV0FHYTdLbjdOU05sR2Y4b1cxMU9zRUZSY1ROZHJVUjFkbFlCdnRyRU4yaFpRYW1fOUhnN1JBZUp6cFhKSmhpejc1UmxaZnZ6Z1V0cHJYRWhPd0tlNkE1cTZ3?oc=5",
+   "source": "Finimize",
+   "published": "2026-09-07T01:50:14+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Pixxel Lands",
+   "amount": "$100 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$100 Million"
+   ],
+   "alerted": false
   },
   {
    "id": "a86934ba4b74",
@@ -111,6 +146,24 @@
    "reasons": [
     "funding in headline",
     "$100 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e663828777d",
+   "title": "Pixxel raises $100 mn to expand satellite fleet, build planetary intelligence biz",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaUtrZ2RiXzdsLXhCc0RZak9EWVF3X0hPVzRMLThMVEVxSGRPVkVNX1dfaHBKUkp5cEhxak55NG9qY0JtS3RvektGVjc5YW9DamRDLTRnOFN6RURjTUNEN3drR1RmaW9qLXI1NDF3UzNVeGNuUVd4YmVoNmdKeVBLbkxaak1fOUhDODBGNC1MeEQ3OExub09mYkliNXNnNVJyRW1YZjB5Y0JhRGtfcWVCbDQzMmJHTlNFUmJBOVkyX2NxRDhxRkQ0V01OYWhDemsxSGNyU1gzemluelhNX0hpbDVGSXo0eV8yZjQ2MTNQSG1xSmpjNlYzT9IB_gFBVV95cUxQNTFydmFib1p5WVNNOFVnTjZteml2TzRpVVRQTDlCVWJ0bUhhVlpjMmRhVFBUSF9yU25tbnFTWFJmMkZtZUdvMHJFdm41Q25Fc1EtU0p5T2VLaUVmaGJiVDBrM2RRQ2xnMExzRF9CNmdNSVFUU2lvQTJZd1pRc3A4MUJ6dlR2OWpxakc2NGFmY0N2MU5Nb2xZRmItM1pzUUpSTzg4aUc5aDhONW1FLTB5VVZ3OThaUFltbWh0cGVFT1dBQjc0Zk5HS2tpVHVHQ3BYTDVLVVR2WTF3OTJ1Qjk0V0ZZeUNZS3BhTmR4T2ZuSVRyUWFxTHBrejhPZ3JIZw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-07T01:26:00+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 mn"
    ],
    "alerted": true
   },
@@ -386,23 +439,6 @@
    "score": 48,
    "category": "expansion",
    "company": "Nuclear",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e3ccd2585a0a",
-   "title": "Taj at Delhi Airport, Ritz-Carlton in Hyderabad: Inside Chalet Hotels\u2019 expansion plan to reach 5,500 rooms by FY30",
-   "url": "https://www.livemint.com/companies/news/taj-at-delhi-airport-ritz-carlton-in-hyderabad-inside-chalet-hotels-expansion-plan-to-reach-5-500-rooms-by-fy30-11788717105115.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-06T18:01:25+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Taj",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7054,40 +7090,6 @@
    "score": 63,
    "category": "launch",
    "company": "IPC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "56259b41b4f9",
-   "title": "Meta\u2019s Double Standards, Weekly Funding Rundown & More",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScXpmUzBuUXZXV2lTclp0UGVvdURTRlZ5cVlPTFJiUU1UZWlteXYyY1JDbVRXbGM5NExCVmZ5eTZia0czdjFMdkN4akh4bkFQNHQ4YlJSZThkNldmZG01Q0E5ZmJibG15Q1VtdmRfS3RjdUViV2gwVm1sLUU4bWM?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T02:30:23+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Meta\u2019s Double Standards Weekly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b82b014d031a",
-   "title": "Baazar Style Retail Increases Store Count To 282 With Gajuwaka Launch",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDFBdlFIN0k2NHJaNlVId1FtT2lkU1VEMk5oTjRxTUU3TW53blZKVzdWWjBmT2hPUVpWLWlKelZoYkNKWTZycDg0WU91ZWZ4dVFEV2tZTEsyRjBTRVhMZENJY1JJWjRTZ3l0TGJpTmZLdUN2ZlFMZ2xLSzNLRDZQLUxmYUd0cW1pU003ZVhjNFRiTVZ5bVg4SlVZOUstYXJUbW41TTZuTS1jSWh1?oc=5",
-   "source": "Sahi",
-   "published": "2026-08-31T02:23:37+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Baazar Style Retail Increases Store",
    "amount": "",
    "stage": "",
    "founders": [],

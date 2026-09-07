@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-07T00:31:12.125435+00:00",
+ "generated_at": "2026-09-07T00:50:44.923631+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
+  "fetched": 10,
   "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "b423dc476b0b",
+   "title": "Consumer Brands Tap \u20b940,000 Crore Market With Risqu\u00e9 Product Strategy",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbWNCWjVTVXZWMnhJRHA1RHpaUlpaS3M4MVVEQzUwWFZrRXljLUVrOXVPZlBsNk4xTXFYMGE0a1NuNWhaV3diQ0ZGTjh6SWUyeXBPSzJoQkZXYkt4Y0NiWWNQcGh2RktvdDR1TWZrZ3dyQVhuMktTRHhRcEZzTmxORE1XRDI2dlNKS2dFTE5jNUFCQW5zTUNaZTlKRjhOdFFEUk5XMVlQQXFNZExaV0lZOEZjVnlYYVE5anE1R0RFa3dYQjhuTUZ1elZDc3lGX2hsMFpDaUk3aURad2d4R2JQMWYxX1JuSUo1X0FndkdTV0JGWXFm?oc=5",
+   "source": "Whalesbook",
+   "published": "2026-09-07T00:37:31+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Consumer Brands Tap",
+   "amount": "\u20b940,000 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b940,000 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "359b47448a2c",
+   "title": "Zerodha Moves To The Other Side Of The IPO Table",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObE9FYV9LZzBUTlZ0dXRSb3lnTUo4NFBNbHJvVElkd1JPbW50cDJYRkp5SEZqaTJnWS12R3hXaGh3dXBJVHJRd3E4Um5NSW9WTTM4VEZEQlNhMGRERTZEaGVlUHlkeXlqMnRobjBySW9hZHlWUWZoLS05Z2x6VF8tTUxR?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-07T00:30:45+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Zerodha Moves To The Other",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "541eb91438f8",
+   "title": "Satellite imaging startup Pixxel bags $100 million from Temasek, others",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnZWYVVQMUxiR0p2cm9Tcmk4UWFEYzl0RkVLQmlYRkwwZlBJUnV3MTlPRTZXSnYtSFZ1ekRFNkJRZkFzVGtSelFydVJXZEpMOEtZUVlJU1pDZWZicGRLNkJSSTdfQjk3cVBPSEtGbEd4LUhILWZnaXdHc0hiSE1ucFQwQUJHMHQxdFhpaFhmWXN2S3JJQU9zZzBLMzh0bWFpTHg1dHdTWXhXeFo1ZFlUTk1CdlE0cGFHb2RYSjFUdElaSzN2STI2dmZNVUhjOWcxeEE?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-07T00:30:00+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Satellite",
+   "amount": "$100 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "5991bbb150d6",
    "title": "Google Launches India-First Agricultural AI Models",
@@ -362,23 +415,6 @@
    "alerted": false
   },
   {
-   "id": "f488555eaf76",
-   "title": "DataLabs by Inc42",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVlU3Vk5LMkFjRHpsVUJZcXc4OVcwSExMSXhLV0Vta3RUOVRPRlJwT1l6Q0dBZVk3RVYtblNSNnowRjNsd3pVZjduNnVtaVE0MjJVNDkwMGJkRVp1OVpsSUtFNDJzMzVhZTFJSndhSEZVbW1rdEZiWTF1TjcxXzI3a21vQ3RoX2VuVkdjZks4RWk2OEljUXAyQVNJWkczeGRlR1lPYm01aWF6aFRVaFNJWUFFZUxWdlZBTVIxTVhtQXhfaG10REJOMmUwSU4zc3k5OVZKYWh6Y1RmQzZ2MmNPOA?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-06T15:12:20+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "DataLabs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ff47fdeba898",
    "title": "Piper Serica Targets Rs 220 Crore Deeptech Funding Plan",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0lETDBKRlF2U0lrOU9WQzBxbEZtVDBjTW1ndHhrN2xSQXp1Ml9uLVpGQmNGaUZiM1pDekFzTnpwTEdWUjBxTC1mWTU4Nk5SckpLczY1cXZnOHdpNW54V181ekdKQmtBMm14VUFwcG4teE11bVg4WE5GSWd2NUpnMWJMWElCUUxuc0tXVzZubUtyS0dWOTh2VEdRVTB2d3JRMnBaYlYyRmU3OTRoLXBvM2FUMEttWXlVc0VkeldzZW5YZ0hBVE10djdEaw?oc=5",
@@ -395,23 +431,6 @@
     "Rs220 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "278f6ceab81a",
-   "title": "Another David takes on the Goliaths",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3lkLW9TYklnNkNTWW1YWkx1N2h2dkZYY0FqOUFVbm8xX2FpM0JUekF2YXRrcW5RYU1zVHJYaUdnWFVJb2RaX0laNzRFaEVTM2FIXzNPcjROcTgtMFlPTGl3a2FReWp5UFNreTlYTENlR3hCV05BN0lEeEZYWHY5T2FIeXVUbDNBR0VPWW9rRXg2M2NHTi1aRlJZYzl2NHNIbXU3bNIBpAFBVV95cUxPS3lkLW9TYklnNkNTWW1YWkx1N2h2dkZYY0FqOUFVbm8xX2FpM0JUekF2YXRrcW5RYU1zVHJYaUdnWFVJb2RaX0laNzRFaEVTM2FIXzNPcjROcTgtMFlPTGl3a2FReWp5UFNreTlYTENlR3hCV05BN0lEeEZYWHY5T2FIeXVUbDNBR0VPWW9rRXg2M2NHTi1aRlJZYzl2NHNIbXU3bA?oc=5",
-   "source": "financialexpress.com",
-   "published": "2026-09-06T13:49:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Another David",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3f82ca6df5b4",
@@ -7077,24 +7096,6 @@
    "reasons": [
     "launch in headline",
     "\u20b9180 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "520136e4ff65",
-   "title": "Mandrake Bio Raises \u20b916 Crore To Advance AI-Driven Gene Editing",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm54M1lvblNKTjRORXQxc3RlOGh6aUlTQWUzN0NXbmF0SlFySkpwRFF5bDQtcTJ0WWVjNjgzVHhLWV9QbnY2WElYOHJfR19XX1loMmpHWWVyYkR5QVdxTTJWb01pWXFOUmx6UXJCZ0JVdmIyNnhTN1NFSDJVQTRBdjFRYWxKajM0U3NIZ0F3VDFSMW9GWGxzQnVLUGwtWVZ5eXZOVkxMamYxR1ZCYmwyUGE3emQ1a0ZDNzhoQU0yd19FLWRMTXctcmVWZUkzR0xnaEhmaUoyMlp5eUpxQWNyR2NnT3lJODBQeUtXOGF3?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-08-31T00:47:38+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Mandrake Bio",
-   "amount": "\u20b916 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b916 Crore"
    ],
    "alerted": true
   }

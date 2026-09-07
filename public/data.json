@@ -1,12 +1,85 @@
 {
- "generated_at": "2026-09-07T06:02:11.610220+00:00",
+ "generated_at": "2026-09-07T06:27:24.240194+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 67,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "90ccb5d90a67",
+   "title": "ESDS Shares Hit 20% Upper Circuit For Second Straight Session",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEVLMWprTXJsQkdrY3huZUVSR2ZGc0lMY3J0U3VraE9MNXRvd2ZrYlk3end0UTU2VTV5OUZlRndhTmZDNjAtYlFnazZmMm9ELVBwWGx0ZHBrOXc5MWRTMVRET3NKZDlCY0JTSHJzVlR4SnZacVhuSGFsSy03NmtoV05DNFVjYmZFdTcxRA?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-07T06:23:23+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "ESDS Shares Hit",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4167485c813e",
+   "title": "Pixxel $100 Million Funding: Series C Round Explained",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sQjh4MFRneXl3NVdZdnZodW0zQUNyZzVKc3pINXNRVk8yR0NjekhJTDVfN29vLWJ3cWFjYzAwcEpMN2RXRTBkY2dERnlyODV2SUplb3hZZHdudy0wWmZEaldqZ0NETEFoUDc0?oc=5",
+   "source": "Business Outreach Magazine",
+   "published": "2026-09-07T06:23:07+00:00",
+   "score": 42,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 Million",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 Million",
+    "Series C",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4d3ea40a4a5",
+   "title": "iPhone 17 price drops ahead of iPhone 18 Pro launch: Check offers and effective prices",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2Rtd2tqMkI1RTdqcEdhNXM3eWJnZnVqSDRIdlZsQkZ2aGtOaDhjMGN1UmVrb2JuU3VQcS1nZUVZUU1DZk9IZjdOTzQ4c0poZWNpbUY4NVVTdlZQbExoRDVRcmtXcTZ5WC1aMjdDYVcxbFhLcWN3ck1YNGVYSFpfU0ZqT283R3I0VHVsSzZROEkxQXZ1eWJwUndBRXJXVWJBY2w1WmZBRU9aLUJaYmRkckdodkVtZmVmc25RSEo0TFlHaVFsQ2lOWm5tRi0taF9QVzh0TNIB1AFBVV95cUxNY2Rtd2tqMkI1RTdqcEdhNXM3eWJnZnVqSDRIdlZsQkZ2aGtOaDhjMGN1UmVrb2JuU3VQcS1nZUVZUU1DZk9IZjdOTzQ4c0poZWNpbUY4NVVTdlZQbExoRDVRcmtXcTZ5WC1aMjdDYVcxbFhLcWN3ck1YNGVYSFpfU0ZqT283R3I0VHVsSzZROEkxQXZ1eWJwUndBRXJXVWJBY2w1WmZBRU9aLUJaYmRkckdodkVtZmVmc25RSEo0TFlHaVFsQ2lOWm5tRi0taF9QVzh0TA?oc=5",
+   "source": "Storyboard18",
+   "published": "2026-09-07T06:05:11+00:00",
+   "score": 56,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "897c97d49e34",
+   "title": "Media Buy, DIY?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVzZWZk81VHBNSExyNGxmZFNpOUI3SDZRNGxuMi1idEhnMmtWZ0M4QlNlM0lJUGhaSTdpXzlobjBlc3BYS0NzazZsNFNFX09aM3AyZ1FaT3VEWlhkdVdqcnU2b0YtbkJMdVpXaHowWXpFQQ?oc=5",
+   "source": "IMPACT Magazine",
+   "published": "2026-09-07T06:02:11+00:00",
+   "score": 49,
+   "category": "acquisition",
+   "company": "Media",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "41e69cff1219",
    "title": "Women\u2019s wellness brand Nua raises $50M in Series C round led by Peak XV, Filter Capital",
@@ -27,23 +100,6 @@
    "alerted": true
   },
   {
-   "id": "e0b7e15520de",
-   "title": "Paytm\u2019s Vijay Shekhar Sharma predicts AI agents will \u2018Eat Apps\u2019 by 2027",
-   "url": "https://yourstory.com/2026/09/paytms-vijay-shekhar-sharma-predicts-ai-agents-will-eat-apps-by-2027",
-   "source": "YourStory",
-   "published": "2026-09-07T05:47:17+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Paytm\u2019s Vijay Shekhar Sharma",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f511c389372d",
    "title": "Indian space startup Pixxel raises $100 million, plans big technology expansion",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWVvdVIxRVZqX0dFQzVTRFdzTl8zUkFkT0tzd0tMWVFiZVhlUV9YSy1fcmxIYVFYb3dsMThMOEFEYWVUR216TG1wajVQcFlJdmpqMnlERVlwb2EwQ1NtQjlsdjlpMWpYUDB4LTJkdURUbk5YV3Q3ZkRuLW9zZUdnaXJNOW9McTRBdGxNVnE1NkdxdGowVXFnejNVQk1JNGZHVk1IRk1DVmROMFdaMFBYX1lwbXh2Z1E1MC0tRE5IbnhyWU9naldiSDBfczFTNllIckHSAdcBQVVfeXFMUHpHX3p4S3dPN2dKSDNtdzNuZG1UVUpFUWk4NUVjdXJhTXVYbUZGQmRBZW1xem9YTVR2cFdHQVllNlhqRC16QTE0cFZlREJrdXJiTS1ZLWpjMHMzNmhBSHpPd293b3B6TkNVNGUxMzVBLThHQ3hQVHhQckVCLU5FVWJnYUEyS0VWbGRjMWlzX3E0ZG1YVVNFVFZ5ZmQtLTQ5YTd3akVQNzBRTnRpUll5a1FCY0ZCN1o1UmdWSUlpMlBrd0hmLVFWaEJMbTlCcXVpNS1TMVNUUEk?oc=5",
@@ -61,23 +117,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "8f8c26906b74",
-   "title": "China pauses approvals for battery storage manufacturing projects",
-   "url": "https://economictimes.indiatimes.com/tech/technology/china-pauses-approvals-for-battery-storage-manufacturing-projects/articleshow/133865394.cms",
-   "source": "ET Tech",
-   "published": "2026-09-07T05:32:38+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "China",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4a49a658e925",
@@ -7072,23 +7111,6 @@
    "score": 68,
    "category": "launch",
    "company": "Premium Menswear Brand The Bear",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "aff59dcdff51",
-   "title": "We beat GTA 6: OpenClaw launches version 2.0, calls it biggest update since launch",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3F1Zzk4YVlJZDdaNlpYeW90U2d1dzNmQTRZUG56VnZiZEViemtucVVWbXBPN3BLeU1zVHpReWd4YWhoYWJ0WWg1QWs4V2d1NFRKT1ByZVBrdjBOd1hMTW8zR0FyR0RQd01qbjRUbjdqeXVTb0VWNzdHWDF5NHdkekxTbTFneklhc21QSDktT1NUN1BUNFIxMXlTT3FXdmpUUEtVODBFcWNMN2hzWktXVTdpWHBrME85MXZyRzJ5ZXE2cFJwYTZsMTFXTVdKOTBvMGJnR2dIVzNMMUtERGU1Z05ZcDbSAeQBQVVfeXFMTUtxdWc5OGFZSWQ3WjZaWHlvdFNndXczZkE0WVBuelZ2YmRFYnprbnFVVm1wTzdwS3lNc1R6UXlneGFoaGFidFloNUFrOFdndTRUSk9QcmVQa3YwTndYTE1vM0dBckdEUHdNam40VG43anl1U29FVjc3R1gxeTR3ZHpMU20xZ3pJYXNtUEg5LU9TVDdQVDRSMTF5U09xV3ZqVFBLVTgwRXFjTDdoc1pLV1U3aVhwazBPOTF2ckcyeWVxNnBScGE2bDExV01XSjkwbzBiZ0dnSFczTDFLRERlNWdOWXA2?oc=5",
-   "source": "India Today",
-   "published": "2026-08-31T06:21:10+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "We",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-09-07T12:02:05.327309+00:00",
+ "generated_at": "2026-09-07T12:25:53.809895+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 74,
-  "fresh": 4,
-  "alerted": 0
+  "fetched": 64,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "3ba86bf18a6b",
+   "title": "Evenflow Brands signs Reebok licence to take the brand beyond shoes and apparel in India",
+   "url": "https://yourstory.com/2026/09/evenflow-brands-reebok-licensing-deal-india-sports",
+   "source": "YourStory",
+   "published": "2026-09-07T12:23:49+00:00",
+   "score": 49,
+   "category": "expansion",
+   "company": "Evenflow Brands",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2b725a4bf9bb",
+   "title": "Deepinder Goyal\u2019s Temple Takes First Step Towards Validating Its Wearable",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjRiSVNDYVNYU1RqUDE5SHhsUDR5NzY3dldnVzhYUE1VZ2xkQ2gtQ1B2ZVg3c3p1U0Y0RV9VRFk5aWlRVlBFWF9nU2RObGxIWlh6cXZWa0tUVVpkSTlYRmxVYWYtOG9lVHRyOHhWLWQ3aG9Gc0JNZTh4cG02ZVpuM0xZX2ZlLTU4RjR2N21xbERWdS1KWkhZWThhczU?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-07T12:21:21+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Deepinder Goyal\u2019s Temple Takes First",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "db603a92f21b",
+   "title": "Udaan to acquire Swiggy-owned Lynk Logistics for Rs 500 Cr",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEc4U1RtcnB6eTVXSG9kVnZXcDlSclRyeXNvM2hERG1aSVRIbWJBdHdnOFFhaE1qUDZEQmdPUHNBdXhTelhJdEUwMm9fVkdwTG9WQ2dmaWo4VGdJV1RmaTRWbTRRV2hPR1ZGYzE0Vm5weldpVDQwY0tZZm5BUm1Hakp6eGFrR1RQUkJRZzE3cEZ2Ulpla0RQbdIBmAFBVV95cUxPSEc4U1RtcnB6eTVXSG9kVnZXcDlSclRyeXNvM2hERG1aSVRIbWJBdHdnOFFhaE1qUDZEQmdPUHNBdXhTelhJdEUwMm9fVkdwTG9WQ2dmaWo4VGdJV1RmaTRWbTRRV2hPR1ZGYzE0Vm5weldpVDQwY0tZZm5BUm1Hakp6eGFrR1RQUkJRZzE3cEZ2Ulpla0RQbQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-07T12:12:11+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Udaan",
+   "amount": "Rs500 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs500 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e6dd5b02c713",
+   "title": "Swiggy To Sell Lynk To Udaan For \u20b9500 Cr, Pick Up 3.2% Stake In B2B Unicorn",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUZTMXJCZVhYOU5zTGhLNFNXZnBNM180Tzh2ZkVvdHZZb0tIWVhjaTJLcHhESXluUXJXcEFFY1p4QU5BSExMRzFUNUhSNXNrMkVRLXpDVjh4bi1pTkJrWDNIM2Fpc0ViTFhGYkt4SEJpelc4b21FQUFjVVAxbV9pVlNYWkdYT3U1angwUk44eHBVM0pIODRWZXR4RVliSldiMzdLRjZDYl8?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-07T12:09:13+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Swiggy To Sell Lynk To",
+   "amount": "\u20b9500 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9500 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "63988f85540a",
    "title": "India's battery industry set to generate up to 2M jobs by FY30: Adecco India",
@@ -75,80 +145,6 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d4bf72cc6601",
-   "title": "Arnya, IPO-bound Casagrand form \u20b9750 cr south India-focused residential platform",
-   "url": "https://www.livemint.com/companies/news/arnya-casagrand-rs-750-crore-equity-platform-residential-projects-11788771613590.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T11:40:06+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Arnya IPO-bound Casagrand",
-   "amount": "\u20b9750 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9750 cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bb903d0e6c25",
-   "title": "Air India\u2019s new CEO says he\u2019ll \u2018make Air India great again\u2019",
-   "url": "https://www.livemint.com/companies/news/air-india-s-new-ceo-says-he-ll-make-air-india-great-again-11788770082243.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T11:35:40+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Air India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Tewolde Gebremariam",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5ff077a5768f",
-   "title": "Bengaluru Bioinnovation Centre turns Kalaburagi pulses into energy bars",
-   "url": "https://yourstory.com/2026/09/kalaburagi-pulses-energy-bars-karnataka-bioeconomy",
-   "source": "YourStory",
-   "published": "2026-09-07T11:26:45+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Bengaluru Bioinnovation Centre",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e4afbf960d90",
-   "title": "Air India gets a new boss, but Tewolde Gebremariam isn\u2019t officially CEO yet: Here\u2019s why",
-   "url": "https://www.livemint.com/companies/people/air-india-gets-a-new-boss-but-tewolde-gebremariam-isn-t-officially-ceo-yet-here-s-why-11788777625716.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T11:26:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Air India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },
@@ -306,6 +302,23 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3df610b02493",
+   "title": "Somerset-backed Cyrix Healthcare acquires Blue Star\u2019s medtech business",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2pWbUE1c05MMk5kMkZzQms0M1h1SnNhalhsYV9uenpsWm5pbHdVYzdaNGoyQ0VBY1VZV3lDX2Mza3FqYkJjQzRoUDNOWmtBYVFiYzhSUGFVYWNRSC14VWh5WlVZelBRYWF3Z3phSXpKVVYtME9tWTlvTklGOTdXQkQzWldqN0dESklGVWhXTlRIbFBsdVNLY213?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T10:09:14+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "Somerset-backed Cyrix Healthcare",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
    ],
    "alerted": true
   },
@@ -7101,23 +7114,6 @@
    "score": 68,
    "category": "launch",
    "company": "Dot",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5531797b8b5e",
-   "title": "PhonePe Launches UPI Payments For Feature Phones",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aa3JFbnFZQ2QzTHdlRDlVcTE4ZWJrWTJnS3luUko2enpieEE5ZWEzMXRuUmtDam5obW5IY3BoLWkydUgxTGZ6cVNrY2h0QXhuaWJTU2FFdWFYdDdnSlhnWVBlcUpmY0Q2eTNuQWxwZzdJUF9UbTl4NWFZYTI?oc=5",
-   "source": "Inc42",
-   "published": "2026-08-31T12:18:10+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "PhonePe",
    "amount": "",
    "stage": "",
    "founders": [],

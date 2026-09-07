@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-07T13:48:10.320840+00:00",
+ "generated_at": "2026-09-07T13:56:15.711912+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 72,
+  "fetched": 70,
   "fresh": 1,
   "alerted": 0
  },
@@ -95,6 +95,23 @@
    "alerted": true
   },
   {
+   "id": "c8000e1ff794",
+   "title": "B2B platform Udaan to bag Swiggy's retail distribution biz in share-swap deal",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUFRbWNMMzFrVE1VbGNjTUhhYnE1QVl2LUpQd0I5WFlrMGJIYmJBNFlZZDhtR1RnWnNpNGVFbkhpbjlGT19QbktjSmxTdTI3RGZHTDBfTGYzZW9DVk1aalRhNHJ2Y3ZEdlNKUUxlSmJqM3A3R3l1WWFSVlo4LUpSWm55b1ltS2xOejFFYjNhZU5vazhvbnF1NEJLcV9RVFVzTjJV?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T12:36:41+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Udaan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "12ddeadbd0f5",
    "title": "OpenAI to disclose AI misalignment after Wiki incident",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Dcnlnd05zVkQxN3I0S3NMdGhKM3g5dVVXSDhVenhoT0NNdXVta1I4OUxTVnZFaUVQTjJXdTkwQU9nTm12aWx0UFVCNnRLaThiVjBoRWZCSVg5aGtZQlVod3JkbDZ1U19GNnRKLUhDQVBPUQ?oc=5",
@@ -159,24 +176,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "db603a92f21b",
-   "title": "Udaan to acquire Swiggy-owned Lynk Logistics for Rs 500 Cr",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEc4U1RtcnB6eTVXSG9kVnZXcDlSclRyeXNvM2hERG1aSVRIbWJBdHdnOFFhaE1qUDZEQmdPUHNBdXhTelhJdEUwMm9fVkdwTG9WQ2dmaWo4VGdJV1RmaTRWbTRRV2hPR1ZGYzE0Vm5weldpVDQwY0tZZm5BUm1Hakp6eGFrR1RQUkJRZzE3cEZ2Ulpla0RQbdIBmAFBVV95cUxPSEc4U1RtcnB6eTVXSG9kVnZXcDlSclRyeXNvM2hERG1aSVRIbWJBdHdnOFFhaE1qUDZEQmdPUHNBdXhTelhJdEUwMm9fVkdwTG9WQ2dmaWo4VGdJV1RmaTRWbTRRV2hPR1ZGYzE0Vm5weldpVDQwY0tZZm5BUm1Hakp6eGFrR1RQUkJRZzE3cEZ2Ulpla0RQbQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-07T12:12:11+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Udaan",
-   "amount": "Rs500 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs500 Cr"
    ],
    "alerted": false
   },

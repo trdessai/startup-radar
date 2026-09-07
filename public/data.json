@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-07T15:02:59.187201+00:00",
+ "generated_at": "2026-09-07T15:19:20.651055+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 52,
-  "fresh": 0,
+  "fetched": 45,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "5f8b9fa6b4cc",
+   "title": "Dronetech Startup AITMC\u2019s FY26 Profit Remains Flat At \u20b914.2 Cr, Revenue Up 26%",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlpaRUktRGw4QkdpdDhZaVdOVVVDQUpYejBGV0k2bTNIT0V4bkl1OWJEeVhSVDhSSGd0d0VnVEdzZ3J3aVJQeFZkc3lMUDFtV1pvUEFGTm1RYTB4ZlpGSDktMEVOSVI3V21zV0RIVTBEckt5V29sT2dudDFSODRMaXZHbVJQd1QwX1ZUR1lQcUdNd0stc01fZzNkQ2lEekQyZm42U2FhWHA3MFE?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-07T15:06:41+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "Dronetech Startup AITMC\u2019s FY26 Profit",
+   "amount": "\u20b914.2 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b914.2 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "66e617a2243e",
    "title": "8 Kahlil Gibran quotes on the human experience and pain",
@@ -22,6 +40,23 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "27f4104fef26",
+   "title": "Wildflower Naturals Expands Quick-Commerce Presence with Swiggy Instamart",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUtMT3VnckZ2ZEhJaE5taUdwVFZteVFHNl9lYkxvY1NrYl80TENQY3dablN6ZE9xcHdCVWdoWjEzelJieDhMaU1tdEkxZUxYSFQwS0ZNTjk5N0RDeGl0RXZ6eXJzMVBfR0pFSlp0blY1SVBWVm9fTGVlYzg5QTB4YjJhc2UzRlYwQVp4SldpYkhXOGFJQ3YwVUpsNlVYSV9CX0ZrSUkzSG9uS0N5UVZmTlJB?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-09-07T14:38:20+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Wildflower Naturals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
    ],
    "alerted": false
   },
@@ -147,23 +182,6 @@
    "alerted": false
   },
   {
-   "id": "c9ca348fe979",
-   "title": "Australia to propose a law to turn off algorithmic recommendations on social media",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2tXeVZkRWtTem1leEE0NjJCYXlKM2hoeUYyTGVqdHdvRmdOUmZqVWJTb3NFWDd3SlZHbjM5RkFEangyVkFubE0xT3RJOGlQbXBWWFZwTlFlTERuRk85cmhoVzA4ZWpiSXFtQUlCQk1QbVYxcXk2SDVodnd2ZkkxUFYwS24xYnNfbmc1dzZzTGlWUmlLR1dOYQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-07T13:07:01+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Australia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a2c9e4359904",
    "title": "Vigyanlabs launches FEMTO, a Made-in-India high-performance AI-in-a-Box platform for organisations",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEg0YVlRenFQc0ZIaUh4N2NNQ0Fsa0x3bzVQdENmRldZZkkzbFF3Rnl0Z0QyRXVoQTdBdm5jZTNRTmV4NjZ0bEVjcFFrZ0xLc3pKTktPdTBsRm1ONW5GWFJZbkp5Rlk1Nm5td3Q5akE4MEd5YVpHaGlzMTV2WVJHRWp4aGt2LTJOcUR2Ti16SDlMNHFwcDJUa1o4cUx6XzZ6c1c5VlRBcnFrUQ?oc=5",
@@ -179,24 +197,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "13b6dd483d24",
-   "title": "Shiprocket Trims Q1 Loss By 24% YoY To \u20b913.7 Cr, Revenue Surges 34%",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckpHdlVINVROcEZuYmFIdUx0a2FfVEJ5QTMxOGktVzNwRkszMkMxc09EZHVueUc4TXhPV25QMkNoOGdZRWRIWThlNkFscXB0TTRHdmJsWEd2Y3o4S0ljeG5Ycl80YkFUb3lPT3VPWnBLeXJCSGQ1NENwNERCWlB2cUF1bTY5bUpCRGc0ZGVuSUFxX2xvLVdQM0d3cXk?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-07T13:00:20+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Shiprocket Trims Q1 Loss By",
-   "amount": "\u20b913.7 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b913.7 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "4ab1becf7121",

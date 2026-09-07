@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-07T01:47:27.196128+00:00",
+ "generated_at": "2026-09-07T01:55:34.767228+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 1,
+  "fetched": 20,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "5465f5783e9d",
+   "title": "Pixxel raises $100 million, with Honeybee satellites and Aurora software at the heart of its expansion plan",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXd0RE4zdUpOdDNxaFY4U25GNVA3T3lmLVlzTVh1QzFCNmZGTVZrTnFnaDNLc01uclVwUEVNVWFVZ28zNFltY2tYQjdZd3FjU0s2OVYyWjVPUHI3YzFWa2w1S2EwUVZvQ1dCOERMbS14ZVZJdkpDWUc1VnJSUmlCcWYyM19kaVBpTUotWnhVQVhYaHMtbFFaWmZPRzA1N05mYVlJ?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-07T01:50:51+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "a86934ba4b74",
    "title": "India Launches Semicon 2.0 Framework Across Six Pillars",
@@ -23,6 +41,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "4497033f3272",
+   "title": "Krafton chairman meets Indian prime minister, pledges $250 million additional investment",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVZmUXBSR2ZRVDBtMzRhLWhsb3BPcEdMMGZ3c0FUb0ZialE0NUVMQXVrclZSamJnTnh3V1N3QUFlMlllR28yUUczM3FNRTFjNkQ0V1VwTGZqV2Z0R25GeUVsZENwWHJYV3BhMEhuX19kcGVtUlpGN0ZvMkxHM3Jpa0N3UW5SMU9HNUZMNWNud3lRMWdSOFNza1pkTHhMSUE3R0ZqSFVnMURzQURPZEE4NzBwd1NfN0hueHR1UWNPbDFwRHMyQ3hsTEJ0OW1JREFFU2o1STJVd0RxQ0HSAeABQVVfeXFMTXRuSEtBQ2d1T1BqZ3RTaDU4UWxHdUlWdnROYmxENHVLOG5oQ0JVQkFpWEJaQzdrV01lV3JWRTFuYnpVQVNvM2g0bjFjV1NZcDZCSVFSS0JNNVRRVS04UndEMnFlaU1NOFJ2dEJmWFpBclJlcDQwQW1WQUREWGd5LXVEdVBBYXUwSTNuS0JDRE1GaG5GRG5qUDlGQnZpLTB1SE11cnFzZHZKcUJubHpZby13S3A4R3hodGd6NGV4eVNlYnhTX1NmTE11QWRZaFY1WVRWdEFIMU9EcVNkQU9Ebmk?oc=5",
+   "source": "The Korea Times",
+   "published": "2026-09-07T01:35:02+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Krafton",
+   "amount": "$250 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$250 million"
+   ],
+   "alerted": false
   },
   {
    "id": "4c34efe89606",
@@ -359,25 +395,6 @@
    "alerted": false
   },
   {
-   "id": "4e50ba909213",
-   "title": "iPhone 18 Pro Launch Date, Price in USA, UK & India, Features, Specs and Where to Watch And What to Expect?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3hKRUcyT0tEckdEemxod2R2Q2hicGlCWk9oUy1rYmNjcTExYjloTEFORVJrSmJBNVE4LVhTMl9uVXZESU5uak5OYTdualN0X1FtRWN2ck96MTJVbTF0UjRkbE9nWDBfaE1MU3VlUVdaV2ZNaGtvR052akxPQ1FncHZibzBCTFotSW4yMjU1emJ2aDZnOUxlQklhWTdRMDF3bHE3WnBuYnBXZFZHUllhX2s4cWFYRGxYdWh4Z1B6OWRGRDg?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-09-06T17:40:24+00:00",
-   "score": 44,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8f34fcd98300",
    "title": "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTTN3dnBDVkFMRmU3NDJnbHE5R3Y4TWNHUmdOVG9IUE1QX2VWWGFCMlo5ZnFwT1pXME9ndE1TSGJLei1GVGMyVktJY0tGa1FGdnc?oc=5",
@@ -394,28 +411,6 @@
     "$291 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "b60edbce4231",
-   "title": "Alex Karp, CEO of America's biggest defence company Palantir, is \u2018going\u2019 to Ukraine, says: You and your c",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTk1jWU5wS3NlRjJrRlowdVF4eTVsZ3ZFTklxMVZFV0c0T1AzSjNLMUVNQU8tOHY5LWI5TDB6OUFWWDFLanotbUVTd2prUW9NNGVjeXdLTlpxUUdiM0pxUXBrdkJPS0FtREhNOEF4S01WaWFhaXM4SzJvMDlyQ2JNdE93NHl5V1g4a2tPQmpHNkJ6b2JaNEpfZHZyM09LMktyekU3M1lTX005c25UVjZSbjRKdnJyVWtsYl9oTTBiRTFwTUJtN2pBNmIwRDJSYzRlYmdoaWJqMnVubnRJZ0V3NDBhaGJXZDlJM0dBaURGM0o0RVNnYWFlaVdGVnhKVnViWUtEYVhMQklVWnBGa3AtdDgwajgtVHNDaW1FWXp0LU7SAaYCQVVfeXFMTzlEVFA3bFF6eTE4RnFkaUp5aFhjbjRMVlhtV3dHV210dXhXQmwzTk14VWhLWjRzMXFsb25QSE5fTDhjSHA5U2lHaE9nUlVib1FxZVhrRjVBeGNubDRzV0ZvaC1iWFlQWldvZlNraXlhMXdrYnlFYy1KN0FIYmliWUVsWTdveHhLSUhLUUdyaFFEMVVONXJOVnZGbmtVaWtWM3VIdmZLbHRLaDFQVUo0eFlkc2t6REVmLTJRVm0xMEVpWk1mRk5UQ0R6Q0JUYWd2MHU5UERfY0kxTXppVS1BSVp1Uy1SNkM4bmpWQzdKTmNJaGRzaGZ1dko0R2ZmWWJ2N2RDMkw3VFBIOXU2V0JMal96akJWcm5FZEdqdE10VkxiajFhVmtR?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-06T17:23:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Alex Karp CEO",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Alex Karp",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5e770ae8f307",

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-07T15:45:36.599618+00:00",
+ "generated_at": "2026-09-07T15:53:31.021771+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
+  "fetched": 34,
   "fresh": 1,
   "alerted": 0
  },
@@ -178,6 +178,23 @@
    "reasons": [
     "no clear event",
     "\u20b9500 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c9da019a54ed",
+   "title": "Hospital chains compete with foreign PE firm for stake in oncology-focussed peer",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFJzdGlNeDRsdWNZSjN5RmRLV0c1Vm10RkFSbDBIZUJTZHp2Q1VzenZwVUJOVGJmdm9yYnVlLWdQUm5pUDJ0aWJieGI0M0VQNUZBM1ZFOHQ3eTY0a19mYjZtaDY4Y0Z1RWxSY0RBdmdVUnFZNDJOOWlPME4wanJjcTIteVRUVFVCdEhCUmJyM1dIN3E3ZFg5Ulh0OGJHN0NmcWtOSkNCRQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T13:32:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hospital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },

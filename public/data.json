@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-07T04:55:28.406127+00:00",
+ "generated_at": "2026-09-07T05:02:21.876108+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
+  "fetched": 63,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "a2ec99d64170",
+   "title": "Nua Raises $50 Mn To Expand Women\u2019s Wellness Portfolio, Distribution",
+   "url": "https://inc42.com/buzz/nua-raises-50-mn-to-expand-womens-wellness-portfolio-distribution/",
+   "source": "Inc42",
+   "published": "2026-09-07T04:55:37+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "Nua",
+   "amount": "\u20b9472 Cr",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9472 Cr",
+    "Series C"
+   ],
+   "alerted": true
+  },
   {
    "id": "244bc114d90c",
    "title": "IdeaBaaz Co-founder Mudit Kumar Sees Physical AI Leading India\u2019s Next Deeptech Growth Wave",
@@ -140,6 +159,23 @@
     "4.3 Mn"
    ],
    "alerted": true
+  },
+  {
+   "id": "31c4309c0286",
+   "title": "General Atlantic quietly scripting its biggest India exit",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWJWZjBEMHlzNWJMcnlBNWFlQ3BwR2lOczRPZlBJdEZDeXVrajg3MzlPY1JNLVhyc2lOQmVEUDduMFZ4UmRlVklUd1ZhZGJaOS01Skp4c0tueFpUbEVVQnR5cXpta2xCRFhOcXpRZVA4Wi01NVRiZ3pxOHhqZy1tX3FjRFctM2Ra?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T03:57:50+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "General Atlantic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "e1f543ce384e",
@@ -7076,41 +7112,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ab7305acba2f",
-   "title": "Thailand and OpenAI launch an accelerator programme for AI startups",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eG9iOG9vSWE2cWMtd1pmdDlJUlNMVU80Rl90NURmcHZhUDJwS0VieEJZNzAwX3JuT0tYVDFOLWhWNGJJcDJHRnhFYmpZS1R4RXFQbzZBU1RuQ2NxTUx0ZkdCcHpROEV0cnJGcWk1bzZ6T05lMk1BZEoxVVo1N3M?oc=5",
-   "source": "Asia Tech Review",
-   "published": "2026-08-31T05:00:14+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Thailand",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "20a5a66280fd",
-   "title": "Piramal Finance Raises Rs 3,850 Crore to Drive Retail Growth",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0xKRlNRX015UDV6NllwaVI3YkxscEc1X0ZuUXM5dnFaSWNxQUJuY3I5SzVndWRZOU1zT0loNVg2cjdzRGJ5Um9YdGtFR2Z6YUhrS3F0OWlucW02WEd5Tl9RVWdYLTdvdDlaWDJPU0QwcGhLazkzYzBNczFVeWhHRXJJTDg2cHptSTBveGpHUllka0ViamM3RFp1Q3RTdnpLUVFRa21kUkZrc1lTQ0doLXhtRVlXT0I4?oc=5",
-   "source": "Siliconindia",
-   "published": "2026-08-31T04:56:38+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Piramal Finance",
-   "amount": "Rs3,850 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs3,850 Crore"
    ],
    "alerted": true
   }

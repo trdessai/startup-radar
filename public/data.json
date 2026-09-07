@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-07T16:32:03.969580+00:00",
+ "generated_at": "2026-09-07T16:45:40.753754+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 26,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8c4b1a4f3716",
+   "title": "India needs 50 launches a year to unlock $44 billion space economy: Pawan Goenka",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOGcyUWlIc0ZvdlpmWXpBbVh6UmhLclVCSGtyR0FvRHhwOTQzbkIyZW1IOHdYd0plS0cwbTdpLTBsM1NBNU4yZi1aWThjM0plNEpYRkM4WmVwNVF1QjJySnFUNWltNTM4MDJhQ2E4ckxBOUNoSFAzY0R0X0JqV3BMSkdyRE15WDRROXdWdjNjdUlyVlFsVi1uV2dqU2dHVWxhNklWQ0xLNVZOa05nTlUydHMycG5SNURvdjEwU0N0OGZmRGFOTFMwN0930gHPAUFVX3lxTE1fLWVmTHI5SkxxTFlkYmVzdHVuZ3RoYjMxVUZEUkgwQ0xwVkIwcEE1VVV4WGhiMTNaNmVUazgxek1HYWNaajRfZHo5bkJIbDhDWUdyREFtWkpSaklIN3l3RGpKazVyUmhUZFZOVDJiTUw5alJOT2ZtdVVrZVZLYVB0cG9vT25Ga1Jjak11OEZIRTlvdW42S3IxOEltTmZMMi0ySWpab0JMZFh6Uzd2UGhKNmZpay1EN0NWeUtVOWE2X2Nla0NvbWp4dzdFYm9LTQ?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-07T16:40:18+00:00",
+   "score": 86,
+   "category": "launch",
+   "company": "India",
+   "amount": "$44 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$44 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "c21cbff9acc9",
    "title": "India's Deep Connection raises $110K seed to detect child developmental delays by age 1.5",
@@ -197,23 +215,6 @@
    "reasons": [
     "no clear event",
     "\u20b9500 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c9da019a54ed",
-   "title": "Hospital chains compete with foreign PE firm for stake in oncology-focussed peer",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFJzdGlNeDRsdWNZSjN5RmRLV0c1Vm10RkFSbDBIZUJTZHp2Q1VzenZwVUJOVGJmdm9yYnVlLWdQUm5pUDJ0aWJieGI0M0VQNUZBM1ZFOHQ3eTY0a19mYjZtaDY4Y0Z1RWxSY0RBdmdVUnFZNDJOOWlPME4wanJjcTIteVRUVFVCdEhCUmJyM1dIN3E3ZFg5Ulh0OGJHN0NmcWtOSkNCRQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-07T13:32:37+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hospital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

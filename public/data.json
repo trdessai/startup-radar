@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-07T10:53:37.717875+00:00",
+ "generated_at": "2026-09-07T11:01:48.207797+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 74,
+  "fetched": 79,
   "fresh": 4,
-  "alerted": 1
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "434622d5f3a6",
+   "title": "ISRO remains a government organisation, says Chairman V Narayanan",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtoRFpOMm5zc2sxYzIzdV8zUkRtOTMwazNwRUplY0hKMHZGZlNJMmZZSEZxWjBSMjQtd3V0b3RSUDdXTlh3NzdiSEJFWmlFVTNHajRNbG53MW95bVYtQ1FubE16VGN6TmRORUd2dFRxeU15c1RmZ2FENVQ1Zmg5WTNra0pLZG04QWEtSXFaUUlidkhkZ1E?oc=5",
+   "source": "Telangana Today",
+   "published": "2026-09-07T10:53:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "ISRO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5a585b71235d",
+   "title": "Upstox Launches US Stock Investing After IFSCA Nod",
+   "url": "https://inc42.com/buzz/upstox-launches-us-stock-investing-after-ifsca-nod/",
+   "source": "Inc42",
+   "published": "2026-09-07T10:49:14+00:00",
+   "score": 74,
+   "category": "launch",
+   "company": "Upstox",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "baf19a902c4b",
+   "title": "HerSpace secures $40 Mn from existing investor Gray Matters Capital",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVJKRGNiM0l6SDM5MFdxaVBxNjN6Z0d1ZUM2c3Ryb1MzbGNGYjdSNmV2c2kwNkR0eWY4MEhiYzlYb0VaWkhXV1VmVXViZjY4N1luMzEtM1hmOC1tOXpoSWJ4QkptRDBIWmpDMlA3d2p3Y0VDM21nWDBCYkVwa0xrZUJWSTN6alZlZWx3U1BGdUFqMnRQbGlNLTkwVzc5bFdRZlRJ0gGjAUFVX3lxTE1tUkpEY2IzSXpIMzkwV3FpUHE2M3pnR3VlQzZzdHJvUzNsY0ZiN1I2ZXZzaTA2RHR5ZjgwSGJjOVhvRVpaSFdXVWZVdWJmNjg3WW4zMS0zWGY4LW05emhJYnhCSm1EMEhaakMyUDd3andjRUMzbWdYMEJiRXBrTGtlQlZJM3pqVmVlbHdTUEZ1QWoydFBsaU0tOTBXNzlsV1FmVEk?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-07T10:48:34+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "HerSpace",
+   "amount": "$40 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "61bef01eb1cf",
    "title": "Retail India News: Villaro Design Studio Opens on Delhi\u2019s MG Road",
@@ -115,6 +167,23 @@
    "alerted": true
   },
   {
+   "id": "1b22a6aab2d5",
+   "title": "Inside Neysa's $1.4B Bet on Closing India's AI Compute Gap",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITkVaLUc2NEFXcHlTTWVZc0lCcUpDdDkyZnp4X1JIZXZ4b3ZRNV95RVZGUWlad2RIZFFWMUZmMG1yeC1Ea1BiNmxTcTJ2MGxsWHJpakZXU1RnUS1VSjZFaA?oc=5",
+   "source": "TradeFlock",
+   "published": "2026-09-07T10:27:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Inside Neysa's $1.4B Bet",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "511be35af15e",
    "title": "Pee Safe Launches Within Brand for Hormonal, Gut and Menstrual Wellness",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYi1IQ0xqSzFmSTEwcXV1VUJuMDlNYlEzbExVLUJYNFBWY05yVVliNHRJWXdVZjJ2bWw4dDFBaHlYT1dleldDNVA1NGFNdE5JdGU1REpzcGg4SUQzcVlUdnJPbks4WEZBNWwwWXdYYS1uNmw1SkItS01qM0h3REtSMkVITEg5eG1BcmhUWjZwN2lvTHc2RTJqVTVjNG96YVpQa3NxbQ?oc=5",
@@ -147,23 +216,6 @@
     "funding in headline",
     "$100 Million",
     "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5dd928bd4d30",
-   "title": "NoPaperForms DRHP: A Look At Shareholding Pattern & Key Executives",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT244NlJ5NHpIWXJ5VmtDYUstU3EtWWRwU1htVVczdDdKTF9TeWc2TWdHUzgyU011WUlwYm1xX3d6MDVWLXJqcTM4Ym1zYmJFVjZvYUFRakt3RGNfOEFzT1FDWkM2SFV0R01Ec0lYeUdjbFh2dUYxYUVVNnhMbzBfRElKMVVPcjRwc19IOTJ1ejk?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-07T10:11:48+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "NoPaperForms DRHP: A Look At",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },
@@ -239,24 +291,6 @@
    "alerted": true
   },
   {
-   "id": "394048dbdda6",
-   "title": "What\u2019s the upside for Amicus, India SME Investments as portfolio firm tweaks IPO plan?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHlEb0Q3TzlqcmN0N1pwUVl6UEcyWE4yWG16MXgtM0dDMVlfN2c4OEFxcElTMXhrTkNGQ2NUMmFVUTRxb2VwNkYzOVF1b0ZIMHVicG5OU1lIUTFHc3JBUXgzQThZOWh4ZUV5N2FNTGE5Zm9FNm4tOTI0YlBxTHliWkZtRENpRWR3bTlqeHVkQjJ0TlBQRF91WHpINTRyMmRtOUxDclZIVDF0TTE3b25wQUl5NXQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-07T09:56:02+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "What\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "fed19abec075",
    "title": "Ziroh Labs Launches Kompact AI to Accelerate Enterprise AI on CPU Infrastructure",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTUtRFFWR0t6SE9ocUl6ejExb1NITVpCV3F0YzZGb1pDNzlhLVUxTjNQYUVxLUZfaEU5UkxDcTVVa1Z5WktIODJobHI3SXlmekRDbU5nX1E4VWk0dGNSaDJsbTRtRjFhU3hKOVRSajVpVXZrM0dwYkkyYVNwdlVwV2xXc2xVY3liQjJlbFJjM1NBSHNqaUVfdllVRlRsQ0pZMjBlV3NQN0k2Ql9vVFlzV2JRVF9TWXM?oc=5",
@@ -272,40 +306,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "091c870dae1a",
-   "title": "KompactAI #ZirohLabs #ArtificialIntelligence #AI #GenerativeAI #EnterpriseAI #CPUAI #AIInnovation #DeepTech #AIInfrastructure #IndiaAI #TechInnovation #AIForEveryone #FrugalInnovation #EnergyEfficien",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOal9ONzd3OVlHMWN1VjVoNWF2aXdZUVFsNHdOWTJFOE4xMHJpZUZPYWp6UlNONG1RX0lnd3Jta1QwZzZtdXd2N3ZuY1c1V3d4ZTRmbHZDZWY0dXViUnVfdF9ZaVVKWkJJQlNVam9pa0VETnhMdV9BTUhzWHkwNTN1bklLNURIVzlhME1yUFd0ZFdwMF9WODVlUkg1WnNFVzhXdjJqYzZWZnBsMUJYX2hINDAtb3Vad1FJaElWV19jQks3akhfcTZxd19pTHJ0dkE5UW1LOXRza1M1T1hhRmlPZk1idWljMWxpVUc3OUtURkVsbVpKa2FuNm1wUTZNakk1WGQtWEpyRG5jWTZrWnBYQVl3TE9sR0E3RE1vU1FjZVpYRklldEdfSUpoTHZ3RktnLVZIRFFXQW1tdw?oc=5",
-   "source": "City Today News",
-   "published": "2026-09-07T09:50:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "KompactAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0d1876f87469",
-   "title": "Delhi Startup Policy 2026: What Changed From the 2025 Draft",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjNvV2pFSjBpLWlVOGNITFZQX3p6dk5Mc3E2bGd4UjFHNUhLLUxmdUM1MGItWmxxS0dvYl9kTGNXQlJFai0yalJBTklEeW00Y2Y2NTBWaXU4bW9JeThueElhOE9MdExLb01CdWZpWkphV3FjSkQtcWQxTmE1N2pXUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-07T09:46:11+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Delhi Startup Policy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "acfd6063164c",

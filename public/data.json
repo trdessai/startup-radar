@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-07T05:45:53.408956+00:00",
+ "generated_at": "2026-09-07T05:53:59.977354+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 63,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 62,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "41e69cff1219",
+   "title": "Women\u2019s wellness brand Nua raises $50M in Series C round led by Peak XV, Filter Capital",
+   "url": "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital",
+   "source": "YourStory",
+   "published": "2026-09-07T05:48:44+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Women\u2019s",
+   "amount": "Rs500 crore",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs500 crore",
+    "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e0b7e15520de",
+   "title": "Paytm\u2019s Vijay Shekhar Sharma predicts AI agents will \u2018Eat Apps\u2019 by 2027",
+   "url": "https://yourstory.com/2026/09/paytms-vijay-shekhar-sharma-predicts-ai-agents-will-eat-apps-by-2027",
+   "source": "YourStory",
+   "published": "2026-09-07T05:47:17+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Paytm\u2019s Vijay Shekhar Sharma",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f511c389372d",
    "title": "Indian space startup Pixxel raises $100 million, plans big technology expansion",
@@ -40,24 +76,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c02b42769a7e",
-   "title": "Temasek, London-listed Seraphim lead spacetech startup Pixxel's Series C",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTZHa3AtZUQtTEpOdnNxRnJPLUhQcUxJX2gtbFN5SWE0YjZmSzhqcWRVSEtleHdWbFRPZzlqRExUdjdqc2JCUmdvbTJsZjF0YWY4Zy1OSUhLVnA5aTRzZDlibjREOUE3eWxLUnJyZzNfbFRHOTI3T3FFREJkdHpiUDh3eWlZSHJ5Y1hGakIzbW1WZ0pER3FROXdIbw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-07T05:24:25+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Temasek London-listed Seraphim",
-   "amount": "",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Series C"
    ],
    "alerted": false
   },
@@ -7094,23 +7112,6 @@
    "reasons": [
     "funding in headline",
     "Rs20 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e531ee39b5e7",
-   "title": "After a Sold-Out Debut, The Startup Mixer Returns with Edition 2 in Mumbai on September 2",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0xoMkJOSGlrNUtFRWMzcTlCdl93aTJZMjR2cTRPNHhSVExrYnlYUzY3NWlmdXJPamtuX24yY3BWZ0NENUpOaFNSMk9sVWFZTmlxdEx5eEtrQlEyU3dfejUzeWdiOTdiRFdrQk9QMmMxbmh2dThUSXBnOExDbzZNeXVvZjEteVlYSjN0OS1WLWJDTWxPaEs5Vzh1SFNCR3JkTkZucTFDcnh6OWsyZjNWWEJ0Ym5ObFpYb0xlamRKem5UVV8xdmVyNGZEeThQYW9LdG1ZNXFNWkR0ZjJmOWdz0gHfAUFVX3lxTFA3TGgyQk5IaWs1S0VFYzNxOUJ2X3dpMlkyNHZxNE80eFJUTGtieVhTNjc1aWZ1ck9qa25fbjJjcFZnQ0Q1Sk5oU1IyT2xVYVlOaXF0THl4S2tCUTJTd196NTN5Z2I5N2JEV2tCT1AyYzFuaHZ1OFRJcGc4TENvNk15dW9mMS15WVhKM3Q5LVYtYkNNbE9oSzlXOHVIU0JHcmRORm5xMUNyeHo5azJmM1ZYQnRibk5sWlhvTGVqZEp6blRVXzF2ZXI0ZkR5OFBhb0t0bVk1cU1aRHRmMmY5Z3M?oc=5",
-   "source": "Devdiscourse",
-   "published": "2026-08-31T05:50:53+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "After",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

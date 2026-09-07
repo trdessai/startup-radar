@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-07T12:57:43.946641+00:00",
+ "generated_at": "2026-09-07T13:08:35.895380+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 66,
+  "fetched": 73,
   "fresh": 3,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "13b6dd483d24",
+   "title": "Shiprocket Trims Q1 Loss By 24% YoY To \u20b913.7 Cr, Revenue Surges 34%",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckpHdlVINVROcEZuYmFIdUx0a2FfVEJ5QTMxOGktVzNwRkszMkMxc09EZHVueUc4TXhPV25QMkNoOGdZRWRIWThlNkFscXB0TTRHdmJsWEd2Y3o4S0ljeG5Ycl80YkFUb3lPT3VPWnBLeXJCSGQ1NENwNERCWlB2cUF1bTY5bUpCRGc0ZGVuSUFxX2xvLVdQM0d3cXk?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-07T13:00:20+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "Shiprocket Trims Q1 Loss By",
+   "amount": "\u20b913.7 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b913.7 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "4ab1becf7121",
    "title": "India launches SHIELD Program for Microwave Defence testing",
@@ -129,6 +147,24 @@
    "alerted": false
   },
   {
+   "id": "ef6ee3de816c",
+   "title": "[Update] Pernia\u2019s Pop-Up Shop Parent Ends Debut Session 1.2% Below Issue Price",
+   "url": "https://inc42.com/buzz/pernias-pop-up-shop-parent-purple-style-labs-lists-at-7-discount/",
+   "source": "Inc42",
+   "published": "2026-09-07T12:00:26+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
    "id": "63988f85540a",
    "title": "India's battery industry set to generate up to 2M jobs by FY30: Adecco India",
    "url": "https://yourstory.com/2026/09/india-battery-industry-to-generate-up-to-2m-jobs-by-fy30-adecco-india",
@@ -148,24 +184,6 @@
    "alerted": false
   },
   {
-   "id": "bcd9b1f84766",
-   "title": "HRV Pharma bets \u20b9150 crore on peptides, high-potency oncology APIs",
-   "url": "https://www.livemint.com/companies/news/hrv-pharma-bets-150-crore-on-peptides-high-potency-oncology-apis-11788774695787.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T11:52:21+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "HRV Pharma",
-   "amount": "\u20b9150 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9150 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2e46aeedf9ba",
    "title": "Karnataka plans immediate AI skilling ahead of proposed AI University",
    "url": "https://yourstory.com/2026/09/karnataka-ai-university-ai-skilling-roadmap",
@@ -181,23 +199,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "6a213da0ea95",
-   "title": "\u2018ISRO will not be privatised\u2019: Indian space agency clarifies its role as private sector expands",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUF8zVEtVOEZUVFVhcndrY1YycXdRaWVjemJ2V19fR240aXJOTC14MUljZC03aXpxQmcyQmY2MFpadm1BSDczZUhHQ2RNbGl3Z19lZm1uTTBfTkVMU3dkYzNfNldrT1R6VkJGX295U3RSRTR0TEI0U1pya3VpNVl1SjQ3eElIdXBVbkltUWVraTNQSENLUzlOUUhHUTlyaXg0bm5lUUg3aExZX2I1Ym5md3BCeG4xR0tBRkNnVjN2dkhkVURmQUh3b3JqNjJ0eFlVV3fSAdIBQVVfeXFMUFBfM1RLVThGVFRVYXJ3a2NWMnF3UWllY3pidldfX0duNGlyTkwteDFJY2QtN2l6cUJnMkJmNjBaWnZtQUg3M2VIR0NkTWxpd2dfZWZtbk0wX05FTFN3ZGMzXzZXa09UelZCRl9veVN0UkU0dExCNFNacmt1aTVZdUo0N3hJSHVwVW5JbVFla2kzUEhDS1M5TlFIR1E5cml4NG5uZVFIN2hMWV9iNWJuZndwQnhuMUdLQUZDZ1YzdnZIZFVEZkFId29yajYydHhZVVd3?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-09-07T11:44:46+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "ISRO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "e3297c2a5b2f",

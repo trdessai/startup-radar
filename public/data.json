@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-07T16:01:58.451881+00:00",
+ "generated_at": "2026-09-07T16:19:54.675406+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 32,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "c21cbff9acc9",
+   "title": "India's Deep Connection raises $110K seed to detect child developmental delays by age 1.5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2RhNEFXNmhqMk05ZWNzMFh1RXByd2FLMkE2eXZFU0NFNWNlTVFmZ3BXd2tDdXRXcVlENmRzcTBBdGx3RWRWZkhPd0lQQXEzazhSdVJyM3F4Mzh2N04wWEdIQ2h6Z1lRVXBnaFYyc0N2dmtST3VBRWNWbGQwSGxkb0xRQ2c4UTVzWGpUNG1OVWRSS1lXZkZUbzJEMEJ5QWdwYkQ2ek5XUmV6cVVkZGxycVZsWmEwZFhUWE9veHQ0cw?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-07T15:55:09+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Deep Connection",
+   "amount": "$110 K",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$110 K",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "5d9a1440f236",
    "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
@@ -199,21 +218,21 @@
    "alerted": false
   },
   {
-   "id": "c6b0248cffb2",
-   "title": "IIM Lucknow to incubate rural women-led startups, enterprises in UP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXY5RmpvbXUtNGpMS1hJNTZNNi1ub1BpaHJHLWtSMHpESTR5d0RGZzQ2LVo0Y2Fuai1DTlZIamlhb0g3RDdnWE96LS1CZDZReTNMc1VKdmdZcVIyOTExOWFfbHk5V0t1OWdtSnZXcXJ0UXZOb05URU5vQ2NfUktjdG1QX01YYUxvTGNlV1lxLXVHTDd6c1BWVTBsNU84ekRfZUVQWUlTTUg4aWxabHFQT3QxcUs4a0s0ZTl6UzJtVk9rclItYVhzUnFId01iWjRIQUhlLWRPdmFXQdIB3wFBVV95cUxPWXFNSlhXWlBNTnFEMml4dmJtd1VLTnBBWUNYTzRPTmdqbVdIWDZSVHdYeVYzQXJ5bUNmLVg5QWdJUGgwNTZuUGN3RzYwWDlMMUVreTVaY2JuWjE5NExnZkV5a0VjQ0tka0F6c0pXZjM0UTJCdWU2R1R6VC1GWmRTbmVta0t5MjJVZnB4VGp3LTNjZmFvTnI5and3YjRLaHBMWnB4YlAxVnRiOUpsbjhkbHlkYnlCRHpKVmluTy1ONlFhcFVvc0lqd3J5MTg2bExWUkI3dEpCRzJjem1rQmJv?oc=5",
-   "source": "Business Standard",
-   "published": "2026-09-07T13:23:07+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "IIM Lucknow",
+   "id": "f80c4efe90c2",
+   "title": "ChrysCap-controlled Novartis India to buy Pfizer\u2019s blood pressure brand Minipress",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTNTRWp0UmJCRjN2clhTaTRLNmV4UHNuQ3NMTUdFQ3hXTlBqRVRfQ1NuTmp3Vlh3cW9GR3JyUEd2b1ItRm85Q1FId3owLXZoeDJWLU1vY3pMTTF4UlotaVBQQmU3SS0wX3hSaDhfUkxLOXYyaTdUSkJISUVNZEpTdnpvQXd3UUFCQlRiWUloTlYxYWd6UThERTB4VXNRMFNvVzRZalFicVo?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-07T13:19:31+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "ChrysCap-controlled Novartis India",
    "amount": "",
    "stage": "",
    "founders": [],
    "reasons": [
-    "no clear event"
+    "acquisition in headline"
    ],
-   "alerted": false
+   "alerted": true
   },
   {
    "id": "a2c9e4359904",
@@ -7096,25 +7115,6 @@
    "reasons": [
     "funding in headline",
     "$10 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "21dae4b1a105",
-   "title": "Blaze.tech Secures $8.5 Mn Pre-Seed Funding to Accelerate AI-Powered Healthcare App Development",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmtQOUViaVVxNzNGTUY1b2xoSXBQWG0xUGRSSkZCNm54ZkotYjlWOWo1dTNBQndZM053WVN3NzNXZ1Fha202VHdvc3Y1dlhjcS1zbTNDRW1xSWJvZ3VpZVZndklEMGhFcWhSQ1oyaUQ1ZmtIQUNuVGxXVmNXUnBIckRSOWllNnpJTkRZdzkzem1JNjdlQ3hJbVNKeGtnRmdjSUw0OVNpbzZuc1Y4WlF3cHg5d3lVd21KeFVtMEM3dWRuU2ZPQkdv?oc=5",
-   "source": "Digital Health News",
-   "published": "2026-08-31T16:08:50+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "Blaze.tech",
-   "amount": "$8.5 Mn",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$8.5 Mn",
-    "Pre-Seed"
    ],
    "alerted": true
   }

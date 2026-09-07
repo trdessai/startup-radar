@@ -1,12 +1,103 @@
 {
- "generated_at": "2026-09-07T06:44:06.476395+00:00",
+ "generated_at": "2026-09-07T06:58:15.946496+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 67,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "12add1892a82",
+   "title": "Indian spacetech startup Pixxel raises $100 million in Series C funding",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmZFSDlqTnF2VGU3QnJSOHdfbUdCOGlXc3pGZWpLRDZxRk1WUnFadmJOUDBJOXptMjdWNGQ0V3g3QTlSMmpmVEtTZWtXazcxc3JwMnN3T2hONmtKeU80MGx0dElOOGVYeHRmZW5keTQ3RVByeUpMejFBMVJhWUlxTF8zY3B0VnhXZXE3V3hqOUV1cUdhZXE0OTJmOTRmS3ZVdnZDc0FwM0JGQQ?oc=5",
+   "source": "IANS LIVE",
+   "published": "2026-09-07T06:51:00+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 million",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 million",
+    "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f48c18977369",
+   "title": "{Funding Alert} Quick Commerce Food Startup Swish Secures $24 Mn from Bertelsmann India",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVDWVV1dTZfSHdMV1pIQ3BrVHJMSV9mRVFOdGdXb1ZSWUZNRzNwNVFFaWtvZ080VGw1Tlp5eEt3cGFIUTZUU0ZfWjMzb2RyRVFubVV3c0lHV0tpbkc5Q3ZIdm9rQmZ4ZmxwMUpmaE1vOHBWLUgzakJ1b1ZIQ1NQU1JoQThEMlIxV2pDMEowYXV6ejIwUU95NXJKRjNpYWlfaUNyams4eW9xRExGam9ZS1hzMW1GQQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-07T06:50:41+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$24 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 Mn",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "21822c155179",
+   "title": "{Funding Alert} Pet Food Brand Lickicious Raises Rs 19 Cr to Scale Manufacturing and Growth",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXVITHZIdmg4MTJwal92c0JyQm12MU9OS09CX2syYmhVQjE2d3RfOUdDZG1FdldSbjcxclhJMmVhQnFtbHNILU1PRWYzVGotSmRRLVMzcFJ0aW1pQlBJaFpKMXE5VDc2dHFOZmhnaUZYMVN6VG1QTTNpWkVJQnRrcGNEeGhZenk4WXllY3VQUEQwaEpQbVdSQkg2QndIbzM0cVRQdEgxZmFvZzJMcDNmUnhPQm9LUllGQzN5RHFwNA?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-07T06:40:39+00:00",
+   "score": 63,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs19 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs19 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "68defc7a89af",
+   "title": "TCS Plans Rs 70,000-Crore AI Data Centre in Telangana",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVpDdUJsVkE2X29ZejdCU3VSNV9kdlNVOUNVZEJ4QlJ3T3RNanVCSlEzZXZ5aVl2RThmZ1V4ZERXQURpTkRWOVJqSFhiUDhTS2U2Uk9UVXhsWHFfMWlWSkJsNy1xQVNhMGZCdnRrby1NeWd0eFFack1ZeWdUbGRTSlBLM24?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-07T06:31:54+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "TCS Plans Rs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "63a86bcde019",
+   "title": "Seattle Times, Newsday sue OpenAI and Microsoft over alleged use of copyrighted journalism",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNem9BMWxhNmgybnRyU0xScUphM0wtNlg2NzFEOG5wcmFUWG45YnV4UDE3NEpxaTNyOHB3VGNxNXFsVHF2SWVsQnVzMmxTLXlib0ZMR1FjeEk5MVZKaEMxY2VjQ0hTSlpiNVpyX3hxQ2pJNV9Jd2JISUhlNmRQR1BPU1pFaFF1RnZnbklGNlZHWQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-07T06:25:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Seattle Times Newsday",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "683857541176",
    "title": "Exclusive: Swish to raise around $24 Mn at $175 Mn valuation",
@@ -22,60 +113,6 @@
    "reasons": [
     "no clear event",
     "$175 Mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "90ccb5d90a67",
-   "title": "ESDS Shares Hit 20% Upper Circuit For Second Straight Session",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEVLMWprTXJsQkdrY3huZUVSR2ZGc0lMY3J0U3VraE9MNXRvd2ZrYlk3end0UTU2VTV5OUZlRndhTmZDNjAtYlFnazZmMm9ELVBwWGx0ZHBrOXc5MWRTMVRET3NKZDlCY0JTSHJzVlR4SnZacVhuSGFsSy03NmtoV05DNFVjYmZFdTcxRA?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-07T06:23:23+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "ESDS Shares Hit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4167485c813e",
-   "title": "Pixxel $100 Million Funding: Series C Round Explained",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sQjh4MFRneXl3NVdZdnZodW0zQUNyZzVKc3pINXNRVk8yR0NjekhJTDVfN29vLWJ3cWFjYzAwcEpMN2RXRTBkY2dERnlyODV2SUplb3hZZHdudy0wWmZEaldqZ0NETEFoUDc0?oc=5",
-   "source": "Business Outreach Magazine",
-   "published": "2026-09-07T06:23:07+00:00",
-   "score": 42,
-   "category": "funding",
-   "company": "Pixxel",
-   "amount": "$100 Million",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 Million",
-    "Series C",
-    "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c9faf0f31b80",
-   "title": "From dance floor to war: China readies humanoid robots for combat",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-dance-floor-to-war-china-readies-humanoid-robots-for-combat/articleshow/133867115.cms",
-   "source": "ET Tech",
-   "published": "2026-09-07T06:15:17+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },
@@ -96,24 +133,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "897c97d49e34",
-   "title": "Media Buy, DIY?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVzZWZk81VHBNSExyNGxmZFNpOUI3SDZRNGxuMi1idEhnMmtWZ0M4QlNlM0lJUGhaSTdpXzlobjBlc3BYS0NzazZsNFNFX09aM3AyZ1FaT3VEWlhkdVdqcnU2b0YtbkJMdVpXaHowWXpFQQ?oc=5",
-   "source": "IMPACT Magazine",
-   "published": "2026-09-07T06:02:11+00:00",
-   "score": 49,
-   "category": "acquisition",
-   "company": "Media",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "41e69cff1219",

@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-07T02:45:28.216221+00:00",
+ "generated_at": "2026-09-07T02:53:43.965804+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 3,
+  "fetched": 35,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "5c960bc7f80b",
+   "title": "Indian space-tech startup raises $100 million, to 4x satellite production at home, expand in US",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmtLdHR2YlU5Q0x0cG82Z2E5U3B1ZWt6RHZjcHY2cTdWMzRsNjNZejhKUGJtZVFKNDFHWDZBOF9URXg5elhmaHNudGEwdlhROWtLWDZCX3haODBOUnRHODh5Xy11eTAyVWNJa3U1Ui1aeVhHZjV0amsyeHBrLTg5OFE2dnJFUEtiRWNCZGEwQlpneDVFajlaOFczMFQwTUM5Nng1MFRwY3ZGUlFrNzczRHpVZWFoVDAxNVJZUExlbmhMeDdnWVo0Njd1VjhRSjJLTEJnbtIB2gFBVV95cUxQLXR3UGdxNzlObFdOd21taXVqYWZRUTFiajluX3dRVzlELUNOVFNEcFFnZGp2ZlFYdjVDRE1hWlVXeElpUllNWGlWUkF4M0RoX250enFhN1d3aDhCRlZob1AtNmI1SERhcFhMZVI2QVY2ejNMd3BJQVhxS1doWE1FbWY0MkUxT2RrRUJFR1NmWFN3X2JFMTJCTktIb2tHUHVaVFlXdWFLQVFKS3lQOEhrbmpsendjR0IzeGVEOTg3b0ZjeV9IX2F1T2RrZ0k4Y3paUXdRYnBZQUVZUQ?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-07T02:42:36+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$100 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 million",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "b3e1d2f586f8",
    "title": "Moonshot\u2019s massive IPO means Chinese AI companies need to start making big money",
@@ -129,6 +148,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "5ab203115f31",
+   "title": "- inc42.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFJTll3cml1ZUVUUlFWNGstME03bmgxM0pEZ3gtb0g2WlVpNlpXVnhDSVBMM0tBT2ZNLW0tZGR1U3FqYldLV1lLUlo4YWdzV1ZQVEdPTTM4YklHS0Q3T3hLWWkzYmhrWjBmSEIyY1VlZWF0U0NreVgtemlySGp4ZUtBTFZyVUN4MlF6bkU2SHoyMmxsSHJlbngtMmM1cGFzR1IzSUpVdmYxNk1feXVUSFVfUlo?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-07T01:43:59+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "4497033f3272",
@@ -433,23 +470,6 @@
    "alerted": true
   },
   {
-   "id": "d1554745c4d2",
-   "title": "Focus On Tier-2 & 3 Startup Powerhouse",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDQydE51Ml9QX3FLTjZBVVRidHpSR3daY1YxY2RRcV9iWEpfdmI4ZDl2emRvaGlSUGpLbVBNV1dkZEZxb3AxZG9YZkJFMDZvZng0ZlJqdVgzeXVlckRoMjFvMUtZSlJETGVCVkJTZWZkbERzNTU5TmhTUWZEa3pmSHgwVU1qZ1dwZUMwYlhR?oc=5",
-   "source": "fintechbiznews.com",
-   "published": "2026-09-06T18:19:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Focus On Tier-2",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0fae16f7018a",
    "title": "BJP to launch month-long 'Seva Sankalp Abhiyan' nationwide to mark 25 years of PM Modi's parliamentary political journey",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ1VWeTZidG5NeDREQUVfRDRNRnQ2QzFEWlB1b21ZQmdVTWJRMl9jcnlLYmNmakxyMVN4QWw4Qm9VTTc2R1l4LUQwZ1JyR215U2VaZDBfWUxWYXVycUo2SE9jSFdPWm9oYm9UQmZzcUhQd1JfZ3AwYzE3TmxqNE8tTHhsVzA3Sms0cUY3bFlrMllNNXpILUt6a1Zmb0RxYmxBOU9IOFZ3d0FRRmJHNXc0Rm5GcGxlMGJPR0xNR3dqcms3bF92UGRITFY4MW9FVzMyLWtPLVB3OEhzUlpSak5qaGpzakgzcTlWNkllWVFydw?oc=5",
@@ -465,23 +485,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "36998c9b9822",
-   "title": "IN-SPACe Chairman Goenka says ISRO's role not diminishing, remains bedrock of India's space sector",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUNPenpMOHdIQm1EcFVFemNRcDh3bVpWWkFUd0JCOTYxUTBmc0Ewa2dmYS1Uc2g3c215QndCaTlWNEwtdkQ2UUV3aUZ4N0JfQldJc0M4cUY0amoxSGxHajJrSjNTdG95RXZqWWFOYVNPZVNqd2JiRWZhanBudFN4ZFJXTG1la3dLTFZWYjVQRTA1aEtRcG1SYzR4a29mOWNvbGE3d2pHdkwwVFVmVEpBYmhRT3VNdmcxUEMxYk5pRWZabHJDcTNpNV9GWjZjQkVa?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-09-06T18:12:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "IN-SPACe Chairman Goenka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "8f34fcd98300",

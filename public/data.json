@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-07T15:19:20.651055+00:00",
+ "generated_at": "2026-09-07T15:31:33.615799+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
-  "fresh": 2,
+  "fetched": 40,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7081,41 +7081,6 @@
     "funding in headline",
     "$8.5 Mn",
     "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3d060205df8d",
-   "title": "Meta defeats Instagram shopping monopoly lawsuit for now",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-defeats-instagram-shopping-monopoly-lawsuit-for-now/articleshow/133657047.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T15:29:04+00:00",
-   "score": 62,
-   "category": "launch",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c6e322b14212",
-   "title": "OpenAI says Indian advertisers to get direct access to ChatGPT Ads as ad business hits $1 billion ARR",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-indian-advertisers-to-get-direct-access-to-chatgpt-ads-as-ad-business-hits-1-billion-arr/articleshow/133656979.cms",
-   "source": "ET Tech",
-   "published": "2026-08-31T15:25:05+00:00",
-   "score": 65,
-   "category": "expansion",
-   "company": "OpenAI",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "$1 billion"
    ],
    "alerted": true
   }

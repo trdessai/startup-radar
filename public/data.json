@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-07T02:53:43.965804+00:00",
+ "generated_at": "2026-09-07T03:01:52.124432+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 35,
+  "fetched": 40,
   "fresh": 2,
-  "alerted": 1
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "5dce8eb02fb0",
+   "title": "Pixxel Raises $100 Mn In Record Funding Round Led By Temasek, Seraphim",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzVFcFltSjVSUWMxWHl1VExIa0ctSGZaRTR1SGdGY0w5V1F5aURscjJkcDIyWWR0N1dNYl9jNkYtanQtY25KZWtyUGhjS3AxNDBYdEFrQnZTb3pCVmxJay1wOFdLZW1RV3VGT1doLVlGMXNkdFRjWGtBaTRaZERrRE56UDdlbnVZb3NINUpPcThyNmo0dEthSU9LNnhoTjRoVzhrVnJLeWdEVG1RT3k2UW53?oc=5",
+   "source": "BW Businessworld",
+   "published": "2026-09-07T02:49:31+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Pixxel",
+   "amount": "$100 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0c3ebe238034",
+   "title": "KE Bengaluru chapter launches six-month 'Startup Builder Cohort' for aspiring founders",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03TFcydkVtSDlEakNnZWdhMHU4dExjSldzVmlsbHMxTDV1R3FYcjlVS1hWX05ybnpCeUlVMDl6MVUxRnhVZGpIck0xOHR6RkVOVWY5Zm9Hdk12Yl9ScHFicUR4VlRRUjFKT3djbDRKQXBTR05ncHBN?oc=5",
+   "source": "Daijiworld",
+   "published": "2026-09-07T02:46:41+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "KE Bengaluru",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "5c960bc7f80b",
    "title": "Indian space-tech startup raises $100 million, to 4x satellite production at home, expand in US",
@@ -412,45 +447,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ade2b5401a9c",
-   "title": "\"We can certainly grow together\": Australia's Connolly on expanding space ties with India",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGNDQUxfSXVfeUZVcEJ0RXJkR3NvbFBkQnpKeGRSdHo1Sm4xOTNmVjlfOFZDeTZ6VDJMVDZ5QnItMXV2MldremxRVDh3TV90SnFLeENyeHRkRXZuWmhrTEhxOUR0OE5kSVVUc1ZuUTJLNTJ0aGFjMEFyVkVRYjNPRTZWajl4NjBRZ3d6QWJQcEJpYmlZMlA5bHgtMVBhMlRiODQxYkNqcG9Xbzl2ZXNIc0JMMzZFYy1SWjUxbzNLMllmU3dt?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-09-06T21:00:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "We",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "61b2b4d8587a",
-   "title": "Karunakar Gautam \u2013 Founder, Frameloop AI | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT0xUYUhTUWlyRGpTQk9wUVMyZVN3TWV5b2hscVU4T1huYm1mREJUWU5tOWJkTFB4c29DekkxcUJKbngtNE1wbVdjNHZybENzUE56NGwxTG1iRkdqQ0tmTTMtMnpJdFZ0Y2tnZm9RT043aG8zSXNCME4xZ00wZXpoRm9BSHppOV8xbmV4UGZVdklkeVFRZTVoUDZJNzdEdERzQ2E2TTA5YTFwMzJSZE5qSUdIcWJaSEdLdjJ4U3U1OTRxMFdUQU1vbm8xWkdBd1RBbkdVeU84ZVFzVUg3SFVZNW9PbDc1TnVudVlENElodmppZWp5?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-06T19:51:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Karunakar Gautam",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Frameloop AI",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a89068504d28",

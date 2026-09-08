@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-08T22:18:30.075651+00:00",
+ "generated_at": "2026-09-08T22:29:03.512325+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e8add75d02fa",
+   "title": "San Diego AI startup Ollie secures $7.5 million in seed funding",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkEzTmtBYTJjMjIxdG1GdWZpNW5KN0dOTlZ6bHpVeDZWUHF1WGw1c1JhRG1VV0tBNnRnZGs4MjQ3d1NXMzNLVEdhN0JYck1laVB0cjdSZVRNSFdWdUdQa0x4ZGFIUmVTYlVMdjl4X0xNUElRQUxaZnFxbFdGeXhmd2tHLTg4SjdTLUt6dml3WVlWdHRLZDNHSWkxeTVESFVQMVlHcTZXYXladEl3aE1mbEVuRS0?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-08T22:22:21+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "San Diego AI",
+   "amount": "$7.5 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$7.5 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "d47be04001b5",
    "title": "Where Cars Meet Culture: 6 Automobile Collaborations Turning Heads",
@@ -535,24 +554,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "2ea96fb58685",
-   "title": "Indian origin tech entrepreneur to launch luxury travel concierge platform Vaultfy",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcGhnOVlRUTh6d2FjUWpqcGp0SExHZUtTVG5VeVkyV2pMN1dwMF9BeV81czlrdzE2Zm9lLUtEQkZENkRPRzdTN01rWThWRnBsS1hPbTBPb3RvVXpvQlJ1OFhZU1VCdFN4bVc4TDZmQzFYcHE1ZmItV3JZRUtRSDJWdUpqZ3h0NHFTbE1tbnRBejI0OXF6Y3lnVmlHbFZHMURrNUNnZW1jQ3NuTXpSY1BjbDFQOVZRc2QwQkgzMnZESVBuaVNBaXVFY08ydFFoalhlZ3NYSXBzV2lWbldIbkI2UzBHd0dZUGlKc1lpVUplRDBfbmJPdk5DRtIB-AFBVV95cUxQcGhnOVlRUTh6d2FjUWpqcGp0SExHZUtTVG5VeVkyV2pMN1dwMF9BeV81czlrdzE2Zm9lLUtEQkZENkRPRzdTN01rWThWRnBsS1hPbTBPb3RvVXpvQlJ1OFhZU1VCdFN4bVc4TDZmQzFYcHE1ZmItV3JZRUtRSDJWdUpqZ3h0NHFTbE1tbnRBejI0OXF6Y3lnVmlHbFZHMURrNUNnZW1jQ3NuTXpSY1BjbDFQOVZRc2QwQkgzMnZESVBuaVNBaXVFY08ydFFoalhlZ3NYSXBzV2lWbldIbkI2UzBHd0dZUGlKc1lpVUplRDBfbmJPdk5DRg?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-08T14:00:00+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "0c042ebc7ef9",

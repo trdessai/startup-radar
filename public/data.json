@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-08T14:59:31.220024+00:00",
+ "generated_at": "2026-09-08T15:12:16.980140+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 49,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "3cdd08c8d223",
+   "title": "Tazapay to be acquired by Circle in $400M stock deal",
+   "url": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay",
+   "source": "YourStory",
+   "published": "2026-09-08T15:05:22+00:00",
+   "score": 83,
+   "category": "acquisition",
+   "company": "Tazapay",
+   "amount": "$400 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$400 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9eb9229b9a59",
+   "title": "'Father of the Pentium' returns to his professional launching pad",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbmJURl9uZi01cTh4ZnU1NGw1REN2c0J5Nm04bWltbkxXN1duM2dDRWV5S1RqUUYwQzY5OEVfQkVkSHMzeE9kWTB0ZjltRHY0QkIwZU9lOGJVeGQ4MkN2QzVTT215UQ?oc=5",
+   "source": "University of Cincinnati",
+   "published": "2026-09-08T14:47:04+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Father",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "6eb01a282e3b",
    "title": "Why is EY giving employees \u20b9800 crore in bonuses? What does AI have to do with it?",
@@ -632,41 +667,6 @@
    "reasons": [
     "no clear event",
     "Rs592 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7678bea5dff2",
-   "title": "Indian Soonicorn Tracker: List Of India\u2019s Unicorns Of Tomorrow",
-   "url": "https://inc42.com/features/indian-soonicorn-tracker-list-of-indias-unicorns-of-tomorrow/",
-   "source": "Inc42",
-   "published": "2026-09-08T10:45:33+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Tracker: List Of India\u2019s Unicorns",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a9484f114d74",
-   "title": "Retail India News: Amazon India Crosses 20 Lakh Seller Milestone",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjlvaC10MVFzeGZBTWJUNlNGLXg2blRTbnJHMUtKZUJGVldLcmRiYjU0MlRDcXh5bUNYRlV3LXhlTUFrVWlESk9uTnNBaU4tZldBdDBucmZNRUk0ZGR4M2gtRGF2Z3RLQjBPSV91R2RFZ3I2QTYyejc3U3hxOHhxb3Ryd1lOSGVDM3kyaU83Um9BX05GbjdJc3VGZld4ZjJl?oc=5",
-   "source": "indianretailer.com",
-   "published": "2026-09-08T10:41:15+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Retail India News: Amazon India",
-   "amount": "20 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "20 Lakh"
    ],
    "alerted": false
   },

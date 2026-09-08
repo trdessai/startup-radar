@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-08T21:01:43.040071+00:00",
+ "generated_at": "2026-09-08T21:17:20.131394+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 0,
+  "fetched": 20,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -120,6 +120,23 @@
    "score": 18,
    "category": "other",
    "company": "LYNK Logistics",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "96d55389540e",
+   "title": "Sabarimala - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TU5qVGh5X1hNUjB2RS1acnFWY0JLX0RzZDBSUTlLbG01eUdaV1B5WlBuRFA3NEtqV1lkRVUzNlA0LTNpNGt2QmVRWlE2QlNvVG1r?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-08T19:28:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Sabarimala",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -573,24 +590,6 @@
     "Pre-Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "796d32b3409a",
-   "title": "Kuku to build 1,000-member AI team ahead of Rs 3,500 Cr IPO",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3ZFUjlnS2pUazROS2E0TjlKbi1SMkhiQlVLQmFwU0FlZHpoeEk5ekNUYUdQV1F3eHNIZlp0dFY5cjBtM1pVS3gwbUN3Tk95bHV6RWhiZmNETlhianBtSk5xQjNYY3RYY3BQRHNrdGFuZ2Z1WnNNOFFxMmJRa0hkbE55RUpaR3dhTHZJNU54NjAzenJURlRB0gGXAUFVX3lxTFBXdkVSOWdLalRrNE5LYTROOUpuLVIySGJCVUtCYXBTQWVkemh4STl6Q1RhR1BXUXd4c0hmWnR0VjlyMG0zWlVLeDBtQ3dOT3lsdXpFaGJmY0ROWGJqcG1KTnFCM1hjdFhjcFBEc2t0YW5nZnVac004UXEyYlFrSGRsTnlFSlpHd2FMdkk1Tng2MDN6clRGVEE?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-08T13:56:13+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Kuku",
-   "amount": "Rs3,500 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs3,500 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "958a9ce11905",

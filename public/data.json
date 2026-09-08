@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T04:55:17.349206+00:00",
+ "generated_at": "2026-09-08T05:01:58.222054+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
+  "fetched": 21,
   "fresh": 1,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "e2880ace0b6b",
+   "title": "What SUGAR, Nua, Pixxel and others reveal about startup funding in India?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUlHdlVJY3NyYXphTHltMFE1UmhZRHQwdm1vT3J6dVlPR01NLW1uZy1TallkWHRubnZJY2V6NEtvbGdXX3oyZFNERlB5akJhcXI1LUc0NEx1czhDemg0UDU5akRULUxXbFRhdE5fVVFpU0dNeUxhMVVwT2FxTDI0bGhPY1NrOTM3MW1wTTNoVm9RclBJR3dRdWxsSXBOSFZfRnREZ0xYWnQ5S0piLXRsTC1oUGg0V0hTTnptS0RQUUwzck1YZ0pBN3JMQlM5bmxi0gHQAUFVX3lxTE5VSUd2VUljc3JhemFMeW0wUTVSaFlEdDB2bW9Pcnp1WU9HTU0tbW5nLVNqWWRYdG5udkljZXo0S29sZ1dfejJkU0RGUHlqQmFxcjUtRzQ0THVzOEN6aDRQNTlqRFQtTFdsVGF0Tl9VUWlTR015TGExVXBPYXFMMjRsaE9jU2s5MzcxbXBNM2hWb1FyUElHd1F1bGxJcE5IVl9GdERnTFhadDlLSmItdGxMLWhQaDRXSFNOem1LRFBRTDNyTVhnSkE3ckxCUzlubGI?oc=5",
+   "source": "bestmediainfo.com",
+   "published": "2026-09-08T04:56:27+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "What SUGAR Nua Pixxel",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "b39168137516",
    "title": "Australia threatens hefty fines if big tech fails 'duty of care'",
@@ -7043,61 +7061,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e1442c6eace3",
-   "title": "Spacetech startup Kepler Aerospace raises $8 Mn in seed round led by Blue Ashva Capital",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGx3Y3llVjhLOHpkZDFOcXdfN3JMc2otaUdRd1YxT0dXeGc5NTUzbFRaWU56elAtdTNIb21QRUdaa2F5bnc3VmVMOWN3VkN5ZndIektpckU1bkNnWWljZWRwQ0lvQkxNN0MwNnEtWmhwelljWjNfM1BWRV90bmFwaC1xTElUanQwTW5zT2lVY3NvdEs1S0lScU5ENDlLTWRoQW5pYVpBWHR2VzFZX0ZwTEk2Y3N6Q1haM2VGZFZB0gG-AUFVX3lxTE5EbHdjeWVWOEs4emRkMU5xd183ckxzai1pR1F3VjFPR1d4Zzk1NTNsVFpZTnp6UC11M0hvbVBFR1prYXludzdWZUw5Y3dWQ3lmd0h6S2lyRTVuQ2dZaWNlZHBDSW9CTE03QzA2cS1aaHB6WWNaM18zUFZFX3RuYXBoLXFMSVRqdDBNbnNPaVVjc290SzVLSVJxTkQ0OUtNZGhBbmlhWkFYdHZXMVlfRnBMSTZjc3pDWFozZUZkVkE?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T05:01:02+00:00",
-   "score": 91,
-   "category": "funding",
-   "company": "Kepler Aerospace",
-   "amount": "$8 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$8 Mn",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c9fe4af4890a",
-   "title": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network",
-   "url": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/",
-   "source": "Inc42",
-   "published": "2026-09-01T05:00:57+00:00",
-   "score": 99,
-   "category": "funding",
-   "company": "Yuma Energy",
-   "amount": "\u20b9333 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9333 Cr",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "113f885b1858",
-   "title": "Gupshup launches voice AI platform for businesses",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlFxUzZfMEtzcEpKN0FHSHpXZThZelFxVjFLeXludmlXYmtCVnZMMXlDajNlLVlVS3JYTzg4SjA5RVJnbTYtY21DZlpQbmJ5YkpkcEFLSml6VFRUeHhBOHNYbkliWkcxVUk1eGIwQ1JNRWxiOTgxX3JlVHBFU0hwUHliczA3YVVKWDgwRDZhOUw4b0VfVFhvZ0VyMVNFT092SExSdFNCeHlLSkp5TzRNbjFuMjVnY2hK?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-01T04:57:00+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Gupshup",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

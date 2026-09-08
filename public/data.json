@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T15:12:16.980140+00:00",
+ "generated_at": "2026-09-08T15:30:01.437652+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 46,
+  "fresh": 3,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "28fe796355a4",
+   "title": "Circolife Raises $4.5 Million to Expand Cooling-as-a-Service Platform",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1p4TUFSRHBNUjN3LWdOQURjYXZPSFdfU3NHODA0Z05SUnlLdW5VYzlIU1pZZDNVVzcwRmpTNUdFNHFGbEdSbXFfNU5HQzN4c1JGQVc3SmtYWjc4SVdieW5fWHZIUmROYTBkVTlsSGgwR2Q0b0R3b09hZENKNU93RmlmVVFsMzdKOGhCRjlJVjl6dHRCMElYVFU0azNzWTY4SXhkQ252d2xqT01ONWphdFEzU1NKUQ?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-09-08T15:12:18+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Circolife",
+   "amount": "$4.5 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.5 Million"
+   ],
+   "alerted": true
+  },
   {
    "id": "3cdd08c8d223",
    "title": "Tazapay to be acquired by Circle in $400M stock deal",
@@ -93,6 +111,25 @@
    "reasons": [
     "funding in headline",
     "$1 Million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "854a59fd10da",
+   "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjBoU2Z3X3ZnR2hDTm9QYUpNVjR2aTh5X0d5U3JmZnNrUTVKSF9zb1lLTG9GalVNYmdndEFPZnZ0cnRiWHRycUx3WU1qeTNJakZZdnpoZ0dxQ1U5VlVTMi1lY3NFbi1UazlxNnl6QnZ3QjVJY1hmU2tTY0RyUklBYzVVdXpPYUpIWXZIanF0Z21aRHppMmQ5QjhudGI4OFdYVGN1SGF6RUZJVDZPNDB3M0VieHNNWUx1?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-08T14:10:17+00:00",
+   "score": 93,
+   "category": "launch",
+   "company": "Nuclear",
+   "amount": "$50 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$50 M",
     "Seed"
    ],
    "alerted": true
@@ -429,6 +466,24 @@
    "alerted": false
   },
   {
+   "id": "86fdc104a34e",
+   "title": "Finnish Creoir secures seed funding to commercialise its defence voice AI products - ArcticStartup",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
+   "source": "ArcticStartup",
+   "published": "2026-09-08T11:37:17+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Finnish Creoir",
+   "amount": "",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
    "id": "54c98b4f2565",
    "title": "Oppo F35 5G Series Confirmed to Launch in India Soon",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1ZxNVJFUUZ0ckFIMG16STFDTktIUHlRWVgxM2JFRFZ5S3cwcG04MnJsdkc4c0NsWHI1eDhTV1Y5LVNIaENTbENlVjZrZ3BHOU5TWjJQX2w5eHNaVjEzV0RNLW9PQkxnazA3ZTVkUDNScTRSbVlHUkwzaGVHLXRjYUZnWWZMQUMzY0F4cXNaUVpZOENwMy1OQnV3dkllaE5YTDcxVk55M2U2aEdlbThBSXpLa25ud9IBuwFBVV95cUxQOU14QlUtaXJTaEdzU1RqTVJRUzhoR05lcXVkRl9OOUg4d0dMc0xyYTNWeTFCOHhMM0QxZ1dGcTR4RjFIVXVrU2x3NVJoQnhsTFB4aG9TTmFOaTVFYlRWcFNZVzVEbXZjV0l6SFBTM3FiQzVvci1aeEJlM0FOSVY3OUQ2amw1X2c0dUU0TktyVkhxOGxxVVFUQ2RXZUcyRGJoSDhPb0VXeWRKQXhrU1dJVW1nbkJxZThuakFN?oc=5",
@@ -614,59 +669,6 @@
    "reasons": [
     "funding in headline",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d3f43240d915",
-   "title": "10 Books with tragic endings that stay with you forever",
-   "url": "https://yourstory.com/2026/09/tragic-ending-books",
-   "source": "YourStory",
-   "published": "2026-09-08T10:50:57+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "07decbd4988d",
-   "title": "From Mamaearth to Phool: Shilpa Shetty, MS Dhoni, Sachin Tendulkar, Alia Bhatt among celebrity investors t",
-   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNS0Jva21NMWhFNUZabXZrRUJUMHh2S0RtbXgxMVBWQUprX3lBV0NrRXFrZGdXWnJDWHMySkZtREg4ZUpLSlE0SmdEYU9ObTNzR09uR0RwdDVTZWpEc2dWN3QzQjJneVZUTmdYb1Q5eERSMDVBMlN4Xy10VVVQTlFVV1haSTRReUZaZ05jRFpDSjA2ekdTa1lHWWdLNWcwVVZOSWFWZ0FMWlcyTmtVQnRoUUVYZm9iZ2UtRi1WN2tiVG03aW8yclVrV3duMEZ0UHhRWnZuNTJiUUduUGZVMHA2QjVIX1VBY1VEamFUNGZPWUpWcmI1d3hjbURsclZHdDNPYXV0dF9GWjlMaExpbVVYNV9rWDFteWZYbzhHenpiQktPb3JwSV9MOXcyTXc4U3FWM3d6RURJVnVZQ3RpNXNDT2c4aUt2aWNQSUswcFdjSDN3QUdqYzVEUVF0d1FoX2RLVkVOcE9WMExEQ1otTVBTRkIyQTl4N1BfUElCSWtzZUxHYTB50gGgAkFVX3lxTE1uQ3NPdDI0bkFzRVFIcEU4TGs0NHkyc2dNa0hLVTNaQjBkdlMwaktTVTVNWlQwWUQtdHpRMVV0bnZzdXB3VDN4RFRScUdTUE5yT0hSSWxxdTVvMXpuZ1dYbmY4QkhQZW90elJqLWJEZ0VRX0xkeUt2VHNIb3d0YnItVXd6YUlTdFJUcVhab216WEc3dUw3OWdLaWd1dVA0alJFYXZHazA3a3FENFJSY08wUmxmSkVneFl4RXlaTF9YVkY4MDN5OEdXa2ZHOUVDZG9BY2N5T3RsU0c1RXEwX3hMbFNzWERaaFB5MXZfN1ZYRVBHVjdHMk5RN0ZuUmhWbXhmaGt4TWE3Z2FoanBpd3ZMV2pVT0lUVkRHUG5Sd0dSMg?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-08T10:46:08+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "From Mamaearth",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cf5ea309598f",
-   "title": "Shiprocket Narrows Q1 Loss by 24% as Revenue Jumps 34% to Rs 592 Crore",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82aUM3alRQem1iekFST1lMd0VMbVJUMnZ3clpoTEhPWEY5UlNEMlc4d0RZbVFoVWs0bGVpdnFZd3dxYTBjMWh0VVpWaEd0Z2dtRFBkNEtFQWFfWl9hSFZxd0kydGM2UVNXUU90dy1jUHdUajA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-08T10:45:35+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Shiprocket Narrows Q1 Loss",
-   "amount": "Rs592 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs592 Crore"
    ],
    "alerted": false
   },

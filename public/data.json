@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T16:03:13.194341+00:00",
+ "generated_at": "2026-09-08T16:21:40.599383+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 40,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "81afc5812289",
+   "title": "Adani Enterprises leads rush for \u20b937,500 crore coal gasification scheme",
+   "url": "https://www.livemint.com/companies/news/adani-ntpc-talcher-fertilizers-among-five-applicants-for-rs-37-500-crore-coal-gasification-scheme-11788878908476.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-08T16:03:45+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Adani Enterprises",
+   "amount": "\u20b937,500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b937,500 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "628e503a55b0",
    "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
@@ -40,6 +58,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "55a7e70394b6",
+   "title": "DigitalPaani Raises Rs 22 Crore to Expand AI-Powered Water Infrastructure Platform",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ1F6cDdMM2RYTjY1LVVvcFJVWUlrS3dtcWx0U3FReWtPYjJrQUd1cnZrY01SX1RkVXFESTMyNHIyY0MwdENNZVZDWTBnUlotdGhvWFJ0VEFLQkxYNE5mb0p0cldJMWtiRXBXdWNJYndFWXlSamVqWE05b2xuXzNjVU4wczZGU0twZWY2QmRXVFhlQ2R4RmVVWlFJaFVhU1NKX01FWDJuZnhvNm5oS19jZHRyMUt0R2dBaXVBOS16bHJrQ0d2dHNpWg?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-09-08T15:41:20+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "DigitalPaani",
+   "amount": "Rs22 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs22 Crore"
+   ],
+   "alerted": true
   },
   {
    "id": "28fe796355a4",
@@ -597,23 +633,6 @@
    "score": 23,
    "category": "other",
    "company": "Gaming",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "df38acd658e5",
-   "title": "COAI and BIF haven\u2019t made stakeholder submissions to TRAI on network slicing",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTAxVkg2bXlnaC1uR2swVlJLZFd0TGZMcjFIVF81amJSOHctZmFtTERURDI3aElJLTQ3M1paZ3pDNzBqdmZnOTVIQ253WGYwaDR4dlVEbHhrdGhSeEZNRDJSemRxNHhBclZqZDlGVGRFamZ4SVVZR1RPS0RtbnVBdXZjS3ZmZ0U?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-08T11:35:40+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "COAI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7069,23 +7088,6 @@
    "reasons": [
     "launch in headline",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "52ee4880c5ca",
-   "title": "Masters\u2019 Union Secures University Status From Haryana Govt",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHpYWEJ4RkcxSmxhSG5YMXVra0h2eGpYMUNPQUZHRElScGpOWVZHeHFLazFTbmFpSm0tZWlIci1ldS1xc0pnMmRNV3BCRWJOeVhPZldoY2M0VkhLVURhcTJDZlRocC1VdTJEOTFaOG9GRGdwSnpETEhJanRrZEFTN1h0akUyc3ZD?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T16:16:18+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Masters Union",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

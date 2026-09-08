@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-08T17:30:08.074774+00:00",
+ "generated_at": "2026-09-08T17:39:26.794571+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 36,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "11e9402cd188",
+   "title": "Celebrities back 49 startup rounds worth $458 mn, 55% at seed stage",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmttY0FnZ2k2UlFreWYyUk53X2xJRVNDMTBvcTFscXByY2JuZVlSNkJuMzJNQmxzTHdKaFNZdXlpblEwNlVQR3pvcGEzcnpOaUdVVjhlakFOZDA2ZjR3UGp3OE5MTnJPOE01NHpWdDFqei0yMVZpU0k4TjRHOE1zRU1JbzV4WkdvYlFmcW1IMXcxOUtmNVI1ZUhFeWdmSFhTcmljMXR6QUV1TURkdjBYTTkxUy1nT2cxZTdpMF9LU3Q4WmdqUVJBVm11Y0VPb1g2NTFPM0FDMFJIXzQ3eExRbEtIZk_SAeoBQVVfeXFMTkF5ODNidEZsS05wcnhyeURyYVJJMlZwWXlFTlgwYmRrcHlkbGY0c0NvNGZHaGtSVnMxUFJxOS01Vl8zSlJBX2t0cHVEOHY5OFRSdWVES1ZnelN1ZVRvN1JuMmFsX2RYZHhlcnVxSkhFNWNweUFEOENna2s4b3J1NldMNjhLdWZEbVZsS1hFRmNvTVY3UU0teE5rRVBzSmxRTi1zNF8tRGNINXJGaWJ3cDRzcmpmcWh0NFpmcGlBRmV2bkhZaXQxNTBDc1BVcThTa0hsd3c3bVQzR2F6QUdRUTd4Q3BYeURVTmlB?oc=5",
+   "source": "timesofindia.indiatimes.com",
+   "published": "2026-09-08T17:26:00+00:00",
+   "score": 53,
+   "category": "other",
+   "company": "Celebrities",
+   "amount": "$458 mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$458 mn",
+    "Seed"
+   ],
+   "alerted": false
+  },
   {
    "id": "e3eadb48bba8",
    "title": "Cylake raises $250M convertible for sovereign, AI-native security",
@@ -146,6 +165,23 @@
     "Rs22 Crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "2fa8c6ce25c1",
+   "title": "Flipkart widens lead against Amazon as quick commerce surges",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTVlYU5IYU9valk1OGFDVE9MMzdXaDFTV19majg4WUVNVU9XU1FNYTRSWEgzQmEyUWl6TTM0ZlVZT09lZjVteTBEanZfZlh5Sm5DQkROOTJZbkRjNVhIVE5BSGMtVlJ4dWxIRU9oR3hjeVkydHBXYzJEcUFlTmV5ZmlZZ19rTVJscm50cUtYRnpHbVNyN25QVEpmMjZ2eDdnRVp4TWZLM1NoWHdiR0lJNmVIbGZZdlJWb1RqaHZjbnJ0YUxjY2ZrRThObXZlSUY2WHdReHY5dkRXRkpUcGpLLWhfQk3SAeQBQVVfeXFMUC01ZWFOSGFPb2pZNThhQ1RPTDM3V2gxU1dfZmo4OFlFTVVPV1NRTWE0UlhIM0JhMlFpek0zNGZVWU9PZWY1bXkwRGp2X2ZYeUpuQ0JETjkyWW5EYzVYSFROQUhjLVZSeHVsSEVPaEd4Y3lZMnRwV2MyRHFBZU5leWZpWWdfa01SbHJudHFLWEZ6R21TcjduUFRKZjI2dng3Z0VaeE1mSzNTaFh3YkdJSTZlSGxmWXZSVm9Uamh2Y25ydGFMY2Nma0U4Tm12ZUlGNlh3UXh2OXZEV0ZKVHBqSy1oX0JN?oc=5",
+   "source": "timesofindia.indiatimes.com",
+   "published": "2026-09-08T15:38:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Flipkart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "28fe796355a4",
@@ -607,23 +643,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "c1cb8de64fe9",
-   "title": "How India\u2019s premium beauty market is witnessing rapid growth",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3FjRFlBZi1seWpCTjdGWEZWM0FCa3JEcWQyQlphcmNNVkd1bXdJV0xvOXdXcEw0Q2pEbmNtVkczbVdwcEJEekduWV9LT2twREpFVlk5Z1FLSGJNZW1jZGFvbEJaQnRESFRUSTdGc3F6VEs2dXZCVEVXaFdvNEpkNi1aVGR1QW9uQlBWYlZjY3d6Y1JKeVFUZUpyQThhVk5QMHlFLTMtTWZYTi1LMFl0d1E1Yjl5dkJnQXozOUdEeVJRQQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-08T11:42:07+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "How India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "86fdc104a34e",

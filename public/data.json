@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T23:02:01.177150+00:00",
+ "generated_at": "2026-09-08T23:17:26.136084+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
+  "fetched": 17,
   "fresh": 0,
   "alerted": 0
  },
@@ -7037,24 +7037,6 @@
    "reasons": [
     "funding in headline",
     "$300 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c575a5badfbc",
-   "title": "Team8 raises $365 million to back the next generation of AI-native enterprise companies",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZY3hvVkpSdFlpRjJ1M1VBU1luaXJOR0dfTFRXaVNjNmEtczhJMlpCa0tCZ0pwWDlva3BGdGhFNWxqT1RaUjZ2YkNUUm1vQXJSajN2Zy0yQ1JMTFU1WGVhR1Jn?oc=5",
-   "source": "Ynetnews",
-   "published": "2026-09-01T23:11:58+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Team8",
-   "amount": "$365 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$365 million"
    ],
    "alerted": true
   }

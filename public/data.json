@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-08T08:48:53.568046+00:00",
+ "generated_at": "2026-09-08T08:57:31.868221+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 74,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 69,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
   {
@@ -23,6 +23,42 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "171a2843d0c7",
+   "title": "TCS launches AI-native creative engineering studio in London eyeing AI-led growth",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2ZEVXd2S1JudUVpV2dGUzZEWEtmTEdmSGI4NTdpWFUtOUtXdVljaENKNFBQVFlvaWZJX2JTM2hmdzAwS0tTWExuMmw3Z2RhUFgzeDlxbHZDYWJqQW9KRGRrRHZtVnptWmRjeWw4RzVEdWdWbjRBNEU1VmhyRnl3b29OVmhFTGtLWW1WZmI0UEZHUVNnTFJHa3VuNC1zSEhibHVsTUtjMnhvdkI3amRwaGxsbURXRHVsMF9aZnhvQUg3SEFvN2ZsbU1BTkY5U1hz0gHXAUFVX3lxTE1FaTVYS2YyczBkbHR4UzAtY3RlemFFVUR6Zm9aQTFyNWJhYkEtcTRXSWdLNGsxUURYa1lqY29hb016b1BKNzdMYVZrLUMzOVo3WjlucmZwcGlRbU1YU0tnZ0ExbC1qY0U2V0s3MmJVYlpnY1NpVjM4d3hCelh4a0ViaDlaSTlHQWhMcUJCUDUxU1VUa0tWY1NrRmtjbE9qNy04dDZIUWxvRy1vdmpvZTdwRnY5SjJpNl9ZRzFnbkYzZl9vUktHdUxIdVh1LTBaT3p1cWJ6MHFz?oc=5",
+   "source": "indianchemicalnews.com",
+   "published": "2026-09-08T08:19:47+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "TCS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7d6516cc3e40",
+   "title": "{Funding Alert} Plant-Based Nutrition Brand ZeroHarm Sciences Raises $7.2 Mn",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYV8tOE1mRXFLd2JCbGNhNWZEakJJQTAwQnZ5WUJyTmVkeTR6ZGprcjdoeFJhbjNLQUZkbllfN1FXbVJuRkZXZjJrRm5lQWptaldBaVNfZk14bGxzUl9vWmI2ZDc4eWUtSXpYaHU2M2cxTFNTUzhOdmltcVNnRXBlNUZvOG5KNU9vOUxjR0x5aDZqUXNna2RaUmNNSnZsQTFabWlvNHJKaDlGWjNf?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-08T08:04:34+00:00",
+   "score": 62,
+   "category": "funding",
+   "company": "",
+   "amount": "$7.2 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$7.2 Mn",
+    "no company named"
+   ],
+   "alerted": true
   },
   {
    "id": "87e277b5e4e4",

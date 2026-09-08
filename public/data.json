@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-08T04:32:40.546470+00:00",
+ "generated_at": "2026-09-08T04:46:19.907085+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 2,
+  "fetched": 17,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "07ce6c84cf3e",
+   "title": "B2B pharma distribution startup Fundly.ai raises $4 Mn led by Accel, Multiply",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltY9IBswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltYw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-08T04:38:27+00:00",
+   "score": 63,
+   "category": "funding",
+   "company": "",
+   "amount": "$4 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4 Mn",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "47e9b2b7c5d9",
    "title": "Iztri Raises Rs 10 Cr In Seed Funding Led By All In Capital And Suashish Group",
@@ -7061,44 +7080,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8ab150570f24",
-   "title": "Kepler Aerospace Raises $ 8 Mn Seed Round To Build Autonomous Swarming ISR Satellites",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjJCcXJleklmSmtLTlMtUnpCZlVVWFkwUzlsRkdKNEszUGExa3gzdVJLbnhpcGx6VXVpUlZCa1pQZ3YxeThrVW1qV055MDZVV01ITExzRjRweXc3dnAxaWlhU3ZMUW9ic3J6X3haY2pUc2ozUzRCN3pjME1LTlQydUM0YjBWWWY2UTJvNlVYZFJ1S1RBRXlUdFVMRXhGandiRTZLSnd3OWZITWpfanNnOGs0ZzBQTnEtZkhxUGhfOTZrZw?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-01T04:42:23+00:00",
-   "score": 91,
-   "category": "funding",
-   "company": "Kepler Aerospace",
-   "amount": "$8 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$8 Mn",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e9905edb114f",
-   "title": "Zenergize raises $4 Mn in pre-Series A round led by Giraffe Studios",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3ZoMW5qX3NScU0wdENXMlFCUXd2YldZRHJ5X1ZsOUsweW1jalFsZEQ4RXZOeFFfSFoyYUI1dWVOZGtlYWYzLXVNTEpJdEtzLWRvZUczLVNmVzVaWnAzZG1UcXlIWS1mMHNnLUdwOEhGRnlqZ19Kel9jSC1ZRGRZNm0wUHdvY3NHc2daNWNnNktsUkdsNEpOTlhVSUhNY2JHb2NiZDNlSUbSAagBQVVfeXFMT0t2aDFual9zUnFNMHRDVzJRQlF3dmJXWURyeV9WbDlLMHltY2pRbGREOEV2TnhRX0haMmFCNXVlTmRrZWFmMy11TUxKSXRLcy1kb2VHMy1TZlc1WlpwM2RtVHF5SFktZjBzZy1HcDhIRkZ5amdfSnpfY0gtWURkWTZtMFB3b2NzR3NnWjVjZzZLbFJHbDRKTk5YVUlITWNiR29jYmQzZUlG?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T04:38:36+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Zenergize",
-   "amount": "$4 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Mn",
-    "Series A"
    ],
    "alerted": true
   }

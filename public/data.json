@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T04:46:19.907085+00:00",
+ "generated_at": "2026-09-08T04:55:17.349206+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
+  "fetched": 18,
   "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "b39168137516",
+   "title": "Australia threatens hefty fines if big tech fails 'duty of care'",
+   "url": "https://economictimes.indiatimes.com/tech/technology/australia-threatens-hefty-fines-if-big-tech-fails-duty-of-care/articleshow/133907660.cms",
+   "source": "ET Tech",
+   "published": "2026-09-08T04:49:42+00:00",
+   "score": 80,
+   "category": "launch",
+   "company": "Australia",
+   "amount": "$78 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "$78 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "07ce6c84cf3e",
    "title": "B2B pharma distribution startup Fundly.ai raises $4 Mn led by Accel, Multiply",

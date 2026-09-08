@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T02:19:52.499769+00:00",
+ "generated_at": "2026-09-08T02:32:02.508283+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
+  "fetched": 6,
   "fresh": 1,
   "alerted": 1
  },
@@ -22,6 +22,23 @@
    "reasons": [
     "funding in headline",
     "$100 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b99c58e8aaab",
+   "title": "Late-stage funding squeeze; ISRO opens up space",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/late-stage-funding-squeeze-isro-opens-up-space/articleshow/133903297.cms",
+   "source": "ET Tech",
+   "published": "2026-09-08T02:09:50+00:00",
+   "score": 67,
+   "category": "funding",
+   "company": "Late-stage",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -6911,24 +6928,6 @@
     "funding in headline",
     "\u20b933.5 cr",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7d9eafae90e2",
-   "title": "Zenergize Bags $4 Mn To Scale Production Of Its EV Chargers",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3RuandPZFhuMnlGUjJyQjVPdC04YzBLMjRIX0JSMnpSbXNxcnlKTEtqd21zS3lnRFI0aWxqTXQybUJxNk5kS29xODNLMG1uSmNrRmhGTU9pdWlXdERYR1Rvd1A0Qm4zcTk1NlFxaDA5V0J4TC1aaXZ2eWF2a3JYdkEwQWMySVZzbVE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T02:30:28+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Zenergize",
-   "amount": "$4 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Mn"
    ],
    "alerted": true
   }

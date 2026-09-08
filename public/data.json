@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T22:53:05.287606+00:00",
+ "generated_at": "2026-09-08T23:02:01.177150+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
+  "fetched": 18,
   "fresh": 0,
   "alerted": 0
  },
@@ -7055,41 +7055,6 @@
    "reasons": [
     "funding in headline",
     "$365 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "837cc69d7c95",
-   "title": "JioHotstar Rolls Out Services In The UK, Canada and Singapore",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHZVR09qa29ZVkVlMjhnVGs0SFhybTQ1UVlmcEJYWVBLWGFFbDI1a0M2T2ZmOThubkVRWmJ6LVpqNWFFS2dwblZIcUVBUUs4emNTaUZoOTVoZGt5dEY0VkZ3YjdIUU9OV3RiR0h5MkhSMkdibmNEd1FYOHZlWmk1NmdNbkVQUDgzNEVJMw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T23:00:04+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "JioHotstar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d1b23da45f1d",
-   "title": "JioHotstar expands into UK, Canada and Singapore",
-   "url": "https://yourstory.com/2026/09/jiohotstar-expands-into-uk-canada-and-singapore",
-   "source": "YourStory",
-   "published": "2026-09-01T23:00:00+00:00",
-   "score": 82,
-   "category": "launch",
-   "company": "JioHotstar",
-   "amount": "500 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "500 million"
    ],
    "alerted": true
   }

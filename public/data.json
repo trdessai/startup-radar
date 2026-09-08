@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-08T10:55:04.310770+00:00",
+ "generated_at": "2026-09-08T11:02:22.410467+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 77,
-  "fresh": 7,
-  "alerted": 2
+  "fetched": 78,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
   {
@@ -57,6 +57,23 @@
    "reasons": [
     "no clear event",
     "Rs592 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7678bea5dff2",
+   "title": "Indian Soonicorn Tracker: List Of India\u2019s Unicorns Of Tomorrow",
+   "url": "https://inc42.com/features/indian-soonicorn-tracker-list-of-indias-unicorns-of-tomorrow/",
+   "source": "Inc42",
+   "published": "2026-09-08T10:45:33+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Tracker: List Of India\u2019s Unicorns",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -373,6 +390,23 @@
    "alerted": false
   },
   {
+   "id": "3d9a93c6a2ad",
+   "title": "MO Alts in sixth portfolio exit move this year",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hOWRQdVUwdWRySUFqdlJCRk10QkdNUlZFZ1o0Y0lqbnBobmtvTEwtblB1MUZqZjVNaFF4VUhQQlJzaHB3Q0ZkN0g2aENNV0c2anIzeXc2SDlLLUtDWmpPRUlpVzdLYjJvZHBrMmE2S1p5cUNsRFE1djNn?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-08T09:21:10+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "MO Alts",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "7eb1c861d1b8",
    "title": "The Agora Safari",
    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtLVpSdkZSaUxCSFRuSWZqM2VPdy0tdjRxWVpKNXp2aGRtTGplY0pCY3FYcWpYU0RVUzVWVjJFSFc?oc=5",
@@ -538,24 +572,6 @@
    "alerted": true
   },
   {
-   "id": "266dd72951b4",
-   "title": "AI in healthcare: Remote monitoring, ICU optimisation to be next growth frontiers, says report",
-   "url": "https://yourstory.com/2026/09/ai-in-healthcare-remote-monitoring-icu-optimisation-to-be-next-growth-frontiers-says-report",
-   "source": "YourStory",
-   "published": "2026-09-08T09:06:28+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "61de375bf095",
    "title": "Imperial and India's IIT Bombay launch strategic partnership in research, innovation and education",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGJncTVxdXZRT2ptZ0ZMZU5CRXBxcWpiTDhGMHlLZVpKSWxXSkp2Ukl6U0p5U0hzYjNWQWFkd19HVTdyNE1ZZk95aUE1WTdTUjE5aG9vNEZTUnEwQ3NCV3owVnFWb3VZSWQzVkdqV2lKcUlFOG9FREhsc0RUM1Byd3JZTFVGeFhpenF1eWF4WW1vZW43T2tRSDF2S0l6SVIxX0plYkw0eTBwUlc0blhSSEt6ZzRwY1VLTWlpbERHNEdpM1ViSjVvVkNfVWFjek9ERW8tZkU0a01yT2toSTBfVmhHb0ZHZw?oc=5",
@@ -573,21 +589,21 @@
    "alerted": true
   },
   {
-   "id": "b1518ea7067e",
-   "title": "Shilpa Shetty leads India's celebrity startup investors: Tracxn",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2hTaU4tYVcwZ2QtZEtZZFJyd2lRbElNcTNLNU93bmgyOWJWcFZRV1prOTZ4czdNN1V4UlZzRFZLQ19yY1J4UjFYazRxWmFMWHhMQkpURTl4LWNINnF4UVVTaEdOdV9abFZ2MEhSb2RiV1VXOHNTRnVPMWRzeFRyU0NnQmRoZTVZU1A4TUZpRXNRSTBUT25uUjlGVGtoVEdqb08yZlY3cXV3SmVSWkpOLTJVRzdVODF2OFU5Q2RuQ3pzdEg1TGpWMFV0SFlVbzRhdEROSFA1S3lMMU9Lc2JWVG41VWZnZlBjTlJRZDFn0gHuAUFVX3lxTFBPaFNpTi1hVzBnZC1kS1lkUnJ3aVFsSU1xM0s1T3duaDI5YlZwVlFXWms5NnhzN003VXhSVnNEVktDX3JjUnhSMVhrNHFaYUxYeExCSlRFOXgtY0g2cXhRVVNoR051X1psVnYwSFJvZGJXVVc4c1NGdU8xZHN4VHJTQ2dCZGhlNVlTUDhNRmlFc1FJMFRPbm5SOUZUa2hUR2pvTzJmVjdxdXdKZVJaSk4tMlVHN1U4MXY4VTlDZG5DenN0SDVMalYwVXRIWVVvNGF0RE5IUDVLeUwxT0tzYlZUbjVVZmdmUGNOUlFkMWc?oc=5",
-   "source": "Storyboard18",
-   "published": "2026-09-08T08:37:42+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Shilpa Shetty",
+   "id": "9e92dc48d50c",
+   "title": "OnePlus N6 Lite India Launch Teased as Amazon Microsite Goes Live; to Get Flat Display, Green Colourway",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2ptUnBCbEV4aGdoRmNETUY5eF95cGc0a0tRV3NRZ3lfOGlBNUw1ZW5VblpUREliSE9wbm85TXIwS3hDUW01My1jSkx6VkRhMlpHa3F1ZWNDMXd1bTJ0S0tscy1VemJndi1WeEt6Z3FXdFdFT2l1MUJGQ3oyVGFLM1lIVU42eXpreGxBNUIwaUlSQWRiTTYyWmgwWDBfNnVOdjA3cHg1M2F2cWNiVFVxb0R1Z1dHbWVUb0Vlb0tScnnSAcYBQVVfeXFMTXRDZW5nS2VGM2ktamdXZ09KdWk4VXFwNVRHcjNfZ3N2bEFFQ0NVdlRyZGxLLXVwdFVuV3R1YkJmdlFBbFZIcmhaQ1NHV3FuR1hwak9vLWM4OS15RFFiODdQbGY5ZFBHc1hFQ3l5U0p4QTRTcXB1VEhQVjU5RVFWOWpid1N5aFgyV3cyamtVN3pMZXBlMmxER1EwcEYwM2IyRFZzTnM3NUZ2cXJBYlViRHk4eW1vRHo5dUNEVkYzWXFXM2k4YmhB?oc=5",
+   "source": "Gadgets 360",
+   "published": "2026-09-08T08:28:50+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "OnePlus N6 Lite India",
    "amount": "",
    "stage": "",
    "founders": [],
    "reasons": [
-    "no clear event"
+    "launch in headline"
    ],
-   "alerted": false
+   "alerted": true
   },
   {
    "id": "28836dfbd862",
@@ -641,24 +657,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "87e277b5e4e4",
-   "title": "Lightspeed India to realise about $500 million by year end as India\u2019s exit landscape broadens",
-   "url": "https://www.livemint.com/companies/news/lightspeed-india-lightspeed-venture-partners-anuj-bhargava-startup-exits-venture-capital-vc-exits-private-secondaries-11788842495736.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-08T08:01:40+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Lightspeed India",
-   "amount": "$500 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$500 million"
-   ],
-   "alerted": false
   },
   {
    "id": "0a0bf33e6d93",

@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-08T12:02:33.364271+00:00",
+ "generated_at": "2026-09-08T12:25:43.361007+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 69,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 75,
+  "fresh": 4,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "9a28a272dc8b",
+   "title": "PTR authority launches AI training prog for rural youths",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSF90NnpMcENob0xxWVFoeUFIYjh2NndFdy1rdjJrbmEzODc1VE5vSGJpRTkwR2hHUE5nekFiN2FEcGZORF9nU01FdGV5MkVNMjlsa1o0VnB4dDdTVWNBTzdvNU8zTmRUUzhvUlVCNlUyM2xhcEhITjRnY1RvbEthdldTUUswc3ZSY0xqeUZTNlVwLWtKam9ScFFXRU51R2RKbV9BWXZ2a1ZtMkJaYjFVSXpYSmxHWEJjNERnbHI4MTR0WTk4bXpGTDZB0gHPAUFVX3lxTE5wemlIU0tFVEx5bGxqWFo2R0Z6QzdIZXV4M2stelBzY1oxcHRNR2dhOEo0T3RwM29XVU5seVZxSGhONVRhSUVFMS1peUx3Z09COGFXa0cxV1N2czlSUUk4bU1lOWFaTU9UZkZiZTNya1phTF9wTlMyRWxmdFEtQTdYemZRQ05QR0UyV1MzR2hfYmNDRjBybF94RlJpdGQyYXN1N1htTXdaQTBfZzNuaTd1VjBUZl9mQkdHblBOb3VwNEQwQVhvelVVZDExSG1Yaw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-08T12:00:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "PTR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c14c15872d9b",
+   "title": "OnePlus N6 Lite India launch teased, could be most affordable OnePlus phone ever",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUM4ZzBFbWZtdUV3SkNOX0k1TjZqZlR3YjE1VGtFS0p6XzdlSVBycy1zSXNJYjdzR0czTVpsS290MWRBZDByTU1sY183Y3VDcnJGU1RMQ2t4Nmt3MXpUY0RIeDlrOWI1TkRVR0JEU2piVlRFRUI0cTRnYmVydFpmLXRqdXdIWS1wSWhHdlYxalA2VUpyemlNNlE3NzRxVHFneEJ0MUo4akdBLVEtS1Z3UDdnYThadmFlUFRwZDdjQzZiX0tKN25rV0h4NVVsa0l1ZjFiNy1IYk9FeENxNlk0?oc=5",
+   "source": "India Today",
+   "published": "2026-09-08T11:52:43+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "OnePlus N6 Lite India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "c1cb8de64fe9",
    "title": "How India\u2019s premium beauty market is witnessing rapid growth",
@@ -40,6 +74,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "54c98b4f2565",
+   "title": "Oppo F35 5G Series Confirmed to Launch in India Soon",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1ZxNVJFUUZ0ckFIMG16STFDTktIUHlRWVgxM2JFRFZ5S3cwcG04MnJsdkc4c0NsWHI1eDhTV1Y5LVNIaENTbENlVjZrZ3BHOU5TWjJQX2w5eHNaVjEzV0RNLW9PQkxnazA3ZTVkUDNScTRSbVlHUkwzaGVHLXRjYUZnWWZMQUMzY0F4cXNaUVpZOENwMy1OQnV3dkllaE5YTDcxVk55M2U2aEdlbThBSXpLa25ud9IBuwFBVV95cUxQOU14QlUtaXJTaEdzU1RqTVJRUzhoR05lcXVkRl9OOUg4d0dMc0xyYTNWeTFCOHhMM0QxZ1dGcTR4RjFIVXVrU2x3NVJoQnhsTFB4aG9TTmFOaTVFYlRWcFNZVzVEbXZjV0l6SFBTM3FiQzVvci1aeEJlM0FOSVY3OUQ2amw1X2c0dUU0TktyVkhxOGxxVVFUQ2RXZUcyRGJoSDhPb0VXeWRKQXhrU1dJVW1nbkJxZThuakFN?oc=5",
+   "source": "Gadgets 360",
+   "published": "2026-09-08T11:36:22+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Oppo F35 5G Series Confirmed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "6c2b24e8b32b",
@@ -406,6 +457,23 @@
    "alerted": false
   },
   {
+   "id": "14c8b9ce8276",
+   "title": "Alkem Laboratories Launches India's First Patented Ginsenoside Exosome Hair Growth Serum",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTMwY3MyLUNmMDJZckQ2WWcxN21MX3VuaGFMMWNBRWRXajBZUngteGMxODRYanU2Qk9iazN6aVBDSUxHcVVJbXVYN2pFRldPX3VqV0dJM2FtaE9fZWFfajE2eU1wS29XSkpjY1dLelN1RHBwRkVOUkxDN19aZktiNFF3MWxRd2RlT1k2a1VQeld0eE9kdUFmeUFyaHQ5NDlFalJYcHhjS2J6SlBKNHRnMmQyQVNablBUOHk3SU9QdHJRNmd1VXc?oc=5",
+   "source": "sahi.com",
+   "published": "2026-09-08T10:02:30+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Alkem Laboratories",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "f3287b550b0a",
    "title": "Grapevine: Jio, Brookfield, Pernod Ricard, Sugar Cosmetics, others in news",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3hyVFotS2hkb29GWl9QVnh6V2RQajc5dTZMZHlTS3VrV2NxOGdhTW5qSmJDMk1Hc0ZLdzAwa3JrUFNKaUxkRmhSS2NNdXJHLV9BOFBWUnRZZW94SUVSRmZVTGs2aHVDOFdUNEZiZF9FQkY0TUJ1OGNqQ1o4djF3bHNpRGV5THNYTEQwY2ZDdFBudHJHVVA1Yg?oc=5",
@@ -523,41 +591,6 @@
    ],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "67fd73063245",
-   "title": "India\u2019s next growth story needs more credit for women-led businesses",
-   "url": "https://yourstory.com/2026/08/india-growth-story-more-credit-for-women-led-businesses",
-   "source": "YourStory",
-   "published": "2026-09-08T09:34:15+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "47b53949e6b8",
-   "title": "Retail India News: McCain Foods India Appoints Aditya Krishna as MD",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMThIeERQRHdERW9vQzFHWjB5QXpHUUJkNTlCcVFSV3BGc2gyczNzZ2hjQ3l0cTRWRm5oYzJxaGxqbWd3dGV6UkxsRlNHVmcxUmpnaTdSOUpoZUQ1Nk9td3lNWDdGVmZYVm1hNzk0ZS1sTTM2ellRa2hmUWFleFg4UEFwcmdIN1dNTU14aWExNzZobnhpN2s1b0w3RjFtNmNl?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-08T09:33:45+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Retail India News: McCain Foods",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
    ],
    "alerted": false
   },
@@ -7068,41 +7101,6 @@
    "reasons": [
     "funding in headline",
     "Rs4.2 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7dd388bc5d01",
-   "title": "Panasonic Life Solutions India announces second cycle of Co.lab Studio by IGNITION to accelerate co-creation with startups",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSVVuc19OTldpUEZfT0RDTFYyWEFGVEhHNlI4Q3RsWVZYcGk3YU81UmJWT1B5YkJ0UnZFV3FXaHgwWVZLSmxTWkM3b3Y4ekJSTEhfYU1aV1h5VjJ1Z1dpOGRXRjNXQUljQUY0N1l5c2RIUWV4N3lsY24zanh2YTcwdDlFWEF1czJyNVh5MW5Ic19RaVlGZDV6U0c5VWhsRnRpU25CdWk2R1dZNzJ0RzVkTUhqU0tJaEJhdkMxQWVIRlZJN2FMemlWQ29ueG4tcUVEb3hoSVFXbVg1ZkpaYzdjSnhrQ3dBcUxHTmxvR25mMWNyRmlRU1NzMy1zRmJnYTVlS0JTZkoxQm1ZbFh6UzUw0gGPAkFVX3lxTE1JVW5zX05OV2lQRl9PRENMVjJYQUZUSEc2UjhDdGxZVlhwaTdhTzVSYlZPUHliQnRSdkVXcVdoeDBZVktKbFNaQzdvdjh6QlJMSF9hTVpXWHlWMnVnV2k4ZFdGM1dBSWNBRjQ3WXlzZEhRZXg3eWxjbjNqeHZhNzB0OUVYQXVzMnI1WHkxbkhzX1FpWUZkNXpTRzlVaGxGdGlTbkJ1aTZHV1k3MnRHNWRNSGpTS0loQmF2QzFBZUhGVkk3YUx6aVZDb254bi1xRURveGhJUVdtWDVmSlpjN2NKeGtDd0FxTEdObG9HbmYxY3JGaVFTU3MzLXNGYmdhNWVLQlNmSjFCbVlsWHpTNTA?oc=5",
-   "source": "SMEStreet",
-   "published": "2026-09-01T12:22:02+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "Panasonic Life Solutions India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b30ddf22ce4f",
-   "title": "Research Analyst-led platform 72 Street raises Rs 4 crore to expand into F&O, model portfolios, commodities",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2UzYTJsWW5ob1pyZVFXeU5naExBR3phLVhjMEQwMXN5a1JBdkFqWlhtNjNaRzk4aF9ickFxblVfcW15ekRteTZISXdIcHMtV0dsT3BTM05zX0x0bEQtOEsybHhwRXA1WmE5OWxGbDZyNmxUZnNvY3dib0VCLXNnWGwxNk02NDR6RXZ0Z0VQTmtQR01Bb0RGY09CaHBCZS1LOXV2ZGplTUJRV3JPbE5EaURESkI5WG1PZktObUdxbUFhOUFQbzV3bmlxeFlPY0JlZjdGd1djcHZPVzU5bm9vN2tQWmV6d9IB5gFBVV95cUxNN2UzYTJsWW5ob1pyZVFXeU5naExBR3phLVhjMEQwMXN5a1JBdkFqWlhtNjNaRzk4aF9ickFxblVfcW15ekRteTZISXdIcHMtV0dsT3BTM05zX0x0bEQtOEsybHhwRXA1WmE5OWxGbDZyNmxUZnNvY3dib0VCLXNnWGwxNk02NDR6RXZ0Z0VQTmtQR01Bb0RGY09CaHBCZS1LOXV2ZGplTUJRV3JPbE5EaURESkI5WG1PZktObUdxbUFhOUFQbzV3bmlxeFlPY0JlZjdGd1djcHZPVzU5bm9vN2tQWmV6dw?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-09-01T12:12:39+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "Research Analyst-led",
-   "amount": "Rs4 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs4 crore"
    ],
    "alerted": true
   }

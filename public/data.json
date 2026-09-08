@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-08T07:56:45.491064+00:00",
+ "generated_at": "2026-09-08T08:05:41.333199+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
-  "fresh": 1,
+  "fetched": 73,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "87e277b5e4e4",
+   "title": "Lightspeed India to realise about $500 million by year end as India\u2019s exit landscape broadens",
+   "url": "https://www.livemint.com/companies/news/lightspeed-india-lightspeed-venture-partners-anuj-bhargava-startup-exits-venture-capital-vc-exits-private-secondaries-11788842495736.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-08T08:01:40+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Lightspeed India",
+   "amount": "$500 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$500 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0a0bf33e6d93",
+   "title": "Groww adds 2.23 lakh active clients in August; Sahi clocks 11% growth",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUdieHAxc1dDNHVqbDdlOGQyN0lHVXR4RTVqZlZhc2VwZmpVWlJkeDRyN0tOT21zYW1DaWtmRXZWUlVGajN2Y0hrNmZoMWhlZ1NRMDlNb3FBMENpeTFqV3JZcUpkU0VyVnZSbkVEeC15WjVNOWpSZkNqSjV5Q3lOdUhWZjVEbjV6eklTdmtGNVlBRUVzNWd2UElxNC1pUzR2QjhF0gGjAUFVX3lxTFBlR2J4cDFzV0M0dWpsN2U4ZDI3SUdVdHhFNWpmVmFzZXBmalVaUmR4NHI3S05PbXNhbUNpa2ZFdlZSVUZqM3ZjSGs2ZmgxaGVnU1EwOU1vcUEwQ2l5MWpXcllxSmRTRXJWdlJuRUR4LXlaNU05alJmQ2pKNXlDeU51SFZmNURuNXp6SVN2a0Y1WUFFRXM1Z3ZQSXE0LWlTNHZCOEU?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-08T08:00:45+00:00",
+   "score": 64,
+   "category": "product",
+   "company": "Groww",
+   "amount": "2.23 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "2.23 lakh"
+   ],
+   "alerted": true
+  },
   {
    "id": "bdb161f52c19",
    "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
@@ -584,23 +620,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "0a8e6ebc9da7",
-   "title": "Agnikul inaugurates new assembly & testing facilities to build reusable rockets",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGlQUFdMR2V0STZ3WXduWDRRVnk0UElweElqUHQyY3duMVIzeXVxOS1GcFVsOUxIQXVKTkdQZko2ZzZGNWFRYUJhb0xmQ2t4NnBvTTVCazJxWlBzV21aSkxXSlYwSC1oWnRTYkx1dUVEc0hIb3ZhU2VVZ05Pd3d1M0VCN3c2SENpNGdFbkdQVEJZeEwzckhIT2V5OGVkTlB4RzFUT1V0d3B4Q0F0UHM4Rl80cVNKM25pcjZYOFFzMHRtU2lZUEFPZ0xrRV9ZeGVjWFV3N1RMdjBfOEXSAdsBQVVfeXFMTlRpUFBXTEdldEk2d1l3blg0UVZ5NFBJcHhJalB0MmN3bjFSM3l1cTktRnBVbDlMSEF1Sk5HUGZKNmc2RjVhUWFCYW9MZkNreDZwb001QmsycVpQc1dtWkpMV0pWMEgtaFp0U2JMdXVFRHNISG92YVNlVWdOT3d3dTNFQjd3NkhDaTRnRW5HUFRCWXhMM3JISE9leThlZE5QeEcxVE9VdHdweENBdFBzOEZfNHFTSjNuaXI2WDhRczB0bVNpWVBBT2dMa0VfWXhlY1hVdzdUTHYwXzhF?oc=5",
-   "source": "India Today",
-   "published": "2026-09-08T05:12:53+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Agnikul",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b39168137516",
@@ -7074,24 +7093,6 @@
     "funding in headline",
     "$8 million",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a8d4a38cb915",
-   "title": "From $3.5 Bn To $200 Mn: upGrad Completes Unacademy Acquisition",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0RQOXltdkhCQVlSOUtOVkZWY3BPLXVTaFkwTDVLZElWSmFvQ3BsUm5HV3hPYjR2cGx2YzBPZmxEdllsRk5EaVNKM3VOZmlfQ0Vqc2pMZzVjWE16WVg4dHJUZF83czNzRHAxZkFVUTZiN25YLUtQdHdwclIzTG1CWmZUeDUzZGN6cldIMA?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-01T07:57:14+00:00",
-   "score": 79,
-   "category": "acquisition",
-   "company": "From",
-   "amount": "$3.5 Bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "$3.5 Bn"
    ],
    "alerted": true
   }

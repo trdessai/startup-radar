@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T10:36:15.751777+00:00",
+ "generated_at": "2026-09-08T10:47:14.376753+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 77,
+  "fetched": 16,
   "fresh": 1,
   "alerted": 0
  },
@@ -7072,42 +7072,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fe79fbf1a1c8",
-   "title": "{Funding Alert} Footwear Brand Clog London Secures Seed Investment from VG Angels",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzhrNjRLYUhuR1FyV1pDdFhEeDdvMGVoMnNyUmZhd1MxM2d2bHFJU1BNZUxrMWtXa2VRTUZMT1VGbWVXTmx0TWVQb1U4MlR0UmlVMkF3WFdtT2Fad1ZUcHpCdDI4b3ZxSjdINGpLSS1kN1BBdk43UDIxM25Xci1TajFzVkFlV2tzc1NFQ0xHX1Z0WHNob003SFVCS1ZOdFJudkxKMDZsdkJ6SVFoN293?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-01T10:43:37+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Seed",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e9245e12c8a0",
-   "title": "NPCI To Launch Agentic Payments On UPI: Report",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNTjJTa01xUnlGWk9ZN29iSEhyOGQ3N0ZnYzZ4OS03WDdETTl1aHMxdE1xVDBFcjhoTnVRZ3JlM2NCZnF5STc5MTFEdG9IbGoyTmN3Y2N0NUU1Szk3aVFHcmVZd0JNMmhFTmpINV9vd09tQWw0UEkzTQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-01T10:39:59+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "NPCI To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

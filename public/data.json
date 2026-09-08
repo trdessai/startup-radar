@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-08T06:24:59.279694+00:00",
+ "generated_at": "2026-09-08T06:40:07.411585+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 42,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 45,
+  "fresh": 5,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "aa9a12e26549",
+   "title": "How Can D2C Founders Scale Business Without Losing Control?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0FGZm1OQUxVSk00S1l4TjBuR2xlakNDLUpBSWNpb2NkTnpvTDBYZFRKUGRXbEJUdVl5QnV0ejdHeUV6anNoWmVFcGhhTFZkekxoTEk3dUV2Y2NOU0JBUllqb204NXJqTkRLZTlOVkZuTDdsRlNMTEt3ZFJjMFJQalBzTkZnMUhEc1E?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T06:36:23+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "How Can D2C Founders Scale",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "15cc722ed8c9",
+   "title": "MS Dhoni, Shraddha Kapoor Invest In EV Startups, Sachin In Spinny",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWElLOFdmOUNmYnh4WHdYWnZLVDR3OWZWMlhObHFYY3lzWGx3MXVBQVZ0MWdndldha2dXM0dIMEJ3dFVNbXdyeGxCeXFIdnJWeE9uMUJOSnptRjNhb0hlbkZIMjJMcUQxdnhRWDc3QjJ0NlBBNzhjUFRISGRzaDlFSERGbUFoemlmUWcwR1l4N29WeG9BYTVhUU9TN1NPYWdYRmpR0gGrAUFVX3lxTE9pNmM1ODNMNUNEeHFDal9CSDljVlBwVXA5bGVleFZ5VmszTGRnZHZRN1dFTW5XcVB2cDF4a3RKSFFHZ0l5X1RWM1kxUFV6bEVTYmNNZFdhb0RDblVZWGRSRFRtOFJxTFotelhlUTlTaWNQQ0gyUUNqRU5JaVFEd3E3ekRMOUJIVzc5QXdibkdNV09vNUYyUzJsUWxBQ1ZUZTdsUXdDYk1GTXd4aw?oc=5",
+   "source": "Autocar Professional",
+   "published": "2026-09-08T06:30:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "MS Dhoni Shraddha Kapoor Invest",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "677a631b8a03",
+   "title": "Delhi HC dismisses UltraTech's plea against builders' association joining CCI in grey cement cartel probe",
+   "url": "https://www.livemint.com/companies/news/delhi-hc-dismisses-ultratechs-plea-builders-association-cci-grey-cement-cartel-probe-11788846312634.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-08T06:25:38+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Delhi HC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "92f56e213dd2",
    "title": "Jio Targets September 2027 Test Launch For 1,600-Satellite LEO Network",
@@ -464,24 +516,6 @@
     "acquisition"
    ],
    "alerted": true
-  },
-  {
-   "id": "dd675b63496d",
-   "title": "SEBI gives angel funds 7-month extension to comply with accredited investor mandate",
-   "url": "https://www.livemint.com/companies/news/sebi-gives-angel-funds-7-month-extension-to-comply-with-accredited-investor-mandate-11788833824743.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-08T03:44:07+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "SEBI",
-   "amount": "",
-   "stage": "Angel",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Angel"
-   ],
-   "alerted": false
   },
   {
    "id": "bb089be46b69",
@@ -7066,41 +7100,6 @@
     "funding in headline",
     "$8 M",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0e7369a8a511",
-   "title": "Rohde & Schwarz Launches AI/ML Design Center in Bengaluru, Eyes Chip Design",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ05UMUZFb0c1d2JWQUl2M2w1OTdiUXlhQ1o4N3JvNG1DLUpQa0M4Wnk2Z0hMZ3haQk11RHpncEJCNmV5S3JvVmV5N3FUZGU2Y003MUtweWRORnJMVElNRUdTazVZelA2RTl6WEpFdTRGSjNSa0VIVHVfMUhhMnNmdmx2ekFPeVh3TlBNZ1EwVnh4QVhMTW1xVWMzWWJMT2VTXzYwWTNWdFd6a0xKdkIxcERiVFA3SkVtMnpWc3ln?oc=5",
-   "source": "Electronics For You BUSINESS",
-   "published": "2026-09-01T06:38:59+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Rohde",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2719eb61b8c1",
-   "title": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnYtLTBqU1A1dUdQd01UcnpxOW1yTEtrVmxIdjVGMk5CSkFpWDBDS1ZwSTJYNHJPeUtUNi1zOU9mT3N6dnoxeVJCN3l2dGFGNG5tLTFkS3ZKTTlGaFZPX291cVkzSlZpVnNneGUtdnFmQzBBNy1oR2VLcU5Rb3pMM2VGUDlLdXVwVUU1N2tUV25oQTNMRlc0WVVjN3RpNTRYRGdj?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-01T06:26:11+00:00",
-   "score": 82,
-   "category": "launch",
-   "company": "Kepler Aerospace",
-   "amount": "$8 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$8 Mn"
    ],
    "alerted": true
   }

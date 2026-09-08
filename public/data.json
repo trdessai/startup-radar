@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-08T09:47:33.620593+00:00",
+ "generated_at": "2026-09-08T09:56:02.579758+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 77,
-  "fresh": 5,
+  "fetched": 80,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "4817d463a448",
+   "title": "Beverage brand Sorry Sugar raises $1 Mn in seed round",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHVSUGpySGZrMEw0QkZiTm9MWUZ5VzM2UGxXX1c3YWpQYThGV3hwaWg2cjdOMTA5MEFXcjAzT2xPbG80OVh6d2s0U0pjTWpGX1JmcXdsdjZNMUprRnRjTi1XV2FvYnVIOHRvYkJsSWJ5X3Azdld0SUkzR01kLTZRdUdvaEpKU2F1b2xVUThRWElweDR0VHfSAZYBQVVfeXFMUFR1UlBqckhmazBMNEJGYk5vTFlGeVczNlBsV19XN2FqUGE4Rld4cGloNnI3TjEwOTBBV3IwM09sT2xvNDlYendrNFNKY01qRl9SZnF3bHY2TTFKa0Z0Y04tV1dhb2J1SDh0b2JCbElieV9wM3ZXdElJM0dNZC02UXVHb2hKSlNhdW9sVVE4UVhJcHg0dFR3?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-08T09:47:21+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Beverage",
+   "amount": "$1 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "f291ce5ead33",
    "title": "Whatfix Cofounder Vara Kumar Namburu Takes Over As CEO",
@@ -47,6 +66,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "47b53949e6b8",
+   "title": "Retail India News: McCain Foods India Appoints Aditya Krishna as MD",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMThIeERQRHdERW9vQzFHWjB5QXpHUUJkNTlCcVFSV3BGc2gyczNzZ2hjQ3l0cTRWRm5oYzJxaGxqbWd3dGV6UkxsRlNHVmcxUmpnaTdSOUpoZUQ1Nk9td3lNWDdGVmZYVm1hNzk0ZS1sTTM2ellRa2hmUWFleFg4UEFwcmdIN1dNTU14aWExNzZobnhpN2s1b0w3RjFtNmNl?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-08T09:33:45+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Retail India News: McCain Foods",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
    ],
    "alerted": false
   },
@@ -634,41 +671,6 @@
     "$903 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "66fcf29a5706",
-   "title": "Copper hits record high, UltraTech\u2019s Ultravolt on the offensive: A double whammy for cable makers in FY27?",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVUVxSHFHMnhmSjdlMG9qU3NKVUhNTjdQRkJxanNlV1hrTmFUUTBvc3FTUFZfQ0stMG4wZVpSZk51M0JlQ214M0R4emZ4eGVJMFI1eE9RYlUtdjFnT3pJSmRnTmlfTmdnUERmb0RNSmZ3WWZtZmJselhuTkhKRVlrQ1NaUHBDRmNkUkZCaFAwVVBWdWpSSkdQWGZIRVVQNm15a0FsRFg3YUduRjR3YXFfRmRZTWZiZS1yVktQVWEyNEpObk9iMUZZQkNlRk9YaWRDUVY2cnd0ejVwSzh3Qkk5WHZXekplU01vZTMxSmhWQ3ZmTU5idmlvaHhfSVdGbGpBNnAtbjRvVdIBjAJBVV95cUxPWF9ZQmhVTUt1RENNY1k0YXZGU3l3cndCTm1CUkIxQnY5NGFiT3pRN0JYbkNxU0dPUDZlSFJlTG5Ba3k1YldheEdBTmRHUlgxQ0k4ZXFjZmdGZndpcW80eWktX01KdWVpZXgyR2phMExidjJmMUx4VkFES0pWMXRkRmt1RWFaTjl2US0xcFctejdhTmtjZngtYWtMWkRubVFLWXhLSjgzZGh2UUVqRHU2dlRMVlBMNng4RHRRYnJsbGF2U25JOGM3TTlsc1NNZnhfQTlKSkpQS1lYZGJQdW5VQVprRWhxZWxvRjZZLUFLMzlmN3hXS0dCeEt4SXFneDU2R2ZYbFI0dGRVMlcw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-08T06:50:24+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Copper",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dde8283af030",
-   "title": "W Health Ventures closes second fund, exceeds initial target",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQjV3ZkFLWDBqVjVDUFc4YlpuZU5NQ2dXWDUzWXFCRkV0WnlRQmF2dFlKVk9Fb0pwM0lOR0lUUWxueE5jZDBWemdjZWU2UU8ycFFBci14WU94WHdDMWwzZ0YzTGxOTW5wQWhmQWFERDQwSWw2SVN1TVdIclBFVWtJZWg1NE9pdWVrdkFj?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-08T06:45:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "W Health Ventures",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "165c7e755a98",

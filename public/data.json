@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-08T08:05:41.333199+00:00",
+ "generated_at": "2026-09-08T08:22:14.917868+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 73,
-  "fresh": 2,
-  "alerted": 1
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -42,6 +42,23 @@
     "2.23 lakh"
    ],
    "alerted": true
+  },
+  {
+   "id": "fe76049c4e1b",
+   "title": "Times of India publisher partners with OpenAI on news",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGY1ExM2NYakIzcG9LUUdLV2lBQ2lYUm4tOF9zQTVFSkNCSmNSX1VFRksydW9Sb1RadzE4Mzh6UmJLMFVweUNJSEFRbGk5TWgtZDRlaW1kMnV0ekY4V295T0g4cW13c2Vudi0xdkRkbWRJOXFHeGMycTM0M2dBZ00?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-08T07:56:23+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Times",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "bdb161f52c19",
@@ -7037,62 +7054,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cab516d0c7dc",
-   "title": "Alteon Raises $2.5 Mn To Develop Long-Endurance Autonomous Aircraft",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHlPSnZGOFhLcjZER3lYOFhsdlZROWhzNTh6ZzlzVUIyTGc1X0ZDMkZEeUYzOFBTRVJkcENnM0l5YWlISjRVRUtMWkxFNXplYUlONTEyU1FtQVVMeUNmbUVYYkpadGVDNHlIOUxuMFB0cUFHVVJkcGhWYjlYNUM2RTRRb2lnQXNmTWlQdjQ5R0xia0I4?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-01T08:19:44+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Alteon",
-   "amount": "$2.5 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6ce108d28ce9",
-   "title": "Oppex AI Raises Rs 4.2 Cr Pre-Seed Round From Info Edge Ventures",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkdueFhHUmtLVWNsVzV6anVwOUR3d0E2SG0wQm1HQnRXLWpPckFTLVZpVkxSWENmdjM3U293Rnd1YzJnYXFRU3ZWYkw0WjEzTmNBOWRzeUVGZE9kejdOeC1MZzFHZmY2dnFGbEEtWTBqM1lNajE4aXlIYUtweWVJV2JhM1RDNk9yYVhSaGFaYjNBdVA3LUtJck5Jc2VZOHlldVEwMHVGZVM?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-01T08:09:07+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Oppex AI",
-   "amount": "Rs4.2 Cr",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs4.2 Cr",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3dca76bb42eb",
-   "title": "Kepler Aerospace raises $8 million seed funding co-led by Blue Ashva Capital and Finvolve",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUjdtVHcxU0tCbk5taFlKcFhiMWxjcFJyLVhKMVdUR1piU09PeFV0ZmtHUGRTTnFsTmk5ZGVWSG1jb0paRUV2UHRSTjczb1kwdGhabV9MZ1dHc3E5MkJ4TlU3TmpIc1h0eTV3YVlBT3E4MTFiNDBGODl6eGVVdVl1UEUwdGhQRmpsWklGb29GaWJrSHNtS0RaRnBiTy1oR1BJS3RsMTNfQ001M19hWjNZYXZkQ3g0VU9RUFBfcHkxVi01Uk1uSjJRRzRqTEZnSDhuUzRnbDhqREp0Y09qekJFdzBLdm8zcDN3elR4WU9Ybw?oc=5",
-   "source": "zeebiz.com",
-   "published": "2026-09-01T08:08:19+00:00",
-   "score": 91,
-   "category": "funding",
-   "company": "Kepler Aerospace",
-   "amount": "$8 million",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$8 million",
-    "Seed"
    ],
    "alerted": true
   }

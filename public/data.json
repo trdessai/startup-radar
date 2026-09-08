@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-08T08:37:22.459463+00:00",
+ "generated_at": "2026-09-08T08:48:53.568046+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 70,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 74,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "b1518ea7067e",
+   "title": "Shilpa Shetty leads India's celebrity startup investors: Tracxn",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2hTaU4tYVcwZ2QtZEtZZFJyd2lRbElNcTNLNU93bmgyOWJWcFZRV1prOTZ4czdNN1V4UlZzRFZLQ19yY1J4UjFYazRxWmFMWHhMQkpURTl4LWNINnF4UVVTaEdOdV9abFZ2MEhSb2RiV1VXOHNTRnVPMWRzeFRyU0NnQmRoZTVZU1A4TUZpRXNRSTBUT25uUjlGVGtoVEdqb08yZlY3cXV3SmVSWkpOLTJVRzdVODF2OFU5Q2RuQ3pzdEg1TGpWMFV0SFlVbzRhdEROSFA1S3lMMU9Lc2JWVG41VWZnZlBjTlJRZDFn0gHuAUFVX3lxTFBPaFNpTi1hVzBnZC1kS1lkUnJ3aVFsSU1xM0s1T3duaDI5YlZwVlFXWms5NnhzN003VXhSVnNEVktDX3JjUnhSMVhrNHFaYUxYeExCSlRFOXgtY0g2cXhRVVNoR051X1psVnYwSFJvZGJXVVc4c1NGdU8xZHN4VHJTQ2dCZGhlNVlTUDhNRmlFc1FJMFRPbm5SOUZUa2hUR2pvTzJmVjdxdXdKZVJaSk4tMlVHN1U4MXY4VTlDZG5DenN0SDVMalYwVXRIWVVvNGF0RE5IUDVLeUwxT0tzYlZUbjVVZmdmUGNOUlFkMWc?oc=5",
+   "source": "Storyboard18",
+   "published": "2026-09-08T08:37:42+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Shilpa Shetty",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "87e277b5e4e4",
    "title": "Lightspeed India to realise about $500 million by year end as India\u2019s exit landscape broadens",
@@ -270,6 +287,24 @@
     "no company named"
    ],
    "alerted": false
+  },
+  {
+   "id": "4d42f4d77563",
+   "title": "Shenzhen Longsys Electronics secures $903 million funding to boost AI data center technology expansion",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONlp2SEFYZEtCUG9zd0pwYmtTOExXU0dnd3o3N0dTRWZJd1R4X01YNjNQNFFzN1o5bHNOczEydTBoeDZ6LTVKV2RxdzhEX2NIT1NCMG92TDNwSUNIOXY4WlJpZEV5TjlPYl9DdmUzRXpvS1BZUDhYOFZNd1BmUnNxalluMk9HTmxIZnc3SjRucDVfZ2hSLW9xVXNzTGMwMDBFWXBxaWUzYTVzYXpqdkJ3WlFBWFhfNEdoajVvQno0OURURmFRWUw0Rm5yYUVXNjVKaTEtM1E5enZYWlA4U0RBQ1M3MFRkT1dZd1NQaVlvMV8ySUlYUDZhWm5Gb1QtcjY3a1BRbG1qTFE0NzdURmtGOHlFRHlIUDTSAZcCQVVfeXFMTjZadkhBWGRLQlBvc3dKcGJrUzhMV1NHZ3d6NzdHU0VmSXdUeF9NWDYzUDRRczdaOWxzTnMxMnUwaHg2ei01SldkcXc4RF9jSE9TQjBvdkwzcElDSDl2OFpSaWRFeU45T2JfQ3ZlM0V6b0tQWVA4WDhWTXdQZlJzcWpZbjJPR05sSGZ3N0o0bnA1X2doUi1vcVVzc0xjMDAwRVlwcWllM2E1c2F6anZCd1pRQVhYXzRHaGo1b0J6NDlEVEZhUVlMNEZucmFFVzY1SmkxLTNROXp2WFpQOFNEQUNTNzBUZE9XWXdTUGlZbzFfMklJWFA2YVpuRm9ULXI2N2tQUWxtakxRNDc3VEZrRjh5RUR5SFA0?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-08T06:51:00+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Shenzhen Longsys Electronics",
+   "amount": "$903 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$903 million"
+   ],
+   "alerted": true
   },
   {
    "id": "66fcf29a5706",
@@ -7020,23 +7055,6 @@
     "India only in body",
     "acquisition in headline",
     "$3.44 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "836d09f6b0dc",
-   "title": "XStep Raises Funding From Titan Capital To Expand Neurorehabilitation Platform",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWlZLWs4SVdjSlRZQmtOUGEzbG1yODhiNEJaamFDc1NsbXp2MkVGdVJ0SVVkaE5PZGhfRU9ZOHBKb1RnR1V3ODFlQ2hiZVQ3SGxvcXRPeWQxeW1GZi0tOVdELWJVbWZYbnBYNUtYUE4yc2pBdHNpampYVEhPZk1rd1lFbEwzQ1pWS3VUT1NWU1VodnFGbzFkTGxPcG1SWEE5Y2VYeTl2Z05PenRZTm9LOGdFU1BocEpvbTBJ?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-01T08:44:49+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "XStep",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

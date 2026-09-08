@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-08T15:30:01.437652+00:00",
+ "generated_at": "2026-09-08T15:43:07.973976+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 46,
-  "fresh": 3,
-  "alerted": 3
+  "fetched": 38,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
   {
@@ -133,6 +133,24 @@
     "Seed"
    ],
    "alerted": true
+  },
+  {
+   "id": "2ea96fb58685",
+   "title": "Indian origin tech entrepreneur to launch luxury travel concierge platform Vaultfy",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcGhnOVlRUTh6d2FjUWpqcGp0SExHZUtTVG5VeVkyV2pMN1dwMF9BeV81czlrdzE2Zm9lLUtEQkZENkRPRzdTN01rWThWRnBsS1hPbTBPb3RvVXpvQlJ1OFhZU1VCdFN4bVc4TDZmQzFYcHE1ZmItV3JZRUtRSDJWdUpqZ3h0NHFTbE1tbnRBejI0OXF6Y3lnVmlHbFZHMURrNUNnZW1jQ3NuTXpSY1BjbDFQOVZRc2QwQkgzMnZESVBuaVNBaXVFY08ydFFoalhlZ3NYSXBzV2lWbldIbkI2UzBHd0dZUGlKc1lpVUplRDBfbmJPdk5DRtIB-AFBVV95cUxQcGhnOVlRUTh6d2FjUWpqcGp0SExHZUtTVG5VeVkyV2pMN1dwMF9BeV81czlrdzE2Zm9lLUtEQkZENkRPRzdTN01rWThWRnBsS1hPbTBPb3RvVXpvQlJ1OFhZU1VCdFN4bVc4TDZmQzFYcHE1ZmItV3JZRUtRSDJWdUpqZ3h0NHFTbE1tbnRBejI0OXF6Y3lnVmlHbFZHMURrNUNnZW1jQ3NuTXpSY1BjbDFQOVZRc2QwQkgzMnZESVBuaVNBaXVFY08ydFFoalhlZ3NYSXBzV2lWbldIbkI2UzBHd0dZUGlKc1lpVUplRDBfbmJPdk5DRg?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-08T14:00:00+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "0c042ebc7ef9",
@@ -268,6 +286,23 @@
    "score": 18,
    "category": "other",
    "company": "SORRY SUGAR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "72dce336b205",
+   "title": "STPI Organises Electropreneur Summit 2026 at IIIT-Delhi",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNVdGcTh4cUZVb0hiV2ZqQ2toTW9BdXd3WWhjbTFnRlpVMDhnNXpjRWpLVlRldjBYdGMzaTkwSDJBYUpFb2JKYjY4OW56OU5tUndGWEpPZDNFbGdTRkw1M0tzeDdqc0dm?oc=5",
+   "source": "PIB",
+   "published": "2026-09-08T13:22:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "STPI Organises Electropreneur Summit",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -620,24 +655,6 @@
    "alerted": false
   },
   {
-   "id": "526068023a75",
-   "title": "SEBI Extends Accredited Investor Compliance Timeline For Angel Funds Till March",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlJVX3B5TWxtM2VRMVdaZVR0WjlqN05zTUF1cWdaRWNTRXB2YWhNUXkwSkE2QnNQUGV3amQwcmREMTZWZWd5NmNpQjFpWEk5cUxEb2VaUVk4UkZBekh1cDFudFlMVmJkeDVXR0NDelFJbld0T0gtSlhKWDBWaVc3dkZjMEVHQ0RjcExuMHRPWTFrVXZoVlk1SnhBSzVhZnVDMmV5Q29n?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-08T11:26:42+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "SEBI Extends Accredited Investor Compliance",
-   "amount": "",
-   "stage": "Angel",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Angel"
-   ],
-   "alerted": false
-  },
-  {
    "id": "12afb5fed56b",
    "title": "Aditya Birla New Age Hospitality Launches Supa San in Bandra",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc29OTEVwTWFqZUNDcWRWbElNbFNZdldBeDc5dlRJeUhPMURSS21ycEhIS3FMbHhiQTBQVTJWMGhzTHRKdjB6a0trQTYzTHA3MWkxNE9fSmF2c2pzNUVJWWRJODRKTmFCNklVNGZTeVZHd1JGU1FLX1VCZkpfYWJfY0R5YlRCZEFVOV9OM2lCaXZ0Z2hjSjJVbg?oc=5",
@@ -653,24 +670,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "c3f4bb0011fe",
-   "title": "{Funding Alert} DigitalPaani Raises Fresh Capital to Accelerate Water Infrastructure Automation",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2lYSHdyUG5PNlpZNXVjLVlUaUZCWmF6SjhJcENndEFuMXowSVZGTFA0bnYxcHpkWDZPOWI3QW91MnludDhqTTdYeXdmbTN0M2hxeEZLWV9xV3RLakVYZm9sSE5BTEpadzFRbDFFSy01cFFrd1ZGbmItMjI0ZGg3RUk0UFVJZEdTcDN3djFvVGNsR0ZWNkNlRGFaaTV2ajZGMzR2dWxMTFpEZUl3Rmh0a00ydndzYTBtMkFjX3dEaXZHZGxU?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-08T10:53:02+00:00",
-   "score": 53,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "fb05b3093cbd",

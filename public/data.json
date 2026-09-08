@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-08T14:37:38.826029+00:00",
+ "generated_at": "2026-09-08T14:50:07.048847+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
+  "fetched": 54,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6eb01a282e3b",
+   "title": "Why is EY giving employees \u20b9800 crore in bonuses? What does AI have to do with it?",
+   "url": "https://www.livemint.com/companies/why-is-ey-giving-employees-800-crore-in-bonuses-what-does-ai-have-to-do-with-it-11788876447655.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-08T14:43:39+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Why",
+   "amount": "\u20b9800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9800 crore",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "bba906457da2",
    "title": "NCPCR summons Meta India head as inquiry into child abuse ads on Instagram gathers pace",
@@ -40,6 +59,24 @@
     "funding in headline",
     "$1 Million",
     "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0c042ebc7ef9",
+   "title": "Areion\u2019s maiden GIFT City fund secures USD 50 million in commitments within three months of launch",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbks3enRsVTY4Z3dieEdHdUcteWx2Nm5yQXU0Vm5kdUhyWWZqdG1IZWtsNUlnTE5GbVRkOVFqbG9IYWtzSUc1QkZ2dGlKMmFSanMzY3VMVi1LUnN2N0JZYS1kdTFjVzBIODVKZXdSUk5WcjdlUXBjdGlXb0NMRFNuZ1h3VlFPanRyT2pWel90Qzl1QzlHRktyczB5ZDRGTlA4cWE4UFdiU25neEpqQlVCYmhLMXpZY2tNZlNkcHJVRHNuOG5NX1dLd0ZGVHpfTGY0bjA1WUhkM28wa05t0gHiAUFVX3lxTE0ycDR0N1Vudk5CbVB4MzhLZDhaa0hDVzVXZUlrZVdTTF9XZTZyN1dJNENSODlSeVFqUF9TZmRFZGVrVWtLdmFZT2c0NlRkZWF4b1AxMHI2OW02SzRYZ09BN1hUNnIyVkx5WWtRTG41cmI2SFNSN3JFUHJIUFZTdENlaVlQbDZISWZMMTBWdHB6OGRkVHpZaTN0QVhaSjZGeDFFTXJjVXNSTVlfT3ppc3FKYzI3aW5vU2Y0T3JrU0hiZUJqZS1jd0FGcDZGZFc3NE9wRnR3d2ZYZEdhS3lUU2s2ZVE?oc=5",
+   "source": "Sangri Today",
+   "published": "2026-09-08T13:58:04+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Areion\u2019s",
+   "amount": "USD50 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "USD50 million"
    ],
    "alerted": true
   },
@@ -669,23 +706,6 @@
    "alerted": true
   },
   {
-   "id": "700262aa4de5",
-   "title": "Retail India News: The Kaftan Company Eyes Middle East Expansion",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjdrWm1WdkxnVUJ1MDV4MGliYmJmVzJzdnZGWGtnZDNTTlpxQ0YwWldzdFFYMDBHeXZ4aHQtdnNRenM4YTlLelFpN19EZ3R6LWNRbFRTajJmSk1zSFd4UFo0cE8zVGN3bnVJRkJtZU84enZKbHdhd2g0S25xSDBySnh2ejBPZVNreU5yR1drUGlROWhLejd4ZTlzQQ?oc=5",
-   "source": "indianretailer.com",
-   "published": "2026-09-08T10:35:19+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Retail India News: The Kaftan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "40eefdac3bea",
    "title": "Emami's BoroPlus takes on Johnson\u2019s, Himalaya, Mamaearth with FromMaa launch",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaVN5enJ4MWlaNkMzR09TRjVMZ1NRYndNLUJUSGo5d3d5dGZxcUFYRkxleml6U2l0VThXYTlpYUVsUGlmcVhuRWg5enNSZFJPNk5vWl9FYnQ0V3N4YWJXeHRrMk55eXYydjBXRS04aUtlVVgzZG9YakZyX2ZrejIxbG45a0c1X1JjeVJMclNucERGMXBERHhfR0lKZnJWaXJjb192S1E1aGhqQmU0YWJqaTc0SkpRRTNZSXJ5YWhjazNsYVJZN3dxeWNSNVp6a2piRnFpT1BDbjhaRkFxMF9GSkczc2NQbDk5TGZRbDFCNNIB7wFBVV95cUxPaVN5enJ4MWlaNkMzR09TRjVMZ1NRYndNLUJUSGo5d3d5dGZxcUFYRkxleml6U2l0VThXYTlpYUVsUGlmcVhuRWg5enNSZFJPNk5vWl9FYnQ0V3N4YWJXeHRrMk55eXYydjBXRS04aUtlVVgzZG9YakZyX2ZrejIxbG45a0c1X1JjeVJMclNucERGMXBERHhfR0lKZnJWaXJjb192S1E1aGhqQmU0YWJqaTc0SkpRRTNZSXJ5YWhjazNsYVJZN3dxeWNSNVp6a2piRnFpT1BDbjhaRkFxMF9GSkczc2NQbDk5TGZRbDFCNA?oc=5",
@@ -701,23 +721,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "58b93d9c4185",
-   "title": "This Cannot Be Done Only By ISRO: Chairman V Narayanan Calls For Major Industry, Startup Push To Power",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQR1BZa3o3R3YyakxjVElMRXY3ZjgzNHotdUdpV0I1eGJzRC1FZ1hMTmpuVE9yTjl2amFGc2UtNlh4c05QQ2JGU1M1Uk44alg4RXk5NVAtRFJ0eXhQYzRMZy14M0NFUVloeEQ4WEZFN2pCX2xtS0hBQVZrWlJaTzBJcEZlbGRFMjRkWldTUl9pLWhGUFY2NHFUTU5TREJTc3lZbW9pMU1tWk00SF94S2EtdFlfU0lrZ2JzVHZHeTh1MExlT1JHWUloWUVIWjFrbVQtd3VfMXl5NWN1VEU2X2l6VTJxSnF3eUZhRk5haG5NTGxTc2ttOHotelY0U2llSzDSAf8BQVVfeXFMUEdQWWt6N0d2MmpMY1RJTEV2N2Y4MzR6LXVHaVdCNXhic0QtRWdYTE5qblRPck45dmphRnNlLTZYeHNOUENiRlNTNVJOOGpYOEV5OTVQLURSdHl4UGM0TGcteDNDRVFZaHhEOFhGRTdqQl9sbUtIQUFWa1pSWk8wSXBGZWxkRTI0ZFpXU1JfaS1oRlBWNjRxVE1OU0RCU3N5WW1vaTFNbVpNNEhfeEthLXRZX1NJa2dic1R2R3k4dTBMZU9SR1lJaFlFSFoxa21ULXd1XzF5eTVjdVRFNl9pelUycUpxd3lGYUZOYWhuTUxsU3NrbTh6LXpWNFNpZUsw?oc=5",
-   "source": "Free Press Journal",
-   "published": "2026-09-08T10:17:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Cannot Be Done Only By",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1424a422c0f9",

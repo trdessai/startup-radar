@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-08T05:01:58.222054+00:00",
+ "generated_at": "2026-09-08T05:19:46.748533+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 26,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0a8e6ebc9da7",
+   "title": "Agnikul inaugurates new assembly & testing facilities to build reusable rockets",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGlQUFdMR2V0STZ3WXduWDRRVnk0UElweElqUHQyY3duMVIzeXVxOS1GcFVsOUxIQXVKTkdQZko2ZzZGNWFRYUJhb0xmQ2t4NnBvTTVCazJxWlBzV21aSkxXSlYwSC1oWnRTYkx1dUVEc0hIb3ZhU2VVZ05Pd3d1M0VCN3c2SENpNGdFbkdQVEJZeEwzckhIT2V5OGVkTlB4RzFUT1V0d3B4Q0F0UHM4Rl80cVNKM25pcjZYOFFzMHRtU2lZUEFPZ0xrRV9ZeGVjWFV3N1RMdjBfOEXSAdsBQVVfeXFMTlRpUFBXTEdldEk2d1l3blg0UVZ5NFBJcHhJalB0MmN3bjFSM3l1cTktRnBVbDlMSEF1Sk5HUGZKNmc2RjVhUWFCYW9MZkNreDZwb001QmsycVpQc1dtWkpMV0pWMEgtaFp0U2JMdXVFRHNISG92YVNlVWdOT3d3dTNFQjd3NkhDaTRnRW5HUFRCWXhMM3JISE9leThlZE5QeEcxVE9VdHdweENBdFBzOEZfNHFTSjNuaXI2WDhRczB0bVNpWVBBT2dMa0VfWXhlY1hVdzdUTHYwXzhF?oc=5",
+   "source": "India Today",
+   "published": "2026-09-08T05:12:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Agnikul",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7a5048b5af82",
+   "title": "India-US Space Partnership Enters Co-Creation Phase, Unlocking New Business",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVml6WVZLY1hHUkloTUhONXFzNGtHM3lnMGwzaHpsQWo2M1RvcWFlNWkwelNfWUpJVU5Va25obXF2elNIOW5lVmNqYmVXLXdvUnJETUhxOHg1dE12Q0ZLRVlxTFIxUS16Tm9LdnRQbnhFOVdPOV9LMUlmYWVxYTdId0sxa3M4UnZnTUZ5UmhjOXJBaHhwVENWVlJSWWlrbFROVEo2TUFCUE95bGxQV0M1NWlqWjdlS1YyS2NraVAwUE9JOXJtekwwLURKTVJraTFzX3c?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-09-08T05:08:50+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "India-US Space Partnership",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9040a766ef2e",
+   "title": "W Health Ventures Marks Close Of Fund II At \u20b9700 Cr",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk83YURtOWYwMTFybVI5TGRSV2cydjlqWUxXYURkNFRpclI4ODhpWlVEa0RPRTl1Z3c0aWgxYjNKYWZEdVlzSW41TUpMZzdxNDM2alE1ZkFFOF9hWnVGS2NLZS1CZHZCNWRETkl4TVFkMUI2LU9kY1cxN1ZTdktFaDVNaG1pVVFzNU9V?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T05:01:07+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "W Health Ventures Marks Close",
+   "amount": "\u20b9700 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9700 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "e2880ace0b6b",
    "title": "What SUGAR, Nua, Pixxel and others reveal about startup funding in India?",
@@ -22,6 +74,23 @@
    "reasons": [
     "funding in headline",
     "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ef0e45ba6378",
+   "title": "Europe and India: New Frontiers in Space Innovation",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcENkVnRwZXZWZFNhQ2Y4azhwRmN0NXdjWDNLUGJ2TGhjRmo4Zm9EVjFkbFdINzUtTzhJM1RMakRXT1o1STVUMnlLSDNkYUlYUFRzY25SYnBKREdZMnA4SDFBa016cnlmRFZ4cTN5RW1xMXdXQ1duaVBPUUtLTXJ0S0hqa1BlREZvYVk2dEVkV0cySFpTOHZTcTFzcFkwaGJNNVVkZ1B4Z3plLTlTcmMwNFY0U2NvZ9IBuwFBVV95cUxOclZFdWJXd3ZPcjlja0JQODVjZnFaTFhlak05MkdWV0Vla2lSZVpIM0N5N001cWdjUk1JZWU1cVVHWEQ1N1hXUmNiZlFyajdkVkJIQTVkeWx3dWp2dnVpLU5QNUl0SzRTOVdLVmJuX3RreUJqYXNudlRWQzRxc1BGSHpTeWR5N3JTUS1KY1czc3hKWkJ0aVhndEZTSFZkVHAzd3BWTmhvS1JzNlhCMGhxUFZBX091Yk4wWTc0?oc=5",
+   "source": "devdiscourse.com",
+   "published": "2026-09-08T04:56:02+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Europe",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -97,6 +166,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "e1047881f3e6",
+   "title": "How TenderCuts is rebuilding in new avatar after moving from PE funding to distress sale",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1hzMWZkd21BaHlEbTE4a0NRSVlIQndGZEJJcFdwTHpYWXRjXzZ6WGx4UFhVMGxsbW1jem1nb2ZHRUdlV1I3NktrcGUtUmExdkFXNWV2MHNZUlhTQ1RyLVpjXy1BS2h3WVJIdnBHM2lKQlFjanViVEViY0pzR18yTFF1U0FYSDF5RkpFMlhGMmNNUHd2aW1oek96eEh2WU1qQ2dsM3JZTUlxMGowMkZRMVF3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-08T04:15:37+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "How TenderCuts",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "d96a0b175e78",
@@ -495,41 +581,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "66e617a2243e",
-   "title": "8 Kahlil Gibran quotes on the human experience and pain",
-   "url": "https://yourstory.com/2026/09/kahlil-gibran-quotes",
-   "source": "YourStory",
-   "published": "2026-09-07T14:43:46+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "27f4104fef26",
-   "title": "Wildflower Naturals Expands Quick-Commerce Presence with Swiggy Instamart",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUtMT3VnckZ2ZEhJaE5taUdwVFZteVFHNl9lYkxvY1NrYl80TENQY3dablN6ZE9xcHdCVWdoWjEzelJieDhMaU1tdEkxZUxYSFQwS0ZNTjk5N0RDeGl0RXZ6eXJzMVBfR0pFSlp0blY1SVBWVm9fTGVlYzg5QTB4YjJhc2UzRlYwQVp4SldpYkhXOGFJQ3YwVUpsNlVYSV9CX0ZrSUkzSG9uS0N5UVZmTlJB?oc=5",
-   "source": "Passionate In Marketing",
-   "published": "2026-09-07T14:38:20+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Wildflower Naturals",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },
@@ -7044,23 +7095,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "070cf1c7d222",
-   "title": "InsuranceDekho and RenewBuy officially announce merger",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGZRSDNRSTA4QjlkbnRaT2FDdGRpR085QWktNlMxTVRNM1B2LXB2TGNLTU9yZmE5Mms1SFNadEJzUVZWcU5IZUk2NGNyWW0zTXNiTGlBcmE3RGVfS3QwbUZQdVlGX0VjanB5NGVPMmYyNWl3dmlfY2J5MHRhR2ItZXRHSlFqeV94czJENUxOX19wTlHSAZMBQVVfeXFMTmhmUUgzUUkwOEI5ZG50Wk9hQ3RkaUdPOUFpLTZTMU1UTTNQdi1wdkxjS01PcmZhOTJrNUhTWnRCc1FWVnFOSGVJNjRjclltM01zYkxpQXJhN0RlX0t0MG1GUHVZRl9FY2pweTRlTzJmMjVpd3ZpX2NieTB0YUdiLWV0R0pRanlfeHMyRDVMTl9fcE5R?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T05:16:11+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "InsuranceDekho",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

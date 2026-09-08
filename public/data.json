@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T17:19:25.956150+00:00",
+ "generated_at": "2026-09-08T17:30:08.074774+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 32,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e3eadb48bba8",
+   "title": "Cylake raises $250M convertible for sovereign, AI-native security",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON291TEZQVG5kWEpLODRiN3pnTG54UlJ2Zl9XYnhkTExjblhHRWtYUUx5Yml0M2x5NHE0V210MUpwMWhrdjM0LVp1MUpEcldCZnZ5R2pzbElKU3NhZmZ5c3hJRkZTNHNGUXZMZ1hnZmdCejRBTTUxY2syMVpwajVKTUxvNnJkQm8tUkZscUxuRkc4Y2E3VVh1RGFwb0pVQQ?oc=5",
+   "source": "app.dealroom.co",
+   "published": "2026-09-08T17:25:09+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Cylake",
+   "amount": "$250 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$250 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "da36453220b9",
    "title": "CCI closes real money games-related case against Google",

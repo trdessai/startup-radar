@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-08T07:03:31.514925+00:00",
+ "generated_at": "2026-09-08T07:21:10.112438+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 53,
-  "fresh": 7,
-  "alerted": 0
+  "fetched": 52,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "bdce8ab94191",
+   "title": "{Funding Alert} Circolife Raises $4.5 Mn Pre-Series A Funding Led by Bharat Jaisinghani",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzU4aVN1WWY3TDYxR29nSnkwWUtzcmlFanFIdEVENXNpMGNNVlIzYTJqNzFWYXB6RGJxX3pzc0twU2ppdHNEMFVqbi15aTZYOEo0aHdPZDBTU1pVVkY1WXpmNjJtVXlCU05sVDEwMlBGalRRNEd5eS1LZ18yaUVxWW1OQUdZb2RpOTV5XzBEWG1seEtKaEZ3LVhwM3N4X2JPcE4zd1drVEVkSUFOU0hZVi1nb1A?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-08T07:10:02+00:00",
+   "score": 73,
+   "category": "funding",
+   "company": "",
+   "amount": "$4.5 Mn",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.5 Mn",
+    "Series A",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e5a921ddbd3e",
+   "title": "Temasek-backed Indian satellite startup aims to quadruple output capacity",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEVZQ29hYXA1eHhfbF8xOHJxcGRXTWtYMzFvc2tjVWEzS1I5N015S084dEFIZWZpZGgxSW5tSE9JUWdXRGlrTkppbUNLd3F3eEN2WEs1cWhVN1NaM0hjU2JXT1ZrLTc2dFRsanB3S2NIQ05DWTlud3JCeEVKdmpKRlIxbVk5dFFFcF9uVGZvYzA0Ui1fa09nLTJVVmd6dHFScmJiWDhRc1ZUSUlUbF9HM3pGamhmVDhRM1hzZ3ctQQ?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-09-08T07:07:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Temasek-backed Indian",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "d3d11e064fca",
    "title": "Charles Tyrwhitt Opens New Store in Visakhapatnam, Expands India Retail Footprint",
@@ -7059,43 +7096,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "25d3e8ad0c6d",
-   "title": "Indian startup funding nears $1 Bn in August after July slowdown",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcy03TXhTN2Q3aGxsUzhEbl8wdEYwZVFaLWtLMW1sVERKcmRMYy12Y1NxUV9sNF82UFZJUEI0c0UxMThLM3pHUDRFbGJSTXlZMHRTZFNGV3VqYVJaMHNKV3NwN1FfZFpzR0diY0oyNm5NV2tWM29SS2g1bzlxMUJETGZMVzdvbTlmenBtU3ltUFNxOG5VYTNORTBoTE10RWJzQWfSAaIBQVVfeXFMTnMtN014UzdkN2hsbFM4RG5fMHRGMGVRWi1rSzFtbFRESnJkTGMtdmNTcVFfbDRfNlBWSVBCNHNFMTE4SzN6R1A0RWxiUk15WTB0U2RTRld1amFSWjBzSldzcDdRX2Rac0dHYmNKMjZuTVdrVjNvUktoNW85cTFCRExmTFc3b205ZnpwbVN5bVBTcThuVWEzTkUwaExNdEVic0Fn?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T07:04:11+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$1 Bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1 Bn",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "713d56dfaabc",
-   "title": "The Rs. 50,000 Crore Real Estate Trap: AI Disrupter Launches Bank -Grade Property Verification For Rs. 99",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYU9ZT1pGQldOMHVXRmV0WjNoU2NLam5yamJWQWxiSjRLQ3d3U2c4ZEpib3l6U05tUE94MXdrcE5EM1lrek14Q2VYOTFxNVNTVjhRR1BaS2FVN2hCZWptYVl3R0RPTWQwYkhwUzJuY0ZZRG9VWXk4UXVTMkxmOEZWclByeHZONTdzTnZma1BOWW56NHFWMHl5bGY3dDRmV1hCM0hlUWV1NDNkMXpPbnBuRWY4QTZNT0lBZU1pd0JHOHQ4eGlENURHdTJZZDItNHJsOTZUSWVYLXp2WktpbE1DV21hejFqUQ?oc=5",
-   "source": "ANI News",
-   "published": "2026-09-01T07:04:00+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "The Rs.",
-   "amount": "Rs.50,000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs.50,000 Crore"
    ],
    "alerted": true
   }

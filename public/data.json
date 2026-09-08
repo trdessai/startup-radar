@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-08T19:18:24.964430+00:00",
+ "generated_at": "2026-09-08T19:28:41.327804+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 1,
+  "fetched": 24,
+  "fresh": 3,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "96c815e4c293",
+   "title": "PE Giant TPG Sells Shadowfax Shares In A \u20b9200 Cr Bulk Deal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWF4V0kyQll4THVrcTl5VGpnd1A1cUJvY2FuX1ppQmhSeU5rNjhtMXdjd0tLSEJ0aW5rQW5vaE1EaUJFVkJobW03UlNtdVlzYzZJcjZSNUhsbDNxU25fWWRpRnNRNGZhNXlrMWEwS0tRdVEwclc5dTAzQmJqR0FxWjEwQVY5WGlHY1VzNmNUUG81dFR0?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T19:23:43+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "PE Giant TPG Sells Shadowfax",
+   "amount": "\u20b9200 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9200 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7f262e7e27d2",
+   "title": "Lickicious raises funds to expand manufacturing capacity",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdXcxeHF4em1TYU1yTUtRODkxUHlXTjZiVHQ1aGFjZkFnNTVQclA2Z2dJSi1scUdrM3FnbDU1Xzd2RnV1aFVpODY2ZjE2V09VVl9ES3kzaFI3ZHNNWndHOERMYklRTDVndTQ3QmlpaGctMkRxQ0gwRVRTdVBXbGhBYUVsUjB3VE83OVdkR3JYWVlRVWtQbmJvRkNRWjc5clk3TF8ySHBDU2kzdE5jZ2M4Znc1VDVlY1JfckE4SldkNHB1TXVDcVV5ME9yQlNLaVRXT2NweW9Lbw?oc=5",
+   "source": "PetfoodIndustry",
+   "published": "2026-09-08T19:15:33+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Lickicious",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "d5abe3fcabbb",
    "title": "Pixxel raises $100M in record Indian space funding round",
@@ -560,23 +595,6 @@
    "alerted": false
   },
   {
-   "id": "5121f00c5cc7",
-   "title": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3FMbENNSzh3OXpjUW40MWZnUWstcUZJdVdVVzB4dHVTQnRVM3lnVVNMLVFCRUZ5aWhMeGhqV0VLOF8xTUp3M1FMY2p6d2N4WTJyRUdLd0dsOXVsVFRsVEV0NHBLcjRGTHpLM1VWNmJWOVI2THpPUkRDeVk1RmxNU1hiNXNrWDlZbVAxZEhB?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-08T13:03:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Bajaj Finance Picks Up",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ab61193eb047",
    "title": "Amazon India launches Creator Connections to pay influencers for clicks, not just sales",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlFOZS1vSW1abU5wV1FROVdXbnkwOTIxWWo1cnhkZ0YzTEFkMnMyT0NxV3BGSWdadjdzWm96TU5YUDBTYXVlcFRmTDRwUndVTmJKMUlHbjNzdWdHWkxCUk9rZWNYX0hwYzA0N2hMWEc3R2xqQzByU0dUSjR3QUZCS3ZYYUt0clljMEFPRkN1R2dnVFZFaWFVMGg1RW5qRzc2VndWeGgzc0NOV2c2VFN2blc3S19Ra3FDUFNvQ1ZaVUlPNFA0dXVtTEZn0gHKAUFVX3lxTE9GUU5lLW9JbVptTnBXUVE5V1dueTA5MjFZajVyeGRnRjNMQWQyczJPQ3FXcEZJZ1p2N3Nab3pNTlhQMFNhdWVwVGZMNHBSd1VOYkoxSUduM3N1Z0daTEJST2tlY1hfSHBjMDQ3aExYRzdHbGpDMHJTR1RKNHdBRkJLdlhhS3RyWWMwQU9GQ3VHZ2dUVkVpYVUwaDVFbmpHNzZWd1Z4aDNzQ05XZzZUU3ZuVzdLX1FrcUNQU29DVlpVSU80UDR1dW1MRmc?oc=5",
@@ -592,24 +610,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "4b83c6832236",
-   "title": "7 Kathryn Stockett quotes with unexpected life lessons",
-   "url": "https://yourstory.com/2026/09/kathryn-stockett-quotes",
-   "source": "YourStory",
-   "published": "2026-09-08T12:50:00+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "9a28a272dc8b",

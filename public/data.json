@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-08T07:36:14.661251+00:00",
+ "generated_at": "2026-09-08T07:47:46.750590+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
-  "fresh": 5,
-  "alerted": 0
+  "fetched": 66,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "bdb161f52c19",
+   "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzFGYmFmQTJCYnN1QWZnMnNEOGNQb0Q0WDMxV19GenRabDB3UXFuRlVUbUVTWjNjYlhsZEYxZTllMHl6UXdTbUFjNUdIUldrSEpGN004dkxiQS04OXdsUUhLWnZvdElpTGxzWHpPYkwzempCTFhwZzFRRV91S250bG1pSi1sblpQMVkzbnBB?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T07:38:33+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Fundly.ai",
+   "amount": "$4 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8342d4e2100d",
+   "title": "The Ground Reality For The Gig Workers Powering India\u2019s Instant Help Boom",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDU0QjVsaUQ1aTIzY1ppdDRuU0duUzhRcmJ3aVFQcE00MmJHRXVKVDVjbU9RSHVYRFcyWXJMNDdCaGxmbTgwa1czVGJUT24wdkdvNHdfU2trQng1TllUTWdhQndmNWJydnFoNmZ1SnNBSnZZRDJNSVZUMjFFb0JLTVpUUEtjWmQwc2NaTURZdTB5SG9KV0VFQWlfZkhXLVRNVHc?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T07:37:44+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The Ground Reality For The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5197426a68e4",
+   "title": "Zerodha Corporate Advisors",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QVlhVUTBmS1ZkbGxMVEgxZk83OHJzNDEzUExoQjkteHpqS0Rjc3hWcWthSEJncUZOWUtSRW1fS2lnUVpHTWtoY2lTZTZuekdyalNFbDJHWHNKS1I3UXc2NjBkVlRNUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-08T07:37:38+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Zerodha Corporate Advisors",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd8c464c9ce8",
+   "title": "Beyond ISRO: Meet 5 Indian Space Startups Making Global Headlines in 2026",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3pBZkloRkFxVmZMVlZQbDRLUldmN1l5VEpZdzZzUjE4emtYT3lNbnRuU2dLT2RlaGlaMjFyVlN6cGM4NFdGN0F0Q2RQOWhHNUlKWnNEV05mZWZOWXBZOWJYX2lKdWlzYXljV1pXWmtyODBROFFJWTF6bEhvVllwQ19oZGFidEVIWjZRNkxNbVEtV3YwemdvbjFjamhNWmZPSzdobDI4ZDRLNUJQbnMzSVVicWJjX2RFWjVTT012RQ?oc=5",
+   "source": "forbesindia.com",
+   "published": "2026-09-08T07:35:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Beyond ISRO: Meet",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7cbf659fdc94",
    "title": "Blissclub founder\u2019s stake slips below 40% after Series B; Meesho\u2019s Vidit Aatrey holds 6.94%",
@@ -532,40 +601,6 @@
     "launch in headline",
     "no company named",
     "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "09d3665db9a0",
-   "title": "GalaxEye targets global space imaging market with US patent",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzlKQjNwMlB6WkFuYjVSbERwYXBHVXJneHlzaWJvLUREY3lJSjhzYWxvWjdqSEg1WEtiOHRrZHVYRVdyQWFPM195QmhQV09UQk5xa2tNU2N1QWFka0pyeWNmS0RsNnZmTllQWGFZQUY5Sm9aNGk2SkhHci1XRGFsUWp5MmhBTFZ6dUp2Z2F1S3NZYVB6cVBuS1Jn0gGaAUFVX3lxTE1nOUpCM3AyUHpaQW5iNVJsRHBhcEdVcmd4eXNpYm8tRERjeUlKOHNhbG9aN2pISDVYS2I4dGtkdVhFV3JBYU8zX3lCaFBXT1RCTnFra01TY3VBYWRrSnJ5Y2ZLRGw2dmZOWVBYYVlBRjlKb1o0aTZKSEdyLVdEYWxRankyaEFMVnp1SnZnYXVLc1lhUHpxUG5LUmc?oc=5",
-   "source": "ciol.com",
-   "published": "2026-09-08T05:08:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "GalaxEye",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7a5048b5af82",
-   "title": "India-US Space Partnership Enters Co-Creation Phase, Unlocking New Business",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVml6WVZLY1hHUkloTUhONXFzNGtHM3lnMGwzaHpsQWo2M1RvcWFlNWkwelNfWUpJVU5Va25obXF2elNIOW5lVmNqYmVXLXdvUnJETUhxOHg1dE12Q0ZLRVlxTFIxUS16Tm9LdnRQbnhFOVdPOV9LMUlmYWVxYTdId0sxa3M4UnZnTUZ5UmhjOXJBaHhwVENWVlJSWWlrbFROVEo2TUFCUE95bGxQV0M1NWlqWjdlS1YyS2NraVAwUE9JOXJtekwwLURKTVJraTFzX3c?oc=5",
-   "source": "Siliconindia",
-   "published": "2026-09-08T05:08:50+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "India-US Space Partnership",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },
@@ -7059,43 +7094,6 @@
    "reasons": [
     "acquisition in headline",
     "$3.5 Bn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e2dc0f4a3159",
-   "title": "Deep-tech aerospace startup Alteon raises $2.5 Mn led by Lachy Groom",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2VTcTdNZEMzS0JXTUoxRDBuUHJkN0xwMmFQRkMtTWtfNDhkQ0ZxdGRvNVpvN2JuaC1xMDdHTjY4Ri11aXI3VXAyMjI5Y3BOSDVLQ1hrZ3dGOU4tc1RMNXZvUTc5QU1Gdk4tVHpienllX2NvdlF2cDZfOURxOHlCcl9hQjJKZmg1WVZKV1UtMm9sd2xJbGhGNEw3dG5PQWdfa0dFT1RrWFrSAagBQVVfeXFMUE9lU3E3TWRDM0tCV01KMUQwblByZDdMcDJhUEZDLU1rXzQ4ZENGcXRkbzVabzdibmgtcTA3R042OEYtdWlyN1VwMjIyOWNwTkg1S0NYa2d3RjlOLXNUTDV2b1E3OUFNRnZOLVR6Ynp5ZV9jb3ZRdnA2XzlEcTh5QnJfYUIySmZoNVlWSldVLTJvbHdsSWxoRjRMN3RuT0FnX2tHRU9Ua1ha?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-01T07:47:03+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Deep-tech",
-   "amount": "$2.5 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "513414dbf5f9",
-   "title": "upGrad wraps up Unacademy acquisition at $200M",
-   "url": "https://yourstory.com/2026/09/upgrad-unacademy-acquisition-usd-200-m-edtech",
-   "source": "YourStory",
-   "published": "2026-09-01T07:44:46+00:00",
-   "score": 71,
-   "category": "acquisition",
-   "company": "",
-   "amount": "$200 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "$200 M",
-    "no company named"
    ],
    "alerted": true
   }

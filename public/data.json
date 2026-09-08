@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-08T15:43:07.973976+00:00",
+ "generated_at": "2026-09-08T15:55:39.114818+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
+  "fetched": 39,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ef16d48c2bf3",
+   "title": "Private space start-ups achieve milestones: GalaxEye gets US patent; Agnikul opens new test facilities",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPREZVR1RaVHVOSEZ0X1NLYXdRVGhNSjBLWTVXeDkxWXRWeWFCMy1KdHN0THhxdHQ4Vlk5NFNSd1R0T1l4eDJ5YnBpVTE4LXlrOHQwb0RHNHljcXNKZzduVGJNU3Z0OFBHN3ZOUTRzbVJIbDFrS09TWDZMZzJhQVFGY3dkci1FRFdrSE1yazFOYW5WLXRoUzVhYUNRRUdfZl9qd2JMVUtQb3loTHJ3MkgxTFFENklJcFVoNDIyaTkxZnhIdzhWUE9XaS1hV3FrNHhpVGF5ZElqZnhSZURSY3ZBY0VaWGFrOGhLdWlGTQ?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-09-08T15:43:41+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Private",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "28fe796355a4",
    "title": "Circolife Raises $4.5 Million to Expand Cooling-as-a-Service Platform",
@@ -167,6 +184,25 @@
    "reasons": [
     "launch in headline",
     "USD50 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c6db50910ba5",
+   "title": "Kerala-Based Gaming Tech Startup ARC Raises Rs 10.5 Crore Pre-Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkJuQXhpa2ZMS2N5YlpKMUNSMGNkV2JENUtzc1RMNm9scGNvc3FMdks0NkdlS3BnTGRpX3MzeVZ4MjJyTm9HZEhUS1ZyQ2pkMXpmVE5jaGxldXNURTVxUnB2Vm1fbzVXTlBjSWhVNHNESm9pSDBMWHltSmQzT21hVUhJQklMXzRnaHhkMUkwdFZoMEsyd0lIRFRtYm9nSzdnLUZ3V09LOFdUa1gtczdram91VzlOV0hMV0dkc0Zn?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-09-08T13:56:34+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Gaming Tech Startup ARC",
+   "amount": "Rs10.5 Crore",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs10.5 Crore",
+    "Pre-Seed"
    ],
    "alerted": true
   },
@@ -619,40 +655,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "0b86b70d0545",
-   "title": "Bengaluru Space Expo: Australia eyes India's private space boom, seeks deeper ties",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVZhVnpGcmhBSXpoYWJwTXdmcE43d3BFWlhGaGZyc2ozRF9rSHN6LTNVZDFWUnRFbENBckxmeGo3aWt1M0ZWdmczT1JMRkhFWUVJM2tjN0pxdEJpRzg3QU9PQU5sWnltYnNiZnNyajJXeC1YX015Zk9CeEdHbzQxLTlOaWNFWnRCOWZObnEwZHItUEN3UjdMdl93Q1hjN29OZ0J2SWoyVjFHNFJQcXhmY3NON2VDbXYzd3NZYTlPOXFEREJlbm91ZXM5dUQ3MUpsbEREUjBiQnJnZ9IB2gFBVV95cUxPYVZhVnpGcmhBSXpoYWJwTXdmcE43d3BFWlhGaGZyc2ozRF9rSHN6LTNVZDFWUnRFbENBckxmeGo3aWt1M0ZWdmczT1JMRkhFWUVJM2tjN0pxdEJpRzg3QU9PQU5sWnltYnNiZnNyajJXeC1YX015Zk9CeEdHbzQxLTlOaWNFWnRCOWZObnEwZHItUEN3UjdMdl93Q1hjN29OZ0J2SWoyVjFHNFJQcXhmY3NON2VDbXYzd3NZYTlPOXFEREJlbm91ZXM5dUQ3MUpsbEREUjBiQnJnZw?oc=5",
-   "source": "India Today",
-   "published": "2026-09-08T11:27:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Bengaluru Space Expo: Australia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4b5956ec1617",
-   "title": "Circolife",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xdnVkaE1BaXZ3d0dpQmhqOEpwanFKU1JiNXlabXRrVFhyQjZ1ZU5uMkFJMTBib0VibFZjckVIRVRkb0ZKNldzY0dCbw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-08T11:27:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Circolife",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "12afb5fed56b",

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-08T06:40:07.411585+00:00",
+ "generated_at": "2026-09-08T06:53:03.345526+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
-  "fresh": 5,
-  "alerted": 0
+  "fetched": 46,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "165c7e755a98",
+   "title": "DigitalPaani Bags \u20b922 Cr To Expand Water Management Platform",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkFWdzhJYTVTN2xyajRHelNMN25tZHpYUDV3NTNLSUR0bE9nRTZiYXRoeGQzeDkxYmVNXzhwV2YzMHllZDZFcVUzNndJZ2VzWC1pRGVUZGZ3OXRFRldCalpSTG5uX0RkamxQMV9hNk9xNTVhaXZZN2JSaEpVdjExT3NKS2lZeTQ0azR3d2lUM01scU9UVW9Z?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T06:41:37+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "DigitalPaani",
+   "amount": "\u20b922 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b922 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "aa9a12e26549",
    "title": "How Can D2C Founders Scale Business Without Losing Control?",
@@ -58,6 +76,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "a84f4eff47bf",
+   "title": "French AI company Mistral hits $24 billion valuation in funding round",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms",
+   "source": "ET Tech",
+   "published": "2026-09-08T06:20:39+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "French AI",
+   "amount": "$24 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 billion"
+   ],
+   "alerted": true
   },
   {
    "id": "92f56e213dd2",
@@ -465,23 +501,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "92f81e8e010e",
-   "title": "Samsung India begins layoffs, 80-100 executives in TV and home appliance businesses asked to leave: Report",
-   "url": "https://www.livemint.com/companies/news/samsung-india-begins-layoffs-80-100-executives-in-tv-and-home-appliance-businesses-asked-to-leave-11788840247866.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-08T04:17:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Samsung India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e1047881f3e6",
@@ -7081,25 +7100,6 @@
     "funding in headline",
     "$35 M",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a85655d22223",
-   "title": "Kepler Aerospace bags $8M to deploy swarming satellites",
-   "url": "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites",
-   "source": "YourStory",
-   "published": "2026-09-01T06:47:54+00:00",
-   "score": 95,
-   "category": "funding",
-   "company": "Kepler Aerospace",
-   "amount": "$8 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$8 M",
-    "Seed"
    ],
    "alerted": true
   }

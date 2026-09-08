@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-08T16:21:40.599383+00:00",
+ "generated_at": "2026-09-08T16:37:35.308133+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 40,
+  "fetched": 36,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "3f9498ec94f4",
+   "title": "US-Based Circle To Acquire Peak XV-Backed Tazapay",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oTFVkUVJrVFAxdEVwRkd6dXRYQUNnd2pOOHFwRU1aMjBWTzlDcUNxUTF1aTRqWDFPejFFdlljbXQ3YU9RVXUyWktwM3plZDZpbEkydFZFaGRxN01JNFJpdk50dkJIbzdUd05NV3RMNURuajZvdkNDZWhpdW1OQQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T16:30:06+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Circle To Acquire Peak XV-Backed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8ce6e24924d8",
+   "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock/articleshow/133932526.cms",
+   "source": "ET Tech",
+   "published": "2026-09-08T16:09:37+00:00",
+   "score": 81,
+   "category": "acquisition",
+   "company": "Qualcomm",
+   "amount": "$4 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline",
+    "$4 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "81afc5812289",
    "title": "Adani Enterprises leads rush for \u20b937,500 crore coal gasification scheme",
@@ -573,23 +608,6 @@
    "alerted": false
   },
   {
-   "id": "41962d3ae7fe",
-   "title": "Beyond Shipping: Shiprocket\u2019s Emerging Bets Gather Pace",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1ZXY2dmTUg0c255VnBmNzR4d0dGaHRINGlQdHBycXN0RDVYY0d3QnE1b0p6OTFfOTJKTW11QUlta0ZEcXhhdEVoN3VoMkhzXy1NRmdJc01ROEhBUDR6cDVsMUtQQnJfSm1oN3h3aFdwbGUzOVdzT0JTdkhxMEpybEJ0SQ?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-08T11:40:06+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Beyond Shipping: Shiprocket\u2019s Emerging Bets",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "86fdc104a34e",
    "title": "Finnish Creoir secures seed funding to commercialise its defence voice AI products - ArcticStartup",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
@@ -623,23 +641,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "6c2b24e8b32b",
-   "title": "Gaming and D2C face Gen Alpha reset | Amazon scales creator commerce | HFSS rules could reshape branding",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaXFSVExlQ1o4bU5yMHVwYW9nZ0xoZ05JN3ZKNFloMkpHWWZXalcyTWhmUW9Yb1g1VzFFdW95TU1yUXNLd05JSXFFMmh1WmZPejhPRjlQZWl4ckJaUG9oajE1azk2ZlJyWEJnTFBSS29qQm1HaVN4Q052V21NVHRVRUtuR1VtQUt0MUhVb05CejZPSUxyNzdsTHlDM3NIMHNlQ0ZZay12cWhJZG5HMFFaNDlzZERqWHV6cmMzYmg4VkNzclJndm04UlFBc0xSeUtLQzNNd1VxY05LcS1HN3lfWFk2MXJ2TUQwRXdFMjUwV2FDcS1NcXfSAfsBQVVfeXFMTUs3d1pHVHhsNFAyRjI4andjUUJQZklxU1Y4V3JMNkpyV0RtMjZLLXBfeWg5Yy1odTJYUVNUbG41blBmdG1ydkhLSURCR2EtRlliVHJPQ0RZWnZmMHpDZ2VlbGZsbXBDb2FCM3VRSkxnQm00dF9iZy1JektnN3JoM0cxd1FzVUhBb2g2S1lKOFV5Z1g0V3k4ZllseFJya0JkTkc5RVhjZW1xdWVXT1ZjMmt6ZzJPbjkzbkN4NlJvQ0Q0dEFwTEcwQmpTS2twd2hjX0Rua183dHhKXzk4ekxUa09yc0FyVDNEYW1DN3dySnpleHVJQ1BYRU9jRnM?oc=5",
-   "source": "Storyboard18",
-   "published": "2026-09-08T11:36:02+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Gaming",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "5b9e6263c54b",

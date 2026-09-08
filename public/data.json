@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-08T06:02:52.997145+00:00",
+ "generated_at": "2026-09-08T06:24:59.279694+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 42,
-  "fresh": 7,
-  "alerted": 4
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "92f56e213dd2",
+   "title": "Jio Targets September 2027 Test Launch For 1,600-Satellite LEO Network",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMU9laDNVQUJzdzQzQzI0TmFSN3ZQX2NWX09teWtEWm44VHVoWmtkU056dVlEZy1DMXAtUmFuS1VMeGZCc3ZIanlBSGE0U1BDeWtxbUZvQ1hjVS1GUDVhclBzY1Q0d19la2JfN0dxVVdlMEN1SjVEQTNuWlZvSWxWTU1BUGJuNWVRblRxVUMzcE9SN0RnR1l6Ng?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-08T06:10:22+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Jio Targets September",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "2947c6b3b11b",
    "title": "Fundly.ai Raises $4 Million in Funding Led by Accel, Multiply Ventures",
@@ -344,6 +361,23 @@
    "alerted": true
   },
   {
+   "id": "2ee8fe1337c3",
+   "title": "How Zerodha plans to grow its merchant banking business",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT182UWEyaGZkajhscG9Bcnc3YXdlcXI0cmNmd2ctdk5USV84VkZfSE5VS1N5SXdmQTJ5ejVpMzJxWkVwSGN6SWY5UWdycnhXRlA5dVVMbmNzbmhxVlVRdE1GV1ZkbU92Zi1UNllTQUlvSXo1MGFXZ0dNdzVlbFRCSnZtd1JxQQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-08T04:26:48+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How Zerodha",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "8dc3d50d4b09",
    "title": "How is special situation investor Avenue Capital faring from India exit move?",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWo3SEtTZHJLRVNxZG11S0lPdElEVERYU3RvQlhNRkgwLWNpdHBRcllxdlE3bTV1NjY3SjVxUVZUcUFZVy13Y3pWaklWa2pDQ1IxNWY3dFoxdzI3Yk0wVXF6Y05OZVJ2aWlVdldualBNWlVDMFBJSUtGbkZJNHVtZ3hzV1pweDBQS01VRTZQd1BteVRpd1VNZC1EN3pBM1k4?oc=5",
@@ -446,40 +480,6 @@
    "reasons": [
     "no clear event",
     "Angel"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eced1daa3a0c",
-   "title": "Tech companies look to Argentina's windswept Patagonia to build massive data centers",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-companies-look-to-argentinas-windswept-patagonia-to-build-massive-data-centers/articleshow/133905126.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T03:16:02+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Tech",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a844c08d059a",
-   "title": "Don't ban children from social media, Estonia tells EU",
-   "url": "https://economictimes.indiatimes.com/tech/tech-bytes/dont-ban-children-from-social-media-estonia-tells-eu/articleshow/133904762.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T02:58:21+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Don't",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-08T03:32:32.484206+00:00",
+ "generated_at": "2026-09-08T03:46:26.002964+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 0,
+  "fetched": 14,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "dd675b63496d",
+   "title": "SEBI gives angel funds 7-month extension to comply with accredited investor mandate",
+   "url": "https://www.livemint.com/companies/news/sebi-gives-angel-funds-7-month-extension-to-comply-with-accredited-investor-mandate-11788833824743.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-08T03:44:07+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "SEBI",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Angel"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eced1daa3a0c",
+   "title": "Tech companies look to Argentina's windswept Patagonia to build massive data centers",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-companies-look-to-argentinas-windswept-patagonia-to-build-massive-data-centers/articleshow/133905126.cms",
+   "source": "ET Tech",
+   "published": "2026-09-08T03:16:02+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Tech",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a844c08d059a",
    "title": "Don't ban children from social media, Estonia tells EU",

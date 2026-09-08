@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-08T15:55:39.114818+00:00",
+ "generated_at": "2026-09-08T16:03:13.194341+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 37,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "628e503a55b0",
+   "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
+   "url": "https://inc42.com/buzz/pm-modi-urges-fintechs-to-step-up-cybersecurity-consumer-protection/",
+   "source": "Inc42",
+   "published": "2026-09-08T15:59:14+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "PM Modi Urges Fintechs To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "ef16d48c2bf3",
    "title": "Private space start-ups achieve milestones: GalaxEye gets US patent; Agnikul opens new test facilities",
@@ -621,23 +638,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "370431692313",
-   "title": "SOCAN sues Suno over AI music copyright infringement",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUMU5fb2JMZHBjUXZ3Um1HT1BSeW5qTk9kSkRUU2liNEU0MjRFNmpGVXFHU0N1TmJTb0I2bUt4MWx3eTRxMmdwY2RManJBRnVpbl9uUUZ2am1kd0FCcWhCdnVldU52U09wT1BHbUlfMm55QQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-08T11:29:44+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "SOCAN",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e57d68c10140",

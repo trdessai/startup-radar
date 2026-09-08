@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-08T20:03:56.373424+00:00",
+ "generated_at": "2026-09-08T20:18:57.924971+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
+  "fetched": 18,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -21,6 +21,24 @@
    "founders": [],
    "reasons": [
     "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "01cb713f242a",
+   "title": "- medianama.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTTzNfMWkzT1NGdVp3TzB6VE1fWmhvcVpSdEVVRnVCR0dOdEU1RDJJaURKMTVsd0ppc1lJYmZjWEhycmdMN1ZsVTQ5dEwxSHJHa0k2NXNBZ1VmU0J3VUpiRWl3cHJxTkhjTGFkQVFnajkwVGExeUE4REFmUQ?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-08T19:28:39+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -586,23 +604,6 @@
    "score": 18,
    "category": "other",
    "company": "SORRY SUGAR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "72dce336b205",
-   "title": "STPI Organises Electropreneur Summit 2026 at IIIT-Delhi",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNVdGcTh4cUZVb0hiV2ZqQ2toTW9BdXd3WWhjbTFnRlpVMDhnNXpjRWpLVlRldjBYdGMzaTkwSDJBYUpFb2JKYjY4OW56OU5tUndGWEpPZDNFbGdTRkw1M0tzeDdqc0dm?oc=5",
-   "source": "PIB",
-   "published": "2026-09-08T13:22:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "STPI Organises Electropreneur Summit",
    "amount": "",
    "stage": "",
    "founders": [],

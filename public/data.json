@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-09T06:40:30.893201+00:00",
+ "generated_at": "2026-09-09T06:57:03.209093+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 45,
-  "fresh": 3,
-  "alerted": 0
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "47a1b8acfcb5",
+   "title": "Kotak Alts earns \u20b91,650 cr from HKR Roadways sale, a 2x return",
+   "url": "https://www.livemint.com/companies/news/kotak-alts-2x-return-hkr-roadways-sale-11788934128613.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-09T06:50:18+00:00",
+   "score": 71,
+   "category": "acquisition",
+   "company": "Kotak Alts",
+   "amount": "\u20b91,650 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "\u20b91,650 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d5de8e3a4b77",
+   "title": "Fleet Management Startup Carrum Mobility Raises $10 Mn In Uber-Led Round",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmloQlV6eGhtbi1pNGUtYXc0ajVBWlgzanUteUNqSjJZZ21UWlFLNUpWc09rM05GVE1qUzFmLV8zNml4OWVjWjctNTFzNmoxbGxUVVpUQ2NTOG9KTE5RcFl4NGpEUTJFVnNDVThvd1JCNEdnQTNZaloxVkNBdVZTRl80QXlqT0laZXdVY3huX0JrWmRNbkQyR1VCNA?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T06:46:40+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Fleet Management Startup Carrum Mobility",
+   "amount": "$10 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ec3a2538b8ef",
+   "title": "Gurugram entrepreneur built Skye Air Mobility to deliver e-commerce parcels via drones; hit \u20b936Cr in FY26",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcWh0Q2FFR1lkeWZuZVkxZ0VaMG10TGVQLThUOGdBQUhLYUthZVBSWWVYTEhmZFRSemNtSmRoWXkwY0JjMmN2bThBVm9neFRtWUJQTFZuMGg4SWcxbDNNZmswSFhRRk1POXk2X2d0WnBBN0pMbkxVZ256RFBKM0h1TEV2N3preXdncHhhc2RNSWVJeUtnTGxEcGxlekw4bFZKc25pM0hhRGdrR1hBS2x4R2J1SUVKVUNlZnhVX1Q5aTlaT0hrODNuVEZ1Y01LU0xQbEtrZlZiMDZrVGpzX3c0UDFIUTEwMUk?oc=5",
+   "source": "Startup Pedia",
+   "published": "2026-09-09T06:30:37+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "Gurugram",
+   "amount": "\u20b936 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b936 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "0e44c6b4f877",
    "title": "Nitin Nabin launches Seva Sankalp campaign for Modi\u2019s 25 years",
@@ -91,6 +145,24 @@
     "funding in headline",
     "$100 million",
     "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "08aaa6ac4640",
+   "title": "Top Tech News: Huawei Tests New Chip Tech, Pixxel Raises USD 100M for Expansion",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHEyYnYyRVVodVlkNVRodlVVSHFMcmlkdDZhZF9OQjJRQnFVVnd3NXQ4N0w4T2ZxVl9VSkhjazdfRnBvTXRtajllR05IOGV2ZlRNVTdfclZocGw1ODcxQTRVd0x2VHBRNUg4b0tBaU1vSGxrLWswbElCRlJ5OHdTVTZnSkxpZC1tbnM4azd1XzhnbmFiclZnd3lFeGFjNlZfM281WXdGTjdrU2Vpd1BVamNQX0QyUdIBwwFBVV95cUxPQVNqUkxxRGFNTDM4UUlfeUNHa0dzWTM4cUhhczR1eUdHV0tHbS1jLTJFdUE1d0t3OEhWQ19WTURVZHV5LVRqRDlscmstSnRqWUpnRk5aUkF0dEdPdHRhQWFPejBId0M0QVZkSVNBczQyRkloNUh6ZDNuZkRsMlZZU3MxR1Q4OXg4XzFUU3k4NVhGTVNMdFd6LTZieG1zdmpTd0NCX0t1Q1d2SWUyOUdibzdmY3J4WUdwbjlBVVdRak9EUjg?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-09-09T06:11:50+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Top Tech News: Huawei Tests",
+   "amount": "USD100 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "USD100 M"
    ],
    "alerted": true
   },
@@ -417,23 +489,6 @@
    "alerted": false
   },
   {
-   "id": "71a386be6d86",
-   "title": "Marmalade",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mY3ZkNndiZ29aTFplckVSX1gtQTZPQWJ3ZTM5N0E5VFF1VGVveDJhTEhFX1hDRXRJU2JvSDZCZjdNUkcyTmpiTVZHdw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-09T03:40:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Marmalade",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a28f85d69407",
    "title": "Alco-bev startup Marmalade raises seed round",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
@@ -467,41 +522,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "59bc819d3bab",
-   "title": "e4mXplains: Apple\u2019s real marketing advantage? Everyone else does the talking",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3FlSDFHYXZrNUl2Q1p4aVZjNEhLWjNELUxxc0pUV3RxR2x2SFZwUEhva21Kd2NBZjkyTGZiM0xCVVk5dUlpZGwwSzJBX1pfOHB6QktUOWRETFFvUlQ0cmlvVmNUWFBxaGNJVWwzRlRYV2tlRy1EOE1Qc3RoSG53ZnpmZV9fSnZiUkVrZTVVdGw2d2p3NE92b1d2VjluUDBiM2hBZ2JvUHZ4Z1VqV0s0WUd0SFlHdk1jVHFsYWlydmtuTGNRd3M5OTFXOA?oc=5",
-   "source": "Exchange4Media",
-   "published": "2026-09-09T03:20:09+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "787343bad1a4",
-   "title": "Iztri",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXd0xFV0FjbDBoRkFuc0t0SUxZYm1Tb3V4STNPMGRKZm90clVHNHZiQ3ItdHRZMkxJS1l4NUhXOGFSc3dEa1daX2F3N2pVMXNDOXc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-09T02:47:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Iztri",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "041cfc09ab5c",
@@ -7083,24 +7103,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f1f06da481ff",
-   "title": "Why is Isro launching GISAT-1 EOS-05 satellite nearly 35,000 km above Earth?",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbldoU1lkQi1xcWtvSmJxU194X19mcTMxSmdnRWFBR2VDRzdINWZPSWVpdURFMzlDVFhRQnltczczU2d5aVNwSDE5OUh3d1B1M3REU0d3b3NoWU9jXzZFQjB2QlFRNDVpYlMwNUNKUnVWSUJhd1F6UUI3QlJTcTFidF9feGpVWnkxQnZkS0p0MDRpdEl6aXJOQjlLMHZBbVZmZU4yamlWR2hhQVlxUU9FMUFiSFBQcG9yMVdueXhpTlZBRi1OVzJFNS1BZHJWUkMwemowaDFIYVhpVlFxZ1lYbkVhOXI1VFlw0gHuAUFVX3lxTE9zeXFzaUpoWEtCd1JqMEZRQ1lnY3h1cjV5SWJYWE9iSndXcWZxT0JVNkppcHp0clFCWlZTS09velhWcnpJVXRsejcxWkpWSm9YMEpWWTVwSkZWd2JvS0ZOOTR0ODhxQ1VjUGk2eXRaa3YtZGxRMlo2X3RDaXYzSUw1QXpSMmRKM2FPNXI3aHVxb3FubC1mLWEtQ1d3MDNWLTJNazctYmlvNVk1OGFSM1B2M0xjc0haNzl3TjFPNmJXZXZKLThaNHA5aXdYc3lfdGp3TXcyUk1HNmx1UEstcV9ZRTB3Zi12MVFQZE5OQ1E?oc=5",
-   "source": "India Today",
-   "published": "2026-09-02T06:56:42+00:00",
-   "score": 56,
-   "category": "launch",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "question headline"
    ],
    "alerted": true
   }

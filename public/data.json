@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-09T17:40:42.131561+00:00",
+ "generated_at": "2026-09-09T17:52:24.287112+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
+  "fetched": 28,
   "fresh": 1,
   "alerted": 0
  },
@@ -105,6 +105,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "eac1123f8426",
+   "title": "Can dogs sniff cancer? An Israeli co-founded AI startup thinks so",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDMxRVJZZS00aGllLXNDMzdmem80MGNxU1VOMjhVemFuMmFmUkUtQUNQajRTYVk3clVvalpwSVBRVnplaHEzdGJVRnNqOUJkVW1GcTlXNnZMYlBHNFNUa2VEOW5OLS1qelZ6VzlsUUE1UktFYTFtRUotT1liaVoyR2tXOWtBZGdsZWxDUjVGOUxXUlM4YzBadGlSMkpGVVJ00gGgAUFVX3lxTFBUMzFFUlllLTRoaWUtc0MzN2Z6bzQwY3FTVU4yOFV6YW4yYWZSRS1BQ1BqNFNhWTdyVW9qWnBJUFFWemVocTN0YlVGc2o5QmRVbUZxOVc2dkxiUEc0U1RrZUQ5bk4tLWp6VnpXOWxRQTVSS0VhMW1FSi1PWWJpWjJHa1c5a0FkZ2xlbENSNUY5TFdSUzhjMFp0aVIySkZVUnQ?oc=5",
+   "source": "The Times of Israel",
+   "published": "2026-09-09T16:17:16+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Can",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "0b38c12f625e",
@@ -909,23 +926,6 @@
    "score": 23,
    "category": "other",
    "company": "India\u2019s Startup Boom Needs Universities",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "165f75a59070",
-   "title": "RBI exploring gold tokenization, says its executive director at GFF",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNZ0NXMEFmODI0WDNVb3FBejI1MTdZcVVkZkpzOEM0dGtfRFJJUGxQM3QtRk9laWhYT2VuZVkxODFtdW1USmZsUi1kS2kycTBvRjE1Y0oyOUI2MTdWZkxkTlUzbmtWY3NrUlhIbkhYNkRicklYS1hXQw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-09T10:30:27+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "RBI",
    "amount": "",
    "stage": "",
    "founders": [],

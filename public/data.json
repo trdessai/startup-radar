@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-09T17:30:05.010395+00:00",
+ "generated_at": "2026-09-09T17:40:42.131561+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 0,
+  "fetched": 30,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -53,6 +53,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "eeea9ddb71c5",
+   "title": "Bengaluru techie left job at top IT firm, returned to Mysuru. Today, he earns Rs 1 crore per month",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNzczWUlNVGw2RUo1WVdmMU1jcmNuQ3dheno5bHF6bF84djJZdVNxbkJ5STNDamNEamZXNklRWmMwR0x1UUNNSm5RSDJWQ2NyWm1GaDBPNlRYUW1Rb2dlQWF3bWYycG5YX09GTmVVcDlGZFB6aU9LYU5wN2hvTlBYcmh2LVpZTzhSdW10bDdmd0t1U2dxUy1nejBjelFJdGgwRHlqZW9PRWJhWFNyY2VxMlppSlR6Zk13alY2TGJXUm1WLVQ3UGtWMkQwaWFISmFlSDRoSVk0YjBuRkJaN1A3T3VwOUFlOWVpTG10ZTl2cm11OXdwMXMzcFJ3R05SS3RJ0gGAAkFVX3lxTE83NzNZSU1UbDZFSjVZV2YxTWNyY25Dd2F6ejlscXpsXzh2Mll1U3FuQnlJM0NqY0RqZlc2SVFaYzBHTHVRQ01KblFIMlZDY3JabUZoME82VFhRbVFvZ2VBYXdtZjJwblhfT0ZOZVVwOUZkUHppT0thTnA3aG9OUFhyaHYtWllPOFJ1bXRsN2Z3S3VTZ3FTLWd6MGN6UUl0aDBEeWplb09FYmFYU3JjZXEyWmlKVHpmTXdqVjZMYldSbVYtVDdQa1YyRDBpYUhKYWVINGhJWTRiMG5GQlo3UDdPdXA5QWU5ZWlMbXRlOXZybXU5d3AxczNwUndHTlJLdEk?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-09T16:36:00+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Bengaluru",
+   "amount": "Rs1 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1 crore"
+   ],
+   "alerted": false
   },
   {
    "id": "e60fcda38c6c",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-09T16:21:16.203623+00:00",
+ "generated_at": "2026-09-09T16:37:20.148640+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 41,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 36,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "62647b7fbd3d",
+   "title": "Jio Introduces New RCS Business Messaging Rates For iPhone Users In India",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUc5TkVGdzhKZEtMZXRrWU9hYWRTT0lfamFwQndaYUFvZzlzN2hqVG9CMjBFQnVqdlNWbmNrRzlnLWp2RV9URGM3X0hmVkl4bjNMUVNmQmpFaUpXMlV1eXRlU2hnLUVSSTJPY3Nuc1J1RVgzVzR3Mjk3YXlacDZzZk5xaS1zdmZ3ZWxMQVMzQ2RydWliVl9xeE93dzZ4UQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T16:28:43+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Jio",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "0b38c12f625e",
    "title": "Meesho Discontinues CPO Role, Restructures Product Team",
@@ -7079,23 +7096,6 @@
    "score": 70,
    "category": "launch",
    "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4623677bc40d",
-   "title": "Flipkart launches microdrama on main app to drive platform engagement",
-   "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-launches-microdrama-on-main-app-to-drive-platform-engagement/articleshow/133715779.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T16:27:41+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Flipkart",
    "amount": "",
    "stage": "",
    "founders": [],

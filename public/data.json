@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-09T18:23:15.005602+00:00",
+ "generated_at": "2026-09-09T18:38:06.788830+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 0,
+  "fetched": 21,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7075,23 +7075,6 @@
    "founders": [],
    "reasons": [
     "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "148b6efb1d9b",
-   "title": "Adobe Acquires Peak XV-Backed AI Martech Startup Rilo",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkdnME5fR0VQSjladlR3NEdBOElUT1JCNVBKY2pLS1luVTRRaU5GTUh6YktWbDRlN21sWWZIZkxOTXVqUWlhbU5PV210d2hxeXVrRkdDMVRFM3lKREU4ankwakZ3NzhTTHoyWU84OFlNcHFjY0NYX1hSQnBBdG9NVkVaOA?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-02T18:29:33+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "Adobe",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

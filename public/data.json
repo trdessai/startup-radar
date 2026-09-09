@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-09T10:20:31.651750+00:00",
+ "generated_at": "2026-09-09T10:36:43.437381+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 60,
+  "fresh": 6,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "e6659be6210b",
+   "title": "India\u2019s Startup Boom Needs Universities to Build Entrepreneurs",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xMG9EaDdXakZLdV9OUVBRM2ZnZi1qTGdrYWlxTlB4bWJHQi1waU9GMzB4S1J6OXdUMGxSMURDaVNKdWVfSGhGRUlWajJZY2NYLXYyNVU2eXRhQ0pybFBKZkZQY0RBamZyV0dkUDNxU201QUk?oc=5",
+   "source": "Daily Pioneer",
+   "published": "2026-09-09T10:34:04+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India\u2019s Startup Boom Needs Universities",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c17ad587a7bd",
+   "title": "India Launches Advanced Ocean Research Vessel \u2018Sagar Manthan\u2019 In Kolkata -",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96SWJvVDFVLTJ4dGR4ancyZ3RkQ1dJWW1xLWhmS0NkbGJmZHhCei1pVmRnZ2YySzBYR1JtS1FZNUoxa0lRdno1RHRwZUE0YmhYcnVhRw?oc=5",
+   "source": "thepublicworld.com",
+   "published": "2026-09-09T10:21:11+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "279231ce8f43",
+   "title": "BharatPe launches Agentic AI and credit coach at Global Fintech Fest 2026",
+   "url": "https://yourstory.com/2026/09/bharatpe-launches-agentic-ai-credit-coach-gff",
+   "source": "YourStory",
+   "published": "2026-09-09T10:20:15+00:00",
+   "score": 72,
+   "category": "launch",
+   "company": "BharatPe",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "81d399c1a6a9",
    "title": "ESDS Touches Upper Circuit For The Fourth Consecutive Trading Session, Stock Skyrockets 3.3X IPO Price",
@@ -16,6 +67,23 @@
    "score": 23,
    "category": "other",
    "company": "ESDS Touches Upper Circuit For",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5f296dc853e0",
+   "title": "Amazon Pay Smart Wallet lets AI agents make UPI payments",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVkFfRUp0N2FQSDJsWE5BelFpY3B0MnJJWmxGZXFyYlFQWG94d0lqdkptYmFQbnJRZElQRV9uYXFfUVpPMF9xZFdmRDdmNVNYc01nVzAxU0dBZXlQaGNERHM3SDk4T1pkaTVKVmwyblVNVVIxUndrZVlOU2FEZmc?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-09T10:09:47+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Amazon Pay Smart Wallet",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -39,6 +107,40 @@
    "reasons": [
     "no clear event",
     "14 K"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ca6b13bb24ea",
+   "title": "TPG NewQuest expands harvest from benchmark-busting India bet",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJRE9fNUJTT01ELVFMajF5UUphWUwyYjZydjNCLTRxdnRuc2stc1FWUW5uVkdXQWNCMEgzR05UZFkzN3dhMm9oZk96ZTkydzVZY3FxbFV0RlVOQTdsMzhrSXVsdXp1aHhGR3FwTjRGRktjX2x2aWc?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-09T09:59:14+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "TPG NewQuest",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ca4006ae5618",
+   "title": "India Uses Trade Agreements to Ease Fintech Export Rules",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFVDcUFnT3JBdTE0NVR2ZVRHX0p1VUdXTG81MGRmWFpfZmEtd0NKMUhsNS1ZaXlxVWdRZmVCUlNMSGh4NXRXZW1PMGl4MnhfY2pFMjVlSFBwa0p6djl4VGlmbS1yWW51aGhzdmNicUU1eVpkSHRoM3JQbzZaS3NNbE9mNXJiMWNaSmlNTFhXMA?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-09T09:51:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Uses Trade Agreements",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -562,23 +664,6 @@
    "alerted": true
   },
   {
-   "id": "c53e3c5364a8",
-   "title": "Paytm to foray into enterprise AI with \u2018Paytm Intelligence\u2019",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSUUpOSW9UcEdjc1QySHB3RFdjRFJ1TXhfbndiOEQ0bXVONFBST3VpZVBSeUQ2bTJDUWpQdWU2bWhjajVzTTRJYXpVYVdKaW9ycnNEREFLX2s2cVVMUmp2TDdzQ0k1bnJzY09DYlN3aHM?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-09T07:00:13+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Paytm",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "48417023fdc8",
    "title": "Adani Airports raises $1 billion from maiden external equity round ahead of India's privatization of 11 airports",
    "url": "https://www.livemint.com/companies/news/adani-airports-1-billion-fundraise-alpha-wave-temasek-blackrock-11788927890933.html",
@@ -631,24 +716,6 @@
     "$10 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "d63a96c1b303",
-   "title": "Goldman Sachs may see modest returns as portfolio firm eyes over $1.4 bn tag",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzZWVHZCY2U0NUJnbjZRVllmZVdqWTQ0WmJTclhsVkJxeGFkZnE4RExsWkJoc1JUTHBaUnlIOFFoWk5EZi1MckRQWTZSUXpjM0pOT1hOcmt0dkNOeldDN2lFRmVyLTlJV2xvV1ZBQ1BwNUxfZ1NCam5rU29sUWlBMkJLOWFGeEtSQ1VQSGFwV294QXNrc2w2Ql9OMkJSX0hq?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-09T06:34:27+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Goldman Sachs",
-   "amount": "$1.4 bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1.4 bn"
-   ],
-   "alerted": false
   },
   {
    "id": "0e44c6b4f877",
@@ -7020,24 +7087,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "89a9cd7a218c",
-   "title": "Simple Wave Launched from Rs 1.10 lakh",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeENHbW5JQXpkOHZ2b0ZWUFY3LURRLVBQMjNkMzBHMGRILXd4UFl2aWE4ak0tUl9DaXlFWDZCdXFMdVE2XzBhZUJFR3hFczBNUHF3TWlpaGpGNjkyemZhZ2Q5T2JmMWFaRmZlRzlJR3VyQ202UDNPWVg4ZGY2OWV0Mko1bUdRY3Jn0gGOAUFVX3lxTFBtT21WUGQzX3E2c3NqQlVxOXdnQkE2WmtKUU1ZaWNjQzBkc0VrYmhCTkxaa3Nzal82MVFYWFdUeURMY0ZTbUpNaU1BZ19mYTVGU3A2c05ieGNRdThSdGhid25yUE8zak1fUDdHMW15VmNJRGJ6MmZleE5kdExyTjhHTnI2N0Y5a0FQcHc5VHc?oc=5",
-   "source": "Autocar India",
-   "published": "2026-09-02T10:34:38+00:00",
-   "score": 74,
-   "category": "launch",
-   "company": "Simple Wave",
-   "amount": "Rs1.10 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs1.10 lakh"
    ],
    "alerted": true
   }

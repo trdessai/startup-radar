@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-09T07:47:19.506220+00:00",
+ "generated_at": "2026-09-09T07:55:52.388055+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 6,
-  "alerted": 4
+  "fetched": 58,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "283bdb9c3f06",
+   "title": "QNu Labs raises Rs 200 Cr as demand for quantum-safe cybersecurity grows",
+   "url": "https://yourstory.com/2026/09/qnu-labs-raises-rs-200-cr-as-demand-for-quantum-safe-cybersecurity-grows",
+   "source": "YourStory",
+   "published": "2026-09-09T07:50:07+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "QNu Labs",
+   "amount": "Rs200 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs200 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e28cb8f853f0",
+   "title": "RentoMojo IPO Subscribed 69% So Far On Day 1, NII Portion Booked 90%",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQck56M3k0Wnl6RUVzaWtCNktuMkdZenBDcUY4aDFNYWRvV0h1c2RSanRDY0ZLRjdGTUVqYVA5UEM5SXJMNzAwVzIwcHJwNE9ZYlRZdnpZUHd0d1R4NzM4Nkc3bTRTODZkcnZUMEtzRDVxeWRkVk1VdEY3QlY4bU1UOGNVN0I4bWZ5NHpzSW1yanFzSzg?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-09T07:45:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RentoMojo IPO Subscribed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "80514cdb0d70",
    "title": "QNu Labs raises Rs 200 crore to accelerate quantum-safe cybersecurity innovation and global expansion",
@@ -7041,61 +7076,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "944f5aeb47cf",
-   "title": "Aeron Systems Raises \u20b945 Cr To Scale Navigation, Weather-Monitoring Systems",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcDRoeDFGOU40dTZOUmd6al9pbEQ3cWxnX0Rhd0RKVHM3blIzM01tM1V5MzVuZHBtdzYyaWZlVG5NdU9mc01PWVR5eWw5cXZnaUdLMVMxTS1UOUpjeVhtS3ZCa0ZjNndGMl9JeVIwWlo4eDB6a3QyTkw2SzVLYWRpeng3Y0lHekNfcVRGSnJ0bll2NXN3ZzJYU19FdWxuQlJlazNJSXl2NkZMZw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-02T07:54:30+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "Aeron Systems",
-   "amount": "\u20b945 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b945 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "585c3f449764",
-   "title": "Aeron Systems Raises Rs 45 Cr In Pre-Series B Led By Riverwalk And MGF Kavachh",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhPTkFQZ2dydVBkelQ5NUUzbjhkY0ZlYldWdjd5NHVWM3N3SGVzdDBGRDZrUkZtWkh2dGktNmphVUN0MVlKX1ljUUVLT05sNTR1ejhRQ29pQmNsQTh6YTlOdXEwVXBKTXFaT01DT2ZTeFByYzVrcnVOOWZ1YTJrUUJIWmJTNmUyeFZOOS1PaEt6Z0tUX1RQUHhSY0lJaDRlSVhFMkNQMWY0X3BkOU54NXBlVGhsdG5HTDFZ?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-02T07:51:46+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Aeron Systems",
-   "amount": "Rs45 Cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs45 Cr",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "62566011d491",
-   "title": "DataAgent Raises $10M to Make Infrastructure Fix Itself",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjR1R1cDZmQ2h2QnBjNTM3S1dta3V4a1AtSmM5N0JqbHVPd3V0b3ZOYmN0VGJDZUtDRWV0WUNrQXYyTjFNaHVNMUloaXlyYjhWcWs5UGdLRVg?oc=5",
-   "source": "israeldefense.co.il",
-   "published": "2026-09-02T07:49:59+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "DataAgent",
-   "amount": "$10 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 M"
    ],
    "alerted": true
   }

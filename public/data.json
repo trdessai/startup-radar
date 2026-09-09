@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-09T17:03:15.031904+00:00",
+ "generated_at": "2026-09-09T17:18:39.186332+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
+  "fetched": 33,
   "fresh": 0,
   "alerted": 0
  },
@@ -7096,23 +7096,6 @@
    ],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b369e83e9062",
-   "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
-   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-launches-ai-agent-blueprints-for-retailers-ahead-of-holiday-shopping-season/articleshow/133716627.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T17:10:30+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

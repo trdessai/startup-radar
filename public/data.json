@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-09T04:46:48.996972+00:00",
+ "generated_at": "2026-09-09T04:55:19.874645+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 32,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ffc485a099e0",
+   "title": "Deep-tech cybersecurity company QNu Labs raises Rs 200 Cr in Series A1 round",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakpyNkp1cEk0UGo0SmF3bi1OUi1jRVR3anVCOU1mVVhDY1EzMVltZ1hvd25JRnltNV94VkpMcUhIdHJVNmVLOTdxSkxGOEdycVJzSHpfSWZqZDdXR0dzNnFXR0tzRnNkcGM0cC1QNFpCTFlsQmlEWlRyQ1c5VU5qZm5UQVlUaFZieHJqOUVOVlJnbThBQkxobEFYc2U2MjZQdHRuUFRqemJBOGVyaE1yedIBsAFBVV95cUxOakpyNkp1cEk0UGo0SmF3bi1OUi1jRVR3anVCOU1mVVhDY1EzMVltZ1hvd25JRnltNV94VkpMcUhIdHJVNmVLOTdxSkxGOEdycVJzSHpfSWZqZDdXR0dzNnFXR0tzRnNkcGM0cC1QNFpCTFlsQmlEWlRyQ1c5VU5qZm5UQVlUaFZieHJqOUVOVlJnbThBQkxobEFYc2U2MjZQdHRuUFRqemJBOGVyaE1yeQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-09T04:52:36+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Deep-tech",
+   "amount": "Rs200 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs200 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "37c91175abb1",
    "title": "Cognition AI raises $2 billion at $48 billion valuation",
@@ -92,6 +110,23 @@
    "reasons": [
     "no clear event",
     "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "71a386be6d86",
+   "title": "Marmalade",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mY3ZkNndiZ29aTFplckVSX1gtQTZPQWJ3ZTM5N0E5VFF1VGVveDJhTEhFX1hDRXRJU2JvSDZCZjdNUkcyTmpiTVZHdw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-09T03:40:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Marmalade",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -477,23 +512,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f67562ab3bae",
-   "title": "US suspends Cognizant green card filings",
-   "url": "https://economictimes.indiatimes.com/tech/information-tech/us-suspends-cognizant-green-card-filings/articleshow/133939988.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T19:31:44+00:00",
-   "score": 52,
-   "category": "product",
-   "company": "US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
    ],
    "alerted": false
   },
@@ -7072,23 +7090,6 @@
    "reasons": [
     "funding in headline",
     "$18.2 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5955725a48d2",
-   "title": "Google almost ready to launch new Gemini AI model, may beat Anthropic and OpenAI in coding this time",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUVFmX3RFck1JdzNFeDNRS3B5ODFOTEFrRjI3NllVSlEzM0xBWTNXZV9qUlBycFVvWXprTmFGeUM2QzRCbllfa0psb01JbTM1azJKQS05T1NHRy1fN3p6bl9vNWJ3MnpEb0RFRkxlZEJYMWEzaFEtMXlBWmNZMFdoTGt3NHFPZUg0QlJiWXhrVXRYYU1WdkhsR01pWDVROG03RTJBeGd3OXU4UDdZWWpIQ1F0MllsQ005U29aeU9KQk96bEJjN3JETlVXOHlXOEFjVXlYTkxfa0FZcGpPMUpBcmhsT1Mtdzg1Qy1QRW8wQVdfMGgxZ1JramF30gH_AUFVX3lxTFBBTzB3dzlqbDVUaTVNLXNtN1NjTUpXMFFySzZBQ2hJLW02aGZxVjV4ajV5VmJrem90eW52Tnc0QWNCUXh4eGo2OHFfODlTdVhpb09fQ2MwbDBySDJORXMzNFdaeUJWTmJGYklXcVRVWkFLdC05VEw0TVEyOXRMRjdKY2NTcXBQNW5PRWZmOG9Yb2lha01fY250VzdCS1E4cWswWVB5YUdFZXRZN2hWc1lVS01oZFlQVzAteFdybTRsdFFmYTBCNGh2U1RZY2daQm9UeFVGTWJSSmhrb0hTaDhCX3JkS2w5WURxNV80UnBpWXN3T2ZQZDJOQ2lZR3BCdw?oc=5",
-   "source": "India Today",
-   "published": "2026-09-02T04:54:01+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

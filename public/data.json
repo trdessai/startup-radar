@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-09T20:01:44.412566+00:00",
+ "generated_at": "2026-09-09T20:19:58.305552+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 14,
-  "fresh": 0,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -23,6 +23,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "a3ec08b10db7",
+   "title": "Adalat Artificial Intelligence - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNaWpIb3UzU29JbDI3bnloSV9MUndXM09rbkNXUnFCVnZkUVNRaGstNDFCWDdpdGlER3hvS3I1WV84RkZnRmJHYm8yWkNSLUNndEpxcTdLOVB4Nl9PbmE1dlpUckJtODlReWhQb0d3?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T19:14:52+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Adalat Artificial Intelligence",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "370ee13fc0fd",
@@ -943,23 +960,6 @@
    "score": 23,
    "category": "other",
    "company": "Visa",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e6659be6210b",
-   "title": "India\u2019s Startup Boom Needs Universities to Build Entrepreneurs",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xMG9EaDdXakZLdV9OUVBRM2ZnZi1qTGdrYWlxTlB4bWJHQi1waU9GMzB4S1J6OXdUMGxSMURDaVNKdWVfSGhGRUlWajJZY2NYLXYyNVU2eXRhQ0pybFBKZkZQY0RBamZyV0dkUDNxU201QUk?oc=5",
-   "source": "Daily Pioneer",
-   "published": "2026-09-09T10:34:04+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s Startup Boom Needs Universities",
    "amount": "",
    "stage": "",
    "founders": [],

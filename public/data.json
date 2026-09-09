@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-09T18:02:16.170843+00:00",
+ "generated_at": "2026-09-09T18:23:15.005602+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
+  "fetched": 19,
   "fresh": 0,
   "alerted": 0
  },
@@ -7090,28 +7090,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "929ec4ded8e1",
-   "title": "Adobe acquires PeakXV-backed AI startup Rilo to expand marketing automation",
-   "url": "https://economictimes.indiatimes.com/tech/startups/adobe-acquires-peakxv-backed-ai-startup-rilo-to-expand-marketing-automation/articleshow/133717810.cms",
-   "source": "ET Tech",
-   "published": "2026-09-02T18:03:59+00:00",
-   "score": 68,
-   "category": "acquisition",
-   "company": "Adobe",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Dhruv Jaglan",
-     "handle": null
-    }
-   ],
    "reasons": [
     "acquisition in headline"
    ],

@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-09T11:45:31.619221+00:00",
+ "generated_at": "2026-09-09T11:53:35.830648+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 2,
+  "fetched": 60,
+  "fresh": 3,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "88dba6612717",
+   "title": "Clean-label beverage startup Sorry Sugar raises $1 million in funding to expand across North India",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmYzdnJ2MmY0VGFXYWdYWGR6TWZvNEsyTVQ2dEpraURRQzBVRWRDMkRJU0xzNHlwLUJGeHhCbnMxUHN2VFhHRGRQSlA5WWRhbE5uMUFjOFZZd2VPSVpIekJ1c2pIdXdlSXgtb0xnVklEc2wzb3Z6NlI3a0RnaUQybGF0S0lCU0F6Y1hnaEg3akFJM2NnRUFKQ0FVRXVrX1F1aFRDUnhUd28zWjFHdzNwU2hJOHg2cWlXWjdNUXlTNmMyQkdZOEdSNm9JOERBM2lqWkZjNlhxXzY4UDg30gHcAUFVX3lxTFBSZjN2cnYyZjRUYVdhZ1hYZHpNZm80SzJNVDZ0SmtpRFFDMFVFZEMyRElTTHM0eXAtQkZ4eEJuczFQc3ZUWEdEZFBKUDlZZGFsTm4xQWM4Vll3ZU9JWkh6QnVzakh1d2VJeC1vTGdWSURzbDNvdno2UjdrRGdpRDJsYXRLSUJTQXpjWGdoSDdqQUkzY2dFQUpDQVVFdWtfUXVoVENSeFR3bzNaMUd3M3BTaEk4eDZxaVdaN01ReVM2YzJCR1k4R1I2b0k4REEzaWpaRmM2WHFfNjhQODc?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-09T11:49:55+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Clean-label",
+   "amount": "$1 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "59e8161509e5",
+   "title": "From shaving to self-care: How India\u2019s men\u2019s grooming market evolves",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejhZQWRJOGpLaFRkVEhSMmJXdmJaSENqNnVISU5MYldpS3hxVXZIZkZ5aktMaVNERjhGYWRocjAzZ25pM21pNWpoV3l0UU5IdUlmUWJYeUlOd0JJUXlvOE13N1FhMXhvbUF0cDlsQVNISjBxaGdoWGtLc0ZYbjdnUEdMODl6WW9QMTJOSk0xUHdsVGRNUlQ0WklubmRVVFhZWmhwVnVGUmFrRE5sX3N5RlBTU29nU01ZV2VlZGNIQ3JXM3RGUlE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-09T11:45:18+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "296dc840b64f",
    "title": "India\u2019s Healthcare, Deeptech And Payments Sectors See Key Developments",
@@ -7051,42 +7086,6 @@
    "reasons": [
     "funding in headline",
     "Rs30 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b670acacb96e",
-   "title": "DocPharma Raises $2 Million to Expand Healthcare Network",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFF5cDNvQ2NCNVV4M1RlXzNRejdhbU9KMEhUTS1HV1RmWXhfeVBjV1ZpVlpYYWpUQzZieFdUZnllNkpXdmdwSjNJZHJqYy1Uc2l2b0ZfbWw5cm9fZTBGR29MSXlpc3FtOHExQlpYd2N0amROY21IUjhxS0Z1UGtmaFFaSmdNQXAxVzFjalNn?oc=5",
-   "source": "Equitypandit",
-   "published": "2026-09-02T11:50:00+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "DocPharma",
-   "amount": "$2 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5d559f8a3c85",
-   "title": "Simple Energy Launches Wave Family Escooter At \u20b91.1 Lakh",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTlXTWtIcjJFc0pHeFA1R1ZhUFVOVmxTU3U1TlNGTWlfUkc1RDh4amNFWkJMYlh0NDdTWjM1clhKTzlIbFZMUGFxWk13aHV4Y3IxQVFoT1VHZFhTVVgteU0tdDNWZ2RhaWtwM3NJcDNtSXdtRWFCemxsLVVYMURIdElBYUZqSVBXdmZENmtvOVBkUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-02T11:48:57+00:00",
-   "score": 74,
-   "category": "launch",
-   "company": "Simple Energy",
-   "amount": "\u20b91.1 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b91.1 Lakh"
    ],
    "alerted": true
   }

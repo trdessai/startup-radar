@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-09T09:02:52.041273+00:00",
+ "generated_at": "2026-09-09T09:20:24.011666+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 4,
-  "alerted": 4
+  "fetched": 70,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e9d350297b96",
+   "title": "Researcher claims full access to Adalat AI systems",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbkFreGd0UXNfNGl1aTdBSnBCakxSX1NpcHNCZ0FIUEJXWktHa3RxdlRDYUhaRGJrZHdvNmxNejFKLXRzNEdPTnFoS2pQQlN1VHdwc0RnT3psb0ZpNmluUVlzVExIRWQtcU1XYUE3cFBSQ2xrcmR5OTJKR01GUQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T09:07:49+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Researcher",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd4d97f84604",
+   "title": "Great companies build people first: Manish Padharia on leadership, people growth, and lasting community impact",
+   "url": "https://www.livemint.com/companies/great-companies-build-people-first-manish-padharia-on-leadership-people-growth-and-lasting-community-impact-11788938862082.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-09T09:06:25+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Great",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "faab8238c495",
    "title": "Marmalade Raises Rs 6 Crore Seed Round, Puts Rs 1,750 Brightside Whiskey at Centre of Maharashtra Push",
@@ -59,6 +94,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "5f77f601ddff",
+   "title": "CarePay Launches Lumen, an AI-Powered Lead Intelligence Platform for Smarter Conversions",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGZnaGh1SFBLZWlqTy1QRTZaSnc2WDFvd1NhdmdBSkJCSEpXdnBTV2hlSWZzWUk2M0ZhNEhFZlRYNEllUnkwdFZSdGtiLV9JckFmNTVNRTBkSW1ScFBQUzNpRTZjQWdHSkQwVWFHUlNhQ3ZIMk4xWnlfT2FwdWE4SVpOdWpDVFktYTIteG9EdGZEMk9jbDlTUEJnMm5PRmZUUmQxV0JQSWZSZk1rRTdVT09CS19tNjBXcXNWdU5pZHN1d2wx?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-09-09T08:30:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "CarePay",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "001d018d7fc0",
@@ -530,24 +582,6 @@
    "alerted": false
   },
   {
-   "id": "ec3a2538b8ef",
-   "title": "Gurugram entrepreneur built Skye Air Mobility to deliver e-commerce parcels via drones; hit \u20b936Cr in FY26",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcWh0Q2FFR1lkeWZuZVkxZ0VaMG10TGVQLThUOGdBQUhLYUthZVBSWWVYTEhmZFRSemNtSmRoWXkwY0JjMmN2bThBVm9neFRtWUJQTFZuMGg4SWcxbDNNZmswSFhRRk1POXk2X2d0WnBBN0pMbkxVZ256RFBKM0h1TEV2N3preXdncHhhc2RNSWVJeUtnTGxEcGxlekw4bFZKc25pM0hhRGdrR1hBS2x4R2J1SUVKVUNlZnhVX1Q5aTlaT0hrODNuVEZ1Y01LU0xQbEtrZlZiMDZrVGpzX3c0UDFIUTEwMUk?oc=5",
-   "source": "Startup Pedia",
-   "published": "2026-09-09T06:30:37+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Gurugram",
-   "amount": "\u20b936 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b936 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0e44c6b4f877",
    "title": "Nitin Nabin launches Seva Sankalp campaign for Modi\u2019s 25 years",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjBoU0ZXc0RYaEhmeEZ0RV9oV1hOVDkyNjA4aFBnRnk5ZFhOQkNMVVllMlpSSE9PXzBURVVlR0FjWkstbVladG43WkRfa3hzNnVISzBEdkJBeUJRS0cxMmREaEFjbjdfWk1Bb2hxX3gzei1Jd2o3QVpTZlctYS1ETFg1M1lkRllLazUyczNFWERXODdUNVVjOEZ5UFROUS15SE92WU5vRXVFOEhvc1pPcFFwenlIb0gxRkJib3BHSUlTcXJiLUdj?oc=5",
@@ -597,23 +631,6 @@
     "product in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e0d679cb472a",
-   "title": "Banned gender-test kits found on eBay, listings removed",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tNWFaUlZ6NkQ4eXVXNUh1dWp4bUN1UEhzYUFjekVwSG1fcWd1eTVKNUtkNjhpeXNwNzJGY0htendqMWlyZ2tISFNJRVVSOUU1ZDZlMy0zUjEzX0pYT1hWMzBZSm84a1o5NWpGdnBRdjBuQ185OGJDOU9B?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-09T06:17:31+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Banned",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3bd87f9a8073",
@@ -7071,23 +7088,6 @@
    "score": 68,
    "category": "launch",
    "company": "Wispr Flow",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8b4d76c5f71f",
-   "title": "JM Financial unveils pre-IPO fund, marks first close",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVdYOVQ0a3FYU1JRV1pCMXYzYTdzY2pGVXc0Y2dsUjl2RUo5eWxIRGFjN1BvM2ZCNU5lTWZmSzNkMkZlOGc4bE1ZUnJPTEk0OTdBSk5HRWNTVk9FQ2s0bzFBTlo4RWFzQ2dOZGMxRkJ5eGtBeG5wemhNU29DZ0dnag?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-02T09:16:42+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "JM Financial",
    "amount": "",
    "stage": "",
    "founders": [],

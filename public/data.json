@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-09T16:02:15.333930+00:00",
+ "generated_at": "2026-09-09T16:21:16.203623+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 41,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "0b38c12f625e",
+   "title": "Meesho Discontinues CPO Role, Restructures Product Team",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWtuejdocjBUZ1EtNk5lWUJGTnR2SnBHUWRGbkhObXJ6SUNlV3NSSDlNazh1SDlkRnhnZnJtQ2NPUDVpX0piZDJNZnUyejFfTHBPUmhCZ1BhWGh6YlFiRjRmUEpMN3hLZFBrbF9ibkRsSWVHZ29lNDdwN0xUM2hRaEZuWXI?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T16:06:57+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Meesho Discontinues CPO Role Restructures",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c97b29cc8aed",
    "title": "PhonePe to foray into UAE in maiden foreign outing",
@@ -349,6 +366,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "a89b18f756bf",
+   "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-09T13:00:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Sequoia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "40466cb08cac",
@@ -879,40 +913,6 @@
    "score": 23,
    "category": "other",
    "company": "ESDS Touches Upper Circuit For",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "84b44845572d",
-   "title": "ESDS Hits Upper Circuit For Fourth Straight Day, Rises To 3.3X IPO Price",
-   "url": "https://inc42.com/buzz/esds-touches-upper-circuit-for-the-fourth-consecutive-trading-session-stock-skyrockets-3-3x-ipo-price/",
-   "source": "Inc42",
-   "published": "2026-09-09T10:14:18+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "ESDS Hits Upper Circuit For",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5f296dc853e0",
-   "title": "Amazon Pay Smart Wallet lets AI agents make UPI payments",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVkFfRUp0N2FQSDJsWE5BelFpY3B0MnJJWmxGZXFyYlFQWG94d0lqdkptYmFQbnJRZElQRV9uYXFfUVpPMF9xZFdmRDdmNVNYc01nVzAxU0dBZXlQaGNERHM3SDk4T1pkaTVKVmwyblVNVVIxUndrZVlOU2FEZmc?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-09T10:09:47+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Amazon Pay Smart Wallet",
    "amount": "",
    "stage": "",
    "founders": [],

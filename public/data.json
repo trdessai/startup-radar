@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-09T15:55:46.848159+00:00",
+ "generated_at": "2026-09-09T16:02:15.333930+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
+  "fetched": 39,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c97b29cc8aed",
+   "title": "PhonePe to foray into UAE in maiden foreign outing",
+   "url": "https://economictimes.indiatimes.com/tech/technology/phonepe-to-foray-into-uae-in-maiden-foreign-outing/articleshow/133975174.cms",
+   "source": "ET Tech",
+   "published": "2026-09-09T15:53:40+00:00",
+   "score": 67,
+   "category": "launch",
+   "company": "PhonePe",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sameer Nigam",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "78b5031537dd",
    "title": "Auditors Flag Second Suspected Employee Fraud At Ola Electric Arm",
@@ -891,23 +913,6 @@
    "score": 23,
    "category": "other",
    "company": "Amazon Pay Smart Wallet",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "755dd0c50d7f",
-   "title": "Andreessen Horowitz-Backed Defense Startup Covenant Emerges From Stealth",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnNseHJrMERyaFNaSWtoVWQwcFNuMWV5YXlVNElYNTdDWEdwejVrMVFhVTViTnBMWFlreXhsYk9PZGVjcVZxaUVPamltT3I4bVg0alZRaGl5YndPNEY5V3hReXpkX010YXh0a0JHT2laVlRRTk4xbDduOURXa0dyZFA1bGlsQkZIOWNfZUVidnJWLUNXRHFXN3FtLU5tcWY1bjFxZURxYkRzNHRESmlXQnNRMXdTTmtGNHhaRmZfVzc?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-09-09T10:00:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Andreessen Horowitz-Backed Defense Startup Covenant",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-09T05:29:59.713199+00:00",
+ "generated_at": "2026-09-09T05:41:03.855752+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 36,
+  "fresh": 4,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "616c9a85a18e",
+   "title": "Indian Fintech Moves Beyond AI Demos",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YU3pfQ0phdks4ajFLdk1nMG9oZVAzWGlpX0tYN25nVG83Y2FrR2dyRmRndzctUDNiRFV6LWdkNXgzYWdaVEhhNThINGhCRTI0ZUhUVnZhS1c4SzVDb0xwLU1QenZybUJaVHNnRGlBLUtwdw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T05:30:07+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Moves Beyond AI Demos",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6e590033e865",
    "title": "India's Marmalade raises $630,000 seed for craft whiskey push",
@@ -81,6 +98,24 @@
    "alerted": true
   },
   {
+   "id": "c9d82b51c9a7",
+   "title": "PE-backed Coforge's chairman resigns after audit finds concerns in board evaluation; shares drop",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmYwQ0pRbW1YN0N1YVp1aWdSZ05BbkQ3MWZLQzQ4ZXlhRFdUU0ZvWVBQZmlEX0Joc2k2cmlWY3J4dTVDYVRaT2FfZF9CZGZjdnpWMm9OWktDakFBZTNJREhPOXVrVnBGTE41MjZrcHhrc2g2cWs1UnczMTJNZnlBcXVBMkFrN3JxcU11LVZlMXNwN2E4ODlJN1FEcDB5cVdmX2VDeEVrQURyMWJ5MjhMN194d0ZBWGpyT0JV?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-09T04:26:21+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "PE-backed Coforge's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
    "id": "ec7dcada1349",
    "title": "Torrent Gas files updated draft prospectus for IPO",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTR012QmxraTAzdXFOZ21LYWZ6ZXpfa1g1ajFSVXM4MXVudVVYbkVpMnlRTzFXZWM3NDRVdGhGQWFxLWVUTEd3OTRTZjRhRURfdFlKVFJIQTkxS1RDVzNMZlVrUFJraHRHNTUxT3FTQ3R3NGRxOHRHMy1aaU9fY3c?oc=5",
@@ -94,6 +129,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dd4c43963520",
+   "title": "Adani Airports to raise $1 bn from Temasek, BlackRock, others",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONG9wc0ppVkRReFJQRE0xempvS1Z3aUl1bjBJOTVXc0FweWtBYjl4X2ZhOHcwdGVtRllub0tKN3FiN1hlcHJoT1dTSzAyRDZtUDh6WVdGYVF5MU5lT19SUXY2akxaOW1OMmpPSEFaOHlGdVBFV1FpVE1pZlZlcVN2QURUX0RiZ3pYaGc?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-09T04:20:19+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Adani Airports",
+   "amount": "$1 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 bn"
    ],
    "alerted": false
   },
@@ -465,24 +518,6 @@
    "alerted": false
   },
   {
-   "id": "b088e900c279",
-   "title": "Shuddh Swad is building a regional snacks brand using traditional household recipes",
-   "url": "https://yourstory.com/2026/09/shuddh-swad-bihar-thekua-snacks",
-   "source": "YourStory",
-   "published": "2026-09-09T01:30:00+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Shuddh Swad",
-   "amount": "Rs1 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0876dbcd2d81",
    "title": "Havas India launches luxury experiential agency Shortcut Shobiz India with Paris-based Shortcut",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnFFUHlSNGs3aE5VaGItcHN4T2tyMjFyQVo1VHVyWmhRZDg3NmE2Zl9KVThpLTItOHhYbEVPa2NpVnR0QWpUc1BScEU0WEN4aF9XSVR0R0VQcFZVcmlOWWFqaUlqMmdmSWZPbUJUYXZmekhTWW5KWUtqdUg5b0RzYkNaN3JyOWhLYXo0Y0U3eWp1OW1xaE0wdzRzWFFVR3AtWlhfMFBMeE1HUGxmS1IwekRTSkVTY0VJOG00QXNoalZQTmhDOWhCTzVvcGpJVHZMcC1zaXJRdmdkd2NUOUxhZ9IB5gFBVV95cUxQaGE3b0hyN3o5RjhuUTYwVUJ5c1JDYWtLNXRnd1BQRkJyVVI3OEhRXzJUdHZyYmZKMzBkZ1Vxb1VQV1JtclFmc24xT2hacFdRelI2eDBzQ3JJbUNVQmRVRFFsa0lMSjVfNWpBcTF3aUprV3Vzb3kwdDJTeTNuS0xxbThua1ZvMC03c1dKVzJUX01RdVk1eGwtQm03SlkxTjBTclVMOE1hcmtrZUViWDR6NVh0NGVKTGhnekFNV0VNZjAxMDFvdkhIMWswTkZNUUh4N0hJVS1DcUJtTW84OFBDX0NYYmYxUQ?oc=5",
@@ -498,24 +533,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e848019a94e2",
-   "title": "Quantum Cybersecurity Startup QNu Labs Nets \u20b9200 Cr To Scale R&D",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0VBM21iSkFjZkVzbnBVX19mZVRzcTVxMVE0WlJTQTdwNmtsTFBrcVZPRDM1b1lQeWU0NDI0bm5QNG5qWUdkOEQwTUFZbHVQM3JMU3hEZTg4TGtvbklGZ1BHcTU5NTJQM3ByM0JqVXNqNXVBR3lLTjQzVWdjNFQtOHU1NTRSLTFybXNOeWJyQXIzNVJocWFqNU1LRQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T00:30:35+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Quantum Cybersecurity Startup QNu Labs",
-   "amount": "\u20b9200 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9200 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "e8add75d02fa",
@@ -7071,23 +7088,6 @@
    "score": 68,
    "category": "launch",
    "company": "JioHotstar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5656c31eb6cb",
-   "title": "ERI and Ecoreco join forces to launch \u2018ERI India\u2019 in major e-waste push",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnZkNFVpM2ZKVVVpdUllNFVCNUlYN0RJMWRkQXhGTGF2X1hsTEVScVhibVEzbjY3RUhjY0lGaDdwRXFhaG83TnI0SVdlSVI4NXNNTzV1ZkVYWDBDZ1dGUWRJQnRfT2FMNUVuZ0tEZDhxZG9nWTBiZnExMWJfdm52M0lDcEVjTjFQVC1pWDJUekpsMjlzNGRneEotRXU5c004bXl4RkpnbVJJZkJaSzI3X0h6UGxBcFNOVlZkY9IBwwFBVV95cUxOTGNPZHhpcHJOQk9tV2xkbk1KeWEwZTFKcFlKeXVhQkhNeXl3M2owM183OElSeWppbHpJdnpySlFITmRxUTJ3WE9zSUZ2TWF0TnJUbzBxTlVkYjgxaE9vYlJ5cXM4aHRiRmlhUUI1UXhTNGVkQ0NoNUo3MGEwQ2dQTGNkWkU4emx3Q3BubVhhVkNBNUtIZnNNaW10Si0tanJ5RXRrZFp1UkFhSUl2c2lCSHFQWTNHZFcxZnBxYTQwN2g4NWM?oc=5",
-   "source": "Indian Chemical News",
-   "published": "2026-09-02T05:35:22+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "ERI",
    "amount": "",
    "stage": "",
    "founders": [],

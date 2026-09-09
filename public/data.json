@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-09T13:23:03.375386+00:00",
+ "generated_at": "2026-09-09T13:37:24.061950+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 52,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "2403312ba55a",
+   "title": "From AI pilots to production: Rebuilding the enterprise stack for intelligent agents",
+   "url": "https://yourstory.com/2026/09/ai-pilots-production-rebuilding-enterprise-stack-intelligent-agents",
+   "source": "YourStory",
+   "published": "2026-09-09T13:27:58+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "From AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "9d6fe0a94711",
    "title": "Footprints Preschool & Daycare expands Bengaluru presence with new centre at RMZ Eco World, Bellandur",
@@ -288,6 +305,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "f632e51ad5bb",
+   "title": "India, Saudi Arabia deepen fintech ties with three-year pact for investment, startup expansion",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVGVSWVo3OWs5Rlg1MjFmenZPcldrV3BFSWtZckYwSlhzQTFYZ1FISk9KX0EyM2J5VURBRDVOak5tQ3lsVnFrVUYySXRybkowQWUzR0Y4eW1LeWpvWHRraDlxalR6TFg0bnpMd3hZZnAzcFFUY2R2bFZUYUI1WUQ1X21Xem9DSTIzV0lsdkl2QTZUdjMtZV9HcU5KQVBLamlFenRpaDRxRXcwZ2FpTTZSbDgyOXFqS1hsTXREU0hpTXJodDI0WmtkbWxoNGZCYm9MYVdTR2lxRlJ2SmhTYmM1RWdsSmNDMmhUa2pKQUVzY0o1dWhRRmlORWRLU0xGWjBY0gGGAkFVX3lxTE5NcXJORzFGempUOEItLWRBWU5kTmVmaHlQMy0zZ3otWmRrX0toNGxsZkw5aGRLaE91YTdUWG1aNnZhSUdrS24zcGNtRGNUT1AxVUN4QkRzLTlpTUQ5Y29kUEc0TE42UEJNODl6cEJJdFFlZDRGcnRkSnZORXM0cDNpTWVhWUoybF96ZzJLUGFOSGhDQlpHQzZfeUNPbGZ2c21qdjhwTVpzZGduOF9SazJWV1liaExhZGpTakhXQ05xN3RMR2IxeDF5TFMxTDVHSkZqWEpNU01uS29acVFfYjVabzVIR1llV3ZkSEt3OTlhMlpLejBSV3h3YkZVOVZTTGU4RkRGbmc?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-09T10:55:25+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "India Saudi Arabia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "b1097205bac0",
@@ -664,41 +698,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ea75a97649fe",
-   "title": "\u201cGaganyaan will lay foundation for much bigger things\u201d: Group Captain Angad Pratap",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEhtTURUSVc4NkVZX2ZKTFI1aUNxbE0tend0N2t1SExuZENndV9TbXBnTU9xMmFFWTFydFgyRWk0NnY4NklqSndLMzVCcm00VTAyeElyanBEc1kzR0JzbTNrZGw2SUZFSVp5ZDVGOUtsWHFMLWlkcWFxRmZVNk5nU0drSHlrQTc2cVVhaWN4NDJqOEktU2Y3ek9KMi1mckdxSmgyWHVPR3pzeHd1TUdCTlAwTmlQaTBo0gG-AUFVX3lxTFBZQjVfMm5NQ29va0pTT1FoUk5hSjM0Mkc5aDlNVEdDb1lWYThJSzlWNXJ0aE1JRGFMWkxYbUNOZnlmVUJ1cFRnMzRLZU5pazI2b3d6M2lYVGJ6bUxvdTVTWjlyVkszTVNNUzJTS3lWa1ZDbVdPNUN2NmhRYjcyU25FX1d5d2NjTndXZUE2MmNaOENBSFh3S00tT3NFRm5adEM2SDBPUXRLRXpZQWh3NW5OblVlcXFVT1UxQXpRSmc?oc=5",
-   "source": "lokmattimes.com",
-   "published": "2026-09-09T09:25:39+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cf4602c00ae9",
-   "title": "Retail India News: Blackberrys Opens New Menswear Store in Varanasi",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEFBWGdxNVRDUGhmakhsMWN4QWFFREJNZEl5OWVlUlJLVkpCYmhyamFRSTVaY2t3eVNEdXhWbEVqUXVBams0LVRKVklORXgzQlU0REdzNVNvUmlqeXZpTmZaMW9maklia3Q3X1FGcTJFcndPU1QtQTNaSzBZTzlFSjNpbjVwcUtUYm5ITllXRWVmTE9oYzZLQ0s3ZHk5VGxO?oc=5",
-   "source": "indianretailer.com",
-   "published": "2026-09-09T09:15:24+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Retail India News: Blackberrys",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },

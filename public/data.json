@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-09T10:55:46.967413+00:00",
+ "generated_at": "2026-09-09T11:03:11.377565+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 62,
+  "fresh": 7,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "b1097205bac0",
+   "title": "Watertech startup DigitalPaani raises Rs 22 crore in funding to expand operations",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObi0yYzREYVRBNks2U044OENTZ3RDNlo4SU4zWVlTQ2RLX2JLQ1czZDFtRkdVQkJmM3RHenA1aFp5dGhuYlM4RGItRHNvanp5UkRMZk94ZTNuV1dLUmdoRENkWTJfTjdTSlhwRUxMVG1kX2lGbnFIWkpQVHF4R09CWkIyLTM5OEJhb3U5V2h5UDV5QkpFTzBoLXZNNzJMSG9vREJ3YWlrdFM3eERYU2RDZDZFV2N2bm5XYTIwOURZR2Q2TWh3TDJJ0gHHAUFVX3lxTE5uLTJjNERhVEE2SzZTTjg4Q1NndEM2WjhJTjNZWVNDZEtfYktDVzNkMW1GR1VCQmYzdEd6cDVoWnl0aG5iUzhEYi1Ec29qenlSRExmT3hlM25XV0tSZ2hEQ2RZMl9ON1NKWHBFTExUbWRfaUZucUhaSlBUcXhHT0JaQjItMzk4QmFvdTlXaHlQNXlCSkVPMGgtdk03MkxIb29EQndhaWt0Uzd4RFhTZENkNkVXY3ZubldhMjA5RFlHZDZNaHdMMkk?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-09T10:55:01+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Watertech",
+   "amount": "Rs22 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs22 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9d584b80af60",
+   "title": "Adani Plans $2.5 Billion Refinancing in India\u2019s Biggest Offshore Loan This Year",
+   "url": "https://www.livemint.com/companies/adani-plans-2-5-billion-refinancing-in-india-s-biggest-offshore-loan-this-year-11788950926206.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-09T10:54:03+00:00",
+   "score": 71,
+   "category": "acquisition",
+   "company": "Adani Plans",
+   "amount": "$2.5 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "$2.5 Billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "14a938766d98",
+   "title": "GFF: Stablecoins pose sovereignty challenge, RBI adviser says",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHNTVW16blgtOS1pU1NLTE01bWRIR1dfOUJnVEVseUVoXzM0RzNGYkwtTkNrRWV5bDNGT0lKMFZqemw5ZmQxWnhmVkFHMk02WUc2TG42YWdYRHZneDlKc2RubDQ4VHJkNG5NUmNFWDQzSXZsU1VFcWZYaWtVX2l6bF9Hc1I4VmhhaEE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T10:45:48+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "GFF: Stablecoins",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "fd84ec5695c1",
    "title": "Maharashtra Eyes First State-Level Land Tokenisation Framework: CM Fadnavis",
@@ -25,6 +78,23 @@
    "alerted": false
   },
   {
+   "id": "1f396c9156b9",
+   "title": "Visa calls for \u201cAI in the loop\u201d in cyber defence at GFF 2026 as India proposes human checks for AI payments",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14QnJlenp3bFFXUnF3cGJLTlJxd29adEhzZTgxbThLOWpIVkowSngydjNZZzN1Ml9JNUNKU1JUemo1WWdpbDMwQWEyZnNYSDVWQ294cm5ZMHJPMWRHUGlzdEpSQ1FkQnNWa1NWdmtfdUc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T10:36:18+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Visa",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "e6659be6210b",
    "title": "India\u2019s Startup Boom Needs Universities to Build Entrepreneurs",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xMG9EaDdXakZLdV9OUVBRM2ZnZi1qTGdrYWlxTlB4bWJHQi1waU9GMzB4S1J6OXdUMGxSMURDaVNKdWVfSGhGRUlWajJZY2NYLXYyNVU2eXRhQ0pybFBKZkZQY0RBamZyV0dkUDNxU201QUk?oc=5",
@@ -33,6 +103,23 @@
    "score": 23,
    "category": "other",
    "company": "India\u2019s Startup Boom Needs Universities",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "165f75a59070",
+   "title": "RBI exploring gold tokenization, says its executive director at GFF",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNZ0NXMEFmODI0WDNVb3FBejI1MTdZcVVkZkpzOEM0dGtfRFJJUGxQM3QtRk9laWhYT2VuZVkxODFtdW1USmZsUi1kS2kycTBvRjE1Y0oyOUI2MTdWZkxkTlUzbmtWY3NrUlhIbkhYNkRicklYS1hXQw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T10:30:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RBI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -84,6 +171,23 @@
    "score": 23,
    "category": "other",
    "company": "ESDS Touches Upper Circuit For",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "84b44845572d",
+   "title": "ESDS Hits Upper Circuit For Fourth Straight Day, Rises To 3.3X IPO Price",
+   "url": "https://inc42.com/buzz/esds-touches-upper-circuit-for-the-fourth-consecutive-trading-session-stock-skyrockets-3-3x-ipo-price/",
+   "source": "Inc42",
+   "published": "2026-09-09T10:14:18+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "ESDS Hits Upper Circuit For",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -508,23 +612,6 @@
    "alerted": true
   },
   {
-   "id": "5406a7bf1c10",
-   "title": "India orders takedown of 15 offshore crypto platforms over AML non-compliance",
-   "url": "https://yourstory.com/2026/09/india-orders-takedown-15-offshore-crypto-platforms-aml-non-compliance",
-   "source": "YourStory",
-   "published": "2026-09-09T07:38:59+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d42c88ea6cfa",
    "title": "ARC Raises \u20b910.5 Cr as X1 Targets India\u2019s Gaming Hardware Gap | Outlook Respawn",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemRjcS1QV190M3JuWEZvSjJhemlPX3hrUmZrX1ZjZXlQR1ZiME5VNHlaZ295ZG9IdVc5cUJZRTFWeUZzNmNyT1lJQXRiT204ZDFCNEk0bENRbDNxQmdDS3QzZDJvTHhNUUl2dEhmYlh4ZS15ODFEUExXNWVueXF5azJtM0ZvUWx1bUNrVHhfYnhuamlETXZGemRJU0RxQjAwYkdxMlI1NWk1RXFnYmhiNmlmOFFyT1FGeWprQdIBvAFBVV95cUxOemRjcS1QV190M3JuWEZvSjJhemlPX3hrUmZrX1ZjZXlQR1ZiME5VNHlaZ295ZG9IdVc5cUJZRTFWeUZzNmNyT1lJQXRiT204ZDFCNEk0bENRbDNxQmdDS3QzZDJvTHhNUUl2dEhmYlh4ZS15ODFEUExXNWVueXF5azJtM0ZvUWx1bUNrVHhfYnhuamlETXZGemRJU0RxQjAwYkdxMlI1NWk1RXFnYmhiNmlmOFFyT1FGeWprQQ?oc=5",
@@ -575,23 +662,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "417a876810d6",
-   "title": "Wildflower Naturals Enters Swiggy Instamart to Boost Consumer Reach",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEp4bGtBZUpMUDZ5ZnpDbExUZkpqaHFxTnFxUnY2TWQyLW9odlZjVmo1NE4yaGpmeklVcUwwN2xabnRaZUtNVUt1dDhveUtXakNJMVRYM3BBS0s3Mk0zM0JCSFRIM3BURWx3U0l0emVITEhadWVseFpBVVZUR1JPaDRLZzA0dGo2WU1CM0ZlQ2NlSE9FaGdXVXBSYVdCdF8tVVE?oc=5",
-   "source": "indianretailer.com",
-   "published": "2026-09-09T07:26:27+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Wildflower Naturals",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "eb81b7f6c3f0",
@@ -7013,75 +7083,6 @@
    "score": 68,
    "category": "launch",
    "company": "Beauty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8ca10505338e",
-   "title": "Rapid food delivery startup Swish to raise $20-25 million led by Bertelsmann India: Sources",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnBfWmZNQVh5VWZ3SUtoVVJwenFHUUg1Umw3YzhLYndwSTNDUlpGQ0FYYUF5LXhCd2lybFY0dWU2UXdJX1FNaDRIQTFGampicDZXUi1tZUZ1VlJRMUF1SEtQQ2FUa1VUTEQ0Y0l4UTBGczA0aGZXbUtyRTFkclk3VHFTMEd3d0dmaHR5LXduQ2ttbTFmNk9CYUxvQXNwMHNBR1NvTGJkMzZrS2c1blJrS0pMbGx1eS1ybU8xcnE5TF9rQV9vNFdXczNuT2hFQ1pvMzRFb0lqdmtNR3pzNXk4QTdCS0hpd01tc0tzOdIB8gFBVV95cUxOSzExWVpuazc3b0wzWWtvRVBnSmNwc3BjcGRsblNzRmJBSzcxYU00emhfZWF1LWo5UHM0VHBNc21tenBkMlhnMExXV09YLXh2elhncWtZelA1dTBQeWlrdkhhXzlRWkYzdWVrbWZFOHJjdzVpMjBtSVdyTHZHbXo4d2ppbUpQSks4UGRibmJWUm9xOElPOVd1ZTlyODdVYm5Sb0xxb1VWSXc0M3pZa05mbkNCbWRmaXhualFMbHZMMFZzLXRNMnVRX004V3hsUTBFRXVoLVFpS091azcyT3NiX0lvQ1FHZUpBMXNCel9WV2JPZw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-02T10:59:25+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Rapid",
-   "amount": "25 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "25 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5fe6d30562d5",
-   "title": "DTDC Launches \u201cKaarigo\u201d to Put India\u2019s Artisans and Local Businesses on the Map of New-Age Commerce",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTFHcU0tMER5Q1VZLWxQczF5dllCT1haYThEbVpBZ3dFUzRGaDNad0hpbkxGSTRPRFQxOEpJS1gzVW1qbEdoUDFpelJ2UWEwcTdLSTE0UnloZVVfVnFGZmNFNXJyZ3hHWXh5THVHUnBia1BtWXpzdllNLWI0c0tYUzJzQnNkamJkWWllbER5ZExYVGZLNWM0NjNWRHZYbWtzX2JnSnRONE54ZDRlWjB5Skc4NnlOMncteGtxYzdJQVgtaThFT3pfcg?oc=5",
-   "source": "CXO Digitalpulse",
-   "published": "2026-09-02T10:59:02+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "DTDC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "aae3b33c9705",
-   "title": "AM/NS India Secures 30-Year Captive Berth Concession at Paradip Port",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQby1zOTdLS3ZJUTNIUlphV1pUUVh3cHNqb0IxNV96N1RQQjROVzZCZ29RTWFIVDJwLVRIX1VsbDNkZEFHWXpWZTczTHlQYTNCbmFhQ2RpM0tPWGhkTU1UT1JlMEVLMlNmeUx1OWxaZWFXNkZsQmZmSkFjcFFvSkcwNHlycmRzaVFuak1palhlUDYtYWxtb2pxRVZXc1gtcy1BOUZzQV9PUWpSU29JR1FTRUxycnNIZkRwbUlQN0lINnZvV1JVWWNEUEEzdFBFcTB3RVNpRWJrR2RZaTRBX2ZLQTZlelM?oc=5",
-   "source": "Construction World",
-   "published": "2026-09-02T10:57:35+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "AM/NS India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5b6ceabd647e",
-   "title": "Thomas Cook India, SOTC Travel to launch Bengaluru-Lakshadweep charter flights",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ2I3c3RZYlRqekFubXIyaHNPaXFEZnl5TW5sbGpOdms3cWRfUHg2Wm9kQ2p1N2FMOEx5UFFqQnlqZElHamlrQkpDeUFqWl9jMFJwSzFmSDJMSXZsT2hsZjRZTkRVZEF2R0NleW13QVY3dDhnQ2g3aFh2ZHJWX2NON0NUb3BFY214aW9OMkEzSlJ0V3N5QmJiWjdqR3MzNnRPY1FvOU1ERHpiMDhNc0I2N2N2Q3cydElfaFFpZmpHR1lwaU94MEoyMVhaQTNuaEE0cTY3MGY5cDNBOWNqdlRFTjRWakNha3VWMEVud3QydV9HOXI2UElmbdIB8gFBVV95cUxQSnNZcDdvSEFTWGplOFNoMGlFWGF0U1hIQjVRLUJYdmZLMVd4WjRNRFYyRTYzY0FReWRQQ1k4SWZ1T2tuRHA5eTQ1eEdrb0NfX2o3dDlEYzNCckJFY2NjRlN5dFd1dEhVTTA5MmhxZlo5ZFJxaHkxUk4td3Q5bmNCTHhBeVNwNTJjT183Z2lhcjEyUWYzaXVyeEpjVEttWmJNNTYwb01veU01Z2ppOUd5WGxFLWVCV2xGSFlzaXNadW01U1dGUUVjM3Z5aXBDVjkxWE1vVHdTR2M1RzZnNHhHQ29WYk1RdVl6WkVvaEUtbTBiZw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-02T10:56:58+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Thomas Cook India SOTC Travel",
    "amount": "",
    "stage": "",
    "founders": [],

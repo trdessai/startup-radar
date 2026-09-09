@@ -1,12 +1,59 @@
 {
- "generated_at": "2026-09-09T16:48:27.495097+00:00",
+ "generated_at": "2026-09-09T16:55:53.550507+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 37,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "370ee13fc0fd",
+   "title": "India is a blueprint for Unilever's emerging markets: global CEO Fernando Fernandez",
+   "url": "https://www.livemint.com/companies/news/india-is-a-blueprint-for-unilevers-emerging-markets-global-ceo-fernando-fernandez-11788967639668.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-09T16:52:15+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Fernando Fernandez",
+     "handle": null
+    },
+    {
+     "name": "Priya Nair",
+     "handle": null
+    },
+    {
+     "name": "Hindustan Unilever",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3f7b5436f5d5",
+   "title": "Flipkart Debuts Standalone App For Quick Commerce Arm Minutes",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BsaWZZdVMzTG1wazVSaVNTVkRFYmFTcTA2ZDE4MmxuTGFITi1QbVRHd2Q5OXhCMEIwQ0VDTEh0RlIyOWttcmhneElIUFc2S3FscnNKblV0eE91dWdQdUVQTHAwLUFGQXZfenNqcXNXTFJ0QmFEUEpwRFl5N2FPVmZQWTdEYWpXVFRCOVRreGFHUkIt?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-09T16:39:58+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Flipkart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e60fcda38c6c",
    "title": "SFIO Seeks Detailed Probe Into Xiaomi India\u2019s Business Model",
@@ -902,41 +949,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "58f372797bcc",
-   "title": "Suno releases new AI music models in partnership with Warner Music, BMG",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb3JaWjZJTEtham0wS0NZZzVNdFNzTHhPcDVjQ0xtQzA4SnlMWm4zWmlUSzc2Z1huN1RkN1hobE5oVnZZc2Exc015clphT25MQ1BpSm1WLV9fZWU2RlNGU3hWbG9obG14QjltZUozeG1IYWNhSGVHSmpJaWtVRlNrcVdMalhnQjhPUmZFWVhQdnlYZU15TzIxaHdibERSeFlMd2t5VEF1R2FUaFJnN1JCOEU1T041RWVlMnUzQTlELXBUWEdRYS1zNlFrTDNEUENkanYzaEpUeUFsT1BZWVBCc0ZWVnZKMTJHYWJQaTFn0gHuAUFVX3lxTE9vclpaNklMS2FqbTBLQ1lnNU10U3NMeE9wNWNDTG1DMDhKeUxabjNaaVRLNzZnWG43VGQ3WGhsTmhWdllzYTFzTXlyWmFPbkxDUGlKbVYtX19lZTZGU0ZTeFZsb2hsbXhCOW1lSjN4bUhhY2FIZUdKaklpa1VGU2txV0xqWGdCOE9SZkVZWFB2eVhlTXlPMjFod2JsRFJ4WUx3a3lUQXVHYVRoUmc3UkI4RTVPTjVFZWUydTNBOUQtcFRYR1FhLXM2UWtMM0RQQ2RqdjNoSlR5QWxPUFlZUEJzRlZWdkoxMkdhYlBpMWc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-09T10:17:00+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Suno",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ac07942c4374",
-   "title": "Furniture rental firm Rentomojo's $133 mn IPO fully subscribed on first day",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGxvOGFQa1lJZ1BXOGpnM1VmSlBmUHI1SkFjR1R6UURJMXJFV3JKZWRnQkZ4QlZqNmVwZFhnRkMxMFFDVHVaZjZQVzRMWE9oVnlPSkdZLU1RT3ppbzMwX21ZNjB5MXlkWFItX3ZuLTJ2TmZfRy13YUZPa0U4XzNZTDJXdUN0T1RPRko1SHpsWGJJVWlYcWFLZE52SlJkNGM?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-09T10:15:09+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Furniture",
-   "amount": "$133 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$133 mn"
-   ],
-   "alerted": false
   },
   {
    "id": "faab8238c495",

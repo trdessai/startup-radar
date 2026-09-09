@@ -1,12 +1,68 @@
 {
- "generated_at": "2026-09-09T02:54:26.116111+00:00",
+ "generated_at": "2026-09-09T03:01:59.193261+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "041cfc09ab5c",
+   "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/articleshow/133949876.cms",
+   "source": "ET Tech",
+   "published": "2026-09-09T02:44:10+00:00",
+   "score": 75,
+   "category": "launch",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Mark Zuckerberg's",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "586923730d31",
+   "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-offers-ai-for-chip-design-touts-cost-advantage-over-open-source-cfo-says/articleshow/133949798.cms",
+   "source": "ET Tech",
+   "published": "2026-09-09T02:41:20+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4778fcc35b20",
+   "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology/articleshow/133949650.cms",
+   "source": "ET Tech",
+   "published": "2026-09-09T02:34:05+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "47a1b32b0318",
    "title": "Instant Help\u2019s Ground Reality, Shiprocket\u2019s Second Act & More",
@@ -23,6 +79,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "8fb0f33d0f05",
+   "title": "MED-EL launches SONNET 3 cochlear implant audio processor in India",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjlIVDQwT3JWTktEMnF6aGNUTkcybjd5ZktZN0UxcXBwU3hPQ2E5ZWNrTFczTGd4U3lnS19jczNGV3BpNGNmYnI5SjFRYmFKR1JoOGpHZGgzMHRheEJfM1lxWFdvNndlODBKYXZKemZManY3cTh5cGZZWnFtV3FuTHltM21nNWpKazRqYTVTUjJTUE1hRjFQbjRRU3NLTUlnYjQ2clN3aVhhRV8welhF0gHDAUFVX3lxTE50ZzhGZVdCbTh4M3JhcGJiNWswU1hDbmFBQTVJaVE0UGUxS2pyRWxlcXpWcDBFWXhBSTljLVFqdGpKZGZGWm5UdVdGdVJxVVo4T2pobjhsa0xaX0lJNUQySVJ3alN2RGRiN3hIZmozQjJmdk1OTm1jTXFyWVh0X0thblF5cF9sV0t2NGJYZW4tRXJIOTQxSVFjRnpzS3hhUFZXLVNzYWRLSlVZdnZNYTNCTzNQa3ZKZ3pyLUxuaFlTb1g4OA?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-09-09T01:58:15+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "MED-EL",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "1ba7d7e1f391",
@@ -498,23 +571,6 @@
    "alerted": false
   },
   {
-   "id": "ef16d48c2bf3",
-   "title": "Private space start-ups achieve milestones: GalaxEye gets US patent; Agnikul opens new test facilities",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPREZVR1RaVHVOSEZ0X1NLYXdRVGhNSjBLWTVXeDkxWXRWeWFCMy1KdHN0THhxdHQ4Vlk5NFNSd1R0T1l4eDJ5YnBpVTE4LXlrOHQwb0RHNHljcXNKZzduVGJNU3Z0OFBHN3ZOUTRzbVJIbDFrS09TWDZMZzJhQVFGY3dkci1FRFdrSE1yazFOYW5WLXRoUzVhYUNRRUdfZl9qd2JMVUtQb3loTHJ3MkgxTFFENklJcFVoNDIyaTkxZnhIdzhWUE9XaS1hV3FrNHhpVGF5ZElqZnhSZURSY3ZBY0VaWGFrOGhLdWlGTQ?oc=5",
-   "source": "Deccan Herald",
-   "published": "2026-09-08T15:43:41+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Private",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "55a7e70394b6",
    "title": "DigitalPaani Raises Rs 22 Crore to Expand AI-Powered Water Infrastructure Platform",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ1F6cDdMM2RYTjY1LVVvcFJVWUlrS3dtcWx0U3FReWtPYjJrQUd1cnZrY01SX1RkVXFESTMyNHIyY0MwdENNZVZDWTBnUlotdGhvWFJ0VEFLQkxYNE5mb0p0cldJMWtiRXBXdWNJYndFWXlSamVqWE05b2xuXzNjVU4wczZGU0twZWY2QmRXVFhlQ2R4RmVVWlFJaFVhU1NKX01FWDJuZnhvNm5oS19jZHRyMUt0R2dBaXVBOS16bHJrQ0d2dHNpWg?oc=5",
@@ -531,23 +587,6 @@
     "Rs22 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "2fa8c6ce25c1",
-   "title": "Flipkart widens lead against Amazon as quick commerce surges",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTVlYU5IYU9valk1OGFDVE9MMzdXaDFTV19majg4WUVNVU9XU1FNYTRSWEgzQmEyUWl6TTM0ZlVZT09lZjVteTBEanZfZlh5Sm5DQkROOTJZbkRjNVhIVE5BSGMtVlJ4dWxIRU9oR3hjeVkydHBXYzJEcUFlTmV5ZmlZZ19rTVJscm50cUtYRnpHbVNyN25QVEpmMjZ2eDdnRVp4TWZLM1NoWHdiR0lJNmVIbGZZdlJWb1RqaHZjbnJ0YUxjY2ZrRThObXZlSUY2WHdReHY5dkRXRkpUcGpLLWhfQk3SAeQBQVVfeXFMUC01ZWFOSGFPb2pZNThhQ1RPTDM3V2gxU1dfZmo4OFlFTVVPV1NRTWE0UlhIM0JhMlFpek0zNGZVWU9PZWY1bXkwRGp2X2ZYeUpuQ0JETjkyWW5EYzVYSFROQUhjLVZSeHVsSEVPaEd4Y3lZMnRwV2MyRHFBZU5leWZpWWdfa01SbHJudHFLWEZ6R21TcjduUFRKZjI2dng3Z0VaeE1mSzNTaFh3YkdJSTZlSGxmWXZSVm9Uamh2Y25ydGFMY2Nma0U4Tm12ZUlGNlh3UXh2OXZEV0ZKVHBqSy1oX0JN?oc=5",
-   "source": "timesofindia.indiatimes.com",
-   "published": "2026-09-08T15:38:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Flipkart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "28fe796355a4",
@@ -601,25 +640,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "6eb01a282e3b",
-   "title": "Why is EY giving employees \u20b9800 crore in bonuses? What does AI have to do with it?",
-   "url": "https://www.livemint.com/companies/why-is-ey-giving-employees-800-crore-in-bonuses-what-does-ai-have-to-do-with-it-11788876447655.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-08T14:43:39+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Why",
-   "amount": "\u20b9800 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9800 crore",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "49a3a40adfef",

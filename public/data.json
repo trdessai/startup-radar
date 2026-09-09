@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-09T13:49:11.670834+00:00",
+ "generated_at": "2026-09-09T13:56:51.027980+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 3,
+  "fetched": 52,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7074,23 +7074,6 @@
    "reasons": [
     "funding in headline",
     "$5 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2d55e8a9edb5",
-   "title": "Two-wheeler EV maker Simple Energy eyes another fundraise",
-   "url": "https://yourstory.com/2026/09/two-wheeler-ev-maker-simple-energy-eyes-another-fundraise",
-   "source": "YourStory",
-   "published": "2026-09-02T13:55:33+00:00",
-   "score": 64,
-   "category": "launch",
-   "company": "Two-wheeler EV",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

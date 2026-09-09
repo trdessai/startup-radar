@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-09T07:07:16.169341+00:00",
+ "generated_at": "2026-09-09T07:22:29.217063+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 57,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "eb81b7f6c3f0",
+   "title": "Marmalade Raises \u20b96 Crore in Seed Funding to Expand Distribution and Scale Brightside Craft Whiskey",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY09saXBqMm9KZXlFWFhjbF9BcFM3Y0w4QTE3YUxWLUZPZHkzNWdEMWpHSWVYTF9la0VGM3JGdWF0YUR3MDFiRDJqaEppSXRkOFRQUFR3TnpKZEZ6RnpUWnRnWEVsT1NDSDRXZVpRZFJld2pFRVRyYi1hQm5FZmxsa1BnS1psX2RjelpQT0twTEthUl92Q09mdGxVMlpTc2YyUjV2RDZWQ1ZiMk9sZ19KeUxOelNHcHFaYXF6N2lTa0pUUi1tVF9yVnZOYmxwbU9qQXhmaGxvZXZGQUtST2hjclJn?oc=5",
+   "source": "indianstartuptimes.com",
+   "published": "2026-09-09T07:09:43+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Marmalade",
+   "amount": "\u20b96 Crore",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b96 Crore",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "5cecdc74af52",
    "title": "Singapore Airlines said to seek tougher terms for any fresh Air India funding",
@@ -23,6 +42,57 @@
     "funding in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "41cd3f74ddc8",
+   "title": "BJP announces month-long campaign to mark PM Modi's 25 years in public service",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2NWV0FTbXVfbVhRc1Z2WjZNVjdlUG5OTkltSk5xcjNLT3dsbjZBSmwzZGhMVFBQeGVJN29UMnBHVjRXSWlmdXV1OElKak5JY1BYRXpJSHlaQTJiQXlUbEdadnVJN3dIYXRQaWo2WlpQcWxQSmY2dEtVLUExWlBtUkNDcDFiTmhudnVZaUM5cko1dzZ2Mko2eEpHTnhYM2xLREplNU1IRF9qeDlLaDZFMTRXQkR2S3ZKbUp0ZjJhTW5OX3lFT1p30gHUAUFVX3lxTE9qRW5td25YZEhXbDlrTm5PR00zYVBickZkZEZraXRmSVVta0hfRTFiOGs5N1owbjE1SDNJLXdBSHAxQXVIcXdCWjBXRzhoYUlXdGtnZTdqTHZjalcyWG82UGdYb0J4UUtEWVN4VTFNNkZ6RWQtS050WE1sTDhYbUdNTnZmQ2JUbHJodHRpdGpCaTMwQ3FnYWdGYzdYOHJMb0NzWlotb01LbC1sZll1aG9Pa0pySEFhZEdIVlpxck9GUVJ5ZDk1dnYwMzAya0x4QUZhU2lS?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-09-09T07:03:36+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "BJP",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "78e2ad227bfb",
+   "title": "Apple iPhone event: 4 key things to expect from the launch tonight",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOck1iODA0T1piZUl0S2Qtdmg4SGhQMEZvLTcwVTQxdDdUZ1BoU1hlcHNoNUZyWHZERDRlSExnQlE2R0p2Z1NGOExiUm1KTURLN1dXTzF0eFVuamhmOGR0SzNRdUF0MFA4TzY1NVRnTVpXVE5hRmcwSTJwd2RrYVhtMC1Ia19PbDZNS2M2WmUtdlprSzBlbGZtLUdDZ3RTRDNTLUtaNHdRMnhtZEdvZkpyRm94TTbSAbQBQVVfeXFMTnJNYjgwNE9aYmVJdEtkLXZoOEhoUDBGby03MFU0MXQ3VGdQaFNYZXBzaDVGclh2REQ0ZUhMZ0JRNkdKdmdTRjhMYlJtSk1ESzdXV08xdHhVbmpoZjhkdEszUXVBdDBQOE82NTVUZ01aV1ROYUZnMEkycHdka2FYbTAtSGtfT2w2TUtjNlplLXZaa0swZWxmbS1HQ2d0U0QzUy1LWjR3UTJ4bWRHb2ZKckZveE02?oc=5",
+   "source": "Firstpost",
+   "published": "2026-09-09T07:01:48+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c53e3c5364a8",
+   "title": "Paytm to foray into enterprise AI with \u2018Paytm Intelligence\u2019",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSUUpOSW9UcEdjc1QySHB3RFdjRFJ1TXhfbndiOEQ0bXVONFBST3VpZVBSeUQ2bTJDUWpQdWU2bWhjajVzTTRJYXpVYVdKaW9ycnNEREFLX2s2cVVMUmp2TDdzQ0k1bnJzY09DYlN3aHM?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-09T07:00:13+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Paytm",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "48417023fdc8",
@@ -444,41 +514,6 @@
    "score": 23,
    "category": "other",
    "company": "Torrent Gas",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dd4c43963520",
-   "title": "Adani Airports to raise $1 bn from Temasek, BlackRock, others",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONG9wc0ppVkRReFJQRE0xempvS1Z3aUl1bjBJOTVXc0FweWtBYjl4X2ZhOHcwdGVtRllub0tKN3FiN1hlcHJoT1dTSzAyRDZtUDh6WVdGYVF5MU5lT19SUXY2akxaOW1OMmpPSEFaOHlGdVBFV1FpVE1pZlZlcVN2QURUX0RiZ3pYaGc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-09T04:20:19+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Adani Airports",
-   "amount": "$1 bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1 bn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2981fa506dfe",
-   "title": "Malaysia's data centres guzzling more power as temperatures soar, officials say",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/malaysias-data-centres-guzzling-more-power-as-temperatures-soar-officials-say/articleshow/133952300.cms",
-   "source": "ET Tech",
-   "published": "2026-09-09T04:18:00+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Malaysia's",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7068,40 +7103,6 @@
    "reasons": [
     "funding in headline",
     "Rs99 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fa73e881381c",
-   "title": "Sonos launches AI OS alongside new soundbar and headphones, brings Sonos Play to India",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYnl5cmFpbVRWaWtBLWNkaHBkTDBYaDJvQlhkdVFYUF9CLUg0UF9ZX3A4dVFNSXhEcEFZV3RlbTU4eVFDbHNGbTdqaGRwY1R1cjR5MnFtN1luYjV2LUQ3S3VOV05nVlFQNm9VMVM5OWc4ZmdydTlfSzR5SWs1cnlHOVJON3ROT0VQenpvZVNUZ1lhOU9pM2JXcFdDY21QYk4ySDNvQjdwemdHZ2YyNVE3ZTYwcHlRZEZvUFg0OW9GaHUwRklhdFFGa3VWNmx1eUpRU0Z6VVpfQ0MtSmFLWGVJOHRGZDVLbjTSAewBQVVfeXFMUG5pMl9KZy00aERjU0FEN0cwckhSc0dLSUdMUjBfSWthd1VwSVN5V3VWMWgyWWhremxVLXJOTWdJRnpVYU53T2pQTGt3NjFHdzZRT19oSXJOdS1RNHh0RkE2T2FFc2hZRXB5VGpTeGtBZ0R6YXVtSkFHOWRMVGpDbm9OYnJ5V0JQVE1tMmlBRDdZekZmU2YxdDgwNFAzejJ3TWc4aFlHcm1rNl9rTjY3a2pjd0VQTXBjYkFHbng1dDhubExidElaaWJPOXdQbmxHTHFnTDFCaGdLYjdVQXRuWTUxdzBUaXlXM0gxWFU?oc=5",
-   "source": "India Today",
-   "published": "2026-09-02T07:21:27+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Sonos",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b7ab7c8da98d",
-   "title": "Camweara Launches \u2018Virtual Hold\u2019 to Bring Touch & Feel experience Online",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTVlbWVOU3hwZ0FkZ0NOeHY5MzhFWXJPaFlrUDk0NG96YXBkVkFpVHJFRmFoVktpWWo4NnhKWTdnZVdfRThzNUdoSS02eU1lcmVfbFNFY0lRSGhWM1RIRHB1LVVKMVRENjZLZUsyYXNBSkpTZVY2LVhRb2ljMFF2VlVjWG9CWXFNdjhGY1B5VFZHWE11ZVZwNkpEVW45c1ZCMHYtamRabU5qZzN6RGpPU24yOVlOblR4c3ZaOWZ1UjM5SmpVNlRzYXpn?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-02T07:12:50+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Camweara",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

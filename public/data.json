@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-09T14:19:37.917495+00:00",
+ "generated_at": "2026-09-09T14:33:16.782541+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 48,
-  "fresh": 4,
-  "alerted": 3
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "944386285e77",
+   "title": "GFF 2026: NPCI Launches Instant Card-Issuing ATMs, Deepens AI Push",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWF2UUE0Zm1fSWxIUjZNMnN0VWlFbl82eDB4Y3FBWkJmbkZvVHFHZGNPOEFDTkQtd3FuNzlTTVZkU3N3YXUyS2tCX0hXRlRnRDh6UVVWLVd0cEhUOHZyODhTdGkwMmk4ODRfR2ZfdkdIYmZQLXA0N2VWYXZJTmY0VV9Ia05Zek8yUXM0b0tZVG9Odw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T14:18:11+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "GFF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "bb1f10540eaa",
    "title": "Bengaluru-Based Quantum Cybersecurity Startup QNu Raises $21 Million",
@@ -42,6 +59,23 @@
     "\u20b9600 Crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "c036b70330ae",
+   "title": "Flipkart Minutes\u2019 new app; Anthropic researcher sounds alarm",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-minutes-new-app-anthropic-researcher-sounds-alarm/articleshow/133971619.cms",
+   "source": "ET Tech",
+   "published": "2026-09-09T14:08:00+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Flipkart Minutes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "dfe0d78b1952",
@@ -7061,41 +7095,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1e7c12a22275",
-   "title": "One month out of stealth, Act Security lands first acquisition and launches Amphi",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UOXhWcTNNRmVaNUhrZktYVTFSbXFDRGJnZUIyWEZNMjZ4alFnVTVyVU9VTXo2Q2ktTDhhQnRIcGFqVmlSTHlMT1U3cUJSQ2ZJYUVtVTVnNG9Ca1ZGdzFJUzVB?oc=5",
-   "source": "Ynetnews",
-   "published": "2026-09-02T14:20:10+00:00",
-   "score": 80,
-   "category": "launch",
-   "company": "One",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "stealth exit"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a5d57f8d11fb",
-   "title": "MENA Startups See Fresh Funding Deals After Sharp March Slowdown",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaVdyWHdxeGdCdlNfeV83NnBtckM2T1dRcHI4WXE2YXNNZ3lRVDBEbEdiRnZUaG93bTN0UFhZdEY4Zk5pUTVZYkVDVVhxS3dlUmxOWVAweFdQMmcwVzBnVWdFaFF2Qk5qUUtyYlVlcDhaeXFyb21Ja29FM2NraHN3U25rSndpZ3EwQmNrbFNjTzB3WlVPeDZmeGtJOWYwZw?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-09-02T14:19:55+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "MENA Startups See Fresh",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

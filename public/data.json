@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-09T15:05:12.783466+00:00",
+ "generated_at": "2026-09-09T15:19:48.953101+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 43,
-  "fresh": 0,
+  "fetched": 45,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "470f50f3c82c",
+   "title": "5 Books where the villain might have been right all along",
+   "url": "https://yourstory.com/2026/09/books-villian-right",
+   "source": "YourStory",
+   "published": "2026-09-09T15:07:01+00:00",
+   "score": 49,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b6bc004bde1e",
+   "title": "LOHUM Begins Lithium Mining Operations In Zimbabwe",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MNGRiZVRfZTRBODFBbG1ZYVBSUk4tdDdLOXo4S1pJT2lWUFNFOU4zVnJMQVZIMGItc0tWUEFPVm1nMjVFVF9VMTFVVFJZM3ZQZl9ncnZTQzA0aFlCMEo2OVp3QlRtcFZwaUw1TEZzNkRHQmxpN19nWkZBZDFJMzg?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-09T15:06:57+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "LOHUM Begins Lithium Mining Operations",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "944386285e77",
    "title": "GFF 2026: NPCI Launches Instant Card-Issuing ATMs, Deepens AI Push",
@@ -427,6 +462,23 @@
    "score": 23,
    "category": "other",
    "company": "India\u2019s Healthcare Deeptech And Payments",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f6cba17a93ac",
+   "title": "Arrowhead AI Wants to Turn Voice Agents Into the New BFSI Workforce",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdU5QbHhac3hPaTZDbE93ZS1XWUw2QUJOSDlOVmlxWkZ3bFBNeDBKQjByT21VanFJekxWQWdVaFF5dEgtWk8yWHFiWThKcE1oV0dFSUZBcy1JQVdHeDNQZ3FRMFlXbU9DdEpYZTZDOWhHWlR3MkRKbUVGVnU2eEVXaDJRVmE2NEVYRGFWUVIzNzJhR3ZZOE9rT095eWxSWi1EMnNPNXVnYUhDeWtoTEE?oc=5",
+   "source": "analyticsindiamag.com",
+   "published": "2026-09-09T11:39:36+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Arrowhead AI Wants",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7027,57 +7079,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "53365b8489f7",
-   "title": "Zerodha gets SEBI nod to enter investment banking business",
-   "url": "https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business",
-   "source": "YourStory",
-   "published": "2026-09-02T15:15:12+00:00",
-   "score": 57,
-   "category": "expansion",
-   "company": "Zerodha",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6d41f8f54cf7",
-   "title": "Coforge launches open-weight AI launchpad for enterprise deployments",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYk91SVpGVWdpbU5fTkF5Sm40Nms4dmRMZG5Wa0JISlhUYTk1YUFwR2ExeWhCb1lGMVJxUmItVUY2LWExcG9yUTE2am4tcWxRck9sbHJNbUcxMFJlSDRxTGR0X09fX0xqY0hEb29vdzlLbXB5cVIycHJLWDNsT0RHQkJqYnpCUklXMTNhcHZ5TjUzUGt3WVU5Mi1mclY5QlZKaHpOMS03SUsyc3NsX0JV?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-09-02T15:14:52+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Coforge",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3f5d07d0dad1",
-   "title": "Adobe picks up AI marketing startup Rilo in second India acquisition",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2RMRVpkLW5ZZEZfZy11ajc5SkwxMEh2WWxwQXFwcXpja0JQREFxVGlHWG1EYVBISno5bXBuY0FsSmpLbGxKWURlY2NkU214bWFQcDhFVmxoOUFNWDVacWg1ZmJ0QTZJVWFIN3hISU9uVG9ZeTRoa1o4blhvcDdjbHFQaXhURE9KaEQtLU1vaVdaMTNObGJJUWFlSjJoMzc3VF85ZXFCUmZiS2fSAasBQVVfeXFMT0NkTEVaZC1uWWRGX2ctdWo3OUpMMTBIdllscEFxcHF6Y2tCUERBcVRpR1htRGFQSEp6OW1wbmNBbEpqS2xsSllEZWNjZFNteG1hUHA4RVZsaDlBTVg1WnFoNWZidEE2SVVhSDd4SElPblRvWXk0aGtaOG5Yb3A3Y2xxUGl4VERPSmhELS1Nb2lXWjEzTmxiSVFhZUoyaDM3N1RfOWVxQlJmYktn?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-02T15:06:13+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "Adobe",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

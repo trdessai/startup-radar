@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T06:25:36.408507+00:00",
+ "generated_at": "2026-09-10T06:40:28.380281+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 37,
+  "fetched": 39,
   "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "532e77db1d53",
+   "title": "J&K\u2019s Doda imposes two-month VPN ban under Section 163, renewing questions over executive power",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDZJdHB0SzNlZkVZanFlcTRYRWtvUlNqTjdDby02MjZhcWtqazVOZUpucDVMQ21XWF9lZTFJQXQyaXZDT2RYWVZkUVlHT25wT0xUNEphb2hRbkR5blhNSndHWlRXM2dJeVIxMlNMeExkLTNOVXlSMlo3blhTUExiQmhxMA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-10T06:15:55+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "J&K\u2019s Doda",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "fbfd2d2a0ad0",
    "title": "Rentomojo IPO subscribed 1.97X on Day 1, NII portion leads at 3.87X",
@@ -120,6 +137,23 @@
     "$24 m"
    ],
    "alerted": true
+  },
+  {
+   "id": "32586066dfad",
+   "title": "How 5 IITians turned their college project into a satellite startup",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHlEZm94b21VMm5PQlgwVktYVGQ3dnZJRTJ3Mm5mNzZTUnFhZDRoWWh6dnozWVkwSWtsQWxFcUV5ejRQbVVTbGJGQ1AxakhuUVQ2RDdVRVc1Q2V1TldkcjExdHptaDc3aEhndkk2R2thTmQ2aWUyZElhQmg5VGpRa3Z0QlZlUVk0bzYtNnRxQkNzWmJVUE00bHJWUW1CRl95TW9vazJHNWhUNnJ0RmtyR3VZVmw3azg4RmhYY1Q0dHNpb05Fbk9WeGVtVmQyX1HSAc8BQVVfeXFMTlh5RGZveG9tVTJuT0JYMFZLWFRkN3Z2SUUydzJuZjc2U1JxYWQ0aFloenZ6M1lZMElrbEFsRXFFeXo0UG1VU2xiRkNQMWpIblFUNkQ3VUVXNUNldU5XZHIxMXR6bWg3N2hIZ3ZJNkdrYU5kNmllMmRJYUJoOVRqUWt2dEJWZVFZNG82LTZ0cUJDc1piVVBNNGxyVlFtQkZfeU1vb2syRzVoVDZydEZrckd1WVZsN2s4OEZoWGNUNHRzaW9ORW5PVnhlbVZkMl9R?oc=5",
+   "source": "India Today",
+   "published": "2026-09-10T05:01:02+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "a8d2dbadd87e",
@@ -502,45 +536,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "979067de4d5a",
-   "title": "Habuild CEO on user loyalty; Flipkart Minutes gets its own app",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/habuild-ceo-on-user-loyalty-flipkart-minutes-gets-its-own-app/articleshow/133990195.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T02:15:00+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Habuild CEO",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Saurabh Bothra",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0b33824dc743",
-   "title": "Private equity firm Motilal Oswal\u2019s PPE bet; Samtel Avionics, Japanese firm BULL Co sign deal for space debris",
-   "url": "https://yourstory.com/2026/09/15-crypto-platforms-hit-by-indias-crackdown",
-   "source": "YourStory",
-   "published": "2026-09-10T02:00:00+00:00",
-   "score": 49,
-   "category": "expansion",
-   "company": "Private",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
    ],
    "alerted": false
   },

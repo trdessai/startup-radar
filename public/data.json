@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-10T16:01:59.885139+00:00",
+ "generated_at": "2026-09-10T16:19:25.255212+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 50,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 48,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "98d2385319f9",
+   "title": "Google expands India's clean-energy push with Solar API for 300M rooftops, climate-smart agri programme, and more",
+   "url": "https://yourstory.com/2026/09/google-expands-indias-clean-energy-push",
+   "source": "YourStory",
+   "published": "2026-09-10T15:59:11+00:00",
+   "score": 75,
+   "category": "expansion",
+   "company": "Google",
+   "amount": "300 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "300 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "3e5832ba9c64",
    "title": "Assam CM launches MC\u00b2+ IGNITE- IIT Guwahati outreach programme; calls for stronger industry-academia-startup collaboration",
@@ -7065,41 +7083,6 @@
    "reasons": [
     "funding in headline",
     "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f0e3e840ac82",
-   "title": "Kumar Mangalam Birla's UltraTech enters wires, cables business with \u20b91,800 crore Ultravolt bet",
-   "url": "https://www.livemint.com/companies/news/kumar-mangalam-birlas-ultratech-enters-wires-cables-business-with-rs-1-800-crore-ultravolt-bet-11788449157424.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T16:13:47+00:00",
-   "score": 71,
-   "category": "expansion",
-   "company": "Kumar Mangalam Birla's UltraTech",
-   "amount": "\u20b91,800 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "\u20b91,800 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3ae02c14d1c9",
-   "title": "India\u2019s EdTech Sector Moves From Funding-Led Growth to Model-Led Consolidation",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUI4RVFRd2Z4TFlxbTlrdlRTRjhRb0tqdDRYbTFpU3pJbkZta0lnMnYwcUE4OG1FNkh4RUtqRnppN0M0bXJrWFl4X05zMlA0UTAxNGpudm53Mi1rVHJZZWp2aW52cFdPNlpFUVlSNmJoelVoaVdSSGhLRlM0MmlqMWl5aUYybndtYjZ4MWFzY0NWRkRuSElOQjNsemtISnZsQktFYnRGaUh6QVZ2emc?oc=5",
-   "source": "TheTechPanda",
-   "published": "2026-09-03T16:12:49+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "India\u2019s EdTech Sector Moves From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

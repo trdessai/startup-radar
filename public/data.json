@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T02:46:49.862076+00:00",
+ "generated_at": "2026-09-10T02:55:29.348967+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 9,
-  "fresh": 1,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7099,23 +7099,6 @@
    "reasons": [
     "launch in headline",
     "\u20b92,500 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4986cc801ba0",
-   "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-raises-ai-chip-forecast-as-big-tech-keeps-writing-bigger-checks/articleshow/133723691.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T02:49:46+00:00",
-   "score": 62,
-   "category": "funding",
-   "company": "Broadcom",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

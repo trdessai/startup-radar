@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-10T18:02:19.671710+00:00",
+ "generated_at": "2026-09-10T18:21:53.413186+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 33,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "02c73e013d32",
+   "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmxDVEpES2FaZ2xCR3NXTngwc2R5Y25QR0YxX2NYXzN6V0h0RmNzRk1FRk5VMko3eU9MZ3ZVd2tHREJTZW12Q0w4SWk0YWthTzJ2SXhlYjRJUGt5STFwNkdoOU55N2JOb3czcWgxN19xYldBc0FxbExDYVJCTVltQnNNTjRRcGZqbHdpbElqMmhIcWJuOW9tSU43NjVRZ1lVbHN0YmxKVWQ0MzNING5zbmNwbkg2T0pa?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-10T17:45:00+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "India\u2019s Pocket FM",
+   "amount": "$500 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$500 M"
+   ],
+   "alerted": false
+  },
   {
    "id": "0a0a0c51319e",
    "title": "OpenAI launches ChatGPT for financial services industry",

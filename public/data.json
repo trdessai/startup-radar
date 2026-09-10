@@ -1,12 +1,35 @@
 {
- "generated_at": "2026-09-10T05:40:48.043967+00:00",
+ "generated_at": "2026-09-10T05:52:57.497466+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 34,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f685d7a21b3a",
+   "title": "DOJ probes Nvidia's licensing deal with AI startup Groq",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/doj-probes-nvidias-licensing-deal-with-ai-startup-groq/articleshow/133994951.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T05:45:48+00:00",
+   "score": 75,
+   "category": "product",
+   "company": "DOJ",
+   "amount": "$17 billion",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jonathan Ross",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "product",
+    "$17 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "a357bee383f1",
    "title": "Exclusive: Mesa School set to raise Rs 100 Cr in Series A; co-founder may sell 2.9% stake",
@@ -106,6 +129,23 @@
    "score": 25,
    "category": "other",
    "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "658b5ebfb533",
+   "title": "CVC names insider, TPG exec as co-CEOs to succeed Lucas in 2028",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGVYYW9QQk5LS2Z3d1NJbFQ3SDBmVno4M2JRMW5CeEM4Q1BHdmpkZXIzaGpZeWNiNjBFaE1jUUVJcVRsdTBQNGxQNVlJQk9kNmZzYkxFeFRLdnVWWjBHbHk0bVhsRnJ3NktjZ2tkZzc3MVFwWGUxYlBLaWRNYTliel9TS2d5THVLR21XbmpBTQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T04:47:36+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "CVC",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -603,53 +643,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5a384319f5a7",
-   "title": "Apple hikes iPhone prices in India: iPhone 17 now starts at Rs 99,900, 18 Pro models see up to 22% jump",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVGtMM1dCZHllWXVkb1RlWkw1M09MSURucTQybXRxU2xfVmE0azBiM0M0OE9BSklJRkloMGZRa3FCYURySGhIS3NUaXBzNl9WTzlPYWlzeUlYc1lxd2JNbTVYb0YzTDNDdkZMdmFJUFdmMDRWX0wwX2hzT2pZLXFzSXBrSWtqMFl4bHlaeWJ3Q1dJU3l0UjE1Sk9SNUp6RW9BMGJQYzk1aWc1eWhIYlJHNEN3a1ktaGlXa0xwSk81WHUxdlBRdlAyckFRcThRNURiMzQ5a0J3RThnWl9EQ1plaDB6WTB3V25acDdrbmFiYUp6NUlocmh1ZTJmZlVHZ9IBgwJBVV95cUxNUVRMNnFlUWU2QmQtYzRld0YzRXZiaXM1Sks0Q2FtejBra00tekpzZzZPZzNSLU1tVWduX01IMFdDcWpJdVpJemthYzJUd0pwSGNMa0NBdWV0YlhfVDhyNkhQb0FpMThtMFU0T0J2c1VaVFVKSGstYVMyX1dDQzBUX09oUHhNS09GenNERmE0WlRXNldQb2xvVnJTLWwyWDR2YzN5QnJUTTR6bVRqdGJBa3NwYi16clpqaXN2dnFRRVpyY1FDNUdJTWFDOW9fVXpYY0FBQmRDM0ZkMFdQckZpRk90cUI4eEFIUndUOTlsTUoyc3BkNm91cXVSY056dHFPV1RB?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-09T18:56:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "370ee13fc0fd",
-   "title": "India is a blueprint for Unilever's emerging markets: global CEO Fernando Fernandez",
-   "url": "https://www.livemint.com/companies/news/india-is-a-blueprint-for-unilevers-emerging-markets-global-ceo-fernando-fernandez-11788967639668.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-09T16:52:15+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Fernando Fernandez",
-     "handle": null
-    },
-    {
-     "name": "Priya Nair",
-     "handle": null
-    },
-    {
-     "name": "Hindustan Unilever",
-     "handle": null
-    }
-   ],
    "reasons": [
     "no clear event"
    ],

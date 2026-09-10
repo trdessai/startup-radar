@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T17:52:28.265604+00:00",
+ "generated_at": "2026-09-10T18:02:19.671710+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 32,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0a0a0c51319e",
+   "title": "OpenAI launches ChatGPT for financial services industry",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-chatgpt-for-financial-services-industry/articleshow/134023083.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T17:40:24+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "fc4535e66382",
    "title": "AI chip startup Positron's valuation skyrockets in latest funding round",
@@ -57,6 +74,23 @@
    "reasons": [
     "no clear event",
     "$315 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd81505c1be0",
+   "title": "Nexus Select Mall Management Pvt Ltd",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Cc2E5OGQ5U2xReTR4UmF5bW0xMnhMVXllVlZoTUhxMVo2ODh5c0ZpVlI5N0hnMDAyY2RpZHczV2xHdlZhZ3pLVjd4TVBiQTJhZUdSNlQ5Ry1ZSWs2QXBTWnNZcm9qaVFvSW5VZHNkMmJ2QnJlaEg2QkNqWQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T17:00:24+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Nexus Select Mall Management Pvt",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -7048,59 +7082,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cad046b07fa6",
-   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0RxN25tUmIwSWNkRUtlaDUzM2UwOVNtMFROYkZrYW1QU1o0LUN1Ukw5RWVaRTU2d1AzV2ZkQ25iOS04WDJPX0dLWlk4dVpvb2g5cHBtTEpPaGx1MzdZYU5vLXJnRUZDWkgtSEpyWmNOWWFkOTQzdUZLaHFvazRmWlg5TVVfX0Q3MDlvV091dXpsNVBMMFQtOUQ4NHduQQ?oc=5",
-   "source": "techcrunch.com",
-   "published": "2026-09-03T18:01:45+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "594a4dc2a291",
-   "title": "Ultrahuman Bags $70 Mn For Its Integrated Healthtech Play",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGowbjBOeFJtcjhmbGdSekVGa0VkWGlldmdjcnItcTNra3l4a1hwYkhMMUVOSEFRbWo1T3A3LUdBTXdjYjVlZlR0d0k3U0xfWVJPM3d1SnJZdTRtNVlMTFJaMkwzaVBQTWxQYlJOeHlHcV9GZHlteUZENkRYdXVZTUhNbTdMSk1aajFNZVRYOTJRQQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-03T18:00:17+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Ultrahuman",
-   "amount": "$70 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$70 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "850c6f8cd853",
-   "title": "Ultrahuman raises $70 Mn from Qualcomm, Alpha Wave, Nexus and others",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWpfQVFGellvdnVnRjNOTW81Z2pKQWhzUU92d0lGS2tCTGJlbzNoWjlzWFFPQ0drYi15NmExUHV2S0Z3WlRsNDJjVWx0b19seGlMeXZFbnQxdndvRWZqVHdUWDNjaXJXMWJidjk1ajBwUVMwSVJQbnprUjdDRE1uWm1pbUpMSUhfYWstNUFfTDZKcm1fdFN5YV9mVTZpZlJwQ2fSAaIBQVVfeXFMTjlqX0FRRnpZb3Z1Z0YzTk1vNWdqSkFoc1FPdndJRktrQkxiZW8zaFo5c1hRT0NHa2IteTZhMVB1dktGd1pUbDQyY1VsdG9fbHhpTHl2RW50MXZ3b0VmalR3VFgzY2lyVzFiYnY5NWowcFFTMElSUG56a1I3Q0RNblptaW1KTElIX2FrLTVBX0w2SnJtX3RTeWFfZlU2aWZScENn?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-03T17:59:37+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Ultrahuman",
-   "amount": "$70 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$70 Mn"
    ],
    "alerted": true
   }

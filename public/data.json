@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-10T13:30:59.655634+00:00",
+ "generated_at": "2026-09-10T13:45:54.696518+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 72,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 64,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
   {
@@ -23,6 +23,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "0cd753cc1529",
+   "title": "Sumadhura plans Rs 17,000 cr investment over four years, lines up 45 mn sft launches",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMEVJb0d3dVlLcTRrQWM1eG1fSVVQWXYxTHVYeFFmMHYyTjdNVWstM2lBbG5acmJ2WTBjdXBOTEY5dnZJR1JXMlVIYnNETlBIX2ZNSlZzT0V6c2dhTlA1Wi1KM2dmNWlleXhwZ2F2Z3RyNkQydXZxZV9wbUtUS2w4aTNrbmw0dk0tUHY2NGRDWUxpN3JabnZSd1NPRE03a2g0dGxGZVVUQ0tXLWFFRjlmeW13N1JRVlNjRFhzOUZlNkVuU1FiOXNmYUYtMDBjZG1UYk9MVXZPcVRybF9Ra1RaOTRiSFhONEZ5RjhzTjlaQ3M2T1JZanVHT21VNDfSAYICQVVfeXFMUDF5ck4tcFNSTWQtNFJnbTRtRlZNdWVXbEo0bkQ5ZE4tYzJOaVp6LWNRTVBwWGRHdnF3cVFQSDNCaHBRN3V2TzM0dFJJTHQtVGtBRFRBVm8yZVRuOUp0cVVVd2dQd3huUElyd1puRllyTEVoOHVsS1ZIVmJJRDNRQ0xWbGE4aEE1QzdxYlNLNW1BQWM1aVl0SS1sdGVNTkF6WU5vZlZVQ1g1QmJZbHFNVWN1WHFQdXlBVmk0NEhKNnZCRW9sR25UR2J3RU9LbDcyRmc2QjMtM1Baem5EcV9pWnNwajVYdFVfSHNTNERtUFB6MEVEWGNDeFBwNWRkTWd1SUdn?oc=5",
+   "source": "timesofindia.indiatimes.com",
+   "published": "2026-09-10T13:17:00+00:00",
+   "score": 86,
+   "category": "launch",
+   "company": "Sumadhura",
+   "amount": "Rs17,000 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs17,000 cr"
+   ],
+   "alerted": true
   },
   {
    "id": "c1dec5ccc3c4",
@@ -186,6 +204,23 @@
     "Series A"
    ],
    "alerted": true
+  },
+  {
+   "id": "00ef17c35cf9",
+   "title": "Piston",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mam9hLThuSUVudmZJbXNSaHFOblBTSWhxU0JqRjdLeVhQeWpTbzJnVGJVdnBoWDM3dVBTbDhXbHZ1UmxaVmEw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-10T12:50:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Piston",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "1b593a70bf01",
@@ -578,40 +613,6 @@
    "score": 23,
    "category": "other",
    "company": "Small Businesses Will Drive Job",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5f156f4c69cc",
-   "title": "ECCO opens 10th India store at Phoenix Palladium Ahmedabad",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ21uZkE2Qzl3UXVCMHp5STVyZFV6RUpjcFZmRkdMcU13VkMwbVhMR0ZYcXRCQmV1SXhING95QzJQLUQ4Y3djeFc3OER4NTlIY1pTdjBrakRNMHBTdTBKX3FIYU9iLWdjOXoxbEsyX3NrR1IxallPX2k5bU43WjJlRzd4NWNnSUxhb3Y5YVdwT2lTZGc?oc=5",
-   "source": "India Retailing",
-   "published": "2026-09-10T10:39:11+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "ECCO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "053cc93832e5",
-   "title": "Insurers, Morgan Stanley, others trim stake sales in NSE's IPO",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRwUjFUVG9Ccy1Ud3FGcDlkZXhJa1ozUG5WNHE0c0hCa1JNYk9oY3FiVFN0cnp0MXZQbHNJV29CZ2J5YTlvdDllTWpOVG5XaVRLcTVsRGNMVTR4QUVrOEM1WEttSGRUb3RCcmFEdW9yNy1hZlZQYXh0Sjg2Y1RXREJzVG01WkZLVmZNZw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-10T10:24:22+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Insurers Morgan Stanley",
    "amount": "",
    "stage": "",
    "founders": [],

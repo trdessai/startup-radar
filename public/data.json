@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T09:55:39.077507+00:00",
+ "generated_at": "2026-09-10T10:02:27.483612+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 57,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "706f0e236f3f",
+   "title": "Retail India News: Ochre Spirits Debuts Ochre Club Cocktail Mixers",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1RoTjk2Q3pHVzV6RTQ1dXN1N0dJd0Z0WlM3bTZza0VHME5YQlUtNkduZUJqaHpKbGhMcXRnYTZHNnZKYjFXczdsZUk1VEpMRGM5Um05UzlzYS1GTUdoS0E4UUhyQ3J4bWl5MmpZVXRIckpWX01RRTRhbXdMQ01YbXZ4ZHJINndoZDZqUUtXR1VRMF9WMnFRVFBENTNkYnE3NWJJ?oc=5",
+   "source": "indianretailer.com",
+   "published": "2026-09-10T10:00:51+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Retail India News: Ochre Spirits",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "cb61bfccdbbf",
    "title": "Ochre Spirits Forays into D2C Business with Cocktail Mixers, Taps India\u2019s High-Growth USD 621 million Market",
@@ -7086,25 +7103,6 @@
    "reasons": [
     "funding in headline",
     "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "331fe8c4015b",
-   "title": "India's $136 bn dollar haul aids rupee but raises future risks",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkVpN2hTZldrR1hRamxBeDJzYTVxeHRvdkJ0VnZzN2dPb2N3dXRjZ2FjZzliRUFKTFhCQk9FdUhQaFVlcHR1MXg4Y0Rtb2JOTXZXZFJPSzBtR0dMQXp0NFZVNG5DV0hwZ21uWUdjYXNlME45N0kyR3dUVWZfV2lrcWU2Y2dKODNIWkFsME9R?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-03T10:00:44+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$136 bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$136 bn",
-    "no company named"
    ],
    "alerted": true
   }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T13:54:31.707361+00:00",
+ "generated_at": "2026-09-10T14:01:48.128754+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 1,
+  "fetched": 63,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7080,23 +7080,6 @@
    "reasons": [
     "funding in headline",
     "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eb853be64582",
-   "title": "Slice\u2019s big valuation cut; Betting networks under lens",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/slices-big-valuation-cut-betting-networks-under-lens/articleshow/133738107.cms",
-   "source": "ET Tech",
-   "published": "2026-09-03T14:00:30+00:00",
-   "score": 59,
-   "category": "funding",
-   "company": "Slice\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-10T07:55:47.935544+00:00",
+ "generated_at": "2026-09-10T08:03:03.867507+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 58,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
   {
@@ -96,6 +96,57 @@
    "alerted": false
   },
   {
+   "id": "56ae60a2003f",
+   "title": "Jayan Modi",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ed21CMkU5RUhOMGh3akZiQ24tb2JxeldUY2R5NnhmeHd0WGlMazB4RjRsNzlDYVk4Rmc4amtsREtnNGthNHhidzlIbVZpSFVXeEE1NGt4b2E?oc=5",
+   "source": "vccircle.com",
+   "published": "2026-09-10T07:09:29+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Jayan Modi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c4e2e70daccf",
+   "title": "Avendus Future Leader Fund",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrLTJob3JuTV9yR0dVOVc1eHRrM2wyRmhmWGZreUMxQnVIeWZYUGRFUFRxVjd6ZWVkRXloTnVOZmZEZktiS0xFbkJ1UEtQaUsweGl2OW9qN1owcE13NXNiU3lOTnZ3d283VWxGUjhn?oc=5",
+   "source": "vccircle.com",
+   "published": "2026-09-10T07:09:28+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Avendus Future Leader Fund",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "54d0cb839e69",
+   "title": "Tata Consultancy Services (TCS) has launched the TCS Industrial Autonomy & Engineering Lab Lights-Out Factory at its Sahyadri Park campus in Pune, describing it as India\u2019s maiden lights-out factory lab. The facility will simulate self-optimising factories usin",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY3pIYkpsTTNCS005bl9zaHg1eDN2bnNEb09uaTEwcFNqOHhJdUF0S053TEQ3bGo2TFp2TzgzMkNnX3gzSzNNdEZRYWFCenV0Y2c?oc=5",
+   "source": "instagram.com",
+   "published": "2026-09-10T07:04:37+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Tata Consultancy Services (TCS)",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "285151549a8d",
    "title": "Qualcomm takes aim at India\u2019s payments device market",
    "url": "https://www.livemint.com/companies/news/qualcomm-new-payment-device-pos-qr-soundbox-india-11789016324809.html",
@@ -148,6 +199,24 @@
    "alerted": false
   },
   {
+   "id": "a279368d22d3",
+   "title": "Ultraviolette plans \u20b9779 crore Tamil Nadu plant as EV demand surges",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcXM2ZkJyTm15czdOWC1UUzBBVWZwWnMyZklXOVdsQ1Y5LWdzc3EwWHpLZmtQMWZXX3d0S2JLaVpCeVpIUHgxM1VRQi1HRzREM2NDemwxQmhGMlpqN2tjQk9fYmpZSHpiMnpyNWF6aDZMeWZPRmkzXzlOSElFaTBwajNUbEstNi0wU3c4X1JNSWctY21KbkFDQWdPbHZ5YVpkQXlqZVlicXVXZkxISVhRNktSbTBDQVNfN0MtYUtESHdpY0hSN09tLTVfWGgtMVdobkJEOTVTeTVUd0d10gHcAUFVX3lxTE5xczZmQnJObXlzN05YLVRTMEFVZnBaczJmSVc5V2xDVjktZ3NzcTBYektma1AxZldfd3RLYktpWkJ5WkhQeDEzVVFCLUdHNEQzY0N6bDFCaEYyWmo3a2NCT19iallIemIyenI1YXpoNkx5Zk9GaTNfOU5ISUVpMHBqM1RsSy02LTBTdzhfUk1JZy1jbUpuQUNBZ09sdnlhWmRBeWplWWJxdVdmTEhJWFE2S1JtMENBU183Qy1hS0RId2ljSFI3T20tNV9YaC0xV2huQkQ5NVN5NVR3R3U?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-10T06:47:30+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Ultraviolette",
+   "amount": "\u20b9779 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9779 crore"
+   ],
+   "alerted": false
+  },
+  {
    "id": "7dffbb8e4f04",
    "title": "GFF 2026 Day 1: When India\u2019s Fintech Story Started Moving Beyond Payments",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0twWWtyd2pJbUJ2dFRyb2JnZzNYamZZcmVFZnNJWHhBaVg4QnNQTExldGlSUTVwR2R1V0NQR1RkUVI1OGpnM0lvR3NLNnZCdG1RVnRCX01odjJsWFlERk9MZWVTWUVHUzBoNDJaanZlY3BGZFFvRlo5ZzRqQzhfNXRzanJoUm5zaDM4bGhUVW5yMDdsbEpSSzJ1VWlZZFNFdDNvWDVNUkV3TWR3aERMMlJn?oc=5",
@@ -163,6 +232,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "b17a1059712a",
+   "title": "China's DeepSeek launches V4.1-Flash model",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2dZTl9neUVZMFVONTVpdGF4UVAwblVoemlzN0RCZ0I4cndPZTFYWUl2aGRDUXI3N0ZGXzZmVDlVVUN0NXJ6RWh4d0dZUGFWYV9zYzd1M0pCRmRNOEtUQlhwZFdnS3dDNEo2QjBjb0ZTS3l1YmtDNi00anN0am13NVdEMTlUZEo1SEJYUWhxc2JwOUtHYnhkNHY3UWxiY3p6MkFvTHpsVUVGY1pNT1ZReHRSS2haZFBYUzQxeU5YYW1xUFphSmMw0gHHAUFVX3lxTE1zZ1lOX2d5RVkwVU41NWl0YXhRUDBuVWh6aXM3REJnQjhyd09lMVhZSXZoZENRcjc3RkZfNmZUOVVVQ3Q1cnpFaHh3R1lQYVZhX3NjN3UzSkJGZE04S1RCWHBkV2dLd0M0SjZCMGNvRlNLeXVia0M2LTRqc3RqbXc1V0QxOVRkSjVIQlhRaHFzYnA5S0dieGQ0djdRbGJjenoyQW9MemxVRUZjWk1PVlF4dFJLaFpkUFhTNDF5TlhhbXFQWmFKYzA?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-10T06:38:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "China's DeepSeek",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "e74fcd23fe44",
@@ -517,24 +603,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b09724b16ef4",
-   "title": "Auto-parts maker Hero Motors aims for $401 mn price tag in IPO",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmRPVHBkWjd3ZTVGY0dsUHdrc2Q4ZkhiSHlQLUZEeGxteUVPOUhqNHFoeVprY2dua3RFSVNfOXZHWkE1cU13WkFudkdhZXRLU0VXc2ptVzR2eS1HRjBXRnlvS1BvYnNZZkdRYkdzeEN3dVJoRDgtNktvWVdKR0ZuUEE0NGRtbHBzX1V1YWZ3?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-10T04:51:27+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Auto-parts",
-   "amount": "$401 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$401 mn"
    ],
    "alerted": false
   },
@@ -7039,77 +7107,6 @@
    "reasons": [
     "launch in headline",
     "Rs2 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d2944557fdd7",
-   "title": "Cradlewise, Makr Microsystems, BQP secure early-stage funding",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkRPSDlLcHlDZlgtQ05fMzBMSGdSSmNmeTlWbUtIaWZlUlhLNW81UnlaRDJTR1VkMmpoQ2pPWnlwcmRkNWM2bXJhMjVRejFiZXB1Z25ZN19XcVRCZ1ZsQUI5dHlydTVicThyNnJ5SFlhZWdSbk9mclJCYXY5VEFacHQ4SHRKNWtOeHpSQkstd19sVzQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-03T08:01:47+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Cradlewise Makr Microsystems BQP",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "da19d25e1624",
-   "title": "Cradlewise raises $12M in Series A led by 3one4 Capital, Prudent Investment Management",
-   "url": "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management",
-   "source": "YourStory",
-   "published": "2026-09-03T08:00:59+00:00",
-   "score": 93,
-   "category": "funding",
-   "company": "Cradlewise",
-   "amount": "$12 M",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$12 M",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c5b67a0a791e",
-   "title": "VLCC raises Rs 110 Cr in funding from BlackSoil Capital",
-   "url": "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital",
-   "source": "YourStory",
-   "published": "2026-09-03T08:00:31+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "VLCC",
-   "amount": "Rs110 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs110 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3c113f44e155",
-   "title": "Jazz launches data loss prevention app on CrowdStrike",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajJlcng5bUhSMmVYWWJIX25KWjNqd0NHRHgyM1g3QkRaUGg0SS1wU19NU1ZkbW5JZ29CVnFFSUNlWkpNWUZvSERaemg3dXFud25iZ2tYOE5ES3d1dDdnM2dwbl9ud19ucUZJUGR0cm1iRTRjaTk5SGFzTndnR19kRGRrcV9GbWtKV245YUVR?oc=5",
-   "source": "channellife.co.uk",
-   "published": "2026-09-03T08:00:00+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Jazz",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

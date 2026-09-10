@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-10T01:18:34.797388+00:00",
+ "generated_at": "2026-09-10T01:28:38.929294+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 6,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -58,6 +58,23 @@
    "reasons": [
     "launch in headline",
     "\u20b9229 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "afa8fed1b0ad",
+   "title": "Rocket launches go private",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjcwQzFwUjhLcWtZU2tmcDBsOEFNbHdGbXlVdXpHQ1dacklUSURHNjVXVkQyWkNXUE5lRzhtTFFod2U2VWNRb3U0VGJ5aXp5Q2NEOVVlWHB4RTUxVlk5M0s0N0Y3c29ZVjhZdGtJRTBTcXpfS3VJaGhtYzF4TW1XVkduM2RCYkNhbExuTVJWV0hZcWtpMmMxQXZTVzdfeVlael9Ra0szQ2M4a2Q4SDM2RlBkWkw3UdIBuwFBVV95cUxPcmhIdVNTVExqYTZyUkpSWFJmNVFDLWVmS0dOVWpxZERJV045V1BQMFMtY2lVVTZUZlM0Mk1wTVpVVkd3OElIQUJ0VmZuOE8tay0wS1VoREdRUDFURndZa29CVlpMb0d0Tko2ZGFDaUVJMktwYU1GN3RSX0RHNHdEVHpVczhxZHBPdFMwREdJZFpsZFVudFVib1N2WVhvcUUyaVFaT0dZRVpIY0UtTkZQTTZlSlAxaC1aeUJ3?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-09T23:10:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Rocket",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -850,23 +867,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "59e8161509e5",
-   "title": "From shaving to self-care: How India\u2019s men\u2019s grooming market evolves",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejhZQWRJOGpLaFRkVEhSMmJXdmJaSENqNnVISU5MYldpS3hxVXZIZkZ5aktMaVNERjhGYWRocjAzZ25pM21pNWpoV3l0UU5IdUlmUWJYeUlOd0JJUXlvOE13N1FhMXhvbUF0cDlsQVNISjBxaGdoWGtLc0ZYbjdnUEdMODl6WW9QMTJOSk0xUHdsVGRNUlQ0WklubmRVVFhZWmhwVnVGUmFrRE5sX3N5RlBTU29nU01ZV2VlZGNIQ3JXM3RGUlE?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-09T11:45:18+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b8fcaae44599",

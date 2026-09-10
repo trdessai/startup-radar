@@ -1,12 +1,119 @@
 {
- "generated_at": "2026-09-10T05:01:58.671415+00:00",
+ "generated_at": "2026-09-10T05:18:52.994831+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 33,
+  "fresh": 6,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "a357bee383f1",
+   "title": "Exclusive: Mesa School set to raise Rs 100 Cr in Series A; co-founder may sell 2.9% stake",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnE4Z2JUam5USThodHlpYzNuZW5vaUdEQXQ4cVVWR2VxbS1GM0hrQk5iMDFIZTVlSHAyOUV6ZFl5TWlNT0RoMExBdndVblVGMGpZem9PWjBhWEdySFZMOWZkREVKOXJ6U1BLQVBCV0xpUHpva2JtWmZzZUo3bFFTVU50WV90ZUpibEdpbUhwSFJRM3pPYTlkYk03V3p0OTl4R3ZHT3puX01acHBVY0ktZDQwejNCMTdtakYyckNFSTBWWkHSAcMBQVVfeXFMTlpxOGdiVGpuVEk4aHR5aWMzbmVub2lHREF0OHFVVkdlcW0tRjNIa0JOYjAxSGU1ZUhwMjlFemRZeU1pTU9EaDBMQXZ3VW5VRjBqWXpvT1owYVhHckhWTDlmZERFSjlyelNQS0FQQldMaVB6b2tibVpmc2VKN2xRU1VOdFlfdGVKYmxHaW1IcEhSUTN6T2E5ZGJNN1d6dDk5eEd2R096bl9NWnBwVWNJLWQ0MHozQjE3bWpGMnJDRUkwVlpB?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-10T05:15:57+00:00",
+   "score": 47,
+   "category": "other",
+   "company": "Mesa School",
+   "amount": "Rs100 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs100 Cr",
+    "Series A"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2ff568747a42",
+   "title": "{Funding Alert} Fashion Startup Theater Raises Rs 56.25 Cr from Niveshaay, FirstPort Capital",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmpSa0E2Z043T1VxUnV5X0ZiZ0ItSW9uZW43eEg0ZmJXY2kwRHNoQzRJeFVPV2prWHowSF9Ed05vZ0tCVFBGX2Y4TEVRc2pBUzlyZlIxMjhINldKMmdLbnNvMnNZM1hLekUzZFE2NkJwaFhrVHpkS2ktZUMwWGVGVTdPcGxJQi1FQjhoa2J6V1ozNkNxemh4c3N5SFJGVGRzUUhsc2Zwbm02cnRnWGhHcU5MRzhtcE9tYXpj?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-10T05:10:59+00:00",
+   "score": 67,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs56.25 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs56.25 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "502069b76820",
+   "title": "Food delivery startup Swish raises $24m led by Bertelsmann India",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BRjJ2cm5tV0FXSUpIQm1ucmUwWlBxRUdZOHcwaUtMbW9aQ0M1MnVHd1hrN0tBOWtORy1RTWpDUjJaMVZvb3lfQjJOUEFNb3YzRDBQWlJRQnpjUHhndmtaTHN3TTJWcmQ3LW5oaGdLVjlvdVh1TlN6RQ?oc=5",
+   "source": "DealStreetAsia",
+   "published": "2026-09-10T05:05:44+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Food",
+   "amount": "$24 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 m"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a8d2dbadd87e",
+   "title": "Apple expands wearable ecosystem with AirPods 5, Watch Series 12, Ultra 4",
+   "url": "https://yourstory.com/2026/09/apple-expands-wearable-ecosystem-with-airpods-5-watch-series-12-ultra-4",
+   "source": "YourStory",
+   "published": "2026-09-10T05:00:32+00:00",
+   "score": 57,
+   "category": "expansion",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b2684d1aca3e",
+   "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude/articleshow/133994372.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T04:58:59+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c05784a3d159",
+   "title": "OpenAI pushes for mandatory national AI safety rules",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pushes-for-mandatory-national-ai-safety-rules/articleshow/133994284.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T04:51:28+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a482453601eb",
    "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments",
@@ -567,23 +674,6 @@
    "alerted": false
   },
   {
-   "id": "e60fcda38c6c",
-   "title": "SFIO Seeks Detailed Probe Into Xiaomi India\u2019s Business Model",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMG9ZejdqcUpNYTJyRkxzelBoZzg1MEVCTmlkOEpzVmNEclNzNUktcnpSaFR1Mm1Rd3pVZmxJNDBsV2VkX2hrRzg3a0FRNVRwc3otMEVKT0RjMXZkN2R0LW5NSzA2M1puOWNYcjFZZFVmZ3JnVVhjNFl4ZDhERTlJY29OdnpobkF0SEFV?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T16:34:29+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "SFIO Seeks Detailed Probe Into",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "62647b7fbd3d",
    "title": "Jio Introduces New RCS Business Messaging Rates For iPhone Users In India",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUc5TkVGdzhKZEtMZXRrWU9hYWRTT0lfamFwQndaYUFvZzlzN2hqVG9CMjBFQnVqdlNWbmNrRzlnLWp2RV9URGM3X0hmVkl4bjNMUVNmQmpFaUpXMlV1eXRlU2hnLUVSSTJPY3Nuc1J1RVgzVzR3Mjk3YXlacDZzZk5xaS1zdmZ3ZWxMQVMzQ2RydWliVl9xeE93dzZ4UQ?oc=5",
@@ -618,40 +708,6 @@
    "alerted": true
   },
   {
-   "id": "eac1123f8426",
-   "title": "Can dogs sniff cancer? An Israeli co-founded AI startup thinks so",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDMxRVJZZS00aGllLXNDMzdmem80MGNxU1VOMjhVemFuMmFmUkUtQUNQajRTYVk3clVvalpwSVBRVnplaHEzdGJVRnNqOUJkVW1GcTlXNnZMYlBHNFNUa2VEOW5OLS1qelZ6VzlsUUE1UktFYTFtRUotT1liaVoyR2tXOWtBZGdsZWxDUjVGOUxXUlM4YzBadGlSMkpGVVJ00gGgAUFVX3lxTFBUMzFFUlllLTRoaWUtc0MzN2Z6bzQwY3FTVU4yOFV6YW4yYWZSRS1BQ1BqNFNhWTdyVW9qWnBJUFFWemVocTN0YlVGc2o5QmRVbUZxOVc2dkxiUEc0U1RrZUQ5bk4tLWp6VnpXOWxRQTVSS0VhMW1FSi1PWWJpWjJHa1c5a0FkZ2xlbENSNUY5TFdSUzhjMFp0aVIySkZVUnQ?oc=5",
-   "source": "The Times of Israel",
-   "published": "2026-09-09T16:17:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Can",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0b38c12f625e",
-   "title": "Meesho Discontinues CPO Role, Restructures Product Team",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWtuejdocjBUZ1EtNk5lWUJGTnR2SnBHUWRGbkhObXJ6SUNlV3NSSDlNazh1SDlkRnhnZnJtQ2NPUDVpX0piZDJNZnUyejFfTHBPUmhCZ1BhWGh6YlFiRjRmUEpMN3hLZFBrbF9ibkRsSWVHZ29lNDdwN0xUM2hRaEZuWXI?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T16:06:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meesho Discontinues CPO Role Restructures",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c97b29cc8aed",
    "title": "PhonePe to foray into UAE in maiden foreign outing",
    "url": "https://economictimes.indiatimes.com/tech/technology/phonepe-to-foray-into-uae-in-maiden-foreign-outing/articleshow/133975174.cms",
@@ -672,41 +728,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "78b5031537dd",
-   "title": "Auditors Flag Second Suspected Employee Fraud At Ola Electric Arm",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQai1qQjBWdExQTy1oeE5rNnpHbGRLR1c5czhyeDc1SFBnc2d6TWhLdW1wbDdLMmhiTFV4d0FEZXlTdFVjYk5wZXZ0LVBpX0xOaHZEWE4tSFhzR0treFduN3kwT190elhDU2g0dUJoNzRkVHc2djR3NkI0aTk3TmJVSXZlU3lzZlhnWFVJYlZ1NXhleW8?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T15:44:52+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Auditors Flag Second Suspected Employee",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "061f2451c337",
-   "title": "10 Self-help books for people navigating life with ADHD",
-   "url": "https://yourstory.com/2026/09/self-help-book-adhd",
-   "source": "YourStory",
-   "published": "2026-09-09T15:12:01+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "944386285e77",
@@ -7092,23 +7113,6 @@
    "score": 63,
    "category": "launch",
    "company": "NIELIT And Intel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e4d58d490949",
-   "title": "LTTS Launches FARM for Deep-Tech Innovation",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fYTBPZTNZYS1jV21DR2ZyWkJsamoxRm0wQTQzQ0hydkdNZHJGTmkyVVF6T0plY1JSTEtYaFZwbTRqSm9VYy1nWTNJczdDTG5zaGMxbl8zZmpxV1NmdTdlUzkyOVp2MWYyajR3MWF3MGtCVjA?oc=5",
-   "source": "TimesTech",
-   "published": "2026-09-03T05:02:59+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "LTTS",
    "amount": "",
    "stage": "",
    "founders": [],

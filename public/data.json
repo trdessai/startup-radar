@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-10T05:52:57.497466+00:00",
+ "generated_at": "2026-09-10T06:02:12.557527+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
+  "fetched": 36,
   "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "834bc8e9130d",
+   "title": "Swish Raises $24 Mn To Expand Quick Food Delivery Network",
+   "url": "https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/",
+   "source": "Inc42",
+   "published": "2026-09-10T05:59:40+00:00",
+   "score": 89,
+   "category": "funding",
+   "company": "Swish",
+   "amount": "\u20b9228.4 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9228.4 Cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "f685d7a21b3a",
    "title": "DOJ probes Nvidia's licensing deal with AI startup Groq",
@@ -134,6 +152,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b09724b16ef4",
+   "title": "Auto-parts maker Hero Motors aims for $401 mn price tag in IPO",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmRPVHBkWjd3ZTVGY0dsUHdrc2Q4ZkhiSHlQLUZEeGxteUVPOUhqNHFoeVprY2dua3RFSVNfOXZHWkE1cU13WkFudkdhZXRLU0VXc2ptVzR2eS1HRjBXRnlvS1BvYnNZZkdRYkdzeEN3dVJoRDgtNktvWVdKR0ZuUEE0NGRtbHBzX1V1YWZ3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T04:51:27+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Auto-parts",
+   "amount": "$401 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$401 mn"
    ],
    "alerted": false
   },
@@ -613,40 +649,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a3ec08b10db7",
-   "title": "Adalat Artificial Intelligence - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNaWpIb3UzU29JbDI3bnloSV9MUndXM09rbkNXUnFCVnZkUVNRaGstNDFCWDdpdGlER3hvS3I1WV84RkZnRmJHYm8yWkNSLUNndEpxcTdLOVB4Nl9PbmE1dlpUckJtODlReWhQb0d3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-09T19:14:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Adalat Artificial Intelligence",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "91bcac54efca",
-   "title": "GFF 2026 - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZGlXaG50Rl9hV2tLUFNpWm0xWTZXdTk4VXBaMlJyblM1LUU5ZXR2dnpuQnhFbUdSQ1RLMWktYURRWGczSHVrZDB5OEdZM1ZS?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-09T19:14:48+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GFF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3f7b5436f5d5",

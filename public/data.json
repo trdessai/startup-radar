@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-10T02:35:40.584251+00:00",
+ "generated_at": "2026-09-10T02:46:49.862076+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
+  "fetched": 9,
   "fresh": 1,
   "alerted": 0
  },
@@ -19,6 +19,28 @@
    "amount": "",
    "stage": "",
    "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "979067de4d5a",
+   "title": "Habuild CEO on user loyalty; Flipkart Minutes gets its own app",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/habuild-ceo-on-user-loyalty-flipkart-minutes-gets-its-own-app/articleshow/133990195.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T02:15:00+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Habuild CEO",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Saurabh Bothra",
+     "handle": null
+    }
+   ],
    "reasons": [
     "no clear event"
    ],
@@ -845,25 +867,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fdfc0ebbf5a0",
-   "title": "[Update] RentoMojo IPO Subscribed 1.42X On Day 1",
-   "url": "https://inc42.com/buzz/rentomojo-ipo-subscribed-69-so-far-on-day-1-nii-portion-booked-90/",
-   "source": "Inc42",
-   "published": "2026-09-09T11:50:53+00:00",
-   "score": 35,
-   "category": "other",
-   "company": "",
-   "amount": "\u20b91,256 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91,256 Cr",
-    "no company named"
    ],
    "alerted": false
   },

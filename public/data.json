@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-10T11:53:06.445883+00:00",
+ "generated_at": "2026-09-10T12:02:23.651541+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 51,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "81db52e08375",
+   "title": "Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest",
+   "url": "https://inc42.com/resources/enterprise-ai-is-learning-to-charge-for-work-and-owning-the-outcomes-becomes-the-contest/",
+   "source": "Inc42",
+   "published": "2026-09-10T11:58:28+00:00",
+   "score": 56,
+   "category": "product",
+   "company": "Enterprise AI Is Learning To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ec5d0d52e3b5",
+   "title": "Carrum Mobility raises $10 Mn from Uber as fleet crosses 5,000 vehicles and 18,000 drivers",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGV4VkpSNVlKSTY1X3JSZjAwMjA3SHhPUWdqQko5MG8wLVZMNkJpMkJpc0l5ZnFTeHlDVjhDZjFwVzRpM25pX1JJbVNyNWdweGdVd1l2UlhtbkJ0Z2lZTWI5TWdsd1lIMml2elFkZHFJM3VHTTZQcmFDYmZFSzRlZ2xVMFFYZzhnQTBuYUdnQVRYQnZhY0E?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-10T11:50:17+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Carrum Mobility",
+   "amount": "$10 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a45b73526cbd",
+   "title": "Why Nilekani says India needs public-chain tokenisation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WSnVaOWxtUl9WQVI4UDZ6MkFFdkdnYVZpd2QyTXlwUWJaQldxTmRmWEZBYi1pRUw1VTFJaG1EYng3V2o3OE9ObXZmTnhydFd0WEw4cDhYY3lJcXZDZVRkR2xOaU00ckFxa2taNjBCT0htZVNYY1F3UmtFWkFwVlk?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-10T11:48:05+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Why Nilekani",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "06ac766b5fcc",
    "title": "Bengaluru commuters can now use single card for Namma Metro, BMTC buses",
@@ -57,6 +109,25 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "1b0204e2da78",
+   "title": "Space-based surveillance: Dhruva to get key systems worth \u20ac5m from Safran",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0k2WFBqV2xHcVh6WWFpMnpvb2k3d2Zvam5mUjBZeVoyckdzQndDeGtEazhYdmVRRUNpamN5MWtxOE9fVHRJOGdiekZMX1JwallhcG45em1keTlyOW5pTjFhNXM0cjFnQkw5UUNCQzF6SnZCa0lKeGpobmhlSThnMWY0eHRSMkZBaTNXY05WbUJ0U25BRnhjemhad3dQTEhUb01paHdxVmlfNElfb3Jqd3JUM29DY0U5Tk1sZldoWmhQdGV6SjJkcHhOMFNxbUNSQU1oTXln0gHbAUFVX3lxTE1xX2t0aHlaQXlWQlFSUFA3am9tdUlWY2VYOFJBQXpIdVBqODVSTEFEVlJTdUR4OWFZd0FrY29wbUppMjR2Y3hfMzV0cWYtM2V4c0ZHRjJyc2FFZFJWWFVYNmVpM2JzMGpTNS1zbVVfZXE5MWNBYlByQ0pqWnNXc3lpNlBIY3hnTmN3VEIzQ1pXejB0ZVdmTFY3THRjcUpCampGaG9IUGtBbEpRd1hCZDA0dmRsN0d5Q0h0UGFGbEtzLXVYZFhYOHBhXzR4dWFtcVNDZm1JMVpDRkNIbw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-10T11:18:00+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "",
+   "amount": "5 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "5 m",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "277ec849bb42",
@@ -439,40 +510,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "7f2934260341",
-   "title": "TechSparks 2026: Sridhar Vembu, Ambarish Kenghe, Mukund Jha, Chandrika Deb, and more join the lineup",
-   "url": "https://yourstory.com/2026/09/techsparks-2026-sridhar-vembu-ambarish-kenghe-mukund-jha-chandrika-deb",
-   "source": "YourStory",
-   "published": "2026-09-10T08:54:05+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "TechSparks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2a5af259f9c8",
-   "title": "Delhi High Court restrains startup BECO from running ads against HUL products",
-   "url": "https://www.livemint.com/companies/news/hul-surf-excel-vim-beco-ad-campaign-delhi-high-court-11789029097101.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T08:43:58+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Delhi High Court",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "44f77734c4fd",
@@ -7069,40 +7106,6 @@
    "reasons": [
     "launch in headline",
     "1 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "53c819905d45",
-   "title": "L&T Technology Services Launches Startup Engagement",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUVhMR1IzTzAyZXdleGc5MS16RVpfTGZhZEVrT1pOOVZlTGlieF9CcGxBWWhWNUdXT0NQQ2pReXRLWTZOUVVDR2c3X0o4ZDdxRmY4ZUduZG90VjhGd1l4YzBpaGx6SnhsZUoyRFp5NGlkLTROTFNrZk9yV19NMWl1aGt0c1k2c1lvMjNxaUx4VzlUZHJPSG01ei1jeUJjRDFLVTBFOFN5ZS1tUlNpSUxQQktwMXFIZjhZeHNOb2ExeUdtUnU5S2lPUHFhbmFHdmtJbUp3?oc=5",
-   "source": "varindia.com",
-   "published": "2026-09-03T11:58:50+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "L&T Technology Services",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3aa83ec98d5e",
-   "title": "India Blockchain Week Conference 2026 Heads to Mumbai, Launches Institutional Forum",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUZKN0l1Xzc4Yk5PZFNoT0dBV1hEREVxcndZUUt5V0U3X1lKUVNoNDNNMkMya0ZEb1J1c2k2S3c5RTJBYUVGX2JoR3FvcUZ3aHMxZmJ1Qk1fZ1JqSlNBaXkxVXNXTl9CNlpoUlhxU29wenVGbjFMQ2FOVWo3a0l4YnNxUlA1QmNXalBsODREbEMtNUlEb0Y4QUZmYWdjOFZ6UkNXNjRuclp1WmFtQW51bXA3N2hpcVU?oc=5",
-   "source": "Yellow.com",
-   "published": "2026-09-03T11:58:22+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "India Blockchain Week Conference",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

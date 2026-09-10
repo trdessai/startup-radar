@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T13:45:54.696518+00:00",
+ "generated_at": "2026-09-10T13:54:31.707361+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 65,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "bbf2f068a249",
+   "title": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-firm-moonshot-to-explore-dual-hong-kong-and-shanghai-ipos-scmp-reports/articleshow/134011855.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T13:47:17+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Chinese AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4dee17b69331",
    "title": "JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report",
@@ -7080,24 +7097,6 @@
    "founders": [],
    "reasons": [
     "funding"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "593a4dea6f4e",
-   "title": "Constl secures $90 mn project financing led by NaBFID for fibre expansion",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOFJkdlFMRGstb2taZGRRUnA3UWMtZVlzU3YyRU9HWXZReXhWcXBBMWludlZoT0xWTUY1TmVkUGtFOTB4OERTY1ZPTVZmamtlRk52NUF3cm5UNjA5MktjUnd3RnlELS1fNmlrdWNMV2MwRVM2Rll1RDNmQ3FXRGQyanViWkNlb0JQVTJXal9RYWVDZ2N1c1Y1SnJEaU5lY1lmZjg5WjRjU0dKMXU3MTBzeE1zVVlnUUVZQzd0V1Q4VV9CTWVyWlI1T2kwTUFESUhtdFhIcXZ6TXfSAd4BQVVfeXFMUEtBZDluTE5wa1A4SU43dVQ2N0dfQzNTZjEtVWJtQjVmTUxUanZBa2ZRbkszZWJpdklqTEwwcjR0OWpGWkpQd0oxaGdwdjAyZ0FsR1FtTHh4STNuYkNrUDd1VFozaFk3c3NKUm1LOW1EcFViSnh2NWpVVWpZZUZzU3pTZklvWGlyLXFDZ0xrUDluVHJkMUF3Uk90WTYzTU4xY1VqQThFWjR3N3FpWTlQNXJDYklLNXZMZW1aR3NxVjU4VmFfOGhJcTJtRmFkQWQyZEVoaFdPZ2dpZThGSlhB?oc=5",
-   "source": "Business Standard",
-   "published": "2026-09-03T13:51:06+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Constl",
-   "amount": "$90 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$90 mn"
    ],
    "alerted": true
   }

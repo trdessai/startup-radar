@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-10T04:32:35.279443+00:00",
+ "generated_at": "2026-09-10T04:46:29.483769+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
+  "fetched": 24,
   "fresh": 3,
-  "alerted": 2
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a482453601eb",
+   "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWdIBvwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-10T04:40:24+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$24 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 Mn",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7dc2d85953ae",
+   "title": "Anthropic sees AI driving GDP growth, but warns of job losses, wage pressure",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-sees-ai-driving-gdp-growth-but-warns-of-job-losses-wage-pressure-for-knowledge-workers/articleshow/133993734.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T04:22:12+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "0200f615a03d",
    "title": "No Filter raises pre-seed round for its no-sugar fresh juice brand",
@@ -41,6 +77,24 @@
     "launch"
    ],
    "alerted": true
+  },
+  {
+   "id": "28b3cb970b32",
+   "title": "Meta share price surges after personal AI agent Muse release",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-share-price-surges-after-personal-ai-agent-muse-release/articleshow/133993596.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T04:16:16+00:00",
+   "score": 27,
+   "category": "launch",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "markets story"
+   ],
+   "alerted": false
   },
   {
    "id": "90a257e6ed2c",
@@ -656,23 +710,6 @@
    "alerted": false
   },
   {
-   "id": "b6bc004bde1e",
-   "title": "LOHUM Begins Lithium Mining Operations In Zimbabwe",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MNGRiZVRfZTRBODFBbG1ZYVBSUk4tdDdLOXo4S1pJT2lWUFNFOU4zVnJMQVZIMGItc0tWUEFPVm1nMjVFVF9VMTFVVFJZM3ZQZl9ncnZTQzA0aFlCMEo2OVp3QlRtcFZwaUw1TEZzNkRHQmxpN19nWkZBZDFJMzg?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T15:06:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "LOHUM Begins Lithium Mining Operations",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "944386285e77",
    "title": "GFF 2026: NPCI Launches Instant Card-Issuing ATMs, Deepens AI Push",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWF2UUE0Zm1fSWxIUjZNMnN0VWlFbl82eDB4Y3FBWkJmbkZvVHFHZGNPOEFDTkQtd3FuNzlTTVZkU3N3YXUyS2tCX0hXRlRnRDh6UVVWLVd0cEhUOHZyODhTdGkwMmk4ODRfR2ZfdkdIYmZQLXA0N2VWYXZJTmY0VV9Ia05Zek8yUXM0b0tZVG9Odw?oc=5",
@@ -724,23 +761,6 @@
     "\u20b9600 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "c036b70330ae",
-   "title": "Flipkart Minutes\u2019 new app; Anthropic researcher sounds alarm",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-minutes-new-app-anthropic-researcher-sounds-alarm/articleshow/133971619.cms",
-   "source": "ET Tech",
-   "published": "2026-09-09T14:08:00+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Flipkart Minutes",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4f13557f7eb9",
@@ -7095,24 +7115,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e0625d754509",
-   "title": "Tata Sons to pump \u20b910,000 crore+ into Air India \u2014 but not without conditions: Report",
-   "url": "https://www.livemint.com/companies/news/tata-sons-to-pump-10-000-crore-into-air-india-but-not-without-conditions-report-11788409842139.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-03T04:39:24+00:00",
-   "score": 71,
-   "category": "acquisition",
-   "company": "Tata Sons",
-   "amount": "\u20b910,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition",
-    "\u20b910,000 crore"
    ],
    "alerted": true
   }

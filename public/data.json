@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-10T12:02:23.651541+00:00",
+ "generated_at": "2026-09-10T12:25:33.650815+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 51,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 53,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "045fa1579305",
+   "title": "Piston raises $15M in Series A led by FPV Ventures",
+   "url": "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures",
+   "source": "YourStory",
+   "published": "2026-09-10T12:08:11+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "Piston",
+   "amount": "$15 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$15 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "11cbac8d61ca",
+   "title": "DeepSeek Launches V4.1-Flash to Make Large-Scale AI Inference Cheaper",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkk0dXlTV3lSTl9CNEZySFQwSHRMc2x4anpUQWFGNEZLcS0yQXk1ek1CX2prenlDcmF1bEkzSUh1UXB3V2lYcWZXdzlrS1BRMWZETHdCdkxScWdobFQ4bGFUcDZBbUZqaFVFaTFyUWtER2NnQnI0MmhBLTF5X0xPV1R2aUQ5Y3dOamFadDJVYUJSc01reUdHNGZnTVlBZ0w3Y1hydXpsbFlIQQ?oc=5",
+   "source": "analyticsindiamag.com",
+   "published": "2026-09-10T12:05:33+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "DeepSeek",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "81db52e08375",
    "title": "Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest",
@@ -39,6 +75,23 @@
    "reasons": [
     "funding in headline",
     "$10 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8dc13a24e00a",
+   "title": "BITS Pilani Hyderabad Students Launch Build AI-Powered Defence Startup",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1lZOUd2WDZhclVtaWVkR1AyZ29oUXRzdDNEaFZobjdKX1NmNlhyM0VXOXVEaHdxX0t0Q2RRNGx6VEp2U1BNYk5vNGFERnRFd09NcGoyTEdHRVZ1U2hjTXFsTXBkVXZ3aXI4eVhsUDQ2Z19RM1pNMTQxVW9VR0FfeE1WX3o3NTQyUHVXLTFzVXBCLXNPd2hzbm43QlZLQzIxZG1mVTVtUUduT2hUY25fZVBJemtITk5jVkxJU1JXMy1tZHJ2QTFMR3ln?oc=5",
+   "source": "Sakshi Education",
+   "published": "2026-09-10T11:48:25+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "BITS Pilani Hyderabad Students",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -441,6 +494,23 @@
    "alerted": false
   },
   {
+   "id": "0f5537bfaa64",
+   "title": "Finvolve backs Indian cybersecurity startup AllSecureX",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0ZSWlBZNmMyRENWX04zdVhPWmFrZUlJQUxWclEyTzJlYkYwNG9sQ2R3bWpiNXRiV3BHS3JXd21iSE1DS01RQldVajNFckdhOEpraTg1N2Nzc21ENVJFX2xVeXFMYm9WREQ0MExUMjNmMk9sblJIZEZQWWQxRjBLRHk4V0ZDSDhSZko0MDlFWQ?oc=5",
+   "source": "Tech in Asia",
+   "published": "2026-09-10T09:17:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Finvolve",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "f2deb5209e9e",
    "title": "D2C Fashion Startup Bags \u20b975 Cr To Expand Offline",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWF9ZSEU3LVAtc0hMTUVUd3ZjTUlXWERCQjhvY21lRTBSaVZEMWsxUHp1bWF0TXZHQlY5OEt2aXV1UVZ2QmM3UDRleDhaQnpsR2F5QTR3TmthX3I3c3JvbWhVeDVRd1JqaFlQcG16WENRVFRSUU5NaWhCWXpPaUFoLU9BcTJ3RjRH?oc=5",
@@ -457,40 +527,6 @@
     "\u20b975 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "888551ca5d5d",
-   "title": "Publicis Sapient\u2019s Nigel Vaz on AI, the Future of Work and India\u2019s Opportunity | ET WLF 2026",
-   "url": "https://economictimes.indiatimes.com/tech/technology/publicis-sapients-nigel-vaz-on-ai-the-future-of-work-and-indias-opportunity-et-wlf-2026/videoshow/134001596.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T09:07:58+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Publicis Sapient\u2019s Nigel Vaz",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "25f44c76fa21",
-   "title": "Warburg Pincus expanding India pharma platform with two acquisitions",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTlaUlVtaHpZdnRQN3BQUlFpVTAzTWdRaENPTW16RTJYSFlKOEp0NlRIRDJwaUtSV2V0dWJCNV9FRnJpaWMzUFhQZGd5OE5iZHRmLXZLVlRVT21QSEZqMWNHTE9NTVZaNF9ZaDNDSlZiTnpEazIwVFlZX2pQMkVELWtZYk91U2VFelM0U2ViOWZYeXE0TWU4?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-10T09:07:23+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Warburg Pincus",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fc107f544e37",
@@ -7069,43 +7105,6 @@
    "founders": [],
    "reasons": [
     "product"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ab26cc6fba8d",
-   "title": "slice Eyes $100 Mn Funding At 60% Valuation Cut As Bank Valuation Takes Shape",
-   "url": "https://inc42.com/buzz/slice-eyes-100-mn-funding-at-60-valuation-cut-as-bank-valuation-takes-shape/",
-   "source": "Inc42",
-   "published": "2026-09-03T12:25:15+00:00",
-   "score": 77,
-   "category": "funding",
-   "company": "",
-   "amount": "$100 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 Mn",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4c60ca7839c0",
-   "title": "Mankind Pharma launches \u201cAngdaan Mahadaan\u201d to inspire 1 crore Indians to pledge for organ donation",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcllkTGYzRlJDZlhOWlQ0RkRHOHRMVVdGVWlGaHdNWURRbTFpWHlORnZacXY2amlTczFkZDBTamhiZ0xZR1FQUXVUSER2V2hPUXlkNHZ0YVlRUWJhV21DZUVEd1RDLWVxaUVuOWdKRVdzdURzdWtzTWUyak5JREpMRGItZW1HcFRnT0cxX1hMM3V6aVBqNWlJS1BOM1lYV0xSenN4dE1jRHdxeWJQMXlZUWl3Mm1iTlNDNklmTTBrNG0?oc=5",
-   "source": "orissadiary.com",
-   "published": "2026-09-03T12:15:40+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "Mankind Pharma",
-   "amount": "1 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "1 crore"
    ],
    "alerted": true
   }

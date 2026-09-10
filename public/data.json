@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T08:37:21.809903+00:00",
+ "generated_at": "2026-09-10T08:48:32.286814+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 5,
-  "alerted": 0
+  "fetched": 56,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "2a5af259f9c8",
+   "title": "Delhi High Court restrains startup BECO from running ads against HUL products",
+   "url": "https://www.livemint.com/companies/news/hul-surf-excel-vim-beco-ad-campaign-delhi-high-court-11789029097101.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-10T08:43:58+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Delhi High Court",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "0f056f7ec655",
    "title": "Started at 12, Built a 300,000-Member Community: The Story of Children\u2019s Art Museum of India (CAMI)",
@@ -528,23 +545,6 @@
    "alerted": true
   },
   {
-   "id": "999f8f33ecd2",
-   "title": "AIFF Futsal Brings Over 5000 Young Players Together Across India",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUxmbDVCczN0dnhpYkFhU2MyUkd2Tl9GazN2YzFrVXp5aC1YYXZFdDhfdkE2N3NnX2xVYjJ5dTlib2hYUldKVUpyRUp1OWxHYk1RNHdzS3dINmNHYnNVU096YWp1bXdYWGRGMG53M1pCdDRwQU90ZEtfRW1xRk4ySkFVMnBNX3VIbi1rS1VwZEFSUQ?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-10T05:57:32+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "AIFF Futsal Brings Over",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f685d7a21b3a",
    "title": "DOJ probes Nvidia's licensing deal with AI startup Groq",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/doj-probes-nvidias-licensing-deal-with-ai-startup-groq/articleshow/133994951.cms",
@@ -564,6 +564,24 @@
    "reasons": [
     "product",
     "$17 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8f9ac6ff4da8",
+   "title": "Circolife Raises $4.5M to Expand Cooling-as-a-Service",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6TDEyeTJkTGJ5eTZydkpLNVBVWWxGcXkzLXZxbm5MUFRVNVpFMzYzeUt3ZkdNcEJyS0JLTWZfYzlqZk1oWjNlX0t1dzBGYnl3X3lrV1RjdXdSLVpubk5pbF9td1JZVUl5Q2E0RDd1UVJEQVl0RGJOVg?oc=5",
+   "source": "tradeflock.com",
+   "published": "2026-09-10T05:40:59+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Circolife",
+   "amount": "$4.5 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.5 M"
    ],
    "alerted": true
   },
@@ -7086,24 +7104,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9af3cd47c999",
-   "title": "NBFC Business Nextgen Finance raises $23 mn; Baring PE, Saison Cap participate",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDJuT29xTDdVcmNQbF9QVEJ1MWIwaWI0SkJhZHktV2tNRVBUYXE0Ql9zbnlQV0FacE9YZlFHSkN0RExrRC1EWkx0d0x6TFY0VW5JRWhibktRUm50c0hVQUdBTDZQRUlSV1lIY09Qa3dkbFRrVzlDWm5LangzUHJlSG9HZXh1UGMzaUZlYXRrbmFYQy10Q0dTVEVYcUU4SGVHRHUySGxXQ00?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-03T08:47:12+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "NBFC Business Nextgen Finance",
-   "amount": "$23 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$23 mn"
    ],
    "alerted": true
   }

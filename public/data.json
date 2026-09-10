@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T04:55:14.138828+00:00",
+ "generated_at": "2026-09-10T05:01:58.671415+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 0,
+  "fetched": 25,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -128,6 +128,23 @@
    "founders": [],
    "reasons": [
     "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9d709b654bb4",
+   "title": "Carrum Mobility",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50WHhpMUMtTE5tVGxLSll5WjZpNzJrSkY2dU9PMjFwUWZHc0lfU2RRRXZzb2pRYi1Yb0otR1g0RjdvcV9nVG1ULUpFcjYyb0ZLdGNoSjJFSHIzRTh2NlJF?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T03:32:36+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Carrum Mobility",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -687,24 +704,6 @@
    "founders": [],
    "reasons": [
     "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "470f50f3c82c",
-   "title": "5 Books where the villain might have been right all along",
-   "url": "https://yourstory.com/2026/09/books-villian-right",
-   "source": "YourStory",
-   "published": "2026-09-09T15:07:01+00:00",
-   "score": 49,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
     "no company named"
    ],
    "alerted": false

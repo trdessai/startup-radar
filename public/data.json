@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-10T04:20:10.940315+00:00",
+ "generated_at": "2026-09-10T04:32:35.279443+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 18,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "0200f615a03d",
+   "title": "No Filter raises pre-seed round for its no-sugar fresh juice brand",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYi1vYWZNcUJEU2tsUFpGNW96MkVOZUk4bF9ROFB4Znp6SEhFcmtOSXd2U3dEdVI5Uzdyd0M4dkowQUh0Q2FKTFhXRjAzV3VsWURPRzR4eWh6aS1GdTJCbV9DTzhoTWV2LTJCeHhja3BjTGhGQnAtX1lvTmVQN0Fya29UcElYTnVFT0dZWUpEbUlxVGNkelpnS1dsZHAtRjY1LXc?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-10T04:21:47+00:00",
+   "score": 77,
+   "category": "funding",
+   "company": "No Filter",
+   "amount": "",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "893e35f271b5",
+   "title": "Apple enters foldable era with iPhone Duo",
+   "url": "https://yourstory.com/2026/09/apple-enters-foldable-era-with-iphone-duo",
+   "source": "YourStory",
+   "published": "2026-09-10T04:20:04+00:00",
+   "score": 64,
+   "category": "launch",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "90a257e6ed2c",
    "title": "Adani Airports emerges as world's third most valuable airport operator after $1B fundraise",
@@ -22,6 +57,23 @@
    "reasons": [
     "no clear event",
     "$19 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "da82b446fdb8",
+   "title": "Generative AI a new tool in Mali's information war: study",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/generative-ai-a-new-tool-in-malis-information-war-study/articleshow/133993399.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T04:07:44+00:00",
+   "score": 52,
+   "category": "product",
+   "company": "Generative AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
    ],
    "alerted": false
   },
@@ -691,29 +743,6 @@
    "alerted": false
   },
   {
-   "id": "dfe0d78b1952",
-   "title": "The Legacy Question: What Happens When A Startup Founder Passes Away?",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXRZLUhJeWo2S1M1NFRRNW55eDI0MUpEeDd0YXRoOHJQeFBQaWdhMDFvRHUyOFUxOGVCTjhvWkFhbzY0ZHBLcGQzaEZOMEprMk0yM1VQNVZqMWR5alJTNnZBTzA2UTZMQmg4X3Q2NUJyQU5mTF9iUHRIV0c1di1zYjVlT29UX0RWV3BvTk9HNkx0Y280NXc?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T14:04:10+00:00",
-   "score": 16,
-   "category": "other",
-   "company": "The Legacy Question: What Happens",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Passes Away",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4f13557f7eb9",
    "title": "Agnikul Announces Rocket Production At Taiyur Campus At IIT Madras Facility",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm9EeG1Mc2x6eTFZcXRkSkhPNFp6SmVpcmwweWxneTJXNmN3eWZLZTh6RWRyRU02THBfSDl4enluTXNmZXlGemttQ2tnc05RRmtDVXFXNzZHVHBBX3pIRzEyLXZFMjJhMDFRWjdxQWFCYWI0TzNiQWRuSzJYZ3J6OE42eGN4V1hqWEdCdHhpYlhpMGthMTRtdmFwcERsVjJvVnZoRHcwQTlMTkc3dlhR0gG0AUFVX3lxTE12ekhKOE9rSW42dkpsT0Nxcmp0Q05DdFpMRUN1eVltZGg5TjdVZlhvbGVsY0l4Skh0Qm92UElkc0FidGhUQ0hyd3RKNUJsYzlOT0FpWmt6TE1wMHRnVWE4M3JFNVJ4WkFzcXB1c3pyOUtSRTNiZUlLWTNYdEZsX2JaZzFBZnRrTnpWSnNrT2dpOHZncWhjbnpGMGUyaDlTR0pGZ3VDaXdLOWV1bEJCbTl2NkxfaA?oc=5",
@@ -746,23 +775,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d8c538a3f0ca",
-   "title": "Samtel Avionics, BULL explore joint approach to space debris",
-   "url": "https://yourstory.com/2026/09/samtel-avionics-bull-explore-joint-approach-to-space-debris",
-   "source": "YourStory",
-   "published": "2026-09-09T13:35:03+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Samtel Avionics BULL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "99e1faa1d514",
@@ -7101,25 +7113,6 @@
    "reasons": [
     "acquisition",
     "\u20b910,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9aa8dbd09788",
-   "title": "Wonderful Raises $ 550 Mn In Series C Funding At $ 5 Bn Valuation",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjF2U00yZnY1MzZBQTFQbm9JMmdNVXZfOUh2MGw0OFBxbXFWemEtTDQ2TDhCT3QzdmFQa19XYjE1NjU5Y0hsaWREVmsxMDYwNURVRTd3cUxqUlRZNDh6SVVmc2lpWmU2TEJhYnFSWUtrMndibzdtR1dkT0Y5Z0lSRUt0b0R2SUdtSzNYU29WYzdseXV1QmFPVWVaM0ppZEhxeTJrVQ?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-03T04:24:15+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Wonderful",
-   "amount": "$5 Bn",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$5 Bn",
-    "Series C"
    ],
    "alerted": true
   }

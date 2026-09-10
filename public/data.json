@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-10T08:03:03.867507+00:00",
+ "generated_at": "2026-09-10T08:21:46.868607+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
-  "fresh": 5,
-  "alerted": 2
+  "fetched": 56,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "d2b03d5c7252",
+   "title": "10-minute food delivery startup Swish raises $24 million from BII, Accel, others",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjFZMS1Zb1I5TlhyQ0NiUkFUSHB5dG5mT0F0bEM0OXJqN3BhWDd5amgyTV9VbGp5ZXdaTGdPc1hKVHAwRnE5V3FvQi1zS0JNMU1zSFAxeDlBMDVobVFoUUwyLUU2RFh1MkZvSFIydV9OYm93QmhIaHBRUENZZE0xLU9Jd1JkZkpobWh5cV9KRUg1dE1KOTE0UUdtbXE4dlprY2w0dHRKRXNsSWtkNG9lZjdOTHQ4OThkb0FDQjF6OGNBd9IBwgFBVV95cUxNWjFZMS1Zb1I5TlhyQ0NiUkFUSHB5dG5mT0F0bEM0OXJqN3BhWDd5amgyTV9VbGp5ZXdaTGdPc1hKVHAwRnE5V3FvQi1zS0JNMU1zSFAxeDlBMDVobVFoUUwyLUU2RFh1MkZvSFIydV9OYm93QmhIaHBRUENZZE0xLU9Jd1JkZkpobWh5cV9KRUg1dE1KOTE0UUdtbXE4dlprY2w0dHRKRXNsSWtkNG9lZjdOTHQ4OThkb0FDQjF6OGNBdw?oc=5",
+   "source": "indianstartupnews.com",
+   "published": "2026-09-10T08:12:35+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$24 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 million",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a9903e9a68e1",
+   "title": "Ferrero Rocher Enters the Bar Segment",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbnlQOGU0cGRBLWh6RFV5OTVtTlctZDYxd2xJWEVDSzZvMnl6My1EZXNxQlNBaGFUdVlaYnNQa1IxZFFZNUZHUXc4bzVvbnJEeGRWcjk3U09NNEQwck95QjFnRGR6aGNIOWp3RTNQazEzeWRYUkVWdQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-10T08:04:17+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Ferrero Rocher",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "eee26e79d0ed",
    "title": "Swish Raises $24 Million Led by Bertelsmann as Lunch and Dinner Overtake Snacks in Order Mix",
@@ -571,40 +607,6 @@
     "expansion in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b2684d1aca3e",
-   "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude/articleshow/133994372.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T04:58:59+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c05784a3d159",
-   "title": "OpenAI pushes for mandatory national AI safety rules",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pushes-for-mandatory-national-ai-safety-rules/articleshow/133994284.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T04:51:28+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a482453601eb",

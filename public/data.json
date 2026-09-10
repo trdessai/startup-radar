@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-10T15:20:28.036838+00:00",
+ "generated_at": "2026-09-10T15:35:57.510891+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 58,
+  "fetched": 61,
   "fresh": 4,
-  "alerted": 2
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "bebdd5335d3e",
+   "title": "International flights from Navi Mumbai gets a fee waiver boost",
+   "url": "https://www.livemint.com/companies/news/international-flights-from-navi-mumbai-gets-a-fee-waiver-boost-11789049550324.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-10T15:30:35+00:00",
+   "score": 60,
+   "category": "launch",
+   "company": "International",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c2825a08f864",
+   "title": "Why Gen Z is talking about therapy more than ever before",
+   "url": "https://yourstory.com/2026/09/why-gen-z-is-talking-about-therapy-more-than-ever-before",
+   "source": "YourStory",
+   "published": "2026-09-10T15:23:23+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Why Gen Z",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4a4a589bf234",
+   "title": "8 Quotes that perfectly capture the reality of Gen Z burnout",
+   "url": "https://yourstory.com/2026/09/8-quotes-that-perfectly-capture-the-reality-of-gen-z-burnout",
+   "source": "YourStory",
+   "published": "2026-09-10T15:19:30+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3d18783dff57",
+   "title": "VinFast Plans Two India-Specific EVs In Strategic Reset: Report",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ09ESUtQaEV4S0tDN2p0LUtmQlRTYzFwdFN3cnQ5TURoLW52VVBsQ2xfelpual9tU0U5VDIzdC1wZFhRcGFJdmZGeDAxSnBuczhRZG1CbHZtX2pMNGQtY09sV1RRRTNJY2ZJZm5VSnRLT3pQVnJMZWtPOW9IVVA4TDZqbzc3Z0Eta0VGajV3QQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-10T15:19:19+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "VinFast Plans Two India-Specific EVs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7637ed409e68",
    "title": "Adyen steps up India expansion after licence approval, plans to grow local team",
@@ -450,23 +519,6 @@
    "alerted": false
   },
   {
-   "id": "9eae9ce00365",
-   "title": "China's AI chipmakers raise prices as high-bandwidth memory shortage bites",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-ai-chipmakers-raise-prices-as-high-bandwidth-memory-shortage-bites/articleshow/134010412.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T12:43:44+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "China's AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7d973e0389a9",
    "title": "Construction Tech Startup Wyre AI Raises $5M Seed Round Led by Ironspring Ventures to Power the Future of Preconstruction Risk Management",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ttYWRVX2hOZjg3UXEtLU10SmxGcGczdG42LUROV3hqNFhhME8xNVQ2bEI3Mi01MUJIS2FDY1RISmpmYjFVdnk2Y0h0NldXRjVWYnpNdVNCb3AybXotTEppTWdzUW9ZN2RfQVBlQnZYeEFzOHV0eDdfREFPOTRNd1pFS2QwZUp6VzI1ekNfbGxtTERXcXZkWVJjSDBoVVF3Nk4wQVVfTV9DZnp1SlVNYU5uU2c4OGdSdENtWGc4SkowQWxsdnJtOVVybE9EYWQ0Q2xfSl9hRkdTYTRPOHdmS0hsN0pfQUI1eWRxNlNyMjRsbXJ0ZWZoUkc0eE5uZEw4LWRyX0tuRERUUQ?oc=5",
@@ -484,23 +536,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "622ff4a2aed0",
-   "title": "Digital PR Agencies in Delhi: Why Businesses Are Investing More in Online Visibility",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDREWnB3OU9XRmE1SGxtNWJCM2RNbU9rMXdpS3VJamVwdktDeTViUk9raEQ4QmlPV0lkaGpsWmJxOEdFX3kyUExmbk5CT2RXaUhXZms2eGhRY2Z0YlJYbE9BUVVVQ0lHNGpOTmJhanQtUjc5YXZiWXlSN3dINm8wUlRmT2pGeTFzT1NPMld6WGU2bEFpTDFXMmlxZExuUGhQZndzblZWWjNna2lJV0NjTGxUTldaRXkwTTB2aUF6cm0wYm00Z2hnZ2NUSG82cHVjcW1QaVNEY9IB1wFBVV95cUxNTDREWnB3OU9XRmE1SGxtNWJCM2RNbU9rMXdpS3VJamVwdktDeTViUk9raEQ4QmlPV0lkaGpsWmJxOEdFX3kyUExmbk5CT2RXaUhXZms2eGhRY2Z0YlJYbE9BUVVVQ0lHNGpOTmJhanQtUjc5YXZiWXlSN3dINm8wUlRmT2pGeTFzT1NPMld6WGU2bEFpTDFXMmlxZExuUGhQZndzblZWWjNna2lJV0NjTGxUTldaRXkwTTB2aUF6cm0wYm00Z2hnZ2NUSG82cHVjcW1QaVNEYw?oc=5",
-   "source": "Newstrack English",
-   "published": "2026-09-10T12:21:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Digital PR Agencies",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d79feb0c91d9",
@@ -572,23 +607,6 @@
     "product"
    ],
    "alerted": true
-  },
-  {
-   "id": "4eddcd87722c",
-   "title": "SEBI says AI alerts are not findings, need human oversight",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdFpDQmo0TG5XVl9zdHppbFRuT1dZa3hkbmdFMFZlbVFQV09PaEh4ajdMM2tVdG5kd0hwRmdHSUp3TGtPNThNUzktM3FCbTk5TTJpVjlYT250dEstMnhMQXdDaWFvcFE5S2I1dk0wQnJ6YjB6NXM3STdYOA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-10T11:55:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "SEBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ec5d0d52e3b5",
@@ -7082,24 +7100,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "98f8bf9f7bde",
-   "title": "Slice raises $100 million at a valuation of $450 million, down nearly 70%: Report",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUJ3OEhIZHFabGw2LUs3cjczUFRCVzBDSzJoLUIyNklnUk8ycURFUHNFcG9BUEtQS1lENlJUeTRsZ0NLejh2UEVIWXlyTmZvZXVJTl83OWplMl9YeXBJRjZiTURZYVY5STJsVzJ0NUh3bUlMSnFlbmFTSG5oOHY0RGpneG5YNkQ5N2RobzBIVWxuQ0ZvVTI5U2ExNEVxQ04yYkVoUjZiQTRKSWo1Q0xtUUpfclBNcXd3bnA2V05FUnPSAcABQVVfeXFMTllCdzhISGRxWmxsNi1LN3I3M1BUQlcwQ0syaC1CMjZJZ1JPMnFERVBzRXBvQVBLUEtZRDZSVHk0bGdDS3o4dlBFSFl5ck5mb2V1SU5fNzlqZTJfWHlwSUY2Yk1EWWFWOUkybFcydDVId21JTEpxZW5hU0huaDh2NERqZ3huWDZEOTdkaG8wSFVsbkNGb1UyOVNhMTRFcUNOMmJFaFI2YkE0SklqNUNMbVFKX3JQTXF3d25wNldORVJz?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-09-03T15:24:43+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Slice",
-   "amount": "$450 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$450 million"
    ],
    "alerted": true
   }

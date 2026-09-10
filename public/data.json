@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-10T11:18:54.829425+00:00",
+ "generated_at": "2026-09-10T11:30:28.423622+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 48,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "8210582055e6",
+   "title": "Blue Machines AI Launches Aurora Speech Model for Indian BFSI",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGk5eGJCNW96elBuTTV1eW43VjlTTEVjLVlEWGdXQ1M5dVRnRzBYSmloeHVKLTZpVTlvWGJuX0NwaFVMbzlITnE2OWJfNzJXRHVYSkxuUmV3Y0hNOXZtZ0RhSzI4WGdvN2tGTldhd3Z5OGdTZlhvZ0gtUFdFNVVmdXFhMEFRY3IyYlNsMDE3eWViYU1VMjlYZ05vcXVzVlZs?oc=5",
+   "source": "analyticsindiamag.com",
+   "published": "2026-09-10T11:23:26+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Blue Machines AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a39ca3daf813",
+   "title": "Whinta Launches White-Label AI Voice Platform, Letting Agencies Run Their Own Voice AI Business",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcWc4V04zRjZHNl9qYXB0Nnd2Y3pyU2g0MzZpQ3ZxRlZ1MzUwWGk1dGstMmdkeEZoektvN05RcFZvVlBmU3hEVlJZeEtEQWhHUTdpMERwTlJkRTljekJoMkZXTzJFQ2M4YW0xWmJZaGZOY0NSVUtZbFlNczRoZE43ZGMxZ2JuZTJNZTAyaTZOUDhtTl9BdTYyMFEtM3h1ekR4VEV5QWE0Mm9FNTBSb1FYUFZiWlJKYWxsVVhqNl9ndkdLZFBR?oc=5",
+   "source": "theblunttimes.in",
+   "published": "2026-09-10T11:22:39+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Whinta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "277ec849bb42",
    "title": "BLR Bistro Debuts at Phoenix Mall of Asia in Bengaluru",
@@ -41,6 +75,23 @@
     "$31.5 M"
    ],
    "alerted": true
+  },
+  {
+   "id": "44abf6647f86",
+   "title": "Beyond UPI and Pix: Why Governance Is the Real Test for BRICS Pay",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjVNR1VfTUxyVVg2MkdyYjBlMm5pa2pTdVhydTl4M2xhOGJEVTNuelNJa2hHVGl1S1NPQzNva3JSdFc0bWJCZjl3WEhZQ0FNTXpuRE1JamFhblBOcXRIMUx6V0pjeUpmaTZSM0ZubTc3RXFIbHlaOC1uRkUyLWRZOGQtZUw4c0FVeDl2cW5ISHdRc1N4?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-10T10:50:22+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Beyond UPI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "0c491d715185",
@@ -440,6 +491,23 @@
    "alerted": false
   },
   {
+   "id": "344b4aeab1ca",
+   "title": "Alpha Alternatives buys stake in Karnataka power transmission project",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVprdFBvZXVRZG9tejkxM0FjRXNZbVFNbjBEV0Rwbnl4SF9UVnBGRUhtTG00aWxlV0UteUpiX1VvRm5lYjJUbkxkVUZLUjVRNS1rZjA1TE9vZ1YxYkppTmZOejhvTTFVSkVITEdjOXRTTGkwNFU2NENINXc3aXRGc0FERFFnNHVQNkRFY1g1RlNuVXR0Y1JQNA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T08:17:21+00:00",
+   "score": 56,
+   "category": "acquisition",
+   "company": "Alpha Alternatives",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "d2b03d5c7252",
    "title": "10-minute food delivery startup Swish raises $24 million from BII, Accel, others",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjFZMS1Zb1I5TlhyQ0NiUkFUSHB5dG5mT0F0bEM0OXJqN3BhWDd5amgyTV9VbGp5ZXdaTGdPc1hKVHAwRnE5V3FvQi1zS0JNMU1zSFAxeDlBMDVobVFoUUwyLUU2RFh1MkZvSFIydV9OYm93QmhIaHBRUENZZE0xLU9Jd1JkZkpobWh5cV9KRUg1dE1KOTE0UUdtbXE4dlprY2w0dHRKRXNsSWtkNG9lZjdOTHQ4OThkb0FDQjF6OGNBd9IBwgFBVV95cUxNWjFZMS1Zb1I5TlhyQ0NiUkFUSHB5dG5mT0F0bEM0OXJqN3BhWDd5amgyTV9VbGp5ZXdaTGdPc1hKVHAwRnE5V3FvQi1zS0JNMU1zSFAxeDlBMDVobVFoUUwyLUU2RFh1MkZvSFIydV9OYm93QmhIaHBRUENZZE0xLU9Jd1JkZkpobWh5cV9KRUg1dE1KOTE0UUdtbXE4dlprY2w0dHRKRXNsSWtkNG9lZjdOTHQ4OThkb0FDQjF6OGNBdw?oc=5",
@@ -472,23 +540,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a9903e9a68e1",
-   "title": "Ferrero Rocher Enters the Bar Segment",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbnlQOGU0cGRBLWh6RFV5OTVtTlctZDYxd2xJWEVDSzZvMnl6My1EZXNxQlNBaGFUdVlaYnNQa1IxZFFZNUZHUXc4bzVvbnJEeGRWcjk3U09NNEQwck95QjFnRGR6aGNIOWp3RTNQazEzeWRYUkVWdQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-10T08:04:17+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Ferrero Rocher",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },
@@ -526,41 +577,6 @@
     "$24 Million"
    ],
    "alerted": true
-  },
-  {
-   "id": "a13d43e44fa1",
-   "title": "Uber invests $10 million in Indian fleet management startup Carrum Mobility",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm1UM2VJbVFhcWtGYWw4VW16UUVBRVRPN3BuSEpVU0FTa1dpWmtBVlNzdHZfMFRmNDlvelJQSXdSRHlvenZ5bFhZdS05WFk4eG1pTzV1N2REVkZZVnBiVjM3ZU5Pbmx6ZTg4OUhTRnhvZXhNME5qdDQwaWU0N0xFb0k0cnMwYUtfOUluRFBWZG5FZlRIeTFfMlpqV0swMTZqSEdPcENObUd3dWI0Qm5IU0czb2s2c0xIWE5BcUN30gG-AUFVX3lxTFBGbVQzZUltUWFxa0ZhbDhVbXpRRUFFVE83cG5ISlVTQVNrV2laa0FWU3N0dl8wVGY0OW96UlBJd1JEeW96dnlsWFl1LTlYWTh4bWlPNXU3ZERWRllWcGJWMzdlTk9ubHplODg5SFNGeG9leE0wTmp0NDBpZTQ3TEVvSTRyczBhS185SW5EUFZkbkVmVEh5MV8yWmpXSzAxNmpIR09wQ05tR3d1YjRCbkhTRzNvazZzTEhYTkFxQ3c?oc=5",
-   "source": "indianstartupnews.com",
-   "published": "2026-09-10T07:40:03+00:00",
-   "score": 37,
-   "category": "other",
-   "company": "Uber",
-   "amount": "$10 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$10 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "462224dcedaa",
-   "title": "GFF 2026: UIDAI is working on Aadhaar International interoperability POCs, new \u2018Aadhaar Light\u2019 product",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkhGeG9vVzBlR21zWldjc3JxV0x2ODg0QXotTHpMM21nSF9EbEhBRlZyZUVtM1hsbjNwYnJYYnlVM0ZacU5KdGpOVFFJdGJoT19FSDIzck9BWEpONnp5bE1NSkRNSHQxSTNuQVZYTjNtdjlFOUZJeTYwT3B0TEdxdUVydkNoanFQSENr?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-10T07:32:05+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "GFF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "54d0cb839e69",
@@ -7081,23 +7097,6 @@
    "score": 68,
    "category": "launch",
    "company": "India Blockchain Week Conference",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fe6d5319aa19",
-   "title": "Bengaluru-based Pranos unveils India's 1st private compact nuclear fusion reactor",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSENNdVFfTXV3OGZDWE02bzB2ekJYZXVmbkZkLUE1OGZROWFyRnVuLWt0eVd4cjRVQndPaGtsT2hSa3VHQ0ttOWlyeHBQbWs4eDYybDhvZlQ3Ym15RmVKUzRFRkdFd3o5WEZveS0zREgzOTYzT1NwUnFOSUNTMjRaRDl0SHJoU3FCVzlEV2s2eFY1MnRzSktqQ1F3N0RnNkd2eS1TUS0wSnZIRUJLNXlaV1VWaV9nRHRNbmxqQXY5NFpUNXIzbTJ1VVAxaTJsNDJFSWNvTkJhWkFGdUxuV1pZ0gHkAUFVX3lxTE9lOFZ4dzRPc2tlS0RlUHdGSXAySnoxLW55Ti15OFdRZTZKOGw4RS1mUGU4TEhpNXBRUnF3NjNmcXV0Y24xYVcwbWJob2M5SVpjV2EwV0hfUThaMXc5Z19Nb0ozVG5TM1BzUkN0VzVDb0J0YkRNZ19LOTVNbEQtQkhzUlBJMXV0RzU0aVRYSzFBTUliQ1hoeUtnY1FQRUZEU0szNmRNMUQ4dEtZVEg1aU1HdU0yb3RTdHVDSW5DaG8td3E3THM0Y2U0aUc3cGdrdkZ6S0RmY0dYTk5oX0czOEFzRkRBdQ?oc=5",
-   "source": "India Today",
-   "published": "2026-09-03T11:21:33+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Pranos",
    "amount": "",
    "stage": "",
    "founders": [],

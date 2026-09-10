@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-10T14:01:48.128754+00:00",
+ "generated_at": "2026-09-10T14:19:00.789235+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 63,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ee1c815bb9a5",
+   "title": "AI contact centre startup Dialflo raises Rs 1.7 Cr led by AJVC",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkp1cGU2OWkwZU45S2U5SF9ES25mRzd0SWNEWGQ4TlBNWVY4T0tsZ05ONDFCajBpY3U2cU13dVE5aWNyYVFtcVNqakM3bG04UFN6eE1BTG9mWmw5V29BWHl4RWlQN0w3Wlhfa3ljUXEzSGRLdHc2eHUzWmJMbEhuTnlZZ2JTT09GQnJ2dl9uRlFSYV81bjJHaDF3VHhaNUdaUUHSAaIBQVVfeXFMT1ZKdXBlNjlpMGVOOUtlOUhfREtuZkc3dEljRFhkOE5QTVlWOE9LbGdOTjQxQmowaWN1NnFNd3VROWljcmFRbXFTampDN2xtOFBTenhNQUxvZlpsOVdvQVh5eEVpUDdMN1pYX2t5Y1FxM0hkS3R3Nnh1M1piTGxIbk55WWdiU09PRkJydnZfbkZRUmFfNW4yR2gxd1R4WjVHWlFB?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-10T14:12:18+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs1.7 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs1.7 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "bbf2f068a249",
    "title": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports",
@@ -7062,24 +7081,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "20365fae9bc4",
-   "title": "Tech3 | VCs cash out big from new-age stocks; Slice raises $100 million, valuation sliced; and more",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVGdYLWtuU3JCRzlrYXV5Yk9kODlMeDN2VXJxVWcxMTZlc3pkcjVSUF80NUxON0dlX0QycWxDOEdnMHJjaE1CVG5aZDZqLU9SN1lxNDhDdmxfR28wM1NXNmhHbHR4N054M1E2Q1NGV1ZWaTVIdXFGX1NVM1NPUkVwbHdsVjhRNTQ1RXhpbU83czlkUkxmdm42ZTBfZTFKbkxqdE5GcEdHZV9lM3pmTVdnczZmYlduVFBNRWZwLVB6c2g1SzNmN0xTUUFneU1xcTYzMmZVbGxReGpyR3NuVXNmRVpfd1ZvWTFOdGFHeXVnTGxTWUtqWkVPOF8xRQ?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-03T14:05:19+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Tech3",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 million"
    ],
    "alerted": true
   }

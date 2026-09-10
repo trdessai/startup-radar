@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-10T21:01:52.509644+00:00",
+ "generated_at": "2026-09-10T21:16:53.681420+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 0,
+  "fetched": 13,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "b39ac444d83b",
+   "title": "PhonePe Shuts Down Engineering Office In The US: Report",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGlzZzQ0cVRvM0hIVTluOWRfeXcwdm1NSTh6ek1wZ0k5dWI5Q21pdWVTWE1EQXRSVnBNZU03SXlBMWd3X2phRDhrLVRBd05aWW04WE1idzg4WWRxZFhBWHBBV1YtaHpiMzVPcGFqcDJZT2p4bHZCOWNwNmI4NnE2dm9Zb3I?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-10T21:12:34+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "PhonePe Shuts Down Engineering Office",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "aa3d5445a071",
+   "title": "AgriFood Signals: EIF backs Nordic Foodtech VC, NotCo sells Brazilian business, Agronutris in receivership",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUtzbjNzbVNKbEdxNlN2SE5DTUFKcmJaYVd3WWxXZlhLN0gzOWE5T2dQOTNyaVhaNDlmenpGT2oybjd2aThhRDZnS3RiUVI1ZWFQOTdZWUwtVU9DUjJYUVJjckEzVm9PeF9OaDdPQzQzekQ4V1Y5bmpTNlJBNzFkWFZNTGZJLWptR3FEbE41QlROZ3Y4ek9GbVdjem41VEJfQm5NMW80cTNsZmdSU0xMMWp1SEd1TGhLY0xrS3FyeXJrdTJRMGk4?oc=5",
+   "source": "agfundernews.com",
+   "published": "2026-09-10T21:07:51+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "AgriFood Signals: EIF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "738b400c168e",
    "title": "NSE Downsizes India IPO, Showing Mounting Valuation Concern",
@@ -7064,23 +7098,6 @@
    "reasons": [
     "funding in headline",
     "$2 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ea701b6441e5",
-   "title": "GSLV-F17 mission LIVE | India\u2019s \u2018Eye in the Sky\u2019! ISRO launches satellite to watch its borders 24/7",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLUhCSkQ5bkk1cndvbFdjVng1SmxWZjVEekxzcWxKc0xYSG1MMlF1ZE5OOUlHenI1Z1EzS1l1UnA0eWdKZ1hHNG5GemlnTmxvdEFyRUVGVi1CTHVuWEVvNmEzS2MzenNWNDZWd3FMVjRSSTB2d0RUWUZkQlZGeWhiVzExekpJY0x1UTRBZ0VvREJVU1JGUVkwZWpXUXdmM0gwd29zMndiZnMtMFFlQ1hGdWQxUEUxWkx5SFNQclAxZWpMa3FSWktWbWQ5ZGk5RWlpS2hCRE5rcDVIaVBlaUVvRjNmd0R6WktYcHN6VXc2ZnZvdmlWaDBuZGNBOGFCa0gyQjZUdjFR0gGLAkFVX3lxTFBYUFpRNlIyRElEREd0eUoydDRKWDRWLVNJaEpuRVI0cnVhdU54NURmRkx5MmFRbVNXcHpLbE1uaXY3c2N1bEl2bk1Jb0Rsb1pvYUI1ZC1XdmVSWlNCNk0zbW9XRDJhMmtsdzMtZEVHWkFaMWl2SjR3S2VrYTc3N3g3Z1lleUFKR0pNOW1aQjhGbXdPaWdhTUpJUzA2MzdOcTRCdzZMd3A4SEtKX2ZjN01MYkNnMzFfZll6UGs4by00dVgxcUE3WWlnV21GMkxmVmRESzg1ZHhKWG4tWGhaYXpadHlMeWVVanlmUHRrRmtwaDBoSTNUU3ktcTAzS21UNm42dmdONTAwR3k3MA?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-03T21:09:43+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "GSLV-F17",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

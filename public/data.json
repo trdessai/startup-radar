@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T17:28:15.868171+00:00",
+ "generated_at": "2026-09-10T17:37:29.656701+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 0,
+  "fetched": 30,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -77,6 +77,23 @@
     "300 M"
    ],
    "alerted": true
+  },
+  {
+   "id": "4e638513bb93",
+   "title": "Section 163 - MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93ZVpnandmTHVWejBfOUpRV2NTZERtcWdKc0ZlakxUN2dxV3RjSXlKUVhfUVNWV0FWczNTa3VLZFhCSklkMEV2LUpQTF9OQUFHM0M2bQ?oc=5",
+   "source": "medianama.com",
+   "published": "2026-09-10T15:58:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Section",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "3e5832ba9c64",

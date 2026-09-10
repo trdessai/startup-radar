@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-10T15:46:21.667512+00:00",
+ "generated_at": "2026-09-10T15:53:53.381541+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 55,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "3e5832ba9c64",
+   "title": "Assam CM launches MC\u00b2+ IGNITE- IIT Guwahati outreach programme; calls for stronger industry-academia-startup collaboration",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWVVZMkF1a012eXJPeVhRUk1uZUczcUJub3h5Rmh3TE1zcGR3S2VtNXFYWmkyQXh6Y2NyZmx3eHIya1huR21hRjJscW9sNjVPLWZMTWpOWTVObHJUa2QyU1F0YmZZTTJuMzE4UHZZdkVfMXRSdHVManNfdUJHVS12Ny00d0dBYVpvbnI2NEMtZlU3a2o4c0c5bE9nTTV3M1JubzdxeHNTaFZIUjFfRXBYZE42SzFlcFJUNDByaU9YNGVYOE9BaGI0eFFBUWE1VXpFRVNRUk9MOUV1MDU0WkxGR01KOWgtLUtydnJCUXhBcU5qVEpsMExIY2Z5eGpmT2VfRmFKRUZGaEM0ZkZPay1MYXpXSzlub28?oc=5",
+   "source": "ANI News",
+   "published": "2026-09-10T15:47:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Assam CM",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "69da3cfda081",
    "title": "GFF 2026: Fintech-AI Partnerships Take The Centre Stage On Day 2",
@@ -23,6 +40,24 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "ef0688c1f169",
+   "title": "Graph AI raises $13.3 mn to expand in US, Europe",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVJvQUM5ak5hWHh3ZUtxYWJGVE9jdXlqTEotdGRwMTcxcmE3UTJrcFhIaTZXQWxpX0ZXb055MFk2X3ptYVNtZ0cxZGtIMGtfU19sXzBXWjVGUVhpdV9USjVIUWptUzhKMUF6WFJWRUt5MVlmT1dXaU51TUxXS3N4QkpDeFZVcmxaYXJyUGZfd2tITEZzUUdyejJLeEh4dDYxUnNKcXRoLW43Mk03RHpOLTRtNEJ0MWFTbUEtTVlFR2xXVjV1UGFZM0hqMF_SAdIBQVVfeXFMTzNoMnBXVi1ablBubm54aElxbldjMlhsVHNXMkw4YWNPSUdTVFFtem5mVDQwbE03VjFpMU1LRnlFdTc2NEppNWExdUJwVTlpNm56SDEyUU9zdG1fc2ltVGFwRGlrWjN6OVhZb3dQdHk0OERLaVR6SzZyc05mSWhUbThwTFpPMmZLMm1ESUtuSUFKankwSXJQOEVRTXJIb3l4dmUtaE5CekNWQkVJWkRrdXVVS0ljTExqbDNQWElLR2lEV0Y3X2JLMnFjaHBFWTRWc3dB?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-10T15:39:00+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Graph AI",
+   "amount": "$13.3 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$13.3 mn"
+   ],
+   "alerted": true
   },
   {
    "id": "bebdd5335d3e",
@@ -235,6 +270,23 @@
    "alerted": false
   },
   {
+   "id": "852eccf06061",
+   "title": "Theater, AllSecureX pocket early-stage funding",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMjNkbFVCSmVRaURHbGFKbkdmZXFVOVF5NS1mRmZyY2h0dHRWLVp0VllCUm1peFhfSEhzbzEwX2xudjU2aDlJTmRpalVUczlBLXJnUWRXUGhybWVhejZuMGlWamJWeDc4N0FNc25XVkNuYVIyZjRwcQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-10T13:30:28+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Theater AllSecureX",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
    "id": "e048fe7c3f3a",
    "title": "India Claims 13 Medals At World Archery Para Series Stage 3 In Ahmedabad, Including 4 Golds",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVW1qaFhOQlBXWE1BaFdXeWVKYkMzWmlkbW83WURLVkdtVUVGbE53MDNJN3ZuT2dwVTk4ZFl4S0xFb0lRRWtsY0xLaTNJcGVjTFdzUDBVUnN6UENNalBSenR5TjJmY1Y5WkNadlV6SnVoRGNSMlJJNWhNS0l5SDUxSUcxQmZ2bkFOUVptdE5BaFFCaGdfY1lBNVZBZ0JSTzctcW9PanBJR29LYVg4MFE?oc=5",
@@ -414,40 +466,6 @@
    "alerted": true
   },
   {
-   "id": "fb528905025e",
-   "title": "Frido Expands Physical Retail Presence with New Experience Centre in Delhi",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTm1uaDE3dG51bllEakp1YmgweDhGUWJ6bjBNNzB2UUhJeFJxdGQ2VlU0bkEtMFMxdjNHZTBfeWFwQTJKOHVpbkpkOEZmN1pfbjFJOVd0ejc3aFBSWEtNYXg5bHpaY1F0SldmeFhBS3FwVmlaTVZGU0Ftb3JoSW1KenJ0RjhSaTZLN2ZPZTFQdDBRWmROX1FKeld3WEdaVlFWMGdHRA?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-10T12:55:31+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Frido",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3fe200162862",
-   "title": "Delhi HC Restrains Beco\u2019s \u2018War On What\u2019s Hidden\u2019 Ads Targeting HUL Products",
-   "url": "https://inc42.com/buzz/delhi-hc-restrains-becos-war-on-whats-hidden-ads-targeting-hul-products/",
-   "source": "Inc42",
-   "published": "2026-09-10T12:54:32+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Delhi HC Restrains Beco\u2019s War",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "937ee1bcf63f",
    "title": "'Reheating our leftovers': Samsung takes swipe at Apple over its iPhone 18 series reveal",
    "url": "https://economictimes.indiatimes.com/tech/technology/reheating-our-leftovers-samsung-takes-swipe-at-apple-over-its-iphone-18-series-reveal/articleshow/134010932.cms",
@@ -499,23 +517,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "00ef17c35cf9",
-   "title": "Piston",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mam9hLThuSUVudmZJbXNSaHFOblBTSWhxU0JqRjdLeVhQeWpTbzJnVGJVdnBoWDM3dVBTbDhXbHZ1UmxaVmEw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-10T12:50:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Piston",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "7d973e0389a9",

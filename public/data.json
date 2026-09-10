@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-10T17:37:29.656701+00:00",
+ "generated_at": "2026-09-10T17:45:15.512170+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 32,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "fc4535e66382",
+   "title": "AI chip startup Positron's valuation skyrockets in latest funding round",
+   "url": "https://economictimes.indiatimes.com/tech/funding/ai-chip-startup-positrons-valuation-skyrockets-in-latest-funding-round/articleshow/134022562.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T17:29:47+00:00",
+   "score": 55,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "baece1e7fbae",
+   "title": "IBM, NASA launch AI model to help map ice, craters on Moon",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-nasa-launch-ai-model-to-help-map-ice-craters-on-moon/articleshow/134022322.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T17:27:26+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "IBM NASA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "acc9d9397be8",
+   "title": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/wipros-ai-push-frees-capacity-equivalent-to-20000-workers-cto-says/articleshow/134022402.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T17:25:45+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Wipro's AI",
+   "amount": "$315 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$315 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "fa8743906540",
    "title": "RBI Governor Calls For Fintech To Double Down On Trust And Inclusion",
@@ -426,23 +479,6 @@
    "alerted": true
   },
   {
-   "id": "4dee17b69331",
-   "title": "JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report",
-   "url": "https://www.livemint.com/companies/news/jsw-volkswagen-group-potential-india-deal-cost-cuts-exports-and-control-at-centre-of-talks-says-report-11789043077410.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T13:20:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "JSW-Volkswagen Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0cd753cc1529",
    "title": "Sumadhura plans Rs 17,000 cr investment over four years, lines up 45 mn sft launches",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMEVJb0d3dVlLcTRrQWM1eG1fSVVQWXYxTHVYeFFmMHYyTjdNVWstM2lBbG5acmJ2WTBjdXBOTEY5dnZJR1JXMlVIYnNETlBIX2ZNSlZzT0V6c2dhTlA1Wi1KM2dmNWlleXhwZ2F2Z3RyNkQydXZxZV9wbUtUS2w4aTNrbmw0dk0tUHY2NGRDWUxpN3JabnZSd1NPRE03a2g0dGxGZVVUQ0tXLWFFRjlmeW13N1JRVlNjRFhzOUZlNkVuU1FiOXNmYUYtMDBjZG1UYk9MVXZPcVRybF9Ra1RaOTRiSFhONEZ5RjhzTjlaQ3M2T1JZanVHT21VNDfSAYICQVVfeXFMUDF5ck4tcFNSTWQtNFJnbTRtRlZNdWVXbEo0bkQ5ZE4tYzJOaVp6LWNRTVBwWGRHdnF3cVFQSDNCaHBRN3V2TzM0dFJJTHQtVGtBRFRBVm8yZVRuOUp0cVVVd2dQd3huUElyd1puRllyTEVoOHVsS1ZIVmJJRDNRQ0xWbGE4aEE1QzdxYlNLNW1BQWM1aVl0SS1sdGVNTkF6WU5vZlZVQ1g1QmJZbHFNVWN1WHFQdXlBVmk0NEhKNnZCRW9sR25UR2J3RU9LbDcyRmc2QjMtM1Baem5EcV9pWnNwajVYdFVfSHNTNERtUFB6MEVEWGNDeFBwNWRkTWd1SUdn?oc=5",
@@ -476,41 +512,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3e7858c5231c",
-   "title": "TPG-backed Solara Active Pharma Sciences draws PE suitors",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2JzUC1OTVNOQzVmeDZDLWJENHpUdk9QSFU4SGtjWVpBUlhfYTRabVpUV2lkS292TEJPNjljbDVIZ1d6OTFURU5NQm5MX0s5YW53TnBCcUdNOVUxY29OUnlFc1VBbFgxM3o2M1FneTlMMHFmWlhJVmZqVVVPdjUtOEtNNEVUeHdP?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-10T13:13:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "TPG-backed Solara Active Pharma Sciences",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c1dec5ccc3c4",
-   "title": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
-   "url": "https://economictimes.indiatimes.com/tech/technology/uk-deepens-reliance-on-musks-spacex-spending-nearly-40-million-on-satellite-services/articleshow/134011718.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T13:12:46+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "UK",
-   "amount": "$40 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$40 million"
-   ],
-   "alerted": false
   },
   {
    "id": "e6089c728b0b",

@@ -1,12 +1,87 @@
 {
- "generated_at": "2026-09-10T13:20:04.509494+00:00",
+ "generated_at": "2026-09-10T13:30:59.655634+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 69,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 72,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "4dee17b69331",
+   "title": "JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report",
+   "url": "https://www.livemint.com/companies/news/jsw-volkswagen-group-potential-india-deal-cost-cuts-exports-and-control-at-centre-of-talks-says-report-11789043077410.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-10T13:20:51+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "JSW-Volkswagen Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c1dec5ccc3c4",
+   "title": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
+   "url": "https://economictimes.indiatimes.com/tech/technology/uk-deepens-reliance-on-musks-spacex-spending-nearly-40-million-on-satellite-services/articleshow/134011718.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T13:12:46+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "UK",
+   "amount": "$40 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$40 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e6089c728b0b",
+   "title": "OpenAI faces Senate probe into Hugging Face incident",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-faces-senate-probe-into-hugging-face-incident/articleshow/134011652.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T13:10:37+00:00",
+   "score": 67,
+   "category": "launch",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3cfc9a976b56",
+   "title": "Avisirah Technologies\u2019 Navi Mumbai AI data centre gets \u20b975 crore funding from Syndicate Finance",
+   "url": "https://economictimes.indiatimes.com/tech/technology/avisirah-technologies-navi-mumbai-ai-data-centre-gets-75-crore-funding-from-syndicate-finance/articleshow/134010563.cms",
+   "source": "ET Tech",
+   "published": "2026-09-10T12:58:52+00:00",
+   "score": 81,
+   "category": "funding",
+   "company": "Avisirah Technologies Navi Mumbai AI",
+   "amount": "\u20b9125 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9125 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "bfc8f337e804",
    "title": "What gaming tech firm ARC raised in pre-seed funding led by Chimera VC, MIXI Global Investments",
@@ -537,41 +612,6 @@
    "score": 18,
    "category": "other",
    "company": "Insurers Morgan Stanley",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "abc66632d711",
-   "title": "India Funds Its Startups. Why Won't It Buy From Them?",
-   "url": "https://yourstory.com/2026/09/india-funds-its-startups-why-wont-buy-from-them",
-   "source": "YourStory",
-   "published": "2026-09-10T10:24:17+00:00",
-   "score": 53,
-   "category": "acquisition",
-   "company": "India Funds Its Startups. Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "10ad955e11d3",
-   "title": "ISRO conducts successful 220 kN hot test of CE20 engine for LVM3",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDBMaDVGWU9DUV9EeWhhQ2ZLNkhpUkd2ejJIX3NqWnJqQ3Jiem52UF9sbFZ5VzIxZXJSd3dNc284TGZzSjBhRml1V1RkamxNYVNsWnBpb0xWUzRvcmtEdnlWemNYVFB1ZU1BTXAtR3dQX1ZtYjI2SXNrUGJIcWcxMTZ0NFE2RC1ZbGRCSHp3OGdrMzBUeUJxOGl2am54cEtPWGhKLW50cktaVG1XUDVj0gG0AUFVX3lxTE02ajJRdHlsaE9UOGk0VGFRc2xBLU9iNFpQdnlGVElKYUNnY0htbmk3NXJMWVc3UE5tV1EtQW1ORHZLakdua3lOeVp0c3JHU2NyUGh5SlNkdTFGazdkbWw0NWg5bS12eU82N2VZSXN0TTBtQnNBbUR0bEpKVVBYY245bkhCbzlfekxVVXhTdldPeGlUM2IwS2JUZzI4dzMzeW1vUEY5QlhBckxaZmFkSXNoaWd3aA?oc=5",
-   "source": "The Assam Tribune",
-   "published": "2026-09-10T10:22:25+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "ISRO",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7057,43 +7097,6 @@
    "reasons": [
     "funding in headline",
     "$90 mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "aa2dfb95c9c7",
-   "title": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India\u2019s No. 2 wires player by cap",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaUpVcTBGdXNubnY5TEt0Ul85ZVRUTEgya3BlUng1VUx4NUtYakFDeEFMcEdMakJhNmxMN3ZraDFOUnVLalFuaVM2Mk5LWXRrSkl4dTlYUmoweERaSmEwdDllS0czNzVQNV9JMjlpNUt5WWZrZkxId0NhQVowT3NfNzctX2hycHN6RlJESUk3Ui1yeUVaemNNaXNmOVBqUnV2VUZ6bkNiT09tWFJVTUVyTE9YSWMydGliTXhHZjZ0YXNzMnZyUHdvNi1fVlVJVDhFREhDaFViUUJoc0h4bThJejJHM1pNSVJUZEF3QjRvdjhnY0Z5bDRIRWRmQmJCdWstdjZMU0lPQ0ZnTDNsOW15LUkyVkxKQlpVek5qUzlKTjbSAaYCQVVfeXFMTjlwVXBURE15UWVmd0duckdWYkc2b0o5QXVydjZPbVc4MzJ6REowQjRyYzZ0cE1oMnVEZUk1OW5MQjgtWXVzQmZLXzlocFFTZDFDUjBidnpkVk1Tek0wUllLRVhNTmkzd1VlMWFvQXNhNWY5UTJURmcyTjVIZUNjM0VSU29ZTGQzanY5NG1JcTBCSmFJeWUxNlFSR3haYVhzdjk0VFJiMjhqakFLMktMWm1hRGRwOWI3bzZ3a0lIN1R3THFsUDAtRUN0bWFkZ2QtNGV2VmxNaHNwbEhldHcwbFhhUmMxdnd6STJtUFJxZzhZM0hvcENuVTQ2UEROWk16V0VoQmQyVUdPQzhaS0F0ckFFOWtnSE9uMmVxN0VNd3hrSmhKYW5n?oc=5",
-   "source": "economictimes.com",
-   "published": "2026-09-03T13:29:47+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "Aditya Birla Group",
-   "amount": "Rs1,800 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs1,800 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6e57bae8319f",
-   "title": "Catch Raises $5M in Seed Funding",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40V0NyTkVtTTM0UUZ6b1dqTzZJbnd5NzU1RkIwRTZrcy00cGFqUmNoS0lueV9rZWFGZEhyS0N5bUFFZ2FQYV9OeXlWNWtwaGw1dHNJaGdpM0p0QnY3QU9NNTJfcWZ0M0ZmbWNJbE1SUDExejUxcHY0?oc=5",
-   "source": "FinSMEs",
-   "published": "2026-09-03T13:24:57+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "Catch",
-   "amount": "$5 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$5 M",
-    "Seed"
    ],
    "alerted": true
   }

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-10T07:47:28.904139+00:00",
+ "generated_at": "2026-09-10T07:55:47.935544+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 52,
-  "fresh": 6,
-  "alerted": 1
+  "fetched": 51,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -111,6 +111,24 @@
     "launch"
    ],
    "alerted": true
+  },
+  {
+   "id": "38823a552454",
+   "title": "BITS Pilani gets $1 million gift from alumnus to set up advanced materials centre",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMU9Cb3RwMEJHa0FzWTRGcl9yN2xEd2JfaUR4eXkwempJQXB3aDFINlFvR2Q3ZVBxbHNWOWdzVmNGaXZIN2pRS01xMjBEUExVRC13MnI2UmxHTHM0c1pELXhKZXhOQXJ3SlJVRFprV0JQSXZ2VzF3ZlZ1ckNzVmxuV0FrVTVYSHhsTU9Ha25mOHNWQ0NlaGVCdDFwZXhDeGkxYnR3N25haGlmTWlLclhKLWk0MHptYU5VcWd5QlpIZlVGUnJ3QzVHY2U3amRIdkdpS3J4Q21DZWhVX05JMlc00gHkAUFVX3lxTE9lNzg5V25rOEdrUGRoam1FSTYxQTZiZUhEWXlmX2JLUlN2UUZIMmlTbjVDd3NheTZlN1hqS18zazJXemlUV1I4RzVuQWlrU29VWHZHT0JfLXRnZVAtX3Z0MU10R0VvenlPci1uRzZrQTI1U2pjanFweWZhaWQweXBWYXJYSzBFbXBmY1ZXdkU5UlJDYXd3QUNtMVdIbjQtcnNYTVhQRWZGTUdsSXpuVWc0dFVFSkZQMnNLbmN5Zkh2bG9sZmZlemI4U253N2lpMTVxekU5U2lpMVU3aDd3YWVCbHBGNg?oc=5",
+   "source": "India Today",
+   "published": "2026-09-10T06:55:03+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "BITS Pilani",
+   "amount": "$1 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 million"
+   ],
+   "alerted": false
   },
   {
    "id": "1d8e8d3b3f31",
@@ -7092,25 +7110,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "64c4d4ba4525",
-   "title": "D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio",
-   "url": "https://inc42.com/buzz/d2c-smart-crib-brand-cradlewise-raises-12-mn-to-expand-product-portfolio/",
-   "source": "Inc42",
-   "published": "2026-09-03T07:50:02+00:00",
-   "score": 95,
-   "category": "funding",
-   "company": "Smart Crib Brand Cradlewise",
-   "amount": "$12 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$12 Mn",
-    "Series A"
    ],
    "alerted": true
   }

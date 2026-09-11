@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-11T11:01:47.532990+00:00",
+ "generated_at": "2026-09-11T11:18:56.322580+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 57,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f6c99eb02079",
+   "title": "How Anthropic disrupted bioweapons research efforts, Russian hacking, Chinese Claude misuse",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-anthropic-disrupted-bioweapons-research-efforts-russian-hacking-chinese-claude-misuse/articleshow/134062019.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T11:03:05+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "How Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "eff0a4437555",
+   "title": "Privacy without data utility is pointless, says Navi\u2019s Sachin Bansal at GFF 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTBrZlAxajdlM3hRUENTVEk2ZE8xblF5SVNsQW05eHVTR2o1V3RRMXVPTk9hM3FmQnpNaGRJU2MtRENtTVpsZk1WOGVjQW1OcWVKNVRnVXhGWlJWbFh3ZGpJenhTWUhIaDM4TTZJY25iNFl4Yklwako2VDAyNjU2WjNBLXFOdEtBQ0t3?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T10:54:18+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Privacy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "651c45853714",
+   "title": "Nitin Gadkari skips AI agentic payments at GFF 2026",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXR3eXNHSEdKdkFQdk4wRmUxdjFjWVp1M3IwankxVGUtTTNwZTlzZ3dHYUZrc0xqYy1Jc09VUVNIUDZydXR4djdRVGxXLXNNRHJrRGI3bGIyNzdyM1c1LTYyU3hWVngyYk1YYXlFY3Z1eXRNamxzdWxUbmxKWmpoRUR3?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T10:54:13+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Nitin Gadkari",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "2cd5e85758de",
    "title": "India takes 37 deep-tech startups to Brics investors at innovation expo",
@@ -804,42 +855,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1c39a1747630",
-   "title": "Sparrow Capital finds a higher perch in seed investing",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVZyQ3ZNZy1Ba0pULVZfeVhhQlJ4dWtnTEhCUHJ4bDQxelVJMXRHTmxVZGJlRXNJRURFUVZXSURHMEFnTkZZeWhFaExuSWxxOEVaQlZMalNwVVd0MVVYa05LTUNheHpVME1zSkM2YVN1STVscVZsRzZFRm8zczBGNDZ6Ti03WnRua3NHSVBn?oc=5",
-   "source": "The Arc Web",
-   "published": "2026-09-11T06:15:19+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Sparrow Capital",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Seed"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aeb0031bd2e3",
-   "title": "Nishant Pitti pledges Rs 212 Cr EaseMyTrip shares with Motilal Oswal for personal use",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1VtIBvAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1Vg?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-11T06:10:05+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Nishant Pitti",
-   "amount": "Rs212 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs212 Cr"
    ],
    "alerted": false
   },
@@ -7072,23 +7087,6 @@
    "score": 63,
    "category": "launch",
    "company": "The World Is Carried Within",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c7e73ad57116",
-   "title": "Govt launches BIO-NIVESH to drive private capital into biotech startups",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2RTSk1JeFJFQUdNMnFRYnRDNFZ4WVBTX21BNTltaFFfVzRUZzRibWR3OHRxMWNTM054UmxuSnB1bTQyUk5ndVBVOFpaYXgwX1ppb3pjTGhuX0gyTHJ1dkZ5QTZheUl1UDdwTlozOHY1akU4aVRpbTNoNG9pSWpsQnQtS1NVV3p2UXFPRGNNT3FCQ1RRVGFWZzR2MWFVQmFfdGttZWI0RFFZeGRTZXNmY0YzMnh6RkZs0gG_AUFVX3lxTFBVR3JBRTBFd2ZuY0Fnd1poUTNNVkpBRnR4NE8wOFZuOXI1VGk1TXNGYk84bnJCY2tuVVFWN1lyOHNKc0lLMW9DdHlld3FRNzN4SDd2NkVqVS1iN2tac25UV1FhdEFXLVBFaUpwcFY1S01vQ05FbXBnb2Qzb0Z1MFdZYkJlVFFZUE1vaHcxWjFaQ3lrM2hxODd3TU40YXdFemtLSEZ2QVJ6THY5eV9SS05fS2lKTUt4TTZha1hhTWU4?oc=5",
-   "source": "Indian Pharma Post",
-   "published": "2026-09-04T11:15:57+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Govt",
    "amount": "",
    "stage": "",
    "founders": [],

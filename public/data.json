@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-11T14:46:57.858190+00:00",
+ "generated_at": "2026-09-11T14:56:44.719802+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 49,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "5369c72a6a28",
+   "title": "Coforge says independent director resigns over internal tensions",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/coforge-says-independent-director-resigns-over-internal-tensions/articleshow/134073924.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T14:42:24+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Coforge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "85fd72afff69",
    "title": "Campari Group launches Espol\u00f2n Tequila in India",
@@ -7079,24 +7097,6 @@
    "reasons": [
     "funding in headline",
     "\u20b9145 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fc3c57251683",
-   "title": "Medulance raises $2.5M to expand India's ambulance network",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjNlMHB0UkpNMTNYa2JRZWpvcE9hYVJEWC1tSGh0RmpWTlB0TzZ0QUVBM1YtNVU1Wk1LR0lBdnZHVWlHUTFkZGJkc2Rmbk9iSE1TbkpWRDVIeTZLc3BRejJqUmExemJFTDNVb0JnM2ZBZHFTa3RyQVAxYTVnTmkzVEhhaDZYdXJPVEZTbllWWjNqRlZuTVE?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-04T14:56:37+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Medulance",
-   "amount": "$2.5 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 M"
    ],
    "alerted": true
   }

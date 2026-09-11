@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-11T16:02:03.720125+00:00",
+ "generated_at": "2026-09-11T16:20:25.880197+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 32,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ce03f02b0425",
+   "title": "GFF 2026: Here Are The New Launches Announced On Day 3",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkNXTmlpeHFYOW80cXQ0VndrMlRJUXk2MVZ4UV9COVZqUTEzN1BHRG9Wa29QS21GX3dfSE1rYzRFbHJaV2pOS1R6VF9iNnpHR1FqdFhaVm5OYmdMV2hvQ0tEUTBtY1dHeEhkLUVUUEdYRlFEeXRPcEVPdzgxbGN1dXA5OA?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T16:05:03+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "GFF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "76e46bf666c6",
    "title": "Drydocks World and Cochin Shipyard form JV to strengthen India\u2019s ship repair industry",
@@ -7084,24 +7101,6 @@
    "reasons": [
     "funding in headline",
     "Rs755 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f057210411ac",
-   "title": "SUGAR Cosmetics Raises \u20b9145 Cr From A91 At A Near 80% Valuation Cut",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk1CS0pxOUx0czkwSFRXOHBMMVBkdUthNk9WWmxnWmpfZUZoc2s0QlBLOVhGcHptU3pGcFp3NFdUcFA2Qk1Fd1pqTXNZZUhyNXZCdmhRQ1J3RDYwUzBGbFJBakNBbGd5TUgwNThObHdKZVc0ODlSREE2OFVXcWI2UjQ1ekljb1BZSmhEdHF3RDl0aDBicTd2QkJlMW1lVm8?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T16:10:11+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "SUGAR Cosmetics",
-   "amount": "\u20b9145 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9145 Cr"
    ],
    "alerted": true
   }

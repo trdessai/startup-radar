@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-11T07:20:05.074774+00:00",
+ "generated_at": "2026-09-11T07:32:27.088321+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 6,
-  "alerted": 0
+  "fetched": 57,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "ef19f7ddf216",
+   "title": "The Face Shop Refreshes Iconic Rice Water Bright Foaming Cleanser with New Look",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGdibDg4dHQ1QUsyZ1JRWXZDOVB2MGRhUHlwVTNLQV9vcmZRYU01bjJLMlVzWW5qNXB0VnRKdE05a0RtQVZaUFVYalFkQkM2UUd3dkpyQ2F0M0FVdlZhSWtWcWlxTHpYWDc3ZzhlQ19IZWFJVTF2ZndhTmJwT1QtT25EOWp3VDlJLTVyRFY1YllIZnJGSzRzOUQ0OXFsdDR0dWRRRkVxWkdMQQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-11T07:22:30+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "The Face Shop Refreshes Iconic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8d4cdb6e86d1",
+   "title": "Brand Announcements, Launches and Releases | Second Week of September",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTlmMXlHTzJwdDl0aFp6aXEySXVxck9DaFRZOEJ6czdNWS00alVDUUIyeElFRzZVRmR2M2VIRUtJNWZsdVZKUnJzUGg4TVI0MW9kNHJ5VXJtcEd0dEtNSmtnZnI4QUNZMjRRTmk5TzBxNkR3dlhkZm9HSmw3U3JPNWZQYm5SbE9iRGJTYkl6VERuQWc3b2E2TkJhVdIBmwFBVV95cUxPbTlmMXlHTzJwdDl0aFp6aXEySXVxck9DaFRZOEJ6czdNWS00alVDUUIyeElFRzZVRmR2M2VIRUtJNWZsdVZKUnJzUGg4TVI0MW9kNHJ5VXJtcEd0dEtNSmtnZnI4QUNZMjRRTmk5TzBxNkR3dlhkZm9HSmw3U3JPNWZQYm5SbE9iRGJTYkl6VERuQWc3b2E2TkJhVQ?oc=5",
+   "source": "Local Samosa",
+   "published": "2026-09-11T07:20:49+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Brand Announcements",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "3ed8b5b0a8aa",
    "title": "Shocker: China Used AI To Create War Weapons?",
@@ -22,6 +56,23 @@
    "reasons": [
     "no clear event",
     "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8b1850a7fdf2",
+   "title": "Shoma Chaudhury on why technology needs conscience, not just innovation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/shoma-chaudhury-on-why-technology-needs-conscience-not-just-innovation/articleshow/134051852.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T07:10:26+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Shoma Chaudhury",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -265,6 +316,23 @@
    "reasons": [
     "funding in headline",
     "$31.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cae32688280c",
+   "title": "Samara Capital-backed Marengo Asia Hospitals snags funding from PE firm",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmN3RFFzMklxbTlzZUxPNWxseEw4S0VYaWVVSUJmRnhDR29qRzBjZ2VDS2NPV0pxV2tMSGNlWWhxUXVEX2VVZjJoTTBSV3dhLXV0RTJlbndWeGJLSnJPOWdjVW9zU3BiNFNGOWlMN2JaWVc1Z3Q4MzMtZ0dhMmFOTlRqZ0RhM2ROaXQyRm13RmdoX294QUV1WXBWVQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-11T06:02:11+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Samara Capital-backed Marengo Asia Hospitals",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -629,57 +697,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3d805483357c",
-   "title": "EU testing Mythos AI model after Anthropic grants access",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-testing-mythos-ai-model-after-anthropic-grants-access/articleshow/134045147.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T04:21:37+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "EU",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "76c8eeb701e5",
-   "title": "Maj",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10a1F0ampteTlmeHE2eG5ORGVLVDZVcUxyUXFaTVRjd0JWQkotdmhrcmNmRlBhQU5XczZ4THl5Z09ycVNEN1JF?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-11T04:15:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Maj",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c9aa76126a68",
-   "title": "AllSecureX",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUmlvWlhVQnJBeWh1c3EwcUo4NVNtWDhQY3hzVjFOeDVxclhyWnBDMXd2RnRVdVFnYU9PV1ZXUGlNQ21XbXlLUWdjMVJEcnRR?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-11T04:15:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "AllSecureX",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b7d87d5f42d0",
@@ -7072,23 +7089,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f7c95cf2fb18",
-   "title": "Poco X8 Power and Poco X8 launched in India",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWlFTFJ2LW9IcUhyOGxNektTZ1Q0UUhUR3FMWXNpT3JKNXBCM2JVOFg3YVZXQnpwSUpxT09UY05jVUdKZ1pCX0dLRzJ4alZ2bXpJTkVwMk5Nakkxam9INXI0R1lHRGxnYURKd1dIeGxVdTl1ZFhRV0hqQUZsN3ljQllOeV93TFNpRVBSM2JFbEs5U0lCUDg4VzNsbHlZRG1EaTkwNU5YOFpLMG1jbmpYamJBazBFT3PSAb4BQVVfeXFMTVRqekt5UGs4ZGdVRXpNcnNjUC1RSXBCcWZPQWxuV2dGVVFFTnpULXlTOGctWEJwb2lSeUtjaUV4RkI3dHBOeXpyY09HaDVCQ0NpM0s5N0ZrYTlUaFU3SmZXRkdkMENKbklyeWc2bDUwRC1DcTRFRDlzWXVYUm1jZVRjdkY2VDQ3bnlmdDFOU1BzeEtXZ2NTVFh3YjVHUDVhMGxIQ0d0QmZVMmVyVFlVYzRqZkg2RGY3d2otYjUwZw?oc=5",
-   "source": "The Hindu",
-   "published": "2026-09-04T07:27:33+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Poco X8 Power",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

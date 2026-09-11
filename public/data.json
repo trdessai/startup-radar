@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-11T15:45:26.523933+00:00",
+ "generated_at": "2026-09-11T15:53:59.900466+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 42,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 41,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "76e46bf666c6",
+   "title": "Drydocks World and Cochin Shipyard form JV to strengthen India\u2019s ship repair industry",
+   "url": "https://www.livemint.com/companies/news/drydocks-world-and-cochin-shipyard-form-jv-to-strengthen-india-s-ship-repair-industry-11789138036768.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-11T15:49:43+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Drydocks World",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "46ddf8c163d5",
+   "title": "AI-Native CRM Lightfield Raises $47M Series A",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSGlYbUQyYkpMUnd1VzdFaXQzTHhNeERGcjlfdDd4aUlBcXhVQXNRV000elVYSVFzTzA3NGZvT095cDhhRFhXREtCWUlielZjYVlN?oc=5",
+   "source": "Wowtale",
+   "published": "2026-09-11T15:43:34+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "AI-Native CRM Lightfield",
+   "amount": "$47 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$47 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "15771598760b",
    "title": "ETtech Deals Digest: Pixxel, Nua lift weekly tech funding to $312 million, up 13% on-year",
@@ -383,6 +419,41 @@
    "alerted": false
   },
   {
+   "id": "07a40c727593",
+   "title": "ONGC Backs Rs 20 Billion Energy Startups Fund",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ1B4aGM3ckJual84MmJmTS1aMy1MdlREVDVob1VMVEtZaUpYOHQyTkdCUFhvR1hxREUxLThEbXRRTjdkMnZheFQtbnJldVJqMTZuRXhOeEJobDBjMm9PT2h2YTBRNzJoamRjdnpPSjJJZUJPS3Jqd3JiQ0dmOC1sWHlWSzR6N0pRbi1IbFVsWFg1Rm1qT1liejNCUTRDaDJCYmhvQ3VLT25XQmhSN0FVdnJEMVpBdG5qWC04aFZtY0d2dEZQaXk1bEVsQTBOQQ?oc=5",
+   "source": "Construction World",
+   "published": "2026-09-11T12:29:59+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "ONGC Backs Rs",
+   "amount": "Rs20 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs20 Billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4801481fc335",
+   "title": "India Needs Energy Innovation To Cut Oil Import Dependence",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXd2dG92NlZJZHQ4VE01djd5cDAtR1l0UFdSQWxVLU93THM3Y3ZVZXR6aWp2VFlFZUQweGZoejVNazkycmV6N1JwNVp6ZUtLczdfamlQZWRmamVLYWdKTzJyTE8xazBBNjFvSGFMV093dWZMYWczYzkxTDBYdFdPWGtvWlN5ZEUyajZFcXIzbWlKVWlEei1vYWk0TnFtV0N5REdGT0RJVjdHTVJOVG01dDJiT3V0dEdZak1jZGxiSWQ2Um04Yl9qX1JZQQ?oc=5",
+   "source": "Construction World",
+   "published": "2026-09-11T12:29:59+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Needs Energy Innovation To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "328469d3f1f0",
    "title": "Vijay Deverakonda Enters Skincare Market as Co-Founder of Unhype",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFRJYmxwTVRnek8yS1haYW1rY3BGekRrQzJUYTl6UmlmLWVCNnVINE1wWlhqeThVQlphUDRDajYzaGNNZlNmbzZnQ1VNS3BxdDg0WVNYRnpzTFQxYW5BWWlFMTYzc2lrZF9JZkcyTzhhZ1BPSU5pZVRTSUVqRFMyLWs5azExaThDMVRUYzJleHZJNnZmcWotcWNWOTgzakI1d3pOVS16UGhnVzlTSUpTRHN5c0daM200?oc=5",
@@ -657,24 +728,6 @@
    "alerted": false
   },
   {
-   "id": "db97e6666452",
-   "title": "NPCI\u2019s FY26 profit falls 32%; revenue rises 22% to Rs 4,240 Cr",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWklldnp5Q3R3cVJIc2NJcExEeVVja2hRbFRQQW8wRXpHY2pRei1qU2lFMTBYdGhUalVZSmQ5c0drVTZvZVY5ZE5RSXdacldWQnVyc3E0ZjEyb1VJTWVkV3JSaERtdkJqQ3hMNW11c19EZGh1eDZUNUtTMEtRRGxjWDctMlBwVGJYeXU1UTNUOUFjbktELVczMjJ5ZEd1UdIBngFBVV95cUxOWklldnp5Q3R3cVJIc2NJcExEeVVja2hRbFRQQW8wRXpHY2pRei1qU2lFMTBYdGhUalVZSmQ5c0drVTZvZVY5ZE5RSXdacldWQnVyc3E0ZjEyb1VJTWVkV3JSaERtdkJqQ3hMNW11c19EZGh1eDZUNUtTMEtRRGxjWDctMlBwVGJYeXU1UTNUOUFjbktELVczMjJ5ZEd1UQ?oc=5",
-   "source": "entrackr.com",
-   "published": "2026-09-11T11:18:44+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "NPCI\u2019s FY26",
-   "amount": "Rs4,240 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs4,240 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f6c99eb02079",
    "title": "How Anthropic disrupted bioweapons research efforts, Russian hacking, Chinese Claude misuse",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-anthropic-disrupted-bioweapons-research-efforts-russian-hacking-chinese-claude-misuse/articleshow/134062019.cms",
@@ -690,57 +743,6 @@
     "funding"
    ],
    "alerted": true
-  },
-  {
-   "id": "f66622641377",
-   "title": "The Kaftan Company Marks 10 Years With Global Expansion",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVFBOMEFUQ2Z0b1FQQkVqOHBKeHN5TWNsWEVtcEkzT1dHc0hHQktwM2xjcVpBUl8yWWg0d01qaHdEd0FxOElTRWJFcmZfZjVuSWpfeV9iRnlHTmp0VGlFek5TVHg5SlBucXJpcS1HRS0yeVVDS3NjVG92dVd0aWd4SnExa3d2N2VzTW50S2NHRXdEX1Z3MjdRRnlraUlTdXB1QS1IQ25xNzBfZGFuNkVnYnk2YnJpQjdYVUNLVTlxV1hub3REdF82TzNtcFJ1Rm9Xb01Hd0FOSlBqN0RSZWZfVTBhMHo1SlNlNmlF?oc=5",
-   "source": "Passionate In Marketing",
-   "published": "2026-09-11T11:00:36+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "The Kaftan Company Marks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5894bb66e596",
-   "title": "Avenue Capital-backed Asset Reconstruction Company's IPO oversubscribed",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBDUWxIM0xQSUxpb3hrVnVuRHZfV2ZicDY2b3BmUGcyM05UT0ZVSXJKT2VBZjdYWDNhLWtmR1JYcDZESjdNSHAySU5mRjJZWnFxbFRKSlNFUm1XQ2g3Zy1rQU14QWxrcDZNQmpoMmt6V3VoSnp3QnNRVmpIdzNGLTNxV0syOEwwVnRSeGFsNS1jQkszYWNIcEFXRQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-11T10:56:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Avenue Capital-backed Asset Reconstruction Company's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eff0a4437555",
-   "title": "Privacy without data utility is pointless, says Navi\u2019s Sachin Bansal at GFF 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTBrZlAxajdlM3hRUENTVEk2ZE8xblF5SVNsQW05eHVTR2o1V3RRMXVPTk9hM3FmQnpNaGRJU2MtRENtTVpsZk1WOGVjQW1OcWVKNVRnVXhGWlJWbFh3ZGpJenhTWUhIaDM4TTZJY25iNFl4Yklwako2VDAyNjU2WjNBLXFOdEtBQ0t3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-11T10:54:18+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Privacy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3ce6a03661ae",

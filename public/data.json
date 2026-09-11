@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-11T08:02:01.721248+00:00",
+ "generated_at": "2026-09-11T08:20:52.845302+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 66,
-  "fresh": 7,
-  "alerted": 4
+  "fetched": 64,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "813cdfbc4cf9",
+   "title": "Paris Panini Parent Popo Global Raises \u20b9532 Cr From Artal Asia",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeldBakZyaGlVZ3k2VUhJMzVlQVQxNlpTQjJiTVJWaVRwN3ZCQ3FJRzFCOGxkYUFkZ1ZmLXR0UUpta1psVlVzN0JnMUMxMkZNOWpPMmtQdFVud180MHZCZFlRSDBGemJha0xYaGhqczItaUVUQUxMaGhQaUgyOXVTb1ZKdXVOSFlXYXJMWGIzMkJCU1QxTFVUazhB?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T08:14:52+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Paris Panini Parent Popo Global",
+   "amount": "\u20b9532 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9532 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "333c24d38fb9",
+   "title": "Google Unveils Five New Sustainability Initiatives in India, Targets Solar, Climate-Smart Agriculture, Clean Energy",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVo5V3NHLTdiTzlJcjBBSXBZNkstNXVXbG9SYW1ieGtOM2VWbHppSlZtUE55R2w3X2lyYXZzcUhIU1NscndVQTZlMTNQV3B3b3ZQTTZaRFJzVEhseWRHMmk5U3M2VDZBcTl6cWIzU3MtZWd0OFNfYm9XSzdxTHpmY1ZLcW8xdXVpczlhRGVybm42dmVHUUhIV3JucGM?oc=5",
+   "source": "APAC Media",
+   "published": "2026-09-11T08:13:13+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e7041a829137",
    "title": "Fashion Quick-Commerce Platform Slikk Launches New Brand Identity and App",
@@ -206,6 +241,23 @@
    "score": 23,
    "category": "other",
    "company": "BWF Vietnam Open",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d9b694a890f7",
+   "title": "Grapevine: IIFL Finance, Fairfax, Varun Beverages, Mesa School, others in news",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGlhNTg2M3d5Wm5UZlJjUlBBVThZVzc1Z0c2VEpwMlhrYlVZUWRCVktKQzhwTm5Pd3BVTHE2aU9mVnpadmRvbDBucXBuVnhEdXNTTnloWTY2TFRtYmpTckx3RUUwUmNaNzkwQjc3b0FHZmRYc0M4WDY2dHVablJrSEFkYzRfUEtjanU0cFlNdE83WEtYQkdodFlmZmlFUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-11T06:47:31+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Grapevine: IIFL Finance Fairfax Varun",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -664,23 +716,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ca0d3ad02453",
-   "title": "Scindia calls for Trust Grid linking telecom, Aadhaar, UPI",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzZLVERleVpWOW5qRWxScVR2Uk4xX2xkeXRjZm51elQxR0xTLUQ0NDVpNVozWk9kS2pCMm1zZjlrM3lQNGdrWWg0TlpXWGF2RDFYZjJfNm84dWRZQWQtcFQ4ZTA5djhjdWd3S1ZlZkdDVFI1U3NkNkUwRmxtSTRoTjdNMA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-11T05:03:02+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Scindia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "7322552cf6f9",
@@ -7057,41 +7092,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d4142fe710c7",
-   "title": "Odisha to Launch Statewide Fire Safety Crackdown from Sept 15 After 800 Violations",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9SQ2hIMkR3Nnh4ajNCY3ZQUmJaTGhJWm5XQWg0TzdJOHc5N0lQUUdwTHpfNUYteVNPVUYzaUM5dm9laU1LQ3JWMDU2cDNsSkhaZzJjejV2VEpfYlZTV0lVZDB3MktqZ0xjVWJ2UEhKSWVTSnNQdXZKbDJCRDBUaXRyaTZvZTJ6S241am9OdDFSQ1o4dHZjazRnWWpkZWNLVHZKTnZTRkJTeDl1WG52dlJZY2thVlZHR1duOVpR?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-09-04T08:20:23+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Odisha",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "23159329413d",
-   "title": "Medulance Raises \u20b924 Cr To Expand Emergency Response Network",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZwX3gwTTB5LVVrQWtrclZHRDdqZnBDMUUwQklpMjRVamdlYWc5Ry0waEJFVkZETVdPNHIxZ0J6VDlZLVhJTVU3aGdtYVpETlh6NVBPUTNBMDhNQlA1WWU2NHBYdkYyX0JHQnN5WmZ5X0VuNlFRRmtwOWNyZkVhVkFyMWpNN1BOcUpuNF8yRWpNUm9xYndN?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T08:16:53+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Medulance",
-   "amount": "\u20b924 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b924 Cr"
    ],
    "alerted": true
   }

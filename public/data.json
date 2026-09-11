@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-11T16:20:25.880197+00:00",
+ "generated_at": "2026-09-11T16:35:57.040847+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
+  "fetched": 30,
   "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "b5c4baf534c9",
+   "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVBqaWpkUXBrSGZzS09lajB4Wlo4VF8ybmxuQ2VuT1k2dVQ5a1RveldHV21EZHNqOWdGSDdGOUxYYVdtTE9yUm8xdmVpcS1fdU5XSkQ1QXo0Q2dnTmtCRTV6bUZSTU05MkgyRkprcy1jM2ZqSWUzTWJFdWRJNEFxQ1hzY2NLNjh5eHc?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T16:27:05+00:00",
+   "score": 63,
+   "category": "expansion",
+   "company": "Mitti Labs",
+   "amount": "1 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "1 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "ce03f02b0425",
    "title": "GFF 2026: Here Are The New Launches Announced On Day 3",
@@ -724,23 +742,6 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3a8a6f8cd7f3",
-   "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
-   "url": "https://economictimes.indiatimes.com/tech/technology/microns-taiwan-workers-to-get-rewards-worth-up-to-68-months-of-pay/articleshow/134063401.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T11:24:48+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Micron's Taiwan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

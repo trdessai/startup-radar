@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-11T13:31:55.291169+00:00",
+ "generated_at": "2026-09-11T13:45:56.036242+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
-  "fresh": 1,
+  "fetched": 54,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "45045b70576f",
+   "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
+   "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
+   "source": "YourStory",
+   "published": "2026-09-11T13:26:10+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Navi",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "The Navi",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "a597c190544d",
    "title": "Cashfree Payments Debuts AI-Powered Checkout Solution at Global Fintech Fest 2026",
@@ -752,23 +774,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "55776d125ff4",
-   "title": "LetterOne ups LP bets on India PE funds, sets up local team for direct deals",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamRrdks5WEJ5VUU1eHhPV0tKT3BsX3B6SE5EejBtcmFuYXRrTVVwRUJlLTlSaHNwOGtFeko3VlVlNTBVcW1iTjdtTWlDV2gzTm54Z3lydXAybGhKREpfSl9YT2g0SHVoQlJCajMwWWZWM1o3RjZIWmlmdXRMVW0xRkFENTFjb0dVUjFwTElmYmpHTmtsTUZkMUxsOHRMcHlk?oc=5",
-   "source": "vccircle.com",
-   "published": "2026-09-11T08:38:25+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "LetterOne",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f5ea3252b2ee",

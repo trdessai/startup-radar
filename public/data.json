@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-11T16:46:05.958997+00:00",
+ "generated_at": "2026-09-11T16:53:24.127036+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 30,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
   {
@@ -34,6 +34,23 @@
    "score": 68,
    "category": "launch",
    "company": "GFF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "20dda3cdbbe0",
+   "title": "ACA Cricket Academy unveils one of India's largest indoor cricket facilities",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRk5Ra1JaamxsdDdYaGFkYnJhQzMyT19kM3hRRGg0YUVVNmQwb0tOalZFTXNfOE9Ob2tvMlhyMW5ET3BoallsTVVGdER6c2h0MmR5a0IyckltRkVkQTRZVGhHTTBSenNZOUtHei1ua0p0UGpFRFZNXzRZMFVBWGlJTzFPRU55QUZxY0lCeVhBZXBLd3VWS1UzQjNZaGpRVEphLUNWd0EtU25DZFdTWERKZk9CdW1SS0xHbjVDdzdCaDhGbngtZ295aEtOWk9YTEpsbUxUU1IxN0ZSWkhuQ29Fb2N1Y9IB6AFBVV95cUxOV3JWTElLZ3JjVC1qcUZqcWlVQ1ZzNDlYWkZiMDR1b3h2eFBVM19jOHE1SFlfQnByUE4zVFc0c3FfaDRKN3RMSmlwM0Utb0w3XzR0S0N5RVcycnZwSzZ3aXpPUzc3al8tVkxYbFIzT3hpQUpLeUpPRlhGVExyYW1CRU4tXzBKakVfVVVMYkJ1Mm03ZnM3U2tsSWt6dnlIQXFEOGJUX0cyN3dIc1BveHUxalBHWFFpSGlmNjc1aXIzZG9zd3dvdWlOQWRiM3llZEtRTVd5WGVlREpyQUlfLTlZWmxLbU0tSlJD?oc=5",
+   "source": "economictimes.com",
+   "published": "2026-09-11T15:55:22+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "ACA Cricket Academy",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -93,6 +110,23 @@
    "reasons": [
     "funding in headline",
     "$312 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c4149f169ca1",
+   "title": "India Startup Funding Momentum Across Space, Consumer, AI and DeepTech",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHhtUkQzLVloRmhoMEpfQU9TVERqWjlyMUVPR2hkWGN0Y1FNQ1g1YzVOSTdSWDItUUhOYVl0eWV5WFFQTU0tcF9rdFNmcFpnaXE5a3lib0FSajBQc2RSd2dkY2xPdHRVeEtMMk1MQ2RyX2NqMjlkTXpSZzZrLW5UVHZtaFpJd0VqSTJ1bXROSm1jbW0wUXVLbmxuNy1CV09NLWw1d3JTbTN2bmJDMGw0a1I3TE05eTFhRzBXeFRHQktBaFNOR09NRXNXb1BYQkVaZXRSdmN3?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-09-11T15:07:04+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "India Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
    ],
    "alerted": true
   },
@@ -727,23 +761,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "9eeeef616c2b",
-   "title": "ANTA Enters India with First Exclusive Store in Gurugram",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXMxMWxfRE1sNnY3ODNLMTRtS2RKeTR4RDVWVk85YUxudmpqeVowOU8zVldEMW9jbllNZUc2Mnk3dXgzVTlEU0ppc2ZSMHhkUlVEeEg0LW9XOWlhNnRmUVhGSDJ3MmV4Nm9RSkJLRVFmWEZnSUQyX1V1V2pCUGVWVC0tMmRrM09PNWk4MQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-11T11:24:57+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "ANTA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "f6c99eb02079",

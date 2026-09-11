@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-11T19:34:48.379590+00:00",
+ "generated_at": "2026-09-11T19:43:04.734903+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 0,
+  "fetched": 28,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -89,6 +89,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf9695b8be44",
+   "title": "eCourierz Financials 2026 \u2013 Revenue, P&L & Cash Flow",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRWhqaFNYWi1TWXBQd1VSLUVFVUdmVkUwMVhOaUFOTWNvMFdLRkJMT1ZJQ3cyNGFRQ3J2ajhZbkFfenI5YmpySWw3OWVuOUp0ZWFWOGVOQVZaWk10OXN4UmJKTWpiUDNDbDZ6MG1tY0toZmlKa01RRWw4bjdzMkp6R0xRU2dFNjk3aExxSlJjUmg3SDYwWVo2VFFqaHFaMXBCUnNhSFQ2TW42cFI1MkRtTzRScDlGaFNJZzg3b2hQX2lnOVlXd1Q4cXFfNVctQUV2cHU0OWlhRUlFaDdGVHhXMF9B?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T16:44:39+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -744,23 +762,6 @@
     "$5 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "287589d4ba5e",
-   "title": "Fintech Stocks Rally On Report Of 40 Basis Point MDR On UPI, Paytm Touches 52-Week High",
-   "url": "https://inc42.com/buzz/fintech-stocks-rally-on-report-of-40-basis-point-mdr-on-upi-paytm-touches-52-week-high/",
-   "source": "Inc42",
-   "published": "2026-09-11T11:51:52+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Stocks Rally On Report Of",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "2d450aa3b180",

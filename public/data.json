@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-11T20:19:13.912525+00:00",
+ "generated_at": "2026-09-11T20:30:27.101209+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
+  "fetched": 20,
   "fresh": 1,
   "alerted": 0
  },
@@ -145,6 +145,23 @@
      "handle": null
     }
    ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d578b18bbfc7",
+   "title": "GOOD BUSINESS LAB Key People 2026 \u2013 Founders, CEO & CXOs",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMMlBuUlZaZ1RyS0lGb24yTVB3OTZfQ0Q0cEM2Q2s3VFg4ZndWUUluaGtSSHZULXVDRHpXeDg3NFhSNmpHbG02VkhDYkhCZ1R3bVd4Y3A4RGZCS0VFSnNlZEVR?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T16:34:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "GOOD BUSINESS LAB Key People",
+   "amount": "",
+   "stage": "",
+   "founders": [],
    "reasons": [
     "no clear event"
    ],
@@ -680,23 +697,6 @@
    "reasons": [
     "no clear event",
     "Rs20 Billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4801481fc335",
-   "title": "India Needs Energy Innovation To Cut Oil Import Dependence",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXd2dG92NlZJZHQ4VE01djd5cDAtR1l0UFdSQWxVLU93THM3Y3ZVZXR6aWp2VFlFZUQweGZoejVNazkycmV6N1JwNVp6ZUtLczdfamlQZWRmamVLYWdKTzJyTE8xazBBNjFvSGFMV093dWZMYWczYzkxTDBYdFdPWGtvWlN5ZEUyajZFcXIzbWlKVWlEei1vYWk0TnFtV0N5REdGT0RJVjdHTVJOVG01dDJiT3V0dEdZak1jZGxiSWQ2Um04Yl9qX1JZQQ?oc=5",
-   "source": "Construction World",
-   "published": "2026-09-11T12:29:59+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India Needs Energy Innovation To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

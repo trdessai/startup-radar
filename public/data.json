@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-11T08:56:49.384354+00:00",
+ "generated_at": "2026-09-11T09:04:51.664029+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
+  "fetched": 60,
   "fresh": 3,
-  "alerted": 0
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "148d62f2524c",
+   "title": "BRICS Bharat Innovates Exposition 2026: Education Ministry To Showcase India\u2019s Deep-Tech, Research & Startup",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVXZkQURZWUF5dHc1YjlKVTFONl9jUTBVSWdVMGMxWWtfdFJOYTBiYjh5WjJhQVJmYXVmSThFRWVrRGw5YlFaN1psNUZjOV8tV2dfZmdMejlQb3o2MkpHRjc5RUZnNW5YeVhjLUFfYkVLRjl3Z0l6UWMyQmtJZGtPdnBia0luUXk2UkVqUzBQWkNVdTN0aTZYQ2RUNG1GY2lZS1dOYUtVYWxjZzV3SElic0txeldLVjBYemtxdjN0THJGZG1UN2M3bWttbG8tNGFUSnNPRXVFZ3kya0h0aEFSQ2psaC1TdXB6ZXpz0gHwAUFVX3lxTE5DbUdmZFJiQlh2bU5TS2ptOUhNVXhmaDhWcTZpcVNGWVRnX1VVNWstQjBhcmxUZG5JMDRQVHJ4Qm5ZMmpUYW56dmdfNDdXa0xOdWtHRDJER3phcUl4dXdRNWJhUDdwLXI4Qlc0ejFEc2FQZy1yNzZkNFpOeVJkSzJEZTVVWTgyNVl3Q0p4Vjkxa0pLb2R6NUc4QjVnUk4zS3p5UV9MaHZYb2NGMjBOQk1OV055NEJhRUpLb0dZTXh2Rko5REZpZ1ZyNjNxdlV4cHJ1M2ZMZ3ZMNGU4eEpudTg4ZVJLS1lkTV85TmNmbUwyMg?oc=5",
+   "source": "Free Press Journal",
+   "published": "2026-09-11T08:49:49+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "BRICS Bharat Innovates Exposition",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "af8edeea7caf",
    "title": "Exclusive: Ultraviolette To Raise \u20b9373 Cr As Manufacturing Facility BIGGA Takes Shape",
@@ -196,6 +213,43 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "13ae8398bc40",
+   "title": "India's state energy giants launch $210M startups fund",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1phUW1RS3ZzSnQwV09STk9rS1dvc3NXNDZtek1MaHN6QXo1M09pRm1CTjFraWo5ZC1KZ09sWnRqd1NJSkZDOEpacUwtZ1ltckJYNnlYeG1Qbm1JMWtBWmtzTXY2YjhYUzQwbTBLMVZGd1lkWmJOcDF2S2lRSklvVXViZmkwM2tHRUJUc2t2X2I?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-11T07:33:04+00:00",
+   "score": 69,
+   "category": "launch",
+   "company": "",
+   "amount": "$210 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$210 M",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f8a8c6e8bbf7",
+   "title": "Rebaba Secures $4.6 Million for Second-Life Battery Storage",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0M1bnVPUGtmbFNReGY1ZGlzb3JPZlZ3aks0dTZVZjh2M1hPOEhWaXBiWF9aYXBiZWg2dFM1X3BxMC1qTlpLRXEtc3ZSTUZYcjFHQ2x6ZUhzRWZjdW9hZFVGRC1HT1d3NWhtUVFtVXBOVE1halc3b29WUzd6Z3NNbFlyalRDRmFGTkxxTQ?oc=5",
+   "source": "mvapulse.com",
+   "published": "2026-09-11T07:30:28+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Rebaba",
+   "amount": "$4.6 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.6 Million"
    ],
    "alerted": true
   },
@@ -676,41 +730,6 @@
    "score": 23,
    "category": "other",
    "company": "Zomato Swiggy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6f080b8b86da",
-   "title": "11th September 2026",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjdHWDg1RGF1eUNWRUJvdkl0ZzNmbFFMZ0I2WlY3aUxuclhIWjhzZ0dDYlRrUktrcG5XSk9HV0RfQ0dBNFRKS2o3VVFvaDVGdExWRHVhZ3lLTm5ORkV4Vld5emFRTXJkcHIxbWcxd0VEWUFTaHVUQWNzaWQwUV9WYXB5V29QMzNjWm9DT0hLV29uS0NKTWZBdA?oc=5",
-   "source": "IndiaIPO",
-   "published": "2026-09-11T05:28:09+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "455a6a87cd7f",
-   "title": "Open Challenge Program 3.0 Electropreneur Park Delhi (India)",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWlOS3pFS09aM25kdlIyTEllRVBGejhVMEZVZWlCZVRCR19UWVg1T2J2VzhuR3NSeFBYUVhXQzBIeG5HRUNDdzBWeDdfRjJiVC1DMkdOY1gtcDcwZ3U5aV8tMFo2bjNqMjRielJOcW05UGZRUDFIOFZlMkhyTnQ0eWVudUxNRE55cXY5SXV5NDhTZGJTRmJjUGZDUEZnOF82ajBF0gGoAUFVX3lxTE1udW5qYk1VdDk1QkVremZ0eGtORHFkYlNrLXRMcDFpOVhKR0dVZ2ZKc0ZNYjV6RFpKOHBiblBXU0YwVkctU1BnVGtJbUdMdlVEQnU1SmJGZk5fMzRmTW12R2ZJTnVUVHFITWZyMWVuNXVmZjR5MHFqNEJZRXh1R0lWM3JzSGxoVVlmdEJIU1NmMkplWnlQVGpKWVdCY1ZWaVZoU2pjdWdTRA?oc=5",
-   "source": "fundsforNGOs",
-   "published": "2026-09-11T05:25:38+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Open Challenge Program",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7077,23 +7096,6 @@
    "founders": [],
    "reasons": [
     "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "53786ea96812",
-   "title": "OpenAI unveils GPT\u20116 Astra, its most advanced AI model",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkNBQTBHTVA2V1VhTE5hNklXSEFaaFVIelpiTVBqbUMzZ01abGluRGRGQWpwUDk2UVVvSFFvM0Q3Z3NGMHZWSmJfZUt0NGo5dE5ydVd4WW9mbEh6YndOOVVwazJQcG16MUhfbWg0c0txbHZ3SnA4Z0FMeGZQNUZVSFdOZG5ocEcwSTdqcGMxWVByMVRVWjJJ?oc=5",
-   "source": "varindia.com",
-   "published": "2026-09-04T08:59:19+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-11T11:29:54.095079+00:00",
+ "generated_at": "2026-09-11T11:39:46.855697+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 2,
+  "fetched": 58,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7058,41 +7058,6 @@
    "reasons": [
     "funding in headline",
     "$29.6 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ce28291cac65",
-   "title": "[Update] ESDS Shares End Market Debut 112% Above Issue Price On NSE",
-   "url": "https://inc42.com/buzz/esds-software-makes-stellar-debut-lists-at-76-premium-on-nse/",
-   "source": "Inc42",
-   "published": "2026-09-04T11:36:12+00:00",
-   "score": 62,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "eb346df2756f",
-   "title": "When Architecture Becomes Furniture: Yuvraj Vohra Launches Villaro Design Studio in MG Road, Delhi",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMF9ibXo5MXhPa0JLWTFhcml1OGtNSDZIVGF6cHN6dkM4bUN4V1pGMVJSU0xmQTd2U3VPRzZ5elJlclpTQXk1ZlpwN1FLOVluYnFhRFBsSHZTVjNGZm1QeHAwUXlVeUlwczBhb3lkcmhGbnNKWDFhSWhLT3BFNFE3Nk91cTlBbWxURHN1LUEwSVRhMmxXWEdILUozUmtVakVWaW9QWG5HVWNmVjZCUmpWeWc5TVpLMTNCaWtiWTA3RDdCejMtUUluMmQ1YW5yV3Uwa09PZjFn?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-09-04T11:31:41+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "When Architecture Becomes Furniture: Yuvraj",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

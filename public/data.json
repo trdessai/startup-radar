@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-11T04:20:50.376549+00:00",
+ "generated_at": "2026-09-11T04:35:57.619553+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 20,
-  "fresh": 6,
-  "alerted": 0
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "741b9a9ff617",
+   "title": "Bengaluru's Pizza Bakery owner Popo Global raises \u20b9532 cr from Artal Asia",
+   "url": "https://www.livemint.com/companies/news/bengaluru-restaurant-popo-global-artal-asia-pizza-bakery-paris-panini-smash-guys-11789097523723.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-11T04:30:33+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Bengaluru's Pizza Bakery",
+   "amount": "\u20b9532 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9532 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b0151dde6985",
+   "title": "Decathlon widens India playfield, eyes B2B growth from govt, schools, small cities",
+   "url": "https://www.livemint.com/companies/news/decathlon-india-playfield-b2b-wholesale-growth-govt-schools-small-cities-11789032830241.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-11T04:30:19+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Decathlon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "76c8eeb701e5",
    "title": "Maj",
@@ -576,23 +611,6 @@
     "300 M"
    ],
    "alerted": true
-  },
-  {
-   "id": "9156261e75d5",
-   "title": "Deregulation - MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DcnBGSHpWZC00bUZ5b1U0d0NSRmJTZ1N5SWlQQnNhdFRpMU5MbWhDY1NzMFFndXRVOHl6MUJyTDZVZUVXRENJc3BNR1dmTFpXQ2RtNkZn?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-10T15:58:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Deregulation",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "3e5832ba9c64",
@@ -7073,24 +7091,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a27c3a17b490",
-   "title": "Ultrahuman bags $70M from Qualcomm Ventures, Alpha Wave, and others",
-   "url": "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others",
-   "source": "YourStory",
-   "published": "2026-09-04T04:34:48+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Ultrahuman",
-   "amount": "$70 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$70 M"
    ],
    "alerted": true
   }

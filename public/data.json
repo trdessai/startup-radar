@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-11T12:24:54.987066+00:00",
+ "generated_at": "2026-09-11T12:39:40.354004+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 7,
-  "alerted": 4
+  "fetched": 68,
+  "fresh": 3,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "8b001bf68ccd",
+   "title": "Fidelity, GIC, BlackRock among global funds eyeing NSE\u2019s anchor allocation",
+   "url": "https://www.livemint.com/companies/news/fidelity-prudential-and-gic-likely-to-participate-in-6-800-crore-nse-ipo-anchor-book-11789123294707.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-11T12:31:27+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Fidelity GIC BlackRock",
+   "amount": "\u20b96,800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b96,800 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "03c7d58ed215",
    "title": "Allied Blenders Launches 'The Indian Edit' Premium Whisky Priced At \u20b91,550",
@@ -264,6 +283,40 @@
     "funding"
    ],
    "alerted": true
+  },
+  {
+   "id": "f66622641377",
+   "title": "The Kaftan Company Marks 10 Years With Global Expansion",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVFBOMEFUQ2Z0b1FQQkVqOHBKeHN5TWNsWEVtcEkzT1dHc0hHQktwM2xjcVpBUl8yWWg0d01qaHdEd0FxOElTRWJFcmZfZjVuSWpfeV9iRnlHTmp0VGlFek5TVHg5SlBucXJpcS1HRS0yeVVDS3NjVG92dVd0aWd4SnExa3d2N2VzTW50S2NHRXdEX1Z3MjdRRnlraUlTdXB1QS1IQ25xNzBfZGFuNkVnYnk2YnJpQjdYVUNLVTlxV1hub3REdF82TzNtcFJ1Rm9Xb01Hd0FOSlBqN0RSZWZfVTBhMHo1SlNlNmlF?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-09-11T11:00:36+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "The Kaftan Company Marks",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5894bb66e596",
+   "title": "Avenue Capital-backed Asset Reconstruction Company's IPO oversubscribed",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBDUWxIM0xQSUxpb3hrVnVuRHZfV2ZicDY2b3BmUGcyM05UT0ZVSXJKT2VBZjdYWDNhLWtmR1JYcDZESjdNSHAySU5mRjJZWnFxbFRKSlNFUm1XQ2g3Zy1rQU14QWxrcDZNQmpoMmt6V3VoSnp3QnNRVmpIdzNGLTNxV0syOEwwVnRSeGFsNS1jQkszYWNIcEFXRQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-11T10:56:12+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Avenue Capital-backed Asset Reconstruction Company's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "eff0a4437555",
@@ -841,23 +894,6 @@
    "alerted": true
   },
   {
-   "id": "ef19f7ddf216",
-   "title": "The Face Shop Refreshes Iconic Rice Water Bright Foaming Cleanser with New Look",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGdibDg4dHQ1QUsyZ1JRWXZDOVB2MGRhUHlwVTNLQV9vcmZRYU01bjJLMlVzWW5qNXB0VnRKdE05a0RtQVZaUFVYalFkQkM2UUd3dkpyQ2F0M0FVdlZhSWtWcWlxTHpYWDc3ZzhlQ19IZWFJVTF2ZndhTmJwT1QtT25EOWp3VDlJLTVyRFY1YllIZnJGSzRzOUQ0OXFsdDR0dWRRRkVxWkdMQQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-11T07:22:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "The Face Shop Refreshes Iconic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8d4cdb6e86d1",
    "title": "Brand Announcements, Launches and Releases | Second Week of September",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTlmMXlHTzJwdDl0aFp6aXEySXVxck9DaFRZOEJ6czdNWS00alVDUUIyeElFRzZVRmR2M2VIRUtJNWZsdVZKUnJzUGg4TVI0MW9kNHJ5VXJtcEd0dEtNSmtnZnI4QUNZMjRRTmk5TzBxNkR3dlhkZm9HSmw3U3JPNWZQYm5SbE9iRGJTYkl6VERuQWc3b2E2TkJhVdIBmwFBVV95cUxPbTlmMXlHTzJwdDl0aFp6aXEySXVxck9DaFRZOEJ6czdNWS00alVDUUIyeElFRzZVRmR2M2VIRUtJNWZsdVZKUnJzUGg4TVI0MW9kNHJ5VXJtcEd0dEtNSmtnZnI4QUNZMjRRTmk5TzBxNkR3dlhkZm9HSmw3U3JPNWZQYm5SbE9iRGJTYkl6VERuQWc3b2E2TkJhVQ?oc=5",
@@ -873,41 +909,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3ed8b5b0a8aa",
-   "title": "Shocker: China Used AI To Create War Weapons?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGNlZXFhbWEyMFZhQ2hlOVhKQ1o4N2RpLXZsUzB0dkotc244eVlwM3pFQTBJZXVFOFkxVHBaeFdJNmJyb2hoOFZpOVdZcHFiT0Z2NXNUdC0zdGVRenR0aHBheWtPQ3Fqb3ZJb2tZRG5LMmJib3RrSE1WRzkwa0VUQVNvN1pfd9IBiwFBVV95cUxQR1RnZHgtNXhpLThkNndiblRTenZKWDV1bm1PQ0hrUlBrTkV4M0VUbzZkVmJ1eTVSMlBkZHd6cnJiSFN6eVF1MTdaNUx3T0FucHpCUGR5WkIzYmhPZWVxNmY3emp0YzNqMHRMRVFZOTV0VjlaNWlwenVYYUxXLWlrTEtTeWVYYzZNa3dn?oc=5",
-   "source": "Gulte",
-   "published": "2026-09-11T07:11:30+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Shocker: China Used AI To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8b1850a7fdf2",
-   "title": "Shoma Chaudhury on why technology needs conscience, not just innovation",
-   "url": "https://economictimes.indiatimes.com/tech/technology/shoma-chaudhury-on-why-technology-needs-conscience-not-just-innovation/articleshow/134051852.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T07:10:26+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Shoma Chaudhury",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "8bd1ba41b741",

@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-11T03:31:47.703298+00:00",
+ "generated_at": "2026-09-11T03:46:04.522018+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 13,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "dcbf9f9ecdfc",
+   "title": "Loss is change, & change is nature's greatest delight today",
+   "url": "https://yourstory.com/2026/09/loss-is-change",
+   "source": "YourStory",
+   "published": "2026-09-11T03:30:00+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Loss",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b7d87d5f42d0",
+   "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face/articleshow/134043010.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T03:20:31+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "US Senators",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "407f3b2b16fb",
    "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
@@ -558,23 +592,6 @@
    "reasons": [
     "no clear event",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3d18783dff57",
-   "title": "VinFast Plans Two India-Specific EVs In Strategic Reset: Report",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ09ESUtQaEV4S0tDN2p0LUtmQlRTYzFwdFN3cnQ5TURoLW52VVBsQ2xfelpual9tU0U5VDIzdC1wZFhRcGFJdmZGeDAxSnBuczhRZG1CbHZtX2pMNGQtY09sV1RRRTNJY2ZJZm5VSnRLT3pQVnJMZWtPOW9IVVA4TDZqbzc3Z0Eta0VGajV3QQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-10T15:19:19+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "VinFast Plans Two India-Specific EVs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

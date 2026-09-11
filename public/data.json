@@ -1,12 +1,118 @@
 {
- "generated_at": "2026-09-11T06:01:54.434514+00:00",
+ "generated_at": "2026-09-11T06:24:44.466213+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 45,
+  "fresh": 9,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "96bebf2a994f",
+   "title": "{Funding Alert} The Pizza Bakery Parent Popo Global Secures Rs 532 Cr Funding for National Expansion",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTMwNF9VRDRHVXhFVUxCRkxyaE1tYV9mT2tvcmQxdmFmNE9PdU90VG9GOE0xdFBxMG1SOXkyenNkWHNTWjRtWmRpX0VhSmV2YWF5UV9qSi05bkFLUmkteFEycHRPcDdDeUVlODJ2MGNMXzFJS1VJUkxMSUc1eExFRHgtdm80cTRUV2RBVHlNd29fUnhjVG1LcmpuZmZVc3NNMl9sd2V4a3FEVndIWnZKa1gtRVQzTV81V1pCdDl6d05qcC1Y?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-11T06:18:40+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs532 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs532 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "df656f964e9b",
+   "title": "Namma Yatri launches retail platform for drivers",
+   "url": "https://yourstory.com/2026/09/namma-yatri-launches-retail-platform-namma-santhe-drivers",
+   "source": "YourStory",
+   "published": "2026-09-11T06:18:12+00:00",
+   "score": 72,
+   "category": "launch",
+   "company": "Namma Yatri",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "aeb0031bd2e3",
+   "title": "Nishant Pitti pledges Rs 212 Cr EaseMyTrip shares with Motilal Oswal for personal use",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1VtIBvAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1Vg?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-11T06:10:05+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Nishant Pitti",
+   "amount": "Rs212 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs212 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5dba7187816b",
+   "title": "\u2018Why spend time in courts?\u2019 Delhi HC urges CJP leaders to remove posts about Gaurav Bhatia",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlNFRERDY0tyTEhrN2s5Vm10X0NlYkpxU1FwaFVwVlVTV3NyRUNxLTdHMEp2NDMwVlRhZElmRmUybEl2YUxuLTAtbmc4OW5IekpmZy1tNmJfdU04dVRrNVZpR083SmZ3RnJJdGc1UUxud2FoelVsREltaHMzalFwbTlrWDB4RjhzTWtxdEZRY2hWdU0?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T06:07:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d188feed6c1f",
+   "title": "Greenwave Circularity raises $31.5 million from OeEB for Odisha PET recycling plant",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkI4dlQ1dVNZZjd1em9ycVZNeWtpU1RhVVlkT3BCN09mWmRiUzdSWlhPRlJrOFdaOVJnTno1YXROYjdEVVpMLUFTU2JRV2VlYnlYWXMxTmNMeHY3SThYRnAyYmZhT0UtT0FYY0FDR25SZ1NBeUQ2TFRPbmROMmFDTVJwX1FSa1otRGc1OFJLYlhyd29tcUs4V043aTdaeEdTVGoyV1luaDNHcXhqVnRmY29hZnpXU2JySE5Uc29hdjFTR2lKbUI00gHHAUFVX3lxTFBuQjh2VDV1U1lmN3V6b3JxVk15a2lTVGFVWWRPcEI3T2ZaZGJTN1JaWE9GUms4V1o5UmdOejVhdE5iN0RVWkwtQVNTYlFXZWVieVhZczFOY0x4djdJOFhGcDJiZmFPRS1PQVhjQUNHblJnU0F5RDZMVE9uZE4yYUNNUnBfUVJrWi1EZzU4UktiWHJ3b21xSzhXTjdpN1p4R1NUajJXWW5oM0dxeGpWdGZjb2FmeldTYnJITlRzb2F2MVNHaUptQjQ?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-11T06:02:43+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Greenwave Circularity",
+   "amount": "$31.5 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$31.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "02c3c7a82ae0",
+   "title": "UPI MDR May Be Set At 40 Bps; Banks Could Get Largest Share: Report",
+   "url": "https://inc42.com/buzz/upi-mdr-may-be-set-at-40-bps-banks-could-get-largest-share-report/",
+   "source": "Inc42",
+   "published": "2026-09-11T06:01:48+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "UPI MDR May Be Set",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "bf0fa752d31d",
    "title": "Popo Global Raises Rs 532 Crore From Artal Asia to Expand The Pizza Bakery and Other Brands",
@@ -69,6 +175,23 @@
    "score": 23,
    "category": "other",
    "company": "Open Challenge Program",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f965cf4fb78a",
+   "title": "Speciality ingredients maker Salicylates & Chemicals plans maiden fundraise",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0FyU3ExTWhpWTc2clh5aTFLOG5tRENsQUNWTEZTejNuX3lmVDVvOE1iSFF6T3JsR1RUQmljdk5KR0JILUtieGl5a2VCdnVwVXpfS3plbVBaQkhKYzU4U1lnNXE0UE5oV28yVkRUeWhzSTZIOXhOcjhOSVNhcnN1Y1E3NTNKc21pQ3NQbFFOWHFRTjlKQlFXX1VsRWpwUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-11T05:22:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Speciality",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -165,6 +288,23 @@
    "alerted": false
   },
   {
+   "id": "ad5473ab78ed",
+   "title": "How Scan Holdings FO and SKG Family Office are using different playbooks for similar goals",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3hKUktJdGItRlJ4SlhkeEo4R1FWLXp6MXVaZlhUeEFlSnFvVmcyTEF1TzJTTmV3dTlBR3VkdlduMm5qU2d5bVRPQ0dHRnlnZDZSZjgtVzFXZ3haWUp6dnBvNHdwS3ZjQU1EdWNvMUpXcVZHTThLZUhJNDl6R3hOUTZtUTY5NC1zMXNDbG1SSUFTTHJLLXV6d0tTc0EzSlNQd0Z1VVkzZ1M5eG40dXh4SHhzd3k?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-11T04:45:28+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How Scan Holdings FO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "27e5e57ed366",
    "title": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chip-startup-d-matrix-to-use-nvidia-chip-linking-tech-in-ai-servers/articleshow/134045944.cms",
@@ -207,6 +347,23 @@
    "score": 25,
    "category": "other",
    "company": "Portuguese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "deb92eaec97b",
+   "title": "Bombay Shaving Company challenges razor habits with Switch4 campaign",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk1GTlg1VVJJSnJSZ283akJiWVA0dTAtWUtleFQzd1BtbWF5VEkwQ3BNUzdGTXdFcUNYdFIwZFYwUTRXeW1GTldmZ19mR2JBbjJCZnotTU9TSExnRTNMZlg3cW5KODdaRHZlYjB3TEZKUloxRGVGa3Z1ZmZhSklCeG1QeDJoeDVkQkZteDItSTdvM1cxZ090UVBjU1M?oc=5",
+   "source": "marketech-apac.com",
+   "published": "2026-09-11T04:31:38+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bombay Shaving Company",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -447,144 +604,6 @@
    "score": 25,
    "category": "other",
    "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f6e4a033898",
-   "title": "OpenAI is open to slowing AI development: Sam Altman tells staff",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-open-to-slowing-ai-development-sam-altman-tells-staff/articleshow/134041932.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T02:52:10+00:00",
-   "score": 52,
-   "category": "product",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "880db4d5b368",
-   "title": "GFF 2026 Day 2 Unpacked, RentoMojo\u2019s IPO & More",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRnlxbEx1LVQ0Rm9zMXpYaEFSZGQ1ZTZGT1ZPVlZnZElpSkZDNGV2YjhpbFdDOGt2QkVWQXdwc1dZbkxtc3J0RG05V3JGcFZNSTdzVE1USzF2NEJjM2JqMTZwSl9mVzBfZk9QWGtZbHBzcjBRLVE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-11T02:30:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "GFF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5f7cb5bc5d8f",
-   "title": "MDR on UPI coming soon; India's new class of robot workers",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/mdr-on-upi-coming-soon-indias-new-class-of-robot-workers/articleshow/134040033.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T02:03:05+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "MDR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "371f01991b59",
-   "title": "Stellar lineup at TechSparks 2026; How Jagriti is helping women build digital businesses",
-   "url": "https://yourstory.com/2026/09/stellar-lineup-techsparks-2026-jagriti-helping-women-build-digital-businesses",
-   "source": "YourStory",
-   "published": "2026-09-11T02:00:00+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Stellar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f663a638822e",
-   "title": "Where there\u2019s a will, there\u2019s a whey: HUL bets Horlicks can catch up in protein race",
-   "url": "https://www.livemint.com/companies/news/horlicks-protein-shake-hindustan-unilever-11789040422266.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-11T00:30:35+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Where",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7dff1dd3e0d6",
-   "title": "Experts call for intense evaluation of boards as Coforge chairman exits under a cloud",
-   "url": "https://www.livemint.com/companies/news/coforge-chairman-op-bhatt-resignation-corporate-governance-in-india-11789026227593.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-11T00:20:15+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Experts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b39ac444d83b",
-   "title": "PhonePe Shuts Down Engineering Office In The US: Report",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGlzZzQ0cVRvM0hIVTluOWRfeXcwdm1NSTh6ek1wZ0k5dWI5Q21pdWVTWE1EQXRSVnBNZU03SXlBMWd3X2phRDhrLVRBd05aWW04WE1idzg4WWRxZFhBWHBBV1YtaHpiMzVPcGFqcDJZT2p4bHZCOWNwNmI4NnE2dm9Zb3I?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-10T21:12:34+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PhonePe Shuts Down Engineering Office",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aa3d5445a071",
-   "title": "AgriFood Signals: EIF backs Nordic Foodtech VC, NotCo sells Brazilian business, Agronutris in receivership",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUtzbjNzbVNKbEdxNlN2SE5DTUFKcmJaYVd3WWxXZlhLN0gzOWE5T2dQOTNyaVhaNDlmenpGT2oybjd2aThhRDZnS3RiUVI1ZWFQOTdZWUwtVU9DUjJYUVJjckEzVm9PeF9OaDdPQzQzekQ4V1Y5bmpTNlJBNzFkWFZNTGZJLWptR3FEbE41QlROZ3Y4ek9GbVdjem41VEJfQm5NMW80cTNsZmdSU0xMMWp1SEd1TGhLY0xrS3FyeXJrdTJRMGk4?oc=5",
-   "source": "agfundernews.com",
-   "published": "2026-09-10T21:07:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "AgriFood Signals: EIF",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7074,23 +7093,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "13b29f2ace49",
-   "title": "ISRO\u2019s Advanced Earth Observation Satellite Launched Successfully",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnA1NHhKa2JxLWNzYk9nQWNlanE5Y21YZ1ItRk91YjQ4eVBNdTlFWmV5QlBmczV2VjJRUy1OaTJrbDZmU2Y2clBSaExic3hOdVdTWUtobDNieHpreUNCQ3hKMjVjaFRqS3dwdl9vcVlxZDVGejBBV2JLT3BGQXhBYU1sRW5OcG8zcnpheUtITjhSaFJlOHhlcmstUFpKT3pINU8tXzRjMA?oc=5",
-   "source": "kashmirobserver.net",
-   "published": "2026-09-04T06:19:14+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "ISRO\u2019s Advanced Earth Observation Satellite",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

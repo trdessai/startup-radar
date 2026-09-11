@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-11T10:31:55.589244+00:00",
+ "generated_at": "2026-09-11T10:45:38.767306+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 54,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 57,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
   {
@@ -23,6 +23,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "fb1163fb3c34",
+   "title": "Singapore Publishes AI Agent Finance Framework as NPCI Examines UPI Protocols",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1ZfWUdSRlEwU2RyREhCTU1jVmFnUW9PbnBWSzFzV0RKenVIZXhEMHAyS2xJTmRFb2lKczBoMFQ3ZWg5cXJiUWhsR2VRcHd1OHFlb3hid3JROHZlVHM0WjhUT2daRFlpZmxRby1CczlMY0xNT3NPbHNEdE1VbXFfNlItZTFMRkdiVmxr?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T10:08:38+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Singapore Publishes AI Agent Finance",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "7f21368e913c",
@@ -61,6 +78,23 @@
     "\u20b9500 crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "58f0d536a870",
+   "title": "From a \u20b95,000 Bootstrapped Setup to a 20,000 Sq. Ft. Manufacturing Empire: How Sagar Perfume Is Redefining India\u2019s Fragrance Landscape",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHc2dllOVDhaR3FaeUdYM1A0R2l6XzAxT0ptdjdIVzBPM0VTR1VPVGFjVnpWTEh2UkJXX3R3eDduR0tOTi01dUtuSmFZSWdyd2ZuZjZxbEF2SHVHLW5maGFEWEFoa2ltNXZaeUpiVnZkZVNydnpabU5PaFNybGw5aS1vYUVYaTVHVXJaSHFEYkdXVmo2c1NlMjRPd1N1Qk9BRnd3Vjlrc3A1WnhGTndmajFwVmYxeWRwa052WWJ5S1FYYjJIcHA0MDlB?oc=5",
+   "source": "altbollywood.com",
+   "published": "2026-09-11T09:55:23+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "1a554155208f",
@@ -7059,42 +7093,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a7fdb21ffd96",
-   "title": "Sneaker brand Comet raises Rs 100 Cr in Series B led by Verlinvest",
-   "url": "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest",
-   "source": "YourStory",
-   "published": "2026-09-04T10:39:16+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Sneaker",
-   "amount": "Rs100 Cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs100 Cr",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "540bd3237844",
-   "title": "Flipkart Minutes Could Add 1,000 Dark Stores By Mid-2027: UBS",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0JoX0NLbGtuYXlpaW55UzRINjBneWlSUkdRTnVrYXVNZElTTlVKS1NmcXE0S1dZZ0I3Zmt5V2NGd1J4cktuMkpzdFVzdFI5VVM5eWt1OWdzaktYdFVjdHR4YUlDQ2V3V01oSm5JMklac0FhVXpLQlM0YVc2Z3lxMlFUWDdNSVNlTFRj?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-04T10:37:01+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "Flipkart Minutes Could",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
    ],
    "alerted": true
   }

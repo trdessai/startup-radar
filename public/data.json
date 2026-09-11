@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-11T08:20:52.845302+00:00",
+ "generated_at": "2026-09-11T08:36:54.823478+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 60,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f76d8efa2349",
+   "title": "RentoMojo IPO Subscription Hits 17.18X On Final Day, NIIs Lead Demand",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUcweTF1SktleGdCeDRrc1BLUGdDZlY2UnF3U0hCaklsQWt5ZWI4Mzk4cWh4WHl3Vy1VYXEtclpTaUFCNXBkdTRScEd1b0JXT08wSDhkeW1kbFU0WDJpbTNIS0RmMzRha1BfeHBRd1BaSFdZY2VpVFlVSEtkUHBGWlFyd0FFRkNYODczT0dCZHk2VGFiMGJN?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-11T08:24:54+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RentoMojo IPO Subscription Hits 17.18X",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f5ea3252b2ee",
+   "title": "Grindstone Ventures Launches R500m Africa Startup Fund Targeting 15-20 Companies",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjIxZTF6NXkzWnFGRGJjOXFyNElLdm5pVE9HLVM1cTFpVlhFemtEWWNEa0tjTTdsQ0htWGNwWVExX1JValZTTjRQT29wMnU1enpZYVZsb3V3RGp6WU9pRm10T3NLamlZWEZsbTgxSm02clJpS3RNTXVQYVJ3UFpEVG90RWNMc3FOanlsM1ZVUG1MQ3M1ckkzSnFPSlZfbjA?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-11T08:18:02+00:00",
+   "score": 86,
+   "category": "launch",
+   "company": "Grindstone Ventures",
+   "amount": "500 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "500 m"
+   ],
+   "alerted": true
+  },
   {
    "id": "813cdfbc4cf9",
    "title": "Paris Panini Parent Popo Global Raises \u20b9532 Cr From Artal Asia",
@@ -7058,40 +7093,6 @@
    "reasons": [
     "launch in headline",
     "Rs245 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e2538cc66398",
-   "title": "Zostel launches Zo Selections, enters premium hospitality segment",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3pBbXlEd2pMbUNqX0lmOHJENk1aVTJaMDVMN1owUzVPenBuVjdBMWJzdGllOGloNDVkR0RMNVhSTU85cXpxTS1QS2hGUWdRN2VnOWVEOVo2empjM2ZDVUF6dXRoalVPbHpwRVBCQmp3UnVzWDNnSy1FcF9MOTZZQ2YtVDZQQk8zRmZ0NFA3Z0EyeVcyTHJxSzc1V2NTX24xRjQ1RlhiWTk4QQ?oc=5",
-   "source": "Hotelier India",
-   "published": "2026-09-04T08:30:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Zostel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0e2061e39900",
-   "title": "Bengaluru's EtherealX Unveils Reusable Rocket Engine Tech",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW4yRXFQQnE3eDBheUw2OWEzWVdNcFlOU1VvYVpJbENBSndpUEk5QUw0MHJWaEFsSElsTmJfZkRWUG9oa29zTGt5UTllWDRaU3FpVHFfaTYzSHlLbGE3WVQ5UmdHWVFwOXZjcFhBVGNGR2dFTnQ0bmFPVHR6Y1RDQUxGcGdEWWN1ZEZxdlJtSGdLcFlLYV9EWHhfX0lRdWlPVGVrUFlXQzdXOXFYZDJYeFcwR0M5ZFlTaGJqUkZLQVNxUVBjZEE?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-09-04T08:29:30+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Bengaluru's EtherealX",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

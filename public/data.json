@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-11T20:01:50.964230+00:00",
+ "generated_at": "2026-09-11T20:19:13.912525+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 0,
+  "fetched": 22,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -125,6 +125,28 @@
    "reasons": [
     "no clear event",
     "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d834fb76cee7",
+   "title": "Ayush Aggarwal \u2013 Founder, Focaccia Digital | Entrepreneur 2026",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcjUzUW9yeFZHUmVOc1dLTzhaTzZRckpfNkpER2RuX1VDLVA2VjVNRzNPNGM0LWUySkdFMFE4bV9DanAxT1BVbEJLWll4bjZTb2hMVm9MaElUTTF1Y091SU8xYmdJRHZDZkN4cExqNllFSG54ZDhmczNMNjRNQzFPMUJQREtwSWpUVUR2dzdGdFZ4UXFXODlVOHBScERCTDRRaWxIdlBJVmVQbVNpOFNVb2ZBZHdPbjVpTEJteVVMUzh4aGtyNW5GOU50NnNTNDdRM1c2eDVIb1AwMHRYS2FwWGFR?oc=5",
+   "source": "inc42.com",
+   "published": "2026-09-11T16:34:24+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Ayush Aggarwal",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Focaccia Digital",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -675,23 +697,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "328469d3f1f0",
-   "title": "Vijay Deverakonda Enters Skincare Market as Co-Founder of Unhype",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFRJYmxwTVRnek8yS1haYW1rY3BGekRrQzJUYTl6UmlmLWVCNnVINE1wWlhqeThVQlphUDRDajYzaGNNZlNmbzZnQ1VNS3BxdDg0WVNYRnpzTFQxYW5BWWlFMTYzc2lrZF9JZkcyTzhhZ1BPSU5pZVRTSUVqRFMyLWs5azExaThDMVRUYzJleHZJNnZmcWotcWNWOTgzakI1d3pOVS16UGhnVzlTSUpTRHN5c0daM200?oc=5",
-   "source": "entrepreneurindia.com",
-   "published": "2026-09-11T12:20:23+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Vijay Deverakonda",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-11T17:01:22.947108+00:00",
+ "generated_at": "2026-09-11T17:18:01.117802+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 1,
+  "fetched": 33,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "4b63f9467083",
+   "title": "ChatGPT invented fake police testimony in murder appeal, New Mexico high court says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-invented-fake-police-testimony-in-murder-appeal-new-mexico-high-court-says/articleshow/134080805.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T17:09:35+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "ChatGPT",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b5c4baf534c9",
    "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
@@ -725,23 +742,6 @@
    "founders": [],
    "reasons": [
     "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "816518bfb11d",
-   "title": "GFF 2026: An AI model can influence elections without voters sensing it, says Nirmala Sitharaman",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0xQMWl2QURNeVp3X0xPaXRJT3EtV2didzk1dFFYcFNZRjFQUWNPQW9KTG1SV1VsU3M4X1Y4dVhqa1BCLV9lMER3bS1tRTZWOG95TzhSZVB3Rk9RMFNfX2p3d081bWg4NElwTURyaGVMYnczU3VaaGt2QlBrSlJCbE9XMDVFU2s?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-11T11:39:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "GFF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

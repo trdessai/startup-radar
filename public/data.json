@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-11T05:01:32.698297+00:00",
+ "generated_at": "2026-09-11T05:18:30.246458+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 28,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "ca0d3ad02453",
+   "title": "Scindia calls for Trust Grid linking telecom, Aadhaar, UPI",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzZLVERleVpWOW5qRWxScVR2Uk4xX2xkeXRjZm51elQxR0xTLUQ0NDVpNVozWk9kS2pCMm1zZjlrM3lQNGdrWWg0TlpXWGF2RDFYZjJfNm84dWRZQWQtcFQ4ZTA5djhjdWd3S1ZlZkdDVFI1U3NkNkUwRmxtSTRoTjdNMA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T05:03:02+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Scindia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7322552cf6f9",
    "title": "Pocket Entertainment crosses $500M in ARR fuelled by AI",
@@ -573,23 +590,6 @@
    "reasons": [
     "no clear event",
     "$315 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bd81505c1be0",
-   "title": "Nexus Select Mall Management Pvt Ltd",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Cc2E5OGQ5U2xReTR4UmF5bW0xMnhMVXllVlZoTUhxMVo2ODh5c0ZpVlI5N0hnMDAyY2RpZHczV2xHdlZhZ3pLVjd4TVBiQTJhZUdSNlQ5Ry1ZSWs2QXBTWnNZcm9qaVFvSW5VZHNkMmJ2QnJlaEg2QkNqWQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-10T17:00:24+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Nexus Select Mall Management Pvt",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

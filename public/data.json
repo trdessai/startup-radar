@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-11T03:19:25.814406+00:00",
+ "generated_at": "2026-09-11T03:31:47.703298+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 0,
+  "fetched": 11,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "407f3b2b16fb",
+   "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+   "url": "https://economictimes.indiatimes.com/tech/technology/oracle-tops-estimates-as-ai-demand-tempers-cash-burn-fears/articleshow/134042384.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T03:03:03+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Oracle",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c72e18c2d264",
    "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",

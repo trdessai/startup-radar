@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-11T02:54:12.279296+00:00",
+ "generated_at": "2026-09-11T03:01:57.052824+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
-  "fresh": 0,
+  "fetched": 9,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "c72e18c2d264",
+   "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons/articleshow/134042056.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T02:55:25+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f6e4a033898",
+   "title": "OpenAI is open to slowing AI development: Sam Altman tells staff",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-open-to-slowing-ai-development-sam-altman-tells-staff/articleshow/134041932.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T02:52:10+00:00",
+   "score": 52,
+   "category": "product",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
   {
    "id": "880db4d5b368",
    "title": "GFF 2026 Day 2 Unpacked, RentoMojo\u2019s IPO & More",
@@ -524,23 +558,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7637ed409e68",
-   "title": "Adyen steps up India expansion after licence approval, plans to grow local team",
-   "url": "https://www.livemint.com/companies/news/adyen-steps-up-india-expansion-after-licence-approval-plans-to-grow-local-team-11789038518286.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T14:54:31+00:00",
-   "score": 53,
-   "category": "expansion",
-   "company": "Adyen",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },

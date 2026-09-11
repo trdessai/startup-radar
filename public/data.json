@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-11T05:55:26.295494+00:00",
+ "generated_at": "2026-09-11T06:01:54.434514+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 38,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "bf0fa752d31d",
+   "title": "Popo Global Raises Rs 532 Crore From Artal Asia to Expand The Pizza Bakery and Other Brands",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3hKM01CdDNKdU9CbndqYlJCYWt5R0xvVnEwRW9WSTdVNlJhYjlBLW5GQl9PeGh3SW1Vc3pxTnIydUFoWjdYT25EYUxxZFlEZWZ0YV82MzFoNXJhcUpUMGR0eGFCRldJMjVzajI2WTVCUGVXT25GR3ZpMFhGRnB6cjZwNWtlUXJDYlRUMGVGZW5jdXZ2d21iOW9SR0pUWWhnVzlTSnh0NDdQMHlpdlgwS24xdjBzM2ZlX3g2cnE5MlFIZFBlM1hONUIxLU5fU3lGbHZoZm14NlloT01PYVE?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-11T06:00:02+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Popo Global",
+   "amount": "Rs532 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs532 Crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "03e2601d76d3",
    "title": "California governor signs laws aimed at protecting kids from risks of social media, AI chatbots",
@@ -7068,23 +7086,6 @@
    "score": 68,
    "category": "launch",
    "company": "ISRO\u2019s Advanced Earth Observation Satellite",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9ed1cacfed42",
-   "title": "WhatsApp launches bill payments in India, enables in-app payment of household, utility bills",
-   "url": "https://yourstory.com/2026/09/whatsapp-bill-payments-india-in-app-payment-household-utility-bills",
-   "source": "YourStory",
-   "published": "2026-09-04T05:57:52+00:00",
-   "score": 72,
-   "category": "launch",
-   "company": "WhatsApp",
    "amount": "",
    "stage": "",
    "founders": [],

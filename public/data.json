@@ -1,12 +1,133 @@
 {
- "generated_at": "2026-09-11T12:02:27.368865+00:00",
+ "generated_at": "2026-09-11T12:24:54.987066+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 64,
+  "fresh": 7,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "03c7d58ed215",
+   "title": "Allied Blenders Launches 'The Indian Edit' Premium Whisky Priced At \u20b91,550",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXRJV05NLTZoQTVyQkxLQ0VMd042ZTd2WGRqYUJLVnhwOVQwWC16bzk3VHROWnVNcEI2cWVCWXlZajhXR3V5UTl1WmNfN1lkNzc3eGxwYkRhcUZybTZSSndveDhCMnRKYnR5X0t6Mm9rM3hGaDVtbFY2cXpYOU9sMnRuMGxxTkd6SmcxZTZKbkVnVU9tZERIQThPSFBlaGs0MElLMjc2Sjk2aHExRm84?oc=5",
+   "source": "Sahi",
+   "published": "2026-09-11T12:16:11+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Allied Blenders",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1d9b7d47a972",
+   "title": "PayU Launches AI Fraud Cover For Cross-Border Card Payments",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1J6VzJtbEdab05PVHNORUNXTUQ2cTloWWgzeGt3Tmc3UnlsMjMxZmdtaWlucDlIXzZWRFh6U0hiQVdsRVk0S1h1emR0N2dPMkdlS1NrdXB6SV9LelpjTlhxa09GV3dJM2h3d1lJaDYweDlvVVZIQk1XcEhRQ21JT0hMb1RQMlBMQ3htblJubUpaS0No?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-11T12:12:33+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "PayU",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2fe8995ed96f",
+   "title": "RentoMojo IPO subscribed 72.87X; QIB portion leads with 177.3X bids",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRrN2Zua21LUUtGOGFxUXJ2ekFBWHh4WUY3SmdHcllJalpaV3c4a25UU29MTV9JcGNkcTBwRVVlNE1rVFpCRzZmbHQ4bE1NdUJ2amJEUGpnOXBzOGVXS0dWUkN3MmtHcGZnUEliREJGZ1MwaW5LYmZ3WDd6R3hMbnRleEl5dndnY01Za2xMLTlzNjBXZ09UX01waVByQU1B0gGgAUFVX3lxTFBMZGs3Zm5rbUtRS0Y4YXFRcnZ6QUFYeHhZRjdKZ0dyWUlqWlpXdzhrblRTb0xNX0lwY2RxMHBFVWU0TWtUWkJHNmZsdDhsTU11QnZqYkRQamc5cHM4ZVdLR1ZSQ3cya0dwZmdQSWJEQkZnUzBpbktiZndYN3pHeExudGV4SXl2d2djTVlrbEwtOXM2MFdnT1RfTXBpUHJBTUE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-11T12:05:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RentoMojo IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a5fe8dfeb701",
+   "title": "FM Sitharamran says AI researcher's resignation raises questions over AI safety safeguards",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fm-sithramran-says-ai-researchers-resignation-raises-questions-over-ai-safety-safeguards/articleshow/134065674.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T12:01:48+00:00",
+   "score": 67,
+   "category": "funding",
+   "company": "FM Sitharamran",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "16e4c23f1510",
+   "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-ai-developer-z-ai-launches-5-billion-hong-kong-share-convertible-bond-sales-term-sheet-shows/articleshow/134065449.cms",
+   "source": "ET Tech",
+   "published": "2026-09-11T11:59:18+00:00",
+   "score": 88,
+   "category": "launch",
+   "company": "China AI",
+   "amount": "$5 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$5 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "287589d4ba5e",
+   "title": "Fintech Stocks Rally On Report Of 40 Basis Point MDR On UPI, Paytm Touches 52-Week High",
+   "url": "https://inc42.com/buzz/fintech-stocks-rally-on-report-of-40-basis-point-mdr-on-upi-paytm-touches-52-week-high/",
+   "source": "Inc42",
+   "published": "2026-09-11T11:51:52+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Stocks Rally On Report Of",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b7157feaf0a4",
+   "title": "{Funding Alert} Triptii Dimri Joins D2C Beauty Startup Peep Beauty as Investor",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0dDRFQwd3RJRnF6VERpZ2pYY0VBZmhPMVFsaS1JNVI2bkNXMTItbU0wM1NuU0F5WlBNanI4SkV2VWtRMVQ0MjE1NDMxZUFWZnhjZmpEaDY0UHEzU0VEYnBDcmJzU0lfNHFyMURuRzFhMmlMWDExSm5idXZrcU5mcndMSnBBU0RpSGtraV84azFra0tBMHJrNTUxeF9SbWM0cHlEOGo2Rno2c0lfOEE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-11T11:51:26+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "a3bc57c71a83",
    "title": "How AI Deepfakes Can Bypass Video KYC in Real Time",
@@ -789,57 +910,6 @@
    "alerted": false
   },
   {
-   "id": "065ff88d4c8f",
-   "title": "BWF Vietnam Open 2026: Mansi Singh Defeats Former World Champion Xu Wen Jing In R16",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGk2RERwV2ozSklkT0RsZkJLRERTaVVJR1JUNkZzRmlzX2pxN2VOMkFqSjRsckNXbHRPLWVzaF9lVEtlVGw3aVFDelNOOEUwWm1XbXJERVdLRElHUXBIZUp0Ym5FLVhmUC0zNGJJeDIzT1JJeXVaXzliTlMtc0NndlJlZW03N2dxTXo5dF90eHhVRE9vQXRtTFE3ZWhXR0x2OU9EUHQ0ZTkzSU0?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-11T06:58:43+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "BWF Vietnam Open",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d9b694a890f7",
-   "title": "Grapevine: IIFL Finance, Fairfax, Varun Beverages, Mesa School, others in news",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGlhNTg2M3d5Wm5UZlJjUlBBVThZVzc1Z0c2VEpwMlhrYlVZUWRCVktKQzhwTm5Pd3BVTHE2aU9mVnpadmRvbDBucXBuVnhEdXNTTnloWTY2TFRtYmpTckx3RUUwUmNaNzkwQjc3b0FHZmRYc0M4WDY2dHVablJrSEFkYzRfUEtjanU0cFlNdE83WEtYQkdodFlmZmlFUQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-11T06:47:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Grapevine: IIFL Finance Fairfax Varun",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "03ec8c708091",
-   "title": "Navneet Singh: Founder & CEO of Kepler Aerospace Driving India\u2019s Space-Tech Innovation",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41NG9jRUtOYTVTaFpwd0d3UXY5WUxHN080SUg1aHNmS3pkZlpaY3VXRzhfU1h1R21YVkw4Z2VlMnhIcFF2a3h4azY3a21XMWliUENVRHdkR0tmbVBnOWRiVWh6Qlp5YlZyRnoxenNJdGtvRjFremtZQmsydXp5QQ?oc=5",
-   "source": "foundermagazine.in",
-   "published": "2026-09-11T06:35:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Navneet Singh: Founder",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8bd1ba41b741",
    "title": "Satin Finserv Limited launches \u2018Sankalp by Satin Finserv: The Climate Edition\u2019 to back India\u2019s next generation of climate innovators",
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdlVwLVg3Tk9GQ3J5bklKVl90OHh0eXl1ZXp6eVJTQ1VuX0tXczRjV1BXeDA3WG54ZEF1VmxEUGxCbDkwUE9mRlpLU1M3QUF4NGwzSnZaY0VfRGhTNFZZYTBHZE55bGMxVG5IdGNKVnVKNzRqaUgxaUtEbTdGM3B6QVFCQVpiZEdEajlPMGl3QkduY0pYOTRmMmItZ1lRR2lwaWZtazExekpMelhHa2lTQTZHNURjRG5DTTZwTGVuUGltdFJUeDBaRkV1ei1SWGpZX2NhbEZQRWdIdHdoZXVvRmZYUjc0S2UwbFhrWFZDaFA0Q1RYVzAzRmt4RVNEWHNoNjNOdTZFcDRnbFludDhzeHptckJWak04aC1B?oc=5",
@@ -855,40 +925,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b4342a3924a6",
-   "title": "Supreme Court asks Centre to respond on minors' social media terms",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczFJTUhSZnRIdFNGanp3aFFJd2NvZl9TbFdxUUlQbUZrd2VlcUdEQWZoRlp2a0hNTXlIWnU5MU5wcnZSNmZfekVaYXhDTVkzY2ZMQktDNWtOU3BFSERoYU1CdjdoQTN2SVg5bEVuWnZNNEFWTktjMnpHSWxMRmtaaXBuLTVTc1QyVWkw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-11T06:34:47+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Supreme Court",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ab463da03836",
-   "title": "Important Private Space Companies in India and Europe",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1E4VmQ3bFlYUW9JRWV6a3NaaDlKUVR4SFYwSkxYaGxXZHBEeHNBMzhjMHBvSmNJMzdaeXRKNVI2cXB0NTdrU1RjUk9tME5Gdjk5b1ZFZ3BXVGJ1NkhPMWhGdDdMU3dCbEIteUUzYXV4b1hRMHBXX0NBdFh1cXhYSXdPVQ?oc=5",
-   "source": "GK Today",
-   "published": "2026-09-11T06:28:03+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Important Private Space Companies",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "96bebf2a994f",
@@ -7056,23 +7092,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "61c636340ba3",
-   "title": "ISRO launches Earth observation satellite EOS-05 from Sriharikota",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhaaWZkM2lHVHl6WVVGejRjeDdiYTgzS1MxcXZ6RE1BeDA2WEl6eHFMTDRGdGZ3aEN2SjFOQzZldDNha0lERUdZZ3RUWGNRZ3dCYmZpaEdEV0hManI2OWZrbWVwQm03Yy1OUFpZdk1vdEdtWHhsSWNwY1d6ellWZUM4NEtFWnIzTnRza2NUNjRkcld2RThjMQ?oc=5",
-   "source": "The Indian Awaaz",
-   "published": "2026-09-04T12:21:00+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "ISRO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

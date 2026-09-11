@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-11T17:18:01.117802+00:00",
+ "generated_at": "2026-09-11T17:28:30.916558+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 33,
+  "fetched": 34,
   "fresh": 2,
   "alerted": 0
  },
@@ -58,6 +58,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "0d682f079bed",
+   "title": "Metro expands in Bengaluru, but ridership is just a third of projected 30 lakh",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUxZWHhUVk45QS1GUHc4d1FFdEdXRXZJM21odXN6TTRXTGo3VWZXUF8tRlZJTDh1VV83d0tVb3Q4TkctR2ZpYjJZZ3ZET1FsRGdEV3hDUHU0RHBwd090RGpIVk9LVS0xcDRBdF9ZSVFpaHhnQ0d5R2h1NWpSS01idXNwelplT09iSWRCUnBDNHVFeUFud0NGaXFTY3BobHlELWlNZ0psbWh4aGpZRkYzVlA3UlBJV1MyeUpSdEQtNlk5U1UwZjRNcWRlTXlRU1ZJUldPc3N4NUtWRUpkR1FWaEVlQWJzNjhRalR2cUNWb9IB7wFBVV95cUxQYUxZWHhUVk45QS1GUHc4d1FFdEdXRXZJM21odXN6TTRXTGo3VWZXUF8tRlZJTDh1VV83d0tVb3Q4TkctR2ZpYjJZZ3ZET1FsRGdEV3hDUHU0RHBwd090RGpIVk9LVS0xcDRBdF9ZSVFpaHhnQ0d5R2h1NWpSS01idXNwelplT09iSWRCUnBDNHVFeUFud0NGaXFTY3BobHlELWlNZ0psbWh4aGpZRkYzVlA3UlBJV1MyeUpSdEQtNlk5U1UwZjRNcWRlTXlRU1ZJUldPc3N4NUtWRUpkR1FWaEVlQWJzNjhRalR2cUNWbw?oc=5",
+   "source": "timesofindia.indiatimes.com",
+   "published": "2026-09-11T16:03:00+00:00",
+   "score": 54,
+   "category": "expansion",
+   "company": "Metro",
+   "amount": "30 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "30 lakh"
+   ],
+   "alerted": false
   },
   {
    "id": "20dda3cdbbe0",
@@ -725,23 +743,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4e161e74ea2d",
-   "title": "Recode Studios Enters Quick Commerce Through Nykaa Now",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2RtMFN0bFEtNUR6Ukl4SUkwQkc4RFhFV3NZUC15amMtUXdqbUNMLURudHUwMTE3eGh2MnN5WGFKQ1p3RjJvSzBWcDR1QW1fblA0ckl5MnU4STFQUkpRNUwwNm9vSS1Xb2N2c1FBdF9ob2ZOZjVKOVI1QW5iR2w2cjhZWWlSNWc3WkJnaVVubmtwS3NW?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-11T11:39:31+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Recode Studios",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },

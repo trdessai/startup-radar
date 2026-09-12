@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-12T12:48:34.524767+00:00",
+ "generated_at": "2026-09-12T12:55:59.018144+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "d324d08bf5fe",
+   "title": "Travel and lifestyle brand Mokobara raises Rs 170 crore in funding from Sauce.VC, others",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEZQNTRfYUh2X0tMUUpVRFNpOHJER3RZUm5uNUEzX1l0NE55YUhsbDBubnN4azlHMjZlRFpXc1pHZUkzUE9WakZCZkZvSWY1MTktRkFmdDFHX3oxMlBsWl80eng1OUZlNkxvamhicFpHcFpvRndtUTRjT2k5TnFJcDBSYW9LN0ZhOXZRS0hvTlNMTzlvcGUzekhDR0hRa3VsR2ZyWUtVQzUwc2taazBVak85Vl9aRUktbmRGXzByVmQzOGdON3dtSHlHamlpUdIBzgFBVV95cUxQOEZQNTRfYUh2X0tMUUpVRFNpOHJER3RZUm5uNUEzX1l0NE55YUhsbDBubnN4azlHMjZlRFpXc1pHZUkzUE9WakZCZkZvSWY1MTktRkFmdDFHX3oxMlBsWl80eng1OUZlNkxvamhicFpHcFpvRndtUTRjT2k5TnFJcDBSYW9LN0ZhOXZRS0hvTlNMTzlvcGUzekhDR0hRa3VsR2ZyWUtVQzUwc2taazBVak85Vl9aRUktbmRGXzByVmQzOGdON3dtSHlHamlpUQ?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-12T12:44:57+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Travel",
+   "amount": "Rs170 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs170 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "590346686fa7",
+   "title": "Weekly Startup Funding: Indian Startups Raise $321.9 Mn As Funding Activity Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHB1TEZjN1JqU0hMTUx4UGNRa09BeVZqR25QbXM3MHhNcHdWaTd1c29nYnNrODN2WkppR2RKZllzTUhCdzNaTFI3anhuU1lLdjl1XzVac1hkclJXNGl3aUx2aTc5OGpKb2JXRVA4OXptOWlJQUMzOGZzOWhPaENxUnJTOVNheHNuSU9aN2J5LWhVeTlWTnlfWEFXUDZ1SVIxVG5Kb19kVQ?oc=5",
+   "source": "techstory.in",
+   "published": "2026-09-12T12:44:49+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Weekly Startup",
+   "amount": "$321.9 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$321.9 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "22c4bd47c6d0",
    "title": "Indian gaming startup ARC raises Rs 10.5 crore to advance portable gaming system ARC X1",
@@ -908,23 +944,6 @@
    "alerted": false
   },
   {
-   "id": "d578b18bbfc7",
-   "title": "GOOD BUSINESS LAB Key People 2026 \u2013 Founders, CEO & CXOs",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMMlBuUlZaZ1RyS0lGb24yTVB3OTZfQ0Q0cEM2Q2s3VFg4ZndWUUluaGtSSHZULXVDRHpXeDg3NFhSNmpHbG02VkhDYkhCZ1R3bVd4Y3A4RGZCS0VFSnNlZEVR?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-11T16:34:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GOOD BUSINESS LAB Key People",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b5c4baf534c9",
    "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVBqaWpkUXBrSGZzS09lajB4Wlo4VF8ybmxuQ2VuT1k2dVQ5a1RveldHV21EZHNqOWdGSDdGOUxYYVdtTE9yUm8xdmVpcS1fdU5XSkQ1QXo0Q2dnTmtCRTV6bUZSTU05MkgyRkprcy1jM2ZqSWUzTWJFdWRJNEFxQ1hzY2NLNjh5eHc?oc=5",
@@ -958,24 +977,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "0d682f079bed",
-   "title": "Metro expands in Bengaluru, but ridership is just a third of projected 30 lakh",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUxZWHhUVk45QS1GUHc4d1FFdEdXRXZJM21odXN6TTRXTGo3VWZXUF8tRlZJTDh1VV83d0tVb3Q4TkctR2ZpYjJZZ3ZET1FsRGdEV3hDUHU0RHBwd090RGpIVk9LVS0xcDRBdF9ZSVFpaHhnQ0d5R2h1NWpSS01idXNwelplT09iSWRCUnBDNHVFeUFud0NGaXFTY3BobHlELWlNZ0psbWh4aGpZRkYzVlA3UlBJV1MyeUpSdEQtNlk5U1UwZjRNcWRlTXlRU1ZJUldPc3N4NUtWRUpkR1FWaEVlQWJzNjhRalR2cUNWb9IB7wFBVV95cUxQYUxZWHhUVk45QS1GUHc4d1FFdEdXRXZJM21odXN6TTRXTGo3VWZXUF8tRlZJTDh1VV83d0tVb3Q4TkctR2ZpYjJZZ3ZET1FsRGdEV3hDUHU0RHBwd090RGpIVk9LVS0xcDRBdF9ZSVFpaHhnQ0d5R2h1NWpSS01idXNwelplT09iSWRCUnBDNHVFeUFud0NGaXFTY3BobHlELWlNZ0psbWh4aGpZRkYzVlA3UlBJV1MyeUpSdEQtNlk5U1UwZjRNcWRlTXlRU1ZJUldPc3N4NUtWRUpkR1FWaEVlQWJzNjhRalR2cUNWbw?oc=5",
-   "source": "timesofindia.indiatimes.com",
-   "published": "2026-09-11T16:03:00+00:00",
-   "score": 54,
-   "category": "expansion",
-   "company": "Metro",
-   "amount": "30 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "30 lakh"
-   ],
-   "alerted": false
   },
   {
    "id": "20dda3cdbbe0",

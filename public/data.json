@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-12T16:38:29.849506+00:00",
+ "generated_at": "2026-09-12T16:45:12.717190+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
   {
@@ -76,6 +76,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "4aceb9fb3c11",
+   "title": "Glenmark Launches Ryaltris Nasal Spray in Brazil After ANVISA Approval",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXgxZUV3NzlxTy00Xy1pYlR1dWdhbWpPdEVnZndMclZTbTN0ZERzaDEwQ2JTUG9YUXFCNG5oS2lMaTZnNElmXy1vR3ZvLVA3RVRQUjBucy02ZDlOaHlUWWx1SU03djhfT3JvWkFIbHE5eW0taGlsdjVnQjhvOUNyZTZ3dkJUclU0dkNtSjZMYnJyZkdfd2RDM1RjOWNmeTQ2Ym5LU0ltdXlYLU5YaE44aUV4X044dmFjNjY3YWtXcE1mRmNW0gHKAUFVX3lxTE51SndvZUZ1VkpUN0prOV9tczIyWDY1RkxYSjZ5STF0UFV0YV9QNEF5R0o0eGxiZlJjeHFVU3VtcFNsaWxGaEQtWDhYWS1wLWZRMWZmc29NZjVRMF9YQVNjVEM1eHR6OGpBczF1NDhjVWtuVTJnSFVpZlNCYWM0QkExZ0J4VFdicUc3OHQtYlF0Unk1OGlXWkR2SFRBMy1wdjBzcC1rbTl5VGs3elNsYVUxMHktNXh1bnVzRC1jOGVKaEc0ZWg0RkgzMmc?oc=5",
+   "source": "Medical Dialogues",
+   "published": "2026-09-12T13:39:56+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Glenmark",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "97aaad49aa1d",

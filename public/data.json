@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-12T15:34:39.281480+00:00",
+ "generated_at": "2026-09-12T15:42:48.429718+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 0,
+  "fetched": 32,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "25b868f5d2e2",
+   "title": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+   "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-dario-amodei-calls-for-slower-pace-of-ai-model-development/articleshow/134140916.cms",
+   "source": "ET Tech",
+   "published": "2026-09-12T15:29:03+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic's Dario Amodei",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "ddbc328c9097",
    "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
@@ -7063,24 +7080,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4679b3cd40b9",
-   "title": "D2C Luggage Brand Mokobara Bags \u20b9170 Cr",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbU03VzY5eG5pa283N2lUWUFHWGItNWJ2WFQ5WWRoU3FvN0JtQzZycDAwSXYxOHdMNEFHM3NwQlB5M0dnYjFjaXdBS1JfNUZKUWtSUUhEWW5Mek1iVk1vd2JvUGdUTDQ1dXpocVpyQlQ1WmxtMlVCNTNlVQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-05T15:35:40+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Luggage Brand Mokobara",
-   "amount": "\u20b9170 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9170 Cr"
    ],
    "alerted": true
   }

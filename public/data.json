@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-12T03:52:11.739191+00:00",
+ "generated_at": "2026-09-12T04:01:47.333137+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
+  "fetched": 13,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "30b719adff48",
+   "title": "Kiva Spirits & Co Ltd",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHVDN3QTNDV2E1RkI5NmY4MHMwRVNGbnZsUTFEOTFtLWZ0YXcycUZPMFpqNFFvdks2UVd5Qm1TT0U0aE4zQ2pkRHVkUEpldG13V0kxa002QTdzUkhi?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-12T03:54:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Kiva Spirits",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3b097bae4b72",
    "title": "From Pixxel To Swish \u2014 Indian Startups Raised Over $321.9 Mn This Week",
@@ -7052,23 +7069,6 @@
    "score": 63,
    "category": "launch",
    "company": "Lawyered",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6f22f0fdbcad",
-   "title": "Anthropic IPO launch shifts toward mid-October, sources say",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133786749.cms",
-   "source": "ET Tech",
-   "published": "2026-09-05T03:52:56+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Anthropic IPO",
    "amount": "",
    "stage": "",
    "founders": [],

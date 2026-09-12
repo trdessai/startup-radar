@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-12T04:01:47.333137+00:00",
+ "generated_at": "2026-09-12T04:18:50.357476+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
+  "fetched": 15,
   "fresh": 1,
   "alerted": 0
  },
@@ -16,6 +16,23 @@
    "score": 23,
    "category": "other",
    "company": "Kiva Spirits",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22d8bebba9bd",
+   "title": "Paris Panini",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sSlVvdEpXbWhydEhOb2RzT3YzTkVnaUZBbkRxZjRwbllPLVVoOFpwdzB5RTAwbnJGd0VSSVcyNTRMRzRUYU43Y0l2d3ZoeXlqckZj?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-12T03:54:39+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Paris Panini",
    "amount": "",
    "stage": "",
    "founders": [],

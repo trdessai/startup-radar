@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-12T13:43:00.412368+00:00",
+ "generated_at": "2026-09-12T13:51:21.821108+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 25,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
   {
@@ -41,6 +41,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "640b75f0cdda",
+   "title": "BRICS Summit 2026: PM Modi launches two postage stamps commemorating 20 years of the bloc",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVp4amk5OVlKcWRqVldJR000eDdlU2k1QlVVdDNwcWpPRGtzLW1qZHNuMlA5TUJaTDJOcFRyUF8ydlQ4eFdIbm5Kd1lBcHJsdFZXZDFOWE1aMFhWcDFmUUNqZFhXeXRkMWJRZ25KNUdUU09PT3Vfc08xNXNHTldSa3hFcU5TUjI0RWZEV1c5SENBVmRsQ3kxSl9ySDNLUl8yWTA1cHJsc053eUNFOHN0N09Hc3RtTDB2UDlyN1FyNXdkSTQ5N2lTX0I4eXE3aVZxS3JWeDh1a0tYZS0zVlpISGtRMGd1c1ly0gHuAUFVX3lxTE5aYmgxUVZDUG1uaGZtbVRDUmVjTEFyWDNPM1EyUld4YVF0RzFsWkJaSmpVUFRHU0RHSk5qT1FiRGZES3JldFRWSU1idzBINU5DN2pjbS1xcG5EMk5zdHBISGhrUUZTT1RHYnNMQkg1NUNSazh3VlBZazJZOW1xVkhiSFB3Yk94M24xVy1rQllaVThfMkxxbnlWcGU1YkNjdXRqcG5uMVh3QTdwSzh0ZFN1S0lmakc4Sk8yY0xkQ0hRWUZVejdETzhRMnoteWVvSzlVZDlUZGRqa1Rnc1E5cF83aHppYVZJWE1Tc3ptUkE?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-12T13:27:09+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "BRICS Summit",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "a77c9ea7d6c3",
@@ -946,23 +963,6 @@
    "score": 23,
    "category": "other",
    "company": "Amazon Pay To Double Down",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "97e81121629d",
-   "title": "California governor signs law to limit children's social media risks",
-   "url": "https://economictimes.indiatimes.com/tech/technology/california-governor-signs-law-to-limit-childrens-social-media-risks/articleshow/134082970.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T17:52:38+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "California",
    "amount": "",
    "stage": "",
    "founders": [],

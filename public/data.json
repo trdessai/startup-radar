@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-12T13:33:56.830708+00:00",
+ "generated_at": "2026-09-12T13:43:00.412368+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 4,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "97aaad49aa1d",
+   "title": "RBI rejects Tata Sons\u2019 deregistration bid, listing requirement stays",
+   "url": "https://www.livemint.com/companies/news/rbi-rejects-tata-sons-deregistration-bid-listing-requirement-stays-11789218797955.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-12T13:37:53+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "RBI",
+   "amount": "\u20b91 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91 lakh"
+   ],
+   "alerted": false
+  },
   {
    "id": "e919f94e0c60",
    "title": "WestBridge-Backed Way2News Restrained From Using AppsForBharat\u2019s Confidential Data",
@@ -945,23 +963,6 @@
    "score": 25,
    "category": "other",
    "company": "California",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1a913a791732",
-   "title": "Texas judge rules TikTok misled users on child safety feature",
-   "url": "https://economictimes.indiatimes.com/tech/technology/texas-judge-rules-tiktok-misled-users-on-child-safety-feature/articleshow/134081284.cms",
-   "source": "ET Tech",
-   "published": "2026-09-11T17:17:55+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Texas",
    "amount": "",
    "stage": "",
    "founders": [],

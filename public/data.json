@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-12T05:27:29.393343+00:00",
+ "generated_at": "2026-09-12T05:36:14.147218+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
+  "fetched": 21,
   "fresh": 1,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0a937172188c",
+   "title": "AIIMS Guwahati launches cardiac surgery programme",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTNaaFZDTjBNdEFxWFh5Tld6WE1VN1JpOE5XY2NrN3c5Q29nRHNQeHhMZkhXZU5sZTdPdUNQZ3RpTU9XOWxodFZkYnJPRHFXZVdDWnExa1JkZXpSV1EwTFF0SXpxdUJXN2RjTzZGVExpU3RfUzlOdjlvb3BaTWhTdmNnY0xzRzFlU0JCWTg0eV9qOC1JS2pnOTl2OVZnNkEzSmhFcC1SMW4ybjNvdkNfVEJiN0hmTUVM0gG-AUFVX3lxTE9nWTJzalFWRFcxSkxHQ0UyS1V5ZlY2UnpxbTFoZjhxS24wQkdmQkwyUGQ2TVU2cEhmNnlSN1dEYVNTbUVzbjlwM3JSemN2UmdRUjNxakhBc1JyaFhrZGpkLVBTZWgwYTA2dktPYndhVHpzSkdWblpPUlZFOVFEVzFXd2I5VW1ZWDYxNE1nWUM4ZEZCNVpQbTY4aUtkYjMtenAzcHR6eUdrUkFhV1dzTFE1WmpNSndWOVhWcmVUalE?oc=5",
+   "source": "Medical Dialogues",
+   "published": "2026-09-12T05:15:53+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "AIIMS Guwahati",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "f0dad80874e7",
    "title": "Peep Beauty Brings Triptii Dimri On Board to Build Eye Beauty Brand",
@@ -770,23 +787,6 @@
     "funding in headline",
     "no company named",
     "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b44d22e745e1",
-   "title": "Deals Digest: PE-VC activity slows, M&As soften",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZaFpxcHhvVEpuVzF1MUJwcEhuUWxkeHJOaXdwQmJUaEwzczZKcHNUV0ItNFpFSHJSdkFfV0phX0V4N05yRGdpYXpPd1I4RUp5TUFJT2hoTno2anNtWWpCYVFmUGxmRkxNajctYUY0TEMxVjF1VzRWUQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-11T14:03:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Deals Digest: PE-VC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-12T11:16:53.723707+00:00",
+ "generated_at": "2026-09-12T11:25:58.668362+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 0,
+  "fetched": 23,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -211,6 +211,23 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c31646684fbe",
+   "title": "NEET Counselling: NMC releases seat matrix, total medical colleges reach 836",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzFLYzQ5ajFCRlJlVC0wTUR0bUpfeTlyWnNIZWl4LTJXLWwxeFFSMjNVbzRYRGsxYm80Y2RCdnRnSktwUnY4NERIUVhzcllScXZZWnVMZlZjcTJQUkE4Y1cyQ2xVRG9oWVpjYUxkSFBqRTZ4QVVUQ3kxN19xUWE0ZjZRUU80Vmk0V1FsNlBUV1pWbU9kT2ZNMy1NNnZHZUp5TXV0OVZUMUwzaktrWGlmajZlR2dWai1DaGdDLWtMM2xRQdIBwgFBVV95cUxQYzFLYzQ5ajFCRlJlVC0wTUR0bUpfeTlyWnNIZWl4LTJXLWwxeFFSMjNVbzRYRGsxYm80Y2RCdnRnSktwUnY4NERIUVhzcllScXZZWnVMZlZjcTJQUkE4Y1cyQ2xVRG9oWVpjYUxkSFBqRTZ4QVVUQ3kxN19xUWE0ZjZRUU80Vmk0V1FsNlBUV1pWbU9kT2ZNMy1NNnZHZUp5TXV0OVZUMUwzaktrWGlmajZlR2dWai1DaGdDLWtMM2xRQQ?oc=5",
+   "source": "Bhaskar English",
+   "published": "2026-09-12T08:10:29+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "NEET Counselling: NMC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
    ],
    "alerted": false
   },
@@ -7080,23 +7097,6 @@
    "score": 68,
    "category": "launch",
    "company": "BLR Startup Island Computing",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5630384d33b5",
-   "title": "Kia Sorento India launch: Kia\u2019s first hybrid takes aim at premium SUV market",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM29YQXpVUVNCTU5OUlJfS1RIRmFXRENIeHVJYU9zTlpaV04ycUlORERIajI5bmtkbjdGb0s2bGdBTzBuYU1JckNvbWpIWENKYjhiZVotMi1XN3ZnX29ucHNJa0d5WmF6enlydnVwRkx4Ny1oLTJMVl9WMzMwMTNRZDBMSV9DZUxfSzRPNzQ2NFlXN2hWUHpZWUhGQ001WWdGMkFtWVVXc2tsaFdpWmFvRFdKX2JNZTNpQjE3Rmd3aXk0NmstTWxfTmxXNG4yOVMtTkF30gHYAUFVX3lxTE9rdWc4WmtYLVRUT2owOVdBcHlBem4zWUxxV0dBYlRjdDljU0xQbnhZZU9PaTZSWWRnV1hVdnBkSzBWcWJsQXVQd2thak9YelNFcG8yM18xb3AxQUhVT2ZDY0JMYzd5Zk9yOVp5RS1lT2RRRF9ORFJSaENUVnhsMy1vTVNsOG5samVMMzNLQzVVeVZhVlNVbE1xVk9odS1IMTQyLU44dVVHVk5jR044bmJFUXdxN2UzcUVhUmx4NEM1b1RtUmtjb3lmQXg4TEgxalJvWmUtd25EUg?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-05T11:24:31+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Kia Sorento India",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-12T13:51:21.821108+00:00",
+ "generated_at": "2026-09-12T14:01:52.995964+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 26,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -178,6 +178,23 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "cb1b4382fe46",
+   "title": "India builds consensus in fractured world: PM Modi announces adoption of Delhi Declaration | BRICS",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONEY1RXVONEg3NDBjd3Vld3lJN2lXQVVBQjMyUF9OcjUxWXhhaG9VbEZlbmZ6a2daTTBxUVdocldXRC1wVjZqaUpEc2ZYZG4zWW96bnN5aUszVzUzRzA2bG9rdGYtRF9fa21zQmVyOURaeXlIYlRJdUE5V0R4WjZyYzV3VFRpM3EtaDZIUW1LeDBiXzJESncxRUZkNVlvYllqcm5mTGVGQTNkR2ppLW1oeHBJMVNXSVdKa3FCbGdIRFR0ZVB3UEwtdTFzQXJSQ2lfdkd0dDFGTXVUdXBJbENmRFFITXJDWVFvX1FQd19Zb9IB9AFBVV95cUxQZVpmV3dDcGFLaU9PZTE4VXJsN1NCWUZkbDY0YktzTnJoT1NlcmJwOUt0Sjl1b00wTTM1UmhSTkFFd3lZNkJaTjFQaHZWaDlNRFhPcTFZbVRaWEp0el85RGdZM2dYNWxyaGZnaWlPWDNva3pSLW9QRXItQ2ViS2g3WldPT0JNd2FSZEFNUFROUE53eHRKNUQ5bGtTVlEyU29OVEZ3MnRER2hWaFB6cVFSSlMzZjVkQnBQcE92RnZfUWE2c2ZxS08tT1pjNmdqR0NweFJRa2ZWWjNXMjkyYTZoTGwwWndBelZSTDNPaXdwSHFldHJn?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-12T12:15:22+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
   },
   {
    "id": "6ddab8c0a63b",
@@ -951,23 +968,6 @@
    "reasons": [
     "no clear event",
     "\u20b9156 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c0176bb845e2",
-   "title": "Amazon Pay To Double Down On Insurance With New Offerings",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYU9ncEdwSFRJMFRlYjdGUHBIUEw4bS1CUGpoYm93bFF2NnFjZ291enFxZ1dhTDBEeVc3YXZCdWQyNE1wczE3dndBVmVIMXpZQmhndllqdEdsS2dnMkhya2w4MHppanNINmh1c05zVVlOWm9tbS1WYTVWajlSaGgwN0NxZkdsY3BC?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-11T18:32:01+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Amazon Pay To Double Down",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

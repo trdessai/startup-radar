@@ -1,12 +1,52 @@
 {
- "generated_at": "2026-09-13T08:49:11.457532+00:00",
+ "generated_at": "2026-09-13T09:15:10.179972+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 17,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "b98da4767e9c",
+   "title": "Who are Rungta brothers? The mining tycoons now worth \u20b940,000 crore",
+   "url": "https://www.livemint.com/companies/people/who-are-rungta-brothers-the-mining-tycoons-now-worth-40-000-crore-11789289523046.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-13T09:07:47+00:00",
+   "score": 63,
+   "category": "expansion",
+   "company": "Who",
+   "amount": "\u20b940,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "\u20b940,000 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b1e706c1afd0",
+   "title": "Who is Asha Sharma? Indian-origin Xbox CEO who lives by \u2018clarity is kindness\u2019 as she tries to reshape company's future",
+   "url": "https://www.livemint.com/companies/people/who-is-asha-sharma-indian-origin-xbox-ceo-who-lives-by-clarity-is-kindness-as-she-tries-to-reshape-companys-future-11789288910836.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-13T08:52:45+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Who",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Asha Sharma",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7eaf31e86470",
    "title": "Jay Chaudhry left his home in Himachal with \u20b920,000, today the Zscaler CEO is worth $9.3 billion",
@@ -1144,23 +1184,6 @@
    "founders": [],
    "reasons": [
     "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "55b007930ff3",
-   "title": "Flipkart Minutes records 4X YoY growth with presence in 150 cities",
-   "url": "https://yourstory.com/2026/09/flipkart-minutes-records-4x-yoy-growth-presence-150-cities",
-   "source": "YourStory",
-   "published": "2026-09-12T08:09:43+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Flipkart Minutes",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

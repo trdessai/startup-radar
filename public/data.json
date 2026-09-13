@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-13T16:18:53.807605+00:00",
+ "generated_at": "2026-09-13T16:29:54.247398+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 26,
+  "fresh": 2,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "b13a5e4a379e",
+   "title": "Unacademy, Astrotalk, Noise founders back Triptii Dimri-led startup Peep Beauty in \u20b912 crore pre-seed funding round",
+   "url": "https://www.livemint.com/companies/news/unacademy-astrotalk-noise-founders-back-triptii-dimri-led-startup-peep-beauty-in-rs-12-crore-pre-seed-funding-round-11789313283932.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-13T16:20:35+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Unacademy Astrotalk Noise",
+   "amount": "\u20b912 crore",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b912 crore",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7fa0e74947fe",
+   "title": "Hyderabad houses 515 GCCs, to add 50-70 in next 1 year: report",
+   "url": "https://yourstory.com/2026/09/hyderabad-houses-515-gccs-to-add-50-70-in-next-1-year-report",
+   "source": "YourStory",
+   "published": "2026-09-13T16:17:34+00:00",
+   "score": 62,
+   "category": "product",
+   "company": "Hyderabad",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "b91e161fdebf",
    "title": "HISTORIC: Vande Mataram Played Before The National Anthem Ahead Of The India and Afghanistan First T20I Match",
@@ -1114,40 +1150,6 @@
    "score": 23,
    "category": "other",
    "company": "CNN Foods",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "84147c7e02ea",
-   "title": "After Sam Altman, Anthropic\u2019s Dario Amodei Calls For Pacing AI Development",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2JZNWRxaUZyNmZ0NnMteGs3M1I3Q2N3Rk9LdC1taktHc1pzUjk0ZVhqcWFVUGh0U29zSWNDTm5aRnJzT01rSDZIWnJnVzZTWnA5OHVNYl9MMXJmSTFhQ3g1QjV3c1Y4S1psTmxqRzl3Zms4UzM0REdjUndmMktPOG80bTBValQ1WHRhQmVzai1Wd3RwRDBxUzk0VXA?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-12T20:12:24+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "After Sam Altman Anthropic\u2019s Dario",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "46ca7336baa0",
-   "title": "Tamil Nadu CM Vijay Studies Britain's Motor Racing Infrastructure on UK Visit",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFJOdWFJSVhZajZGeXpOTS1UakhocmNLRHc2T2ppOGZvS2UxSl9aT1gyRUFDajQ3aFBEYUlVUmszWmx2NkNSbDRDZFJORVlHV0pBMy1TbFBEYm9uTVR5SGNzXzIyQkNqcjV6TEhKMEZvRk01VE8xODdIZkUxclowWnlEZEtaRnRqVzB6eV9CaC1LV1c5ZFhvaFJQS3JEc2IzZ3Q3YWVidmRRUHFFckp1cW9ucTFybHc?oc=5",
-   "source": "sportscapemagazine.com",
-   "published": "2026-09-12T19:28:14+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Tamil Nadu CM Vijay Studies",
    "amount": "",
    "stage": "",
    "founders": [],

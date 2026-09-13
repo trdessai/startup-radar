@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-13T19:01:45.441371+00:00",
+ "generated_at": "2026-09-13T19:15:48.193551+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "692600248465",
+   "title": "Lyft launches commercial Waymo robotaxi rides in Nashville through its app",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nLXZRYWcyUWNNNnhuUkR6THhjRGVCNy0wT0pQclFWT0pWUGc4S2VTNWtoWmxFdzJFbHBOUDFocHJRQXFGNTd3eXBBdC0ycldJdVlOczIwRGlvZnhWT0NfMXVXU3VibUdoMnUwcUJn?oc=5",
+   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+   "published": "2026-09-13T18:50:22+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Lyft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "42250d54427e",
    "title": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
@@ -1211,23 +1228,6 @@
    "score": 23,
    "category": "other",
    "company": "Antimattr",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b9d7188bda1a",
-   "title": "Auxobit Aerospace",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jdkR4SDRFN19ZM0JlbVFTYmRfMUF5aTViLVNrTHBjRkFya0VGYU5oNVZ6SEFFbmhwbXRZa0NGV0NnRlFXU19IR3phTldxOFBRY3c2cTVQMA?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-12T20:47:28+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Auxobit Aerospace",
    "amount": "",
    "stage": "",
    "founders": [],

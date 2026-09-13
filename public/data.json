@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-13T10:34:49.924593+00:00",
+ "generated_at": "2026-09-13T10:44:42.892075+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 0,
+  "fetched": 14,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "9a356dfde68e",
+   "title": "OpenAI's Sam Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable/articleshow/134194374.cms",
+   "source": "ET Tech",
+   "published": "2026-09-13T10:33:24+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI's Sam Altman",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "5313d525e3ba",
    "title": "Zeta targets global profitability in FY27 as overseas business scales",
@@ -1197,23 +1214,6 @@
    "score": 27,
    "category": "other",
    "company": "Airtel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "34bd99c5a811",
-   "title": "GFF 2026 Day 3: BharatPeX, PayU and OneTag Spotlight the Next Phase of Digital Finance",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUdZR3U5NUkwLWpxcUItYTRvTzVYRzVHSG8zMzZoNUN0YkQwZ0hYTUQ5eGtmWm1vRm9wUzVMU25VYXFoYWZ3TmtnQjFOU3BqdXBINXFHMFJ5bTdCTWZ4UU1kek80aXp1d1VIX1RuTUZmUjMxbnB6YXVaQlBlU2lILUFxeWhhRkJUNkdnaVlzZTFHLWUwVkVFQ0p3VHpUUkFvTVNqMHV3M0RVbEdDSlRZRzJBSUhjX2tOcUFoMW0xSE5rMlU?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-12T08:11:45+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "GFF",
    "amount": "",
    "stage": "",
    "founders": [],

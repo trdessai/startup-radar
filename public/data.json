@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-13T05:27:17.027746+00:00",
+ "generated_at": "2026-09-13T05:35:50.285811+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
+  "fetched": 17,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ef49d548ba51",
+   "title": "Swish Buys Itself More Time At The Quick Food Table",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUdiZWtHWVZnYlVaU1UwcFVvWnY4WlpHQUxGM0wyMTJ2c0k5Q1FYbklGaDRmSXBPd043NGctWnJBVDdyb0x5LWtrRmxadjhqZENoNGxFTXp6REl6ZWFjZWh6ZTYtUXU1WVI0anFjakY2WmpsX2JETHpRazVxRE9INHJiMktnUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-13T05:30:21+00:00",
+   "score": 61,
+   "category": "acquisition",
+   "company": "Swish",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "d587e5711b47",
    "title": "Karnataka seeks bigger ExxonMobil footprint in Bengaluru, eyes skilling and startup tie-ups",
@@ -7078,23 +7095,6 @@
     "funding in headline",
     "\u20b9170 Crore",
     "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5567b5a6edb0",
-   "title": "Flipkart\u2019s Next Video Commerce Bet: Microdramas",
-   "url": "https://inc42.com/features/flipkarts-next-video-commerce-bet-microdramas/",
-   "source": "Inc42",
-   "published": "2026-09-06T05:30:37+00:00",
-   "score": 59,
-   "category": "acquisition",
-   "company": "Flipkart\u2019s Next Video Commerce Bet:",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition"
    ],
    "alerted": true
   }

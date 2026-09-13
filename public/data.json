@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-13T01:27:47.671960+00:00",
+ "generated_at": "2026-09-13T01:37:34.260179+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 3,
-  "fresh": 0,
+  "fetched": 5,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "bb086f4d86b3",
+   "title": "Tata Sons faces IPO deadline with RBI decision. What happens next?",
+   "url": "https://www.livemint.com/companies/news/rbi-tata-sons-ipo-listing-tata-trusts-noel-tata-11789227983193.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-13T01:30:43+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Tata Sons",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "f0c5a48c5087",
    "title": "[Korean Startup Weekly News #135] AI Infrastructure Goes Global",
@@ -1008,23 +1026,6 @@
    "score": 18,
    "category": "other",
    "company": "Pizza Bakery",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "211250c414fb",
-   "title": "Popo Global",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43ME5JV0NkZzcycVRLdkVmb2s3dVd6M090bVgtdUlnZ2c2ZVpxODZ6QnpEZU9UZGkyXzdrWUdKeWtpQkEzNUxsbzlWR2FCa2xkbTBiWERrX0lBdw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-12T03:54:42+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Popo Global",
    "amount": "",
    "stage": "",
    "founders": [],

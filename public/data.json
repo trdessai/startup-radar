@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-13T14:18:25.671254+00:00",
+ "generated_at": "2026-09-13T14:28:14.213932+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
+  "fetched": 27,
   "fresh": 1,
   "alerted": 0
  },
@@ -68,6 +68,23 @@
    "score": 23,
    "category": "other",
    "company": "Oversight Board",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "92096580d7ad",
+   "title": "Ruturaj Gaikwad To Replace Shreyas Iyer? As India Faces Several Selection Dilemma",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHRLQVZkX0FyY1ROMjRaQ250MkhUTG5EVzZNd01ZbEE0SUFZYVFKT2owVGRoc3oyTXFmUVFnRE11RHZwMDRRSnF1MDdrdXgwNnQzb3BseXk0MExCc2JvLS13dzZKTUN4NHZqbmExdGVKLUhvZkM2Yl9ZeS1jaTF0a0VoRU1DRF96QW11R2ExQ1FySnNEZVFvMjRUM3JZUG9OUTZkTFVWOTlucnpvRWpqejZmV2V6d2NYX1dfUw?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-13T12:59:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Ruturaj Gaikwad To Replace Shreyas",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -1172,29 +1189,6 @@
     "$4.9 Million"
    ],
    "alerted": true
-  },
-  {
-   "id": "a56d8e3c94d4",
-   "title": "Nazara founder Nitish Mittersain, others invest $4.5 million in climatetech startup Circolife",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQem1kR2VsNjYwUC1EaXlsaFZEOTZldFg0M3hFRURHdF9Sbi0yLUNVZHFzNG1INGJmcUxBRXdTMFo0LUFKV2N2UUpKQ0xWOXFsdmYzRzBFMGw5cUxQVUxnWTVrUTgtZEV5UjZsZ0xqb2Z1eU9VLWtGVzZRRFJ5LXJXNUtrSnF1Tk5uTkpCVU5sQlNRZ3o0UkdOempxdXBHOWo0VmJqVDl5ak9DU1MyNXk3cVB2dHI4OTBqSzRhb0FsZ3g2dTVPWkNxTF9yM0I3ckljTkFF0gHTAUFVX3lxTFB6bWRHZWw2NjBQLURpeWxoVkQ5NmV0WDQzeEVFREd0X1JuLTItQ1VkcXM0bUg0YmZxTEFFd1MwWjQtQUpXY3ZRSkpDTFY5cWx2ZjNHMEUwbDlxTFBVTGdZNWtROC1kRXlSNmxnTGpvZnV5T1Uta0ZXNlFEUnktclc1S2tKcXVOTm5OSkJVTmxCU1FnejRSR056anF1cEc5ajRWYmpUOXlqT0NTUzI1eTdxUHZ0cjg5MGpLNGFvQWxneDZ1NU9aQ3FMX3IzQjdySWNOQUU?oc=5",
-   "source": "indianstartupnews.com",
-   "published": "2026-09-12T13:05:22+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Nazara",
-   "amount": "$4.5 million",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Nitish Mittersain",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "$4.5 million"
-   ],
-   "alerted": false
   },
   {
    "id": "d324d08bf5fe",

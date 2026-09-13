@@ -1,12 +1,80 @@
 {
- "generated_at": "2026-09-13T10:51:46.474120+00:00",
+ "generated_at": "2026-09-13T11:01:43.900328+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 17,
+  "fresh": 5,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "92ff31d8cfbd",
+   "title": "BRICS football alliance launches India chapter to promote peace",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJTVBVMVVUUnd2b0RGREQtQ01CcDRyMk9qVHdSbk9GVThyem9jVnNVVGZWcDRzNVFTc3dfZ1A4ZTlRNnpFSnk1VFp0dFYzNzZxYU1HYVB2T19vSDU3REVtZDFtWGlhVzJNakh5RmdRa09LTWF3S0hjQmV5NnlLLXhNN256VGVtM0dCQ3d4MU1meWlLVlJzeDZsRC0?oc=5",
+   "source": "The News Mill",
+   "published": "2026-09-13T10:53:05+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "BRICS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "bd0627e06f99",
+   "title": "South Korea's expanded espionage law takes effect amid push to protect chip technology",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-koreas-expanded-espionage-law-takes-effect-amid-push-to-protect-chip-technology/articleshow/134195142.cms",
+   "source": "ET Tech",
+   "published": "2026-09-13T10:49:11+00:00",
+   "score": 55,
+   "category": "expansion",
+   "company": "South Korea's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fdff3c0fce15",
+   "title": "Obama voices caution on AI, urges Democrats to tackle it: NYT",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt/articleshow/134194993.cms",
+   "source": "ET Tech",
+   "published": "2026-09-13T10:45:57+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Obama",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2cffc6b68435",
+   "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say/articleshow/134194829.cms",
+   "source": "ET Tech",
+   "published": "2026-09-13T10:42:56+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "9a356dfde68e",
    "title": "OpenAI's Sam Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
@@ -41,6 +109,23 @@
     "expansion"
    ],
    "alerted": false
+  },
+  {
+   "id": "94938d0cc7af",
+   "title": "GTA 6 Launch Next Month: Grand Theft Auto VI Marketing Campaign Negotiations Approved by City Commission; Know What It Means",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTnRyZEltcGpucjZ5X2VaX3ZOSzdRX3JOdFNkTmhyeF9MRWV1MFBmSndISmg3Tmp4Y0I4NmMtYXNMTjR5YlVyM3U4S0FfRXFPNzFnNTVwWWJCRGlrNXlJWXJmcERfeG90bXVDSXRYUlZlVGQ4YnJ5dTkyVWJsSTNpVWYtQngyZkg3Vm40N2laMEpqVFlNSlNtSHNlc0l5YzhkYVJiSjFyblU4SHNwa2NpcVpMTE5fVEZIbVM0R3RwTWNFWlNkRkhtR1ptLUpBQXpvZnBPZjhqRzZsWVlMUGJ0SzFWbU5VVUZRaDBsZXJ0c053TXFHMkVyZXlqMA?oc=5",
+   "source": "LatestLY",
+   "published": "2026-09-13T09:50:07+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "GTA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "4a8ee89eb280",
@@ -1120,23 +1205,6 @@
    "alerted": true
   },
   {
-   "id": "bd9ed5cef6ee",
-   "title": "Rahul Dravid Names MS Dhoni Ultimate International Captain Over Virat Kohli",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeWw1YXdFckhzS2diYVU4QW5zdFhNbXE2eEVaUktFUDNfOGozTVg3YWpTOG15cUhza2p4Tm53M2hkOTVHc3loNlQ5aEpsNDJlcWU3elNfeTVITjdEUEN4NVp1REdRa1dxRHVIWnEyYXJBMHJaZXZzNnJOa3o2WDdJMHdDQnl2YUhKWkxSdXZWMThzV25LLTZ1T096Vk1HWVVPSjlrNS1uU0RZeTFBWVZQWjNsYmxmTW5IZVNMNS1mcDZJRTAwWl8yMXI5M3VfWXBYd0R4UVF0WEZ6LXl3OUR5Yk1TM2xsNGs?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-12T08:37:54+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Rahul Dravid Names MS Dhoni",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "420e15a50338",
    "title": "SOCIAL launches SOCIAL STUDIO, turning nationwide network Into infrastructure for India\u2019s creator economy",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQlphblc0S3dxejN3Q3YtMWdLc25XWmJNa01GYnd5VDVPMldYbmJteVRaYldDZW04OVQ1NXlqV1JYOFV6QlNKMDdEMEhHZ1daNVRCV1pYOE1jbVhlTmlnUlE2ZmNyWWtyeW5xa1pqa0ZPaFhYVVdmTktjUjBvUWZ3SGg5dlhZWTEtMkF0RHR0T0hYajhZeVRnZ29QWWhLV0UxUzM1QVNsSXVNN3BTMTBvUEhEWXJQXzVKUG9vM3BScFJ1VFo0WDhsR0x1VmdHYjlNYjNxUGs1ZEhHTWhLcjBablpneEVuVDVLb2dfMW9Obkp3NTNCTDVwQlRaQ0U0US1PN3hZcE1FN19nWVXSAY8CQVVfeXFMTnVpSXo3WGZfSi1xMzFNRGtpRXpjRW1CNnlRczBNZmVrSTZwc0lSTkVUVHZlYXVkZW9ZdHJMMVVRYjFlMGVuWDJNcTJnLWM2ejN0WWhHSzdqQTlDSnNkYzdDWXVHdk9JcTZpZ1lhZ3hBZVRXX1RiTzZVYlkydHFSRElOYWpvMk9TN1I0N214OHdxWGVTWVp3TFRsM0Eyc3B2am9pbEhYaHAweVBtRF8xWlMwdDR5Ym5sWkZ2eXZ4eGhlSzk3RXZ6S1pSblg5WTR4VUdfWjBwdkxXUW90ci1WQlNaRzU3enRBVHhCLTNCWVpUYUJ0M3JBMUFwRUdBU1pFUzU1c08tbmhaT3ZqR2N0aw?oc=5",
@@ -1152,75 +1220,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "88eaf3c9c25c",
-   "title": "Strider Robotics",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlMTlyelZId1d1ZUdMMm00Q3QtWjF2bE9MaGpsMXlBMkZ3RS1Ja1cwYmJxX2dCd3ZUd190ck1rUmlUTks1UDV5Zy12VDRsTzJwZXg2b1JB?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-12T08:35:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Strider Robotics",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c0332b9ea552",
-   "title": "Saubha Aerial Systems",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYOEp2TzNPR2ZyWng0dFNVSHB3R1NzbWdhUFBOb2k0U0pfRGVqZU4yX1o4UVllcG8zek5aT0Y4TXBCcGJpRTdlRmFYNFc5aHB1eWlieW5LLWItRng4?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-12T08:35:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Saubha Aerial Systems",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d63a737cf4c3",
-   "title": "New ecommerce rules could add compliance load for small sellers, say industry experts",
-   "url": "https://yourstory.com/2026/09/new-e-commerce-rules-could-add-compliance-load-small-sellers-say-industry-experts",
-   "source": "YourStory",
-   "published": "2026-09-12T08:16:06+00:00",
-   "score": 50,
-   "category": "product",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6be6ceaafd1d",
-   "title": "Airtel bats for sovereign stack to process data from India",
-   "url": "https://yourstory.com/2026/09/airtel-bats-for-sovereign-stack-to-process-data-from-india",
-   "source": "YourStory",
-   "published": "2026-09-12T08:12:07+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Airtel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0a937172188c",

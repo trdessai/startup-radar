@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-13T06:55:25.441018+00:00",
+ "generated_at": "2026-09-13T07:02:30.430644+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 1,
+  "fetched": 22,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "8db55ae72cdc",
+   "title": "Indian-origin engineer's Discovery Loop to raise funds at $50 bn valuation: Report | The terms of the deal remain subject to change | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnBMVmFpeEM5TVpHWENId296WHczX1IyZ2tYOWVaV2R3SVVxUHhiLTR1am5JTlpPMzFTT1M4aWJ5N2JiUnNTNTRVSWdJR0tRNThPenpaMEVMVENOc1RGckpVYnd0RmJSN3U4WUhZZzloVDBybDNiY0dwV3Z0ODJfMEhnUzlRdWtnX19TVmZ3aFRJOWlUUEsxVjE4LXNHRkFVd1pyN3k0ZTJHN2Q4TWk4c0N3c1o3QW5kaGNuMTNiRlpKdTTSAcgBQVVfeXFMT2c4MkVaMG84c2cyM0xFOWFjU2szTmFTUk54V3BLWDJCUjBiZllxNE9ITW9mWXlfRGFtVEFKb3gxV3RNdmVMQ0R2cnd1b3BTOWdsV0V4UkJmaEdLM21ILW5KZW5QSDhLMnlQdkRqVTZFRi1kSTN3VWxCdzZEYkR3dk1yU1l0cUZSdVJiZHVfMXh6ampHVWFUMUI0WmRZd1VjSmhCeFZRYVVOSXFuSFJ2OWZwN2s0Yk9UMFRhcTNPdDVsRnZ2bnc0YWM?oc=5",
+   "source": "Inshorts",
+   "published": "2026-09-13T06:57:00+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Indian-origin",
+   "amount": "$50 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$50 bn"
+   ],
+   "alerted": false
+  },
   {
    "id": "2f46f9d34d07",
    "title": "Autocar India September 2026: JSW Combat, Scorpio Lifestyler, BYD Denza and more",
@@ -16,6 +34,23 @@
    "score": 23,
    "category": "other",
    "company": "Autocar India September",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8b15a88bd56a",
+   "title": "TV Today Network Approves Sale Of FM Radio Business To Creative Channel",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdS1qWEtFeUlzZUVfSXNETDhmWFJROGZhNC1IQ3ViZVJ4SHZoTlRFNkt1NHdTd1RFU2NqWXNMV05TcGtjYnVRNVNIbEV1cTJLUEpLV29Fd2VYTFpRX2pBbm1lZW82VWdMOGJKRWJvb0VMUUV2TTBmS2tpZHc5Y0gtSm9jVExqMGZ2d1lKYXl0TXNYMGhUN1UzSlhsMHpQT2JCbE9QWHgtUUxiaFlNNVpyWFVheUpueEVEb0dB?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-13T05:40:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "TV Today Network Approves Sale",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -1074,41 +1109,6 @@
    "reasons": [
     "funding in headline",
     "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "83799f05a91a",
-   "title": "Lindt opens first India store in Delhi, with 25+ Lindor flavours to pick and mix",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcV9XcjB1dnBZRy1FTTE5bmRrZlg1ODVNTExDR2NoOTRNUW0zSVEyOUdIbHdMU0k2aUFNYUFuRDAzUTNQQ0N0NEE4QzNTYTBkQkEtSTZwQW9hV3R6SnliVHFNMmItUHRMUW52N1AwLTFBTDQ2X2g0QTZkNXFiNDF4dnJKcDNJS2djX3hTWk9KVVFmdE5FaVVBSmVmdFRaS3hwNnNtaWthRDFidmpPR25ZV2Rnaw?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-09-12T05:50:38+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Lindt",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aba15f609ef8",
-   "title": "Weekly funding roundup: The startup deals you may have missed in week of September 13",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeDR4M0M0Vmx6VGY2MlpXQngyWjJfaUdBLVRoM0UwRW5JUXplTmV5d1Jid1JScXJzUkFXbEtRZU9tUlJkQjRKVGlFQ0VtTVFSdlV2VVFZelpPOE5wQXBNNTJiMUdsZzRtUVk2bWxsUTNMMFhTYTR5RGVxaW1KNzcyNG9kSF9hWUtWSExKVXA1VnJaRWYyZ1FZWGFNYUg0R3FQeVRlcUVWT0ltTjR2TmhmZWJGTkg2LW1scmV2eEh6bS0wYzdCcmlYZy1oTmY1VGF4cmwwVnlDZEI2bE5VWWt6TEhaNNIB6AFBVV95cUxNSzRpV194SHY1a2JNRnR1ajluODhrM2oxbFVxOXZsaFNfUXF3MGRUTW1hQUpWTkt4ZDFjLVpqbXdzZXlmZTFLbWE4ZUxnQngtZXYtNUJwNkFocHAtZVhybnJ3Ukt1UllibDZjVHQ4NnFHRV96MnZ1X2tpejBvMmFwQnhocmV6N3ItSlMxT3gxNGtTVUU1SUlVdTRlVnFfeC1IdFNpOW9HVWRoWjFxa1RtRWVfMHRJajlqYU43YmpORW1vYUlGTlh2Unc5NmQ3RGRCTnZIMm5UdEs1X19WWW9ZOERBcjc5T0JB?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-12T05:31:18+00:00",
-   "score": 20,
-   "category": "funding",
-   "company": "Weekly",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "listicle/opinion"
    ],
    "alerted": false
   },

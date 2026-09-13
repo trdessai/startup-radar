@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-13T14:01:56.097108+00:00",
+ "generated_at": "2026-09-13T14:18:25.671254+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 24,
+  "fetched": 26,
   "fresh": 1,
   "alerted": 0
  },
@@ -21,6 +21,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e1a9e43e894f",
+   "title": "Why a Japanese entrepreneur sees India as the bridge between rival worlds",
+   "url": "https://yourstory.com/2026/09/why-a-japanese-entrepreneur-sees-india-as-the-bridge-between-rival-worlds",
+   "source": "YourStory",
+   "published": "2026-09-13T13:51:40+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Why",
+   "amount": "",
+   "stage": "Bridge",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Bridge"
    ],
    "alerted": false
   },
@@ -1175,30 +1193,6 @@
    "reasons": [
     "no clear event",
     "$4.5 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "63aba7dabbd9",
-   "title": "upGrad co-founder Ronnie Screwvala, others invest Rs 40 crore in voice AI startup Navana.ai",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOEE1b3d1anN3VC04OWZ2NlMyc0dtNHRlc0FidjdIdEZ4UFNaeVJ1UWhtZl8xRkhCdVp4VDZiZlFnaGFKc1FoR244LXF6czdSajV0SUtJMFdEMF9mWW1VaFNwUjA0azJ5c3lseU9VTzdsN2VpVHRxRzBzSkdua1Zwd3lWMXdqMVNFeG90bVVmN0w4N2E0UDFubWpYM05PX1duSjVPaUVRdy1pWFZMZzhPWUt2VHRLMUJ0azZzS2tyZDFUWW1RaVJEb2tjNkFNOXVGTlHSAdIBQVVfeXFMTjhBNW93dWpzd1QtODlmdjZTMnNHbTR0ZXNBYnY3SHRGeFBTWnlSdVFobWZfMUZIQnVaeFQ2YmZRZ2hhSnNRaEduOC1xenM3Umo1dElLSTBXRDBfZlltVWhTcFIwNGsyeXN5bHlPVU83bDdlaVR0cUcwc0pHbmtWcHd5VjF3ajFTRXhvdG1VZjdMODdhNFAxbm1qWDNOT19Xbko1T2lFUXctaVhWTGc4T1lLdlR0SzFCdGs2c0trcmQxVFltUWlSRG9rYzZBTTl1Rk5R?oc=5",
-   "source": "indianstartupnews.com",
-   "published": "2026-09-12T12:59:34+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "",
-   "amount": "Rs40 crore",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ronnie Screwvala",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "Rs40 crore",
-    "no company named"
    ],
    "alerted": false
   },

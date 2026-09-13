@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-13T04:01:51.642765+00:00",
+ "generated_at": "2026-09-13T04:19:11.585598+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 2,
+  "fetched": 11,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "f6ad56adec7c",
+   "title": "AI Startup Discovery Loop, founded by former Google Chief Scientist Jeff Dean, seeks to raise funds at $50 bn valuation",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb3hjcWJOVk0xQ2EyRk11b1JmUGxKbGhFWkZuUE1ZRUlCNWpoWkctSGZmWUlON0dwLUNnUVM4dTNwQUFFc2V6cFdWdDI5QVliNk5WczU2RGx4WWZ0QWNGZXNWdG1aa2FRN284NVlET2lFOUFvTWxxTjJKM25uMlhCZ2Vwa2pxX29HX1o4UTFEbVNua0hvTlE0dzFleFBPN3R5ZTdmVUZLOGstTXZuS3J1cW1qeDUtVnRGU0FFUlNWb3NOV2VCVERTaGRGbXowUkRJWDVIVWQ0Snk0R1RveGZWOFRCVURDZGtQZDJGWmdaSzJaV2YtUmpEckRzTklaVEJxYzZSNnVWTk9OYUlsemdoWDFUVWgwNkE?oc=5",
+   "source": "Livemint",
+   "published": "2026-09-13T04:03:49+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Discovery Loop",
+   "amount": "$50 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$50 bn"
+   ],
+   "alerted": false
+  },
   {
    "id": "c20d3ce0d50a",
    "title": "OneRX AI",
@@ -1017,23 +1035,6 @@
    "score": 18,
    "category": "other",
    "company": "WCPL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f0dad80874e7",
-   "title": "Peep Beauty Brings Triptii Dimri On Board to Build Eye Beauty Brand",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzBFZnlVMEszUmJMQ2JTdVktVGdfeVl1aEUzRHRIM0hLemNCNjl2NmlES1UtSXN4OTFqVllROWtkLWhNV0xRdzFuS2h6eGVoajhfTjBaN21PdlcxaHpyRFgzTGMzMEc1VHRDUGpkdFd4ZHBiZ1Y3MVRLekF2MThSS0N2ODU2RjVqbDFGaThuNFg4Rml3aDdUOW4xa3JidUJOVE9Ob3NUTUPSAagBQVVfeXFMTjMwRWZ5VTBLM1JiTENiU3VZLVRnX3lZdWhFM0R0SDNIS3pjQjY5djZpREtVLUlzeDkxalZZUTlrZC1oTVdMUXcxbktoenhlaGo4X04wWjdtT3ZXMWh6ckRYM0xjMzBHNVR0Q1BqZHRXeGRwYmdWNzFUS3pBdjE4UktDdjg1NkY1amwxRmk4bjRYOEZpd2g3VDluMWtyYnVCTlRPTm9zVE1D?oc=5",
-   "source": "SMEStreet",
-   "published": "2026-09-12T04:38:37+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Peep Beauty Brings Triptii Dimri",
    "amount": "",
    "stage": "",
    "founders": [],

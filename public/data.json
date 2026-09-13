@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-09-13T15:18:07.049984+00:00",
+ "generated_at": "2026-09-13T15:27:57.935354+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 7,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 22,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "5df19e93660f",
+   "title": "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdmhRX21uejBBNThwM1VKVE1LdnZKSnU4VEtGNHlIT1Y5bHZWdVlRSEdzbnlrQWY3a1NWZ0hhQzlzZEVfZHY3bmwzdG5YeUVUYkZuTTRjX2Q5Zm0xVUNCQU9qdXo3YVRRMjVJQjRUVktEZjZlZ0ZaVkhjaVVwUzVhYlBhbVowbDg3Qkg4UHY3SHhXOE5JM2tiOEZOSnROTEk2X0YxZkZkbU11RS0yd1RqdlJxNW91clpSY2JURFFDSHFVelVjeHRoYmo0YndZdVlCTFktQ0QxT3VYeHo5TWc?oc=5",
+   "source": "indianstartupnews.com",
+   "published": "2026-09-13T15:22:14+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$412 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$412 million",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "049b3851550f",
    "title": "IND Vs AFG: Gurbaz Gets Out For A Duck! Bumrah Strikes",
@@ -1155,24 +1174,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "97aaad49aa1d",
-   "title": "RBI rejects Tata Sons\u2019 deregistration bid, listing requirement stays",
-   "url": "https://www.livemint.com/companies/news/rbi-rejects-tata-sons-deregistration-bid-listing-requirement-stays-11789218797955.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-12T13:37:53+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "RBI",
-   "amount": "\u20b91 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 lakh"
-   ],
-   "alerted": false
   },
   {
    "id": "640b75f0cdda",

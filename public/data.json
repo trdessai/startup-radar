@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-13T11:01:43.900328+00:00",
+ "generated_at": "2026-09-13T11:17:19.643072+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 18,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "30583a542a4f",
+   "title": "DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks/articleshow/134196333.cms",
+   "source": "ET Tech",
+   "published": "2026-09-13T11:11:08+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "DeepMind AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "92ff31d8cfbd",
    "title": "BRICS football alliance launches India chapter to promote peace",
@@ -21,6 +39,25 @@
    "founders": [],
    "reasons": [
     "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "edde10abb50c",
+   "title": "Indian startups this week: Funding slips 3% to $258.6 million",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlNYdTVvMWtaUERrTUZ5SnNpZUREeVZjZlI5Y08zUmdIX2FBNGVYWDRrRTE0djlpUkpleGlRZS1fSXNBQV95U0RJbXZXOXJKS3BFVzVFYUJyTGdTNVlFUkhMMTFnZGFPdXhEZzNjSnByeXprUGNsU2ItVV9pUTFDWnJWUnpmUTdVdUhVNjBOTHJwMWVuUXU1WFVXcTRjQ2c5NGpMbDBHdlZmQ3VfOFVEM3hHY1d1MHozY2lZNVh4c9IBxAFBVV95cUxOTy1YbGh6R0JfanFTM0NCazR2RkZnR204aXVZQkNBenZpU2JKZ1VqYXlCMnpYYjEtbjFGQ0N2Nnk5UGpJaTlqbEYwXzN2YXh0R3RqamV4ZGkzdHFGbld2VldOUEJFNnJfTWtHVVdoRGJvZVAtZkFpMUFLcFFBOG1OOEJILVJCbEpWdGdMRzdkWEVfN0dMQW5GY2ZVelNwNTE5RXRfQ1hPNi1TSVZTRGExZ2d3S3BSZ0pabHc0UkNxUWhCbnlN?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-13T10:49:24+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$258.6 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$258.6 million",
+    "no company named"
    ],
    "alerted": true
   },
@@ -7055,46 +7092,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3bf2feb53cdc",
-   "title": "Unicorn NoBroker aims to be profitable in 8-10 months; FY26 revenue crosses Rs 1,000 crore: CEO",
-   "url": "https://economictimes.indiatimes.com/tech/technology/unicorn-nobroker-aims-to-be-profitable-in-8-10-months-fy26-revenue-crosses-rs-1000-crore-ceo/articleshow/133834814.cms",
-   "source": "ET Tech",
-   "published": "2026-09-06T11:11:00+00:00",
-   "score": 85,
-   "category": "launch",
-   "company": "NoBroker",
-   "amount": "Rs1,000 crore",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Amit Kumar Agarwal",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch",
-    "Rs1,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bf8f2d4ad273",
-   "title": "Amit Shah announces roadmap to make India drug-free by 2029",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZF9tdWdyYjN2QnpXN2RqUnhIQkJDWWx5NS1lVXhIeHhoTG1KeUM1ZVFPV0RrOHF1ZS1nN3R1SzFGMFF4S1c4RTU0dVhiUGZMYWZ4VkpXWmFCSktLTHRveEZnM3JCWXEwNU42R2twSXZGcUlvd3haTmFWbzRCVlRJZEhYU3ZLOXAtemdzbDFIUEwxM19WTFdV?oc=5",
-   "source": "thenewsmill.com",
-   "published": "2026-09-06T11:07:48+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "Amit Shah",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
    ],
    "alerted": true
   }

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-14T08:07:57.860766+00:00",
+ "generated_at": "2026-09-14T08:23:50.383961+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 46,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "96b239dcfcf5",
+   "title": "Retail India News: MOOOZ Cranberry Vodka Debuts in Uttar Pradesh",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlhNTHFyQlNLWkNyeUF0dDdBVUU0QXROWVN5d19GeXFlOHd0TUNMcjJockNBT3ltVWMxblJHQkRoWWNiNllRLWFKLXhTNktvakdkMGpjaUFoWGQ3ekVPUmFPZjRpU2dhdU1nekRxVmc3NnN3TXhkRkgyTklyS080RVpXS0JaUkczdWNpdkc2bEV5WEFwdTU0eFV3bVM?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T08:07:15+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Retail India News: MOOOZ Cranberry",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "f155bc9c3cf2",
    "title": "UniqYou Raises Rs 15.8 Crore Seed Round at Rs 64 Crore Valuation",
@@ -113,6 +130,23 @@
     "funding in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "6b5d3c99e278",
+   "title": "Grapevine: NSE, LIC, ADIA, Speciale Invest, Yali Capital, Ultraviolette others in news",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGRQOUJIVTV0RzJ0VS1oWnJndEtzcm9EZ25sZTFWa2kxdVY2bUI1RUpGeGJkWGltTW9WcHFGSzhPRHJ6cWk0LWVPRS05aHFzc180WU9RZ3ZERGhKS00zRDdxajR5Yy1zcHhWSWU0V0pVc1VLQ3ROZ2J6eUhHaHVGeEpBTGE5QXVrNndqLVhwRl9YNGROemR0N3pCY1RWRzRDS3plSll1WQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-14T07:10:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Grapevine: NSE LIC ADIA Speciale",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "41a29d04c7a4",

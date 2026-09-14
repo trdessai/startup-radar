@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-14T19:19:44.014399+00:00",
+ "generated_at": "2026-09-14T19:31:41.150765+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 21,
-  "fresh": 0,
+  "fetched": 22,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "67135de842ad",
+   "title": "Govt Notifies New Rules, No MDR For UPI Transactions Under \u20b92,000",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0N4a0xRUWdqSjE0MnVLX3V4bTZUODd4N3I3REF5Tk80TVo3RnFqQm0tZmROMWN4TzE4T185cHVaSm41T1d5bFdIMHdUTXZTREV1b0cwQ3dKaTJvanQ0dlI0bjFvc1RKc1ZSZTZzRF9FRk5OZ1pHMDFUaWlzN28wNG9HMk5wMFJoa1JJX2VxVlBOaTc3aVdTQUlnYw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-14T19:22:07+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Govt Notifies New Rules No",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b99dd125294c",
    "title": "What Dario Amodei, Sam Altman and Elon Musk have said about AI risks, stoking 'doom' fears",
@@ -2179,23 +2196,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d64462a8f95e",
-   "title": "Building a Business-Ready India",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WSjQ4TVVxUHNXWTJ0OFdieDJPeUpOMEZkbF9oZHY3Rm9Za0RjREJ5UVJ1MGRIaG5XSWJvQjdqNlltb3VUMllxdy1adlVaeXhfMUd6SVRuU1g2RzlacEZEbWMzM193NC1oX2ZlM09EZ2xfYnN2eW1F?oc=5",
-   "source": "PIB",
-   "published": "2026-09-14T02:15:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Building",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d788c633a70c",

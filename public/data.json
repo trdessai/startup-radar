@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T19:44:43.389724+00:00",
+ "generated_at": "2026-09-14T19:52:58.884332+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 22,
@@ -231,6 +231,23 @@
    "reasons": [
     "no clear event",
     "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6bd2f5adb0df",
+   "title": "Waymo opens robotaxi service in Las Vegas",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDRidnM4S3JQOERUR0Z4VUtfdERybjc1UXA4Rkd2U09mX0Q1VGJHM2IwYmJuVlRWZHJXZzVfaXU3QVVwcElrTzd1R0JZQ1pnekIyMWM4ZHgzZW5sQjVfNWU3US1uQmpWeXVORWxseXpiWXd0dVl1ZFFPX2NRQnR0Z1hB?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-09-14T16:04:16+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Waymo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -2140,25 +2157,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7fb6818ac97d",
-   "title": "Indian chip startups attract $701M since 2025 ahead of SEMICON India",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDV1dHhCQXBwUEtJWEZGRmxucWpWdHRWQUdXeEpJNG5LUkNZVUo1eTY2QzNIZ0hBZ28zY1prVkFIRVh5WlpaVWRNOEhtRTBVWTh5c2REYXpFa1ZDelFtaFkwbUx4dnlvWXp0M3Rxd0djZnJHZkpJc1FWbFZFUlRMRmdzWFM0cGhwOUZiMTdSY1Y3Sm9CeWZxd1QtMkZmVUlzNk5JcWs4WFFuQQ?oc=5",
-   "source": "Communications Today",
-   "published": "2026-09-14T02:40:41+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "",
-   "amount": "$701 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$701 M",
-    "no company named"
    ],
    "alerted": false
   },

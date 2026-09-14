@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-14T05:05:17.113147+00:00",
+ "generated_at": "2026-09-14T05:19:16.050149+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
-  "fresh": 0,
+  "fetched": 32,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "cc91bffba05f",
+   "title": "Info Edge appoints ex-Adobe India MD as independent director, Himanshu Agarwal as CFO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0pCam9kbXJqQmZVRVA0NjV5V0MwQ3pyMEQ0Q0QwQTZiN01sbmYxTzNwdUczczNKWndNVE85UE4xNDlOcko1bHNZN0c1X2stS011ajZLYW9pNS11cm1qLTNJU2ZZT3gtOTJnbFU2SlRyQVl6UnJ4eDlVZjVCNDlMSDBRMksyNkVZLUxvY0FfUjlzN3F3enllY3FyUUw1ZG1UdWxDY3JOdWhTSFZONTA1ZkUwTXZhS1ZZeEZzZEJIMXPSAcABQVVfeXFMTnNKQmpvZG1yakJmVUVQNDY1eVdDMEN6cjBENENEMEE2YjdNbG5mMU8zcHVHM3MzSlp3TVRPOVBOMTQ5TnJKNWxzWTdHNV9rLUtNdWo2S2FvaTUtdXJtai0zSVNmWU94LTkyZ2xVNkpUckFZelJyeHg5VWY1QjQ5TEgwUTJLMjZFWS1Mb2NBX1I5czdxd3p5ZWNxclFMNWRtVHVsQ2NyTnVoU0hWTjUwNWZFME12YUtWWXhGc2RCSDFz?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-14T05:09:58+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Info Edge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ea061afc1332",
+   "title": "'Competitive pressure cannot justify recklessness': Sam Altman calls for rules to manage frontier risk",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/competitive-pressure-cannot-justify-recklessness-sam-altman-calls-for-rules-to-manage-frontier-risk/articleshow/134233024.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T05:07:39+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Competitive",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "2beeaccd3b80",
    "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
@@ -6981,23 +7016,6 @@
    "reasons": [
     "funding in headline",
     "$100 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "38b5dca2d010",
-   "title": "Tazapay Launches Bengaluru Centre of Excellence, Plans to Expand Team to Over 150",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWHdVRW5TM0hicTF3NDI5Q2FweDNzcm94Zk1ieTUwRDFPSmw0TWlNZkw2bVZzZTl0SWhVUkxJX1NscmYzQndNbUpsSGszTElRVzdzcmxZOTZZMlFlUTNpd2V6djdHb0pqTzdwUUJvc1pZazdVVnF6VTJXTTNuWDV0SWJNZTl5QWphTEQwNW5nWUYtak1YN252SDhSdDFDR2Vrd1pobHFpeldPd2V4dU9oYk9TTlRNRGdTcnBWSElUZnQ?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-09-07T05:07:08+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Tazapay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

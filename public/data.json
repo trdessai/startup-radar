@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-14T04:48:16.317620+00:00",
+ "generated_at": "2026-09-14T04:56:58.958690+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "2beeaccd3b80",
+   "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-state-newspaper-blasts-anthropics-calls-to-slow-ai-as-cold-war-tactic/articleshow/134232273.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T04:25:06+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "China",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "d8f1a0b48b99",
    "title": "Anthropic tells investors it will be profitable for second straight quarter",
@@ -16,6 +38,40 @@
    "score": 25,
    "category": "other",
    "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec5b93499ee4",
+   "title": "Former EY exec's Rootd Ventures rolls out debut fund to back deeptech startup",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0luelBqMTIyeWlWYTdUSURta2RmTFhhZ3g5WG9FRVNRQ2FGTzhHWW1oMUVPa29nRkVNMVJCNU5SRV9nSGhFUDFZQV8tQ3E1SWp6OUh0NGlTTkZ6QnVENWJWalowYmJQUTdRY1NBZmNHTS0tYjNGbnl1ekJfMFhFUk9Uc0ctTXcteVVyaURkWnJMbTM2ajNFR09DVGVJRGoxdDdF?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-14T04:06:13+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Former EY",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b5f634d8580b",
+   "title": "RBI rejects Tata Sons request to avoid public listing",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0x4cU1DQWFUTHkwdmdKN1BCTVBJTm54S01BWk5mOXprcF9WdGdnZGo4eWZVR1cxRGRMT2hlMndMLXdHMklzM0tZYVo4OUc4akliemp4dks4SnllWF85aS1sNERrSE5IYUYzTXRVZEkyZjlzR1VETmpPelJZMW1qNTdtOA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-14T04:06:13+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "RBI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -6960,43 +7016,6 @@
    "reasons": [
     "funding in headline",
     "Rs19 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9fafd4d40363",
-   "title": "Europe's Commercial Space Breakthrough and India's Pixxel Raises $100M",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlNoT2dva1Qwb3Q5Q3ppN1ZHSVo0Sk9JYjRuY2J3cWhoczV0Q0xKb0dpNXVXNDJKMndrTGRwM3l6UkRIOTNOZV84TDdOUHk0TTlHWkxTUzNqeDdNNTdyT0FJb09Hbm1vU2NjbUtJaEEtQURPMzFFRzZMbm5XZnFGUUZ1RzFvcFlxZk1VTkhXaUlSZURvbjlEMUI0WVhCdG5xUjVqTXQ1SFZaSTRDb0Vjb0lCbGNDQXhKRmxCMS13NUPSAcYBQVVfeXFMTUlkU3VsNGNzTnVjSEdjU1U2U3RxaVdWWlBJNmJvNExKdlFtUE96TEZRTGEtNEFESV9jSmR2SGJTRGt5RHV5OV9SU0M4bEZmMllOMFByNjNBRHU4VG5NT1NaWk9HOFBDWUpsNEpOYjlhSUhMR1d0clZzaFdwb3EtNmROcm9mNjJ6R1ZIN2QxcVdLQ2F4N09vbDJIaWI4ME9fLWdIazMzejRXeFduUDBma3RaRS1qYkRPVGJoZ0RUZlc1T2Uzajd3?oc=5",
-   "source": "Devdiscourse",
-   "published": "2026-09-07T04:56:21+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Europe's Commercial Space Breakthrough",
-   "amount": "$100 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a2ec99d64170",
-   "title": "Nua Raises $50 Mn To Expand Women\u2019s Wellness Portfolio, Distribution",
-   "url": "https://inc42.com/buzz/nua-raises-50-mn-to-expand-womens-wellness-portfolio-distribution/",
-   "source": "Inc42",
-   "published": "2026-09-07T04:55:37+00:00",
-   "score": 93,
-   "category": "funding",
-   "company": "Nua",
-   "amount": "\u20b9472 Cr",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9472 Cr",
-    "Series C"
    ],
    "alerted": true
   }

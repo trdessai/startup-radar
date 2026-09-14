@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-14T09:36:51.866495+00:00",
+ "generated_at": "2026-09-14T09:48:36.883709+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 60,
-  "fresh": 7,
-  "alerted": 2
+  "fetched": 55,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "586a6824a4e0",
+   "title": "Lenskart increases stake in AjnaLens parent to 9% with Rs 8 Cr investment",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHhPYnJuRzRpSGRvdWJfbDhyY1NrZmdKUGxiaEVjbFdXT1A3Y1RWOURhQjBMaG12cTVYbDQ4YXAyaHpOLWdtUnVGYnF2bkQ1LUJOS0xQUVh2NzFjWDNqbWRYNzBxQ0Nkbmd3S3poUmdVb0dNMGZWU3dVaXpmTU5KVFBZcWhnTkhQZE9SRmgxUjBfdUUtczlmVFUxVlRUdFpNc0VNdUxPNkRVa1AzV3hUbNIBsAFBVV95cUxOWHhPYnJuRzRpSGRvdWJfbDhyY1NrZmdKUGxiaEVjbFdXT1A3Y1RWOURhQjBMaG12cTVYbDQ4YXAyaHpOLWdtUnVGYnF2bkQ1LUJOS0xQUVh2NzFjWDNqbWRYNzBxQ0Nkbmd3S3poUmdVb0dNMGZWU3dVaXpmTU5KVFBZcWhnTkhQZE9SRmgxUjBfdUUtczlmVFUxVlRUdFpNc0VNdUxPNkRVa1AzV3hUbA?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-14T09:41:56+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Lenskart",
+   "amount": "Rs8 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs8 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "f0582a16b07d",
    "title": "Kissht parent OnEMI eyes fresh fundraise months after Rs 926 Cr IPO",
@@ -2057,23 +2075,6 @@
     "expansion in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "fdff3c0fce15",
-   "title": "Obama voices caution on AI, urges Democrats to tackle it: NYT",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt/articleshow/134194993.cms",
-   "source": "ET Tech",
-   "published": "2026-09-13T10:45:57+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Obama",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "94938d0cc7af",

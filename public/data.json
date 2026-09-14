@@ -1,12 +1,56 @@
 {
- "generated_at": "2026-09-14T11:20:15.227691+00:00",
+ "generated_at": "2026-09-14T11:36:47.144961+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 46,
-  "fresh": 5,
-  "alerted": 1
+  "fetched": 47,
+  "fresh": 3,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "4a9382d64288",
+   "title": "Global AI stocks fall as industry chiefs call for slowing development",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T11:13:00+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Global AI",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Dario Amodei",
+     "handle": null
+    },
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8cefa2585d92",
+   "title": "AI companies must prove services are safe for citizens, EU Commission says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-companies-must-prove-services-are-safe-for-citizens-eu-commission-says/articleshow/134239753.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T11:05:50+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "6f81af500385",
    "title": "EV Mobility Startup Bounce Partners with ONDC to Scale Delivery Network",
@@ -56,6 +100,23 @@
    "reasons": [
     "no clear event",
     "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c318cd90a232",
+   "title": "Instagram reel on Google's Vizag data centre restored after months",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU1Ob3JfSnktR0kzYnAwUGFYaFhiQUtBbE9odXVuTmwtTWExOU9WUkN0bmxzRHk1VTdzeXhuZE84X1JibG5ORmtWaVNkSFVCbzVDWmhTTlpJVU9BMm0zMGo2dUQ4UHhxUkhMU0ZIMURVU0NiSTlfSWxnLXZuUGt3M3RSeW54TjdlS1RCaFJyOXpsaHpBVUZBZjRVRzR4U1R4QkZmaWR0U29NdlhvemUwQmlBV09PSy1Gd2dwSWlCdTA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-14T10:48:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Instagram",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -2206,59 +2267,6 @@
    "score": 23,
    "category": "other",
    "company": "PwC US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d6089e4e43b1",
-   "title": "As Google completes $1.5 billion-plus deal for AI startup Mechanize, its co-founder joins company as rese",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPamZKcVNuOEV1a1FBNDhrOUxfN05UT05oeXV5a0lsV3I4Vl8tOExTOUdTQ2lPR242bTFsN1BKMkV4aGJFQnFaREhjeXowWlEwWDctNUkxWWJuM3ZmdFk5MVg2M3Rfc1dwTlVieU1YQVBQRVJmZHRXd1RtOWN5SWdOOFg2TVJjU2dFUHZiYzZqNmpTOFJRaGJTeUxEbExGYmZ3YTgzdEpCT2llWTBVOXlpSDhxNkJRTlVCNjZDSVppSmZEME9aQk5Ec0xSeGNBSzZSR0FDcURXWXN2RmVzNEdSejI1OHNORkoxaXZaRXF5aTg5emY0ZTJVYVVnamFEbU1UM29VQmZtaG5XN1FGOXRUUlRWdjRkb0wyYUU3Y1lsVHJCZGpUSGJv0gGsAkFVX3lxTE5jVDdoNzZ3V0dDbGxqZnlZbHV3d0FqYklzTTN2NkVadGVESjBMWTRXRjlxdUItZ0FJNjRLYVR6N3Y1U3hFSFlSZ3pJRjZOWEI0N2M3N25OUjYwRDBnQjFvSVVwbFZXSVVSNkhUODBxaG1qdVU2aVZGbGlWcVk3ck91WUJUcTdlanNlNVBGZWRTV3R6dXAwRlBVbU85a0NpUks2bF9MNS12RlJwMDd6cW01MXVHSkhDSkVxWGJxa3pQOTRGZTlLZzhndndMdVVyQ09PREsybUx6cUJwa2E2MFZJVGtwVFlNNnlqMkEtT0tDR0xVY01UaDJNb1M0N1ZjMHdLR3dERGhvMmNWSnNsZ2NVYmJrU3ZTUjRjcGdNbzNTTU5aR3o0aDlCRElUQg?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-13T11:32:00+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "As Google",
-   "amount": "$1.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1.5 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "30583a542a4f",
-   "title": "DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks/articleshow/134196333.cms",
-   "source": "ET Tech",
-   "published": "2026-09-13T11:11:08+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "DeepMind AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "504ffdef8615",
-   "title": "Elena Rybakina Stuns Aryna Sabalenka to Win the US Open and Claim World No. 1!",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1VuTGdta01VS1YydFQ0X2I1dHM1dWlQcFFUc0FxOS03LUY4U3k0LWRUX2VtbkpMOU1seXVPLWwzazJqNXZ0a05iVDlUUW1FUFRGcUNsOUcxckEzelVMaHU2WjZYZHh2dnFpY1V5SGEyWFM4TWRMckQ0SWdwN2tON25na0Z0a0JGbk01SmJ6aldTV0FPT1ZPUkE4THFJaTJuQ0xKRy02M2oxVkVzd3NDSmxjZnBHcTg?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T11:08:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Elena Rybakina Stuns Aryna Sabalenka",
    "amount": "",
    "stage": "",
    "founders": [],

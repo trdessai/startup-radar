@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-14T13:30:48.816061+00:00",
+ "generated_at": "2026-09-14T13:48:03.730591+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 42,
-  "fresh": 6,
+  "fetched": 38,
+  "fresh": 3,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "09e3e82f30d1",
+   "title": "Amazon ramps up India network ahead of festive season",
+   "url": "https://yourstory.com/2026/09/amazon-ramps-up-india-network-ahead-of-festive-season",
+   "source": "YourStory",
+   "published": "2026-09-14T13:36:57+00:00",
+   "score": 64,
+   "category": "launch",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e08791f07205",
+   "title": "Keventers\u2019 founder now launches Peep Beauty - D2C brand for Indian eyes, gets Triptii Dimri on board",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVktXVE9oYWgwWmxTZGM4a0NLNE9rQ3IwcmRJU3pPelpzLWNnNm41bjhsbEd2Y0lKQlNyVVNJVmN1WHQ0QXJsMzJiUUw5aFVKYXA0UFI1SmNTUnp1WmJNNk1HVjZIUmFReTFvTGRzSUxFSzVuaGFBMmhQeVd4eHBWSWVpeTJQanNmc3QtVUQ3bkhycU1HT0U4S0FlVUxHY3VZTDB6TkxubjFoX1JRdnVRQWxUSk41N0ZwakNYcHZJVUdVNTZwaXBjeU9PSGJ1dVBOcXF3Zg?oc=5",
+   "source": "Startup Pedia",
+   "published": "2026-09-14T13:30:37+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Keventers",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "c9e79a12139c",
    "title": "Microsoft drafts code of conduct to keep its AI under human control",
@@ -116,6 +150,24 @@
    ],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8e48828c48ae",
+   "title": "Neo Group acqui-hires Mumbai-based boutique investment banking firm\u2019s team",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVBMcko4YXZKVDFRcmNiSE9JakRnR3phT2lxUFdsN0NrQnVuR3RwblNEQ3JPaGdsSWE1aFU2ZU15V2VrRXF0bUhQdTY0VlZSRERYQkdqWTJJRlVYRVdFQk0zbmgyVDBlZHVuZnQzMDN1VnZ4dmkwTDBzWVpiUUdlTHNsMWNrb2MxU3d2dk5tbFhSMG1NWFhYZWxHM2tpVENKOVREVlVHaw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-14T12:38:41+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Neo Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
    ],
    "alerted": false
   },
@@ -2143,58 +2195,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e3c9eb8113c7",
-   "title": "Indian space startup GalaxEye wins US patent for satellite imaging technology",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHROSXp3dVY0U2ExUUhrUHZXVWZrVWRKNDhLS3RxRG9YalZvS19RZy1iTTZSY1ZYYVE0cTQtQjh3MUVNM3p3RzdXdWlYWEdlczFqRGNieHJidXE4MUVrcXNJSHJvR1cxOVFScUpYR3lZX2FoaWxONTRGVjl3NmZYbjJ5Q3A2SjlnWVV1bC00T0tqeExKcnZVZml5SWp6SGJ5WnowTWtnSVRESHV2bzBVUkRvSdIBuAFBVV95cUxOWVRyMnRGaktsRE9laVdveENOQjJ1SXBZZG0yZHlpMnhtdWlJTFdSSXhrNzF5Z1lMbHQ4UXRTSngwZDMxcllyaUY1eDhTM1BWbnRUaEd3THdWUV9EdVJla0EzNGRGVXpTaHN6bTBNRmtZZWN5YThVUXl2cWQyVWFsWmN3TFl6VEJOQnRQVE1CV2FRN0VlVWFNTzF3by1WSy1EU01JLV9reGJfN2tYMGdLWUd1VjVHQVND?oc=5",
-   "source": "The Business Standard",
-   "published": "2026-09-13T17:04:52+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b4ac131884df",
-   "title": "IND-W Vs SL-W: Indian Opening Duo Sets A New Record In The Finals",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOS1YYkV4ak0zaEQ4aTY0S1ZuNEE3RHNfVWRUOF9ETTlFZVhicXp5aEZkQjdRaXVUU1hxQWNvOFI0OWU2ZjR1YlBMcFBCVVdxMWRFcGUxb3ZRM21BS1ltdW9fcnNyUTNYczFUa2Z1Mjd4VlM0TjNOdjJsNHlCX0lTQ2lVRmQtTVIzQ080MnZqbXRUdUNzZWtmTm1fUnB1eE9FZjM2WFhVS1FvTVExd3RYY2RaVEhuX183UFczUGk5VUVxVnNKS0dvc014SWhhVlk?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T16:54:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "IND-W Vs SL-W: Indian Opening",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f99eb73bc39d",
-   "title": "IPO",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBObnRjallzejhjc0JwZDliei1DV2Nad0pYY2xQeF9ORUZxQ3BHY1dXZ0l4Ymt0Nl91VVNCbERQQ29mUFAtMGZTOHJRRlZjTm0ySW1QcE5R?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-13T16:39:45+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "IPO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b13a5e4a379e",

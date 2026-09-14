@@ -1,12 +1,56 @@
 {
- "generated_at": "2026-09-14T04:06:25.172687+00:00",
+ "generated_at": "2026-09-14T04:21:55.637168+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 34,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 36,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c0a3768e327e",
+   "title": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid 'slowdown' debate",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-ceo-satya-nadella-backs-need-for-evaluators-for-ai-systems-amid-slowdown-debate/articleshow/134232090.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T03:59:10+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Microsoft CEO Satya Nadella",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Satya Nadella",
+     "handle": null
+    },
+    {
+     "name": "Dario Amodei's",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3416058a02c6",
+   "title": "SoftBank shares slide 13% after AI chiefs sound alarm on safety",
+   "url": "https://economictimes.indiatimes.com/tech/technology/softbank-shares-slide-13-after-ai-chiefs-sound-alarm-on-safety/articleshow/134232015.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T03:50:44+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "$10 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$10 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "9d3b2e1dace7",
    "title": "The snake that cannot shed its skin must perish and fade",
@@ -40,6 +84,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "f071b2846747",
+   "title": "RBI Executive Director Unveils New RuPay And UPI Payment Innovations At GFF 2026",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXU1TjNkMUZfSkNsWVY1QVEybFRQaXRKOU9sUHJSRW1jbWtsSWRKTzJtR1NEN1d6S2VZakJZSzVYVWNqTG11dlZ0Z3c0RG1IeC1wTnhzMmFGTk5BN3NjWVBNLUxkZ2hWUlhWZFJLeUZ6NXMxN21RS1VUUzU2RTVoTUdYc05QdnZRMTI2VDFiaVNBV3F6Ym5oQ1BsdHNYRG0wUGMxZkw0THRFT1d1dWlWSW1WUVNpMm5lRk50UEh3?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-14T03:26:44+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "RBI Executive Director",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "fe96f073e404",
@@ -7012,24 +7073,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2fafa7d3ae5c",
-   "title": "Pixxel Bags $100 Mn To Ramp Up Satellite Manufacturing, Imaging",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JGdFpoQ2RqSnFmU2VKdnc5Ym9MbEhpYmpUSmxreVltQlp0Rks3MG96Sk15ZUpmZVJXbTBJMjVLbUVXUkJGVzdQLXY0Z2phWlRGN0NxRTZEZWZEZ01pR3FqZUtGNEVkQ29BNzh4dVpOa1BPcW5aNHhzaHFvU25ZZDJwbFVYMDljUm1UM1p3?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-07T04:13:13+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Pixxel",
-   "amount": "$100 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 Mn"
    ],
    "alerted": true
   }

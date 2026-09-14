@@ -1,12 +1,87 @@
 {
- "generated_at": "2026-09-14T06:58:20.969377+00:00",
+ "generated_at": "2026-09-14T07:09:30.107472+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 44,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "41a29d04c7a4",
+   "title": "{Funding Alert} D2C Fashion Startup UniqYou Raises Rs 15.8 Cr to Fuel Growth",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnZyZ25WVV9tdUxZYjUxMmVfbVEwZy0wR3ozTGQwNy04UEZWS3BqQ2FnLWJVQnBPRDhOa2czSm8xOGRvVUVScTV6ems0RUwtUmk3bThYSmNMUloxRWY1QnFaeGllQzdFdFZzUVdYeG9rcU5EVTRQUjJDSWRnaGswb0V2SkJiZU1pMUhuSzd5YzhKcGE4UTZldkpDeVNuTzZIVndQRjY0QXllQQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T07:08:05+00:00",
+   "score": 63,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs15.8 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs15.8 Cr",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4b65b5d68a48",
+   "title": "EXCLUSIVE: Switzerland's Aeon acquires Aware Health as total Seed funding surpasses \u20ac12 million",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXhDeGRiWFRjWFpfQ1JfY0dZb2xpYkZyMGxfTXpXT2RaTFdqeEVNbG9ReVRqX1EyOGkyWHFBZ1RhNWN5aVdKeUdydElqNVc1LVRRanNHSnhMY09CVk1xMHRFT3BoS1VzbE1MVVFzT1g3M3J2NElqSHdVcEhDQV9kYzQ1bGl3TDN1VFBRMkd1RTNiUDVQdmJ2ZnBhcGFnVHpoSnZMX21zRTRjc2FZZlh3TTgyMDB3U1FqUDhwMGhhU3IzaVJuVmc?oc=5",
+   "source": "EU-Startups",
+   "published": "2026-09-14T07:00:08+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Switzerland's Aeon",
+   "amount": "12 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "12 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cbf2e74bf663",
+   "title": "RBI Draft Sets 60-Day Limit on Cyber Fraud Bank Holds",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLTRDVFVaeGNQdWRnZ3B3dGdLek1Mb2xsSXlqTm8xMFBDUmhtVlR0VTlBMkFIRXMzQnpROFhqMTlLV09hSEdiRkJJM1Z4VC1xU1B4RDFJQXR5RXd0MDgtaWVtOGFnVmotVTZlbFVNVDBWSGpaU3ZLdEN4WjYyZFdXNw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-14T06:58:54+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RBI Draft Sets",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2108e112c2f3",
+   "title": "$100 Million, 110 Cheetahs: Is India\u2019s Startup Story Changing?",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1ZPYjVTdlNsdXJSRk0xWllvdDlIaWZ1bGlnUUdZb3pTTDUzSEFRYnJMLTJ5cGhJTzR3UkJoSU93ckw3SFRKb2RfeWVFcGFLYWtiRUFJTHV0MTdwZnhRT3JSWnBkRDF2RmZ1YUZ4TlN5S0RheTZGOGxMN1hsX21zdHQwX1g0NElLSkR1b1NlZEJ6ZzFMM0ZtZFlYZy3SAZwBQVVfeXFMTXdWT2I1U3ZTbHVyUkZNMVpZb3Q5SGlmdWxpZ1FHWW96U0w1M0hBUWJyTC0yeXBoSU80d1JCaElPd3JMN0hUSm9kX3llRXBhS2FrYkVBSUx1dDE3cGZ4UU9yUlpwZEQxdkZmdWFGeE5TeUtEYXk2RjhsTDdYbF9tc3R0MF9YNDRJS0pEdW9TZWRCemcxTDNGbWRZWGct?oc=5",
+   "source": "TICE News",
+   "published": "2026-09-14T06:58:27+00:00",
+   "score": 17,
+   "category": "other",
+   "company": "",
+   "amount": "$100 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$100 Million",
+    "no company named",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "b4f2b9625a26",
    "title": "Full text of PM Narendra Modi's address at the BRICS Business Forum 2026",
@@ -7005,23 +7080,6 @@
    "score": 63,
    "category": "launch",
    "company": "Huawei",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "09a386e08b5b",
-   "title": "Swiggy introduces Swiggy Money to its MCP to simplify agentic payments: We tested it and found friction",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdkJUeHNzS1U0ZHFKUWZNR1pnWEU3OXV6SWFzNnZ6dmVLWDVUUEVVeEs2c2NoSURLZmp4R0l6Ny1UOTZQazZJRXdzdWVZN1M1ZzFJTHB1R0RDdmQ5c0hoMXpZVW9yZG0tdktuYlI5N0oyVHctWlZ5NjFHSEU?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-07T07:06:05+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Swiggy",
    "amount": "",
    "stage": "",
    "founders": [],

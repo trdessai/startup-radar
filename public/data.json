@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-14T01:30:28.771242+00:00",
+ "generated_at": "2026-09-14T01:45:46.336580+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 2,
+  "fetched": 16,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7049,41 +7049,6 @@
    "score": 83,
    "category": "funding",
    "company": "Pixxel",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a86934ba4b74",
-   "title": "India Launches Semicon 2.0 Framework Across Six Pillars",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGxWaGdxMmFIbnM4d21XN0tleEptUGJhM3Z4aWdmWV8wUkRTcTZVT2VOZU12akZXek9zZlpySDM2NzZjbGNTQ0dxWk0xMkI3NmxlYkJJXzZhODNoWTJkVE9rVTYzZjk2NkVkbGs1TC1MbFBwMkd1ZjhiSm9NZ1cwak1GcDg4R3FOOEY0?oc=5",
-   "source": "EE Times India",
-   "published": "2026-09-07T01:45:19+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "36a3a7c52d3a",
-   "title": "Google-backed Indian space startup raises $100 million in latest funding round",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmhtODhzRWFVcEdVeGMya0dXVUZnR3NwX2htRzFnaDNESGNmWHhiVExBRmludHMzX3hvbC1RZW9mdVlYbk1FQlo4ZWpEOTFhczNjblpJeXg4V19wZGxIaXBDMzIyZ1I0bFprLVhPWEhOSF9IMDRDQVNxNm1OakdvT0k4b2RDMTF6MEFfRXYwWnFObXRJTmlnM3lBTDBPLWNsRU9JZU0zQWphb3NROW5udHpGQ25WU09oX2VrR3lWczk4RWUtaXBNTEd3?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-09-07T01:30:50+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Google-backed Indian",
    "amount": "$100 million",
    "stage": "",
    "founders": [],

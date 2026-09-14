@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-14T11:02:39.270894+00:00",
+ "generated_at": "2026-09-14T11:20:15.227691+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 46,
-  "fresh": 0,
-  "alerted": 0
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6f81af500385",
+   "title": "EV Mobility Startup Bounce Partners with ONDC to Scale Delivery Network",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUZWeEZEbXN6STJTUm9tZ1MyZ3U2bU1YT2JSM1BsT1FYSDVuVkh5OFZMTnlXY0pTV0pPYU52dlhvUkFEeFhPdXRpeXR5eEtISVBrdWhBc19lMDVJNmxja0lBb2RFYjhkYW5RS0FNUFNmVHQ3RUUzcHJTOS1hS3NzbUpCRFNmdjZCcXpyd0t0d19rNXM3MWZIajBibXZDMjVt?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T11:02:20+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "EV Mobility Startup Bounce Partners",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f975f1c5349",
+   "title": "China's spy chief warns of national security risks from AI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/articleshow/134239596.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T10:59:07+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "China's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4b19d67911b4",
+   "title": "Retail India News: Da Milano Appoints Piyush Singh as CEO",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkNhUkMwbDdfUUQ5UHdyVmpzeUZqU25kZG9VVGtPVTRtRnhmT3BDb3l4OUdIMC1ncnhGU2pKT1h5OFFZWDdTM1QtX0lEcHZ4YVBOWklZdGh3MGVMMXExLUpWOWpCNGdNYjhCdEJ0X2UxaHA1OXBHMzNBZU9qdFdMdDhJb1BQSlBDdmdPVDc5QkVpbVE?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T10:56:59+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Retail India News: Da Milano",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0d8d0bf44b7f",
+   "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+   "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+   "source": "Inc42",
+   "published": "2026-09-14T10:42:38+00:00",
+   "score": 66,
+   "category": "launch",
+   "company": "FY26 Financial Tracker: Tracking The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "6eebbbb3e094",
    "title": "Lenskart raises AjnaLens stake to 9% as it doubles down on AI-powered smart glasses",
@@ -86,6 +155,23 @@
    "score": 23,
    "category": "other",
    "company": "SEMICON India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7aebd22b78a8",
+   "title": "UniqYou",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hYkd4cnNINDdGS2NIRnlTbFNDaEs4SWJMYWNwMjZGcmwweFZ0MFZsYUIyRC1yeTAyTS1PRks5ZmVvaVRidFp6dw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-14T09:58:01+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "UniqYou",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -6994,23 +7080,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e3297c2a5b2f",
-   "title": "The Affiliate-First Launch: D2C Brands Skip Flat Fees",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jbEVhSUhYTUJtRWFtdHpHZlhCVXd4SDFMTy1oczJVR04wU3V5M0N2QlhHTmY5QmRtb3Qzbi1VR2N5cUhVZWFjbjdnR2RfYTFqWVYxQi12cWlaOUN0YW9ybnBaME1sOUZVV1FxeGRIWk56dkdXN2hVY3FR?oc=5",
-   "source": "agencyreporter.com",
-   "published": "2026-09-07T11:11:05+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "The Affiliate-First",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

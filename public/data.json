@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-14T18:39:18.721050+00:00",
+ "generated_at": "2026-09-14T18:52:27.994488+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 17,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "fd6f215440ca",
+   "title": "Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round",
+   "url": "https://economictimes.indiatimes.com/tech/technology/temporals-valuation-spikes-to-12-6-billion-in-lightspeed-led-funding-round/articleshow/134246659.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T18:29:37+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Temporal's",
+   "amount": "$12.6 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$12.6 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4c9a6737846b",
+   "title": "Anthropic targets financial advisers with new Claude tool",
+   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-financial-advisers-with-new-claude-tool/articleshow/134246643.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T18:27:44+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "34e10553a813",
+   "title": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
+   "url": "https://economictimes.indiatimes.com/tech/technology/musks-x-corp-and-spacexai-resolve-antitrust-lawsuit-against-apple/articleshow/134246617.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T18:26:21+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Musk's X Corp",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "d6ca7462e760",
    "title": "HDFC Bank proposes Kaizad Bharucha and Anup Bhagchi as CEO candidates to RBI, reports reveal \u2014 Here's all we know",
@@ -2159,58 +2211,6 @@
    "reasons": [
     "no clear event",
     "USD621 M"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "26a39ae554b3",
-   "title": "RBI's Tata Sons listing push may be a lifeline for SP Group \u2014 if it comes in time",
-   "url": "https://www.livemint.com/companies/rbi-tata-sons-ipo-listing-impact-on-shapoorji-pallonji-group-debt-11789296937772.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-14T00:45:02+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "RBI's Tata Sons",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8bb757a7efa2",
-   "title": "This startup is building a single platform to manage operations and suppliers",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmpJaXFMTEhtTnNSdDRZQ29VMkY2RXBGUG1ZU0lUM0g5djdwY2RzZ3ZtMXlWRFRnMDkxeGc2ZGVTbjAwUzh3RGl6MmNaanlQbTRVSFRZWU94SWItTFhJWVptUDdabHdVUlJ3STkzYnZOMlptdXhwbWduNHg4c2o3bmV2U3BtZ2VUaE9sRzJERWpuWHJJaWpBM3Z6c0h6NlhsVGJYa01IVjZmU0dnWVRyNlREYTNGQ21nMTh6N1Ewaw?oc=5",
-   "source": "thedailystar.net",
-   "published": "2026-09-14T00:42:55+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e1a5333f9829",
-   "title": "India\u2019s beer boom gets a premium twist as drinkers trade up",
-   "url": "https://www.livemint.com/companies/news/indias-beer-boom-gets-a-premium-twist-as-drinkers-trade-up-alcohol-market-spirits-11789236602300.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-14T00:30:22+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

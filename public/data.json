@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-14T15:04:00.129823+00:00",
+ "generated_at": "2026-09-14T15:22:05.321115+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 0,
+  "fetched": 31,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "46fc02d34576",
+   "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/articleshow/134243411.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T15:03:20+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Trump",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "523ec6398835",
    "title": "Slow the AI race? Investors weigh the potential cost",
@@ -2152,23 +2169,6 @@
    "founders": [],
    "reasons": [
     "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eaa198eda4e7",
-   "title": "Agnikul Cosmos and India\u2019s Commercial Space Push",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOThmN0pLSlk5Qk9jam1SbTVFR0pxNXFwQ1d0Vm94dWFDTEU1emR1T1hqSUU2aUE3aXVvcFViblUtOUZmbDZibE82R1RFZms3cU4weFBwSzVWVHFmSEl5ajM2TkVfYlktbkpxX3pwY1NuVG00M1RtN0gyX3hwd0M4bkV6cw?oc=5",
-   "source": "urbanacres.in",
-   "published": "2026-09-13T23:55:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Agnikul Cosmos",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
     "no clear event"
    ],
    "alerted": false

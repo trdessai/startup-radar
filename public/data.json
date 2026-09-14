@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-14T11:36:47.144961+00:00",
+ "generated_at": "2026-09-14T11:48:03.184577+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
-  "fresh": 3,
+  "fetched": 45,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "d9b1f6885c26",
+   "title": "Germany says halting AI development not viable, calls for US, China involvement",
+   "url": "https://economictimes.indiatimes.com/tech/technology/germany-says-halting-ai-development-not-viable-calls-for-us-china-involvement/articleshow/134240259.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T11:34:39+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Germany",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Dario Amodei",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4a9382d64288",
    "title": "Global AI stocks fall as industry chiefs call for slowing development",
@@ -2257,23 +2279,6 @@
     "$1.4 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "85f58de1b597",
-   "title": "PwC US and PwC India form joint venture to scale India consulting for global clients",
-   "url": "https://www.livemint.com/companies/news/pwcindiapwcusjointventureconsultingadvisorybigfouraidisruption-11789294842877.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-13T11:43:13+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PwC US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "92ff31d8cfbd",

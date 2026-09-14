@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-14T22:01:53.720420+00:00",
+ "generated_at": "2026-09-14T22:19:34.715450+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 0,
+  "fetched": 13,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a83cc7cf4cfa",
+   "title": "adidas Originals Teams Up with VegNonVeg for First Collaborative Samba Mule Launch",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjRXWUx6bVhjUGFGTnRuNFBxdDJqaHJWdFBEOFh6T3JLejN0NlVvR1BEQTlXdlhCQ196dzNqZ3NjcG9RaXA4QTl3NUpNMWxqaFFacF8yRHVDQ2Y1YnNpcS1rMHpzdXhJN2tJY2VQQ3U2UGlYUmFDRHNwWmJoV1pMalpiQ3hUMTdGajk3SzVBSGJyMl80NTNvSXhSWmFma0lFbWxDbUV4NEhaVXlabm05NVBSdDhBYVVCalJtUmxLdGdNZk14bzQ2dDhn?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T20:30:08+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "67135de842ad",
    "title": "Govt Notifies New Rules, No MDR For UPI Transactions Under \u20b92,000",
@@ -2121,23 +2139,6 @@
    "reasons": [
     "no clear event",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1ac4c92d2e9c",
-   "title": "Revolut confirms sensitive customer data breach after fake government requests",
-   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-confirms-sensitive-customer-data-breach-after-fake-government-requests/articleshow/134231379.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T02:58:39+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Revolut",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

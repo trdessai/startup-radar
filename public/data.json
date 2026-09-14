@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-14T03:57:12.111731+00:00",
+ "generated_at": "2026-09-14T04:06:25.172687+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 35,
-  "fresh": 0,
+  "fetched": 34,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -200,6 +200,23 @@
     "funding in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "d64462a8f95e",
+   "title": "Building a Business-Ready India",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WSjQ4TVVxUHNXWTJ0OFdieDJPeUpOMEZkbF9oZHY3Rm9Za0RjREJ5UVJ1MGRIaG5XSWJvQjdqNlltb3VUMllxdy1adlVaeXhfMUd6SVRuU1g2RzlacEZEbWMzM193NC1oX2ZlM09EZ2xfYnN2eW1F?oc=5",
+   "source": "PIB",
+   "published": "2026-09-14T02:15:15+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Building",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "d788c633a70c",
@@ -7013,24 +7030,6 @@
    "reasons": [
     "funding in headline",
     "$100 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3a00ba98c316",
-   "title": "Deeptech Startup Jaipur Robotics Raises \u20ac4.3 Mn, Eyes India Expansion",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVlxZ195X1llRGhYeXdJdWJMSUNkdmZUWXhTZGNlYWtHWm5YQk5nZVE0bHJvaEdSV25SQ3R2SU9YVGRvT3ZCUkxYLVhhdVdZdm1fRzNhaWJXLVB4b25uMVFNaW9RaG55SjlaazJIRHJsaFBoM3d2ZFRONmdoSHJqc2ZQRlctbXhQZDVYSXZucDB2WW1EYzh3?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-07T03:59:44+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Jaipur Robotics",
-   "amount": "4.3 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "4.3 Mn"
    ],
    "alerted": true
   }

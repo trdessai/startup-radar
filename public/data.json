@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-14T04:21:55.637168+00:00",
+ "generated_at": "2026-09-14T04:37:11.644309+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 36,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 30,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "d8f1a0b48b99",
+   "title": "Anthropic tells investors it will be profitable for second straight quarter",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter/articleshow/134232276.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T04:19:00+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c0a3768e327e",
    "title": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid 'slowdown' debate",
@@ -7018,61 +7035,6 @@
     "funding in headline",
     "$2 Mn",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7af575ac5696",
-   "title": "Pixxel raises $100 million co-led by Singapore\u2019s Temasek and UK-based Seraphim",
-   "url": "https://www.livemint.com/companies/news/pixxel-space-tech-series-c-temasek-seraphim-360-one-asset-imm-investment-hyperspectral-satellites-11788753051101.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-07T04:35:28+00:00",
-   "score": 77,
-   "category": "funding",
-   "company": "Pixxel",
-   "amount": "$100 million",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "funding in headline",
-    "$100 million",
-    "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9ccbafbc3f4d",
-   "title": "Women\u2019s wellness brand Nua raises $50 Mn led by Peak XV, Filter Capital",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3RFbzRER2JfS3l0bWx5bUNuVkc2SUtoOXp2dEpqRU9mRmJhTkJLLVRSU1NxbHVUTllpQS1aWnhQNUwtRnR4QTJvWVEwMWRUSzltWC1PX3RoTjJTR2s1dWdnUWhMUnRRa0R3MXpGQVVrRF9oX29nd0NQdzh5Sy11RmMyQTJaR0N6UHd1TWFmaE5RSW9GLU5RM2FfRVEzSW9rTGo5TEtB0gGmAUFVX3lxTE1fdEVvNERHYl9LeXRtbHltQ25WRzZJS2g5enZ0SmpFT2ZGYmFOQkstVFJTU3FsdVROWWlBLVpaeFA1TC1GdHhBMm9ZUTAxZFRLOW1YLU9fdGhOMlNHazV1Z2dRaExSdFFrRHcxekZBVWtEX2hfb2d3Q1B3OHlLLXVGYzJBMlpHQ3pQd3VNYWZoTlFJb0YtTlEzYV9FUTNJb2tMajlMS0E?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-07T04:31:45+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Women\u2019s",
-   "amount": "$50 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$50 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5ba971cb32cb",
-   "title": "US-India Ties Strengthened with TRUST Fellowship Launch and Bilateral Collaborations",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlZEcEg1T21zVG5FN0RoVDM3VUhkYzNJaG43amp1NXNKYXloVVdpMWpJUnQ0MG55b2JqVW9YaWx5cFQ5eXQ0X1lGcmhsUjJIVVVxZnB1Sk80OTRWVHFGOVhsSmczbFJwdzVaZWhIZk1OOWhKQ3FYN3ZSTEI0Ykx3NkJMLUN4S0lXUkNHRjNYQ3hxVVg2dWJsU1RaZmE4aDRNN0lPZDZoOGNQM1ZiWHU2SUNIaTZlcThHZXJscVdNQ0NSWTFBWG40cUN4TU5DOHViY0lqQmdRMUR4SlctS05YN9IB4AFBVV95cUxQMlZEcEg1T21zVG5FN0RoVDM3VUhkYzNJaG43amp1NXNKYXloVVdpMWpJUnQ0MG55b2JqVW9YaWx5cFQ5eXQ0X1lGcmhsUjJIVVVxZnB1Sk80OTRWVHFGOVhsSmczbFJwdzVaZWhIZk1OOWhKQ3FYN3ZSTEI0Ykx3NkJMLUN4S0lXUkNHRjNYQ3hxVVg2dWJsU1RaZmE4aDRNN0lPZDZoOGNQM1ZiWHU2SUNIaTZlcThHZXJscVdNQ0NSWTFBWG40cUN4TU5DOHViY0lqQmdRMUR4SlctS05YNw?oc=5",
-   "source": "Devdiscourse",
-   "published": "2026-09-07T04:27:15+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "US-India Ties Strengthened",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

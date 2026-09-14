@@ -1,12 +1,68 @@
 {
- "generated_at": "2026-09-14T06:02:22.919491+00:00",
+ "generated_at": "2026-09-14T06:27:14.312881+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 40,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 41,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "b122d69aa590",
+   "title": "Stockholm\u2019s Tandem Health raises \u20ac86.5 million to build an AI-native operating system for European healthcare",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTi1fUFN5RGt1YTUtcW1GNmZlS3ZCZEhrQ191T0N6NjBtdkk0Q2k1TWY3eU15REVOVkhrMFlYSmdIXzdaejJxb1FGSldhVThSbVJNUTJzUW5HMGxkakN6TU9JWkcwQVoyalROZ1JhSXBnb3paaV9aN0YtR0cxX2stVmFSOHpYUjBSVmVRM2ZjYTQ0U0lteFdpNlhKQ3YyOUN2NVYzbW5DUU9hU0wzdGdKaWpycU5xWnlpdklKRzR4U0FoTTBPWlkwc05CWGNFakU1cjlWZVQtVWNvTDRibGc?oc=5",
+   "source": "EU-Startups",
+   "published": "2026-09-14T06:21:04+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Stockholm\u2019s Tandem Health",
+   "amount": "86.5 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "86.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c327005c4fe6",
+   "title": "AI could make thinking cheap. What happens to jobs, education and human purpose?",
+   "url": "https://yourstory.com/2026/09/ai-could-make-thinking-cheap-what-happens-to-jobs-education-and-human-purpose",
+   "source": "YourStory",
+   "published": "2026-09-14T06:15:52+00:00",
+   "score": 3,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d2cb82370852",
+   "title": "Macquarie Asset buys stake in Maple InVIT from La Caisse, infuses $450 mn",
+   "url": "https://www.livemint.com/companies/news/macquarie-asset-buys-stake-in-maple-invit-from-la-caisse-infuses-450-mn-11789363894702.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-14T06:13:04+00:00",
+   "score": 69,
+   "category": "acquisition",
+   "company": "Macquarie Asset",
+   "amount": "$450 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "acquisition in headline",
+    "$450 mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "9baefd2a8f8e",
    "title": "Lenskart Increases AjnaLens Stake To Over 9% To Deepen Smart Glasses Push",
@@ -6992,42 +7048,6 @@
    "reasons": [
     "funding in headline",
     "Rs19 Cr",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0985a47beb1c",
-   "title": "Bengaluru firm Pixxel raises $100 million to build infrastructure for changing planet",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajgxcmk3ZWVxX2pzM0dKanZxOEFLeGk0MHd6V0pacnhkZThxQmFWLXJZRlgtaWM3Y0VnRzVxTnpsRVd6eHZCcnFaWmk0UEVTeFJjcWwtelJaUElxdnJNZ05ySERLeFBZMUstcnM0ZFJaOVlZcVhKbHVaM0VBZGVvWTU3VjlES29RWW1RbFNPeldlOVJBNEtTSzJabnJJZllfbzZWMXlDelJHUDRqSkM2WTM3dmh2a1VsancxY0pRRG5TNmdxbVdOSWU5Y0FxUi1MT2NEd1NMNk5peVg3ekHSAd4BQVVfeXFMT2o4MXJpN2VlcV9qczNHSmp2cThBS3hpNDB3eldKWnJ4ZGU4cUJhVi1yWUZYLWljN2NFZ0c1cU56bEVXenh2QnJxWlppNFBFU3hSY3FsLXpSWlBJcXZyTWdOckhES3hQWTFLLXJzNGRSWjlZWXFYSmx1WjNFQWRlb1k1N1Y5REtvUVltUWxTT3pXZTlSQTRLU0syWm5ySWZZX282VjF5Q3pSR1A0akpDNlkzN3ZodmtVbGp3MWNKUURuUzZncW1XTkllOWNBcVItTE9jRHdTTDZOaXlYN3pB?oc=5",
-   "source": "thehindu.com",
-   "published": "2026-09-07T06:18:40+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Bengaluru",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f4d3ea40a4a5",
-   "title": "iPhone 17 price drops ahead of iPhone 18 Pro launch: Check offers and effective prices",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2Rtd2tqMkI1RTdqcEdhNXM3eWJnZnVqSDRIdlZsQkZ2aGtOaDhjMGN1UmVrb2JuU3VQcS1nZUVZUU1DZk9IZjdOTzQ4c0poZWNpbUY4NVVTdlZQbExoRDVRcmtXcTZ5WC1aMjdDYVcxbFhLcWN3ck1YNGVYSFpfU0ZqT283R3I0VHVsSzZROEkxQXZ1eWJwUndBRXJXVWJBY2w1WmZBRU9aLUJaYmRkckdodkVtZmVmc25RSEo0TFlHaVFsQ2lOWm5tRi0taF9QVzh0TNIB1AFBVV95cUxNY2Rtd2tqMkI1RTdqcEdhNXM3eWJnZnVqSDRIdlZsQkZ2aGtOaDhjMGN1UmVrb2JuU3VQcS1nZUVZUU1DZk9IZjdOTzQ4c0poZWNpbUY4NVVTdlZQbExoRDVRcmtXcTZ5WC1aMjdDYVcxbFhLcWN3ck1YNGVYSFpfU0ZqT283R3I0VHVsSzZROEkxQXZ1eWJwUndBRXJXVWJBY2w1WmZBRU9aLUJaYmRkckdodkVtZmVmc25RSEo0TFlHaVFsQ2lOWm5tRi0taF9QVzh0TA?oc=5",
-   "source": "Storyboard18",
-   "published": "2026-09-07T06:05:11+00:00",
-   "score": 56,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
     "no company named"
    ],
    "alerted": true

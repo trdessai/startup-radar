@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-14T10:22:08.257671+00:00",
+ "generated_at": "2026-09-14T10:35:41.436874+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 53,
-  "fresh": 5,
+  "fetched": 50,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
@@ -481,6 +481,25 @@
     "expansion in headline"
    ],
    "alerted": false
+  },
+  {
+   "id": "30d04d667312",
+   "title": "Brussels-based Chift raises \u20ac10.5 million Series A to become Europe's financial connectivity layer",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclptdEhwazNHRFVkVDZSN2dEVEFPWW5CUW5WNmN1N2c4ZHRtQWZDQ1RQdkNlUU9sazNpVnpnbmlHY3FiX0tqdTF3MW9rMExSd0V1UkpCTlNHMUJtdkFmUDQzcFNaaFJpSk4xNEhHQWJLZGJtNUVMbG14ZVlZSkI4U05HRG11QnQ2YXJoTzlZV3R5SVIzRWsxTlNza1ZkN1cwVXo5QnNvVGNNTDFnbEtpWGYxZ25od2FLT3FJVElNVGsweGQwUjN4MS1Db1FvLTQ?oc=5",
+   "source": "EU-Startups",
+   "published": "2026-09-14T07:26:26+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "Chift",
+   "amount": "10.5 million",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "10.5 million",
+    "Series A"
+   ],
+   "alerted": true
   },
   {
    "id": "a56131e9fe9d",
@@ -7005,60 +7024,6 @@
    "score": 68,
    "category": "launch",
    "company": "Dot",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "01685315e924",
-   "title": "Navana.ai Raises \u20b940 Crore in Series A to Scale Voice AI Platform",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGxOclp0Q0FkbTZpLUM5anE1UVVjcnIxWVVIZmpOeHpCaWlZV2pWUzl5UXR0Y212SEdBWHRrZDN4UERrU3VOOXc0ODg4OGdhdXJNUUQ3cVpkc0RqcDFvMEkyU2FjNzJSYk9XSWlGQmpDM3I3UWFRS09uQUlLX3lGd3VaVTlFVUVlb2ZiTDdjbnRTRjVaVkEzU0ZYQ0IzTzBZT3JyMlppNnZaQQ?oc=5",
-   "source": "CXO Digitalpulse",
-   "published": "2026-09-07T10:34:35+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Navana.ai",
-   "amount": "\u20b940 Crore",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b940 Crore",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9b61480d4246",
-   "title": "Karnataka Unveils Rs 200 Crore Startup Fund, New AI Roadmap",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjZzcWVOWmtWUUV6TFk2QVJTemI0MGVsUW5HMk92d1I0RTRaWC03TjhfblZnNFBuWWFTUF9HSjJxamVCVUxPRk5rdVlTUVpLTENoRmk0akhpdWJPMTY3NVBLc1VBSFplaHZlTEVMWjZGc25JV1dHQkJ6VUJWY0xhNWp0WmttY3VwNkFENmFjaExJY2lPYmFYby1VNHhHOHU5aXFRZzJqbjNuaTRtVmxTWUNzdW9STzduRjRYNFlHUC1uZmxURmk2cUpkUjdlNlk?oc=5",
-   "source": "Whalesbook",
-   "published": "2026-09-07T10:31:34+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "Karnataka",
-   "amount": "Rs200 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs200 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "511be35af15e",
-   "title": "Pee Safe Launches Within Brand for Hormonal, Gut and Menstrual Wellness",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYi1IQ0xqSzFmSTEwcXV1VUJuMDlNYlEzbExVLUJYNFBWY05yVVliNHRJWXdVZjJ2bWw4dDFBaHlYT1dleldDNVA1NGFNdE5JdGU1REpzcGg4SUQzcVlUdnJPbks4WEZBNWwwWXdYYS1uNmw1SkItS01qM0h3REtSMkVITEg5eG1BcmhUWjZwN2lvTHc2RTJqVTVjNG96YVpQa3NxbQ?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-07T10:26:33+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Pee Safe",
    "amount": "",
    "stage": "",
    "founders": [],

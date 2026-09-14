@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-14T11:48:03.184577+00:00",
+ "generated_at": "2026-09-14T11:56:49.341122+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 45,
+  "fetched": 42,
   "fresh": 2,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "5b697fc3de90",
+   "title": "Jeff Dean\u2019s Discovery Loop Eyes $50B Valuation to Run Thousands of AI Experiments in Parallel",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlpJbU1zd3RILWVidWp5WjdGY01KemdXeTNzdUdxbEYtSnp0TUNZOHNnUFRlTzVrRDJwOFJFeUhHOTcxWnVpOXVxN2l3emI1VkxqX3pGcEY1TjQwWEIzaW54UjVoUXFsaHBNejBUdlZwVEJNOFRuZnlsUjFYM0d5a0xxOE05dzdOUjJfa1QzNnU4LWVXeVp4Nl9NV3dqV1BWQ2JVWkZubjFaT0lwVjNNbXVNc3RXaTFmNk9oVjMtMjFYSWhNc0VxNjJXbEUzb1B6eFJDVA?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-14T11:45:32+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Jeff Dean\u2019s Discovery Loop Eyes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "d9b1f6885c26",
    "title": "Germany says halting AI development not viable, calls for US, China involvement",
@@ -173,6 +190,23 @@
    "founders": [],
    "reasons": [
     "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5b130cb094c3",
+   "title": "The soft launch games you need to know about from Supercell, EA, Tencent, Moon Active, Zynga, Meta and more",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
+   "source": "Mobilegamer.biz",
+   "published": "2026-09-14T10:30:13+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
    ],
    "alerted": true
   },
@@ -2226,23 +2260,6 @@
     "product in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7db5255d27fa",
-   "title": "Deepinder Goyal partners with Art of Living for Temple",
-   "url": "https://yourstory.com/2026/09/deepinder-goyal-partners-with-art-of-living-for-temple",
-   "source": "YourStory",
-   "published": "2026-09-13T12:02:39+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Deepinder Goyal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6ac9a5d3b6d5",
@@ -7076,23 +7093,6 @@
    "reasons": [
     "launch in headline",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2e46aeedf9ba",
-   "title": "Karnataka plans immediate AI skilling ahead of proposed AI University",
-   "url": "https://yourstory.com/2026/09/karnataka-ai-university-ai-skilling-roadmap",
-   "source": "YourStory",
-   "published": "2026-09-07T11:51:10+00:00",
-   "score": 64,
-   "category": "launch",
-   "company": "Karnataka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

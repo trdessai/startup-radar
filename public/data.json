@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-14T02:32:25.449697+00:00",
+ "generated_at": "2026-09-14T02:46:24.344328+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 23,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "7fb6818ac97d",
+   "title": "Indian chip startups attract $701M since 2025 ahead of SEMICON India",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDV1dHhCQXBwUEtJWEZGRmxucWpWdHRWQUdXeEpJNG5LUkNZVUo1eTY2QzNIZ0hBZ28zY1prVkFIRVh5WlpaVWRNOEhtRTBVWTh5c2REYXpFa1ZDelFtaFkwbUx4dnlvWXp0M3Rxd0djZnJHZkpJc1FWbFZFUlRMRmdzWFM0cGhwOUZiMTdSY1Y3Sm9CeWZxd1QtMkZmVUlzNk5JcWs4WFFuQQ?oc=5",
+   "source": "Communications Today",
+   "published": "2026-09-14T02:40:41+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "",
+   "amount": "$701 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$701 M",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c734384194f0",
+   "title": "Zomato\u2019s Latest Fee, Weekly Funding Rundown & More",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mSzZhSjZzdGVCUGQyTE9jaG1vS0ZyUW82OFlueW53ZnB4eFVNN05PN0pzc2J0Y0V1bGs0QjJBWGE3RGs4N3VodzNUcFJVS2FKXzRBX1NfVjFoQTVyMWwwczZvX2MtSnBDYmFhNEhhY1k0MWgwNzh6ZjlB?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-14T02:30:49+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Zomato\u2019s Latest Fee Weekly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "c00fc104b568",
    "title": "Mid-tier VCs scout deeptech deals; ETSA winner Varaha\u2019s India play",
@@ -7017,25 +7053,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5c960bc7f80b",
-   "title": "Indian space-tech startup raises $100 million, to 4x satellite production at home, expand in US",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmtLdHR2YlU5Q0x0cG82Z2E5U3B1ZWt6RHZjcHY2cTdWMzRsNjNZejhKUGJtZVFKNDFHWDZBOF9URXg5elhmaHNudGEwdlhROWtLWDZCX3haODBOUnRHODh5Xy11eTAyVWNJa3U1Ui1aeVhHZjV0amsyeHBrLTg5OFE2dnJFUEtiRWNCZGEwQlpneDVFajlaOFczMFQwTUM5Nng1MFRwY3ZGUlFrNzczRHpVZWFoVDAxNVJZUExlbmhMeDdnWVo0Njd1VjhRSjJLTEJnbtIB2gFBVV95cUxQLXR3UGdxNzlObFdOd21taXVqYWZRUTFiajluX3dRVzlELUNOVFNEcFFnZGp2ZlFYdjVDRE1hWlVXeElpUllNWGlWUkF4M0RoX250enFhN1d3aDhCRlZob1AtNmI1SERhcFhMZVI2QVY2ejNMd3BJQVhxS1doWE1FbWY0MkUxT2RrRUJFR1NmWFN3X2JFMTJCTktIb2tHUHVaVFlXdWFLQVFKS3lQOEhrbmpsendjR0IzeGVEOTg3b0ZjeV9IX2F1T2RrZ0k4Y3paUXdRYnBZQUVZUQ?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-09-07T02:42:36+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 million",
-    "no company named"
    ],
    "alerted": true
   }

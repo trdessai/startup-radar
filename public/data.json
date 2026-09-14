@@ -1,12 +1,98 @@
 {
- "generated_at": "2026-09-14T13:13:06.844195+00:00",
+ "generated_at": "2026-09-14T13:30:48.816061+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 42,
+  "fresh": 6,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "c9e79a12139c",
+   "title": "Microsoft drafts code of conduct to keep its AI under human control",
+   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-drafts-code-of-conduct-to-keep-its-ai-under-human-control/articleshow/134242125.cms",
+   "source": "ET Tech",
+   "published": "2026-09-14T13:24:48+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Microsoft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6939466c2d46",
+   "title": "Semicon India eyes chip deals; AI leaders seek slowdown",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVPNUJCRGZ4M3ZQOTM4MGZLV1NTSWJueWs5SGU0Y3FnVE0taHRzbE1UVVlqRjVCWVlFNWl1dzZhbFdWZUdSQ21DeHZ0NFRUelhwWXNXVFZacjRqU2dfdU5oSFdDdERNUTVjcUFuRDFJcGVsWFZNOFMtQjVIdk9HNFBrb3U4cGE0aEQ4RzlFa2laZlBGU3R5d2pyU04xcFJhWTRzd1JmM1R4b1FjQm9uNENUdVlLSndkRkpmWGdldEhIT3Jrc0t2WW5JdmVST1F6b2ZWcm5jODBFMWvSAeABQVVfeXFMTlBzR3R2UkxTbDVBYk1fVS1jRFkwRGlTcEtxRnl1c1VoYUVLZnM1NTFFb2pBeGM3ckdXd1hJV3hfMUlQRG1zTTZCaGhxeFcxV3MzbG5OS29GU1l6bzlZYXpSdnJoejAyVW9PVlFsaW1DdzRKNWwyUEQxVzlXTXZKck1iRWtfMUtYVXNJeGdyeVV5VkVwbm96WUJ5enlvQXVhQTZsM3V5a1BySlRFaWhjeGZwOUZ3ZXRQR2YtMDd2azlGbUc2clVjX2xuZW5ScE9uM0hic3oxaDRhUlBfWGl2LS0?oc=5",
+   "source": "economictimes.com",
+   "published": "2026-09-14T13:12:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Semicon India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fa251adeab89",
+   "title": "Moneyview Cuts IPO Size After SEBI Nod, Halves Fresh Issue Component To \u20b9750 Cr",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazQwR3d1cE9CWG9kV21CRDlCQ3VWYVVpRHU1LUE2QktBdDJhcFIwMW1DT2laY0JnREJUNUtqUVRtMnl5QVlHTmlTeHpRVTFkMkdwT2xWdmowektxejBrVS1KRng2ekc3anE0VWFRLVhoRThnNzhVX1hiZHE5N1NWVWNXanJReWEyNzdjaHV0dGg0TmozTE9VSXZ3UzIwUzF4NnNPQlRlYUNaVnFNMlI0?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-14T13:11:43+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Moneyview Cuts IPO Size After",
+   "amount": "\u20b9750 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9750 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f248afda3980",
+   "title": "Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5djRhNWwwbkU3SENFYWFiZUp3ckwzLVlMMU1LV1l3RzcwbHd0QXNGYlRyd0dBSl9Pb1RGdW1GLV9VWVNNekoyOEVvNTl3NmRmZXQyVF9FaVZ2MElmNFc0TEhrZFRWSG5vc01oWGctX1RpNjRT0gF6QVVfeXFMTWVYdVVfSmtTWWw0SVFfVVhpQjZrQVhIUzBpTVZfT0QtRUxxTmZHdDJ6SEp1NlpkZDVkeDBvLXZxX3hEczJlXzduNkVubkNxNVZGb1ZSYXYwME1fQVlFVk1xai1udEtrZ0lOck95a2FLSGdhMzJtRHJPd2c?oc=5",
+   "source": "cnbc.com",
+   "published": "2026-09-14T13:08:29+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Space",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e0f9d9ef5c79",
+   "title": "Telcos and DoT pushes for 'light-touch' risk-based AI regulations",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV19nWS1TclhfcW9yb3hDOW9NaWpBdFBhTW9wblVKMDg2RnpzekVnSjdBUXFveWVfYVpJQktVU0JnbW5rSlRCcEdINWJ2Y08tTFJIMDFvOEJmdTM0QkpVOC1qeEpWVGdib0FFa3hDVy1RUE80UmROYkVGeG5icV9wTQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-14T13:07:29+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Telcos",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "cebdac291f21",
    "title": "IPO-Bound InsuranceDekho\u2019s Cofounders Mull Move To Promoter Roles, Company Denies",
@@ -94,6 +180,23 @@
    "score": 68,
    "category": "launch",
    "company": "SEMICON India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "198b1a4c615d",
+   "title": "UBD Launches Madhvan Distiller\u2019s Tribute Blend in Delhi",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTRzWTRkbEtHMGZ4RkIyWTg2U3ItS09uczBDdy13a0pQOUhMOEIwODVldGt0UGdKVW9oQkwyQ2d6Qk9BMUpKLWxZQjhrVWNndVR2Y2VCNEp0akFVZGN3eDUybHdXRlBnSUlDTDhRdnprNlAxaFF1YWw0OEg2c3NqY1pQSUVSSGtOalVNVXlfa2w?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-09-14T11:52:13+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "UBD",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2130,40 +2233,6 @@
    "alerted": true
   },
   {
-   "id": "b91e161fdebf",
-   "title": "HISTORIC: Vande Mataram Played Before The National Anthem Ahead Of The India and Afghanistan First T20I Match",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV2w0SHU2VXk3aTNyTnNlZEVralppMG1TcFp6QVNBWkFfZkRQYVYyeDlvM3A4R1EtSG9vZi1sT1h0TnBjVC1RTTZVQTZ5RTZSZmloVGNxSWQyaXNDeTJ6SnI2TkVzT3UxR2xnOFBxNTFnSjdPYkliYVRMU1dVa1NieUswVEpmT3RBMUszeFdWU2wydFoyNW0tN1RaV1V5SUs4eXlZMXV2SWFZV3R4M0tMb25TWjV3M0V2SDBfWF9IVHc0Qk1MNXg2c1NfMmk5NFNYT05fVEZ1QVkwVkY0b1ZSajRR?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T15:49:10+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "HISTORIC: Vande Mataram Played Before",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d0e3d5420a32",
-   "title": "IND vs AFG: Captain Shreyas Iyer Gifts Signed India Jersey To Afghanistan Captain Ibrahim Zadran",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeU5CY01EbHhNdXRCUERlZVJXbjRJdXZaeERLeEc0X3BhWlQ5THFfcjJFVnBtTkwwa1lUS1E1aXotajcya2dlc09QOGFNbHdDSThZNmhJZFpSZzc5MHVSRERxbGRHQmlHbnY2VnNsckM1UlNlRVlzeUtVZG4tOEVtRDJueG90U0VNZV92RHJ6TDdpMm1qYmtsTTVVcDRWUVFqMGVkQ2V3MXU5LW5XWks1YWtyc2NGUGRQeUIyTTRoYVBZN1JNa1B2VmFkaTg4ME5q?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T15:49:10+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "IND",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "78f99fd9f4e7",
    "title": "NIRF Innovation Ranking 2026: Release Date, Parameters, Top Institutes",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPakZlSFRsNDRoT0xibEJSTl80TTBOeWVxOF9VOGsxRGctRUhuVHZGMUNZTVVVcm5tNVZVZmRLQmdlemdFMWRSc1d5bTc2eXEzY1dYdlFUTDN0QjViTUZxQ0IySVBDX19XSHB3eXNPVXVIT3lGWXpScVA0SGNLVXV1SUw3TVNOdlRrRXR3U2xfUVc?oc=5",
@@ -2198,57 +2267,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "4247c179d4d0",
-   "title": "US House Speaker warns curbing AI too sharply could leave China ahead",
-   "url": "https://economictimes.indiatimes.com/tech/technology/us-house-speaker-warns-curbing-ai-too-sharply-could-leave-china-ahead/articleshow/134208618.cms",
-   "source": "ET Tech",
-   "published": "2026-09-13T15:18:12+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "US House Speaker",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "049b3851550f",
-   "title": "IND Vs AFG: Gurbaz Gets Out For A Duck! Bumrah Strikes",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHNyZENUX2lYc2lUczVQbGs5QWdSQVlhQTliT2xPTmRjdWtDM1dtNi1rQXEzd1YzMWdBZ2w1cWJJbmpkX3NKLWhCZ1diUno0ZVFjTmRaYmk0UFE2WFVMT2cwTzJnY2thTUhOQlZzNHlMdXhuSWNLSkxxT3p0ZTVoYVUxQlE5aTZEVERnQ3hQajlWS0UzSEdj?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T14:56:54+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "IND Vs AFG: Gurbaz Gets",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "32e57aa2931b",
-   "title": "Indian Squad For The Upcoming West Indies Series To Be Announced On September 16",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVd2ZE41Qm9kdDlrOUNhbEgwa09oYUFDQXZ2NU1wcy0xRGNYNndxck1qZG5ERDZhOW5ZUXhjX0poYkRlV0VrS01uTU01ak1WT3VucmhYSFUxdFFHdzhla29MQ1VmeldkSzZmYjkxTkVOdkNjcFg3UVRhYWlQcGU2TFJGeGxOUEJoWnpFVUdITUpkVWEteVY5RHl2dE1yTjA5ZDlUZnNPV0hWQ0trQlF6WnRrQkxLVkU0eDZaaw?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-13T14:56:54+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Squad For The Upcoming West",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "f86833b1a903",
@@ -7079,23 +7097,6 @@
    "score": 63,
    "category": "acquisition",
    "company": "Udaan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f80c4efe90c2",
-   "title": "ChrysCap-controlled Novartis India to buy Pfizer\u2019s blood pressure brand Minipress",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTNTRWp0UmJCRjN2clhTaTRLNmV4UHNuQ3NMTUdFQ3hXTlBqRVRfQ1NuTmp3Vlh3cW9GR3JyUEd2b1ItRm85Q1FId3owLXZoeDJWLU1vY3pMTTF4UlotaVBQQmU3SS0wX3hSaDhfUkxLOXYyaTdUSkJISUVNZEpTdnpvQXd3UUFCQlRiWUloTlYxYWd6UThERTB4VXNRMFNvVzRZalFicVo?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-07T13:19:31+00:00",
-   "score": 56,
-   "category": "acquisition",
-   "company": "ChrysCap-controlled Novartis India",
    "amount": "",
    "stage": "",
    "founders": [],

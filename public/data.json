@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T08:51:56.438218+00:00",
+ "generated_at": "2026-09-15T09:04:08.023431+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 5,
-  "alerted": 2
+  "fetched": 67,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e90496fa7d5e",
+   "title": "iGowise Mobility to Launch BeiGo X4 Electric Trike in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkxDSWZZVkVEME1sU3o3cWJQWVpQQ0VZNndKYzBJREJIU1N5eE1mUlA3bjNEWHN4b24xT256a3Q0S1NEejRNSklfLVpKdkViTUNZZ1cydV92Q2hyUDJ1WHdrYk1mdEFrTFJWcU9Tc1VsbTRmTWxWNWdaSE1NTnB5dmh6a1hHZUdPcVJhYndyU1J1MXhrRGVrZUprel9rQkg4NEJsSHdLOA?oc=5",
+   "source": "Energetica India Magazine",
+   "published": "2026-09-15T08:51:42+00:00",
+   "score": 56,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "049bc02b18e0",
    "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
@@ -2162,28 +2180,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d9b1f6885c26",
-   "title": "Germany says halting AI development not viable, calls for US, China involvement",
-   "url": "https://economictimes.indiatimes.com/tech/technology/germany-says-halting-ai-development-not-viable-calls-for-us-china-involvement/articleshow/134240259.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T11:34:39+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Germany",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Dario Amodei",
-     "handle": null
-    }
-   ],
    "reasons": [
     "no clear event"
    ],

@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-15T09:22:24.740003+00:00",
+ "generated_at": "2026-09-15T09:39:31.786330+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
-  "fresh": 2,
+  "fetched": 64,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "aecf04204d0f",
+   "title": "SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges",
+   "url": "https://www.livemint.com/companies/people/sc-refuses-to-quash-delhi-hc-order-against-former-nse-ceo-chitra-ramkrishna-on-corruption-charges-11789461001301.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T09:36:11+00:00",
+   "score": 62,
+   "category": "funding",
+   "company": "SC",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Chitra Ramkrishna",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
   {
    "id": "e6ffc929a316",
    "title": "AI interactive content startup Flam raises $40 Mn led by QED Investors",

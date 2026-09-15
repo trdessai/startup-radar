@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-15T09:04:08.023431+00:00",
+ "generated_at": "2026-09-15T09:22:24.740003+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
-  "fresh": 1,
+  "fetched": 68,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "e6ffc929a316",
+   "title": "AI interactive content startup Flam raises $40 Mn led by QED Investors",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3kwdmpiVGVIRXExQ2t6WlJOZ3VlSlFzMGxKOHlQaU5ybEw2VmZQSHlGTjlUVjF4VnREc3ZUcDM5NDZrUEFQdHpQZGZhTjBvaDhVSDF5d1pKQ1dPVWdLUEJBZDhERGMxSGlsTWRMTDJka3NqRjJUb25ZZFRURG1kVlpGTXZmTkxfdmVxZFRpYkx1RWFRUlFBR0tMY1RJWm5NVVdGV2hUQdIBpwFBVV95cUxPN3kwdmpiVGVIRXExQ2t6WlJOZ3VlSlFzMGxKOHlQaU5ybEw2VmZQSHlGTjlUVjF4VnREc3ZUcDM5NDZrUEFQdHpQZGZhTjBvaDhVSDF5d1pKQ1dPVWdLUEJBZDhERGMxSGlsTWRMTDJka3NqRjJUb25ZZFRURG1kVlpGTXZmTkxfdmVxZFRpYkx1RWFRUlFBR0tMY1RJWm5NVVdGV2hUQQ?oc=5",
+   "source": "entrackr.com",
+   "published": "2026-09-15T09:11:17+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "",
+   "amount": "$40 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 Mn",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2160d46ffbcc",
+   "title": "tk accelis expands India operations to support aerospace growth",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFBjb2xFWWduQkFoYlA0MVdzdE51eUs1UmJwOVZVdVdNaUFxeFFQUmpHSjJldEV4YW1obVNGcE5fWGFWcjI4bVJnOHJSWjVhRVc2anhjQXdnczRmMzhacEpvZUNSU3k2eTEzR0xqNGw4OWFLeHIwdlhmVGdLYWI4VHk4cFdyb3ZGc1B2VFJOTFZNQQ?oc=5",
+   "source": "Aerospace Manufacturing magazine",
+   "published": "2026-09-15T08:54:33+00:00",
+   "score": 41,
+   "category": "expansion",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "e90496fa7d5e",
    "title": "iGowise Mobility to Launch BeiGo X4 Electric Trike in October 2026",
@@ -6998,97 +7035,6 @@
     "funding in headline",
     "$1 Mn",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c65319f5d760",
-   "title": "Circolife Raises $4.5 Mn To Scale Subscription-Based Air Conditioning",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlZYaDBNNkxtYjVHOTkzUGlpSDlHNXBTSFU0ODItRXVGNlBjb2J6WnQza0c0YjdxNHR1a1Z1YUhaRkVCRGNNdDhhVmxReTZpTkNDT1JXdDJfQXlsZTNkcmNtX0V4NWhVeW9RaS10bWFPd3ZBanVTeGNhcXRuOXpldy1pRlFqMF8teFhBcS1rZU5mbVBmSTlJ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-08T09:16:47+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Circolife",
-   "amount": "$4.5 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4.5 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "191aba430e5a",
-   "title": "White-collar hiring grows 14% in August led by auto, healthcare, retail: Report",
-   "url": "https://yourstory.com/2026/09/white-collar-hiring-grows-august-auto-healthcare-retail-report",
-   "source": "YourStory",
-   "published": "2026-09-08T09:16:22+00:00",
-   "score": 69,
-   "category": "funding",
-   "company": "White-collar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "71855796b1bb",
-   "title": "Fundly.AI Raises $ 4 Mn Pre-Series A To Build Pharma Distribution Network",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVJGb3RGM08yRmstUXJ4Mks4U3A1WllZQ0MwbnZ1V2tpSE1zeW5qQXhmM0pXejc2MG1DQjBQWWV4dlhHVk1Ca2JxM3NWSy01QktqQjBxWHNaREppQ09kTTlhcTFMOVUxVGhzQWtFNVBQT3c5U2FYY3d1bktlWkFPR0cxNmVDdHp2N0hUaUlQSFRMRENweElrd1d2WHo3NW5ldW51bFpESW1nbmV0eDM3VEln?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-08T09:15:37+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Fundly.AI",
-   "amount": "$4 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Mn",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4ebe40e4f7c1",
-   "title": "Pixxel Technology Expansion Gets $100 Million Boost",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnptS3hLQ2lURzZ0YWk4QTZFc2FiUzRtc2JBSDVUODFsbkFTUzA2UXA4V3MwR2tIUTM1RGFBeDFwU1Z6RGVnTUpVaHhnb05BT2NLM09IZE5tV1dYWGYxa1pKemNyX3JrazkzMVdGd2Q0NWlaalUwZTJ1Sml3U1ppUGtpS1ZWQQ?oc=5",
-   "source": "StratNews Global",
-   "published": "2026-09-08T09:10:28+00:00",
-   "score": 66,
-   "category": "expansion",
-   "company": "Pixxel Technology",
-   "amount": "$100 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "$100 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "38ec3db58e1c",
-   "title": "Gaming tech startup ARC raises Rs 10.5 Cr in pre-seed round",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcExqcU92eUVVZDdERVZGODFUMm42Nm5udG1oRUJRM2JXaWhuOHBCMEd2QUpsNnlOVXlRSG1IbGI2cHdTMkJFSFZkOTQ0U0pUZmxEb2lmaFZhU2tuRHVXbTZBTU42VnNQNWczeXRVSjJmd3hOUi04d2UwSjdVcnJsLVBoQ1h5VnNkT2NmQ2w5UUFnWmhhOUYwcGRVM3FhZ9IBngFBVV95cUxPcExqcU92eUVVZDdERVZGODFUMm42Nm5udG1oRUJRM2JXaWhuOHBCMEd2QUpsNnlOVXlRSG1IbGI2cHdTMkJFSFZkOTQ0U0pUZmxEb2lmaFZhU2tuRHVXbTZBTU42VnNQNWczeXRVSjJmd3hOUi04d2UwSjdVcnJsLVBoQ1h5VnNkT2NmQ2w5UUFnWmhhOUYwcGRVM3FhZw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-08T09:09:03+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Gaming",
-   "amount": "Rs10.5 Cr",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs10.5 Cr",
-    "Pre-Seed"
    ],
    "alerted": true
   }

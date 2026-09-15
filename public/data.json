@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T05:22:23.249295+00:00",
+ "generated_at": "2026-09-15T05:36:12.792354+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 40,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 39,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "a922d888ce8e",
+   "title": "Kids\u2019 Nutrition Brands Face A Familiar Struggle",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfenRUTmtKVVZMeV9FUnBreGlIQ0pXWHdOTG1wNWVBYWsxZE5VREFDOUhlTlJrQjZVUHEzTFpCSUhleVFESU9ZYTRpSWM2WDVjSGh3eVFoYTRHTURZcDRZbmwwMmtobDI5UHdGVTdrR1ctMmh5Wm53a3RBOExodDA?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T05:30:37+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Kids Nutrition Brands Face A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "355f17c0a69a",
    "title": "Investors nervous about AI spending slowdown after industry warnings",
@@ -2181,26 +2198,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2108e112c2f3",
-   "title": "$100 Million, 110 Cheetahs: Is India\u2019s Startup Story Changing?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1ZPYjVTdlNsdXJSRk0xWllvdDlIaWZ1bGlnUUdZb3pTTDUzSEFRYnJMLTJ5cGhJTzR3UkJoSU93ckw3SFRKb2RfeWVFcGFLYWtiRUFJTHV0MTdwZnhRT3JSWnBkRDF2RmZ1YUZ4TlN5S0RheTZGOGxMN1hsX21zdHQwX1g0NElLSkR1b1NlZEJ6ZzFMM0ZtZFlYZy3SAZwBQVVfeXFMTXdWT2I1U3ZTbHVyUkZNMVpZb3Q5SGlmdWxpZ1FHWW96U0w1M0hBUWJyTC0yeXBoSU80d1JCaElPd3JMN0hUSm9kX3llRXBhS2FrYkVBSUx1dDE3cGZ4UU9yUlpwZEQxdkZmdWFGeE5TeUtEYXk2RjhsTDdYbF9tc3R0MF9YNDRJS0pEdW9TZWRCemcxTDNGbWRZWGct?oc=5",
-   "source": "TICE News",
-   "published": "2026-09-14T06:58:27+00:00",
-   "score": 17,
-   "category": "other",
-   "company": "",
-   "amount": "$100 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 Million",
-    "no company named",
-    "question headline"
    ],
    "alerted": false
   },

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T17:27:11.625986+00:00",
+ "generated_at": "2026-09-15T17:35:48.663669+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 46,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "28e418516bb8",
+   "title": "Ex-Google worker adds to AI alarm, warns of 'potential to kill us all'",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-worker-adds-to-ai-alarm-warns-of-potential-to-kill-us-all/articleshow/134270139.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T17:31:31+00:00",
+   "score": 60,
+   "category": "product",
+   "company": "Ex-Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "fc601a09a1de",
    "title": "Fibe gets Sebi approval for Rs 750 crore IPO",

@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-15T12:02:20.342818+00:00",
+ "generated_at": "2026-09-15T12:24:03.516096+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 66,
-  "fresh": 2,
-  "alerted": 2
+  "fetched": 67,
+  "fresh": 7,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "29ef87ff77e5",
+   "title": "DDC Reasi Reviews Sports Infrastructure Proposal Under Khelo India Scheme",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNU91U1BSaDhzSVVkdXItaFp0Zm9oUEh0cDJvRTRzRkJuM3o1eE5yTm5nbFRvUmNxc3BTMEdDRkt3em1yNWM2STJKcVZsVXNuMDRQc2pfNWRlb0RROS1KQ1dtNkxfZGVMUXdNYjFTV2w2b2poYXRSTU5odXZyNDRRN18wRHZpMHBWUlRyWFZGY0NEbUw5UUVIcm43MXAzRFdJN25nWmwtWlAtTnRWcEw2NGRJRQ?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-15T12:10:34+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "DDC Reasi Reviews Sports Infrastructure",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "85c373865719",
+   "title": "As world debates risks of AI, China closes technology gap with US",
+   "url": "https://economictimes.indiatimes.com/tech/technology/as-world-debates-risks-of-ai-china-closes-technology-gap-with-us/articleshow/134261687.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T12:04:25+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "As",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "717cf66dc9fa",
+   "title": "CoverForce Launches Startup Program, Enabling Any Company to Launch a Digital Brokerage in Days",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEFlbjJzbVhBeE9CRExYNkFaTFZraFI5U3p2YTBibjNnMGk4UDVXQ2dlWVQ0RTBjSjFuamp6cW5oMjI3andnWkV5SFdzdVRnSENZUnB3RjdiUUlON0hSSUVxQllSakJ4N1E4MGxCR1l6enJHVF9Cd2lrN3BIVFFiWVRQbFc3aHNMcEt0Wl83c2YybFVIay14NERmQ3o1ZVRScmZhSmt5Sm9kUHBuVEktdEJaMVFyd1RWaWxObW5FejlCeU04THlRNDRVQTN5c2dzYTVkRHFIeUVLaXA4NlhMY2JZZXM?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-15T12:00:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "CoverForce",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "8610c4d222f1",
    "title": "Axis Max Life Insurance Launches Rising India Manufacturing Fund to Capture India\u2019s Manufacturing Growth Opportunity",
@@ -572,6 +623,24 @@
    "alerted": false
   },
   {
+   "id": "e093be11b9a7",
+   "title": "Kissht Parent OnEMI Plans Fresh Fundraise After Rs 926 Crore IPO",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEVwV3JudkZSZThPV3ZRdE5fYXpMb0M1enZQZVMzUnJzTV9DVENUUHFvenl0R3M1alROZGpKbWx4NlZNNHlxS0ZUeUtNQklaOXk2Q2VrSmpDOEZsVU5kVTAtNW5nWnZmVnFJdDVBYVFkR1lFOXNpRjhkV29WWHNEcHk0eS1qNGdyY21ZZ3JNeURmNTlvLWQwVkdqekZ6TS1YdUxHY3hjSjRxRF9tT1c4SFQtQXBESkd6VENmMVBXQlVGQ3FNZlFJd0x3?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-09-15T09:36:28+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Kissht Parent OnEMI Plans Fresh",
+   "amount": "Rs926 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs926 Crore"
+   ],
+   "alerted": false
+  },
+  {
    "id": "aecf04204d0f",
    "title": "SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges",
    "url": "https://www.livemint.com/companies/people/sc-refuses-to-quash-delhi-hc-order-against-former-nse-ceo-chitra-ramkrishna-on-corruption-charges-11789461001301.html",
@@ -630,6 +699,40 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "76f63691f73f",
+   "title": "How SEBI proposals to revamp derivatives settlement could lessen expiry-day volatility",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQang3V0FYRVAyRE1mOFpBeTVxZzl6SzZYMEU3SEZWYWdESmwzd2pqLVJPQkFFRk1vZ0pycFNkQktHTC02ZzlFTXVpbW1uekJxWjI3bXNyVlczdDRYUXluTFhwNEIwd1RTU185Q2RPYjhUREl0UXZFczRjRWQxQmZLRjVMRW1iU2NjSUl6dEc1MnNpTzFmdDM1eUNEd3FFYVFZOGhacTZldnRNTmRhMGow?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T09:08:43+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How SEBI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4e991fa3c31a",
+   "title": "AJVC",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBjMDdqU0U5Y19JbjFESmdwd1gyd0tPOWFfU21Pamh6SmxqM3hGNXVzT2ZGdEltT1huT0hXOTI0OW1mVDRn?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-15T09:04:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "AJVC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "2160d46ffbcc",
@@ -723,6 +826,23 @@
    "reasons": [
     "no clear event",
     "Pre-Seed"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e19cacf5b65c",
+   "title": "Oman Investment Authority",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGRUhXUEVVa3RYMzhEWXQ3TVlyRVpGaEVOWGtqRXhuMVhtOUpiUGdWWlc2SmFZMzhQT2x4ak5aZWZNWFJPLU5wUklWd3FOVWVSYUxPUk1UWTB4c0dUQnBhejRNd0F6bm5kSk5OeF9VTVczZw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T08:39:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Oman Investment Authority",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -2281,108 +2401,6 @@
    "alerted": true
   },
   {
-   "id": "4c9a6737846b",
-   "title": "Anthropic targets financial advisers with new Claude tool",
-   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-financial-advisers-with-new-claude-tool/articleshow/134246643.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:27:44+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "34e10553a813",
-   "title": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
-   "url": "https://economictimes.indiatimes.com/tech/technology/musks-x-corp-and-spacexai-resolve-antitrust-lawsuit-against-apple/articleshow/134246617.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:26:21+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Musk's X Corp",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5c883ab3e9e5",
-   "title": "Why Australia And India Are Teaming Up In Space Right Now",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySjBuaDVvTWlERXA4Uld3XzVuZTdib2ppcVl5U2F0SnN3MGhtYUZhWXFMdEw5UmVlUnE0UjV1dHYyQU5nbUtIdTM5ajcwOU1LODJUc2tXWll4dFdIcU9vUkxwVGkxckhKRzdFSQ?oc=5",
-   "source": "\u0418\u0424\u0417 \u0420\u0410\u041d",
-   "published": "2026-09-14T18:22:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Why Australia And India Are",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d6ca7462e760",
-   "title": "HDFC Bank proposes Kaizad Bharucha and Anup Bhagchi as CEO candidates to RBI, reports reveal \u2014 Here's all we know",
-   "url": "https://www.livemint.com/companies/people/hdfc-bank-proposes-kaizad-bharucha-dmd-anup-bhagchi-icici-prulife-ceo-candidates-reports-rbi-replace-sashidhar-jagdishan-11789405991248.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-14T18:13:34+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "HDFC Bank",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "42ab7bb996df",
-   "title": "RBI Floats Draft Rules To Standardise Account Blocking In Cyber Fraud Cases",
-   "url": "https://inc42.com/buzz/rbi-floats-draft-rules-to-standardise-account-blocking-in-cyber-fraud-cases/",
-   "source": "Inc42",
-   "published": "2026-09-14T18:06:55+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "RBI Floats Draft Rules To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "83c41ec32545",
-   "title": "India\u2019s Most Successful Sports At The Asian Games: Athletics, Shooting And Wrestling Highest Medals",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQms5MWJFdTFBbmZma3ZVVVVEZ0hLYVY0MTFuMjNFS1FtQ3pNVFhPWjBwWjV0Q1RIQ255Z2pKYXhXWjlyNlhKaHgyNVozaXBabVY2aFhjZGNvZ0VkRllYVVVOemlxSEg0SnFaeVAxR1VvWEE2Y3Z2bDJVQUN0cEk5UXczUzhTaldtZjZSMHU2blVxcklHMzVSN2pjVUpmSHNjdUFOTHlxMGc2UmwxMzhuM3BPcFZOemZIWHlXeWE4MzNEQQ?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-14T18:06:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s Most Successful Sports At",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d03576f2a549",
    "title": "AI startup Flam raises $40 million in Series B led by QED Investors; Shah Rukh Khan joins round",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORW1YeU1xLV8za1hZTFdQT1dlLWo0dDZ3UlhwZlZiRGJhb0lJTFJaZEZtU1d5V3p2RldRTTk4bGhHRGxwWFFGVUFicTBUMTNDdGVlQV9LNU51a0s0X1hMSFM5SlY4a2VVaWx2b01EWnU5aDJwTXd2MjItN1QxYzFqMWFQLWxpcnVwMFZHUjl5ZGk5NmE5VktMNGdoVE5JNVBiNzQ0ZGJ5WTJiZXFZZU5tcHV5NEdHbmp6WVRWQndRWUMwLU0tNXJFZHVQWmdKSm5CV1hwd0NWNmtsZXBFbFhoV0NjLVVYQ2VIRExJQ0JCU1pZNlRyc18tOUFOWjjSAYICQVVfeXFMTTV6dkMtQkIxUm93RmY4NmdZNFM3S1p1OHBpeWNKZWxacTZ6cnJET1g5N2JoM291RGh5TU9ob3BGQ0VJNm04S1lxaXNvZWd2TlFkb0FtdEZQdkRSSU5zNE1Eb21oSTZQcmNIS3ZiODRyWkFBQU1Xb2pzVHpXWkwwTFJMcVpqUHYyeTR6WjVmMDVRUnFoTVBsMWRfeHZhTWYycERUeXBTUkg5aUswaHhxdUJqRmZIT0FTQXNWTzlENjhpNVh1dEtXN05rQm5YSzRZWmZEQlBNM25ER3JvTTlrQ2YxYUtsZHZvV3RwMnd4VmUydHg3Z2NQcEEwS3pDaVAtTXpR?oc=5",
@@ -2400,24 +2418,6 @@
     "Series B"
    ],
    "alerted": true
-  },
-  {
-   "id": "4b1815be29b6",
-   "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-hires-dealmaker-as-cfo-ahead-of-possible-ipo/articleshow/134245566.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T17:30:14+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "China's DeepSeek",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
   },
   {
    "id": "09e3e82f30d1",

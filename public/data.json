@@ -1,12 +1,144 @@
 {
- "generated_at": "2026-09-15T08:03:58.465952+00:00",
+ "generated_at": "2026-09-15T08:22:36.962697+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 55,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 58,
+  "fresh": 9,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "8535da430fc2",
+   "title": "Delhi High Court seeks OpenAI\u2019s reply on ANI plea to stop ChatGPT from using its content",
+   "url": "https://www.livemint.com/companies/news/delhi-high-court-openai-copyright-lawsuit-ani-plea-stop-chatgpt-from-using-content-11789457353087.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T08:16:42+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Delhi High Court",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8080bdb4641d",
+   "title": "Air India board meets in Mumbai as Tewolde Gebremariam set to take charge, new CEO's salary structure in focus",
+   "url": "https://www.livemint.com/companies/news/air-india-board-meets-in-mumbai-as-tewolde-gebremariam-set-to-take-charge-new-ceos-salary-structure-in-focusstory-11789458909459.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T08:14:05+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Air India",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Campbell Wilson",
+     "handle": null
+    },
+    {
+     "name": "Tewolde Gebremariam",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4c8ab1215c07",
+   "title": "Flam Raises $40 Million Series B Led by QED Investors as India, Overseas Business Hits 50:50 Split",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQms0ZWFPZVJ1eUctNzJldGhieE1VWGc4QTFWZmFTalVmSktXTjVHalR0aGc4cXkzd1huQjJsa2JUeHdkMVAzQ0xqU09hUWlaS1RaQ3NHRmhBcWp6emw5aFNqWVdSS0xISDd4dEliZllVMmRCb2E0TktBeVBEZXFzNzJpZ1NCYmhoeTA1WUJUUVRES3Q4T2JrRV9hd0NOanRNSzJCYTZENGpiS2FzVWg5T296UGM3LUk?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-15T08:13:57+00:00",
+   "score": 87,
+   "category": "funding",
+   "company": "Flam",
+   "amount": "$40 Million",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 Million",
+    "Series B"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7bbbd1878291",
+   "title": "Dot & Key Expands Its Moisturiser Range With New Dragon Fruit Bounce Jelly Moisturiser",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0tyT0FhUmY4RDNhSlk3d0NBSXB0b2ExeEsyUFdRcGxUSmRUbGRUcHpSd1hTVktnSVFkWjF1Qkl1R3JsU1B3bDhrOTN2Nkg5QU5XQzkxM2taZ000dF90dTdjUGVNTzN2ak5ObjRjclVzWnp2ZkZVZmZIY1VGV28xX0NDN2tNOHJRSDFpRGFzcDVYOG93cUo0NVFlNGhTb3R4ejVtQXdPU1hjbWdCbkEtbmYzejBvQXA2Y09QM29yUW5RR2xCMmlDR2E1emd6Z0s4SWE5Nl9wZFBXQ0FYbnlsYXJaam05NEXSAecBQVVfeXFMUF9Lck9BYVJmOEQzYUpZN3dDQUlwdG9hMXhLMlBXUXBsVEpkVGxkVHB6UndYU1ZLZ0lRZFoxdUJJdUdybFNQd2w4azkzdjZIOUFOV0M5MTNrWmdNNHRfdHU3Y1BlTU8zdmpOTm40Y3JVc1p6dmZGVWZmSGNVRldvMV9DQzdrTThyUUgxaURhc3A1WDhvd3FKNDVRZTRoU290eHo1bUF3T1NYY21nQm5BLW5mM3owb0FwNmNPUDNvclFuUUdsQjJpQ0dhNXpnemdLOElhOTZfcGRQV0NBWG55bGFyWmptOTRF?oc=5",
+   "source": "The Tribune",
+   "published": "2026-09-15T08:12:33+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Dot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f1bcc1de8da4",
+   "title": "Solterra Technologies Partners with Sinpro Electronics for EV Components in India",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlVydDhRanl6eEl4SGFiUFVfaDEweWlhVHlaS3dHQThQU0xuM29sQWlYbDJhZWJhd2xnSEVtRFhaVVlJczY3Z0VwUHRJRXdTemFPREFBSzFhQ3EyanZvMjdUX1JXWGd6bWpBTDZXeF9DM0tuTkJGd29BOVVDelBPaTU5ZDA5SkQwY25VLXV1RUdoQ1ozMXp6RlB0ZndjWGtZMlIyUEQwOHE?oc=5",
+   "source": "EVreporter",
+   "published": "2026-09-15T08:08:41+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Solterra Technologies Partners",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "173db3ba1e84",
+   "title": "Flam Bags $40 Mn To Offer Immersive Content To Enterprises",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUx6RUhUc3NNX0hIQ1A3SHB0dlZoV2tZSGxWYTBxOVdVWXBvU3JwV1pCcHhISXg3MHpVTnFydWFYMC1GRWdhRmJibDNodGNFbHd1dzNiNHRfOWg5NmxmenhFSmNZbzVkLVg0XzQ5UURpQTk3YV9OTFc1ZjZxZVhsRFZmdmxWQjd6?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T08:06:12+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Flam",
+   "amount": "$40 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6f62cc4ab8df",
+   "title": "Jefferies calls Zerodha's Nikhil Kamath \u2018YouTube podcaster\u2019, investor spots bigger shift",
+   "url": "https://www.livemint.com/companies/people/jefferies-calls-zerodhas-nikhil-kamath-youtube-podcaster-investor-spots-bigger-shift-11789458187242.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T08:02:26+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Jefferies",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "ac9bb6252c4e",
    "title": "Solar Industries expects to triple revenue in two years with $1.36 billion buyout of South Africa's Omnia",
@@ -25,6 +157,24 @@
     "$1.36 billion"
    ],
    "alerted": true
+  },
+  {
+   "id": "b39933146115",
+   "title": "5 Books to help you destroy your weak mindset & grow strong",
+   "url": "https://yourstory.com/2026/09/books-weak-mindset",
+   "source": "YourStory",
+   "published": "2026-09-15T07:55:00+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
   },
   {
    "id": "9c9287d03671",
@@ -393,6 +543,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "b17f884b4312",
+   "title": "Ex-Synapses VC Karthik Chandrasekar returns to Sangam, new fund in works",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEtyUjg0Szh1RnhDLS1mb2dKalhITHl4RnBJWkhKRFc4QUxLcEZjSVJNcTYxMGNqNVVrT3FmckpjNmYwN21leE1KakNTX0IzSjIxeFBXNGtVeHZHU1RtMmlvSk93dXJzUEY2SVdZbVZONndLejlhOEQ2ODJNUDgzMW1QUXNMaUJzcU11eXY5TkY0VGFXdVVQSUNQVQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T06:01:52+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Ex-Synapses VC Karthik Chandrasekar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "8fa302377890",
@@ -2007,23 +2174,6 @@
    "alerted": true
   },
   {
-   "id": "c318cd90a232",
-   "title": "Instagram reel on Google's Vizag data centre restored after months",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU1Ob3JfSnktR0kzYnAwUGFYaFhiQUtBbE9odXVuTmwtTWExOU9WUkN0bmxzRHk1VTdzeXhuZE84X1JibG5ORmtWaVNkSFVCbzVDWmhTTlpJVU9BMm0zMGo2dUQ4UHhxUkhMU0ZIMURVU0NiSTlfSWxnLXZuUGt3M3RSeW54TjdlS1RCaFJyOXpsaHpBVUZBZjRVRzR4U1R4QkZmaWR0U29NdlhvemUwQmlBV09PSy1Gd2dwSWlCdTA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-14T10:48:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Instagram",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "0d8d0bf44b7f",
    "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
    "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
@@ -2109,109 +2259,6 @@
     "250 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "8c4cedf77977",
-   "title": "Tata Sons under IPO pressure: Noel faces biggest crisis amid RBI's regulatory push for public listing",
-   "url": "https://www.livemint.com/companies/news/tata-sons-under-ipo-pressure-noel-faces-biggest-crisis-amid-rbis-regulatory-push-for-public-listing-11789377205627.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-14T10:13:05+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Tata Sons",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "529e4f1897c8",
-   "title": "SEMICON India 2026 to Be Inaugurated by PM Modi on September 17",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEh5LW5FTDQ1MFg0UWJzZFVDZE9XS3NBTlBpLUxmY1VTN3Z4dkg1Z2RIWE53SDhvZlppamtDaDk0cTFuUVU4RkluZVV2MWN5Smpab2pJeGFycUpmaGFLV3NDUk1KV3NTY0RRdVFRdUJZV1NNYlcxS2ZGMnFVNFBzSEhKaU5aeU0zdU9nVmFLOWk3QTg?oc=5",
-   "source": "IT Voice Media",
-   "published": "2026-09-14T10:01:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "SEMICON India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7aebd22b78a8",
-   "title": "UniqYou",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hYkd4cnNINDdGS2NIRnlTbFNDaEs4SWJMYWNwMjZGcmwweFZ0MFZsYUIyRC1yeTAyTS1PRks5ZmVvaVRidFp6dw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-14T09:58:01+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "UniqYou",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dfcdf05196e2",
-   "title": "BRICS child safety pledge meets India's IT Rules gap",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd00ya3VRc3c2RmpIcFpBTDhrSDF6U1BzVGlKTXVzRk1ZOExkakpLV3cySUs2S2dQc2tscXBteUo2WU00cjU2SXRCTUZVajVCN08xdVB4cjhSUFNNWWZDVlBVb1M3ckI0ZzZzSW53aE9oR2ZHTEctanBwUkE2dW11bXJzTkE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-14T09:47:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "BRICS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "586a6824a4e0",
-   "title": "Lenskart increases stake in AjnaLens parent to 9% with Rs 8 Cr investment",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHhPYnJuRzRpSGRvdWJfbDhyY1NrZmdKUGxiaEVjbFdXT1A3Y1RWOURhQjBMaG12cTVYbDQ4YXAyaHpOLWdtUnVGYnF2bkQ1LUJOS0xQUVh2NzFjWDNqbWRYNzBxQ0Nkbmd3S3poUmdVb0dNMGZWU3dVaXpmTU5KVFBZcWhnTkhQZE9SRmgxUjBfdUUtczlmVFUxVlRUdFpNc0VNdUxPNkRVa1AzV3hUbNIBsAFBVV95cUxOWHhPYnJuRzRpSGRvdWJfbDhyY1NrZmdKUGxiaEVjbFdXT1A3Y1RWOURhQjBMaG12cTVYbDQ4YXAyaHpOLWdtUnVGYnF2bkQ1LUJOS0xQUVh2NzFjWDNqbWRYNzBxQ0Nkbmd3S3poUmdVb0dNMGZWU3dVaXpmTU5KVFBZcWhnTkhQZE9SRmgxUjBfdUUtczlmVFUxVlRUdFpNc0VNdUxPNkRVa1AzV3hUbA?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-14T09:41:56+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Lenskart",
-   "amount": "Rs8 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs8 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "57215cf31ca9",
-   "title": "Franchise TV Exclusive: French Brand Yogurt Factory Opens New Outlet in Hyderabad",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkY2YXliQTNYR1c1cWNuV3FzdWd1RW5IUXZOSW9SbThXMTQ3bjh4QTUyc2xQczZkZTlfaWZidmRielE3dUhzM2pNSXlVdjc5YUNKZHcyWkY5Q0g1TzJCZjRSaGlCOEFlTnE5V2QtUGtFRnBEWG1kSWhhU2xsbEpIN0JJa3FEYmlFOUpvVEVJWHpiQ3d4VElnakhJaUxSLUJHYWphZS0zd0RLci1iQTdtZVExcDYtNnpsXzRVX1dzSDlwM2tuQ0hycnVCdjUyX1k?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-14T09:34:02+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Franchise TV Exclusive: French Brand",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "d7f504c60ac2",
@@ -7047,42 +7094,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "171a2843d0c7",
-   "title": "TCS launches AI-native creative engineering studio in London eyeing AI-led growth",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2ZEVXd2S1JudUVpV2dGUzZEWEtmTEdmSGI4NTdpWFUtOUtXdVljaENKNFBQVFlvaWZJX2JTM2hmdzAwS0tTWExuMmw3Z2RhUFgzeDlxbHZDYWJqQW9KRGRrRHZtVnptWmRjeWw4RzVEdWdWbjRBNEU1VmhyRnl3b29OVmhFTGtLWW1WZmI0UEZHUVNnTFJHa3VuNC1zSEhibHVsTUtjMnhvdkI3amRwaGxsbURXRHVsMF9aZnhvQUg3SEFvN2ZsbU1BTkY5U1hz0gHXAUFVX3lxTE1FaTVYS2YyczBkbHR4UzAtY3RlemFFVUR6Zm9aQTFyNWJhYkEtcTRXSWdLNGsxUURYa1lqY29hb016b1BKNzdMYVZrLUMzOVo3WjlucmZwcGlRbU1YU0tnZ0ExbC1qY0U2V0s3MmJVYlpnY1NpVjM4d3hCelh4a0ViaDlaSTlHQWhMcUJCUDUxU1VUa0tWY1NrRmtjbE9qNy04dDZIUWxvRy1vdmpvZTdwRnY5SjJpNl9ZRzFnbkYzZl9vUktHdUxIdVh1LTBaT3p1cWJ6MHFz?oc=5",
-   "source": "indianchemicalnews.com",
-   "published": "2026-09-08T08:19:47+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "TCS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7d6516cc3e40",
-   "title": "{Funding Alert} Plant-Based Nutrition Brand ZeroHarm Sciences Raises $7.2 Mn",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYV8tOE1mRXFLd2JCbGNhNWZEakJJQTAwQnZ5WUJyTmVkeTR6ZGprcjdoeFJhbjNLQUZkbllfN1FXbVJuRkZXZjJrRm5lQWptaldBaVNfZk14bGxzUl9vWmI2ZDc4eWUtSXpYaHU2M2cxTFNTUzhOdmltcVNnRXBlNUZvOG5KNU9vOUxjR0x5aDZqUXNna2RaUmNNSnZsQTFabWlvNHJKaDlGWjNf?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-08T08:04:34+00:00",
-   "score": 62,
-   "category": "funding",
-   "company": "",
-   "amount": "$7.2 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$7.2 Mn",
-    "no company named"
    ],
    "alerted": true
   }

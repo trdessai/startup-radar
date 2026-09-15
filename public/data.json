@@ -1,12 +1,100 @@
 {
- "generated_at": "2026-09-15T11:18:58.464921+00:00",
+ "generated_at": "2026-09-15T11:30:07.584104+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 66,
+  "fetched": 67,
   "fresh": 5,
-  "alerted": 1
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "c21af6cf81db",
+   "title": "MediaTek launches new mobile chip using TSMC's most advanced technology",
+   "url": "https://economictimes.indiatimes.com/tech/technology/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology/articleshow/134260399.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T11:23:15+00:00",
+   "score": 88,
+   "category": "launch",
+   "company": "MediaTek",
+   "amount": "9600 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "9600 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "637c72ec43d8",
+   "title": "Teachers\u2019 Venture Growth makes follow-on investment in Darwinbox",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzdsUUNraWYwTkc2X0JPeHZ2SWstSDFLQ1BlMW41T3lyRmstdWpwMi10dkUtM1V5RGYzaTRBbnFCQ1V3SzFxbFVTZ0c1ZXdHS0RHLWN5WWRDdWFLQ1h1ZGhaX2RTTUVKSEJ3QjhkTks5bG9wcUdlYWpYNmpkdHFteGJLRmg3TVJIeGpVT1p4UGVrTVNnTDBXcXQ2Tk1VU1hzaUUtSdIBpAFBVV95cUxPMzdsUUNraWYwTkc2X0JPeHZ2SWstSDFLQ1BlMW41T3lyRmstdWpwMi10dkUtM1V5RGYzaTRBbnFCQ1V3SzFxbFVTZ0c1ZXdHS0RHLWN5WWRDdWFLQ1h1ZGhaX2RTTUVKSEJ3QjhkTks5bG9wcUdlYWpYNmpkdHFteGJLRmg3TVJIeGpVT1p4UGVrTVNnTDBXcXQ2Tk1VU1hzaUUtSQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-15T11:22:03+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Teachers Venture Growth",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "50c35d0a5c53",
+   "title": "Esports and gaming firm NODWIN Gaming launches NODWIN Sports, appoints Gurbaksh Singh Virdi as VP",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbmtKX0V4QUktQUN1RDRCVXMyclhhRlNrRm05UzgtQWRFNTVvLVdKeHpfaU56TkttbUpPTzhrTVZhMVZUaTctcVdFNzRTVWNhUWdrVHVubTA2OXpNUGtLUHNtZG5JMGQ0SmtSQlIzTzBHMjJQcDlmN0VsR20xNll4dkwxVFhoanBURjA4TktHckoyT2RMbHVBUHYwYVIycGowLVkzS1R5UWpDMzFnVmVIUFhySkl4YXlzZUpGbWdtWUxvQkI5dVIxMHVPVWUyOHBXeFpBVkRkZ9IB1wFBVV95cUxQbmtKX0V4QUktQUN1RDRCVXMyclhhRlNrRm05UzgtQWRFNTVvLVdKeHpfaU56TkttbUpPTzhrTVZhMVZUaTctcVdFNzRTVWNhUWdrVHVubTA2OXpNUGtLUHNtZG5JMGQ0SmtSQlIzTzBHMjJQcDlmN0VsR20xNll4dkwxVFhoanBURjA4TktHckoyT2RMbHVBUHYwYVIycGowLVkzS1R5UWpDMzFnVmVIUFhySkl4YXlzZUpGbWdtWUxvQkI5dVIxMHVPVWUyOHBXeFpBVkRkZw?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-15T11:19:47+00:00",
+   "score": 56,
+   "category": "launch",
+   "company": "Esports",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "people move"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0fbd96ae280f",
+   "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here?",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-hallucinating-ai-chatbots-to-wiping-out-humanity-how-did-we-get-here/articleshow/134260252.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T11:18:50+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "48c371e60c5a",
+   "title": "Dr Reddy\u2019s launches cancer drug biosimilar in India, targets 12 indications",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjBFcFAwbmRQXzdQc0VRamlydDJjYVhPeno5cFRJVy1IajluV3kxMUtCUFBMTFVmWlNZOVBBaTBiRy1zalRQNTZKaHZpNEpvek14dVF2UklsWnhnMjJnZkV2QXdrNFEyd3FTWUdHc0d6a0Y0UlNIdktHSXhMTEQwb2gwY2tiLXdMdTNzY0dpclJwV1JmQXNjZ21VaGVVclNKVnExUHhNaUxZQk9aTUZDRzk5SXZuWlNocXBIcFlFY3VvMDDSAcgBQVVfeXFMUExTbldUUmp4VGZBSkYwU3ZKaWd3WnZlYkUwa2pCR0VjWkhYYlg1Y0MyR1YwTXBUYzNxckVTT2ZDR3lZXzVzQjItQ1RXUFJkUkI2YlViVmt0ZS10Nko1YWlJYkNpeDdnMlZweExIS0RWcU1CWlJMaWs2eDdNXzhiMHRvVS1LdDgtUlktQ3Zma01mdm9TTXZBNjREbVJyWDRBNDljODI5TUN0NXdsVl9RMU5LOEJDeTdJTnkwZF8wZEkxR1F3Wk5MMUI?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-09-15T11:16:23+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Dr Reddy\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "a0b10e781d5b",
    "title": "Women shaping India\u2019s chip future take centre stage at Semicon India 2026",
@@ -2236,79 +2324,6 @@
    "score": 25,
    "category": "other",
    "company": "Expert Calls For Human Accountability",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aa371339451c",
-   "title": "Palantir, Nvidia curb AI model use over data fears: The Information",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/palantir-nvidia-curb-ai-model-use-over-data-fears-the-information/articleshow/134243911.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T15:41:43+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Palantir Nvidia",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Dario Amodei",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "46fc02d34576",
-   "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/articleshow/134243411.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T15:03:20+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Trump",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "523ec6398835",
-   "title": "Slow the AI race? Investors weigh the potential cost",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/slow-the-ai-race-investors-weigh-the-potential-cost/articleshow/134242924.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T14:24:37+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Slow",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2bdb940e5b06",
-   "title": "Big Blow To India! Star Bowler Ruled Out Before 2nd IND Vs AFG T20I",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFA3WTVPdm5ZOEZxNTQtQk1PNlc2SHN4M3RyUmRIc0FXT0pfNl9oOVdBaERvZ0VVcXhjS1JpLWNwMDIyRkcxaElEVEZLMVFwWVFQS1JRdkhZR0lxb2dyOW5aOGZwMFFrNm5xR0ZHdjdOZUtOX09YV2RQRFJqSHcteVB0MGwxNVBvZlRBVVpLTmo5dWVtY0hkSEEteGRyM3J0U3FhdkRkSm1xVUo1NTVQZ0g4VVZ6UG9SUXgwTE1oSUtCemNi?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-14T14:24:23+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Big Blow To India! Star",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -7068,23 +7083,6 @@
    "score": 68,
    "category": "launch",
    "company": "Agnikul Cosmos",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e57d68c10140",
-   "title": "DAIMANT\u00c9 Launches Lite Luxury, a Minimalist Lab-Grown Diamond Pendant Collection",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlNpaVNEN0RzQmNocmNjZkNGV3VVTEVTb2hCTFIzRFlMVGRLYWdVZHloeHNtN0pmcW5lekIyX3JZVGRKT2pVZnhPSXBPTTFnNWREdXJVei1YVnpqS2pnTUY4TkV4Y1NzRFhReFQ1ekIwaEdmNmVRV09yNHl6WENEVFBMTWdrRzNZc0xZazlzRlp3cTR4a1VTTTlSVnMtcHdub2FXMUwtRVF6UURUdm0zNjc0UncxNkJrM3g1Vjc1Tm1uczZxVHZpYdIByAFBVV95cUxOYlNpaVNEN0RzQmNocmNjZkNGV3VVTEVTb2hCTFIzRFlMVGRLYWdVZHloeHNtN0pmcW5lekIyX3JZVGRKT2pVZnhPSXBPTTFnNWREdXJVei1YVnpqS2pnTUY4TkV4Y1NzRFhReFQ1ekIwaEdmNmVRV09yNHl6WENEVFBMTWdrRzNZc0xZazlzRlp3cTR4a1VTTTlSVnMtcHdub2FXMUwtRVF6UURUdm0zNjc0UncxNkJrM3g1Vjc1Tm1uczZxVHZpYQ?oc=5",
-   "source": "SMEStreet",
-   "published": "2026-09-08T11:28:37+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "DAIMANT\u00c9",
    "amount": "",
    "stage": "",
    "founders": [],

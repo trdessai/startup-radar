@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-09-15T15:30:22.448654+00:00",
+ "generated_at": "2026-09-15T15:46:32.852945+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 2,
+  "fetched": 63,
+  "fresh": 6,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "4d6bcbf0d7b8",
+   "title": "In 2017, Kevin Durant put $250,000 into an AI startup nobody had heard of. It just sold for $12.9 billion",
+   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPclZybG9mdVA3alFaZ2tyUm5hbGNhMzZmVVU2OTJHNV9WR011Vk5iUmxsLWlIRXhySGRrdDRPM2R2OGMwY08ycm11LUxwUWg0NUxNWWtGVDZCRHJaTTNMRG5qSm9GWWhmdXIyRk94aXNEbGhPaHplcHQySHBRem1kbWo1ZlVQT0Jna2VVNVc0RHQ1aGxpT1JsTUtfVC1fQm1SNHQ5cF9XTTF0c2lvbVZfY2daMU0zM3RySHFXVUpjcE8zdmhvYlM5V0xXN2UtM3dGaDdJeVVjQkRVRFpRclRFWFVRMmJIWWJyWWVWVV9YczlyeWtZMnlWMFhhUWpIa1BISmtndHhCeGhOdE5ZaDRYenFsdk15SExfRFhMeTBrbXNpUUxvX2QtQjk0dENWdXpaNUVjRmNCTDBIc0RwOWtzRF9QeVJ0NEZEMVBIenMzUGhnZTNhaGxZMUZIUFpzU1pwY1NaSFg5a0s3VmVGZEhz0gH0AkFVX3lxTE9Wb0dzNEQ4N2hRaEFveEhxc0VNeXN1YVlCM29JckNlVk9Ndk5hQkdnT0FzQXRTRDEyVklON3B1cXJTZFdROW5USEtjbkxFeThtbU1IcS1ZZ2FlZGRfdW5BR0NNekRoWG9QekFPdGxhejE1WUd4WVAyalRnR25oZWw2NFlpM3Qta1FYdFVTeVpiU0J6SW5fLWF5MmxzcDlDcW9tWXdJN1ZGSElZYlpyeFFnenNSOTN5Vlp6OUVucTQ1VWMtdmZOZVBON2gzeE1UT2tWRXBXQUJQNUhnUGEtaTdJR2RPSXNkazdSc3lSWEZUNUJfOGFMdmx6aEVCb28wbU1NenBET0tZWWRXR013cnVSWENfZVR1R2tBakRrYWtJWE5GYTVEUUY1ektXS0M4RS1ZN3FidXRzNTRRdFZlbnlxcW5BVVIyOWxNeVRRMVRfNWtKM04tY2xMRnBBYngtVmg0YzZpVkxRd0Y5aTNMeWQyRTROeg?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-15T15:30:00+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "In",
+   "amount": "$12.9 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$12.9 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f203fe0f7532",
+   "title": "Chip maker Applied Materials to invest Rs 3,600 crore: Karnataka minister",
+   "url": "https://economictimes.indiatimes.com/tech/technology/chip-maker-applied-materials-to-invest-rs-3600-crore-karnataka-minister/articleshow/134267880.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T15:28:56+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Chip",
+   "amount": "Rs3,600 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs3,600 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "d32deceb6426",
    "title": "Amazon Ads announces Delhi and Mumbai summits to help Indian global sellers gear up for US Black Friday Cyber Monday Sale 2026",
@@ -21,6 +57,24 @@
    "founders": [],
    "reasons": [
     "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "27ec33caf78f",
+   "title": "Meta launches subscriptions with enhanced AI features",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-subscriptions-with-enhanced-ai-features/articleshow/134267775.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T15:24:28+00:00",
+   "score": 84,
+   "category": "launch",
+   "company": "Meta",
+   "amount": "15 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "15 million"
    ],
    "alerted": true
   },
@@ -41,6 +95,23 @@
      "handle": null
     }
    ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6e5a3cd29507",
+   "title": "Oracle begins new round of layoffs: Report",
+   "url": "https://economictimes.indiatimes.com/tech/technology/oracle-begins-new-round-of-layoffs-report/articleshow/134267667.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T15:14:21+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Oracle",
+   "amount": "",
+   "stage": "",
+   "founders": [],
    "reasons": [
     "no clear event"
    ],
@@ -306,6 +377,23 @@
     "\u20b98,000 crore"
    ],
    "alerted": true
+  },
+  {
+   "id": "ae99c99a94b0",
+   "title": "Meta India to report child abuse material to Indian agencies",
+   "url": "https://www.livemint.com/companies/news/meta-india-csam-policy-changes-long-held-global-stance-11789477238900.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T13:57:56+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Meta India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "bcd81cac12c5",
@@ -2350,62 +2438,6 @@
    "alerted": false
   },
   {
-   "id": "27719d413261",
-   "title": "India Men's Volleyball Team At Asian Games 2026: Squad, Schedule, History And What To Expect In Aichi-Nagoya",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2JEc3ZpYlJiLXpjdFRmdFlieHljU1JxbGM3OUZ0X0tWSk95V0tXMU13RUZYV010SlhiWXB1MEpZbnhGT1F1dGxvRXdEVnZWOGo3WG9hSkVzTE1yaWR5M1d5WnFGU0JvVDU5NnFTZEZDWHZ0QUtjbjduVjA5Yi1pZ1NOeEJ3a0dUOGRjU0daUWNzSEtqaVM4MFdJTE9kMnZTc1hhY1RzbnI?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-15T05:19:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India Men's Volleyball Team At",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "355f17c0a69a",
-   "title": "Investors nervous about AI spending slowdown after industry warnings",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-nervous-about-ai-spending-slowdown-after-industry-warnings/articleshow/134252624.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T05:15:04+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Investors",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Dario Amodei",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e4223f77efe4",
-   "title": "SpaceX's first Starfall customer is European mission integrator Space Cargo",
-   "url": "https://economictimes.indiatimes.com/tech/technology/spacexs-first-starfall-customer-is-european-mission-integrator-space-cargo/articleshow/134252519.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T05:07:36+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "SpaceX's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "2479cdab64d0",
    "title": "Yoga Bar Founder, Better Bite VC Launch $260,000 Fund for Food Startups in India",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1ZaUDFyQXU2a2diM0g3NVFZbENoRUhKSmp1d21JZnYxMDFEdTBFTm5yU05NUjlnRDFuVXpWbm9mQlJVOUZnZ2VXR1h3MC1RQlV5dmNxR0VJd0RIUG8tZDA1alpGdk9HcWZ1OVlCLWdaY2Q0NFg3dEtxVXhHT1hjOTN6WFJGejZiZDgtVFE2ZlVxMXlLR0JQNm1wSFdaWUIx?oc=5",
@@ -2447,24 +2479,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "ba34c0c2086e",
-   "title": "Moneyview cuts IPO fresh issue to Rs 750 Cr, investors trim OFS",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTV3NXQ3M1dKUmVjUmZWN2pFZjYxTTEwT3pBaUY1amZxOExJVGZSTTlnS215YWRhQWlkdDBXNmQ2Vjg2eVJac3MwbGo3WHp3elRscnBhUmVDXy10MWk3UU13NFhiVG1TdV85QXRlM1VycmU3NXlsUFlyTUgtRlBjRDE1U3dxdzA0eTJoQlVPOXMxYm5ZRWdGREdnVzVmUdIBngFBVV95cUxOaTV3NXQ3M1dKUmVjUmZWN2pFZjYxTTEwT3pBaUY1amZxOExJVGZSTTlnS215YWRhQWlkdDBXNmQ2Vjg2eVJac3MwbGo3WHp3elRscnBhUmVDXy10MWk3UU13NFhiVG1TdV85QXRlM1VycmU3NXlsUFlyTUgtRlBjRDE1U3dxdzA0eTJoQlVPOXMxYm5ZRWdGREdnVzVmUQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-15T04:56:18+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Moneyview",
-   "amount": "Rs750 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs750 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "4355024e32db",
@@ -7098,24 +7112,6 @@
    "reasons": [
     "acquisition in headline",
     "$4 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "55a7e70394b6",
-   "title": "DigitalPaani Raises Rs 22 Crore to Expand AI-Powered Water Infrastructure Platform",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ1F6cDdMM2RYTjY1LVVvcFJVWUlrS3dtcWx0U3FReWtPYjJrQUd1cnZrY01SX1RkVXFESTMyNHIyY0MwdENNZVZDWTBnUlotdGhvWFJ0VEFLQkxYNE5mb0p0cldJMWtiRXBXdWNJYndFWXlSamVqWE05b2xuXzNjVU4wczZGU0twZWY2QmRXVFhlQ2R4RmVVWlFJaFVhU1NKX01FWDJuZnhvNm5oS19jZHRyMUt0R2dBaXVBOS16bHJrQ0d2dHNpWg?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-08T15:41:20+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "DigitalPaani",
-   "amount": "Rs22 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs22 Crore"
    ],
    "alerted": true
   }

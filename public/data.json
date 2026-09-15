@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T10:46:15.206066+00:00",
+ "generated_at": "2026-09-15T10:54:52.592027+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 63,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 65,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "3ea925b09dbd",
+   "title": "India\u2019s semiconductor ecosystem grows to 3,557 companies, funding reaches $1.4 billion: Report",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanRkRjFJUGdaNUlfQ2thbFNWUW1fbTVUbUg0S2xWaXNOR3ZpdFV1SnpCRGRIQVlYLXJYcEpPT3JfRTJLRm1nZzBGT0lqeUNsaFZGUnBTdlJQVExEUUdPNjUzUmZDREdoUVgwbkR0c2MwQUF6UXF3X0FhOElzVlBCaU03Q3Bza3lmVDhEdEtCZkN3dnVjM0hYT2ZneGNTMEgwbkx2VTlYVmVWaUw1MTh6UVJVcEliV2czOXhFZDI5Vk0xajdqODhHaGtkWndqakY0NHJJMNIB4gFBVV95cUxNMHE2TENrTVRlbUZ6ZmZsenFkRlpFT0ZSdEtRNTFVcDdkUFdtTXVvcWloWFVGUGNKZXkxb1VFck5wODVzZVEyTDNXVjZKRC1udGRIOHF5OHkwd1RiMzNBcC1ocmV3NS1rUFdYNWdPU1lVc2dtQ214ck1hcTJBZndrVW1OYmQwcTc1NEdQUVV3WjJ4RnRlcFRzOUlRV0YwM204bGlYdzNUWUVuU2g1eXdRZGZoM1JWUzFVdW1sbV8yMDNmUWwzT21uVmNmNVBlTV9POVQ1dlBDd19PNnd0NHU3M013?oc=5",
+   "source": "Fortune India",
+   "published": "2026-09-15T10:51:15+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "India\u2019s",
+   "amount": "$1.4 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.4 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "6ed6206c586c",
    "title": "Beyond the hype: Practical Gemini Enterprise AI recipes for SMBs",
@@ -119,6 +137,23 @@
     "no company named"
    ],
    "alerted": false
+  },
+  {
+   "id": "f2af1f9eeedc",
+   "title": "VIMARSH 2026: Rajnath Singh unveils key DRDO initiatives to boost MSME, start-up participation in defence sector",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlVKX0Y3ZUh5ZGliMjVLMi1Id191bHNqTlo5aDUyeGlwbm1ZUDBPeDFKZkYtZXBLeTNCY2lJMjNkMml5YktKVW9FWmZtcUE2VEdTeWRBRVhaVlFwTUhNRjNYQ2FKaUdRcWVIbFBKSHZiV2x0bTNrVEpjdmtUTWdJQVZWc0wwdkw4dkhjd2lBbnpIWlFBN3U1TllMUjJtX2NuUXBodmpJS0hzd041ZWd5MUM2SDB6aHROWm9kWFRCZkJzVTlyY0p6MXpsdmhIUW9YRzVnRg?oc=5",
+   "source": "prameyanews.com",
+   "published": "2026-09-15T10:02:08+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "VIMARSH",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "69616ac10e6b",
@@ -244,6 +279,25 @@
     "funding"
    ],
    "alerted": true
+  },
+  {
+   "id": "9e337dbe1ad8",
+   "title": "Novastar Partners backs India's AJVC in $17M pre-seed fund bet",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbFYwV3FOVzA2alJDZTltTlpqNEswT2cwWFlBcllaQmJSUnpFdWF1Q1dOcnpzNDZfUk10bE4xUC01UVQ0QTg3UWVBN1FxRzhWSUZGb1gwelc5eDJoTEF2Szl3OWJIZGx3c0wzWk94TFZzOVI0d2szRzVZc2wxZF80MlkyTC1sa3lrRlllbFpJbUUwVGFsNVFjQWx6QQ?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-15T09:16:54+00:00",
+   "score": 44,
+   "category": "other",
+   "company": "Novastar Partners",
+   "amount": "$17 M",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$17 M",
+    "Pre-Seed"
+   ],
+   "alerted": false
   },
   {
    "id": "e6ffc929a316",
@@ -2282,24 +2336,6 @@
    "alerted": false
   },
   {
-   "id": "fa251adeab89",
-   "title": "Moneyview Cuts IPO Size After SEBI Nod, Halves Fresh Issue Component To \u20b9750 Cr",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazQwR3d1cE9CWG9kV21CRDlCQ3VWYVVpRHU1LUE2QktBdDJhcFIwMW1DT2laY0JnREJUNUtqUVRtMnl5QVlHTmlTeHpRVTFkMkdwT2xWdmowektxejBrVS1KRng2ekc3anE0VWFRLVhoRThnNzhVX1hiZHE5N1NWVWNXanJReWEyNzdjaHV0dGg0TmozTE9VSXZ3UzIwUzF4NnNPQlRlYUNaVnFNMlI0?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-14T13:11:43+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Moneyview Cuts IPO Size After",
-   "amount": "\u20b9750 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9750 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f248afda3980",
    "title": "Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5djRhNWwwbkU3SENFYWFiZUp3ckwzLVlMMU1LV1l3RzcwbHd0QXNGYlRyd0dBSl9Pb1RGdW1GLV9VWVNNekoyOEVvNTl3NmRmZXQyVF9FaVZ2MElmNFc0TEhrZFRWSG5vc01oWGctX1RpNjRT0gF6QVVfeXFMTWVYdVVfSmtTWWw0SVFfVVhpQjZrQVhIUzBpTVZfT0QtRUxxTmZHdDJ6SEp1NlpkZDVkeDBvLXZxX3hEczJlXzduNkVubkNxNVZGb1ZSYXYwME1fQVlFVk1xai1udEtrZ0lOck95a2FLSGdhMzJtRHJPd2c?oc=5",
@@ -2315,49 +2351,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e0f9d9ef5c79",
-   "title": "Telcos and DoT pushes for 'light-touch' risk-based AI regulations",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV19nWS1TclhfcW9yb3hDOW9NaWpBdFBhTW9wblVKMDg2RnpzekVnSjdBUXFveWVfYVpJQktVU0JnbW5rSlRCcEdINWJ2Y08tTFJIMDFvOEJmdTM0QkpVOC1qeEpWVGdib0FFa3hDVy1RUE80UmROYkVGeG5icV9wTQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-14T13:07:29+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Telcos",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cebdac291f21",
-   "title": "IPO-Bound InsuranceDekho\u2019s Cofounders Mull Move To Promoter Roles, Company Denies",
-   "url": "https://inc42.com/buzz/ipo-bound-insurancedekhos-cofounders-mull-move-to-promoter-roles-company-denies/",
-   "source": "Inc42",
-   "published": "2026-09-14T12:57:25+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "IPO-Bound InsuranceDekho\u2019s Cofounders Mull Move",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ankit Agrawal",
-     "handle": null
-    },
-    {
-     "name": "CTO Ish Babbar",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4cb23af28ac7",

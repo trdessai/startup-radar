@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T10:35:47.203035+00:00",
+ "generated_at": "2026-09-15T10:46:15.206066+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 65,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 63,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "6ed6206c586c",
+   "title": "Beyond the hype: Practical Gemini Enterprise AI recipes for SMBs",
+   "url": "https://yourstory.com/2026/09/beyond-hype-practical-gemini-enterprise-recipes-smbs",
+   "source": "YourStory",
+   "published": "2026-09-15T10:29:51+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Beyond",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "4b309bf318f5",
    "title": "Retail India News: Nisara Adds Chocolate Inspired Perfume to Portfolio",
@@ -23,6 +40,24 @@
     "product in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "19490947b769",
+   "title": "SEBI Greenlights Lending Tech Startup Fibe\u2019s \u20b9750 Cr+ IPO",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3JUSGFHQll2eVlWQTNpcThxdHN0TVlRZ3M2WllKaUJ6RDNsTi1DNThKVWNUZ0JFUGcyN1R4NmRHWjJRcWZWSWZqd29tMUJXWExTZklfUnZXUXkyR3JjUU0tQWVpYjhTNVhWQ1FVUmRTSzRfMDNhdEMxMkhFQ1BnNVNSU2RqaU9NZWdNT1pXNHk?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T10:26:31+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "SEBI Greenlights Lending Tech Startup",
+   "amount": "\u20b9750 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9750 Cr"
+   ],
+   "alerted": false
   },
   {
    "id": "56011bd7ef8d",
@@ -7063,41 +7098,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fb05b3093cbd",
-   "title": "HCLTech launches advanced semiconductor lab in Bengaluru, invests \u20b9185 crore",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2ZGUFViclJHYXpUdklZclYxYjF0TXVLTWo1bEx4S2NKUjYwcEp0cnUyblU3dVhVcVYtR0dBeHF6dV9aU0ROVTI3YUl4N2tJcE1BbEM0VFlMTjRsR0JMcVlfencwd2swVkhYY3dlZ2pBeHNqa1RKampJZVo1M0dnSDhiN3ZZUHJySjZ1c0ZjeHBKYjFjdWUzaEhKU09lLVU3Mnd3RUtBeDZ0U3RJQlFPSTlETXFyb3dUb0JJRlhRVHN2NEF4ZUdoUHhyOUdIZnM?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-09-08T10:39:05+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "HCLTech",
-   "amount": "\u20b9185 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b9185 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2b4b282af587",
-   "title": "India Ties Doctoral Funding to Startup Creation and Commercial Impact",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VUTUxIaWZLWldmU0RKcFl2TEg3bmljYTdPLXpXZ1l5bUI5QTU5OGNzdjRsRzdVWkI2YmJjbGZpZ0JoNUNxQTRVa0tQV1JjaExuUDBITExFX181dGlnaE1LUC01OXk3UnJVMnpHd3k2Ni1ieW1QVkxBdTRkQlM4QmFoZzU4VXhNS2dtcHRuZ1pvOXJrYVEw?oc=5",
-   "source": "Grit Daily News",
-   "published": "2026-09-08T10:38:24+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "India Ties Doctoral",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

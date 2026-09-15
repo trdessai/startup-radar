@@ -1,12 +1,49 @@
 {
- "generated_at": "2026-09-15T13:55:55.852062+00:00",
+ "generated_at": "2026-09-15T14:03:26.546418+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 65,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a0a410260bfc",
+   "title": "Embassy Developments to double down on luxury housing, says MD Aditya Virwani",
+   "url": "https://www.livemint.com/companies/news/embassy-developments-premium-luxury-housing-bengaluru-11789466740568.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T13:58:09+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Embassy Developments",
+   "amount": "\u20b98,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "launch",
+    "\u20b98,000 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "bcd81cac12c5",
+   "title": "NPCI Notifies 0.4% MDR On P2M UPI Transactions Over \u20b92,000",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGgzbC1pRHhiT19PYmZZeDdYNmE4UTJUel95NUw0eGhoUk85UzNQQndnTi0wNm5pcFBuM3RMTVZJM1RYWlQwUEhRTEdwQjBLcm0tMVE2YUFmOWtDWkJ5M21ENlUzQUdueGNRSm5DVmctZDhnMGczNWl2UVNzbld1NGs3Qk9vXzB3TnRIUXdLMzlKUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T13:55:23+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "NPCI Notifies",
+   "amount": "2 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "2 M"
+   ],
+   "alerted": false
+  },
   {
    "id": "72b579907c7b",
    "title": "No Varun Chakravarthy In The Indian XI, India Wins Toss, Bowls First",
@@ -7059,43 +7096,6 @@
     "launch in headline",
     "$50 M",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0c042ebc7ef9",
-   "title": "Areion\u2019s maiden GIFT City fund secures USD 50 million in commitments within three months of launch",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbks3enRsVTY4Z3dieEdHdUcteWx2Nm5yQXU0Vm5kdUhyWWZqdG1IZWtsNUlnTE5GbVRkOVFqbG9IYWtzSUc1QkZ2dGlKMmFSanMzY3VMVi1LUnN2N0JZYS1kdTFjVzBIODVKZXdSUk5WcjdlUXBjdGlXb0NMRFNuZ1h3VlFPanRyT2pWel90Qzl1QzlHRktyczB5ZDRGTlA4cWE4UFdiU25neEpqQlVCYmhLMXpZY2tNZlNkcHJVRHNuOG5NX1dLd0ZGVHpfTGY0bjA1WUhkM28wa05t0gHiAUFVX3lxTE0ycDR0N1Vudk5CbVB4MzhLZDhaa0hDVzVXZUlrZVdTTF9XZTZyN1dJNENSODlSeVFqUF9TZmRFZGVrVWtLdmFZT2c0NlRkZWF4b1AxMHI2OW02SzRYZ09BN1hUNnIyVkx5WWtRTG41cmI2SFNSN3JFUHJIUFZTdENlaVlQbDZISWZMMTBWdHB6OGRkVHpZaTN0QVhaSjZGeDFFTXJjVXNSTVlfT3ppc3FKYzI3aW5vU2Y0T3JrU0hiZUJqZS1jd0FGcDZGZFc3NE9wRnR3d2ZYZEdhS3lUU2s2ZVE?oc=5",
-   "source": "Sangri Today",
-   "published": "2026-09-08T13:58:04+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Areion\u2019s",
-   "amount": "USD50 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "USD50 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c6db50910ba5",
-   "title": "Kerala-Based Gaming Tech Startup ARC Raises Rs 10.5 Crore Pre-Seed Funding",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkJuQXhpa2ZMS2N5YlpKMUNSMGNkV2JENUtzc1RMNm9scGNvc3FMdks0NkdlS3BnTGRpX3MzeVZ4MjJyTm9HZEhUS1ZyQ2pkMXpmVE5jaGxldXNURTVxUnB2Vm1fbzVXTlBjSWhVNHNESm9pSDBMWHltSmQzT21hVUhJQklMXzRnaHhkMUkwdFZoMEsyd0lIRFRtYm9nSzdnLUZ3V09LOFdUa1gtczdram91VzlOV0hMV0dkc0Zn?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-08T13:56:34+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Gaming Tech Startup ARC",
-   "amount": "Rs10.5 Crore",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs10.5 Crore",
-    "Pre-Seed"
    ],
    "alerted": true
   }

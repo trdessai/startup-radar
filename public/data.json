@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-15T14:20:46.492575+00:00",
+ "generated_at": "2026-09-15T14:35:49.655805+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 70,
-  "fresh": 4,
+  "fetched": 64,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
@@ -52,6 +52,23 @@
     "no company named"
    ],
    "alerted": false
+  },
+  {
+   "id": "135c00c6c060",
+   "title": "Dr. Reddy\u2019s Laboratories launches Nivorz in India",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHhBMHlDd0hjTzhQUk8tNDRUV0QzOUdSSUl3bmlaM25hTmxpUTJxUXRobGE5aUxNWHlFQk5MMWtxZmNwd3M4WlRtQ2hzMXhEOV9LMVVraEN1akctUnZqZDY3SlA5ZVh1Tk9GRFF4T3YwRkkwT3dnR0wzUGpRTlJPdS1NcG9BOUx3Y0djMElySjJpYW1GOVAxd1RBTFZhOS0tM01fNVJodUNVVG83LXg1MTdXeE3SAbsBQVVfeXFMUG5GaGJuWTNra3E2a3dFSW1ZNGRDMUoxN0VCOS1JWGx3YWVheDRHSTRJSUZkdDlSSUdCSGxYZ3RLd3VMRjRQYy1JTlNvaGZYQWRCRGh3UHJfMXFmZ3RScjYtbmotR2RGdkxiZGJySV9RWEZncDhIdmVGeTNod2hoV3lYUTlQMkFMZ3M2TlYzSjVFaHJ5c0tEQnB2V0VQeFVoV2xCYU96MTZBOVF0WFQteGNUdmdMVGhqXzRFaw?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-09-15T14:09:12+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Dr. Reddy\u2019s Laboratories",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "8eb627d91b56",
@@ -421,6 +438,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "78867065efb5",
+   "title": "Hero VIDA Named Title Sponsor of India\u2019s New Zealand Tour Across 12 Matches",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZTZINDl4OVZaVFQ5YTVRMkhTWkJNZU9yT0lKY2J3SzBIZ1U5cmw3V3k1MkliYnl3RmF3LVRUQjFIczVaZVpEZXVtTXF2aEh3M2w5V2ozNkxBYTAxNnpWVWJhZUthaDItVVluU2Npbi12dF9vcmlVUzVDVUN1Wl9Eb3UxVkJkWGZ4UnRMXzRkenI4dHJicm8zdTNscmNGeFpvQ1pYTVd2M0Utc2t2dDI5NE80QUw?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-15T11:54:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Hero VIDA Named Title Sponsor",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "8610c4d222f1",
@@ -2420,40 +2454,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d38c67c2e631",
-   "title": "Meta to report child sexual abuse cases to Indian authorities: sources",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-report-child-sexual-abuse-cases-to-indian-authorities-sources/articleshow/134250715.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T03:07:08+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f815a977a544",
-   "title": "BonV Aero Selected For GENIUS NY Drone Accelerator, Opens First US Office",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHdVQnFRTDdxU29aWkE1M1VwM1dRdWtaaXFocHVCU29hTVozY1VvOGFiak9SYWNPQ3lFSUJWTHJ0bVJYeGlYbkFBU2tVakZwUExzQ3VuMWVuRWFuUzN4ektMRXRzSUxycnZzOW44eF9DX1FaOFBIQ052TnFNaDBUekVJaTlRVmw1WGJpaERMMFBQQXY2YWo1ZXZmM0ZXaG1mVzNObkxCaWRrcU8za09SNGJCQQ?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-15T03:01:55+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "BonV Aero Selected For GENIUS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
    ],
    "alerted": false
   },

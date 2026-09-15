@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-15T04:08:01.832353+00:00",
+ "generated_at": "2026-09-15T04:23:33.297664+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 1,
+  "fetched": 27,
+  "fresh": 2,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "6001c46014a5",
+   "title": "Peak XV sees India\u2019s next big bets in wealth, wellness and premium consumer businesses",
+   "url": "https://www.livemint.com/companies/peak-xv-partners-sakshi-chopra-fintech-financial-services-consumer-startups-healthcare-wellness-11789439817476.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T04:08:37+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Peak XV",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "76c7f927a350",
+   "title": "Trump dismisses AI safety alarm, says US already has tools to police industry",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-dismisses-ai-safety-alarm-says-us-already-has-tools-to-police-industry/articleshow/134251418.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T04:02:38+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Trump",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "591284bb029c",
    "title": "Archies announces partnership with Thailand\u2019s Elephant Parade for India launch",
@@ -7024,42 +7058,6 @@
     "funding in headline",
     "$4 Mn",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "47e9b2b7c5d9",
-   "title": "Iztri Raises Rs 10 Cr In Seed Funding Led By All In Capital And Suashish Group",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDhCbVFlLXpCbGJMUDdhY0ZUeFVmdFNIV01Jd3dqbEowbWJ6TEZaZTAyY1RPTUYyamVPVmhTMWdSY25tVkQzdFFOZXRqYVpHaGVUR1lqSGVLNS10S2dYdDNOTW1aLWFiZ04yTzZuZEpxaXdrWU1KeDhZakxVb05SNVVQTXAyWGZoV29pVC0xN3p5RC1PbW9uamxvYmc0UXU5QlZRZGRMN2FCMXVFaW1BWHFsdC1ycW1GaDFv?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-09-08T04:22:20+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Iztri",
-   "amount": "Rs10 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs10 Cr",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e1047881f3e6",
-   "title": "How TenderCuts is rebuilding in new avatar after moving from PE funding to distress sale",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1hzMWZkd21BaHlEbTE4a0NRSVlIQndGZEJJcFdwTHpYWXRjXzZ6WGx4UFhVMGxsbW1jem1nb2ZHRUdlV1I3NktrcGUtUmExdkFXNWV2MHNZUlhTQ1RyLVpjXy1BS2h3WVJIdnBHM2lKQlFjanViVEViY0pzR18yTFF1U0FYSDF5RkpFMlhGMmNNUHd2aW1oek96eEh2WU1qQ2dsM3JZTUlxMGowMkZRMVF3?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-08T04:15:37+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "How TenderCuts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-15T04:23:33.297664+00:00",
+ "generated_at": "2026-09-15T04:37:24.756093+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 29,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0e6ce02aebab",
+   "title": "Vietnamese startup Aves plans electric motorcycle launch in 2027",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFNpM3BmdFJfbWZ4VHdSV2VubEpMYnZvSU1aSFRpcEc2d0Z5RjRoNm9qMERacTdueU9BYzh3TjVwNVdTWGZwUjJDdENfanNEVDNhWDFONGNwMmJuQ0xLem13R3B5cHhnZkdTeFdTbkNEWGt1NkRYQ1MtVENNUnV4YU9Gb1UtdmdONmdjU256ZlY1Ykp0NXZOWHBtTXpBUlUy?oc=5",
+   "source": "Theinvestor",
+   "published": "2026-09-15T04:19:53+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Vietnamese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ae554992b122",
+   "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act/articleshow/134251684.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T04:16:06+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Tech CEOs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "32345cac9f9a",
+   "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/articleshow/134251604.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T04:13:28+00:00",
+   "score": 40,
+   "category": "product",
+   "company": "Microsoft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "6001c46014a5",
    "title": "Peak XV sees India\u2019s next big bets in wealth, wellness and premium consumer businesses",
@@ -2173,40 +2225,6 @@
     "$450 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "9baefd2a8f8e",
-   "title": "Lenskart Increases AjnaLens Stake To Over 9% To Deepen Smart Glasses Push",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUZBbWZvSFVjSFRrSkNEa2p5YmxPWGN1aUZlcFl2OEJheE1wUnNEdEZpcm80d1Qxd2d0VVN0bkFTTEp0YUlSMEJjazVTT1B1eENwUXg2aHJPaFdWZGNROTlHbERqMWxDWTJkQWtEb2pKNnJNS0N0UEN3MHRUNFhJTU5CcHJJdWRxSWZLNkpzdFFKeXhPbG0xZzBMOC0?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-14T05:54:16+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Lenskart Increases AjnaLens Stake To",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c0c417d71f55",
-   "title": "GEF Capital stares at a poor outcome from four-year-old bet",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVdOSkc1TTJ1TmdwWjZCUE10S0IwTkxzd3JTTzR0dks0LUxnUnFkNm9WS3N6QXp3MmNrQldpd0p6QmVPSkFUMFVldXlXZlZKWU9oSVp0clRwODdjenhZZkttR2dPUEN3ZmN4aGdJQ1FJaU5TQnF0dzU4RktVbzdYQU4zaVNZM0l3akVn?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-14T05:53:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GEF Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ec5b93499ee4",

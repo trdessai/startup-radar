@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-09-15T12:24:03.516096+00:00",
+ "generated_at": "2026-09-15T12:39:50.135509+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
-  "fresh": 7,
+  "fetched": 61,
+  "fresh": 1,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "0f3a27258729",
+   "title": "European chip startup Axelera wins AI factory supply deals and launches second chip",
+   "url": "https://economictimes.indiatimes.com/tech/technology/european-chip-startup-axelera-wins-ai-factory-supply-deals-and-launches-second-chip/articleshow/134261901.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T12:14:16+00:00",
+   "score": 75,
+   "category": "launch",
+   "company": "European",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Fabrizio Del Maffeo",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "29ef87ff77e5",
    "title": "DDC Reasi Reviews Sports Infrastructure Proposal Under Khelo India Scheme",
@@ -2361,24 +2383,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c6bd05d8c88f",
-   "title": "ASML extends chipmaking dominance as customers embrace High NA",
-   "url": "https://economictimes.indiatimes.com/tech/technology/asml-extends-chipmaking-dominance-as-customers-embrace-high-na/articleshow/134246709.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:33:58+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "ASML",
-   "amount": "$400 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$400 million"
    ],
    "alerted": false
   },

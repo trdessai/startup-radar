@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T12:52:36.148629+00:00",
+ "generated_at": "2026-09-15T13:02:49.435872+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 62,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 59,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "3b1031d0bcda",
+   "title": "5 youngest athletes in Asian Games 2026, Vaibhav Sooryavanshi included",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUo1MWJJSVBhMF9XcGxlSW94bGJqa185S3lnWHhkbUhTeHBuUTdsOVhwanl0dC1IOXI3ZkR5NHFfUWFjQlVzcEd1bUxVOGJlQjhYdWc1T2dHUmJrUkwyQ2xWdmJOaVdpSHZubDJNMERvU0QzVW9ZWnpGWUEtd1ctTHRpS3V2QzdQT2t2ei1KbElaTl9JV1NCTXNhUXNVeXA5NWhxdFY0ejJVbGdUVXc?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-15T12:52:52+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "bc5cfc25f26e",
    "title": "Seventh Triangle and Shopify India launch invite-only D2C discussion series",
@@ -7078,23 +7096,6 @@
     "funding in headline",
     "$1 million",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ab61193eb047",
-   "title": "Amazon India launches Creator Connections to pay influencers for clicks, not just sales",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlFOZS1vSW1abU5wV1FROVdXbnkwOTIxWWo1cnhkZ0YzTEFkMnMyT0NxV3BGSWdadjdzWm96TU5YUDBTYXVlcFRmTDRwUndVTmJKMUlHbjNzdWdHWkxCUk9rZWNYX0hwYzA0N2hMWEc3R2xqQzByU0dUSjR3QUZCS3ZYYUt0clljMEFPRkN1R2dnVFZFaWFVMGg1RW5qRzc2VndWeGgzc0NOV2c2VFN2blc3S19Ra3FDUFNvQ1ZaVUlPNFA0dXVtTEZn0gHKAUFVX3lxTE9GUU5lLW9JbVptTnBXUVE5V1dueTA5MjFZajVyeGRnRjNMQWQyczJPQ3FXcEZJZ1p2N3Nab3pNTlhQMFNhdWVwVGZMNHBSd1VOYkoxSUduM3N1Z0daTEJST2tlY1hfSHBjMDQ3aExYRzdHbGpDMHJTR1RKNHdBRkJLdlhhS3RyWWMwQU9GQ3VHZ2dUVkVpYVUwaDVFbmpHNzZWd1Z4aDNzQ05XZzZUU3ZuVzdLX1FrcUNQU29DVlpVSU80UDR1dW1MRmc?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-09-08T12:58:33+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Amazon India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

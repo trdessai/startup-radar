@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-15T13:02:49.435872+00:00",
+ "generated_at": "2026-09-15T13:21:11.718149+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 59,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 62,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f4c0299af050",
+   "title": "NPCI announces MDR for UPI; merchant transactions above Rs 2,000 to attract 0.4% charge",
+   "url": "https://economictimes.indiatimes.com/tech/technology/npci-announces-mdr-for-upi-merchant-transactions-above-rs-2000-to-attract-0-4-charge/articleshow/134264912.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T13:08:54+00:00",
+   "score": 60,
+   "category": "product",
+   "company": "NPCI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "34c8c73592fa",
+   "title": "Delhi HC Asks RBI To Mediate PayU\u2019s Dispute With Banks, Visa",
+   "url": "https://inc42.com/buzz/delhi-hc-asks-rbi-to-mediate-payus-dispute-with-banks-visa/",
+   "source": "Inc42",
+   "published": "2026-09-15T13:07:57+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Delhi HC Asks RBI To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "77722bd4c7f6",
+   "title": "Consumer protection body imposes Rs 10 lakh penalty on Rapido for use of dark patterns",
+   "url": "https://economictimes.indiatimes.com/tech/technology/consumer-protection-body-imposes-rs-10-lakh-penalty-on-rapido-for-use-of-dark-patterns/articleshow/134264643.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T13:05:06+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Consumer",
+   "amount": "Rs10 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs10 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f9ef784173e",
+   "title": "Entry-level engineers outnumber available jobs in talent market: Report",
+   "url": "https://yourstory.com/2026/09/entry-level-engineers-outnumber-available-jobs-in-talent-market-report",
+   "source": "YourStory",
+   "published": "2026-09-15T12:54:54+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Entry-level",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3b1031d0bcda",
    "title": "5 youngest athletes in Asian Games 2026, Vaibhav Sooryavanshi included",
@@ -81,6 +150,24 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "5ed1a6a22abe",
+   "title": "Avendus Wealth hires former Julius Baer exec as CEO",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlJBaXNWMnY3Nlhob0diUkdoNkZYbFQ5NWt1V25hMjBvRGF3dUdSUmZDLVZzS05vVmZwOENVLTl5aFE3OVl3TjZCdml2RldiRnFsbzUtZDVLUVozRkF5ZlZEUVBvdjRCRnFXV2I3cERXMjlBVlFHZ1VMQmYwc2doVGVvNlJuOVNP?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T12:13:32+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Avendus Wealth",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
   },
   {
    "id": "29ef87ff77e5",
@@ -2279,91 +2366,6 @@
    "score": 23,
    "category": "other",
    "company": "Global Innovation Index",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b812c6a35a8c",
-   "title": "Victura Group",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5cWx6c2otdXh6MjVZS0psaVRWQVE4SXExRzZ0NUFSZHdvMUFIZ0I5WWpwcUpaMEJjS2NwUklFWkNSMURjT25vajlkUzlKLUVER1Vaag?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T01:57:33+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Victura Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0497f2d4f138",
-   "title": "Satin Growth Alternatives",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNzJ6cXhTai1fY0RYTGNGUHk3aEpNVzJzb18taHFYcjNLMG9BeXVNWnptVEtXc29GczJaMlpRSEppZ2hkTmctcnRSejl4UVZMeXNOOUozZ0pMZTZ5eFhfTE9WR1lWZG5mY0tnaA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T01:23:24+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Satin Growth Alternatives",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5794f453356e",
-   "title": "SGN Retail",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zS2Fmd1BGeFlvblU3dFZCdFlwWlRzMWQ2aXA0YmFPa3k5OS10TGk2VlhuRnEtQ3JDdTMzZ2Z2LWhER194Q2wtZ1NPSE5aRDJa?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T01:23:22+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "SGN Retail",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "484e55073bb7",
-   "title": "Essar Energy Transition Retail",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZaDZVcVR0RnJNdTFkZWkyUkUzLWFacFJKcndYN0s5Um5lblFNRHdVVVUyX2dEYWVhakc2Z1pmZGhuTWJzYm5pX3luVDZVeXZfVGI1Y0lMME80VEVJcmRaS2MyUnp4OTFSOHhV?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T01:23:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Essar Energy Transition Retail",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b7377e74e976",
-   "title": "Smartworld Developers",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NYzdfai1FazgtaGVxU09yTnhvdkk3dWlNaWdGaTdPb3lFRGFzbnRERUhWcmRiREVWX3FEYWl2U0U0bkhsenNPR3A0cHoyOUpTc2hFcVdrdkU3eGhIUVo0?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T01:23:21+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Smartworld Developers",
    "amount": "",
    "stage": "",
    "founders": [],

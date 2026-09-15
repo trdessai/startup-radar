@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T09:39:31.786330+00:00",
+ "generated_at": "2026-09-15T09:50:55.556892+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 60,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "992017d15699",
+   "title": "India\u2019s Wealthtech Startups Raise $317 Million Across 26 Deals in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3R6aFZhMjA5aVB2dktHOEFlaHN2X3h1VGpaWWdNbnNuUU9ET2x4dk9qMWVnd1Z1OFV2QV9McmNvbGduSjctZ3Fac0VkUktUSTA5Z3dINThod2xZa3BpRHlOTTR4Mi1nWTdIZElSYTU4TC0xRVpnLVREVTVzWjFrMFQ2Um8zQmYtZHh6NnhnQVVIRUg0bkNuMk1Oa1VlUWZaNkN3?oc=5",
+   "source": "CXO Digitalpulse",
+   "published": "2026-09-15T09:46:37+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "India\u2019s Wealthtech Startups Raise",
+   "amount": "$317 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$317 Million"
+   ],
+   "alerted": false
+  },
   {
    "id": "aecf04204d0f",
    "title": "SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges",
@@ -553,6 +571,24 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5004c7c9b395",
+   "title": "3 Potential Spin Replacements For Injured Varun Chakaravarthy For IND Vs AFG 2nd T20I",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNnJtdU9SaHEwWHhaYk9aWkNkUm4xQWktdWxaMC1VVEo2UTRSQk5YcUdMalI5SXNfU095bUdyWHhkVGFvbE1sekQwSmNkV3c3aEpPa1F0c29BUjFYWGhPTzlSbUFxZnczSUFmblZyall4QzRrbHpVVHZnbjB4aG5raVZfVlJWTUlxaFk2WXhzc19udUEyejVfVXVTZzNvbHZoY2N0TDY0a1VhN2xEN1RobEFHd2lLS0lTcUJ3YU80YzRCOHlwak42X0x6dkxIUmFlb1pfcTB4cTY2ZFFaYVBubnA3ek5pQS1WdkNyODg4NlM0eDdqWUF2eA?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-15T07:00:28+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -7038,25 +7074,6 @@
     "Rs.160 Cr",
     "Series B",
     "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4817d463a448",
-   "title": "Beverage brand Sorry Sugar raises $1 Mn in seed round",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHVSUGpySGZrMEw0QkZiTm9MWUZ5VzM2UGxXX1c3YWpQYThGV3hwaWg2cjdOMTA5MEFXcjAzT2xPbG80OVh6d2s0U0pjTWpGX1JmcXdsdjZNMUprRnRjTi1XV2FvYnVIOHRvYkJsSWJ5X3Azdld0SUkzR01kLTZRdUdvaEpKU2F1b2xVUThRWElweDR0VHfSAZYBQVVfeXFMUFR1UlBqckhmazBMNEJGYk5vTFlGeVczNlBsV19XN2FqUGE4Rld4cGloNnI3TjEwOTBBV3IwM09sT2xvNDlYendrNFNKY01qRl9SZnF3bHY2TTFKa0Z0Y04tV1dhb2J1SDh0b2JCbElieV9wM3ZXdElJM0dNZC02UXVHb2hKSlNhdW9sVVE4UVhJcHg0dFR3?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-08T09:47:21+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Beverage",
-   "amount": "$1 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1 Mn",
-    "Seed"
    ],
    "alerted": true
   }

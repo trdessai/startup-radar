@@ -1,12 +1,46 @@
 {
- "generated_at": "2026-09-15T04:37:24.756093+00:00",
+ "generated_at": "2026-09-15T04:49:28.250030+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 3,
-  "alerted": 1
+  "fetched": 32,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "3bd1d72fd89a",
+   "title": "RBI files caveat in Bombay HC amid Tata Sons listing matter: Report",
+   "url": "https://www.livemint.com/companies/news/rbi-files-caveat-in-bombay-hc-amid-tata-sons-listing-matter-11789447046739.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T04:41:35+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "RBI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "96c8c4709b5e",
+   "title": "NODWIN Gaming forays into mainstream sports; ropes in ex-Adidas lead Gurbaksh Virdi",
+   "url": "https://yourstory.com/2026/09/nodwin-gaming-mainstream-sports-ropes-in-ex-adidas-lead-gurbaksh-virdi",
+   "source": "YourStory",
+   "published": "2026-09-15T04:39:57+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "NODWIN Gaming",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "0e6ce02aebab",
    "title": "Vietnamese startup Aves plans electric motorcycle launch in 2027",
@@ -2187,23 +2221,6 @@
     "no clear event",
     "no company named",
     "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "449a3d1997df",
-   "title": "How India can manage its deep-tech commercialization problem",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSEpIZGc2NFRwNTF6dmptQVpOMHdfcG8tNS1wU3BLdF9xNThRLXl1TUlCUWNqX0MzZ2JTT2pHczZLRkRScWJyU3ZfbDQtSUpiNWhTVnJZQVQtelBuVDNxYnU2eEQxZlNYTE9GSF9OX01LVjdCTkFuNHBCNkNVTl9Kc09oWUpoMnJwWXNJLQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-14T06:15:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "How India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },
@@ -7057,25 +7074,6 @@
    "reasons": [
     "launch",
     "$78 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "07ce6c84cf3e",
-   "title": "B2B pharma distribution startup Fundly.ai raises $4 Mn led by Accel, Multiply",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltY9IBswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltYw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-08T04:38:27+00:00",
-   "score": 63,
-   "category": "funding",
-   "company": "",
-   "amount": "$4 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Mn",
-    "no company named"
    ],
    "alerted": true
   }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-15T03:57:54.642620+00:00",
+ "generated_at": "2026-09-15T04:08:01.832353+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 25,
-  "fresh": 0,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
@@ -7060,23 +7060,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d96a0b175e78",
-   "title": "Anthropic drops pursuit of AI startup Decart",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-drops-pursuit-of-ai-startup-decart/articleshow/133906210.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T03:59:33+00:00",
-   "score": 55,
-   "category": "acquisition",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition"
    ],
    "alerted": true
   }

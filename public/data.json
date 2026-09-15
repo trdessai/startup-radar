@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-15T11:02:15.107803+00:00",
+ "generated_at": "2026-09-15T11:18:58.464921+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 66,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a0b10e781d5b",
+   "title": "Women shaping India\u2019s chip future take centre stage at Semicon India 2026",
+   "url": "https://yourstory.com/2026/09/semicon-india-2026-women-semiconductor-panel-engineering-future",
+   "source": "YourStory",
+   "published": "2026-09-15T11:14:09+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Women",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c8e3e505ec7",
+   "title": "Delhi HC orders tax dept to refund \u20b9783 cr to Teva Israel over Ranbaxy payment",
+   "url": "https://www.livemint.com/companies/delhi-hc-tax-refund-to-teva-israel-ranbaxy-sun-pharma-income-tax-india-11789467986662.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T11:06:35+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Delhi HC",
+   "amount": "\u20b9783 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9783 cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1646f24c4fd3",
+   "title": "Music distributors agree to vet AI tracks before streaming. No Indian company has signed",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xbzVibUtqWmJuZWdfejRLUS1LR1hqOGtXQ1ZBb0lOWFZQeHZ0TmVVQU45dlFMaHhvS0ZhM20wNXhjdDdxZjh1Nm9BU1BKNmR4dDlhNmozVHVvcW94aUNOVk5rTHlJNHVVSU1NdFFYazV3MGxuOW5tb21YQmxMZw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-15T11:02:21+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Music",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ce2115f9d278",
+   "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGNHdkFyNWtRNVZNY05RYUZTY1RsTF9XUnhXUk1ERlEzQmF3YnRrNHZpZ25xYW81dXhiZU02NHRra1JJVFRnNnRZMW9CSkEzUWNiMDBIMXlNRjUyaGpzYmZmVmRXZUtMYmdmekllOEJiV0dZNVFSa0dCZGlRNEt3SGdHVk52dnYxWGV6N2hYR3dKODk3bTV2bkZxMzk?oc=5",
+   "source": "Crunchbase News",
+   "published": "2026-09-15T11:00:38+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Sector Snapshot: AI Takes A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "3ea925b09dbd",
    "title": "India\u2019s semiconductor ecosystem grows to 3,557 companies, funding reaches $1.4 billion: Report",
@@ -24,6 +93,23 @@
     "$1.4 billion"
    ],
    "alerted": true
+  },
+  {
+   "id": "8b6d82ccf823",
+   "title": "Airtel, TRAI push cross-platform and sectoral signal sharing to fight spam and fraud",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMl9NVzI5S3lScHBKSFRMdTZheTNKU0Q3ZkJVQ1lUXzFYUW9pS1o5Ql9kWncxTWdxMFlMR0JNN0x4dDRHRThzcWhUdGlnbVVOeUw5SjROR3o0ZVh3Q25WdUd6TUxuS1ZWUTk3Wk5NTTd3QjhrT1RDUEdZVjR3ZXg3TVRMbGZTdzVmMkRWSGJB?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-15T10:40:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Airtel TRAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "0030b04032b9",
@@ -2232,59 +2318,6 @@
    "alerted": false
   },
   {
-   "id": "6b155ae6d064",
-   "title": "IIT Delhi\u2019s FITT Forward Puts Hands-On Learning, Industry-Ready Skills at Centre of Education Debate",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYmVjYUdVRENBZmtna0pzVHdlYVVFdWxNSlh6VDJheGhKRDJ0QzB0dC1LVk9pQlA1YjZ5Q09TSzZhTENFa3dIaGJWOW5faHR3dW93bUtrV3pfbm00U3lsSjhwVXdsTVVsTi1EREJ0MG53Ymd4MDZUbzByRzI4ajloNmV1N3pJU0FhZEtibHhlOUFacldMTzJnNVdWUzZaTUM2Q2hQSGZ4NEJaUkdnejBSTmZwOElqUU9rZThKa3RHUW84R1dBS0xHbGNYLWdTemw1MGpLT1VWQjZFaTlrVExPZUdZU2JwYXJVZUVSLU1rZkVYVlk5eC0xNVF4OW83Z9IBgwJBVV95cUxQMC1mUVJ0cFNkMWYxaU9ZN2xzcUltZHJFQU02MDdnSjlSUlJ5b2lOb2M1b0VZVjR2ZE5DdnlOdWVhczNPQ09KU3kzNHJVdzBGalh1N1ljZTg3QlRsbXlkd1Y2LTY1OHJmellhbUpxZHpIeHBKNXVNNVVucjlVeFVtczYxQnl0RFR5azVzSTlYLXV6ZTJHek9ueWk1T0oza0pBeV9hNjRPem1EQlNzRGs5Q2d2cEZ1bXo4SS15RHU0dXN5THRBMFlYQ1NXbW8tVFY0eGFnakVjZE5DZlAyMEdpR0FWd1o1Z0ozakdjYVpDandYNXNkQmFTenZUcDhKeEZ4VmZR?oc=5",
-   "source": "ET Education",
-   "published": "2026-09-14T14:13:17+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "IIT Delhi\u2019s FITT Forward Puts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4d7e37b1f967",
-   "title": "Furnishka Lines Up Rs 26.8 Crore Pre-Series A Extension Through 3,183 Preference Shares",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHh5bWtiRDZ6OUduQS1JU1Zoa3ZiUWtBdzNfWktvc2dvRDZfZjJ2MkRHTVYzN3dlZFc5SDJQbnZ0eVVVTTA0NTBSZXFQV3E2TzlqejcwLXYwdVpjT3hiS0RlRzVMS1lCY0hfZHR0TktxMjJYUGVLUFo2azRqbHJSQUtVZElnV1JWQlowSk1hRm5PbjJrQWlYeXhINnZ3MGZkS24weWxiV1RJeVcxYlJKNzUwc1JkbklsMDk3dlZJZVBjZGZmS0tOVTRnRGpNZ1U0dU5hejU4X2xxcUU?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-09-14T14:07:40+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Furnishka Lines Up Rs",
-   "amount": "Rs26.8 Crore",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs26.8 Crore",
-    "Series A"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "12752eadd116",
-   "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnVxc3J6SWhCR2hmY2R4c2lCWXk1c0VRdEs1ODAzTUdwTXdUSXBVMjZlM1p6V2I1V0FqYldwd3hxRzRIMHpKd0lPOG16bHZfVGNGOEpFRlBxYnNuM2h3ei1GWEdEUlpLRFozN3gybDNYVVZMWWRiSTVjcHkwYkhDM005TnpySzBxUjBBRzN3a2ZYSG04NjBsY0xrUVNpRU9nRFBCN0U0bFJnUHV4MmN4el9FNExLckhrY3NJ?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-09-14T13:55:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "A Vinyl Bar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "09e3e82f30d1",
    "title": "Amazon ramps up India network ahead of festive season",
    "url": "https://yourstory.com/2026/09/amazon-ramps-up-india-network-ahead-of-festive-season",
@@ -2317,23 +2350,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "c9e79a12139c",
-   "title": "Microsoft drafts code of conduct to keep its AI under human control",
-   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-drafts-code-of-conduct-to-keep-its-ai-under-human-control/articleshow/134242125.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T13:24:48+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Microsoft",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f248afda3980",
@@ -7069,23 +7085,6 @@
    "score": 68,
    "category": "launch",
    "company": "DAIMANT\u00c9",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "12afb5fed56b",
-   "title": "Aditya Birla New Age Hospitality Launches Supa San in Bandra",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc29OTEVwTWFqZUNDcWRWbElNbFNZdldBeDc5dlRJeUhPMURSS21ycEhIS3FMbHhiQTBQVTJWMGhzTHRKdjB6a0trQTYzTHA3MWkxNE9fSmF2c2pzNUVJWWRJODRKTmFCNklVNGZTeVZHd1JGU1FLX1VCZkpfYWJfY0R5YlRCZEFVOV9OM2lCaXZ0Z2hjSjJVbg?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-08T11:03:24+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Aditya Birla New Age Hospitality",
    "amount": "",
    "stage": "",
    "founders": [],

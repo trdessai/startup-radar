@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-15T12:39:50.135509+00:00",
+ "generated_at": "2026-09-15T12:52:36.148629+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 61,
-  "fresh": 1,
-  "alerted": 1
+  "fetched": 62,
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "bc5cfc25f26e",
+   "title": "Seventh Triangle and Shopify India launch invite-only D2C discussion series",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWNhYnlWVTkzS09GeE1fS2ltY0VVVnk3Z3BBS0lKRDBOdUFvUnpJRVh4c21uU0t5ZmljX21Hci1BVzJUTXhFV2dkVDY1dndSejI0allleEpaQmFIR25Mdlk2MjROR0JRUXdNaHNaSjI5ZFJZNW1KQU9qS0t0bXFYVmdhY0lIWWJqdGlCOVZ4a0FVSGNBc1gxbFpJem1xZXBiLUZIQ0ZMbE5JbWRxcWRiLXBEMG83SXU3RlVhajF1S1c0WTZZWm1hNTVSNDhDVk5iV0dBbHVtd9IB1wFBVV95cUxNcWNhYnlWVTkzS09GeE1fS2ltY0VVVnk3Z3BBS0lKRDBOdUFvUnpJRVh4c21uU0t5ZmljX21Hci1BVzJUTXhFV2dkVDY1dndSejI0allleEpaQmFIR25Mdlk2MjROR0JRUXdNaHNaSjI5ZFJZNW1KQU9qS0t0bXFYVmdhY0lIWWJqdGlCOVZ4a0FVSGNBc1gxbFpJem1xZXBiLUZIQ0ZMbE5JbWRxcWRiLXBEMG83SXU3RlVhajF1S1c0WTZZWm1hNTVSNDhDVk5iV0dBbHVtdw?oc=5",
+   "source": "bestmediainfo.com",
+   "published": "2026-09-15T12:46:25+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Seventh Triangle",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "09d190493d52",
+   "title": "Indian developers must complete KYC to sell globally, says Google",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlSQm5qZDE0ejhTR0RaRm1MRGNBa2RzbVJwRVRmcUtQMlJ5aGJoNTNCb1MyVklKdjlHVzd6RngyR2d4UDh4VjBfVGJMdEFLbkx2ajkwMzRhUHQ1cUJYbEZUMDU2QldGNkNrUFgxUXF5QUhNM1pQQi1rclhGLVpYVUxNdTVIQTE4?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-15T12:29:50+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "0f3a27258729",
    "title": "European chip startup Axelera wins AI factory supply deals and launches second chip",
@@ -356,6 +391,25 @@
    "founders": [],
    "reasons": [
     "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8ab14ada5beb",
+   "title": "AcademyAI bags \u00a31.65 million in pre-seed funding round to assess and train employees' AI skills",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0tDUGZjV3FHWVBLZTJWa185MlFnOUozU2k5NTlUVHBsdTh3bU9jRVBwRlZQSjV6elRpSDh3OVlGRTQtR0ZNN0t5bUc1cjFnd3BzYS0wQTFmdE5kWFpNTnU5c2JQaFh3aFRtZVFyS1RVeW1OdDJobnZqSEphTU9lczFoT0c0RVQwOG9QTFNCdm1rbmJnUzdHTzdaUGlnVTJ3STM1YmhIR2FvdXhEM1pqZFZnLW9yT2JLUC1ta1ZlNXZsWEdEUmFDdU9ucVowUQ?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-09-15T10:52:52+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "AcademyAI",
+   "amount": "1.65 million",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "1.65 million",
+    "Pre-Seed"
    ],
    "alerted": true
   },
@@ -2318,41 +2372,6 @@
    "alerted": true
   },
   {
-   "id": "a83cc7cf4cfa",
-   "title": "adidas Originals Teams Up with VegNonVeg for First Collaborative Samba Mule Launch",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjRXWUx6bVhjUGFGTnRuNFBxdDJqaHJWdFBEOFh6T3JLejN0NlVvR1BEQTlXdlhCQ196dzNqZ3NjcG9RaXA4QTl3NUpNMWxqaFFacF8yRHVDQ2Y1YnNpcS1rMHpzdXhJN2tJY2VQQ3U2UGlYUmFDRHNwWmJoV1pMalpiQ3hUMTdGajk3SzVBSGJyMl80NTNvSXhSWmFma0lFbWxDbUV4NEhaVXlabm05NVBSdDhBYVVCalJtUmxLdGdNZk14bzQ2dDhn?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-14T20:30:08+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "67135de842ad",
-   "title": "Govt Notifies New Rules, No MDR For UPI Transactions Under \u20b92,000",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0N4a0xRUWdqSjE0MnVLX3V4bTZUODd4N3I3REF5Tk80TVo3RnFqQm0tZmROMWN4TzE4T185cHVaSm41T1d5bFdIMHdUTXZTREV1b0cwQ3dKaTJvanQ0dlI0bjFvc1RKc1ZSZTZzRF9FRk5OZ1pHMDFUaWlzN28wNG9HMk5wMFJoa1JJX2VxVlBOaTc3aVdTQUlnYw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-14T19:22:07+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Govt Notifies New Rules No",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b99dd125294c",
    "title": "What Dario Amodei, Sam Altman and Elon Musk have said about AI risks, stoking 'doom' fears",
    "url": "https://economictimes.indiatimes.com/tech/technology/what-amodei-altman-and-musk-have-said-about-ai-risks-stoking-doom-fears/articleshow/134246769.cms",
@@ -2368,23 +2387,6 @@
     "funding"
    ],
    "alerted": true
-  },
-  {
-   "id": "55edcfb7ce8b",
-   "title": "Europe facing unprecedented risk of being cut off from AI, Lagarde warns",
-   "url": "https://economictimes.indiatimes.com/tech/technology/europe-facing-unprecedented-risk-of-being-cut-off-from-ai-lagarde-warns/articleshow/134246747.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:35:39+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Europe",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fd6f215440ca",

@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T14:47:20.587163+00:00",
+ "generated_at": "2026-09-15T14:56:37.316591+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
+  "fetched": 60,
   "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "cfb9ed1f4a8b",
+   "title": "OpenAI is working with Anthropic, Google on AI safety: Bloomberg News",
+   "url": "https://economictimes.indiatimes.com/tech/technology/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news/articleshow/134267292.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T14:53:28+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "07559fd68276",
    "title": "Tata Trusts may urge Tata Sons to seek RBI review of public listing order before legal action",
@@ -2449,23 +2466,6 @@
    "score": 27,
    "category": "other",
    "company": "Yesterday I",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b4b2e68b2eef",
-   "title": "Govt specifies no charges on UPI, RuPay debit card payments up to Rs 2,000",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3oyemZMS3Rwc0RIMnByX2xacjN3aThtVnBlNzF0YjdtN2VKV3lDUGIySEtMY0xveVNMeWk4cXRXWHMzaU1TM0RjT0pBYUs0OTBVMTlORE43ZlpHdXRZX05WVTJzMkhoUEhBM1NOS04wMURJaG5FaXJfa29Xd3F4aThnSlBvbWFhaUNYUG01bk5oLWZYQUlvTGZBOFh6TTZ0WDhzamE1ZGtITmvSAasBQVVfeXFMUHd6MnpmTEt0cHNESDJwcl9sWnIzd2k4bVZwZTcxdGI3bTdlSld5Q1BiMkhLTGNMb3lTTHlpOHF0V1hzM2lNUzNEY09KQWFLNDkwVTE5TkRON2ZaR3V0WV9OVlUyczJIaFBIQTNTTktOMDFESWhuRWlyX2tvV3dxeGk4Z0pQb21hYWlDWFBtNW5OaC1mWEFJb0xmQThYek02dFg4c2phNWRrSE5r?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-15T03:22:27+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Govt",
    "amount": "",
    "stage": "",
    "founders": [],

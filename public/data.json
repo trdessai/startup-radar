@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-15T11:30:07.584104+00:00",
+ "generated_at": "2026-09-15T11:40:36.908338+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 67,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 68,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "7e0b13d14dfc",
+   "title": "Gates Foundation pledges $1 billion to drive AI equality globally",
+   "url": "https://yourstory.com/2026/09/gates-foundation-commits-1-billion-for-equitable-ai",
+   "source": "YourStory",
+   "published": "2026-09-15T11:31:33+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "Gates Foundation",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4242d9ee3758",
+   "title": "How Stelcore Is Helping Brands Simplify Complex D2C Operations",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1E4NXNBbER3aTBaVV9qek5haTRsRV8zUG05WlN3UG5jZjBLWThCbzBSQTYxS3RVckFfNzhhWWVaM29CV0pLSmxaeS1XVFJ3bjhnM24wZkxHcVhXc3hvV1VoQjJZQ2gxODFmYldfTGk3d3FrX2hhZmd1cXpHcWZkeE15Wjl3b2piVlUtT0xlMlNVNEFN?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T11:30:19+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "How Stelcore Is Helping Brands",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c21af6cf81db",
    "title": "MediaTek launches new mobile chip using TSMC's most advanced technology",
@@ -57,6 +92,24 @@
    "reasons": [
     "launch in headline",
     "people move"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d506942e35a9",
+   "title": "Furo Raises $4 Million to Expand Battery Optimization Platform",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalNWM3kxNGdrRmVRcWxXdExhZTJKOUpDc0FQTmx0WTlKWl9TR0huSnVHcWd4RDVLd1hRa1VjM3RTVnZZajZYaHJSU2Q0WVJWTGNIdk5nQzRGckdMMEcxTnZ5TzlJd3pUMk9Nb1JSckM3OUdnTG1zQURxQ2MtamU4b2c1OTBfZEtvZ2puMWhZZkxLaWM?oc=5",
+   "source": "Mercomindia.com",
+   "published": "2026-09-15T11:19:03+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Furo",
+   "amount": "$4 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4 Million"
    ],
    "alerted": true
   },
@@ -7031,58 +7084,6 @@
    "score": 68,
    "category": "launch",
    "company": "OnePlus N6 Lite India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "86fdc104a34e",
-   "title": "Finnish Creoir secures seed funding to commercialise its defence voice AI products - ArcticStartup",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
-   "source": "ArcticStartup",
-   "published": "2026-09-08T11:37:17+00:00",
-   "score": 72,
-   "category": "funding",
-   "company": "Finnish Creoir",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "54c98b4f2565",
-   "title": "Oppo F35 5G Series Confirmed to Launch in India Soon",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1ZxNVJFUUZ0ckFIMG16STFDTktIUHlRWVgxM2JFRFZ5S3cwcG04MnJsdkc4c0NsWHI1eDhTV1Y5LVNIaENTbENlVjZrZ3BHOU5TWjJQX2w5eHNaVjEzV0RNLW9PQkxnazA3ZTVkUDNScTRSbVlHUkwzaGVHLXRjYUZnWWZMQUMzY0F4cXNaUVpZOENwMy1OQnV3dkllaE5YTDcxVk55M2U2aEdlbThBSXpLa25ud9IBuwFBVV95cUxQOU14QlUtaXJTaEdzU1RqTVJRUzhoR05lcXVkRl9OOUg4d0dMc0xyYTNWeTFCOHhMM0QxZ1dGcTR4RjFIVXVrU2x3NVJoQnhsTFB4aG9TTmFOaTVFYlRWcFNZVzVEbXZjV0l6SFBTM3FiQzVvci1aeEJlM0FOSVY3OUQ2amw1X2c0dUU0TktyVkhxOGxxVVFUQ2RXZUcyRGJoSDhPb0VXeWRKQXhrU1dJVW1nbkJxZThuakFN?oc=5",
-   "source": "Gadgets 360",
-   "published": "2026-09-08T11:36:22+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Oppo F35 5G Series Confirmed",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5b9e6263c54b",
-   "title": "Indian startup Agnikul Cosmos unveils testing & manufacturing hubs in Chennai to validate reusable rocket",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTzJfd3dXNTdQaG10VjdPRlk2Y0NtV0V3aHFIdEtwa0Q5ejlRNkZwV1NjQ2RqQmVqRGFsQ0VaZV83R200ZnExdHprSFF1Q0xDdmlNbDNDb1hIM1dKQldmV3NOdHFqU0RDUTRnV3RCMVVzVVZhNkNNc0xfQTZEWUZfNS1ka0hIYmt1V0xIUmJKa2FHTFZiWWFfbk5tTWpjVVFNa0c4V3hTRTkzaGdFOFFtOTVPTExRX0ZYMkpDNzBBZTZkb1luMnBGWVlwN0ozY1hlUjk0QTBUZlF0WWZjdWQ4TlVJZWNJb3N4YjBrMFJ5cFcxVmRHQ0tpb0dPNUdnZDBPMjNCbmFxcnhVcVli0gGSAkFVX3lxTE9OZ3ZEWWtEU0Q5b3MyZ2pSR3c2N3RvQTNydXY3TmRDSUtvbHBRTmFVSDRoQlNFUUpHSklJUDNJS2ZCWHB5QkM5bnEybmNkSTZadHl2Wk1tTVVlN3hITFZOTGo5RmpOX0RaNnRVZXJrQXlXaDJya3ZaRGdnZjJhQ2E3djQ5bFBrMmNreUdPSG9ETTBnY2RNWnNKM0pMMHl0V19ZVk1JQmxCak9EakkzZ0pmUWUya3hlaVd1QjRHTWlud01abWdLTXZkQm5fbEIxdFpkaUhrOHpUdUhYTzJrdXRpN0VkUUJvek85c1JPRkxXRmIxcFJtRzU3UWtBTzlWeUV2b3ViZFhVUWhTaXg5WEZfMWc?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-08T11:34:00+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Agnikul Cosmos",
    "amount": "",
    "stage": "",
    "founders": [],

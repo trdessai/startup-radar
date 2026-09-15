@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T07:43:14.780196+00:00",
+ "generated_at": "2026-09-15T07:55:48.412226+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 6,
-  "alerted": 2
+  "fetched": 57,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "9c9287d03671",
+   "title": "Prasar Bharati opens doors to AI startups for WAVES, Doordarshan and Akashvani content",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkRKbXJ6NVRJMTFmVnF0MGNuYlJSZlc0cEc0Q19fWWVkYklncldzYU5BN3pQNURsdVlwVkVOdU43UUp6UGdLZ3FjUnZoOUZoN1J4QzE0TjdMMVA0S20wazZTRlpFRkxXSjg4dXZJNW82MXZaLUVWMDZaXzBYa0FvR3EtcnVrM1o2TGZmUHFBZUNHdFBxcE5TM2hGX1EwenBKa2pobzVMcFUzZVJwZFhIMlgxd1F2eTdUYUZCVXRWWXl0YnF3NC1mQnFDUGxLMlF5YVdzV1htRHZDWVRGMzhJ?oc=5",
+   "source": "Exchange4Media",
+   "published": "2026-09-15T07:47:18+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Prasar Bharati",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "710968675e18",
    "title": "Bengaluru-based QOSMIC secures US patent for ARGUS laser ground station",
@@ -392,6 +409,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "d134c6fc6e63",
+   "title": "Novastar Partners backs AJVC in debut LP-style investment",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDcxWTR6UXRfSWdJMnJOU1JweExwaEdsOFpJRFAzVWRiMks0QkllZWZiX2JpdThObjJReVAxeEZXVDJHbWR1OXl3czJKYl9wUFRqajl3Z1NuTmFWNWlxT2xIV21BXzZsWVNpOVJaTG9KX0hFVk5JdFBYVmpHQnprdG1VbXdOZmNN?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T05:36:09+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Novastar Partners",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "a922d888ce8e",
@@ -2158,41 +2192,6 @@
    "reasons": [
     "no clear event",
     "Rs926 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ba8ce1adc817",
-   "title": "Bessemer-backed fintech firm TransBnk in advanced talks for Series C round",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXZyQW11a3MzdjBkOXFvdTVOY3ZJbEhzQThjZk5JR2xSNFRjclZpQzdWRVZuYmV0elpiRVZVTGF1UkZOb09jaXRxT3N5aTZQUmlqcmYwLVhIaDg1R1FoQVJLYWhCN05fSU1sUEFSYUJQTnFwdEEyb0k3NmFZbUdHZ0VzUU52NV9aVWplc3VvZnR0cWkyTXVmeERKNkQ5MXdJbnZfMkVYbw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-14T09:30:20+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Bessemer-backed",
-   "amount": "",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Series C"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b8198e229890",
-   "title": "Personal loan for home renovation: Costs and benefits",
-   "url": "https://yourstory.com/2026/09/personal-loan-home-renovation-costs-and-benefits",
-   "source": "YourStory",
-   "published": "2026-09-14T09:07:55+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Personal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

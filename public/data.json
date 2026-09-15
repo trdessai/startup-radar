@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T10:20:15.648520+00:00",
+ "generated_at": "2026-09-15T10:35:47.203035+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
-  "fresh": 7,
-  "alerted": 3
+  "fetched": 65,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "4b309bf318f5",
+   "title": "Retail India News: Nisara Adds Chocolate Inspired Perfume to Portfolio",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTY0bjNWMHFsYVZYb1BOUGVkOTNOWkpKYmZiVnVpSFFEdHFreFdmbTBfUUNzb2lyWDB1MkZfb0tJX2xfd0Mta1FZbzQxTUs4UEN4aW9kZ3lyb1RQRURVa1F4ZGFXb19zLUZvcFlPdGFuZ2xWZHpISjVDb0c0T1VFbm5VU25laTdNd0dxR2RRMHY5RWJ2bG13SFRQRm1WektydGdYQw?oc=5",
+   "source": "indianretailer.com",
+   "published": "2026-09-15T10:29:15+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Retail India News: Nisara",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "56011bd7ef8d",
    "title": "OnePlus N6 Lite Launch Date, Price & Specs in India 2026",
@@ -23,6 +40,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "36c2c405b73f",
+   "title": "From Jharkhand and Bihar to India\u2019s chip lines: ISM chief on why semiconductor jobs are open to everyone",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMm5VWV9hM3NhZEJ6R3RLRDFxY2xUTFFRcF92YXJ2WDBEUTdrNWFETlZNOHU0ZnJqMkVFSk1hSmNEbVM5T2RKMG9MdFJQTlJnN1plWC1vbVItd1pJNHBOc3dqdGJuRndZNDF5Y3d4WloySUUxcTA1R1IyU3Zpbi1XN09YdER0XzRBMWNTUzNhRDB5VmpGbThCcVR3bw?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-09-15T10:06:40+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "From Jharkhand",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "3de6b29a8ad6",
@@ -335,6 +369,23 @@
    "score": 23,
    "category": "other",
    "company": "Emerging EV Brands Surge Ahead",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0798e84796be",
+   "title": "IIT Madras WSAI builds AI studio for research, data science startups; apply from October 3",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHdOZ19zUEs4R0U5T3pLZnk2NEY5OGk0VTJhWFR3cGFwQzgzdzljOG5fdzNxQWhpdlJTWmpJcmk2ZWxwWnphNDk3NVBiMF9remdUVTdwMDExRkZiUDEwOWs5dVE2QnJOLUQ5NFhOOUktT2xib0dUVXJJdzNRaURtOFBnaVpHXzFCOUJvRllBMWRFeFBPZFRJLU5mRlZTYUlBUU5aMFNjdHpUR0F1UnA3M01kMNIBuAFBVV95cUxPZHVSOGxkOTdFVUlMMWRtNFB4YnJJb3RZTUpFZ24yek5ZOHlSZlFYSUFkUVdsWEJidERENnJqTV9leVlidWVJRV9YZ3V6Mmc0NTF1elFtRWlRcTNxRWFiN3JYa1VTTUVMbHNfY056VkJ4dmg0V284RmtESUhteENLdlQ5bzF2c1lEckQwWnZUWFRWbjFjR2JValFydVFXaTFjUUNVN2VJYU9XS1hUVkZGRlZJV3RGOFNw?oc=5",
+   "source": "Careers360",
+   "published": "2026-09-15T08:18:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "IIT Madras WSAI",
    "amount": "",
    "stage": "",
    "founders": [],
@@ -2289,42 +2340,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8e48828c48ae",
-   "title": "Neo Group acqui-hires Mumbai-based boutique investment banking firm\u2019s team",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVBMcko4YXZKVDFRcmNiSE9JakRnR3phT2lxUFdsN0NrQnVuR3RwblNEQ3JPaGdsSWE1aFU2ZU15V2VrRXF0bUhQdTY0VlZSRERYQkdqWTJJRlVYRVdFQk0zbmgyVDBlZHVuZnQzMDN1VnZ4dmkwTDBzWVpiUUdlTHNsMWNrb2MxU3d2dk5tbFhSMG1NWFhYZWxHM2tpVENKOVREVlVHaw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-14T12:38:41+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Neo Group",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d3fc005f6669",
-   "title": "Zomato begins charging extra for cash on delivery orders; Will Swiggy follow suit?",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FUVIxQ1UxbkcwZ2FnckJVRVlQakluNXVZWV84dkdLQU5jRVpnMjduajV2T3E3UVEyV0VTbVB4YlJtaHRvOF9fenduRlBOdnpETDFiZHRCSTNsRHRkNGpWQ0w4eEtwS0lWWVo4YlkxQXhlU0dXNUxxNXZUNA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-14T12:29:18+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Zomato",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "dd106a51b2ee",
@@ -7083,23 +7098,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "40eefdac3bea",
-   "title": "Emami's BoroPlus takes on Johnson\u2019s, Himalaya, Mamaearth with FromMaa launch",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaVN5enJ4MWlaNkMzR09TRjVMZ1NRYndNLUJUSGo5d3d5dGZxcUFYRkxleml6U2l0VThXYTlpYUVsUGlmcVhuRWg5enNSZFJPNk5vWl9FYnQ0V3N4YWJXeHRrMk55eXYydjBXRS04aUtlVVgzZG9YakZyX2ZrejIxbG45a0c1X1JjeVJMclNucERGMXBERHhfR0lKZnJWaXJjb192S1E1aGhqQmU0YWJqaTc0SkpRRTNZSXJ5YWhjazNsYVJZN3dxeWNSNVp6a2piRnFpT1BDbjhaRkFxMF9GSkczc2NQbDk5TGZRbDFCNNIB7wFBVV95cUxPaVN5enJ4MWlaNkMzR09TRjVMZ1NRYndNLUJUSGo5d3d5dGZxcUFYRkxleml6U2l0VThXYTlpYUVsUGlmcVhuRWg5enNSZFJPNk5vWl9FYnQ0V3N4YWJXeHRrMk55eXYydjBXRS04aUtlVVgzZG9YakZyX2ZrejIxbG45a0c1X1JjeVJMclNucERGMXBERHhfR0lKZnJWaXJjb192S1E1aGhqQmU0YWJqaTc0SkpRRTNZSXJ5YWhjazNsYVJZN3dxeWNSNVp6a2piRnFpT1BDbjhaRkFxMF9GSkczc2NQbDk5TGZRbDFCNA?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-08T10:32:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Emami's BoroPlus",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

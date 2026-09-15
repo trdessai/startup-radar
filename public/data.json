@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T15:46:32.852945+00:00",
+ "generated_at": "2026-09-15T15:54:53.545579+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 63,
-  "fresh": 6,
+  "fetched": 60,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "0f0809e4467d",
+   "title": "Flam raises $40 mn, Shah Rukh Khan joins funding round",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRDZRdlFUMy1MWURMR2hEdGphTUNkSUEydFU1RXlGRHl1ZG1sQWU1Z2RyMldLRDBNckpCSk40WHN5SGQxNzhqdE85bXBqeU5WSlRMMnJ1YkZVSG5IRlU2b0FHS196d0M2SEl5eTktRjFYajN2dTVzdGMxb0dncUtwZnRpZ2RzaVFSelA0VXFkR3ZYMEltZlFncnl4bkdYMzdab01jbEtqYUE4dHhsVW5nOFNRU2RlOWx4bUN2OEJtMWJLb2NhbUpFRUN4RENHNnh2Q284adIB2gFBVV95cUxPeGtDOUp3LUgzY0NUUkZkN2RVRkZZc0lIQXBhRDVWWVZ0WjZDNDYtaEdPR1RkQlBFNTcya1VpRktmTHg1QzZIZHpYWm50X09CemFQV0E5cDlKcWZuTWRFOExBQXFwVHVwTUFoRnlUYTZ2SEk4TG5tclZoZnRWQmRoN09JMk1YUFBQb256bGtfcjlRZldpd3RIY2dQQnpUYnJRX09ZbEN2M21iekJjNWVqQUMzbTZqb0YxUHpBaWdmR0dXNjhGMXhCSE9lUFpLNk93Wmo3RWd3S21kUQ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-15T15:38:00+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Flam",
+   "amount": "$40 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$40 mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "4d6bcbf0d7b8",
    "title": "In 2017, Kevin Durant put $250,000 into an AI startup nobody had heard of. It just sold for $12.9 billion",
@@ -185,6 +203,24 @@
    "reasons": [
     "no clear event",
     "\u20b9282 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "178a2167262d",
+   "title": "- MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zcThaRzRXb09KVmx0ZFoyTUtXMUVhZUllV3BYakZkdUhJNUVkUkRLUHI1WS1CaXc3QkhEUVBxcUxUel91SmRlTGVMb3dtVDJuaUl2MmtkSnl4dFBDdnVKRU9Yblc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-15T14:57:00+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
    ],
    "alerted": false
   },
@@ -2386,24 +2422,6 @@
    "alerted": false
   },
   {
-   "id": "ee21b1125aa4",
-   "title": "Meta agrees to report child sexual abuse, safety-related cases to Centre - here is what social media giant told MeitY",
-   "url": "https://www.livemint.com/companies/news/meta-agrees-to-report-child-sexual-abuse-safety-related-cases-to-centre-here-is-what-social-media-giant-told-meity-11789449433985.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-15T05:37:06+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d134c6fc6e63",
    "title": "Novastar Partners backs AJVC in debut LP-style investment",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDcxWTR6UXRfSWdJMnJOU1JweExwaEdsOFpJRFAzVWRiMks0QkllZWZiX2JpdThObjJReVAxeEZXVDJHbWR1OXl3czJKYl9wUFRqajl3Z1NuTmFWNWlxT2xIV21BXzZsWVNpOVJaTG9KX0hFVk5JdFBYVmpHQnprdG1VbXdOZmNN?oc=5",
@@ -2419,23 +2437,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a922d888ce8e",
-   "title": "Kids\u2019 Nutrition Brands Face A Familiar Struggle",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfenRUTmtKVVZMeV9FUnBreGlIQ0pXWHdOTG1wNWVBYWsxZE5VREFDOUhlTlJrQjZVUHEzTFpCSUhleVFESU9ZYTRpSWM2WDVjSGh3eVFoYTRHTURZcDRZbmwwMmtobDI5UHdGVTdrR1ctMmh5Wm53a3RBOExodDA?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-15T05:30:37+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Kids Nutrition Brands Face A",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "2479cdab64d0",

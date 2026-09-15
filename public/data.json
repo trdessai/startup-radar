@@ -1,12 +1,51 @@
 {
- "generated_at": "2026-09-15T15:19:06.492478+00:00",
+ "generated_at": "2026-09-15T15:30:22.448654+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 62,
-  "fresh": 4,
-  "alerted": 2
+  "fetched": 59,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "d32deceb6426",
+   "title": "Amazon Ads announces Delhi and Mumbai summits to help Indian global sellers gear up for US Black Friday Cyber Monday Sale 2026",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNi14d2x3WU85aEZycVNrT0NUdC11MXR2SGZJREJfTkdYbFgtVnVGTE55MmdCdU1OQ2l0c29XR2xocnBSQnRlZVROcEtFMG1QemttLVp2NEE1Umkwcjg5T0xrVjJqZEczWFlpd2c1YjFMWm4wampzMTFYcFM0VDZZWGVDMU43MlhlNVBXbVpLcG1LaGN5T29mdnd2SkdMcE13R0dKTl9YUDVmTTNsZENmUFNnYnJNdjFoNnJzYmp1LUZubjhPM21pQk1wakdMei0wY0FEdU5YMmw3NzJGVWF1Vmx0OXBldzJqSVRRSWpnNXlDRXhodHV3dFBtbFg3am_SAf8BQVVfeXFMTzYteHdsd1lPOWhGcnFTa09DVHQtdTF0dkhmSURCX05HWGxYLVZ1RkxOeTJnQnVNTkNpdHNvV0dsaHJwUkJ0ZWVUTnBLRTBtUHprbS1adjRBNVJpMHI4OU9Ma1YyamRHM1hZaXdnNWIxTFpuMGpqczExWHBTNFQ2WVhlQzFONzJYZTVQV21aS3BtS2hjeU9vZnZ3dkpHTHBNd0dHSk5fWFA1Zk0zbGRDZlBTZ2JyTXYxaDZyc2JqdS1Gbm44TzNtaUJNcGpHTHotMGNBRHVOWDJsNzcyRlVhdVZsdDlwZXcyaklUUUlqZzV5Q0V4aHR1d3RQbWxYN2pv?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-09-15T15:25:24+00:00",
+   "score": 58,
+   "category": "product",
+   "company": "Amazon Ads",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c62cf2e44887",
+   "title": "Semicon India 2026 opens this week. Here is what to watch",
+   "url": "https://yourstory.com/2026/09/semicon-india-2026-students-startups-guide",
+   "source": "YourStory",
+   "published": "2026-09-15T15:22:58+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Semicon India",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Amitesh Kumar Sinha",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "43aaa0c56bc2",
    "title": "Fibe gets SEBI nod for Rs 750 Cr IPO",
@@ -2428,23 +2467,6 @@
    "alerted": false
   },
   {
-   "id": "a7e803c43429",
-   "title": "Meta Agrees To Report CSAM Cases To Indian Authorities Amid Govt Scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG1JX1A0YkJRc1lidHRpellWRE1vcHF1d1dIcGVsSnpMeVF0RmJZaGdjNzlKZGc4MlhBdThaQ2htYzlFSENfdFZ2aVRVdjcwWHBWamloOFowekI1TmV3NTFmUGwwNkVtd1A1QWsyRnJWZF9qcGpUSUhfRTZzcTFReFJkUzZIb284VHozVzFYemNZeDVsOHdHSHVBc1BPUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-15T04:50:24+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta Agrees To Report CSAM",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4355024e32db",
    "title": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-1b-to-expand-access/articleshow/134252225.cms",
@@ -2465,23 +2487,6 @@
     "expansion in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3bd1d72fd89a",
-   "title": "RBI files caveat in Bombay HC amid Tata Sons listing matter: Report",
-   "url": "https://www.livemint.com/companies/news/rbi-files-caveat-in-bombay-hc-amid-tata-sons-listing-matter-11789447046739.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-15T04:41:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "RBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0e6ce02aebab",

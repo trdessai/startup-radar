@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-15T02:48:57.378110+00:00",
+ "generated_at": "2026-09-15T02:58:23.327375+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 14,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 19,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "98cc47299329",
+   "title": "Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough",
+   "url": "https://economictimes.indiatimes.com/tech/technology/trump-agreed-to-new-ethics-rules-to-get-a-crypto-bill-across-the-line-but-that-might-not-be-enough/articleshow/134250634.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T02:51:23+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Trump",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "40960b0496d9",
+   "title": "Doomers and boosters: who's who in the AI wars",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/doomers-and-boosters-whos-who-in-the-ai-wars/articleshow/134250599.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T02:49:26+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Doomers",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "abbed47246c2",
+   "title": "Waymo, Japanese partners target driverless taxi service in Tokyo in 2027",
+   "url": "https://economictimes.indiatimes.com/tech/technology/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027/articleshow/134250460.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T02:39:58+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "Waymo Japanese",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
   {
    "id": "f891ecab4d5c",
    "title": "Apple\u2019s Siri AI Gambit, Moneyview Trims IPO Size & More",
@@ -110,6 +161,23 @@
    "alerted": false
   },
   {
+   "id": "0497f2d4f138",
+   "title": "Satin Growth Alternatives",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNzJ6cXhTai1fY0RYTGNGUHk3aEpNVzJzb18taHFYcjNLMG9BeXVNWnptVEtXc29GczJaMlpRSEppZ2hkTmctcnRSejl4UVZMeXNOOUozZ0pMZTZ5eFhfTE9WR1lWZG5mY0tnaA?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-15T01:23:24+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Satin Growth Alternatives",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
    "id": "5794f453356e",
    "title": "SGN Retail",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zS2Fmd1BGeFlvblU3dFZCdFlwWlRzMWQ2aXA0YmFPa3k5OS10TGk2VlhuRnEtQ3JDdTMzZ2Z2LWhER194Q2wtZ1NPSE5aRDJa?oc=5",
@@ -159,6 +227,23 @@
     "no clear event"
    ],
    "alerted": false
+  },
+  {
+   "id": "c56529bc760d",
+   "title": "India Inc seeks legal safeguards as agentic AI raises liability risks",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1diZW1sYXZJRk94T0V2U1Q2N3hVbnRsb0dwTkNXX05iZndTd2V2RS1rWE5VRHZIYUJyOGJsckhlSVJlQmRRSnJfb01KTDZYQi03ajBBRzBmZWU2V09RR1pCc2c0ZGhlbGtfMUh0RTMxU3hqb3g1eGZfTktWb1I1WEFyenE3VHRsMnpzRDA1STR5VFRuN1dTaDdNU2hjUk9scWRpVnlPZUhEOWdwYVlHS0szWkd2YkVWMkJramxyTWJlVzBBVEVxV25zX3VZUWVUekhsY9IB2gFBVV95cUxPY0NmOFhlMXp0c203dlpPR3ZrclVBendTSEpnbnBYdVFvQlAwZkF4ek0zMXExM1dnekVxRUxJYXlZQW1pdUxzMW1pOENaMXRnS05TN0taTndZNFJaN0xQUi1jMXBLd1NpWUgtMFVxTFhiV1d4NUlleERWZmNlRjBOemY3QXRYdGxVLU9WRmtQQUZTUnIwV0hnVW9mRkV6d1lQMm52bnV2M2ZhTV9kQVVfQ1NBRkNnSG5adWxrbV9FaW9zSnpfOXJGTUpaSVNNWVFOa2hwRjI5OEZpQQ?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-15T00:30:00+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "India Inc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
   },
   {
    "id": "a83cc7cf4cfa",
@@ -2092,45 +2177,6 @@
    "alerted": false
   },
   {
-   "id": "2beeaccd3b80",
-   "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-state-newspaper-blasts-anthropics-calls-to-slow-ai-as-cold-war-tactic/articleshow/134232273.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T04:25:06+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "China",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sam Altman",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d8f1a0b48b99",
-   "title": "Anthropic tells investors it will be profitable for second straight quarter",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter/articleshow/134232276.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T04:19:00+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ec5b93499ee4",
    "title": "Former EY exec's Rootd Ventures rolls out debut fund to back deeptech startup",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0luelBqMTIyeWlWYTdUSURta2RmTFhhZ3g5WG9FRVNRQ2FGTzhHWW1oMUVPa29nRkVNMVJCNU5SRV9nSGhFUDFZQV8tQ3E1SWp6OUh0NGlTTkZ6QnVENWJWalowYmJQUTdRY1NBZmNHTS0tYjNGbnl1ekJfMFhFUk9Uc0ctTXcteVVyaURkWnJMbTM2ajNFR09DVGVJRGoxdDdF?oc=5",
@@ -2146,23 +2192,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b5f634d8580b",
-   "title": "RBI rejects Tata Sons request to avoid public listing",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0x4cU1DQWFUTHkwdmdKN1BCTVBJTm54S01BWk5mOXprcF9WdGdnZGo4eWZVR1cxRGRMT2hlMndMLXdHMklzM0tZYVo4OUc4akliemp4dks4SnllWF85aS1sNERrSE5IYUYzTXRVZEkyZjlzR1VETmpPelJZMW1qNTdtOA?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-14T04:06:13+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "RBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f071b2846747",
@@ -7050,23 +7079,6 @@
    "founders": [],
    "reasons": [
     "acquisition"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bb089be46b69",
-   "title": "EU probing OpenAI agents' takeover of German site",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-probing-openai-agents-takeover-of-german-site/articleshow/133904417.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T02:56:00+00:00",
-   "score": 63,
-   "category": "acquisition",
-   "company": "EU",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

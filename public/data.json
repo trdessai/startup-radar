@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-15T16:32:21.354554+00:00",
+ "generated_at": "2026-09-15T16:46:40.806639+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 49,
-  "fresh": 0,
+  "fresh": 3,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "fc601a09a1de",
+   "title": "Fibe gets Sebi approval for Rs 750 crore IPO",
+   "url": "https://economictimes.indiatimes.com/tech/startups/fibe-gets-sebi-approval-for-rs-750-crore-ipo/articleshow/134268824.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T16:30:25+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Fibe",
+   "amount": "Rs750 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs750 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a79cab5d6e92",
+   "title": "CCPA Orders Detailed Probe Into Apple Over iOS 18 Software Issues",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3BZUTV5QnBQd3VUOXFDZHY2Y0FfOTZleENlNW5OS3ZVa1VlOGdFbUpfOXZjUEhHalBfcFd1bU1ULW1saEpFNXJhWVRkQkhNZHhCQngxbUJjWWJMZThXTlIweEZCdk5qSUZJTHdlTUl5RjVIUWZ3TVllMlJhNWt1ZnlTazBEY3FSUjI2N2p1aHBNZWc?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T16:27:59+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "CCPA Orders Detailed Probe Into",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3fa1d97f0a42",
    "title": "DRDO Unveils New Push to Bring MSMEs and Start-ups Into India\u2019s Defence Technology Ecosystem",
@@ -2371,23 +2406,6 @@
    "alerted": false
   },
   {
-   "id": "52cc505763e3",
-   "title": "What changes when Meta reports child sexual abuse cases to Indian law enforcement",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlVWaWd0c1R2X0VQV2dEclR6UUJ3YlBxN0FCVjduNmNiZTk0YXVSZDZtckkwRmc0ejBQMTN5dlVUMEFoVDdRTVEzcEZPWFJBZ0pYNHowVkJoaWw0d1dpZW5sWVZ5V3NvMFpLb3hhY1c3MXg0enZJbTFhRmd6ZldYOA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-15T06:22:58+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "What",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "75ae8bf816fe",
    "title": "ABB launches digital platform for optimizing water network operations in India",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVY5VGw4WkJLNmlaMnFpRWljSHdKbUpLUlBkYUloc1NPZzAxVGE4eXJFbnFIU2NNZHpLM3JXSnViYllkTzNNbURwc0VHSGJQXzV0ZFg0cHl3ZUdoWVJ2NDZ4bXFwdWZlZVFiNXRNNFFacnV1VTk4WDNCQkhRWXV1QU1aN29JQzkzZk9aZ2VmNVNha0VTUThJeDlJcXVnY0xLVW5F?oc=5",
@@ -2403,23 +2421,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b17f884b4312",
-   "title": "Ex-Synapses VC Karthik Chandrasekar returns to Sangam, new fund in works",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEtyUjg0Szh1RnhDLS1mb2dKalhITHl4RnBJWkhKRFc4QUxLcEZjSVJNcTYxMGNqNVVrT3FmckpjNmYwN21leE1KakNTX0IzSjIxeFBXNGtVeHZHU1RtMmlvSk93dXJzUEY2SVdZbVZONndLejlhOEQ2ODJNUDgzMW1QUXNMaUJzcU11eXY5TkY0VGFXdVVQSUNQVQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-15T06:01:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Ex-Synapses VC Karthik Chandrasekar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "8fa302377890",

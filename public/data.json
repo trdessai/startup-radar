@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T14:35:49.655805+00:00",
+ "generated_at": "2026-09-15T14:47:20.587163+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 64,
-  "fresh": 2,
-  "alerted": 1
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "07559fd68276",
+   "title": "Tata Trusts may urge Tata Sons to seek RBI review of public listing order before legal action",
+   "url": "https://www.livemint.com/companies/tata-trusts-to-urge-tata-sons-to-seek-rbi-reconsideration-on-public-listing-order-before-pursuing-legal-action-11789476679910.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-15T14:45:20+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Tata Trusts",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "7d4d9a64473a",
    "title": "Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC",
@@ -7087,23 +7104,6 @@
    "reasons": [
     "acquisition in headline",
     "$400 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9eb9229b9a59",
-   "title": "'Father of the Pentium' returns to his professional launching pad",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbmJURl9uZi01cTh4ZnU1NGw1REN2c0J5Nm04bWltbkxXN1duM2dDRWV5S1RqUUYwQzY5OEVfQkVkSHMzeE9kWTB0ZjltRHY0QkIwZU9lOGJVeGQ4MkN2QzVTT215UQ?oc=5",
-   "source": "University of Cincinnati",
-   "published": "2026-09-08T14:47:04+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Father",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

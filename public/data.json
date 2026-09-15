@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-09-15T11:40:36.908338+00:00",
+ "generated_at": "2026-09-15T11:51:58.839111+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 68,
+  "fetched": 66,
   "fresh": 3,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "b1239f357d39",
+   "title": "India\u2019s semiconductor funding reaches \u20b91.34 lakh crore, but capital flows into fewer players",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaWVSSjlwbmZMYXR5endpVl92T2ExZTR5UWxtSVloMkhxUnBZWkpNQjhpZ1ZlUDZaYjhIMXhIQlJ4NzFITVZ0bEJ1UUJpQl9PZkxKUkszMWNRT3ZER3pkQ2VSRGFKYnU0MWVMTXFnQlZ6amUyUmh6MzFObHpONGRfbmNBSkxxMnFTRnlIWWU5Z2xnYWdpLXJHOGRDV0J3RGJCUm9EMV9PRTJzMWtQMUcxN1FXX3BISjhoTTZmSUZ3YWw5bWtEV1ZxdXVNY1JCTm16Zk9ZdXpLQ1hiRlJIczZjLTlYYnhkQ2YtcmNBcHh0d9IB9AFBVV95cUxOWTVjemYxcDJfTVp1dER1WFlYcEZfNThUZy1RNTJQc3R1RnRRcENrM3J6MGVyb09fTmN1N1hGcnRVSHpuWUwyS3BtX182cmpJaUVQelRMcGpiRXhzQUFlT2pfQnlMclhUVHdSeWJqUzlSQmE1WHhUUjFsOFgzX0lFTHNmcTAyZThPZ1NkeG9IMml2b3I5QlBCbDIyMlVFXy1ZUjBKM2pvYVBtTkx1Z2VzZEdlbjZTV21wQjZITGtoOVhZQ0ltelRwSDZaTFVGUDJabUQ5azhlemZNNmwwX0VjcUtoSDBBaHhwaVlJeUpJSDZGNXFs?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-15T11:38:35+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "India\u2019s",
+   "amount": "\u20b91.34 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b91.34 lakh"
+   ],
+   "alerted": true
+  },
   {
    "id": "7e0b13d14dfc",
    "title": "Gates Foundation pledges $1 billion to drive AI equality globally",
@@ -22,6 +40,23 @@
    "reasons": [
     "no clear event",
     "$1 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "29c9ffb9a7f4",
+   "title": "Delhi HC seeks OpenAI response in ANI case: Here\u2019s the timeline",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6emphZDZRWVVUNVZDZnE1WUdfd2owYnlLeS1zbjRNRWxRNk5xdTAwbTFpd1gydFpHdXpYaVpqVF9EbTB6MmpqZTBkMHpNTzZ0M2UtTTFLcTJxZURYRUNOa1E2NWNxTFBiMmlmYVZRWFc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-15T11:31:28+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Delhi HC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -597,6 +632,23 @@
     "no company named"
    ],
    "alerted": true
+  },
+  {
+   "id": "373c2397673a",
+   "title": "Google faces police questioning over 500,000 fake Gmail accounts used for bomb threats",
+   "url": "https://economictimes.indiatimes.com/tech/technology/google-faces-police-questioning-over-500000-fake-gmail-accounts-used-for-bomb-threats/articleshow/134260858.cms",
+   "source": "ET Tech",
+   "published": "2026-09-15T08:50:27+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "049bc02b18e0",
@@ -2330,58 +2382,6 @@
    "reasons": [
     "no clear event",
     "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "151a9ef3e9ff",
-   "title": "Can Apple\u2019s iOS 27, Siri AI Fuel Its Next Subscription Push?",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUhlTXJWTEdpQkJ5cHRtQVhzZndkb3FkRVhIYXJRUmJfeUZKLTYwVlpWUnZPMVFKM05yQVFRQ21pMV9IQzllZ2FmeXNxc251ZE9LTmxLV0xzS2N0YWlwbTJFdW4wdFJFY3duNDFqaTFiRjV1WTMxcGt3dl9VVHNRbXY0a1FCd3ZVNE5kTGd3?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-14T16:16:56+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Can Apple\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6bd2f5adb0df",
-   "title": "Waymo opens robotaxi service in Las Vegas",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDRidnM4S3JQOERUR0Z4VUtfdERybjc1UXA4Rkd2U09mX0Q1VGJHM2IwYmJuVlRWZHJXZzVfaXU3QVVwcElrTzd1R0JZQ1pnekIyMWM4ZHgzZW5sQjVfNWU3US1uQmpWeXVORWxseXpiWXd0dVl1ZFFPX2NRQnR0Z1hB?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-09-14T16:04:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Waymo",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "45675bcc9988",
-   "title": "Expert Calls For Human Accountability In AI-led banking at Global Fintech Fest",
-   "url": "https://economictimes.indiatimes.com/tech/technology/expert-calls-for-human-accountability-in-ai-led-banking-at-global-fintech-fest/articleshow/134243902.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T15:46:57+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Expert Calls For Human Accountability",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
    ],
    "alerted": false
   },

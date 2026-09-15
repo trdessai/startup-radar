@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-15T03:37:34.261687+00:00",
+ "generated_at": "2026-09-15T03:49:19.027384+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 2,
-  "alerted": 1
+  "fetched": 25,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
   {
@@ -23,6 +23,23 @@
     "launch in headline"
    ],
    "alerted": true
+  },
+  {
+   "id": "b334bb971464",
+   "title": "Yesterday I sought to change the world, today I change myself",
+   "url": "https://yourstory.com/2026/09/change-the-world",
+   "source": "YourStory",
+   "published": "2026-09-15T03:30:00+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Yesterday I",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
   },
   {
    "id": "b4b2e68b2eef",
@@ -2149,23 +2166,6 @@
    "score": 18,
    "category": "other",
    "company": "GEF Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2bcc1e5bfb00",
-   "title": "Exclusive: PhysicsWallah founders, Udaan\u2019s Sujeet Kumar to back Furnishka\u2019s fresh fundraise",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGl3aXN4bFpDLTEtbmhSOThmTlJKWUxPM1hiWFktT0FTOThEUlpiSlhZTnQ5NzE3SVQyX2RJd2VJeGZJTVZ2QTNNbTgwZHVGNUNFcGZFbzRZbERrU0pxVXhDU0JyWjVUZkIySVBsbnA2WG9zS1hqQk91NTRsLWdPSHFjbHlEQU5SMW5IYnhhWm9WTmhmQWJOa2tFTlNwQm05SENUQTVqbE83cHVzaGZTOXlqamVuSUMwcXlzelc2Tko5MTVDTHfSAcYBQVVfeXFMTzBpd2lzeGxaQy0xLW5oUjk4Zk5SSllMTzNYYlhZLU9BUzk4RFJaYkpYWU50OTcxN0lUMl9kSXdlSXhmSU1WdkEzTW04MGR1RjVDRXBmRW80WWxEa1NKcVV4Q1NCclo1VGZCMklQbG5wNlhvc0tYakJPdTU0bC1nT0hxY2x5REFOUjFuSGJ4YVpvVk5oZkFiTmtrRU5TcEJtOUhDVEE1amxPN3B1c2hmUzl5amplbklDMHF5c3pXNk5KOTE1Q0x3?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-14T05:48:50+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "PhysicsWallah",
    "amount": "",
    "stage": "",
    "founders": [],

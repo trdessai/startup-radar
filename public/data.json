@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-15T04:49:28.250030+00:00",
+ "generated_at": "2026-09-15T04:58:30.269599+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 32,
-  "fresh": 2,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "a7e803c43429",
+   "title": "Meta Agrees To Report CSAM Cases To Indian Authorities Amid Govt Scrutiny",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG1JX1A0YkJRc1lidHRpellWRE1vcHF1d1dIcGVsSnpMeVF0RmJZaGdjNzlKZGc4MlhBdThaQ2htYzlFSENfdFZ2aVRVdjcwWHBWamloOFowekI1TmV3NTFmUGwwNkVtd1A1QWsyRnJWZF9qcGpUSUhfRTZzcTFReFJkUzZIb284VHozVzFYemNZeDVsOHdHSHVBc1BPUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-15T04:50:24+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Meta Agrees To Report CSAM",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3bd1d72fd89a",
    "title": "RBI files caveat in Bombay HC amid Tata Sons listing matter: Report",
@@ -7056,24 +7073,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b39168137516",
-   "title": "Australia threatens hefty fines if big tech fails 'duty of care'",
-   "url": "https://economictimes.indiatimes.com/tech/technology/australia-threatens-hefty-fines-if-big-tech-fails-duty-of-care/articleshow/133907660.cms",
-   "source": "ET Tech",
-   "published": "2026-09-08T04:49:42+00:00",
-   "score": 80,
-   "category": "launch",
-   "company": "Australia",
-   "amount": "$78 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "$78 million"
    ],
    "alerted": true
   }

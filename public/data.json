@@ -1,12 +1,232 @@
 {
- "generated_at": "2026-09-16T15:30:59.980197+00:00",
+ "generated_at": "2026-09-16T19:02:16.077892+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 45,
-  "alerted": 13
+  "fetched": 25,
+  "fresh": 14,
+  "alerted": 8
  },
  "items": [
+  {
+   "id": "b3f43f9a39ac",
+   "title": "Revolut hackers demand $3 million ransom: FT",
+   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-hackers-demand-3-million-ransom-ft/articleshow/134295119.cms",
+   "source": "ET Tech",
+   "published": "2026-09-16T18:33:21+00:00",
+   "score": 35,
+   "category": "other",
+   "company": "Revolut",
+   "amount": "$3 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$3 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0a5b80839ca6",
+   "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-fold-claude-ai-features-into-one-interface-launches-document-tools/articleshow/134293800.cms",
+   "source": "ET Tech",
+   "published": "2026-09-16T17:40:05+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "10b07bf50560",
+   "title": "Liquid Compute raises $15 million to build regulated AI compute trading market",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeC1NZW54ckh6UTlCdV9jQ0RKalhnRWJ1NE5qbHcwdFk2NWZhaXlpN0tZYzRTV3BmQzlvVzRaYTFqMGVsS05ySThIaWhWckJPdmlhMWU1RG5McUp5cXlTWndZcXBfYzdtY0NXdWRLTXJ0czZpT1ZQeVRyY28xX0ZqWVk3UVJmRHZIUEpaYzVZdDJncEFrOUk3ano5QnJwaDJKRTRCbEFaZzk2VjJvdlJUcmFtaWY?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-16T17:27:59+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Liquid Compute",
+   "amount": "$15 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$15 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ab3b45f3adfd",
+   "title": "Why good grammar can make people think you used AI",
+   "url": "https://yourstory.com/2026/09/why-good-grammar-can-look-ai-written",
+   "source": "YourStory",
+   "published": "2026-09-16T16:56:38+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "da68870013f5",
+   "title": "New MDR norms for UPI to add more revenue, bottom line to business: Paytm CEO",
+   "url": "https://economictimes.indiatimes.com/tech/technology/new-mdr-norms-for-upi-to-add-more-revenue-bottom-line-to-business-paytm-ceo/articleshow/134292144.cms",
+   "source": "ET Tech",
+   "published": "2026-09-16T16:16:28+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "MDR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8bdbd7b87a3b",
+   "title": "Ex-Infosys CEO Vishal Sikka\u2019s startup Hang Ten Systems raises $53 million",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-infosys-ceo-vishal-sikkas-startup-hang-ten-systems-raises-53-million/articleshow/134292121.cms",
+   "source": "ET Tech",
+   "published": "2026-09-16T16:11:09+00:00",
+   "score": 85,
+   "category": "funding",
+   "company": "Ex-Infosys CEO Vishal Sikka\u2019s",
+   "amount": "$53 million",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Vishal Sikka\u2019s",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding in headline",
+    "$53 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1dc13b2b27ec",
+   "title": "Peak XV sells 1.47% stake in Groww for Rs 1,756 Cr via bulk deal",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUxxTzZtcm8yNnE4TkJST2piTEwyVjl6a1dmVkY0UjRCZjdPbktRdGpoTXNXQ2F0cVNuOVRiNm1FMl9QcFVQRi1UZGM1Z0QtbUdmanhnYmFfS1g3N29JR2Y3dzBnZzRoVUgyUjlqNGNmNFZ5TXNaX1NYYXM4TVFrWTFQVVhsNFJXQnhuQi1wSVFMTWZfMEFRcGU1QjjSAZwBQVVfeXFMT3lMcU82bXJvMjZxOE5CUk9qYkxMMlY5emtXZlZGNFI0QmY3T25LUXRqaE1zV0NhdHFTbjlUYjZtRTJfUHBVUEYtVGRjNWdELW1HZmp4Z2JhX0tYNzdvSUdmN3cwZ2c0aFVIMlI5ajRjZjRWeU1zWl9TWGFzOE1Ra1kxUFVYbDRSV0J4bkItcElRTE1mXzBBUXBlNUI4?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-16T16:09:59+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Peak XV",
+   "amount": "Rs1,756 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1,756 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3a9a8f00460d",
+   "title": "EQT Group to ramp up India presence with $50 billion investment plan over next four years",
+   "url": "https://www.livemint.com/companies/news/eqt-group-to-ramp-up-india-presence-with-planned-50-bln-investment-by-2030-11789568380262.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-16T15:50:47+00:00",
+   "score": 58,
+   "category": "expansion",
+   "company": "EQT Group",
+   "amount": "$50 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "$50 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "163832439064",
+   "title": "APAII launched with 30+ angel funds to strengthen early-stage funding for startups",
+   "url": "https://yourstory.com/2026/09/apaii-30-angel-funds-strengthen-early-stage-funding-for-startups",
+   "source": "YourStory",
+   "published": "2026-09-16T15:47:22+00:00",
+   "score": 71,
+   "category": "launch",
+   "company": "APAII",
+   "amount": "",
+   "stage": "Angel",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Angel"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1888da94e980",
+   "title": "Hyderabad-based PC game publisher 1312 Interactive raises $1 million in seed funding round led by T-Accel",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYlJWZlpQX1RqdEl5UEdQbVBZRDhOd3dIVVE4SWluR3cyM01BYjNCdy1NYlVxZ1M3TXNOdVVmYUZ3aVRlRG9EaUk3cmR5X2R3ejdyQlpsOUJ4ZnRRRGpmRUpQRDZXdEx6SzZSaGkzbkdXYlNOTDRLTzR1MXZCYkdUcUdKMjJjTndsMWc5MjJCVG8wZVE1MFdEZDk3Ump0ZDBaYXk3Y1VKNzZMdVQ1enpmLTRyTmlBTTdnZHl0eW5rcWlPdXV5MUZoUS04TzJ6RjNCWGh5ZkxKY2w2bFBnVll3SWJkakhCcDFJSHRoT2l6c2w4T3FGQ3FmRXVBV1hudGxteDB3NVZqQWIxYmswYTI0UXBoZ19FQVFWYUhGTlJEcHRnRlc4YVVhbzgtbDc0Y1RIT0Z5U0RUR3d6Z09DTGNRbTdyVkXSAcQCQVVfeXFMT2JSVmZaUF9UanRJeVBHUG1QWUQ4Tnd3SFVROElpbkd3MjNNQWIzQnctTWJVcWdTN01zTnVVZmFGd2lUZURvRGlJN3JkeV9kd3o3ckJabDlCeGZ0UURqZkVKUEQ2V3RMeks2UmhpM25HV2JTTkw0S080dTF2QmJHVHFHSjIyY053bDFnOTIyQlRvMGVRNTBXRGQ5N1JqdGQwWmF5N2NVSjc2THVUNXp6Zi00ck5pQU03Z2R5dHlua3FpT3V1eTFGaFEtOE8yekYzQlhoeWZMSmNsNmxQZ1ZZd0liZGpIQnAxSUh0aE9penNsOE9xRkNxZkV1QVdYbnRsbXgwdzVWakFiMWJrMGEyNFFwaGdfRUFRVmFIRk5SRHB0Z0ZXOGFVYW84LWw3NGNUSE9GeVNEVEd3emdPQ0xjUW03clZF?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-16T15:43:00+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "PC",
+   "amount": "$1 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f9ee091ff4ec",
+   "title": "Peak XV Partners Sells Groww Shares Worth \u20b91,756.2 Cr",
+   "url": "https://inc42.com/buzz/peak-xv-partners-sells-groww-shares-worth-%e2%82%b91756-2-cr/",
+   "source": "Inc42",
+   "published": "2026-09-16T15:34:04+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Peak XV Partners Sells Groww",
+   "amount": "\u20b91,756.2 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,756.2 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e83fe1c8f62d",
+   "title": "Beauty discovery startup Firi has raised $3 million in a seed funding round led by 360 ONE Asset, with participation from Better Capital, Kunal Shah and several founders and operators. Founded by former Uber operators Karishma Rathaur and Vivek Madani, t",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ak9sZDYzVVBDVUxDdU52NGdiRzVfRnJLQlRXVEVvWmJyYWEteVlwc05haldYQzV4VkhwdDF4ejZ0dUZHSEZHQjlLWGsyQTNQZ3c?oc=5",
+   "source": "instagram.com",
+   "published": "2026-09-16T15:29:33+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Beauty",
+   "amount": "$3 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$3 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "e6f7edf6ebef",
    "title": "UPI In August: Navi\u2019s Market Share Climbs To 4.4%, PhonePe & Google Pay Slip",
@@ -21,6 +241,23 @@
    "founders": [],
    "reasons": [
     "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "32d831af4c9a",
+   "title": "DeepMind cofounder warns AI capabilities must not outrun safety controls: FT",
+   "url": "https://economictimes.indiatimes.com/tech/technology/deepmind-cofounder-warns-ai-capabilities-must-not-outrun-safety-controls-ft/articleshow/134291301.cms",
+   "source": "ET Tech",
+   "published": "2026-09-16T15:23:26+00:00",
+   "score": 54,
+   "category": "funding",
+   "company": "DeepMind",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
    ],
    "alerted": false
   },
@@ -2473,24 +2710,6 @@
    "alerted": false
   },
   {
-   "id": "1bf6592bfa50",
-   "title": "CCPA Penalises Rapido Over \u2018Advanced Tipping\u2019 Prompts",
-   "url": "https://inc42.com/buzz/ccpa-penalises-rapido-over-advanced-tipping-prompts/",
-   "source": "Inc42",
-   "published": "2026-09-15T15:05:36+00:00",
-   "score": 35,
-   "category": "other",
-   "company": "CCPA Penalises Rapido Over Advanced",
-   "amount": "\u20b910 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b910 Lakh"
-   ],
-   "alerted": false
-  },
-  {
    "id": "3d73fa6c1c02",
    "title": "Govt sets 0.4% fee on UPI merchant payments above Rs 2,000; caps charge at Rs 300",
    "url": "https://yourstory.com/2026/09/govt-sets-04-fee-on-upi-merchant-payments-above-rs-2000-caps-charge-at-rs-300",
@@ -2506,76 +2725,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "1665a258339b",
-   "title": "Rebel Foods Cuts FY26 Loss By 16% To \u20b9282 Cr, Revenue Jumps 21%",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3pEeXVHdXRnWFdTWFdXeDhmREdWOVA2VkE5N19scExBX2llTDRlX2t0S1JkbGN3aGt2MUlUNEVyY0xKajhDVDd5cnR0T1ZtX3VURm5DbWxfa0p5NHlDcVJVWjZzN2x3djVyTFM1d0xnV1JZdVNETnd4UWVXT3hHRkZxOExyRXpDSkhrQkJ2X1B0VE9mVEY0?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-15T14:57:19+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Rebel Foods Cuts FY26 Loss",
-   "amount": "\u20b9282 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9282 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "178a2167262d",
-   "title": "- MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zcThaRzRXb09KVmx0ZFoyTUtXMUVhZUllV3BYakZkdUhJNUVkUkRLUHI1WS1CaXc3QkhEUVBxcUxUel91SmRlTGVMb3dtVDJuaUl2MmtkSnl4dFBDdnVKRU9Yblc?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-15T14:57:00+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1d5bc4b1dcdf",
-   "title": "Jio users to get Canva's premium design tools free for a year in Indian languages",
-   "url": "https://yourstory.com/2026/09/jio-users-to-get-canvas-premium-design-tools-free-for-a-year-in-indian-languages",
-   "source": "YourStory",
-   "published": "2026-09-15T14:55:11+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Jio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cfb9ed1f4a8b",
-   "title": "OpenAI is working with Anthropic, Google on AI safety: Bloomberg News",
-   "url": "https://economictimes.indiatimes.com/tech/technology/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news/articleshow/134267292.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T14:53:28+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f9f38d9cf832",
@@ -2594,91 +2743,6 @@
     "100 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "ef31acd46f34",
-   "title": "From sand to the chip in your phone: India's semiconductor chief explains every step",
-   "url": "https://yourstory.com/2026/09/semiconductor-chip-made-explained-ism-amitesh-sinha",
-   "source": "YourStory",
-   "published": "2026-09-15T14:50:06+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Amitesh Kumar Sinha",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "07559fd68276",
-   "title": "Tata Trusts may urge Tata Sons to seek RBI review of public listing order before legal action",
-   "url": "https://www.livemint.com/companies/tata-trusts-to-urge-tata-sons-to-seek-rbi-reconsideration-on-public-listing-order-before-pursuing-legal-action-11789476679910.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-15T14:45:20+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Tata Trusts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7d4d9a64473a",
-   "title": "Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC",
-   "url": "https://inc42.com/buzz/novastar-partners-backs-pre-seed-stage-focused-vc-firm-ajvc/",
-   "source": "Inc42",
-   "published": "2026-09-15T14:10:46+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Novastar Partners Backs Pre-Seed Stage",
-   "amount": "",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Pre-Seed"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3ed8799b80b4",
-   "title": "AI will be the great equaliser only if India gets four things right: Gates Foundation CEO Mark Suzman",
-   "url": "https://yourstory.com/2026/09/gates-foundation-mark-suzman-india-ai-four-things-interview",
-   "source": "YourStory",
-   "published": "2026-09-15T14:10:11+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "",
-   "amount": "1.4 billion",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Mark Suzman",
-     "handle": null
-    },
-    {
-     "name": "Gates Foundation",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "1.4 billion",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "135c00c6c060",
@@ -7065,79 +7129,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3f7b5436f5d5",
-   "title": "Flipkart Debuts Standalone App For Quick Commerce Arm Minutes",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BsaWZZdVMzTG1wazVSaVNTVkRFYmFTcTA2ZDE4MmxuTGFITi1QbVRHd2Q5OXhCMEIwQ0VDTEh0RlIyOWttcmhneElIUFc2S3FscnNKblV0eE91dWdQdUVQTHAwLUFGQXZfenNqcXNXTFJ0QmFEUEpwRFl5N2FPVmZQWTdEYWpXVFRCOVRreGFHUkIt?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-09T16:39:58+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Flipkart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "62647b7fbd3d",
-   "title": "Jio Introduces New RCS Business Messaging Rates For iPhone Users In India",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUc5TkVGdzhKZEtMZXRrWU9hYWRTT0lfamFwQndaYUFvZzlzN2hqVG9CMjBFQnVqdlNWbmNrRzlnLWp2RV9URGM3X0hmVkl4bjNMUVNmQmpFaUpXMlV1eXRlU2hnLUVSSTJPY3Nuc1J1RVgzVzR3Mjk3YXlacDZzZk5xaS1zdmZ3ZWxMQVMzQ2RydWliVl9xeE93dzZ4UQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-09T16:28:43+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Jio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2a8c9a5815fb",
-   "title": "Jio Payment Solutions launches cross-border payments to connect exporters with global markets",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjRubkxQYS1xV0tsRHI2VTA1N2MxZWRoVnN1aDVWNXFCVFVtb2FHdVFMZW5KV1Y3aWJIYXJjOGhxR3Q3QUpMaWtXV2FKdU9RVnA2aEpxcjkxTldMeTV4OG95QjZCVTdzc2RuTERLak1VaDVRQWVoU2pWSDhGTG5CS1hZLU5VUmRoUzF5U19IX3pzdFQxMHB6Q2FNejRDMDFVdGxJLXNXWDN5TUtsMEItZFZDZmVyQV9KWTZrRzBtRV9tWFpOUXB0bTNlODhiTmg3RGfSAdIBQVVfeXFMT3I0bm5MUGEtcVdLbERyNlUwNTdjMWVkaFZzdWg1VjVxQlRVbW9hR3VRTGVuSldWN2liSGFyYzhocUd0N0FKTGlrV1dhSnVPUVZwNmhKcXI5MU5XTHk1eDhveUI2QlU3c3NkbkxES2pNVWg1UUFlaFNqVkg4RkxuQktYWS1OVVJkaFMxeVNfSF96c3RUMTBwekNhTXo0QzAxVXRsSS1zV1gzeU1LbDBCLWRWQ2ZlckFfSlk2a0cwbUVfbVhaTlFwdG0zZTg4Yk5oN0Rn?oc=5",
-   "source": "PSU Watch",
-   "published": "2026-09-09T16:21:44+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Jio Payment Solutions",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c97b29cc8aed",
-   "title": "PhonePe to foray into UAE in maiden foreign outing",
-   "url": "https://economictimes.indiatimes.com/tech/technology/phonepe-to-foray-into-uae-in-maiden-foreign-outing/articleshow/133975174.cms",
-   "source": "ET Tech",
-   "published": "2026-09-09T15:53:40+00:00",
-   "score": 67,
-   "category": "launch",
-   "company": "PhonePe",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sameer Nigam",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-16T22:03:41.476425+00:00",
+ "generated_at": "2026-09-17T00:20:14.941508+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 1,
+  "fetched": 1,
+  "fresh": 0,
   "alerted": 0
  },
  "items": [
@@ -7059,41 +7059,6 @@
    "reasons": [
     "expansion",
     "\u20b9500 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "905b329adb30",
-   "title": "Ola Electric spent \u20b9229 crore as three-wheeler launch slips",
-   "url": "https://www.livemint.com/companies/news/ola-electric-three-wheeler-ev-auto-plan-11788933121504.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T00:00:14+00:00",
-   "score": 86,
-   "category": "launch",
-   "company": "Ola Electric",
-   "amount": "\u20b9229 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b9229 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "afa8fed1b0ad",
-   "title": "Rocket launches go private",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjcwQzFwUjhLcWtZU2tmcDBsOEFNbHdGbXlVdXpHQ1dacklUSURHNjVXVkQyWkNXUE5lRzhtTFFod2U2VWNRb3U0VGJ5aXp5Q2NEOVVlWHB4RTUxVlk5M0s0N0Y3c29ZVjhZdGtJRTBTcXpfS3VJaGhtYzF4TW1XVkduM2RCYkNhbExuTVJWV0hZcWtpMmMxQXZTVzdfeVlael9Ra0szQ2M4a2Q4SDM2RlBkWkw3UdIBuwFBVV95cUxPcmhIdVNTVExqYTZyUkpSWFJmNVFDLWVmS0dOVWpxZERJV045V1BQMFMtY2lVVTZUZlM0Mk1wTVpVVkd3OElIQUJ0VmZuOE8tay0wS1VoREdRUDFURndZa29CVlpMb0d0Tko2ZGFDaUVJMktwYU1GN3RSX0RHNHdEVHpVczhxZHBPdFMwREdJZFpsZFVudFVib1N2WVhvcUUyaVFaT0dZRVpIY0UtTkZQTTZlSlAxaC1aeUJ3?oc=5",
-   "source": "Business Standard",
-   "published": "2026-09-09T23:10:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Rocket",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

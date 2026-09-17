@@ -1,12 +1,344 @@
 {
- "generated_at": "2026-09-17T00:20:14.941508+00:00",
+ "generated_at": "2026-09-17T05:02:16.429007+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 1,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 26,
+  "fresh": 20,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "cceaf22d0224",
+   "title": "NSE raises Rs 6,746 Cr from anchor investors ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnB1LVlfdzlUYVZaTWRfX2FSXzVsN211SnBDUktqWlo5SkREcjdDelF3RGFULUNnbm9vS3NoRS1XN08xUzZfZDFDN3RSNHYzM2kweDRUUFFGNTFYNmN4NGFNTVFHa0o4d1FsbUpmT2RmYUpHNGhVVG95Ny1RbHg4WlB4cXdtM2k1Vk0ydTBqY2FIWGp2aUHSAZYBQVVfeXFMUDJwdS1ZX3c5VGFWWk1kX19hUl81bDdtdUpwQ1JLalpaOUpERHI3Q3pRd0RhVC1DZ25vb0tzaEUtVzdPMVM2X2QxQzd0UjR2MzNpMHg0VFBRRjUxWDZjeDRhTU1RR2tKOHdRbG1KZk9kZmFKRzRoVVRveTctUWx4OFpQeHF3bTNpNVZNMnUwamNhSFhqdmlB?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-17T04:54:10+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "NSE",
+   "amount": "Rs6,746 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs6,746 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f866585671cd",
+   "title": "RentoMojo Makes Strong Market Debut, Lists At Nearly 19% Premium",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNlZ181SG9FUnd3cmhCZEFmdXpLRlA5V2VnQXNxYXFpOWlUWFh2VFhEQThuQ1h1b1dDYU41WlVvaHVoTWpxM2RLWFlHdE0wQ2RHR1FWYlFIVWxxTWZfUVpZZExWTWVQTmZKZVI0dURFTFJfeG5IYkg4TjhyTTFIZENwTGJLY1VBVm1SeTFiTQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-17T04:50:42+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "RentoMojo Makes Strong Market",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e4c1c1dfe96e",
+   "title": "When should AI agents need an identity card?",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PYzFwQkcxLWdvWWJQRkR4Z09GVlQ1NVpYR3ktSlZrSkJpS1h3WG1lM19UT2diQ0FRUkwxbkxaUi1xeFhueUMwandEVW5TNjJER1ZNekp5WDdPWGpLVURCNWl6alF4SXhEbGlYR1VHUQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-17T04:22:32+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "When",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "92f34738a7c7",
+   "title": "Generac, Amazon strike $2.4 billion long-term generator supply deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/generac-amazon-strike-2-4-billion-long-term-generator-supply-deal/articleshow/134301424.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T04:08:34+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Generac Amazon",
+   "amount": "$2.4 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2.4 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ea4cacd44248",
+   "title": "PM Modi's 76th birthday: 17 moves powering India's journey from Startup India to Build India",
+   "url": "https://yourstory.com/2026/09/pm-modi-birthday-17-moves-startup-india-build-india",
+   "source": "YourStory",
+   "published": "2026-09-17T04:08:30+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "PM Modi's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ba291d7e980",
+   "title": "Inside Yulu\u2019s Series C: funding breakup, valuation, captable",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE5Xd3pydllMNGhHeFZPR0JTZlVKbjNZNEFXbjFZYjRBSjI4V0RMWU83Q1hULU1MYnJ3b1ZpbncyaGpjX2diR1FqbjlxZElteUlfZUtzZ2VKZTgyNkk0RHJ3VG9CSlF5aVcweEo0LTNqTG43Zkl1aV9mUmFlTTFZTFhHOE5XR21yVURabk5wVm00S1NXeXB3SlRISdIBmwFBVV95cUxOdE5Xd3pydllMNGhHeFZPR0JTZlVKbjNZNEFXbjFZYjRBSjI4V0RMWU83Q1hULU1MYnJ3b1ZpbncyaGpjX2diR1FqbjlxZElteUlfZUtzZ2VKZTgyNkk0RHJ3VG9CSlF5aVcweEo0LTNqTG43Zkl1aV9mUmFlTTFZTFhHOE5XR21yVURabk5wVm00S1NXeXB3SlRISQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-17T04:03:59+00:00",
+   "score": 64,
+   "category": "funding",
+   "company": "Inside Yulu\u2019s Series C:",
+   "amount": "",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e263e12c201",
+   "title": "Patriarchs who won\u2019t give up control, uninterested next generation: Study finds poor succession at family-run businesses",
+   "url": "https://www.livemint.com/companies/family-businesses-succession-planning-family-run-businesses-executive-access-agamjeet-dang-srinath-sridharan-11789569987456.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-17T03:55:56+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Patriarchs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "77aabc36d979",
+   "title": "Australia launches $21m fund for early\u2011stage clean energy startups",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2YtQXowd1NRNHJuOXV3czlBUWVUWUQ0VjZ2eC1BaGNWMnV1d3pLbUFPVGJWb21fTWZ2Y3lieXYzcktubl9DWVJ2Ykx0LUJ3WlVKc3lzLW9Zdk9VQzkxc193M0VMUElBZzM4OEtsbi1BUWhHVGcwYXZaV1hLT3ZtdHlpWWNwSEFkZFEzM1hsUlIyS2Ns?oc=5",
+   "source": "Asian Power",
+   "published": "2026-09-17T03:50:40+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Australia",
+   "amount": "$21 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$21 m"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "91a2d5b7ada2",
+   "title": "Narendra Modi and the generation he set free",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVdDeldULVZSdzJmOHpRMUcxNEVWekEyVnRtM2pwYXhCbGNIQ2JIbW5zb3ZwZDAwRXNiMGZyWURFbjB2cjdEZG1fbUNodk81NWE2bDhXMWhoWG05Wk1paWJORkhNUUF5ZjhhTVlnY2VJM1RTVDhjaGlYd25Qc2NsdnhFNmZDRXFJZk96b3M5MkdzeU90VTZPblBYUzR6Z9IBqwFBVV95cUxNTUZXUXJpV1lDOTE3bTVEYmpNVGFOMEJ6RVpBTndUYmxtZXA0a0pfcmhWQ0EtSW5UT0ZURl9jR2U3R2wxTFowRVhsUXhHUnk1X1VobEJTY3QyU2tRb1UxeVpuN0owWmhNbkJqQ1dLSW1Gb1hZU1N4Z3BTR2dPMHVUY2QzNGJKYUhMMmNFaGR2aG1Ncnl4NS1EX0NjMGljNlc3M3RpakJES0RlR2c?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-09-17T03:43:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Narendra Modi",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c5e47090a7a5",
+   "title": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia",
+   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia/articleshow/134300920.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T03:35:28+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "China's Huawei",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "15123d2f83db",
+   "title": "UN chief sounds alarm on AI risk after Trump plays it down",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/un-chief-sounds-alarm-on-ai-risk-after-trump-plays-it-down/articleshow/134300260.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T03:00:24+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "UN",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "334ea60778be",
+   "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds",
+   "url": "https://economictimes.indiatimes.com/tech/technology/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds/articleshow/134300132.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T02:44:38+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cc4e01522a32",
+   "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
+   "url": "https://economictimes.indiatimes.com/tech/technology/snap-targets-enterprises-with-salesforce-nvidia-ai-tools-for-augmented-reality-glasses/articleshow/134300112.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T02:42:51+00:00",
+   "score": 47,
+   "category": "product",
+   "company": "Snap",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6ab7745cb5b7",
+   "title": "Vishal Sikka's Hang Ten Systems Raises $53 Mn In Fresh Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhLU3VKQ3V1cVZmM3BUQ2ZnN01OZGZNWmR1R0ZvUzJTeWp0MEwzclk4Z1dYZHZmd2ZnUVFIU01PTXNHMXlCeC01YzljRXczWmtWNWhQS1o5bGdkRGY0Y3luTXR2bWhqSGFiTkgzSERkTUotdWFTZ0ZDZjduTENXVmdMeGpKbzA0ZXpwdGlJRmJPLXJ0ajZ4YV9MSjI4T2gtR0hwenFnZDl6WkppM3V3?oc=5",
+   "source": "BW Businessworld",
+   "published": "2026-09-17T02:33:06+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Vishal Sikka's Hang Ten Systems",
+   "amount": "$53 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$53 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b1d0051751f2",
+   "title": "Clean Label Brands Vs FSSAI, PhonePe Eyes 2027 IPO & More",
+   "url": "https://inc42.com/buzz/clean-label-brands-vs-fssai-phonepe-eyes-2027-ipo-more/",
+   "source": "Inc42",
+   "published": "2026-09-17T02:30:10+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Clean Label Brands Vs FSSAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4fd60f295086",
+   "title": "'We're losing control,' says AI pioneer Yoshua Bengio",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/were-losing-control-says-ai-pioneer-yoshua-bengio/articleshow/134299869.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T02:29:44+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "We're",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b0f0cb181426",
+   "title": "OpenAI reveals six new cases of AI misbehavior, vows transparency",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-reveals-six-new-cases-of-ai-misbehavior-vows-transparency/articleshow/134299835.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T02:26:58+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9129ad4ca853",
+   "title": "Decoding MDR\u2019s impact; EV bikes\u2019 policy change sparks debate",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/decoding-mdrs-impact-ev-bikes-policy-change-sparks-debate/articleshow/134298627.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T02:13:50+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Decoding MDR\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "659568564827",
+   "title": "MDR on UPI: The small fee that\u2019s causing a big debate",
+   "url": "https://yourstory.com/2026/09/mdr-on-upi-the-small-fee-causing-a-big-debate",
+   "source": "YourStory",
+   "published": "2026-09-17T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "MDR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b3f43f9a39ac",
    "title": "Revolut hackers demand $3 million ransom: FT",
@@ -2513,23 +2845,6 @@
    "alerted": false
   },
   {
-   "id": "a79cab5d6e92",
-   "title": "CCPA Orders Detailed Probe Into Apple Over iOS 18 Software Issues",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3BZUTV5QnBQd3VUOXFDZHY2Y0FfOTZleENlNW5OS3ZVa1VlOGdFbUpfOXZjUEhHalBfcFd1bU1ULW1saEpFNXJhWVRkQkhNZHhCQngxbUJjWWJMZThXTlIweEZCdk5qSUZJTHdlTUl5RjVIUWZ3TVllMlJhNWt1ZnlTazBEY3FSUjI2N2p1aHBNZWc?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-15T16:27:59+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "CCPA Orders Detailed Probe Into",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "3fa1d97f0a42",
    "title": "DRDO Unveils New Push to Bring MSMEs and Start-ups Into India\u2019s Defence Technology Ecosystem",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWdQMXNGMExwWFdEbWlZOWd4ZVQyTl95ZDdacVZDbThDbjlBQ2xJdlFMMHlzSVYzaC1QMXZ2V1dWR1l2Mm9WaldSRk4yVGd2azhzbmwxMTFzRFdHclBXRl9ucWZhRURvZUJWNlBENkxoUWRUemFCQk15S2JPcFoxNUdB?oc=5",
@@ -2545,23 +2860,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "f2a44e6dc4db",
-   "title": "US Speaker Mike Johnson says no moratorium on AI, would give China competitive edge",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-speaker-mike-johnson-says-no-moratorium-on-ai-would-give-china-competitive-edge/articleshow/134268126.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T15:44:59+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "US Speaker Mike Johnson",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0f0809e4467d",
@@ -2580,42 +2878,6 @@
     "$40 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "4d6bcbf0d7b8",
-   "title": "In 2017, Kevin Durant put $250,000 into an AI startup nobody had heard of. It just sold for $12.9 billion",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPclZybG9mdVA3alFaZ2tyUm5hbGNhMzZmVVU2OTJHNV9WR011Vk5iUmxsLWlIRXhySGRrdDRPM2R2OGMwY08ycm11LUxwUWg0NUxNWWtGVDZCRHJaTTNMRG5qSm9GWWhmdXIyRk94aXNEbGhPaHplcHQySHBRem1kbWo1ZlVQT0Jna2VVNVc0RHQ1aGxpT1JsTUtfVC1fQm1SNHQ5cF9XTTF0c2lvbVZfY2daMU0zM3RySHFXVUpjcE8zdmhvYlM5V0xXN2UtM3dGaDdJeVVjQkRVRFpRclRFWFVRMmJIWWJyWWVWVV9YczlyeWtZMnlWMFhhUWpIa1BISmtndHhCeGhOdE5ZaDRYenFsdk15SExfRFhMeTBrbXNpUUxvX2QtQjk0dENWdXpaNUVjRmNCTDBIc0RwOWtzRF9QeVJ0NEZEMVBIenMzUGhnZTNhaGxZMUZIUFpzU1pwY1NaSFg5a0s3VmVGZEhz0gH0AkFVX3lxTE9Wb0dzNEQ4N2hRaEFveEhxc0VNeXN1YVlCM29JckNlVk9Ndk5hQkdnT0FzQXRTRDEyVklON3B1cXJTZFdROW5USEtjbkxFeThtbU1IcS1ZZ2FlZGRfdW5BR0NNekRoWG9QekFPdGxhejE1WUd4WVAyalRnR25oZWw2NFlpM3Qta1FYdFVTeVpiU0J6SW5fLWF5MmxzcDlDcW9tWXdJN1ZGSElZYlpyeFFnenNSOTN5Vlp6OUVucTQ1VWMtdmZOZVBON2gzeE1UT2tWRXBXQUJQNUhnUGEtaTdJR2RPSXNkazdSc3lSWEZUNUJfOGFMdmx6aEVCb28wbU1NenBET0tZWWRXR013cnVSWENfZVR1R2tBakRrYWtJWE5GYTVEUUY1ektXS0M4RS1ZN3FidXRzNTRRdFZlbnlxcW5BVVIyOWxNeVRRMVRfNWtKM04tY2xMRnBBYngtVmg0YzZpVkxRd0Y5aTNMeWQyRTROeg?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-15T15:30:00+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "In",
-   "amount": "$12.9 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$12.9 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f203fe0f7532",
-   "title": "Chip maker Applied Materials to invest Rs 3,600 crore: Karnataka minister",
-   "url": "https://economictimes.indiatimes.com/tech/technology/chip-maker-applied-materials-to-invest-rs-3600-crore-karnataka-minister/articleshow/134267880.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T15:28:56+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Chip",
-   "amount": "Rs3,600 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs3,600 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "d32deceb6426",
@@ -2651,63 +2913,6 @@
     "15 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "c62cf2e44887",
-   "title": "Semicon India 2026 opens this week. Here is what to watch",
-   "url": "https://yourstory.com/2026/09/semicon-india-2026-students-startups-guide",
-   "source": "YourStory",
-   "published": "2026-09-15T15:22:58+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "Semicon India",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Amitesh Kumar Sinha",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6e5a3cd29507",
-   "title": "Oracle begins new round of layoffs: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/oracle-begins-new-round-of-layoffs-report/articleshow/134267667.cms",
-   "source": "ET Tech",
-   "published": "2026-09-15T15:14:21+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Oracle",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "43aaa0c56bc2",
-   "title": "Fibe gets SEBI nod for Rs 750 Cr IPO",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wWlVvTXpyQ0IyTy1VR1JCNlBxY1dnb2IxMHQwNGlkcGJ0ajNmMW43TDNNQm9NZmNObVd3T1pNd3pwdFNSN2htTUNFQVhYLTVpS205NjhtQTduSGFBVGNIMU1EVXFodkJCbTZTTmtpX19zVGpsM1EyRE1WZ9IBe0FVX3lxTE0wWlVvTXpyQ0IyTy1VR1JCNlBxY1dnb2IxMHQwNGlkcGJ0ajNmMW43TDNNQm9NZmNObVd3T1pNd3pwdFNSN2htTUNFQVhYLTVpS205NjhtQTduSGFBVGNIMU1EVXFodkJCbTZTTmtpX19zVGpsM1EyRE1WZw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-15T15:13:23+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Fibe",
-   "amount": "Rs750 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs750 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "3d73fa6c1c02",
@@ -6915,150 +7120,6 @@
    "reasons": [
     "funding in headline",
     "$24 m"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a8d2dbadd87e",
-   "title": "Apple expands wearable ecosystem with AirPods 5, Watch Series 12, Ultra 4",
-   "url": "https://yourstory.com/2026/09/apple-expands-wearable-ecosystem-with-airpods-5-watch-series-12-ultra-4",
-   "source": "YourStory",
-   "published": "2026-09-10T05:00:32+00:00",
-   "score": 57,
-   "category": "expansion",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a482453601eb",
-   "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWdIBvwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-10T04:40:24+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$24 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$24 Mn",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0200f615a03d",
-   "title": "No Filter raises pre-seed round for its no-sugar fresh juice brand",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYi1vYWZNcUJEU2tsUFpGNW96MkVOZUk4bF9ROFB4Znp6SEhFcmtOSXd2U3dEdVI5Uzdyd0M4dkowQUh0Q2FKTFhXRjAzV3VsWURPRzR4eWh6aS1GdTJCbV9DTzhoTWV2LTJCeHhja3BjTGhGQnAtX1lvTmVQN0Fya29UcElYTnVFT0dZWUpEbUlxVGNkelpnS1dsZHAtRjY1LXc?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-10T04:21:47+00:00",
-   "score": 77,
-   "category": "funding",
-   "company": "No Filter",
-   "amount": "",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "893e35f271b5",
-   "title": "Apple enters foldable era with iPhone Duo",
-   "url": "https://yourstory.com/2026/09/apple-enters-foldable-era-with-iphone-duo",
-   "source": "YourStory",
-   "published": "2026-09-10T04:20:04+00:00",
-   "score": 64,
-   "category": "launch",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "610d1f17e8d3",
-   "title": "Swish raises $24 million to expand quick food delivery network",
-   "url": "https://www.livemint.com/companies/start-ups/swish-raises-24-million-to-expand-quick-food-delivery-network-11788961808550.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T03:31:56+00:00",
-   "score": 73,
-   "category": "funding",
-   "company": "Swish",
-   "amount": "$24 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "funding in headline",
-    "$24 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2c5639bc1afe",
-   "title": "Swish raises $24 million in funding led by Bertelsmann India Investments",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZm5EbDh4WnNLRE52US1JNlcxLVVmRmpBM0xJOU84bkxYMW5JeWtJQWJ0SHBCWVROVDR2aU1UbXhxNjVFbm55bHdqQXF3RDVIMHpWcGdXeXMyWWFIdkVRdDQyU3VkNEoyWUw5NC1uWVAtSUJyX0ZzaEszTVlOVVJyNkJmTEJZLTJFVTBlaURDWVlSeW82NGhmeXhLQ0xmLWV3YXlHTDVqclY0VDZMT1lNMnMxbFBTMUxORk5DT005aGdjdS02TEgyQkg0OHNGYzcwSUHSAdcBQVVfeXFMTzN6bzluYmxxSnBGVGw1Nm83OF81bm5hWjktYzNpdWRaUmxzNVdUbVZ2bWxKeWRJajdwMkd3b3pYVWFsVm1qSFo1dDhRUU0tMEozeFgxQ1ZnczBkQzNkOEZzblcxbjdsMGh2dHhVbEdIMGdvMkxoSDhJNWk4aktJZF9MTFRZSDBLQ1YwVWxjdC1ORV9PdVVnb1Z0V09EdWIxemEwU2pwU1FtckFOa0RrbmM0Q2tPdDNLYWxaSVl5NWJqMkx3NVlYRjNGU0pFR1JnSldOdC01R0k?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-10T03:31:04+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Swish",
-   "amount": "$24 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$24 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8885e9131dc8",
-   "title": "ET Startup Awards 2026: Habuild leans on repeat users to expand beyond yoga into strength training, nutrition",
-   "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-habuild-leans-on-repeat-users-to-expand-beyond-yoga-into-strength-training-nutrition/articleshow/133981425.cms",
-   "source": "ET Tech",
-   "published": "2026-09-10T00:30:00+00:00",
-   "score": 69,
-   "category": "expansion",
-   "company": "ET Startup Awards",
-   "amount": "Rs112 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "Rs112 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "de8b0c6ba993",
-   "title": "BirlaNu bets on construction chemicals, pipes with a \u20b9500 crore capex plan",
-   "url": "https://www.livemint.com/companies/birlanu-bets-on-construction-chemicals-pipes-with-a-500-crore-capex-plan-11788928781237.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-10T00:20:34+00:00",
-   "score": 63,
-   "category": "expansion",
-   "company": "BirlaNu",
-   "amount": "\u20b9500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b9500 crore"
    ],
    "alerted": true
   }

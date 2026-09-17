@@ -1,12 +1,81 @@
 {
- "generated_at": "2026-09-17T18:29:53.827237+00:00",
+ "generated_at": "2026-09-17T21:36:30.072901+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 28,
-  "fresh": 25,
-  "alerted": 4
+  "fetched": 9,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "285b1e4f4151",
+   "title": "ISM 2.0 will shift from building fabs to building the ecosystem: MeitY Secretary Krishnan",
+   "url": "https://yourstory.com/2026/09/ism-2-meity-krishnan-semicon-india-2026-packaging-rd-talent",
+   "source": "YourStory",
+   "published": "2026-09-17T18:59:17+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "ISM",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d71c88f55ec5",
+   "title": "Kissht Gets Board Nod To Raise \u20b9832 Cr Via Preferential Issue",
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+   "source": "Inc42",
+   "published": "2026-09-17T18:46:52+00:00",
+   "score": 76,
+   "category": "funding",
+   "company": "Kissht Gets Board Nod To",
+   "amount": "\u20b9832.2 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "\u20b9832.2 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "babf17ceebdb",
+   "title": "Nebius hikes AI cloud prices again as demand for computing power soars",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nebius-hikes-ai-cloud-prices-again-as-demand-for-computing-power-soars/articleshow/134320037.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T18:37:32+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Nebius",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9131dfdb5217",
+   "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-enters-ai-safety-fray-calls-for-rigorous-testing-safeguards/articleshow/134320013.cms",
+   "source": "ET Tech",
+   "published": "2026-09-17T18:35:54+00:00",
+   "score": 50,
+   "category": "expansion",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "f5ef100d4a70",
    "title": "UK silence over demand for Apple data access is farcical, lawyer says",
@@ -3397,59 +3466,6 @@
    "alerted": true
   },
   {
-   "id": "61eaa939ed22",
-   "title": "CCPA investigates Apple iOS 18 repair charge complaints",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00Rkc1blBxMk1zRk9QdWxfTUMwVkJwSHJIelM0SEVmNHpzbWxhZl9oU3RoTHZXR09ucGlsd0VLbmRLdFlNNEpseXZHU0NseEV3RTRzLWdfVE5DVFV4Szh3US1BVm9QOWZfNWxlTUNpc1M5X2RNWEtqU0w4VQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-16T09:37:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "CCPA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7eafc1313c34",
-   "title": "CCPA fines Rapido Rs. 10 lakh for dark pattern, orders it to stop tipping prompts",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMG5ZTjNBTmJ3VXZxRHRnWThlX2hNUVByNktuVzFSNXp1dU5heHdzcktWcUl5cUhWa2pNZmJfRVMyYW01ak9uOTZYYlk0cGZYY0xiUHo1VWxPN3dtVGp2WGlWVjJkOVYzUTBxVHFCY081bGE3eklXOTlhUUpTaExNQUhyVVVsUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-16T09:35:35+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "CCPA",
-   "amount": "Rs.10 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs.10 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "92ec363c7e55",
-   "title": "D2CX Converge Pune Decodes The Playbook For Building \u20b9100 Cr Consumer Brands",
-   "url": "https://inc42.com/buzz/d2cx-converge-pune-decodes-the-playbook-for-building-%e2%82%b9100-cr-consumer-brands/",
-   "source": "Inc42",
-   "published": "2026-09-16T09:30:36+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "D2CX Converge Pune Decodes The",
-   "amount": "\u20b9100 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9100 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "163d2c344294",
    "title": "Aakrit Vaish\u2019s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
    "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
@@ -3475,23 +3491,6 @@
     "$105 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "b02ff87a9fd1",
-   "title": "Future Food Quick Bites: Indian Protein Toppers, Planted at Starbucks & Google x Mitti Labs",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHJpUGxDVGdNNmRudjNuMjB1Zk9GZXFiQ1BObDMzUUQxc1dUTnh5UWNJeGc2T2o4OHNETDR2NU4zei00STNwZ2N0clEzWEhhNWRSRldHV2xUSHlsUTFtWTYzTF96ak5iZm5XRk9IbktCSHR5emIzdjJ6a2w3empqT3dMOUpxU25OQUpvYk1QUWM5a1JMNFQtSTFwZmZXS1N2UldJeFo4NjFxQjN1aGtMaGluYTVJUQ?oc=5",
-   "source": "Green Queen Media",
-   "published": "2026-09-16T09:10:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Future Food Quick Bites: Indian",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "2210621cadac",

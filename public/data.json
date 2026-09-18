@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-17T23:38:33.857625+00:00",
+ "generated_at": "2026-09-18T01:26:36.033169+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 0,
-  "fresh": 0,
+  "fetched": 2,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "32aa3a2c86bb",
+   "title": "Ammann betting on India as global manufacturing and export hub: CEO Schneider",
+   "url": "https://www.livemint.com/companies/news/ammann-betting-on-india-as-global-manufacturing-and-export-hub-swiss-road-equipment-maker-hans-christian-schneider-11789640034750.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-18T00:30:32+00:00",
+   "score": 40,
+   "category": "expansion",
+   "company": "Ammann",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
   {
    "id": "285b1e4f4151",
    "title": "ISM 2.0 will shift from building fabs to building the ecosystem: MeitY Secretary Krishnan",
@@ -3406,25 +3423,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b97c381ba527",
-   "title": "Zeropearl VC leads Rs 11.4 Cr seed round in aesthetic surgery platform TRUE ARTIS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjNCb2dBakN1THhuVDdnanM2cjVRNEZ5cG1IRm5jYXd0QUlieGhRN3BkMnVySE5yV1N4cDdYdDVOQ1lsLVpoMFBMRHpvVmlmUFVWVl9QZUhiNHF2OW5sUXBzUURfWDluc0sxN040S1RIeVJnd21laF8wSDk3TkFyNktHTFZYYUR6NXNmQzQwb09lY2JzRmVkNTZITFhvaDBBZmduMlBsQkczNmV0YXJPNHpEZ0VKeXpQUk5Z0gG7AUFVX3lxTE9GM0JvZ0FqQ3VMeG5UN2dqczZyNVE0RnlwbUhGbmNhd3RBSWJ4aFE3cGQydXJITnJXU3hwN1h0NU5DWWwtWmgwUExEem9WaWZQVVZWX1BlSGI0cXY5bmxRcHNRRF9YOW5zSzE3TjRLVEh5Umd3bWVoXzBIOTdOQXI2S0dMVlhhRHo1c2ZDNDBvT2VjYnNGZWQ1NkhMWG9oMEFmZ24yUGxCRzM2ZXRhck80ekRnRUp5elBSTlk?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-16T10:13:41+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Zeropearl VC",
-   "amount": "Rs11.4 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs11.4 Cr",
-    "Seed"
    ],
    "alerted": false
   },

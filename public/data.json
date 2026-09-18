@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-18T17:57:31.079812+00:00",
+ "generated_at": "2026-09-18T20:16:03.451118+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 14,
-  "alerted": 3
+  "fetched": 13,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "0f9eb357483f",
+   "title": "Virginia tightens data center restrictions amid political backlash",
+   "url": "https://economictimes.indiatimes.com/tech/technology/virginia-tightens-data-center-restrictions-amid-political-backlash/articleshow/134341790.cms",
+   "source": "ET Tech",
+   "published": "2026-09-18T18:05:22+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "Virginia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8a23d81138bf",
+   "title": "iPhone 18 Pro demand outpaces last year\u2019s launch",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2lta2tWZHBtdU5vQk1nQVhCTldkZ3lHcm1aRnJETUlFZ2dLRkJmSURPdmRIeXU4dm56VGFKc0N2R2hWMkg4OTYwX2NwTU9rR1V2MThSR0tVd2lKLVRWaTRfdUt3VWlPb0dkYjFSNmhlMTQ5V3BKNURzNzJSd2dhNzJhZnVGamNJSVVNTDd0dWlxcGZfc1BTX0dPLU9jVkRpdXNyeFZPVko5U0ZmdzVaSU9tb2hHMU9OZUd2WHRjYWlCUUNadTl0elFHQi1mUdIB0wFBVV95cUxNY19hWEI1RnU1UjBleDJuZ1o0eTdBdzY0azNWdUxnM1FaQjRDLWN2NEROQkxrNE9IUUYyNlhtR0xUM0NNMmN5cUV5Zm9MTEdBLTV5ajIyWC1tcS0tMFpEbUdaakRMM2JDT09aVy1WT3dRT1U5M2R3SkZRUmtNQk52dkwtalhyS1EyWkVkXzczWHNyeVQ4QURVMU5WdVZ0N2VvejgxWnJybzRfWmJRc3d0ZXVFMU9DQzIyR3pnT016QnRXLVVGS1NIeHRSVGUyNFhRbTVZ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-18T17:47:00+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "8d73b35a9ed7",
    "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
@@ -3779,23 +3814,6 @@
    "alerted": true
   },
   {
-   "id": "91a2d5b7ada2",
-   "title": "Narendra Modi and the generation he set free",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVdDeldULVZSdzJmOHpRMUcxNEVWekEyVnRtM2pwYXhCbGNIQ2JIbW5zb3ZwZDAwRXNiMGZyWURFbjB2cjdEZG1fbUNodk81NWE2bDhXMWhoWG05Wk1paWJORkhNUUF5ZjhhTVlnY2VJM1RTVDhjaGlYd25Qc2NsdnhFNmZDRXFJZk96b3M5MkdzeU90VTZPblBYUzR6Z9IBqwFBVV95cUxNTUZXUXJpV1lDOTE3bTVEYmpNVGFOMEJ6RVpBTndUYmxtZXA0a0pfcmhWQ0EtSW5UT0ZURl9jR2U3R2wxTFowRVhsUXhHUnk1X1VobEJTY3QyU2tRb1UxeVpuN0owWmhNbkJqQ1dLSW1Gb1hZU1N4Z3BTR2dPMHVUY2QzNGJKYUhMMmNFaGR2aG1Ncnl4NS1EX0NjMGljNlc3M3RpakJES0RlR2c?oc=5",
-   "source": "The New Indian Express",
-   "published": "2026-09-17T03:43:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Narendra Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c5e47090a7a5",
    "title": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia",
    "url": "https://economictimes.indiatimes.com/tech/technology/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia/articleshow/134300920.cms",
@@ -3811,23 +3829,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "15123d2f83db",
-   "title": "UN chief sounds alarm on AI risk after Trump plays it down",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/un-chief-sounds-alarm-on-ai-risk-after-trump-plays-it-down/articleshow/134300260.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T03:00:24+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "UN",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6ab7745cb5b7",

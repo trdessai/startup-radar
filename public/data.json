@@ -1,12 +1,311 @@
 {
- "generated_at": "2026-09-19T00:34:09.495900+00:00",
+ "generated_at": "2026-09-19T04:57:42.157828+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 3,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 25,
+  "fresh": 17,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "68b6607d93c4",
+   "title": "Tata Sons-Tata Trusts row: Harish Salve backs listing, says company's legal position 'legally perfect'",
+   "url": "https://www.livemint.com/companies/news/tata-sons-tata-trusts-row-harish-salve-backs-listing-says-companys-legal-position-legally-perfect-11789792619105.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-19T04:53:18+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Tata Sons-Tata Trusts",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e7eb84e424d0",
+   "title": "Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T04:27:09+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Anthropic OpenAI SpaceXAI Google",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Officer Dario Amodei",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8d71a89be9ce",
+   "title": "OpenAI forecasts cash burn near $280 billion by 2030: Report",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-forecasts-cash-burn-near-280-billion-by-2030-report/articleshow/134347596.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T04:09:37+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "OpenAI",
+   "amount": "$280 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$280 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8f19b8d86378",
+   "title": "AI-generated false intelligence nearly triggered US-China military confrontation: Reports",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ai-generated-false-intelligence-nearly-triggered-us-china-military-confrontation-reports/articleshow/134347572.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T04:06:18+00:00",
+   "score": 47,
+   "category": "product",
+   "company": "AI-generated",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f96430d61de3",
+   "title": "From Flam To VerifAIX \u2014 Indian Startups Raised About $59 Mn This Week",
+   "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
+   "source": "Inc42",
+   "published": "2026-09-19T03:30:44+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "From Flam To VerifAIX",
+   "amount": "$59 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$59 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ed0b08294fd0",
+   "title": "Bharat Bill Payment System",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dV9jNUZJT0V0MEFESExNeXp5UmRpQXM5NkZoMmYwNlA5WGV4dnB0cHVEMDc4NERoLW0zSUtQR1NnYURrT1gyT3J4VlRSMkNkMGVKMGlpN0hIVl9SeElWTEhCM1NCenBCd2VV?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-19T03:24:38+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bharat Bill Payment System",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4ef33af84ff9",
+   "title": "Miraggio Lifestyles Pvt Ltd",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqYklCSVhjWWx0dExBdmdkLWZHeVFoQ3MzYk1XeDA2WFNPN0pKWkxBdTBtbHhXOE9OZ3JFTnhLOGlVSUNpb183bGt2ZzJnd20xUVpFVGo5MVFlakg5MDcwMnZVOWZYVlZvQnZqTzRZWXJmSml5cEVIVm1n?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-19T03:22:46+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Miraggio Lifestyles Pvt Ltd",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4773b6750de0",
+   "title": "Yatharth Hospital and Trauma Care Services",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTU1ZFhBZGgzbURwMVNZQW9UNU9BbXh4cmR4WkNGNWFDY3g0R2dNdHViTmpJdks2cFdhR3dZbXQtYllmVnBuMjQ2Wk5KSFlYV3ZGNXh6ZlJxSnNKdzFpX1Jtc1gzMURoQm91QUQteDJzczJqcjlVRmNtMmR4YW55LU0zbWJpdTIt?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-19T03:22:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Yatharth Hospital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bbd83320fcce",
+   "title": "Sookrit Malik",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmZ09fb3E0Sk9Tc3VXTVNNbkduWnFKSUJUWkZDeWhpRGtySUN4Sy1aeUV6QjBHajZsUXhLVl9jU0NKTlhpLTRpVkkwNHNVek5zVTVpag?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-19T03:20:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Sookrit Malik",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bb0f283b98b5",
+   "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/articleshow/134346922.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T03:00:54+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Anthropic Accenture",
+   "amount": "$2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$2 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "01f1824ab33e",
+   "title": "Trump is talking with Senate's Thune about bill to cut data-center electricity costs",
+   "url": "https://economictimes.indiatimes.com/tech/technology/trump-is-talking-with-senates-thune-about-bill-to-cut-data-center-electricity-costs/articleshow/134346796.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T02:44:18+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Trump",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3c8834bd1c4a",
+   "title": "Oracle's $18 billion data center debt under pressure: FT",
+   "url": "https://economictimes.indiatimes.com/tech/technology/oracles-18-billion-data-center-debt-under-pressure-ft-reports/articleshow/134346709.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T02:33:22+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Oracle's",
+   "amount": "$18 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$18 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "78994dfe5686",
+   "title": "Design with purpose: How Jaipur\u2019s Saraswati Rugs places Indian craft on the global map",
+   "url": "https://yourstory.com/2026/09/design-purpose-jaipur-saraswati-rugs-creativity-photography",
+   "source": "YourStory",
+   "published": "2026-09-19T02:10:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Design",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eac12ff57771",
+   "title": "Gemini hacked three companies in first known breakout by Google's AI: WSJ",
+   "url": "https://economictimes.indiatimes.com/tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj/articleshow/134346436.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T02:01:49+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Gemini",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0dcba127d4e2",
+   "title": "Who will build India\u2019s next 100 chip companies? Giving robots a sense of direction",
+   "url": "https://yourstory.com/2026/09/who-will-build-indias-next-100-chip-companies",
+   "source": "YourStory",
+   "published": "2026-09-19T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Who",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d286d34dba2f",
+   "title": "India globally competitive in chips: Ashwini Vaishnaw",
+   "url": "https://economictimes.indiatimes.com/tech/technology/india-globally-competitive-in-chips-ashwini-vaishnaw/articleshow/134346379.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T01:55:22+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "897b634af88a",
+   "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/articleshow/134346362.cms",
+   "source": "ET Tech",
+   "published": "2026-09-19T01:53:18+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
   {
    "id": "e82d2c587cf5",
    "title": "TableSpace",
@@ -3343,40 +3642,6 @@
    "alerted": false
   },
   {
-   "id": "5e8643f9de85",
-   "title": "Delta Exchange Named Global Sponsor of India-Afghanistan T20I Series",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElUazZlU2x2aWIxTDA0NUlVMlMyTjQxN1ZqWmJvUkhrTks4c1MtVnZRTTFfeVEycE40TGgxQ0RLZVkzRjlUX3FuYnFLa20yTzlTSzMza2N6azV0TW5UeEt6SHVhZDBqTGY4d1c5d2xaYk1ab0xiclRJZUxsRXlRdks1YVhwaTVxMVMxaXk0U2NPWk4xQnBldTBybkN5YVRPZ0ZtbjJkZVpreGpj?oc=5",
-   "source": "Sportscape Magazine",
-   "published": "2026-09-17T08:21:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Delta Exchange Named Global Sponsor",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7091e0778849",
-   "title": "Delhi High Court allows Gillette to ask influencers to take down posts on Bombay Shaving Company ad",
-   "url": "https://www.livemint.com/companies/news/delhi-high-court-gillette-vs-bombay-shaving-company-ad-dispute-11789623595400.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-17T08:17:20+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Delhi High Court",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "4487efcd063e",
    "title": "Laundry and home cleaning brand Ecosys raises Rs 5 Cr in pre-Series A round",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWh5SHVPdHNQWG52aDU5TVI1VTgzZUw5NXhDM2pjSlhTSGFsNzNjRDlhR2s3YVh4dDhWYmZUNDdueG84R1kwVTJrUFplQlcxZVBYRmEtNFBGbDhfeWI2SmFpeWt2R3ZFcWg1UTZhSW5qajQ2QXZzNWV6cFdFdi05YjBvUnlsRUVrQ1RyR2I4VE9oQW9fbnFRbEJqX2wyQS16UXU3VU5XUFdwdWtIWUg3aFY2dVLSAbQBQVVfeXFMUC1oeUh1T3RzUFhudmg1OU1SNVU4M2VMOTV4QzNqY0pYU0hhbDczY0Q5YUdrN2FYeHQ4VmJmVDQ3bnhvOEdZMFUya1BaZUJXMWVQWEZhLTRQRmw4X3liNkphaXlrdkd2RXFoNVE2YUluamo0NkF2czVlenBXRXYtOWIwb1J5bEVFa0NUckdiOFRPaEFvX25xUWxCal9sMkEtelF1N1VOV1BXcHVrSFlIN2hWNnVS?oc=5",
@@ -3415,60 +3680,6 @@
    "alerted": true
   },
   {
-   "id": "b1cad32777c5",
-   "title": "UPI August 2026 data: 24.51 billion transactions, value dips",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwWGdZRy1PT0daY2MxTm9WcmgtTXdPaWQ0NGlMZk5Mb0xHaHU3enRnMU5wX2FMd2pXT1l2UnU2aDYyU1h1UGR4YWFfLUFGVjBQTWdjMUxxVHVWdl9aTjdxdGlpd2hVUHkzT2laU3VnS2N6Nm83S3c?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-17T07:47:43+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "UPI August",
-   "amount": "24.51 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "24.51 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "63b9287e40b5",
-   "title": "India targets 200 chip-design firms, 1 lakh semiconductor workers under Semicon 2.0",
-   "url": "https://yourstory.com/2026/09/india-targets-200-chip-design-firms-1-lakh-semiconductor-workers-under-semicon-20",
-   "source": "YourStory",
-   "published": "2026-09-17T07:46:36+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "India",
-   "amount": "1 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "1 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1a4ada38fff5",
-   "title": "PB Fintech to acquire remaining 20% stake in MyLoancare, invests Rs 10 Cr in PB Wheels",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWZmVW9CelNZbWdRTWo3VHZCc1pUbFBJckEzZlBpeXVhbmt4OWdBXzdSVUFFUV9rd0V1TE15WldtbkRsQWdSckhPRTRwOE91UEY1VVdRRW9NTEp2N3gtRDB0OTVZTFl2dDR5Y3NvbVNkTGhQMWg3YXFwa1R0X3ozdndSS3BZMDAyQVZtVjVRRnllQVpwTEt5NThMUHlSYlFCdVdRMlhwVURhZkNoQm9sSDA3cFZPMWg5RHJ0WjdidFjSAcABQVVfeXFMT2VmZlVvQnpTWW1nUU1qN1R2QnNaVGxQSXJBM2ZQaXl1YW5reDlnQV83UlVBRVFfa3dFdUxNeVpXbW5EbEFnUnJIT0U0cDhPdVBGNVVXUUVvTUxKdjd4LUQwdDk1WUxZdnQ0eWNzb21TZExoUDFoN2FxcGtUdF96M3Z3UktwWTAwMkFWbVY1UUZ5ZUFacExLeTU4TFB5UmJRQnVXUTJYcFVEYWZDaEJvbEgwN3BWTzFoOURydFo3YnRY?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-17T07:37:35+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "PB Fintech",
-   "amount": "Rs10 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b611cd44d136",
    "title": "Investing platform Crowwd raises Rs 2.5 crore from Dr Ritesh Malik, other investors",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9ZVUZTbTFJVjhza3g1UGJtWFFlTUZxUnRjR2FpZTJaWGpzVTBQMVJhcnR0R29xMUswLUpMVUtGNmlTaEJBLWVhdDNPbWFKMUxRUW5ETFNYQVVZcHgyVmctNm9QWU1CRmpyY01xZUxzYXRhcHVBakVGcnRMQ3ctM2R1ZnhkSU9kUGd2S1hLWGFBVHVqTV9kN29rMXJqQ2hCc3cyWWs0MV9Da25YSlE0ZUVB0gGyAUFVX3lxTE1oT1lVRlNtMUlWOHNreDVQYm1YUWVNRnFSdGNHYWllMlpYanNVMFAxUmFydHRHb3ExSzAtSkxVS0Y2aVNoQkEtZWF0M09tYUoxTFFRbkRMU1hBVVlweDJWZy02b1BZTUJGanJjTXFlTHNhdGFwdUFqRUZydExDdy0zZHVmeGRJT2RQZ3ZLWEtYYUFUdWpNX2Q3b2sxcmpDaEJzdzJZazQxX0NrblhKUTRlRUE?oc=5",
@@ -3487,85 +3698,6 @@
    "alerted": true
   },
   {
-   "id": "2333d9f27e10",
-   "title": "\u2018You are blocking his right to livelihood\u2019: Delhi HC questions search curbs on Indian Kanoon",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FlUHY2TzJaYl96YUxHak14cTl4VlFUZ3gzYVJWR0pJUFV5Y1k0VFp2cHlaZFlVeWdZaDBBbXJCOFBNZDhpR0JIN3RfNHVpTXRmdlExSnFkaUtiUENWWE5TTnBHLVN1NU1XR0d1b0pXSHc5Zm1vSWdjYzdMSjBBeWs0UWZQSlN6QWxQZnZHNlA1Qkx1MWktdHVGcw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-17T07:09:42+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "You",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "eb53677662d3",
-   "title": "Lam Research to invest Rs 10,000 Cr in India, set up first silicon component manufacturing facility",
-   "url": "https://yourstory.com/2026/09/lam-research-rs-10000-cr-set-up-silicon-component-manufacturing-facility",
-   "source": "YourStory",
-   "published": "2026-09-17T07:08:26+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Lam Research",
-   "amount": "Rs10,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10,000 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "78f95f4dc7b6",
-   "title": "OpenAI & Anthropic Want To Pace Frontier AI, But Who Sets The Rules?",
-   "url": "https://inc42.com/features/openai-anthropic-want-to-pace-frontier-ai-but-who-sets-the-rules/",
-   "source": "Inc42",
-   "published": "2026-09-17T07:00:52+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b713dc2a5d4e",
-   "title": "Practo Leadership Reshuffle: Jagnoor Singh Replaces Cofounder Shashank ND As CEO",
-   "url": "https://inc42.com/buzz/practo-leadership-reshuffle-jagnoor-singh-replaces-cofounder-shashank-nd-as-ceo/",
-   "source": "Inc42",
-   "published": "2026-09-17T06:47:12+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Practo Leadership Reshuffle: Jagnoor Singh",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Shashank ND As",
-     "handle": null
-    },
-    {
-     "name": "Jagnoor Singh Replaces",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "3490dc14b614",
    "title": "TRAI July 2026 data: India adds 6.2 million telephone connections, MNP requests near 16 million",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZndfekZoR2ZCRWJSZlhQYWQyWnBIdEtHems5YWY3RXJTcHJvOHZoaUkzbFRTZXNVV2tyak9xelQyclpNazRPcERGY3k1VlRKQnh5TUpPVVlkX0lxZmQyZTZYaUwtbnJWanFkbFZ4Nzduc1lxY1JwZWJFbHRIRWM?oc=5",
@@ -3582,24 +3714,6 @@
     "16 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "e960afbb5111",
-   "title": "Indian utility vehicles overtake passenger cars in overseas markets, eye export dominance for first time in FY27",
-   "url": "https://www.livemint.com/companies/news/indian-suvs-small-cars-passenger-vehicles-exports-overseas-markets-export-dominance-maruti-suzuki-nissan-hyundai-india-11789611359902.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-17T06:31:46+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "b88e58b80c42",
@@ -3637,58 +3751,6 @@
    "alerted": true
   },
   {
-   "id": "9eef55746db8",
-   "title": "Dario Vitale Appointed Creative Director of Emporio Armani and Giorgio Armani Accessories",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWNVZTJyV1Ewazgza0dfY0V0R0dGSkI1UTVSNlhKenVFdXRVUnpEd2w3dWxtcThmcUd6Q1VmazdBWUZkUm90dTNtX2hFX1kxbFg3NnZxQ0ZQMklMbXJqc0F6akNtQTdfZkhaRFMtZ1pYSzFsVDVXc3lka2Q3ek1YOHdKREZicEd2TDRJZTZxTzl6MVd4OHpYeGtpX2tXQVNxS01JeUVHZlpPWU9kWkFtbWRCQlJPdGdpSmRPNXFjNA?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-17T06:14:56+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Dario Vitale Appointed Creative Director",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3da907874e34",
-   "title": "RTI reveals Prasar Bharati has no Waves OTT grievance reports",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUhiTE5BSktscFdMbzlLRkhLLXk1a29vbnFuQmwzUjhZSDB4SXc2cUVmV2tKaFoxSjh1U3pCemh3Mjh6cXBJQ0ZIZ2lhY1lrcVMzYzdjNUVEMTl2S1BmXzgxV0xPczdmb2lnOHM5X25jWGEyUE1BZXFUUzQ0eWttYWt0bFJDMzlM?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-17T06:14:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "RTI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "44494da67d0d",
-   "title": "Applied Materials commits $5B to India semiconductor push",
-   "url": "https://yourstory.com/2026/09/applied-materials-commits-usd-5b-to-india-semiconductor-push",
-   "source": "YourStory",
-   "published": "2026-09-17T06:08:41+00:00",
-   "score": 44,
-   "category": "expansion",
-   "company": "Applied Materials",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "cceaf22d0224",
    "title": "NSE raises Rs 6,746 Cr from anchor investors ahead of IPO",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnB1LVlfdzlUYVZaTWRfX2FSXzVsN211SnBDUktqWlo5SkREcjdDelF3RGFULUNnbm9vS3NoRS1XN08xUzZfZDFDN3RSNHYzM2kweDRUUFFGNTFYNmN4NGFNTVFHa0o4d1FsbUpmT2RmYUpHNGhVVG95Ny1RbHg4WlB4cXdtM2k1Vk0ydTBqY2FIWGp2aUHSAZYBQVVfeXFMUDJwdS1ZX3c5VGFWWk1kX19hUl81bDdtdUpwQ1JLalpaOUpERHI3Q3pRd0RhVC1DZ25vb0tzaEUtVzdPMVM2X2QxQzd0UjR2MzNpMHg0VFBRRjUxWDZjeDRhTU1RR2tKOHdRbG1KZk9kZmFKRzRoVVRveTctUWx4OFpQeHF3bTNpNVZNMnUwamNhSFhqdmlB?oc=5",
@@ -3722,59 +3784,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "e4c1c1dfe96e",
-   "title": "When should AI agents need an identity card?",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PYzFwQkcxLWdvWWJQRkR4Z09GVlQ1NVpYR3ktSlZrSkJpS1h3WG1lM19UT2diQ0FRUkwxbkxaUi1xeFhueUMwandEVW5TNjJER1ZNekp5WDdPWGpLVURCNWl6alF4SXhEbGlYR1VHUQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-17T04:22:32+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "When",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "92f34738a7c7",
-   "title": "Generac, Amazon strike $2.4 billion long-term generator supply deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/generac-amazon-strike-2-4-billion-long-term-generator-supply-deal/articleshow/134301424.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T04:08:34+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Generac Amazon",
-   "amount": "$2.4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$2.4 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ea4cacd44248",
-   "title": "PM Modi's 76th birthday: 17 moves powering India's journey from Startup India to Build India",
-   "url": "https://yourstory.com/2026/09/pm-modi-birthday-17-moves-startup-india-build-india",
-   "source": "YourStory",
-   "published": "2026-09-17T04:08:30+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "PM Modi's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1ba291d7e980",
@@ -7137,24 +7146,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3b097bae4b72",
-   "title": "From Pixxel To Swish \u2014 Indian Startups Raised Over $321.9 Mn This Week",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdllRcVF4MHpKWDJyRnZZWVRnZmUyaTd5aDhibmx2dk5CWWlZQnYta2J0cDhMM3dfRGd3Q3E1RkNzWDlUZ3Njdmk4VUdyVm44M3NqSV9xbEUzeTZrWGREc25LVXNFeHJRRTZ2SDFDMWcyS0Vmams1S3hUYXVNSmhxSkxfNFh0QWlvZmtRQkYyWERUZExBOVE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-12T03:29:46+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "From Pixxel To Swish",
-   "amount": "$321.9 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$321.9 Mn"
    ],
    "alerted": true
   }

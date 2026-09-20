@@ -1,12 +1,115 @@
 {
- "generated_at": "2026-09-20T13:42:37.575518+00:00",
+ "generated_at": "2026-09-20T16:59:49.074007+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 29,
-  "fresh": 19,
+  "fetched": 11,
+  "fresh": 6,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "129390f02057",
+   "title": "Indian companies moving from AI pilots towards deployment: Salesforce",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2RrWHUyREFRcUd5clg5Wnc1ZUJpSHdyblhVeWUwelVNMGxmaS1UM1BpTmctNk00RExQUGJpdng2YWtVamFlM3VmcDF0S1FVMWV3Wk45VjhjMjFHS0piZzRkMXdNUjNRNW9aeW8wdVJDbGJMdTNKWUdIdmZBSWliMTNDV3hHclFFenBGRXJ2Q3FqbnV3R2lma0hiZzU5RzFmZ05uWmJ4UkxCdnZaY1dwYjI3WVZtY1F0bkFVazFLS3lycFdOVm9lTzJaLUkyZngwNHR1RWFGV1NrQUlCOE9UVlBQMW0yQdIB6wFBVV95cUxPMUx6ZldFNld1M2F4VVNzdTFFc0NUTXphOGFtaFRFWWRyemFiaHMzakpJZlFnSTJnMEhMeEtCOTBDUjZXWkVNemxzb2pENWlWYlpSSkN1cnl4OU91UHRzMjJia0k5ZmdqcjUtYkRlZ1hOYWdCbFpLcllNVWlpMEZsYUY5aUZTemNqRDI4MWJrckhxVjVweDdjamdTZEk1ZmNqNkxLeGd0TGUzX0VTYm9LeEhmWEVfcklMQ3J6OU1qYXNQbnVTQXhBY3hCQ3lELU9wcWl3Vmc3Qk5TOGYyZEVxMzZyREltZmo2V2xv?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-20T15:47:13+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "63b139e31770",
+   "title": "Space Wrap Newsletter | India's Space News & Insights",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mMVk5Y0txZ3hEYkZWVW1MWDhza3Q0SlVDTmZXc2JRVk1EVklsQjJIbTdaNl9XUTVTVWdrbW8wU3dKZkdqTEFwSTJocHVOLTdaUWVGR0ZNQkZzNUU?oc=5",
+   "source": "The Hindu",
+   "published": "2026-09-20T15:32:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Space Wrap Newsletter",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec27a03c89c9",
+   "title": "Indian Gaming Handheld ARC X1 Launched With Snapdragon G2 Gen 2 Chipset",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUZ1RV9JbXBvVzFzLWZ1ZmFyWjMzMy1Xb2VoVnh2ZVB0ODd3enJkSTgycldpRWc1cVRHMmRYLXM1QjVGM1FHYW1GaDdSQ1hKbU9LVUI0em1ObjNhZl9Dai1IekY4dlVYeWhhU2hNcllTMXlOUW9VVmw0UlhXeGhPVXN4NWlPSjNXNVNMUTJaZFQydzcyMlBVN254T1J1aUZzZDVRbFVydw?oc=5",
+   "source": "IGN India",
+   "published": "2026-09-20T15:07:41+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Gaming Handheld ARC X1",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8dbac7fc9739",
+   "title": "Asian Games 2026: Indian Wushu Fighter Vikrant Baliyan Knocked Out Of Asian Games 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1g5OWdwdHkwYU4xZlAxd0hKY0QzS1F6VnhzUjR1WlBRUWUxT3RJc243X3dCMXVfcnViR3g0QW1ONHZMd295aVBMMHIwTllFOXNkSldJNkNXVTBLUmtOVXo4NWZpTVFqUTc5WWRMUnU3Ui1jdzFRRmQ2NEtacExwdk1ZTVNEMEN2dTAzREhSU3cyQm9sYVpZ?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T14:53:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Asian Games",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "162537178b5d",
+   "title": "Titan sees \u2018serious sluggishness\u2019 in sub- \u20b91,000 watches as premium demand surges",
+   "url": "https://www.livemint.com/companies/news/titan-sees-serious-sluggishness-in-sub-1-000-watches-as-premium-demand-surges-11789911967578.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-20T13:54:20+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Titan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "da401d643bb4",
+   "title": "Asian Games 2026: Indian Men Face Mixed Day Against Indonesia & Iran In Table Tennis",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHVZN1dwRWkzZlI5ZkFEVEs4NlR0eVpUZ09FLTJFMWo0anlLUjdkeU1xQ0dxa2I5SlBqUFg5LVduSEl6akkyQXB0ZE1DYm5nVzdjM1lfcGJlNllXV2c0T2tEaU8tbkVFYm1ZT3BrNGtDV2g3cXBncGd4ZUkzVFg2MksySEJkXzRwR2pHRGVUQ090aGxiU0Rnb1ZRUVBJSlVNZ1k2RA?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T13:52:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Asian Games",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "2996f9e1c46b",
    "title": "Tata Trusts challenges Chandra's reappointment",
@@ -3770,23 +3873,6 @@
    "alerted": false
   },
   {
-   "id": "aed11f06e87a",
-   "title": "Nitin Nabin says Opposition is \u2018restless\u2019 without power, takes swipe at Rahul over youth outreach",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTGItLUpDWEk4SmhQT0hvTWdWSzh2NTRFLU44Y2JzTGZUaHVCT3YyRnQtQUE5M1lpcjBLTXVmMWhocWlvaWt2bWIzRWloeWpYbFRWTThENEdqRXhvUDJkeUZXeGhDbW5mdHNhcGlvem9SSnVPX3k5bmdMWFE4ckUtTFZoQ1U2WUlaUklicm9DTld0eENXNVZMTHZ2Qi11Vy03cjBockViVThrM1ZTV082TFZCeHZMdm9SZnR6NDZ6NjRydU9RMDhvXzZWOTgzLTlWU0trd2tjb1Zta3hkRndpTDJzdkV1TlBCTXB1TTd3Z1hYRlHSAYACQVVfeXFMUGhhT0w1U2FZYlVMUHRiWW4xTTBqRXFBZTlGLXprQmM3bFp1MW1jNFh4d0J4VDBwVHJOSG9ZNUt0dUgtZTRWYzFpUktPOER5ODhfMHdZc09XWDJPcTRhZllFSGtwaVFBcnNmUk05U1ZLekdrd1J4bGxYTkFVTlA0aEdIbkxvdlBRM1Rtanh1RkVDYzF1R1pMMmUwamY2UHNKZThlaFpXZnRYRnBnZ3FuTXdOZm9aTURVZURQb3N4SkJzTXFwTTJyR0R1LURBYk1VMHpBTWJVUVplOUtWLVpsZTdvTHlxblAyYUdkQnFIZGphOHZkRkJsVVQwR1gwMXF0cw?oc=5",
-   "source": "The New Indian Express",
-   "published": "2026-09-17T15:02:53+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Nitin Nabin",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "17d4295522c5",
    "title": "Longevity healthcare startup Vytalyou raises \u20b98-10 cr in growth funding",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORjUzSU5xN3ZEeUdULWNUcHR5U0hpMUVsWjlQcE1Ra0k1bG1iZnI3MWRVQ3ZaSDduQXJ3d0hJM1VuZFV6ajl0bGVaWWx3ZFZSRFhGR01LMU90Szk5enlWTDRuYlVOS0IweTAwLXVILTFuOWJqZGRUd1FIWWt1OHBkSzZlR1gtOXBqbHZLZFdpNjBPUmtBdXJHRndSYVJWcVc3SUltekUxRU56WWdGanc3RXg0dzlfdktqTmV4VUhkamhWWVlCd1docU5NSU5mUkJIci1OTXhZcGJ6Yk950gHiAUFVX3lxTFBXczdPRzRSamhRcDZwcXpudF9MdlVUSG90THpRLTRoaVEzZmFqSV9HcUZqV3J6WHkweVVfTnRlT2ltUGlQa25xNWlRRWpHYjZEaEVGOWNYWmRwTzd0aVpKSnpsT0xzTWpxeG5QcEpsQkdfaWtJQmp6aHBwdm5kT1lBdnEtckh6bDRjR2lqdUFjMDFyaXF2X0pBeTRxRVJCTG1xeTA5YlItNjZJVFdNVy1iVGJ3UUpxVXZsTUlTWEN5dUxoMEZPVGV3Q1lTZWF3RW9YaG56VzJtWEF6QUR6UHVWZmc?oc=5",
@@ -7036,97 +7122,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b13a5e4a379e",
-   "title": "Unacademy, Astrotalk, Noise founders back Triptii Dimri-led startup Peep Beauty in \u20b912 crore pre-seed funding round",
-   "url": "https://www.livemint.com/companies/news/unacademy-astrotalk-noise-founders-back-triptii-dimri-led-startup-peep-beauty-in-rs-12-crore-pre-seed-funding-round-11789313283932.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-13T16:20:35+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Unacademy Astrotalk Noise",
-   "amount": "\u20b912 crore",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b912 crore",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7fa0e74947fe",
-   "title": "Hyderabad houses 515 GCCs, to add 50-70 in next 1 year: report",
-   "url": "https://yourstory.com/2026/09/hyderabad-houses-515-gccs-to-add-50-70-in-next-1-year-report",
-   "source": "YourStory",
-   "published": "2026-09-13T16:17:34+00:00",
-   "score": 62,
-   "category": "product",
-   "company": "Hyderabad",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "78f99fd9f4e7",
-   "title": "NIRF Innovation Ranking 2026: Release Date, Parameters, Top Institutes",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPakZlSFRsNDRoT0xibEJSTl80TTBOeWVxOF9VOGsxRGctRUhuVHZGMUNZTVVVcm5tNVZVZmRLQmdlemdFMWRSc1d5bTc2eXEzY1dYdlFUTDN0QjViTUZxQ0IySVBDX19XSHB3eXNPVXVIT3lGWXpScVA0SGNLVXV1SUw3TVNOdlRrRXR3U2xfUVc?oc=5",
-   "source": "Shiksha.com",
-   "published": "2026-09-13T15:26:29+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "NIRF Innovation Ranking",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5df19e93660f",
-   "title": "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdmhRX21uejBBNThwM1VKVE1LdnZKSnU4VEtGNHlIT1Y5bHZWdVlRSEdzbnlrQWY3a1NWZ0hhQzlzZEVfZHY3bmwzdG5YeUVUYkZuTTRjX2Q5Zm0xVUNCQU9qdXo3YVRRMjVJQjRUVktEZjZlZ0ZaVkhjaVVwUzVhYlBhbVowbDg3Qkg4UHY3SHhXOE5JM2tiOEZOSnROTEk2X0YxZkZkbU11RS0yd1RqdlJxNW91clpSY2JURFFDSHFVelVjeHRoYmo0YndZdVlCTFktQ0QxT3VYeHo5TWc?oc=5",
-   "source": "indianstartupnews.com",
-   "published": "2026-09-13T15:22:14+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "",
-   "amount": "$412 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$412 million",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f86833b1a903",
-   "title": "India's semiconductor sector gets $1.4 billion: report",
-   "url": "https://yourstory.com/2026/09/indias-semiconductor-sector-gets-14-billion-report",
-   "source": "YourStory",
-   "published": "2026-09-13T14:28:52+00:00",
-   "score": 67,
-   "category": "funding",
-   "company": "",
-   "amount": "$1.4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$1.4 billion",
-    "no company named"
    ],
    "alerted": true
   }

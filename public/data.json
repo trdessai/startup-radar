@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-09-20T16:59:49.074007+00:00",
+ "generated_at": "2026-09-20T19:16:46.180903+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 6,
-  "alerted": 1
+  "fetched": 8,
+  "fresh": 4,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "5050a550e99c",
+   "title": "SpaceX stock transfers raise compliance questions for Indian HNIs",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeHhEUzVaQ1BDdnR3MzlXYnQzS1FmTXhDYkZPaTZsaXZYT1dfbVJhcjlicC04Wm9iTHVpel91WHhyYXUwLUEybUhlaEpEaFZfdWR1UEI4X2tnX2RyMU9DYVR0eHRaMFgySjFLbERPMlFwRVFrSE1yX09fNkY1RERZX3c3Nk1aR001THhQZlVXSDBOQlhMUzM5ZDZwT1lIT2ROOEFuNWFwcWJObS1jWTVRcnNyanNuOVFab21HRjhKcmRNSHIyM1hNQlpaV3pvejRlSkY5VzFNZ2hwc3RUQVNXMTNQT0E0YUxHSnUyTNIB8gFBVV95cUxPUW0wSUdjTE5kT2ZoWmVkS3BHa2M5dHNwMmpJTFRoUkJLWUNaYmlNQllDWlJvNlI1NmdXMlhDWURMRndrdVljc0tCWHpyMGRaTU5PTUNaSnBjMmpEQ2NLNTZCdUVQOURHc1pqcDJGM3p3SUZ1V0hqSWtZRWI0aG5YcXR1dkdLQUYwVExHQ191Y3JVSWE0U1kzWmNVVkZqWDJYQkROMUVqYmc4cVVkejlnbDZwaXRfVUVGTC1UcTFObzF2SVZienI4d1RlTEJTcEI3LU0tT0tjTk5ZY3EwZG1Dd2FlXzBteS1Ud2tyWV9YeXgzdw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-20T18:49:43+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "SpaceX",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b37c24c4bf45",
+   "title": "Tata Sons listing is the real flashpoint, not Chandrasekaran\u2019s reappointment, says Harish Salve: Report",
+   "url": "https://www.livemint.com/companies/news/tata-sons-listing-is-the-real-flashpoint-not-chandrasekaran-s-reappointment-says-harish-salve-report-11789924532329.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-20T17:37:47+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Tata Sons",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ecea0f66d7a",
+   "title": "Digital India RISC-V Grand Challenge Won By 3 Teams",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1oSnlzQmE3Z2Z4cjV5N3gxSWN6aC04Wnl2QmRHbEkzc2Jtd014bjJYNzVScGc2Qkg0allYME1MMXBZdkRlUGVXa29USHZjSUFuTF9pWjZOOXNLOHRwck1UTWljTDdfTXh5WUtUMTBFRDlnR1ZBLUZSYmJjR2p6cGd2U2Z5OGdUdFFGbmxadW1SWmU5dFdEZzZ0UHA3VWVFTng3S0dXazR2Zw?oc=5",
+   "source": "fintechbiznews.com",
+   "published": "2026-09-20T16:11:14+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Digital India RISC-V Grand Challenge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "129390f02057",
    "title": "Indian companies moving from AI pilots towards deployment: Salesforce",
@@ -7071,57 +7123,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "692600248465",
-   "title": "Lyft launches commercial Waymo robotaxi rides in Nashville through its app",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nLXZRYWcyUWNNNnhuUkR6THhjRGVCNy0wT0pQclFWT0pWUGc4S2VTNWtoWmxFdzJFbHBOUDFocHJRQXFGNTd3eXBBdC0ycldJdVlOczIwRGlvZnhWT0NfMXVXU3VibUdoMnUwcUJn?oc=5",
-   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-   "published": "2026-09-13T18:50:22+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Lyft",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8aad46f74e8d",
-   "title": "Chinese President Xi announces open-source AI ecosystem in 5-point BRICS plan",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-president-xi-announces-open-source-ai-ecosystem-in-5-point-brics-plan/articleshow/134216687.cms",
-   "source": "ET Tech",
-   "published": "2026-09-13T17:52:28+00:00",
-   "score": 60,
-   "category": "product",
-   "company": "Chinese President Xi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e4bf4c4988c6",
-   "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
-   "url": "https://economictimes.indiatimes.com/tech/technology/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai/articleshow/134216398.cms",
-   "source": "ET Tech",
-   "published": "2026-09-13T17:48:03+00:00",
-   "score": 67,
-   "category": "funding",
-   "company": "Trump",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

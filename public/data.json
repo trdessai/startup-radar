@@ -1,12 +1,173 @@
 {
- "generated_at": "2026-09-20T00:21:54.894302+00:00",
+ "generated_at": "2026-09-20T05:04:07.157332+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 2,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 10,
+  "fresh": 9,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "e002896bfba3",
+   "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+   "source": "WSJ",
+   "published": "2026-09-20T04:00:21+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Burned Out",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "186fc8940d29",
+   "title": "How CubeAPM Plans To Take On Datadog And New Relic With Its 80% Cheaper AI Observability Stack",
+   "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
+   "source": "Inc42",
+   "published": "2026-09-20T03:30:34+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "How CubeAPM Plans To Take",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cd6215d4b400",
+   "title": "Inside CubeAPM\u2019s Bet On Cost-Efficient Enterprise Observability",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGpFTzhzaWpQaUY2RnpzMFczQlZaME0tUUJpbmFyZF80NFAxTzFCN2kwbWZISFR6RkNWT0Q2S3dlNm5MN2FoYmdsZ0VIb21yMEFXTWsxNGF1UHpIUDkwaEFZckU2ZnozVTlma2pFNmZqMC1oU3h2WE5rM3hBc0NvRG56UFJQZmZTalFCeEx4cUYxaGlGa2szZ3BkVU9CQm1ha1puckJ0eG1EWjFidmJocjAxSUs5cmpOVDdmRGZB?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-20T03:30:34+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Inside CubeAPM\u2019s Bet On Cost-Efficient",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "937c7c6eacfa",
+   "title": "17 Indian startups raised \u20b9593 crore last week | Bengaluru led funding with seven startup deals | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVE1DMG9FRi1oWEhmMXhRaHhUbm1fT2t5UmdZSE1mVXZVXy05U0p6YmxkTUpNNUFvX3E4NzVISDlGdWRpTFd4bXlHZG9Xajh6Y3ZMQmhUTGd1TnlwdFUyVGVjeDA3WDdLZV9pZ1UtM0NuenNuV2ptUVd0eWJ3M29rbW5oTTFuQnczaWxyZzgxQ2ZmcmPSAZgBQVVfeXFMTU5tUDFmNGhVbkQwYzB6UFpLcTNQNTd3N1VkV0s0UXRNRzhTYTVUMERfSDh2cThCbnVRZW92WVFUMmIxQkJtSEtyOEpMZHJRTFJpVkNBMUVZbGZyaXV4Qk9nUEphclBnWmY1UlBEcmVCYTAtRzhNaXVtTEFMd0tLY2J3djFsN2ktQXlhN0pyZ2hYSkNJMFFwZ0Y?oc=5",
+   "source": "Inshorts",
+   "published": "2026-09-20T03:22:16+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "",
+   "amount": "\u20b9593 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9593 crore",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c4d6237919bf",
+   "title": "Not India But This Team Claims The No.1 T20I Rankings Spot",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXVheGFzaDJkeXVYTEZFSS1tZFpJVXUxTzBLMDB1U0QtYl9iSXJPMTJvTi1HY1Y0UDc3aDdmZ0ZkUDh5ZUxKb0R3V1hxdHRuaGloV3R6RWJULUNWN19lWE51cXd4NzBXRXJNenFiLUJrallPZ0VNTkFlakJaQi1JZkwyZ1BCNks5aVNUUHA0OURiVkRzdFQ0dTZtNGl6Zw?oc=5",
+   "source": "Sportscape Magazine",
+   "published": "2026-09-20T03:06:48+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Not India But This Team",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22dd74ed9000",
+   "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
+   "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
+   "source": "YourStory",
+   "published": "2026-09-20T02:45:00+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "From",
+   "amount": "Rs1,087 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1,087 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c891dca473b6",
+   "title": "Space, literacy, apparel: Test your business creativity with Edition 250 of our weekly quiz!",
+   "url": "https://yourstory.com/2026/09/space-literacy-apparel-business-creativity-entrepreneur-education-quiz",
+   "source": "YourStory",
+   "published": "2026-09-20T02:30:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Space",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0b6981dc8e7b",
+   "title": "In-cosmetics Asia launches new Fragrance Zone as scent reshapes beauty & personal care",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2tJWGtaNks2aWRSenIwa3M3ZXNxMDUyX0lLSnkxdHA5YVMwRzBkc0xJUmtieWtHWk0wYVNLYkl3Zkw4WWhNZnA2ZGlJSWZ3TnlDbXJ0aGw1VkVBMnlpZ2xCSXFfVzNiT2pKWjNrU0VrR0s4SEgxejVqdUZtVzBPOWZfWFVpejZBejNFbU9zUzcta1h5V1JPYWwzVG5zS2pMT0RqdjlPb3Z5dEctZXFBQlNNcnFQaUsyT2ZSZFA0QmstQlRZMUJmMm1FdFZJZ9IB1AFBVV95cUxPRWRuLXJQNVY5YWh6eTYycGszNkRmRlhZZUFTWXprdDl5UFUyTFJLZUhxRWI3clVyNkItNGxSeS16bl81T2JGNFB4bEdhMHpFT2pQRmNhX3FqLUtwajlRckN6Z2xaMTBJR0lfSGZLbmxWNkE1LWdpNWt2S1k1YnZIcmhkWU95X1ZBNlVnTUljOWVpSE1faWtXRkFROUZxSXVYUTdHUDF0YnNTOTROVFp1YVA0SFFyNnA3XzlQSlhBaGtsb2JjSHBCN0IyWFpxRGVnbjRRcQ?oc=5",
+   "source": "Indian Chemical News",
+   "published": "2026-09-20T02:09:21+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "In-cosmetics Asia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c919ae0badde",
+   "title": "The women forging India\u2019s semiconductor push; How a perimenopause journey led to a midlife guide",
+   "url": "https://yourstory.com/2026/09/women-forging-indias-semiconductor-push-perimenopause-journey-midlife-guide",
+   "source": "YourStory",
+   "published": "2026-09-20T02:00:00+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Shradha Sharma",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8295ef109a44",
    "title": "Sugar Cosmetics\u2019 80% Valuation Crash Exposes The Brutal Truth About Indian Beauty Unit Economics",
@@ -3432,40 +3593,6 @@
    "alerted": false
   },
   {
-   "id": "0e93d0d496ef",
-   "title": "Global industry leaders back India's chip ecosystem push under ISM 2.0 at Semicon India 2026",
-   "url": "https://economictimes.indiatimes.com/tech/technology/global-industry-leaders-back-indias-chip-ecosystem-push-under-ism-2-0-at-semicon-india-2026/articleshow/134313913.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T13:46:14+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Global",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7ef41300165d",
-   "title": "Noel Tata opposes extension to N Chandrasekaran",
-   "url": "https://yourstory.com/2026/09/noel-tata-opposes-extension-to-n-chandrasekaran",
-   "source": "YourStory",
-   "published": "2026-09-17T13:45:04+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Noel Tata",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1fe08215011a",
    "title": "CoreWeave launches $3 billion convertible debt sale",
    "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-launches-3-billion-convertible-debt-sale/articleshow/134313784.cms",
@@ -3484,25 +3611,6 @@
    "alerted": true
   },
   {
-   "id": "7cdcb95dd065",
-   "title": "DealShare Hunts For One Last Deal, Will It Find Any Takers?",
-   "url": "https://inc42.com/features/dealshare-hunts-for-one-last-deal-will-it-find-any-takers/",
-   "source": "Inc42",
-   "published": "2026-09-17T13:24:43+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "DealShare Hunts For One Last",
-   "amount": "$90 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$90 Mn",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9df0073c8eac",
    "title": "DheyaTech bags Rs 43 crore to take indigenous gas turbine engines to market",
    "url": "https://yourstory.com/2026/09/dheyatech-raises-rs-43-crore-micro-gas-turbine-engine",
@@ -3519,77 +3627,6 @@
     "Rs43 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "30e624c7e30e",
-   "title": "India Gets \u20b91 Lakh Cr Investment Commitments Under Semicon 2.0: Vaishnaw",
-   "url": "https://inc42.com/buzz/india-gets-%e2%82%b91-lakh-cr-investment-commitments-under-semicon-2-0-vaishnaw/",
-   "source": "Inc42",
-   "published": "2026-09-17T12:33:41+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "India Gets",
-   "amount": "\u20b91 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 Lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d06bdf389175",
-   "title": "7 Roald Dahl books that will reawaken your inner child",
-   "url": "https://yourstory.com/2026/09/roald-dahl-books",
-   "source": "YourStory",
-   "published": "2026-09-17T12:21:11+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f26cdfb1c45",
-   "title": "PIL in Supreme Court challenges charges on UPI payments above Rs 2,000",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEtNUEpDRzRTZ3BiVkZoeDU2dEtMZ2ZtemdFMW4tYzdVNldKMlV3c1FkV0ltNVEtbzJnT0RqcC1ZOGw5SkROUEtJN2txOHhESU5BcWZkME5mRWxNZWhQOUN4R0JSdlk0UndzYk1ucUxOS09CMlIxek14RlRfRkZqc2Fhbw?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-17T12:04:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "PIL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fa6b1c348015",
-   "title": "Taruwar Agro: Three Bihar Friends Built a Rs 2.5 Crore Business from Banana Waste",
-   "url": "https://yourstory.com/2026/09/taruwar-agro-banana-waste",
-   "source": "YourStory",
-   "published": "2026-09-17T12:02:21+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Taruwar Agro: Three Bihar Friends",
-   "amount": "Rs2.5 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs2.5 Crore"
-   ],
-   "alerted": false
   },
   {
    "id": "3e7a28954de8",
@@ -7102,41 +7139,6 @@
    "founders": [],
    "reasons": [
     "acquisition in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b392f87b2be1",
-   "title": "Meril launches HALO Stem, Latitud Revision Cup for Indian hip replacement needs",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXpJWTFPdnhrLXppenBLVXlpV24xR1k1WHRoSWxHOUlsNlA4d0tvMXdxbi1ZdzBSbTdWM3pVZTZpMjU2TXc3RUdxc0JLUjlITlBydDdVOWxQTnJ3NXpGOTIxYUZyVE1SaWlmbVNzOFI0aERlLWprbkhkQThvLV9pcW9ORlVSQnZ0aGVvWXpDa3VkRnQ5dUYxM2tRTTVLZDM3ZmNwUThFSjNrRDhYQ0NrVV9YcTQ1NzNQMWpGenFPUWFXU0xXZnZJQi1zNWLSAdMBQVVfeXFMT2RJcGJaWFRhRE9vb05HT3JXdFQyLWNrY19fVy1LMTJtWjBsOG1iTkV5eFVvbFQ4VGVWdXlmT0NZc0pyLV9JdUhObEZ6ZWg0cXhpSUFkaVhGWEM0RVR0MjZwUGNfaGN2VHdqZloxa2FTc3ExRGFBZEs5TEdZNEZyTmFDcnBRRWg3ZGVINFl2SnRvT2hDbUNSeGVZbWlic0NlMFA1UWhPYnp0V2Z2c3ItZGV6XzJFbW0tX0w1X0szQTVmMGZtZGh1SlcwT1k2cWVZTmMwZw?oc=5",
-   "source": "Indian Pharma Post",
-   "published": "2026-09-13T04:34:38+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Meril",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4efaff4c17d1",
-   "title": "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzFncUNYdHp2VjhMRFdWOURuclFwcDl2UHpjWWFLODB1ZjR4cmFFMUVGZFliZHBNbkNBd2RQVUpZV21TWGtvRDk4UTlYTmZxdmhmSjJ0OA?oc=5",
-   "source": "defensorianna.gob.ar",
-   "published": "2026-09-13T04:32:48+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Bike Startup",
-   "amount": "20 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "20 Million"
    ],
    "alerted": true
   }

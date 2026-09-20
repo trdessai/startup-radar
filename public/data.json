@@ -1,12 +1,206 @@
 {
- "generated_at": "2026-09-20T05:04:07.157332+00:00",
+ "generated_at": "2026-09-20T09:44:48.219744+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 9,
-  "alerted": 3
+  "fetched": 19,
+  "fresh": 13,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "cee46f15534a",
+   "title": "Serum Institute emerges as early backer of Yotta",
+   "url": "https://www.livemint.com/companies/news/yotta-data-services-fundraise-serum-institute-250-crore-11789875417541.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-20T09:13:25+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Serum Institute",
+   "amount": "\u20b9250 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b9250 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1bfad56f7744",
+   "title": "India\u2019s Spacetech Dreams Enter The Commercialisation Phase",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWMyVkxmRm12RHhELVlHclBoUTFScldrdF9CbnhKV0ctTzdvelM0NFBZbjNzZ08wOFJobWtwYThhaVl5SWxzbW1DUjBRcmRxRzBnV19ZREtEMmphbVFVQVNXZi0tRk8zNUpteHZ5c2t5Y3ZFWmQwekd5ZmdyNEVYdkhWcE9uSGpJYlcybjZKTXYwbkdLdmJubE41WQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-20T08:30:56+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "India\u2019s Spacetech Dreams",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "69fee31f4457",
+   "title": "India\u2019s Spacetech Gold Rush Is Here, But What\u2019s Making Investors Jumpy?",
+   "url": "https://inc42.com/features/indias-spacetech-gold-rush-is-here-but-whats-making-investors-jumpy/",
+   "source": "Inc42",
+   "published": "2026-09-20T08:30:56+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "India\u2019s Spacetech Gold Rush Is",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8110a9a5592e",
+   "title": "\u201cHe Really Brings The Spirit Of Cricket Alive\u201d: Roger Cook On His Favourite Indian Cricketer",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMldhZmhZWWFkakZ4QnRFZ0pWaHEzRUF5NDNZNW00NWNaSkN3TlNlSmpGQy03clVQT1VZc01EMnJCb1g3bEZqdlBVX3E2MkZTOHl3YUxicGkxdzRJLU5lRy15ZkhDLTFDQkdvZnJ3RVFldTVOYjJyQjlyVUdXdFJvQnpzcHl5Mk1TZGZUNzVFSno1eUdSbnp5bFlhM2I4dXJCb0R1VXdNc3A3V0xOLXFLSEhIdHNEWW1fTjlzblE1ZV9HM1JpRkQzU3Z0SGZUQ0hRM1J6ZndQVl8?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T08:02:57+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "52b695f6fba7",
+   "title": "Asian games 2026: Indian Men's Hockey Team Thrashes Indonesia 13-1 In Rampant Opener",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVRTTVI4cXFQSUIxZS1oVy1BZWVUeDBZckk1LUdmLTZKZmh5SXdPSXdjQzVpd0dBTXNZVWlWNk5TeFJpSmZHbDdCSURNMFh6aU1vTmFZMzJFd3pIaEtlamxmb3RqM291SWREcFdRTUpncEtqTFRETlBUNm9QUEN5X1VQdFlHZXFUMkJqd1gwTllGTUlzZGpJUg?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T07:49:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Asian",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "07dcdc2bd201",
+   "title": "Caterpillar launches Cat\u00ae 355 Hydraulic Excavator, Cat D5 Dozer and Cat 120 GC Motor Grader at bauma CONEXPO India 2026",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWpNbkpNTTlzUENsT0FnMlBpczB4SkJxNzh2b2tpWWEtZlJTdWprSjRGa1lvWWxBVGR4SW5PTF9nUWllTWdyQ2tGLUIyajRNbXZDZGxPc3BJODJOSDZsNlg1c3k1OTVZRHFSaDU5bnJuRXVTMWtPTlYwSjF6cHY2UVBFRmVxY3RUWWxUMGFwOXJwei1uQnBMVGppZ1A1U2p1LWRXUHQ4WWtnSVhPQmxUMGJnd2J6YXVGRTZZOFVjVTNvNWd5c0lUZ19QY2hZcUxCdmd2MEs4ZC1rekNwSE0xQk10Nnh1VHM4bGc?oc=5",
+   "source": "alcircle.com",
+   "published": "2026-09-20T07:14:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Caterpillar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b86dbf7019a4",
+   "title": "SEMICON India 2026 concludes with 15 announcements, headlined by Indian startups and student teams",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0dqY09YNzlMOU5DQmxrSFdxRERqZ1lCWXhtcjMyaHNCLW41TXE0OVFVbEFtWlBLVmRjSFBPdHhZaVhpSWFydjVPVkZBeTcxVWdCcklXc054aEtyNXI3SXI0QVJGMkJ3eTdEdnRWUFhwU2ZUQjMyY0hPWkpsYnd0VmR1NkpPejVSbWZpX2dZN3lYeHoxdExEUFJB?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-09-20T06:39:57+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "SEMICON India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5d9523f31679",
+   "title": "How Modi-era Reforms Reshaped India's Entrepreneurship Dream: From 1.6 Lakh Startups To 150 Unicorns",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaFcwTEVSQ080MjVtTVV4X3hVaXZDNWlOOHhrRm9qdmpEaFh1S3RzME54QTVYb2Q0N1JXWDdkbjg5WnJzeUx3WGdYTE95NVpLN0FaaVk4djExQlVEWW5tTnRtZHJ2aUYzUUpiYndnTVRtQ2kydlRtR0pkak5tV0lQVlJMc0hIUnlVWU9wUVZSMElHUHl4eFJmSW9XX3gyTEJReTdkQUdSNjlSR2pIcnZzbEJ5X3FWZ1YtbEk1T0Y5VFJlTk81dlJIdzFJRXRJcUgzZnBjSDRUVGpOYlU?oc=5",
+   "source": "BW Businessworld",
+   "published": "2026-09-20T06:19:27+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "How Modi-era Reforms Reshaped India's",
+   "amount": "1.6 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "1.6 Lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "559fe6196574",
+   "title": "Connections and conversations: How effective curation creates impact for art exhibitions",
+   "url": "https://yourstory.com/2026/09/connections-conversations-curation-art-exhibitions-photography",
+   "source": "YourStory",
+   "published": "2026-09-20T06:18:53+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Connections",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2a5aaacc7a48",
+   "title": "Asian games 2026: India\u2019s Sonam Uttam Finishes 6th In 10m Air Rifle Women's Final",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDh4Si00ZVYxMDBZUEY4bnRPQWQtOUhmdnJyWF9QTnkzZExveFh4UTRSVjM0dUlVbktFV2RaRUwtb3hnajR0eFhTT1dVaEVwR3F5YTQtX3BhT0p6REJISlYyQlJLbFJSb0RtSjRNSGN5a0lFSGg2ZENzWjZZOXB2V1YtLVJSYVVKcHJMVnp0ZHVIUUM4eUtfdw?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T06:05:20+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Asian",
+   "amount": "10 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "10 m"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b93edad0105a",
+   "title": "Asian games 2026: Elavenil Valarivan Fires Brilliant 52.9 As Chinese Superstars Falter At Asian Games 2026 Women's 10m Rifle Final",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOG0wVWNxS2RSaW5RUzhRblVoVVhOcHJBRHNOdXQ2RWtucXZTRHpLSGh2VEg0RWp2QjRsWGpmVHhodHdfNkMtTGd5blpzOUxMR3Jhd0NhWGlfTUpwZzJCeE8xSHFzd2x6bUp1bnVnMG9QY3hKTHgybzEydTNzM2VQTWhVWENYUjV2c29LSFBaR196WFhZbENNUg?oc=5",
+   "source": "sportscapemagazine.com",
+   "published": "2026-09-20T06:05:19+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Asian",
+   "amount": "10 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "10 m"
+   ],
+   "alerted": false
+  },
   {
    "id": "e002896bfba3",
    "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
@@ -3464,59 +3658,6 @@
    "alerted": false
   },
   {
-   "id": "31f65353e1ed",
-   "title": "MDR On UPI Is Here, But Who Foots The Bill?",
-   "url": "https://inc42.com/features/mdr-on-upi-is-here-but-who-foots-the-bill/",
-   "source": "Inc42",
-   "published": "2026-09-17T14:37:12+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "MDR On UPI Is Here",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bdeac10643ea",
-   "title": "Kuku Technologies gets Sebi approval for proposed IPO",
-   "url": "https://economictimes.indiatimes.com/tech/technology/kuku-technologies-gets-sebi-approval-for-proposed-ipo/articleshow/134314577.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T14:15:15+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Kuku Technologies",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1c24baa96d92",
-   "title": "SEBI Greenlights Kuku FM\u2019s \u20b93,500 Cr IPO",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-fms-%e2%82%b93500-cr-ipo/",
-   "source": "Inc42",
-   "published": "2026-09-17T14:14:49+00:00",
-   "score": 47,
-   "category": "other",
-   "company": "SEBI Greenlights Kuku FM\u2019s",
-   "amount": "\u20b93,500 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b93,500 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "40f82e4239fb",
    "title": "Baby-focused quick commerce startup Kiddo raises Rs 12.5 Cr led by Campus Fund",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFFHTkJ3M056U0ZPRk1BRDRMZkdKTHRnUzIwQkd0UHhBcjh4YmZGRFlOU2QtcXBUWjF0dm45U005SU5pc0hQUzUzd09lQzdTOWliR24teENnOXMwZ1FCc18yTzYxZjFCSTdPSEVqaFFBalctUy0wSVlHMV94OVVGek1hMUI1OFFYUHNlNDhhX1dTSWtoUk1tbjRWQXdRM1dCd2JHLUpQNDh0Z0hjeHhLcUJXNnJnRDDSAbcBQVVfeXFMTlBRR05CdzNOelNGT0ZNQUQ0TGZHSkx0Z1MyMEJHdFB4QXI4eGJmRkRZTlNkLXFwVFoxdHZuOVNNOUlOaXNIUFM1M3dPZUM3UzlpYkduLXhDZzlzMGdRQnNfMk82MWYxQkk3T0hFamhRQWpXLVMtMElZRzFfeDlVRnpNYTFCNThRWFBzZTQ4YV9XU0lraFJNbW40VkF3UTNXQndiRy1KUDQ4dGdIY3h4S3FCVzZyZ0Qw?oc=5",
@@ -3552,45 +3693,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "03c953325f48",
-   "title": "Bombay Shaving Company Revises \u2018Switch4\u2019 Ad Post Delhi High Court Direction",
-   "url": "https://inc42.com/buzz/bombay-shaving-company-revises-switch4-ad-post-delhi-high-court-direction/",
-   "source": "Inc42",
-   "published": "2026-09-17T14:03:51+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "Bombay Shaving Company Revises Switch4",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Shantanu Deshpande",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ce62e8a9a383",
-   "title": "China's Xpeng plans to offer tech solutions to foreign automakers",
-   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-xpeng-plans-to-offer-tech-solutions-to-foreign-automakers/articleshow/134314115.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T13:54:04+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "China's Xpeng",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1fe08215011a",
@@ -7036,109 +7138,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4a8ee89eb280",
-   "title": "Apollo Hospitals Navi Mumbai introduces geriatric oncology clinic",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlJ4VXlyTURTZ0haSDgyXzZtYUdZN0pBTlFZT1poajZySWZac1F6V29TRDNTb090VXYyNHZLOEx3dGZpUlY3VUhzbzJfX1VXMXQ2eFlxRklfaWtOS011R0VZYlFua05kNkxsODRXVjFmN3J0dXRoclVic28xRFRDekdueUV0ZGhCWjRjbjMwMndHbmg0RTJ2TzNKQzZmZk0xLWVLbktaUVFsYlpyZXlnMTBIMnh0eXdHM0tlYTRqNkRLNmFkUXZFOGlmS3lJd9IB0wFBVV95cUxNaVBheDU0bWxYcEVuMHZGZlBUdDdxdVV2M0hkaUVaeWJ4bEJrQ0RrMzkzVzNxSDJ2ejAzLWxnckRXUy1tUU1lclZ6NlFxM1AxMEZIbmNRYkljMDQ1VVlrRFRJUG92cVZzRmlQUW1BemV5V2pLWkdXcDdrMzR1VFVTZWtkUV9HLVd1Q3hnT2pZNG9KbVBjVjVzWmNHcUhmMGNJTkx5Snd5Z1ZkOVU0ZnB0cU4xanJaY1REcFg1SVNlS2xoX091YUFXTlFKMWZZdmxqWU84?oc=5",
-   "source": "Medical Dialogues",
-   "published": "2026-09-13T09:15:57+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Apollo Hospitals Navi Mumbai",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b98da4767e9c",
-   "title": "Who are Rungta brothers? The mining tycoons now worth \u20b940,000 crore",
-   "url": "https://www.livemint.com/companies/people/who-are-rungta-brothers-the-mining-tycoons-now-worth-40-000-crore-11789289523046.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-13T09:07:47+00:00",
-   "score": 63,
-   "category": "expansion",
-   "company": "Who",
-   "amount": "\u20b940,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b940,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d8a0458c265b",
-   "title": "Prime Minister Narendra Modi unveils BRICS MSME Cooperation Portal",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNckJ0V0RoVDZLc0o1bGRTUkNkeUR3Z3RtakU1SnFJQ2ZocnZETDVwSWV5cVlVbjk0dzJXS2JHWVJjTEMwU1Z2eGxyWDF3bVJxMlJ5RTNQakEzMTh4YWFlUzRJNFlRQ3prMmFmdFduWlR6NC1OMzBvOEkzUW5wN1NTeXY3QjU1WmFEQWxYQmRVRGtudkRGd2xwLWlaQ00zdDRkT09wNkx0R0pTbjhzTEdacg?oc=5",
-   "source": "NewsBytes",
-   "published": "2026-09-13T08:24:35+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Prime Minister Narendra Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "79162298ad1d",
-   "title": "PM Modi unveils new Brics initiatives to boost startups, supply chains, digital agriculture",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVFWVEVsdDdjdDM0VzZUaFgxdTJEU09qM0JvNVo3QlkzYVczYWNVeEJ4Y05McE9sLWlYMGNfVHQ4VkVIZjhEYVJzODB6eGpEVFdlMEJqYVJ5aXhPX2ZWbllieExSdDVWY3RBZ01CbFlfdWFpSXpuRkYzM0NxcDBpVzJWZjVHQlhLaEU4X2tETWItcnpHSUJscnFSSXc2eXl4NTBMV3QwZ1Y2bWp5OFR5WU9GSDF6dlJKNVF1dGlocDZ6SmM3MDJXVUpwR0ZDdFIxMmctY9IB2gFBVV95cUxNTUl1T2tTdk9pZmo0ZVVDdkZsR0JPXzFXQ2lfRkotZFhNOGNBOFVYY21HUjdwbG45RF83eEdpaUl4XzgyMEhSQ05FbHNCZnJmNFg0MURWWi16ZnU2bU5FMnpkRUVZTkw4WDFHemVaWmJ1cEtpbllyVGRxbXBSTHBXc0RERTVtUGFsbzdCeGtxX0JVS0hSaGp4VGQzZHd6bjFlSXJrWEFHTzBSQ3F0SVpGd2VFTHN1dllJMnAzek5CTzc2MnlJWnhXclVzSExQZDE2WDFXa1dybG5YZw?oc=5",
-   "source": "Firstpost",
-   "published": "2026-09-13T07:08:07+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "PM Modi",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f8f4a7f35fa5",
-   "title": "BRICS Summit 2026 | PM Modi Announces Startup Fund, Digital Agriculture & Supply Chain Framework",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZnpueW5BS0xvM29Db2tEWnlTaE9GeS1ST0VBLXZHd1Y1TnBOdnl6X3l5LXdwRzRJX0dLTWtaVkVYUVhrdVNCYlU2SzNoUU82eWVVUnhvaDRzZHlza3AtdTZWOFJQQlNGR1BsZG85T0gyel9MSjFmcEVNZU45eno1YkJhd3RLSzM3ektmQk9mWFhOZWRwZk56OU1XSEZnby03QXVmOU5vT3FieU9xekViS2hpNThFQXgwaC1wUzBiZ21rVjBFUkQ1aEZSdUdwS0VsSnZpOVZfMy1COW05SkdtaWx3djRCYU5pblNHWkFWeUpHQdIB9wFBVV95cUxNZmNsZVEtaTJKaTN0cnF3TXRTMHpUYzVXZ0tLc1hsTzJCZWNsYVRqdHBfVjhXLTBBRXZ3WE9oYV9DZHY1dmhmYkQ5RFU3RnJhemZqVmRfZGRtSnBmd1A4aU5tMGNHbzVzWXE5TUstLS1Nb0dhcTlObTEyS2RucFBIMUpCR19veVRZRHlMOGtMNjNHN2J4YXotcXRmbVd4dHQ1UUpYenZRUzZydnoyX0FrUWdSNWZQbm5KOWl0dEpzU2UwMnYtSVdhTjNQdWkyY3Y4c1VKT1g5ZnBkckJpYW1YdVgxcXRHby1qRGx3REpCek1KeExKblJv?oc=5",
-   "source": "Business Today",
-   "published": "2026-09-13T07:05:32+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "BRICS Summit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ef49d548ba51",
-   "title": "Swish Buys Itself More Time At The Quick Food Table",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUdiZWtHWVZnYlVaU1UwcFVvWnY4WlpHQUxGM0wyMTJ2c0k5Q1FYbklGaDRmSXBPd043NGctWnJBVDdyb0x5LWtrRmxadjhqZENoNGxFTXp6REl6ZWFjZWh6ZTYtUXU1WVI0anFjakY2WmpsX2JETHpRazVxRE9INHJiMktnUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-13T05:30:21+00:00",
-   "score": 61,
-   "category": "acquisition",
-   "company": "Swish",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline"
    ],
    "alerted": true
   }

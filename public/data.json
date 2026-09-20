@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-20T19:16:46.180903+00:00",
+ "generated_at": "2026-09-20T21:35:40.396398+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
-  "fresh": 4,
-  "alerted": 0
+  "fetched": 9,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "ae11c81642f7",
+   "title": "Protein boom: Chaayos, Tim Hortons, Starbucks launch protein drinks despite whey price surge",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQURMVFBjTjgwd2p6SVctaXBEZy14LXpuLWJuZlEwajM2YkJPQ3l5V2p3TXA2ZTRFYm9KT0h2UXZ2NGVDRDM3SnJSUjBGV3I3U0poS0V4SUtXVDFETmZ3N0dKZmhNVThBcVR3YU5ra3ktT1hYNnhxZkxkYmR1TGFLY29aQk91dS16YUVrQjlrR1d5cmxXZk1mMUhsZC0xVlI4cFQ5YzlTRlNnVUxUa1Y1ZEstSDluLXRaVGFSNnZvLXNISDRXQlY4N3IweDhWSFhLR05kLWJRLVlMRW5QYjU3TndNaEJnR0J2dl9McWhKRUFneXVHRGhNYUphS1pmQlEzT1JLNU1n0gGGAkFVX3lxTE9BRExUUGNOODB3anpJVy1pcERnLXgtem4tYm5mUTBqMzZiQk9DeXlXandNcDZlNEVib0pPSHZRdnY0ZUNEMzdKclJSMEZXcjdTSmhLRXhJS1dUMUROZnc3R0pmaE1VOEFxVHdhTmtreS1PWFg2eHFmTGRiZHVMYUtjb1pCT3V1LXphRWtCOWtHV3lybFdmTWYxSGxkLTFWUjhwVDljOVNGU2dVTFRrVjVkSy1IOW4tdFpUYVI2dm8tc0hINFdCVjg3cjB4OFZIWEtHTmQtYlEtWUxFblBiNTdOd01oQmdHQnZ2X0xxaEpFQWd5dUdEaE1hSmFLWmZCUTNPUks1TWc?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-20T19:20:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Protein",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "5050a550e99c",
    "title": "SpaceX stock transfers raise compliance questions for Indian HNIs",
@@ -3905,24 +3922,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "a8dc4abb9081",
-   "title": "Sebi bars Kore Digital, three top execs from capital markets over alleged fraud",
-   "url": "https://www.livemint.com/companies/news/sebi-bars-kore-digital-three-top-execs-from-capital-markets-over-alleged-fraud-11789653081860.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-17T15:06:38+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Sebi",
-   "amount": "\u20b9540 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9540 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "17d4295522c5",

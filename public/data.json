@@ -1,12 +1,191 @@
 {
- "generated_at": "2026-09-21T13:07:32.188519+00:00",
+ "generated_at": "2026-09-21T18:37:49.540949+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 64,
-  "fresh": 41,
-  "alerted": 12
+  "fetched": 19,
+  "fresh": 13,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "694a442ab0c5",
+   "title": "Google opens pre-orders for $899 Googlebook laptops built around Gemini AI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/google-opens-pre-orders-for-899-googlebook-laptops-built-around-gemini-ai/articleshow/134396018.cms",
+   "source": "ET Tech",
+   "published": "2026-09-21T18:10:25+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "28b9423b719f",
+   "title": "Gates Foundation launches coalition to build more representative language data sets for AI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/gates-foundation-launches-coalition-to-build-more-representative-language-data-sets-for-ai/articleshow/134395989.cms",
+   "source": "ET Tech",
+   "published": "2026-09-21T18:08:18+00:00",
+   "score": 88,
+   "category": "launch",
+   "company": "Gates Foundation",
+   "amount": "3 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "3 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6d7c3542ee5a",
+   "title": "OpenAI calls for US to take lead in global efforts to develop technical standards",
+   "url": "https://economictimes.indiatimes.com/tech/technology/openai-calls-for-us-to-take-lead-in-global-efforts-to-develop-technical-standards/articleshow/134395917.cms",
+   "source": "ET Tech",
+   "published": "2026-09-21T18:05:52+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "30a67a4e8102",
+   "title": "Poor data sharing undermining EU cyber defences, auditors say",
+   "url": "https://economictimes.indiatimes.com/tech/technology/poor-data-sharing-undermining-eu-cyber-defences-auditors-say/articleshow/134395836.cms",
+   "source": "ET Tech",
+   "published": "2026-09-21T18:03:25+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Poor",
+   "amount": "$1.61 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.61 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b70b807d7c01",
+   "title": "Inside WOI India\u2019s Kashmir Retreat: Founders, MoU and \u20b92 Crore Commitment",
+   "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
+   "source": "YourStory",
+   "published": "2026-09-21T17:16:11+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Inside WOI India\u2019s Kashmir Retreat:",
+   "amount": "\u20b92 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b92 Crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d2c226347cb2",
+   "title": "Google to report child abuse content directly to Indian authorities",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOS1RYklGU09IZzBCUTUxZTRmRjFMR2Qxb1Z4cVE4S0FvM0VpemdKNFl0WGpBdTAtZS1OazZ3eVcwNE1UaU5tMy01VkpwQUxEVTlFQkVlY3RRR3diaHNJU2dOdkZYSXdXNmxHQlRXSVNoNHIyejhxTFVlaExBZHVPU2hwQnZrMEZRRDY5bE9ObTdOUS14a0lua1o1VQ?oc=5",
+   "source": "News India Times",
+   "published": "2026-09-21T17:01:39+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "204a64d64835",
+   "title": "ADIA Sells Lenskart Shares Worth \u20b92,390.6 Cr",
+   "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
+   "source": "Inc42",
+   "published": "2026-09-21T15:37:06+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "ADIA Sells Lenskart Shares Worth",
+   "amount": "\u20b92,390.6 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b92,390.6 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "269e13a481e3",
+   "title": "GAIC Taiwan Connects Agrifood Startups from Eight Countries with Global Market Opportunities",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemNmdXE4a3RObjVqcVFRbm8waFNRNHZNZVdNaGlNZXBzRjBiMFpLWUh3Y3E0cUlWbV8zbFAwNUNnVE1hb2Y4UEs2NU11YW9IcFdDb1M5RTllQnB3OHNMeC16eDZuZXlUbnl0RTgtWk5CZUUzclpMSmNWM0lKbFhYV0szYzlWcnd6dDVFRzBfdzNTYldReFNhZkFaUGwwSUhtel9KNnNCajZYeEdTVWFZN3pTbEFPbDByallUcHBjRjhJZktwMDkzUHQ3ZU1YT3VPZk9BZzlJYXJTNERkblFCMUFB?oc=5",
+   "source": "global-agriculture.com",
+   "published": "2026-09-21T15:34:15+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "GAIC Taiwan Connects Agrifood Startups",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8f90cf2c174c",
+   "title": "JP Morgan\u2019s new India chief Rahul Badhwar aims for top spot in wholesale banking",
+   "url": "https://www.livemint.com/companies/news/jp-morgan-s-new-india-chief-rahul-badhwar-aims-for-top-spot-in-wholesale-banking-11789993937894.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-21T14:51:26+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "JP Morgan\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ff7a7ee09d14",
+   "title": "Nothing To Spin Off CMF As A Standalone Indian Business",
+   "url": "https://inc42.com/buzz/nothing-to-spin-off-cmf-as-a-standalone-indian-business/",
+   "source": "Inc42",
+   "published": "2026-09-21T14:41:06+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Nothing To Spin Off CMF",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "f79deb9c2b33",
    "title": "Open-source is more than free code. It\u2019s a way to build for the future",
@@ -4141,23 +4320,6 @@
    "alerted": true
   },
   {
-   "id": "980a4b3aac96",
-   "title": "Here\u2019s how tech leaders and countries reacted to Amodei\u2019s call to slowdown AI",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjVsTi1TeGVKSmtkVFlNWlNPcUc4ZUVsMU54R0QyS1MxUUhJVjRORExzNk5qVGprTzRfazBDemg4QzRGRC1DSEw0Qzc2eFBOQmRlb0ZIT28xTVhIazBJMDVLQUQ1ay1oS19seTEteDVzdkxJM0ZNdlFnYXZCZlNVSGVweVNLbTA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-18T10:21:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Here\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "de7864888f37",
    "title": "AI startup Mantic raises $25 million for superhuman forecasting",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQW9XS2FtcHhIZWFuWWYtY1poZjNKa0FFaHJtZGhLWGlPODZwRy0wMGhCTVh6VDVxNW5QZkJ4Q0J5dDh3Q25MWjVXeWFVdjJkck9yRXExSmgwZ3VWYS1OVXk4RVZxc0lWQjl1aFJOYWVwODRYVnh2RHFrZ0FUMzQyQU55Zy03WlJEWENxWTl2ajg2cl9QMFZ0RnB0emtrY0dqZ2EtWS1vXzJoWmJkVU9MVGdLWGJtazB0LV9LbTBRTWtyRFBqbFdjZ2Z30gHPAUFVX3lxTE44NDRmQnRrTW5WeTZodXdEbGFxWUdNWEc4T1FpcjJUMHdUZ2x2dFJ1V2g5N0J5NVUwaHRHUGxoUzlmTHZUZGVJWjZhQVRjdnJsRnVESzNRYXowOU5VcW9NTjlQR2l0cGZWQTFQVFVKckVwR3M0MVlmN3VKQkZWdk8xSnBOV2tCalBjbzQ5YTlJeE5sRjlCWThDR3RxYnl2LVdYUlVQY0g1d0x5Z3pJbVJIRTRESWZNT3d6TTlJMmg0R1ZXQ25Yamc4NWNNZ25sTQ?oc=5",
@@ -4174,57 +4336,6 @@
     "$25 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "93767252a3eb",
-   "title": "Ashwini Vaishnaw's Big Bet: India Wants 200 Chip Design Startups, Not Just Fabs",
-   "url": "https://yourstory.com/2026/09/india-chip-design-startups-semicon-2-0-msme",
-   "source": "YourStory",
-   "published": "2026-09-18T10:05:37+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Ashwini Vaishnaw's Big Bet: India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "99f1bcafa686",
-   "title": "Bombay Shaving Company Changed Its Ad After A Court Order. The BSC vs Gillette Fight Is Really About How Far A Challenger Can Go After A Market Leader",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb1cwMWplVFlYbGJVaGRJT1Z2eDBONTRWZDJYTFNGNmZ0UjBVcjBkMDA4MHlicjA2R2g1Wkc5alJuV0tJNTVPaHZ2ZTRWcHQyOFRHSEtzajk3YVlVclVwYVRvSFVZQXZBbk9IbW5taXpMd3Z6UlUtQi1QZTlzZHA4RGxzTmNFRFhuU0dWQ1Bmb2RyMnpXM04tazdWaWlDWTZhU3FsemdoYlhmc0UyMVk1dUlvYUZRYzB2cFhTSG12U1J1OE1tLWZYbmRaYUF0NWtUOGFubk1qM1RiREVtZGxNUjV6WlJEWGVlUm1vZzkycFZad3IweVlCZkQyTzdFRFhvNG5YYzRBcTFMeDRtSzFUS0lTNA?oc=5",
-   "source": "inventiva.co.in",
-   "published": "2026-09-18T10:02:57+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bombay Shaving Company Changed Its",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fc262d326837",
-   "title": "Oversight Board tells Meta to remove AI video targeting refugees",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSnBiZjY5YkJMQ2V4ZXVSZVplV3ZlYWFXRTV3RjR0REhwMzZ6OVBob3RhMFZBR3R2SVZBdGxPeE1mdmtYcDZxSGhEU1pwdlJPZUdmVHRkcU8zaHgtdF95WDRJa2luV056eG5yZkJXbWZqNk9OOVRnbW5Hbk9UbFE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-18T09:56:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Oversight Board",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "53fc61a516d8",
@@ -7003,111 +7114,6 @@
    "score": 60,
    "category": "funding",
    "company": "India Inc",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b99dd125294c",
-   "title": "What Dario Amodei, Sam Altman and Elon Musk have said about AI risks, stoking 'doom' fears",
-   "url": "https://economictimes.indiatimes.com/tech/technology/what-amodei-altman-and-musk-have-said-about-ai-risks-stoking-doom-fears/articleshow/134246769.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:37:44+00:00",
-   "score": 59,
-   "category": "funding",
-   "company": "What Dario Amodei Sam Altman",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fd6f215440ca",
-   "title": "Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round",
-   "url": "https://economictimes.indiatimes.com/tech/technology/temporals-valuation-spikes-to-12-6-billion-in-lightspeed-led-funding-round/articleshow/134246659.cms",
-   "source": "ET Tech",
-   "published": "2026-09-14T18:29:37+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "Temporal's",
-   "amount": "$12.6 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$12.6 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d03576f2a549",
-   "title": "AI startup Flam raises $40 million in Series B led by QED Investors; Shah Rukh Khan joins round",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORW1YeU1xLV8za1hZTFdQT1dlLWo0dDZ3UlhwZlZiRGJhb0lJTFJaZEZtU1d5V3p2RldRTTk4bGhHRGxwWFFGVUFicTBUMTNDdGVlQV9LNU51a0s0X1hMSFM5SlY4a2VVaWx2b01EWnU5aDJwTXd2MjItN1QxYzFqMWFQLWxpcnVwMFZHUjl5ZGk5NmE5VktMNGdoVE5JNVBiNzQ0ZGJ5WTJiZXFZZU5tcHV5NEdHbmp6WVRWQndRWUMwLU0tNXJFZHVQWmdKSm5CV1hwd0NWNmtsZXBFbFhoV0NjLVVYQ2VIRExJQ0JCU1pZNlRyc18tOUFOWjjSAYICQVVfeXFMTTV6dkMtQkIxUm93RmY4NmdZNFM3S1p1OHBpeWNKZWxacTZ6cnJET1g5N2JoM291RGh5TU9ob3BGQ0VJNm04S1lxaXNvZWd2TlFkb0FtdEZQdkRSSU5zNE1Eb21oSTZQcmNIS3ZiODRyWkFBQU1Xb2pzVHpXWkwwTFJMcVpqUHYyeTR6WjVmMDVRUnFoTVBsMWRfeHZhTWYycERUeXBTUkg5aUswaHhxdUJqRmZIT0FTQXNWTzlENjhpNVh1dEtXN05rQm5YSzRZWmZEQlBNM25ER3JvTTlrQ2YxYUtsZHZvV3RwMnd4VmUydHg3Z2NQcEEwS3pDaVAtTXpR?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-14T17:46:20+00:00",
-   "score": 87,
-   "category": "funding",
-   "company": "Flam",
-   "amount": "$40 million",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$40 million",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "09e3e82f30d1",
-   "title": "Amazon ramps up India network ahead of festive season",
-   "url": "https://yourstory.com/2026/09/amazon-ramps-up-india-network-ahead-of-festive-season",
-   "source": "YourStory",
-   "published": "2026-09-14T13:36:57+00:00",
-   "score": 64,
-   "category": "launch",
-   "company": "Amazon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e08791f07205",
-   "title": "Keventers\u2019 founder now launches Peep Beauty - D2C brand for Indian eyes, gets Triptii Dimri on board",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVktXVE9oYWgwWmxTZGM4a0NLNE9rQ3IwcmRJU3pPelpzLWNnNm41bjhsbEd2Y0lKQlNyVVNJVmN1WHQ0QXJsMzJiUUw5aFVKYXA0UFI1SmNTUnp1WmJNNk1HVjZIUmFReTFvTGRzSUxFSzVuaGFBMmhQeVd4eHBWSWVpeTJQanNmc3QtVUQ3bkhycU1HT0U4S0FlVUxHY3VZTDB6TkxubjFoX1JRdnVRQWxUSk41N0ZwakNYcHZJVUdVNTZwaXBjeU9PSGJ1dVBOcXF3Zg?oc=5",
-   "source": "Startup Pedia",
-   "published": "2026-09-14T13:30:37+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Keventers",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f248afda3980",
-   "title": "Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5djRhNWwwbkU3SENFYWFiZUp3ckwzLVlMMU1LV1l3RzcwbHd0QXNGYlRyd0dBSl9Pb1RGdW1GLV9VWVNNekoyOEVvNTl3NmRmZXQyVF9FaVZ2MElmNFc0TEhrZFRWSG5vc01oWGctX1RpNjRT0gF6QVVfeXFMTWVYdVVfSmtTWWw0SVFfVVhpQjZrQVhIUzBpTVZfT0QtRUxxTmZHdDJ6SEp1NlpkZDVkeDBvLXZxX3hEczJlXzduNkVubkNxNVZGb1ZSYXYwME1fQVlFVk1xai1udEtrZ0lOck95a2FLSGdhMzJtRHJPd2c?oc=5",
-   "source": "cnbc.com",
-   "published": "2026-09-14T13:08:29+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Space",
    "amount": "",
    "stage": "",
    "founders": [],

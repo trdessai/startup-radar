@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-09-21T22:10:28.173948+00:00",
+ "generated_at": "2026-09-22T00:50:19.867650+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 9,
-  "alerted": 2
+  "fetched": 6,
+  "fresh": 4,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "ff349db7acec",
+   "title": "Why Policybazaar-backed PB Health is doubling down on hospitals",
+   "url": "https://www.livemint.com/companies/why-policybazaar-backed-pb-health-is-doubling-down-on-hospitals-11789988705523.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-22T00:30:33+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "Why Policybazaar-backed PB Health",
+   "amount": "\u20b910,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b910,000 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8e95d625e047",
+   "title": "A year after Nayara blip, Microsoft promises Indian clients full sovereign cloud and data control",
+   "url": "https://www.livemint.com/companies/news/a-year-after-nayara-blip-microsoft-promises-indian-clients-full-sovereign-cloud-and-data-control-11789999144448.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-22T00:30:13+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2daec3dde402",
+   "title": "UPI MDR to pinch retailers with bigger baskets, while sparing others",
+   "url": "https://www.livemint.com/companies/upi-mdr-charge-impact-retailers-e-commerce-companies-above-2000-11789973148560.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-22T00:10:12+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "UPI MDR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "ac397160e08b",
    "title": "Snapdeal Parent AceVector\u2019s FY26: Loss Falls 64% YoY To \u20b946 Cr",
@@ -4208,40 +4261,6 @@
    "alerted": false
   },
   {
-   "id": "6d8c481fb7e9",
-   "title": "MDR fears groundless, AI accountability lies with boards: RBI Dy Governor SC Murmu",
-   "url": "https://economictimes.indiatimes.com/tech/technology/mdr-fears-groundless-ai-accountability-lies-with-boards-rbi-dy-governor-sc-murmu/articleshow/134334682.cms",
-   "source": "ET Tech",
-   "published": "2026-09-18T12:00:22+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "MDR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "29dec1130032",
-   "title": "L\u2019Or\u00e9al onboards two Indian startups in second L\u2019AcceleratOR cohort",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHM0dTZSTHdZQVp2WFhkWEs0a1Exd2dxLXFZN25sMFJpbHBFb3dyTlY3c1c4ZkI5MF9TTllZNW5ZR2NPc0xTVXBWRDVjcXl2X1lQcnpBa1VYQmJRSFM3X1lPTGpPaDJ6YnNGMjEyS0lRQzJoVFpIbTFpZnZUNXVzWVRhTWcxZHNyMjFJSmpRcmZmV2Exa0lPY0I1SlVFVWR0NUR1QkMzakt5OEtkRWfSAa4BQVVfeXFMUHRzNHU2Ukx3WUFadlhYZFhLNGtRMXdncS1xWTdubDBSaWxwRW93ck5WN3NXOGZCOTBfU05ZWTVuWUdjT3NMU1VwVkQ1Y3F5dl9ZUHJ6QWtVWEJiUUhTN19ZT0xqT2gyemJzRjIxMktJUUMyaFRaSG0xaWZ2VDV1c1lUYU1nMWRzcjIxSUpqUXJmZldhMWtJT2NCNUpVRVVkdDVEdUJDM2pLeThLZEVn?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-18T11:26:42+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "L\u2019Or\u00e9al",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e5109f865f9d",
    "title": "Non-Alcoholic RTD Brand Twisted Tails Debuts on Swiggy Instamart",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTklSaHllaHhNSExwa3JTS05OQUYyQTFTdHVqcTYwQXUyemxPc3RGUUFpSWxkcDVVUk93UE93MDd2S1ZvTUJwR1dJSkdLU09UVnhuYXNwbTJoTmZ3VWtONjBZMEt5QVBSbWhYQ0NxTEdpWFltRl9Nb1d6Q1VnNzZqUDZKanZpRXVTX240OXg3RnRreWRKQ0luSXdpQm9Zdw?oc=5",
@@ -7094,23 +7113,6 @@
    "founders": [],
    "reasons": [
     "funding"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c56529bc760d",
-   "title": "India Inc seeks legal safeguards as agentic AI raises liability risks",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1diZW1sYXZJRk94T0V2U1Q2N3hVbnRsb0dwTkNXX05iZndTd2V2RS1rWE5VRHZIYUJyOGJsckhlSVJlQmRRSnJfb01KTDZYQi03ajBBRzBmZWU2V09RR1pCc2c0ZGhlbGtfMUh0RTMxU3hqb3g1eGZfTktWb1I1WEFyenE3VHRsMnpzRDA1STR5VFRuN1dTaDdNU2hjUk9scWRpVnlPZUhEOWdwYVlHS0szWkd2YkVWMkJramxyTWJlVzBBVEVxV25zX3VZUWVUekhsY9IB2gFBVV95cUxPY0NmOFhlMXp0c203dlpPR3ZrclVBendTSEpnbnBYdVFvQlAwZkF4ek0zMXExM1dnekVxRUxJYXlZQW1pdUxzMW1pOENaMXRnS05TN0taTndZNFJaN0xQUi1jMXBLd1NpWUgtMFVxTFhiV1d4NUlleERWZmNlRjBOemY3QXRYdGxVLU9WRmtQQUZTUnIwV0hnVW9mRkV6d1lQMm52bnV2M2ZhTV9kQVVfQ1NBRkNnSG5adWxrbV9FaW9zSnpfOXJGTUpaSVNNWVFOa2hwRjI5OEZpQQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-15T00:30:00+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "India Inc",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

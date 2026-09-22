@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-22T21:30:21.539358+00:00",
+ "generated_at": "2026-09-22T23:46:07.328049+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 6,
-  "alerted": 2
+  "fetched": 2,
+  "fresh": 1,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "8ff0ee31abeb",
+   "title": "KYRO AI Launches a Digital Hub for Storm Restoration Work",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzgtQVVVdFFpSHBVVU9qRmZ0LW1WMTR6WUFBSTdjdklPV1p3WXpXTWxYSTctMU8zWDhTLXJkSFpPRFpKTTh0LTBQbDFtT0tjUGk2aTRsY3NrbjdBX0JYYXctLXFtRVJxeG9ka0pnTHBGbGtvN0RhNmxZN1VjWFlFYkd5U3VtMHNHMzNF?oc=5",
+   "source": "Techli",
+   "published": "2026-09-22T20:56:43+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "KYRO AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "d5bf508bd8da",
    "title": "- MediaNama",
@@ -4933,23 +4950,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "332af2a08a7a",
-   "title": "Bayer-Backed Startup Robigo Bio Advances Engineered Biologicals to Fight Soybean Disease",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjQwMndNZlpKSEJZZ2FRa1pYWE5kaTI2WFpaTVRBRXNoTGRvbWt5ejh3LVNDejRVYm8tWVV0bUpuVHl1VG1NM0I3WG1IWVItVVhOTTJPdjlzNmY5bkJIZWExY05CcXpnd3p5SjBaTkNpZ3ZwQV8yYTVyOFo4NHRDelN5UGptQnRjeG9kc0NMU25iaFhrblFCRVVvMmdibTZqa2libVY3cng3OEtTd0dFWDZxS0hSYnJOQnVqT2xUeHFNNHRNeFZxSkVGeXJqU2E5R3FMaXlVeGplVGlCaWxF?oc=5",
-   "source": "Global Agriculture",
-   "published": "2026-09-19T15:09:38+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bayer-Backed Startup Robigo Bio Advances",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "998c0b00879e",

@@ -1,12 +1,303 @@
 {
- "generated_at": "2026-09-24T00:51:58.812051+00:00",
+ "generated_at": "2026-09-24T05:35:40.061598+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 8,
-  "alerted": 2
+  "fetched": 16,
+  "fresh": 16,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "f74f944ab582",
+   "title": "Meta's Charm gadget carries CEO Mark Zuckerberg's big AI ambitions",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions/articleshow/134451753.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T05:05:59+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Meta's Charm",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Mark Zuckerberg's",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4efea11a370a",
+   "title": "AI firms should not get regulatory waivers, says Nvidia CEO Jensen Huang",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-firms-should-not-get-regulatory-waivers-says-nvidia-ceo-jensen-huang/articleshow/134451232.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T04:38:32+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "",
+   "amount": "$13 billion",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "$13 billion",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b2b86090e71a",
+   "title": "Anthropic touts AI-led biology discovery",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-touts-ai-led-biology-discovery/articleshow/134450981.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T04:05:15+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7be104719df0",
+   "title": "Space investment more than doubled to $23 billion in year to June, report says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/space-investment-more-than-doubled-to-23-billion-in-year-to-june-report-says/articleshow/134450652.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T03:37:37+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Space",
+   "amount": "$23 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$23 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a759342646a4",
+   "title": "Hacked FBI data has sensitive information about employees' intelligence roles",
+   "url": "https://economictimes.indiatimes.com/tech/technology/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles/articleshow/134450621.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T03:33:00+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Hacked FBI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3f5f11d775f3",
+   "title": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity/articleshow/134450452.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T03:20:14+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Heads",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1f83028325d8",
+   "title": "Australia's prime minister criticizes OpenAI over government website security breach",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australias-prime-minister-criticizes-openai-over-government-website-security-breach/articleshow/134449805.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:43:14+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Australia's",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0f47d981004e",
+   "title": "Meta bets big on wearable AI, Muse as Mark Zuckerberg pushes back against AI doom",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-bets-big-on-wearable-ai-muse-as-mark-zuckerberg-pushes-back-against-ai-doom/articleshow/134449727.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:34:53+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6a910c3acf28",
+   "title": "OpenAI data breach latest in long list of hacks in Australia",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-data-breach-latest-in-long-list-of-hacks-in-australia/articleshow/134449669.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:32:15+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e5e5c41325c3",
+   "title": "Gupshup\u2019s AI Rebuild, Moneyview\u2019s IPO & More",
+   "url": "https://inc42.com/buzz/gupshups-ai-rebuild-moneyviews-ipo-more/",
+   "source": "Inc42",
+   "published": "2026-09-24T02:30:10+00:00",
+   "score": 46,
+   "category": "expansion",
+   "company": "Gupshup\u2019s AI Rebuild Moneyview\u2019s IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7c25580a72de",
+   "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-issues-11-1-billion-in-bonds-in-openai-financing-push/articleshow/134449655.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:27:27+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "$11.1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$11.1 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b30deebda03c",
+   "title": "OpenAI says SEC disclosures undermine xAI's antitrust lawsuit",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit/articleshow/134449625.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:24:41+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5e86f3c1f4dc",
+   "title": "Facebook accused of deceiving users in New Mexico as trial over privacy scandal wraps up",
+   "url": "https://economictimes.indiatimes.com/tech/technology/facebook-accused-of-deceiving-users-in-new-mexico-as-trial-over-privacy-scandal-wraps-up/articleshow/134449539.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:16:08+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Facebook",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "680ae94a6108",
+   "title": "Meta launches camera-free AI glasses amid privacy pushback",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback/articleshow/134449489.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T02:12:06+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a6eb9d023ae0",
+   "title": "Zoho\u2019s Sridhar Vembu talks about \u2018ubiquitous intelligence\u2019; Meet the speakers at TechSparks 2026",
+   "url": "https://yourstory.com/2026/09/zohos-sridhar-vembu-talks-about-ubiquitous-intelligence",
+   "source": "YourStory",
+   "published": "2026-09-24T02:00:00+00:00",
+   "score": 59,
+   "category": "launch",
+   "company": "Zoho\u2019s Sridhar Vembu",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fe617f440f30",
+   "title": "VCs hungry for kitchen startups; Vala Afshar\u2019s blueprint for India\u2019s AI future",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-hungry-for-kitchen-startups-vala-afshars-blueprint-for-indias-ai-future/articleshow/134449160.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T01:51:01+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "VCs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "e536ec32f619",
    "title": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet",
@@ -4930,127 +5221,6 @@
    "alerted": false
   },
   {
-   "id": "204a64d64835",
-   "title": "ADIA Sells Lenskart Shares Worth \u20b92,390.6 Cr",
-   "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
-   "source": "Inc42",
-   "published": "2026-09-21T15:37:06+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "ADIA Sells Lenskart Shares Worth",
-   "amount": "\u20b92,390.6 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b92,390.6 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "269e13a481e3",
-   "title": "GAIC Taiwan Connects Agrifood Startups from Eight Countries with Global Market Opportunities",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemNmdXE4a3RObjVqcVFRbm8waFNRNHZNZVdNaGlNZXBzRjBiMFpLWUh3Y3E0cUlWbV8zbFAwNUNnVE1hb2Y4UEs2NU11YW9IcFdDb1M5RTllQnB3OHNMeC16eDZuZXlUbnl0RTgtWk5CZUUzclpMSmNWM0lKbFhYV0szYzlWcnd6dDVFRzBfdzNTYldReFNhZkFaUGwwSUhtel9KNnNCajZYeEdTVWFZN3pTbEFPbDByallUcHBjRjhJZktwMDkzUHQ3ZU1YT3VPZk9BZzlJYXJTNERkblFCMUFB?oc=5",
-   "source": "global-agriculture.com",
-   "published": "2026-09-21T15:34:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GAIC Taiwan Connects Agrifood Startups",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8f90cf2c174c",
-   "title": "JP Morgan\u2019s new India chief Rahul Badhwar aims for top spot in wholesale banking",
-   "url": "https://www.livemint.com/companies/news/jp-morgan-s-new-india-chief-rahul-badhwar-aims-for-top-spot-in-wholesale-banking-11789993937894.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-21T14:51:26+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "JP Morgan\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ff7a7ee09d14",
-   "title": "Nothing To Spin Off CMF As A Standalone Indian Business",
-   "url": "https://inc42.com/buzz/nothing-to-spin-off-cmf-as-a-standalone-indian-business/",
-   "source": "Inc42",
-   "published": "2026-09-21T14:41:06+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Nothing To Spin Off CMF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f79deb9c2b33",
-   "title": "Open-source is more than free code. It\u2019s a way to build for the future",
-   "url": "https://yourstory.com/2026/09/open-source-is-more-than-free-code-its-a-way-to-build-for-the-future",
-   "source": "YourStory",
-   "published": "2026-09-21T12:49:51+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Open-source",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "96559988cec3",
-   "title": "US, China to hold more AI safety meetings in two months in Shenzhen, Scott Bessent says",
-   "url": "https://economictimes.indiatimes.com/tech/technology/us-china-to-hold-more-ai-safety-meetings-in-two-months-in-shenzhen-scott-bessent-says/articleshow/134389695.cms",
-   "source": "ET Tech",
-   "published": "2026-09-21T12:27:39+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "US China",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "95450c061554",
-   "title": "NBFC Ascend Capital\u2019s FY26 Profit Up 6X YoY To \u20b910 Cr, Revenue Rockets 130%",
-   "url": "https://inc42.com/buzz/nbfc-ascend-capitals-fy26-profit-up-6x-yoy-to-%e2%82%b910-cr-revenue-rockets-130/",
-   "source": "Inc42",
-   "published": "2026-09-21T12:23:38+00:00",
-   "score": 39,
-   "category": "other",
-   "company": "NBFC Ascend Capital\u2019s FY26 Profit",
-   "amount": "\u20b910 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b910 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "345ba2b0e65c",
    "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
    "url": "https://economictimes.indiatimes.com/tech/technology/govt-asks-microsoft-to-set-up-data-centres-closer-to-power-generation-sites/articleshow/134389614.cms",
@@ -5068,23 +5238,6 @@
    "alerted": true
   },
   {
-   "id": "e558894f1bdb",
-   "title": "NSE IPO filing warns AI may outpace market surveillance",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HYmdsNm1JOC1Ebi1xZDQ0a1FnYlVWWmxsQzQ2QURHUVJtZHpHTHZ3RFU1bDFYNW9WRkd6aU9oYV8yWGdZZE5NOEU2emprbUhJRld5RXJDZUFfSE9xVXlFRXNYY2NHXzRNQ0hrc0VnSlRjdDhu?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-21T12:19:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "NSE IPO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "02d6ac2cb52d",
    "title": "CSIR Launches Science & Innovation Quiz on MY Bharat Portal to Promote Scientific Awareness",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00T0drQlBqa3lKZTM1VWl5NDYxZlN0VVFLX3dkSHNyVlJPbUdzM1FVaXJVeGpVMXdPUWNZZGlYRE9HTlRHYzlRbUE4V2RIQXJVUUM2Nw?oc=5",
@@ -5100,41 +5253,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b3c4b029bf49",
-   "title": "Starbucks to set up first India GCC in Chennai, plans to hire 800",
-   "url": "https://yourstory.com/2026/09/starbucks-set-up-first-india-gcc-in-chennai-plans-to-hire-800",
-   "source": "YourStory",
-   "published": "2026-09-21T12:12:07+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "Starbucks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "604659c21fd9",
-   "title": "Delhi High Court directs SAP to restore software services to Nayara Energy",
-   "url": "https://www.livemint.com/companies/news/nayara-energy-sap-delhi-high-court-sanctions-software-services-11789983094693.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-21T12:03:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Delhi High Court",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "27569405d66a",
@@ -6999,113 +7117,6 @@
    "reasons": [
     "expansion in headline",
     "Rs25 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cceaf22d0224",
-   "title": "NSE raises Rs 6,746 Cr from anchor investors ahead of IPO",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnB1LVlfdzlUYVZaTWRfX2FSXzVsN211SnBDUktqWlo5SkREcjdDelF3RGFULUNnbm9vS3NoRS1XN08xUzZfZDFDN3RSNHYzM2kweDRUUFFGNTFYNmN4NGFNTVFHa0o4d1FsbUpmT2RmYUpHNGhVVG95Ny1RbHg4WlB4cXdtM2k1Vk0ydTBqY2FIWGp2aUHSAZYBQVVfeXFMUDJwdS1ZX3c5VGFWWk1kX19hUl81bDdtdUpwQ1JLalpaOUpERHI3Q3pRd0RhVC1DZ25vb0tzaEUtVzdPMVM2X2QxQzd0UjR2MzNpMHg0VFBRRjUxWDZjeDRhTU1RR2tKOHdRbG1KZk9kZmFKRzRoVVRveTctUWx4OFpQeHF3bTNpNVZNMnUwamNhSFhqdmlB?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-17T04:54:10+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "NSE",
-   "amount": "Rs6,746 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs6,746 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f866585671cd",
-   "title": "RentoMojo Makes Strong Market Debut, Lists At Nearly 19% Premium",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNlZ181SG9FUnd3cmhCZEFmdXpLRlA5V2VnQXNxYXFpOWlUWFh2VFhEQThuQ1h1b1dDYU41WlVvaHVoTWpxM2RLWFlHdE0wQ2RHR1FWYlFIVWxxTWZfUVpZZExWTWVQTmZKZVI0dURFTFJfeG5IYkg4TjhyTTFIZENwTGJLY1VBVm1SeTFiTQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-17T04:50:42+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "RentoMojo Makes Strong Market",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1ba291d7e980",
-   "title": "Inside Yulu\u2019s Series C: funding breakup, valuation, captable",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE5Xd3pydllMNGhHeFZPR0JTZlVKbjNZNEFXbjFZYjRBSjI4V0RMWU83Q1hULU1MYnJ3b1ZpbncyaGpjX2diR1FqbjlxZElteUlfZUtzZ2VKZTgyNkk0RHJ3VG9CSlF5aVcweEo0LTNqTG43Zkl1aV9mUmFlTTFZTFhHOE5XR21yVURabk5wVm00S1NXeXB3SlRISdIBmwFBVV95cUxOdE5Xd3pydllMNGhHeFZPR0JTZlVKbjNZNEFXbjFZYjRBSjI4V0RMWU83Q1hULU1MYnJ3b1ZpbncyaGpjX2diR1FqbjlxZElteUlfZUtzZ2VKZTgyNkk0RHJ3VG9CSlF5aVcweEo0LTNqTG43Zkl1aV9mUmFlTTFZTFhHOE5XR21yVURabk5wVm00S1NXeXB3SlRISQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-17T04:03:59+00:00",
-   "score": 64,
-   "category": "funding",
-   "company": "Inside Yulu\u2019s Series C:",
-   "amount": "",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "77aabc36d979",
-   "title": "Australia launches $21m fund for early\u2011stage clean energy startups",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2YtQXowd1NRNHJuOXV3czlBUWVUWUQ0VjZ2eC1BaGNWMnV1d3pLbUFPVGJWb21fTWZ2Y3lieXYzcktubl9DWVJ2Ykx0LUJ3WlVKc3lzLW9Zdk9VQzkxc193M0VMUElBZzM4OEtsbi1BUWhHVGcwYXZaV1hLT3ZtdHlpWWNwSEFkZFEzM1hsUlIyS2Ns?oc=5",
-   "source": "Asian Power",
-   "published": "2026-09-17T03:50:40+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Australia",
-   "amount": "$21 m",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$21 m"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c5e47090a7a5",
-   "title": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia",
-   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia/articleshow/134300920.cms",
-   "source": "ET Tech",
-   "published": "2026-09-17T03:35:28+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "China's Huawei",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6ab7745cb5b7",
-   "title": "Vishal Sikka's Hang Ten Systems Raises $53 Mn In Fresh Seed Funding",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhLU3VKQ3V1cVZmM3BUQ2ZnN01OZGZNWmR1R0ZvUzJTeWp0MEwzclk4Z1dYZHZmd2ZnUVFIU01PTXNHMXlCeC01YzljRXczWmtWNWhQS1o5bGdkRGY0Y3luTXR2bWhqSGFiTkgzSERkTUotdWFTZ0ZDZjduTENXVmdMeGpKbzA0ZXpwdGlJRmJPLXJ0ajZ4YV9MSjI4T2gtR0hwenFnZDl6WkppM3V3?oc=5",
-   "source": "BW Businessworld",
-   "published": "2026-09-17T02:33:06+00:00",
-   "score": 90,
-   "category": "funding",
-   "company": "Vishal Sikka's Hang Ten Systems",
-   "amount": "$53 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$53 Mn",
-    "Seed"
    ],
    "alerted": true
   }

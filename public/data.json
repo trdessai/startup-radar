@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-09-24T19:19:51.715538+00:00",
+ "generated_at": "2026-09-24T22:29:36.614030+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 20,
-  "alerted": 5
+  "fetched": 9,
+  "fresh": 4,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "e70fbe450ae9",
+   "title": "Qween launches microdrama series \u2018Drama Qweens\u2019, breaking barriers that women face",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzBMRjJndlZJT0ZSN2VpMndyV1F6VHhZVU9sQ1hWNXN5MUJNNmJYT1BTLW5qYmt1aUV6U1U3MGxjZlBUTENneWFrV0tiM3JnWTlPTDhvb01zWkJuWUZyMkpkd1hHbTdZUU54Nkp4NThqZ0tKaGEtSE56Yzh1VmtKaDg0ejRNcHRodkxpSXB0b3pMMWo0eEpBVS15WmtObmJqbFBIS2ltenQ2cjBfZ2hqS3lR?oc=5",
+   "source": "The Retail Jeweller India",
+   "published": "2026-09-24T21:23:58+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Qween",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "06d473128ff3",
+   "title": "At $4.4bn, B\u2019luru tech funding this yr nearly equals next 5 cities combined",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVnhnanAwcnVvWEtNenF6OFVhZDdlT2VTdjUwbzUzNGViS3J0aHNZc2VWRzNsVlZINXE0bk1VZEVURmNJUlZWNHBuXy1XSnhvWGl6SlBzTEotZVhNMXBBeVJYc192aTNpNzU3REJDOFctQ2l2UzRBVWY0MEttNFplSmY4RHRfdEdjZmk4RkVJcVY3Q29MT3BYZHR6ODJCUjR5TWNWUUtkZW4wOHktRm1fU0s3WG85eENPZFg5V2Z2MXh6S1NVY25QM3B1cFBURmVHRWEzbEphUDVXSXU5QXF4cFRJb9IB6AFBVV95cUxQOWJLLWtmb09MQXZ1UHB0MmUwWi1relB2NnJRdUMwdkRURUlpSFNqeHVJQXpMYnhEbGZZT3pYTURaN1JGY2hyd21ueHViLXlZeGlsLV9MREFUZ2ZDVGhmZFBpMFRlZ3h0aG9Ec0JwUkhOYkZoX3cyV0lxMVd1VlIwWFNaU0lWMkZTN0wtc1pIdkRyNlpSN09STldmYlJNNkQ3b3ZhX3NFMkgtTG5SaERnNnlLNmMtaGtLdmNiMlBsZEN4OHVhMDJDSzEtSDBOdzFtUTNMb1BiM25BT0Jvb2ZMSk1zdDZkd0hJ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-24T20:00:00+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "At",
+   "amount": "$4.4 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.4 bn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e8181cf7b1ef",
+   "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
+   "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
+   "source": "Inc42",
+   "published": "2026-09-24T19:55:51+00:00",
+   "score": 64,
+   "category": "expansion",
+   "company": "Amazon India To Invest",
+   "amount": "\u20b928,790 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "\u20b928,790 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "da0f57c45f54",
+   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
+   "source": "News On AIR",
+   "published": "2026-09-24T19:27:16+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Maharashtra",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "28ab5d1e634a",
    "title": "TPG Exits FirstCry With \u20b9202 Cr Bulk Deal",
@@ -5085,24 +5155,6 @@
    "alerted": true
   },
   {
-   "id": "0d3a1c34d7bd",
-   "title": "Adani Group companies pay \u20b91.5 crore to settle Sebi\u2019s Hindenburg-linked probe",
-   "url": "https://www.livemint.com/companies/news/adani-sebi-settlement-adani-hindenburg-report-11790078187149.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-22T12:37:14+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Adani Group",
-   "amount": "\u20b91.5 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91.5 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ce9fee5ac252",
    "title": "Footprint Raises $25 Million to Scale AI-Native Financial Crime Compliance Platform",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWl9USWlhMmJqT1Z3SUFFb2w2T2pzVFI3U1F0YjBPbzRocjNxN1VNMkhqMGJfcmlQNFFiNWhxMWxnS1Z0QmFDLTN5dzlpNGk3RVoyUUFHMVFCRVRuZFl4S3ByenM1UzZydENjWHh2V2w2Q21fOTVYMWdfWUk4WU14WnlXNUZtV1ItbUltcmcwUVpFX2ZiaW9FTDJGdjVwZi1OMTB5S25OWjJhdy1ra3BMbEJXWUFWaWNm?oc=5",
@@ -5121,23 +5173,6 @@
    "alerted": true
   },
   {
-   "id": "7e8ae838ab10",
-   "title": "Demoverse, TimBuckDo, Definedge, Prime Industries secure capital",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSndOR2FKM0Z1Rm0yMXlMWi1FTGxHNzZJMGtaX3RWSDEwbVBJbzFFbXd4RnRHMDlURmtQdTVNUUFuYkdmMFVSTUJZdlUwUG9EYlNpOXd0VkFLZHlEYzFfRTlBTGhmUGk1d25nVmpzamZjdkNBMzhrU2R2VGkxNUhjTEZCVHlrUUIzQVRSNzl3?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-22T12:04:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Demoverse TimBuckDo Definedge Prime Industries",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f0e5af424ebe",
    "title": "Binance buys $100 million stake in Circle, expands partnership",
    "url": "https://economictimes.indiatimes.com/tech/technology/binance-buys-100-million-stake-in-circle-expands-partnership/articleshow/134411618.cms",
@@ -5154,41 +5189,6 @@
     "$100 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "808d308c8c90",
-   "title": "Manoj Bajpayee moves Delhi High Court for his personality rights: What does the petition argue?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IYWtONzU2Q0ppSV9BMVhMU05XaVhwbGUxR09maVE4M0VyNzloOW01R1lmdzluaTYzMlIyZHBWZ19BMHU1VWFCQVp6M2VhWU1hVU9EYVRNY0w3U3lJcG8xZmoxYXJkSDNPV3NsMzJtc0xLQlBRcWRZazN5X0w?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-22T11:49:29+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Manoj Bajpayee",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a122a92d8da8",
-   "title": "Why retailers and merchants are pushing back against UPI MDR",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQNHpzYUpqMGtOaUJKRHNpZjdsR2FyRFdLVm9MTXhHMHl4enRPMHpqVG9aYnNaaDBpT3ozZ0dBOXdrNzRuNjFRTE9FaHdQdHFwVzRZRC1yLU9KSWpQZmtVRGk5RzFRV082OEhhNmVBUXRMdzRXcV8tdUdKb0Z5SkE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-22T11:49:09+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "bc0a96e49f3d",

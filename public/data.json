@@ -1,12 +1,137 @@
 {
- "generated_at": "2026-09-23T22:39:37.650081+00:00",
+ "generated_at": "2026-09-24T00:51:58.812051+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 9,
-  "fresh": 3,
-  "alerted": 0
+  "fresh": 8,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "e536ec32f619",
+   "title": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUd6alRzLWhiWEo0eWg3UkwzelpDUjlkME5URXJCUDYxQlFqaE1oVjdzWFhibXF3aC10QUQydEtBMlZoOXh4RW1obk5OREFNN19WVENEcm1RcDNXZmYtODluY3JWNVc4NkNBUi1nWVQ5dFd4R2Ftcm5vQkNOX3RtRzMxTmpJYTN3cXRhUUZPUFA5ckhHSFlZSTlHVjRxVERraXZfa0kxaVNnNnpTNXRlTm44UG9TMGU1TkZjWEo3a2VpeXMyODRsTE9LN0FZZ3RjNnQyQ0c3aWh0WUxhLWlmNWR30gHiAUFVX3lxTE5pR3pqVHMtaGJYSjR5aDdSTDN6WkNSOWQwTlRFckJQNjFCUWpoTWhWN3NYWGJtcXdoLXRBRDJ0S0EyVmg5eHhFbWhuTk5EQU03X1ZUQ0RybVFwM1dmZi04OW5jclY1Vzg2Q0FSLWdZVDl0V3hHYW1ybm9CQ05fdG1HMzFOaklhM3dxdGFRRk9QUDlySEdIWVlJOUdWNHFURGtpdl9rSTFpU2c2elM1dGVObjhQb1MwZTVORmNYSjdrZWl5czI4NGxMT0s3QVlndGM2dDJDRzdpaHRZTGEtaWY1ZHc?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-09-24T00:43:00+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Pentagon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "99b2ba71a109",
+   "title": "Manufacturing, transport firms overtake banks to lead India\u2019s GCC boom",
+   "url": "https://www.livemint.com/companies/news/manufacturing-automotive-gcc-in-india-global-capability-centres-11790161173032.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-24T00:30:51+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Manufacturing",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ab43c1e12992",
+   "title": "Y Combinator leads $1 Mn pre seed round in ByteAsk",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2ljbHU5eVhnVWFkY1pBSk1iMVFHaFRncjh5alRnREhLZFNaNEUwdkNsTVJlUDhSZk1mS25mRmk4YjY4SE51QU9uZk5RRmxHdnJ4Wk05M3BFa3NOS1NkaHppNklxVmczWW9OZ19GSEVreEFrRi1tU2RtblJfcDNHTHE1Q3pWOE1Da3ROV3FJcVRsZ9IBkgFBVV95cUxQV2ljbHU5eVhnVWFkY1pBSk1iMVFHaFRncjh5alRnREhLZFNaNEUwdkNsTVJlUDhSZk1mS25mRmk4YjY4SE51QU9uZk5RRmxHdnJ4Wk05M3BFa3NOS1NkaHppNklxVmczWW9OZ19GSEVreEFrRi1tU2RtblJfcDNHTHE1Q3pWOE1Da3ROV3FJcVRsZw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-09-24T00:30:37+00:00",
+   "score": 45,
+   "category": "other",
+   "company": "Y Combinator",
+   "amount": "$1 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 Mn",
+    "Seed"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "09bf9e793398",
+   "title": "MacBook Neo nearly doubles Apple laptop sales in India\u2014set to cross one million this year",
+   "url": "https://www.livemint.com/companies/news/apple-macbook-neo-sales-in-india-11790150301297.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-24T00:30:31+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "MacBook Neo",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f966f28194ef",
+   "title": "Tata Technologies\u2019 China unit steps up work for Agratas",
+   "url": "https://www.livemint.com/companies/news/tata-technologies-china-agratas-lithium-ion-battery-production-11790157502423.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-24T00:30:31+00:00",
+   "score": 19,
+   "category": "other",
+   "company": "Tata Technologies China",
+   "amount": "\u20b97.34 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b97.34 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fcbc62ec77ab",
+   "title": "AI coding startup ByteAsk raises $1 million from YC, Entrepreneur First",
+   "url": "https://economictimes.indiatimes.com/tech/startups/ai-coding-startup-byteask-raises-1-million-from-yc-entrepreneur-first/articleshow/134443548.cms",
+   "source": "ET Tech",
+   "published": "2026-09-24T00:30:00+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "",
+   "amount": "$1 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1 million",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9c2b089694de",
+   "title": "India-backed Institute for Human Flourishing launches during UNGA week to shape AI\u2019s impact on workers",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdjVyTnpUWjlUNWNubmtncEJMaG5WMmNER2h1YmJfdkhobF9OWjlPWUR4b19tdGZCN3hQZGJ0MnJqaWpCVXlpYWZrRWlMV19DZ2wzY1RVUEhtdEZXbDMxUkZ4SHU5SVVNdlZxZHJRZFJPc1lFbGZWVFdfV0VyZVpGaFhQQkVzTnhBbEtaN3ZpMTBBQWNBd0hFSFpRZmQwdHpMQ2hKYWZ5cUh4aHQ0cm5aZWcxNTFRSU11MHdPSzlPZ3Jna0xJMW1feGJpdjY2bjBjTFFVWWt1X2hlZERJQkUyMFRpMVFzNUZD?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-23T21:13:31+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "India-backed Institute",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "1a532cc38da1",
    "title": "TimBuckDo",
@@ -5008,130 +5133,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1147793e12e5",
-   "title": "PharmEasy-Owned Thyrocare To Exit Radiology, Sell Nueclear Healthcare For \u20b9141 Cr",
-   "url": "https://inc42.com/buzz/pharmeasy-owned-thyrocare-to-exit-radiology-sell-nueclear-healthcare-for-%e2%82%b9141-cr/",
-   "source": "Inc42",
-   "published": "2026-09-21T12:01:29+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "PharmEasy-Owned Thyrocare To Exit Radiology",
-   "amount": "\u20b9141 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9141 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b589c57b93f4",
-   "title": "Retail India News: Tommy Hilfiger Expands D2C Business in India",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2JxdmU3WUJDeVMxc2RCTkFQVlRvZ1ZNVC1KNzQzenhLT1pZMGtCbVcwbW1aN1B5aXc4WklWSjNjSkJxVzVubVc0VV9OTWlVLXRqSFhmZTk4UTVrZGgtOFF3Wkt3RjByNElSZXlkNWFUMDVZUk9STnU1NkY4aDN6N0VPS1JYam93d2o2SmpON1YyTHk0NTFPelFLcw?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-21T11:48:45+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Retail India News: Tommy Hilfiger",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2cacdc00a3bc",
-   "title": "Bombay HC: Digital Film Licences Are Not IT Software",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWkyQkFidUpobVoyNmc0MUw4NVRuWGZlNFZuWWZXZ0NlWldzVENLclh3T21Ca2QxTndfbVkyelk2RnBHb29tandLQnVtS2RiT29BMno4LUw5UGZEOGNkMFdSTU5aQzVJMnZZQnFLaW9IeTM1OFN2TGM0TUQxZnR0dlZ3?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-21T11:37:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bombay HC: Digital Film Licences",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "946e8eb64d62",
-   "title": "Indian founders account for $560 billion of company value abroad",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOU5vbTFoVWN1THlZcWlLcWJrdnRNWHNTLXJuSXJoanJ3TlhHSDVMNXpJZklULXB3WmhFLWU1Z3pvVkF1UXRORlZoSGVXaDNnNktmWVZPTHQ4WEZFY2dNMXpRODRHU0l2dzBLRDVreFd1UWNMMUc5dC1Tb3Jtbl91cHVoWTZ5bVJha09UV2pKVVBxVFZEQUMxTTNMOXplaVBwWFlsbVFBNWpNVjViZFNQUXM4QXhjTm9TMDNJQ0tqcGJIZGhHajBraEpXRFBJWXNta3hNOTBWY2fSAdgBQVVfeXFMTjlOb20xaFVjdUx5WXFpS3Fia3Z0TVhzUy1ybklyaGpyd05YR0g1TDV6SWZJVC1wd1poRS1lNWd6b1ZBdVF0TkZWaEhlV2gzZzZLZllWT0x0OFhGRWNnTTF6UTg0R1NJdncwS0Q1a3hXdVFjTDFHOXQtU29ybW5fdXB1aFk2eW1SYWtPVFdqSlVQcVRWREFDMU0zTDl6ZWlQcFhZbG1RQTVqTVY1YmRTUFFzOEF4Y05vUzAzSUNLanBiSGRoR2owa2hKV0RQSVlzbWt4TTkwVmNn?oc=5",
-   "source": "Business Standard",
-   "published": "2026-09-21T11:35:04+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "",
-   "amount": "$560 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$560 billion",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1876187233cf",
-   "title": "The CFO Code: Decoding How India\u2019s Top CFOs Think, Build And Scale",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTFQZGNCVDFreDBfaDVFSmNERFRHNm4zOFh4SVNDYUNKWGR3SjNVdy0wamd6WXBRZEozNlFlU1hDcy1ubm5TM2NwVXJuT0x0RzJKZWlld3A1OUJ1bUd2OHNMTkV4eTBCVW9wZXN5eGl2VlJ1cGhQbU5uOVBpSXVOQWVoYXVXUjZGRi1qVU5CdkVXQ2t6cEE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-21T11:30:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "The CFO Code: Decoding How",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5160c5764a1a",
-   "title": "- medianama.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vOTlmeGYzZmk2Z0lXd2pMY0tPT3h0eWM4b0laQmZVMWlXWmR1MGhVaWQyR01Rb2NUSVFPdTVDanVQMzVnU2tISDNxcjNJcjhmQWwxTHlyUy1UWUNHdV81MEd0aHE5aUU?oc=5",
-   "source": "medianama.com",
-   "published": "2026-09-21T11:28:43+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "78c531d1700c",
-   "title": "IPO-Bound Moneyview\u2019s Q1 Profit Jumps 2.6X YoY To \u20b9173.8 Cr",
-   "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
-   "source": "Inc42",
-   "published": "2026-09-21T11:28:27+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "IPO-Bound Moneyview\u2019s Q1 Profit Jumps",
-   "amount": "\u20b9173.8 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9173.8 Cr"
    ],
    "alerted": false
   },

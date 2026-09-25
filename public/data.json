@@ -1,12 +1,386 @@
 {
- "generated_at": "2026-09-25T00:40:22.153013+00:00",
+ "generated_at": "2026-09-25T05:25:30.797994+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 5,
-  "alerted": 3
+  "fetched": 27,
+  "fresh": 21,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "9e60e32add93",
+   "title": "Betterhood Raises Rs 11.5 Crore as 7,000-Physiotherapist Network Becomes Part of Its Growth Push",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWdQLWx1S2QtYjRueEUxbm1xay1TY0xSWnRVTkEwWHRkcUZ2eGFMbTdOanJHdDdTUzl5NTFqSnZGY21fTHVJaFRpU1k0ZGFOQ3kwTGt3TTNkOGVGNFBxOXBkTFNwQkJCZ0I0Z21jZ29xUktmdEpVS2xRV24xb1VMbm8tcnprMjRGa3BzQ3VsR2F2bGlXUkZpbnRqWUpXcEZrbTNTOGNOSmdONk5tWXc?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-09-25T05:02:58+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Betterhood",
+   "amount": "Rs11.5 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs11.5 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "bc671fbe346a",
+   "title": "MDR on UPI payments above Rs 2,000 will not be passed on to consumers: Govt sources",
+   "url": "https://yourstory.com/2026/09/mdr-on-upi-payments-above-rs-2000-will-not-be-passed-on-to-consumers-govt-sources",
+   "source": "YourStory",
+   "published": "2026-09-25T04:50:23+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "MDR",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eca800256fd5",
+   "title": "Exclusive: K12 Techno Services grants fresh ESOPs worth $20 Mn",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1FJcGVGbmhROHVnYlIyTFlWWG1RVUx0Q3B5czYzSXRZTU1RenNMMnEtbHAydmdqcXQzY3NtYmdkbWh4a1ExdnlJeXBFQlV5X09BVlNGUXp3ZkhlcW0tUG9nNVJXdFNOYnJ1aG9CWVY5bTgzcWh0OWlERUN3d1hSRlJURlRfenE3X0FMLWJ1NjktX0tLY25IaW5yYXdPRld1MnfSAaIBQVVfeXFMUG9RSXBlRm5oUTh1Z2JSMkxZVlhtUVVMdENweXM2M0l0WU1NUXpzTDJxLWxwMnZnanF0M2NzbWJnZG1oeGtRMXZ5SXlwRUJVeV9PQVZTRlF6d2ZIZXFtLVBvZzVSV3RTTmJydWhvQllWOW04M3FodDlpREVDd3dYUkZSVEZUX3pxN19BTC1idTY5LV9LS2NuSGlucmF3T0ZXdTJ3?oc=5",
+   "source": "entrackr.com",
+   "published": "2026-09-25T04:48:30+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "K12 Techno Services",
+   "amount": "$20 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$20 Mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f7e4ad72745",
+   "title": "Microsoft President Brad Smith to lead communications department",
+   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-brad-smith-to-lead-communications-department/articleshow/134475421.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T04:42:53+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Microsoft President Brad Smith",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "451fe4bf358e",
+   "title": "Solara in talks to raise $20-25 million led by Faering Capital",
+   "url": "https://www.livemint.com/companies/start-ups/solara-in-talks-to-raise-20-25-million-led-by-faering-capital-11790187257903.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-25T04:33:40+00:00",
+   "score": 68,
+   "category": "funding",
+   "company": "Solara",
+   "amount": "25 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "funding in headline",
+    "25 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3acef27c3014",
+   "title": "\"Compute in space will round up to 100%\": Elon Musk backs future of AI compute",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/compute-in-space-will-round-up-to-100-elon-musk-backs-future-of-ai-compute-as-google-announces-project-suncatcher-test-launch/articleshow/134474871.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T04:10:40+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Compute",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9c1a6700a039",
+   "title": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T04:05:38+00:00",
+   "score": 60,
+   "category": "product",
+   "company": "One",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sundar Pichai",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3d907cda6781",
+   "title": "Mitsui-backed JSW One Platforms files for $318 mn IPO",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYmVDMVFTMWNiVmtMeV82QzlydC10Y3F4OFZvQ1FGcFdsVThBdnBVdUk0TkQ4T0FGVFRCQV8zV2hvUlM5RUZSYUF2elBHcWR3MGU5RHotVTFzcHNRb1FPZThtSnpkSnJ6cDZTdDBnRVNka00zRVdoY0hwcl9mMUVWZmt3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-25T03:52:48+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Mitsui-backed JSW One Platforms",
+   "amount": "$318 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$318 mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6efd22b1b6a1",
+   "title": "KKR-backed e-bus maker PMI Electro confidentially files for IPO",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTBYTkpkUlpCaG1kVmtZZkN4REhGT01Wbzc5RXdsYXU0M0g1WU5xaG8wTjczVHJsX3ZfUWZ6dDFUdWhWbEphN0MtSlpoTjBpZGlETXFCeUg4elNUUmNEWFdmOFVybXptZkVLNGtBdVFTYzBGaEY3NF9pUHlrb3duVFdITGFYNUdVOEowenRMLWY?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-25T03:49:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "KKR-backed",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0ef733975caf",
+   "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-the-coding-boom-fades-computer-science-grads-focus-on-ai-skills-in-choppy-job-market/articleshow/134474428.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T03:40:56+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "As",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2c80d6a57232",
+   "title": "Akamai, Anthropic sign $11.6 billion cloud services deal",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/akamai-anthropic-sign-11-6-billion-cloud-services-deal/articleshow/134474212.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T03:24:46+00:00",
+   "score": 60,
+   "category": "expansion",
+   "company": "Akamai Anthropic",
+   "amount": "$20 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "$20 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a5b4d5a573a0",
+   "title": "Libas eyes 2X festive revenue jump, targets Rs 1,000 cr in FY27; calls itself 'ZARA of Indian wear'",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRkt3UWVzRldJYl9ZMmE4RVE5cGQ0QlJhd3ZzYTh1bDhjakthaThaVS13bTM2UUZhbEVzT2s1RzJaU3ltTWNuMHJtZENrOURnLUszdVRxZUYyN2N0ZENNbERVai1QazdIQTlRUjJsak9hdnoyUzBzMlgxWEtWR0ZpMkZIZWhkMGNFNzR4QnFJWWYyS19qSlpZTWlpWmZ4YmZrYU94OEhKYUJfUFhYby1YUjJwc0VPRmZOS0RzVjhQX2gxdEZTbWRYamNzZXdzUndDa05BcXQ0SkstYUNzZ0dN0gHfAUFVX3lxTE1GS3dRZXNGV0liX1kyYThFUTlwZDRCUmF3dnNhOHVsOGNqS2FpOFpVLXdtMzZRRmFsRXNPazVHMlpTeW1NY24wcm1kQ2s5RGctSzN1VHFlRjI3Y3RkQ01sRFVqLVBrN0hBOVFSMmxqT2F2ejJTMHMyWDFYS1ZHRmkyRkhlaGQwY0U3NHhCcUlZZjJLX2pKWllNaWlaZnhiZmthT3g4SEphQl9QWFhvLVhSMnBzRU9GZk5LRHNWOFBfaDF0RlNtZFhqY3Nld3NSd0NrTkFxdDRKSy1hQ3NnR00?oc=5",
+   "source": "Storyboard18",
+   "published": "2026-09-25T03:23:42+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Libas",
+   "amount": "Rs1,000 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs1,000 cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "43dd63f29bb6",
+   "title": "Anthropic seeks 50.1% voting control for cofounders ahead of IPO",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-50-1-voting-control-for-cofounders-ahead-of-ipo/articleshow/134474140.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T03:17:30+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "905ce2b161a9",
+   "title": "Autonomous AI hacks raise thorny questions of legal accountability",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/articleshow/134474095.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T03:09:21+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Autonomous AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "523ab30a07a0",
+   "title": "Oracle, Blue Owl project delay sends ripples through AI financing",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-blue-owl-project-delay-sends-ripples-through-ai-financing/articleshow/134473751.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T02:54:59+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Oracle Blue Owl",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "15d30a618ddd",
+   "title": "OpenAI to preview GPT-6 Cyber within days",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-preview-gpt-6-cyber-within-days/articleshow/134473657.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T02:49:40+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Sam Altman",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf8f183a8bb9",
+   "title": "Microsoft launches India South Central datacenter in Telangana",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWnVvcmxzSVBpWFREY1V5enh5ZmV2UDBaVTdJVFV3Y0RHYnJyUldGYkw0Tmt1eFhNd2xxRHR2T2QtVzQ1LVNLMWVyUkY0SjFYQlZSdEhGeWFhSGswOWJhSWNGalBaSmJEY1MtNGVLbEdRLTlNZnNSbktoc2hCd2tqWXNaTmpWcHdOY2xMcTR5VmRYR2dkUTNJLWg3dDNZZTB5TUN1czkyQ0tyVjgwMTI2cEhwMzFiLTZNaHFxM2d4S3pNOEV0VnVkN1FuUUJ0OUlsWjZlZWszZVZxMWVPU3RZQTFPeVo1MlFEMmowM0hsZmJiVmN6ek4yTmhyNTJsME9yQlhuYzA2VkFqQV9QQUFUbm130gHgAUFVX3lxTE9ncW0td0htT1g1cVd2dmRYYm0tUHFtcUpnbU1GOEV3dG9yNmp6TmlUVWE1OUFSTW9ORUsxSkNCWFVlWG8yVjU0aC05Unpyc3ZVOHEtNXVkMUF0UnllLV9EVk9TR3l1bHgxV1lHcEsxdEVDd1hFMW1ZY0pUSlBrMFNxcDlrdng4MzJkeHZPTTREcG4yX2pvUkd5cDkyd3k4T2xPMkEwcUpiMGFpclcyeFlERWIwa244ZGtRNVhYVVlCQVNVaUtRSnBqYzE1XzF6QXhkVlRLTHR5NWhpc2dEcUFB?oc=5",
+   "source": "ET Datacenters",
+   "published": "2026-09-25T02:45:16+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Microsoft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3fbd8cf84434",
+   "title": "The Insurance Shuffle, Moneyview IPO Day 1 & More",
+   "url": "https://inc42.com/buzz/the-insurance-shuffle-moneyview-ipo-day-1-more/",
+   "source": "Inc42",
+   "published": "2026-09-25T02:30:36+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "The Insurance Shuffle Moneyview IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "438b561fa520",
+   "title": "Fuelling startup dreams: JIS Group launches incubation centre, hosts second innovation hackathon",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR09NZFF5cTlON0ctTV93M0xLRmlWS0tDcUZFbUEzYVVxb0RHOGpPX1hCblg5WkZfeFF2Wjl0NW1oXzB2TS1Ed1NvUHZ6b05vaXpEMkVmZW14RlJqTGFMb0wtZmtCMzd5azlNOEJTZkFjcC1GN1Jnd1BvUXYtRUNZOEY1RjYxN1lzRWFGa0NWRUpoM0ZlQU54Y0xIUjIxZExqY3dlRDNpdUE1eFZxRDd5VEN4NW9SeEpoVW95cTBPYWVKR2dNcUc3emFWejVncGxUaFlLTmxxQXVIOVJvMEM0LXRkbVBpdGJhQ0ZGWFN2V050dkJTTEJV0gH3AUFVX3lxTE1HT01kUXlxOU43Ry1NX3czTEtGaVZLS0NxRkVtQTNhVXFvREc4ak9fWEJuWDlaRl94UXZaOXQ1bWhfMHZNLUR3U29QdnpvTm9pekQyRWZlbXhGUmpMYUxvTC1ma0IzN3lrOU04QlNmQWNwLUY3Umd3UG9Rdi1FQ1k4RjVGNjE3WXNFYUZrQ1ZFSmgzRmVBTnhjTEhSMjFkTGpjd2VEM2l1QTV4VnFEN3lUQ3g1b1J4SmhVb3lxME9hZUpHZ01xRzd6YVZ6NWdwbFRoWUtObHFBdUg5Um8wQzQtdGRtUGl0YmFDRkZYU3ZXTnR2QlNMQlU?oc=5",
+   "source": "Telegraph India",
+   "published": "2026-09-25T02:16:10+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Fuelling",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4f257980db5d",
+   "title": "IRDAI's commission reset impact; ETSA winner Progcap\u2019s next bet",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/irdais-policy-to-rattle-insurers-banks-etsa-winner-progcaps-next-bet/articleshow/134472995.cms",
+   "source": "ET Tech",
+   "published": "2026-09-25T02:07:54+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "IRDAI's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c8dd0b9e4a7c",
+   "title": "Tata tussle turns the spotlight on TVS-Hanno deal; India is leapfrogging in AI: Google Cloud executive",
+   "url": "https://yourstory.com/2026/09/tata-tussle-spotlight-tvs-hanno-deal-india-is-leapfrogging-in-ai",
+   "source": "YourStory",
+   "published": "2026-09-25T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Tata",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "263aef52955f",
    "title": "Anant Raj plans \u20b925,000 crore data centre bet without fresh funding",
@@ -4422,60 +4796,6 @@
    "alerted": false
   },
   {
-   "id": "58af998e15f7",
-   "title": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands",
-   "url": "https://yourstory.com/2026/09/nuvr-bootstrapped-startup-managing-rs-1200-cr-ecommerce-sales-brands",
-   "source": "YourStory",
-   "published": "2026-09-23T03:21:30+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Meet Nuvr",
-   "amount": "Rs1,200 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,200 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e2ebca502a88",
-   "title": "Indian Walker lands first institutional round at Rs 20 Cr valuation",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHlzLThLQmw0OW1DRTZYZ250WTRqM083eVpQQ29wYU1yZkN3SFpwMVM0SmlXVzJEUHd1czdYQTFhbGZVVE1GZ2lLRlpqNkhaQXNWYjc4SWNRQkxkN2FXbkxqU1U5MHZURU90UDlUczQtS05IYUlwQUdnaVJNYmNyTnZ2bURjNWVxeTJHdXZ4akhJU3l2OXNtUUtXazQwWW95QjQ4?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-23T01:20:43+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Walker",
-   "amount": "Rs20 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs20 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "655240748c13",
-   "title": "Snapdeal banks on Gen Z to leave its old image behind",
-   "url": "https://www.livemint.com/companies/snapdeal-banks-on-gen-z-to-leave-its-old-image-behind-11790076291203.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-23T00:30:52+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Snapdeal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "20fb50b82f17",
    "title": "D2C streetwear brand Indian Walker raises pre-seed round at Rs 20 Cr post-money valuation",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRF9Ic01UbFlTVkEzSzJOcm5pV2Z0UDY5SWQwUk0xaDIyYmpWNXctUDJMZ3JhelFaUDR3ckhta3UxUmU2c25WWXFMUy1Wbk5OSG0wYndiWUhIQmZGNHBNa0Z5dmk0WTdmMVIxUm9HaVJ1R0JrQzZZR3VjWThsd2ZGS2xycThSTVBabzJVVElzRXhzXzAyeHYxWDlkSkhLMlpPWWN1c3MzMmZ3am5HVnJnSnhySGp0d2xxMzY0aEVydGRCYlE3ZDQ00gHHAUFVX3lxTFBEX0hzTVRsWVNWQTNLMk5ybmlXZnRQNjlJZDBSTTFoMjJialY1dy1QMkxncmF6UVpQNHdySG1rdTFSZTZzblZZcUxTLVZuTk5IbTBid2JZSEhCZkY0cE1rRnl2aTRZN2YxUjFSb0dpUnVHQmtDNllHdWNZOGx3ZkZLbHJxOFJNUFpvMlVUSXNFeHNfMDJ4djFYOWRKSEsyWk9ZY3VzczMyZndqbkdWcmdKeHJIanR3bHEzNjRoRXJ0ZEJiUTdkNDQ?oc=5",
@@ -4496,28 +4816,6 @@
    "alerted": true
   },
   {
-   "id": "d265b1ffc0da",
-   "title": "Casio India targets doubling business in five years, avoids full-fledged smartwatches",
-   "url": "https://www.livemint.com/companies/news/casio-ceo-shin-takano-targets-doubling-business-in-five-years-smartwatches-gshock-11790063600573.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-23T00:30:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Casio India",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Shin Takano",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "8ff0ee31abeb",
    "title": "KYRO AI Launches a Digital Hub for Storm Restoration Work",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzgtQVVVdFFpSHBVVU9qRmZ0LW1WMTR6WUFBSTdjdklPV1p3WXpXTWxYSTctMU8zWDhTLXJkSFpPRFpKTTh0LTBQbDFtT0tjUGk2aTRsY3NrbjdBX0JYYXctLXFtRVJxeG9ka0pnTHBGbGtvN0RhNmxZN1VjWFlFYkd5U3VtMHNHMzNF?oc=5",
@@ -4533,42 +4831,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d5bf508bd8da",
-   "title": "- MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEZzX21NMER1bmJ0QUFkWU85QWphMEFsMEI5cXJqLTQ3VjZrc0t1TG1SYzAwSWFZQ2VrRlliUjZ3cTFLU1ZZMkJHc3plMG9JRTdXd2YtdlFLSk1NSHpvOVFRTEJLWjFTMjVmM1pQcnY0UHBWVEFLN2Y1c2xfTjgwN1VXd195bHhsZEpn?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-22T18:37:02+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f078aaa5f3ff",
-   "title": "Accelevation targets up to $5.4 billion valuation in US IPO",
-   "url": "https://economictimes.indiatimes.com/tech/startups/accelevation-targets-up-to-5-4-billion-valuation-in-us-ipo/articleshow/134418945.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T18:25:21+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Accelevation",
-   "amount": "$5.4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$5.4 billion"
-   ],
-   "alerted": false
   },
   {
    "id": "8df05b963f3a",
@@ -4607,23 +4869,6 @@
    "alerted": true
   },
   {
-   "id": "364f61721d70",
-   "title": "Ex-Google safety chief warns AI could harm children more than social media did",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-safety-chief-warns-ai-could-harm-children-more-than-social-media-did/articleshow/134417809.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T17:34:55+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Ex-Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "6b8be2cb1b21",
    "title": "Anthropic unveils Claude Opus 5.5",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-opus-5-5/articleshow/134417201.cms",
@@ -4639,23 +4884,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "630cb56140a1",
-   "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/three-out-of-four-americans-say-ai-firms-not-doing-enough-to-prevent-disaster-reuters/ipsos-poll-finds/articleshow/134416531.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T16:30:26+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Three",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a976843383ec",
@@ -4744,60 +4972,6 @@
    "alerted": true
   },
   {
-   "id": "278368da88c5",
-   "title": "7 Books that can change the way you view happiness",
-   "url": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness",
-   "source": "YourStory",
-   "published": "2026-09-22T15:34:21+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6c2a98e0a238",
-   "title": "4 Quotes from books that can help you through tough times",
-   "url": "https://yourstory.com/2026/09/quotes-tough-times",
-   "source": "YourStory",
-   "published": "2026-09-22T15:28:14+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2e671931d526",
-   "title": "Mastercard Exits Pine Labs Via \u20b9934 Cr Bulk Deal",
-   "url": "https://inc42.com/buzz/mastercard-exits-pine-labs-via-%e2%82%b9934-cr-bulk-deal/",
-   "source": "Inc42",
-   "published": "2026-09-22T15:23:58+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "Mastercard Exits Pine Labs Via",
-   "amount": "\u20b9934 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9934 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7ee1c0f49584",
    "title": "Cred alumni\u2019s Sol raises $4 million from GC, Nexus Venture Partners, Kunal Shah",
    "url": "https://economictimes.indiatimes.com/tech/funding/cred-alumnis-sol-raises-4-million-from-gc-nexus-venture-partners-kunal-shah/articleshow/134415545.cms",
@@ -4834,42 +5008,6 @@
    "alerted": true
   },
   {
-   "id": "b3fb3a0dbd40",
-   "title": "Can startups turn India into a global space power?",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzJmM2RjdF84T2JnNEluYkp4ZzE5TURKeXBScXdWRW9OZlVZYVBReWxrYmgwSVBTX1lvejJNRDlLT0k1UWpJcFQtX281aFRkdlNLNTFEUW5sN3ZVQjNxZUFFZmF3SnBNNlR6NE5xcEhjUlZadWNEd1BjQkdhM2RJWGFaTUs5T01rNmYweFBndw?oc=5",
-   "source": "DW.com",
-   "published": "2026-09-22T15:15:43+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Can",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5fc9b1dbfb0d",
-   "title": "Demoverse raises $600,000: Can AI help brands know what consumers want before production?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHhJRUw4b2xRZ0ZHbVo2TGFGQjNxTks5V2FnTVhNYnkyV1hwZ3ZkbnN4Qkh2V3NpSDdUdDh0WFBaV2xKYU90T3hQX0xibHpFQlB6NjhmeFpCbExfQ3NybHl3RVlBbnpHY0piTGNlTm5YUUtvM2VQT1ZaTjEtNkpSdlVMRUROU1UtV1dJNHN3Ul9EanlNRlVlUVBaNEhiWGlUQUlXaU5qVHFOb0JCLUtETnNobjN3RWdIVUN3Q3NPUzEwOFJvc051a0Fn0gHPAUFVX3lxTE1RZzB3OFhOcl82bVd0OTRBNDAzMVNULU1yc19mdVdpOGFJNjczajhuVFNDWlRHLXg5N190Ul9wTklMYWRNN01aSEY0YlhrWkFvajM0WVBiTVRuQ29GaFdfb1RaQ2dzUmZWbURFX244Mi1FOWpsRWhEeVFnNENQZmx1NEUxT0M1cmJRQ2ZFVzdSUTllOTF1Y05FQWxtU0YxbzF2MmFWNEdfX3QtSnNSWTg0NEhmV1JweXNYTVU3YUFVOVhOZDRZR202QzBXMlMzYw?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-09-22T15:05:05+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "Demoverse",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f9ec3d2d1d60",
    "title": "Sol Foundry Raises $4 Mn To Automate Email Commitments With AI",
    "url": "https://inc42.com/buzz/sol-foundry-raises-4-mn-to-automate-email-commitments-with-ai/",
@@ -4888,42 +5026,6 @@
    "alerted": true
   },
   {
-   "id": "9a9a3dba6c79",
-   "title": "Persistent Systems buys additional stake to get 83.2% control of Nagarro",
-   "url": "https://economictimes.indiatimes.com/tech/information-tech/persistent-systems-buys-additional-stake-to-get-83-2-control-of-nagarro/articleshow/134414961.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T14:41:58+00:00",
-   "score": 23,
-   "category": "acquisition",
-   "company": "Persistent Systems",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition in headline",
-    "markets story"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fc4a901c404f",
-   "title": "Lavni Ventures Closes Rs 200 Crore Fund II to Back Deep-Tech Health and Climate Startups",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmgxU1N5Ylg5Zi1YVHZKTUJ6VndPZXJRTnlFNUFBaVZXSEVNUzQwMEVuWE1iU0J3VksyOUEzR01tdVVlTDAtU2N2c3l3cTN0a3FBU2VUYnlNR25JYTRqeHVkSzRGeUtDbVRYQ1pMY2ZtLXY2SFdDRXh3OXFLYVUzdEVMVkZsUE5LalpNVlo1LUNWYU1HOE5yRDZqV1Ytd29VbnMyU29lQnA5NzZ6MGxtaDdYeTZmT3lUSkJmQmhuR1dNdGJVbW5pOQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-09-22T14:38:45+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Lavni Ventures Closes Rs",
-   "amount": "Rs200 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs200 Crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "22e7f72398a6",
    "title": "\u2018I raised funding\u2019 is new \u2018I got placed\u2019: How Shark Tank is changing B-school ambitions | Masters' Union Gurugram story",
    "url": "https://www.livemint.com/companies/news/i-raised-funding-is-new-i-got-placed-how-shark-tank-is-changing-b-school-ambitions-masters-union-gurugram-story-11790084576284.html",
@@ -4939,25 +5041,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "9a08104bf2e5",
-   "title": "Meet Africa\u2019s richest person: Here is why he has hired Engineers India for a \u20b94,302 crore project",
-   "url": "https://www.livemint.com/companies/news/meet-africa-s-richest-person-here-is-why-he-has-hired-engineers-india-for-a-4-302-crore-project-11790085349235.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-22T14:07:36+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Meet Africa\u2019s",
-   "amount": "\u20b94,302 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b94,302 crore",
-    "people move"
-   ],
-   "alerted": false
   },
   {
    "id": "e8267a111117",
@@ -4979,23 +5062,6 @@
    "alerted": true
   },
   {
-   "id": "5a3da074e5c6",
-   "title": "NEWME Expands to 40 Stores Across India, Targets 60 Outlets by March 2027",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVlpVjJIM0RMc01sbnF2cTNfMWp0b3JOVjBMU1FFX3hVUXlFUElPc0dhMlAyNjFpRjRfMGNlNS14dHFFWFZWVFhzSlNsZ3NoWjRZM2dnM010aG03UWNnLXUzVmNPYWNrWU5JZjVnbG4wRzJMenJFTVRQM0FCR0NYZzV3NHpIY0lkVFJTUDk1Q0ZEa09qWktGY09tS1RfcXpRX2tGSA?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-09-22T14:02:40+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "NEWME",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "25ec63f31156",
    "title": "Demoverse Raises $600K Pre-Seed Funding Led by Lumikai to Build AI-Powered Product Co-Creation Platform",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejQ3WUI0Y2JzYzFhSFZXemtYMGR5Q3JleHNMclFQNU1mREdxMkNGTWQweWJFcE9oc0RBTXhVRjBMOWxoaEloeXBtZVlFTVBicEtmNmFqWDVmOWFiY21fNEVhOXQ4dXFYMndBMDhROXptZzEtelR0cG1mclRBcUl6Wi14bjN3YUdveDAwXzJEdWQ2eXNJUGhtV0NZN1M4bGhVazA1SGpZVzVQVGtMN0ladm9FQTlmWHNVVzgzd1dCVlVMQjJvemZxWkxrd2xuZktjVFNBX09NYnprQU5ybWZJNHhlbw?oc=5",
@@ -5013,57 +5079,6 @@
     "Pre-Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "7cbb0f00bb06",
-   "title": "UN chief calls for AI curbs and end to wars in his last assembly address",
-   "url": "https://economictimes.indiatimes.com/tech/technology/un-chief-calls-for-ai-curbs-and-end-to-wars-in-his-last-assembly-address/articleshow/134414082.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T13:52:44+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "UN",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ae1934690b2a",
-   "title": "CoRover.ai, Tech Mahindra partner on India-origin AI",
-   "url": "https://economictimes.indiatimes.com/tech/information-tech/corover-ai-tech-mahindra-partner-on-india-origin-ai/articleshow/134414036.cms",
-   "source": "ET Tech",
-   "published": "2026-09-22T13:48:34+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "CoRover.ai Tech Mahindra",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "91c37b1d8e0d",
-   "title": "Hikal shareholders to vote on Sameer Hiremath\u2019s elevation amid family ownership dispute",
-   "url": "https://yourstory.com/2026/09/hikal-shareholders-sameer-hiremath-elevation-family-ownership-dispute",
-   "source": "YourStory",
-   "published": "2026-09-22T13:44:53+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Hikal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1d7455541e00",
@@ -7081,23 +7096,6 @@
    "reasons": [
     "funding in headline",
     "Rs1.5 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2a6804522669",
-   "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-legal-focused-ai-platform-escalating-race-for-law-firm-users/articleshow/134324330.cms",
-   "source": "ET Tech",
-   "published": "2026-09-18T02:47:06+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

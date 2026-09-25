@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-09-25T19:18:43.908773+00:00",
+ "generated_at": "2026-09-25T22:26:50.948675+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 6,
-  "alerted": 1
+  "fetched": 7,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "cc63da4c8919",
+   "title": "Dextr AI Raises $6.7 Mn In Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3hKZ2h2SG9QNFg4UXRVMG44ekU0ZXVCMU1JMFMzWnI5cTAycElWR0FXNVBpUVdhWHMwcmgyLVhCTU5OMEJiR2dnTWMzQlVQNnNpV3JFVEUtdmtwSExVRTR1eXdxd1JmT2RIZmgySWpYcTFaRzEwZzVjZlRsaWxxQkRPRkttQQ?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-25T20:14:05+00:00",
+   "score": 86,
+   "category": "funding",
+   "company": "Dextr AI",
+   "amount": "$6.7 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$6.7 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cf1e020dd8e3",
+   "title": "Rivet Raises $10.5 Mn In Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUxKdmEydW95MmdhcGNKMXJfTHozSWVjTnlaanRzRXAydTlpc3lQQk5wNVp3MTJFbkpKd2ZXUGNOQXRqZnU0bVp6bGhsTFlQck1ZQUlBMTZVUUVhYnhGbEVUWmhFRUJrX3BtdHVCTlpuUU5QSWwzODNlcDhIWWx4UkFwNA?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-25T20:14:05+00:00",
+   "score": 86,
+   "category": "funding",
+   "company": "Rivet",
+   "amount": "$10.5 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10.5 Mn",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5ce307ec41e5",
+   "title": "Dilasha Seth",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43TFlmV2gwZGZGUkxqbWxvaWQtNmE2dHBjN0dIa3p1NlNLZHRmSDNqRzBOWHZCRGkzNWtTSnFldzJpNlA0bDRQR1NaZV9lS3FBRTBYbk54cHpkZXJnM3hqdg?oc=5",
+   "source": "VCCircle",
+   "published": "2026-09-25T18:40:46+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dilasha Seth",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "209866a8ec57",
    "title": "Mandeep K Bhandari appointed CBSE chairperson four months after OSM evaluation row",
@@ -4598,58 +4653,6 @@
     "$5.75 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "a1ce09d5c889",
-   "title": "Byju\u2019s parent Think &amp; Learn, Aakash settle rights issue before NCLT Bengaluru",
-   "url": "https://www.livemint.com/companies/news/byjus-parent-think-learn-aakash-reach-settlement-over-rights-issue-before-nclt-after-legal-battle-what-led-to-d-11790167107059.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-23T13:45:22+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Byju\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9f88439ab1e9",
-   "title": "RPS Ventures sells 0.9% stake in Meesho for Rs 899.7 crore",
-   "url": "https://economictimes.indiatimes.com/tech/technology/rps-ventures-sells-0-9-stake-in-meesho-for-rs-899-7-crore/articleshow/134439851.cms",
-   "source": "ET Tech",
-   "published": "2026-09-23T13:39:45+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "RPS Ventures",
-   "amount": "Rs899.7 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs899.7 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "454eb8b8c725",
-   "title": "Duty-free shops can\u2019t claim blanket exemption from Indian laws: Bombay HC",
-   "url": "https://www.livemint.com/companies/news/bombay-hc-ruling-duty-free-shops-adani-subject-to-india-regulatory-laws-customs-barrier-11790168199016.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-23T13:39:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Duty-free",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6a71e551ad80",

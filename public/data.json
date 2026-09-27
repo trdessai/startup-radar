@@ -1,12 +1,134 @@
 {
- "generated_at": "2026-09-27T12:28:32.112789+00:00",
+ "generated_at": "2026-09-27T17:07:41.174487+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 13,
-  "alerted": 3
+  "fetched": 13,
+  "fresh": 10,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "6cf62b86b497",
+   "title": "25 startup websites and tools every Indian founder should know",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYkJ4cUFqUG9BTmppeE1WbE5wMjFyMTRaemZxd3l0djlnRUY3U3ZaMUNyQVN1SXJpY283WVFlVjM3c19qSGFXY1F3OWYwZXlNMmRLdU02UEd3c0FCeUtYNXJwTld4UU1xZjd4MlVtcm5zc29UVEhncVY2RGp4R3BzNlE3R2txYTJsQWdJVm1jZkZNZG1BQTF5eU5EOEl3dnNJWUxIRG03WU5mQWo4X0NwQ1Zxa2pFOE1IWUFKZG1kMGdtOFBHZGdFeVhhYWxPUQ?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-09-27T15:18:18+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2a430fe18b08",
+   "title": "IIT Madras-backed deeptech fund raises Rs 453cr in first close",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOVVyWWJjRmZNQ0VhYXlyY0Y2WExuUFI5SEVlTDhaTEhpbEhNZldDcFZveFZEZS00VGh3aklJV0F3N0R4dlVpUzg2T05JcDgzdGU0dXVIVzA0ajhQNUNHUUhLWlRFa1E2dXJTbXhLakpCZEhPNS1EUUhucmZvTnVZbzhhWVllODhaY3hUb2FlTmZfUTE4UzlOUEo3MVpQaTVMWGUxRVVOX3c0b1pndU4xSEV3MlRDbFJrYXlCdG1fbTF2V3FrekxPOXd5RWVudFUwalQ2bVNfcUdRdWxjc3kzY1Nn0gHnAUFVX3lxTE5sMkNoSzlndW5nZXVtNkNjRjczLW5PbVI0d0JTU0M2WVA2X21zamllMEdxMWgtWGxaR1doYTFCaThaUjlRdmF2emFxTEljdWtsVFVaVl9VWmVXMzZVV1g5TU5ydUI5QXFEeUhmUXdLcWJlTWQyYnJ6TmVyc1dZQ2t6Z3c4dnNkOHBaakhNUTdhZDNULWFLWmYzaThfelktemgxUWZwWE8zVDV3SW1kNXVSVVJZWXRBWkpGVUZrakVSdWMzbEJFWEhUT1ZOMDV2TEJzVXJ3TjhHWEQ2eG5udjB6VWJzb1h0dw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-27T15:16:00+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "IIT Madras-backed",
+   "amount": "Rs453 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs453 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "579e9476c04d",
+   "title": "ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says/articleshow/134522003.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T14:37:35+00:00",
+   "score": 50,
+   "category": "expansion",
+   "company": "ShinyHunters",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "effcba4981b7",
+   "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
+   "url": "https://economictimes.indiatimes.com/tech/technology/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-markets/articleshow/134521955.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T14:34:14+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d5e731dfdae4",
+   "title": "Data centre IPO hopefuls brave tougher market as investor scrutiny grows",
+   "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows/articleshow/134521362.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T13:50:29+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Data",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "911a48cdc3d6",
+   "title": "ED attaches assets worth Rs 442 crore in RummyCulture money laundering case",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ed-attaches-rs-442-crore-assets-in-rummyculture-money-laundering-case/articleshow/134521077.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T13:26:20+00:00",
+   "score": 65,
+   "category": "product",
+   "company": "ED",
+   "amount": "Rs442 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product",
+    "Rs442 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fb7de3dafe29",
+   "title": "Meta bolsters Muse safety warning after security vulnerability found: The Information",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-bolsters-muse-safety-warning-after-security-vulnerability-found-the-information-reports/articleshow/134520936.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T13:14:39+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "fa41442042a7",
    "title": "Mobile phone retailers to protest against UPI MDR charges on Oct 2",
@@ -4551,23 +4673,6 @@
    "alerted": true
   },
   {
-   "id": "09e988373df4",
-   "title": "How Palo Alto-based Rohati's India play juggles VC fund-of-funds, direct bets",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHhiei1CQmdIRVRLbTFaRjlCMERRalFZbHRqLUpPclZTUnRBNnRFT09qaXBfYVRUb1doWGR4OVk5TmpQa2U0UVNHR01JLXNyeXJvNVo3X1ZNY1pLNFc4US1DT0dOMktVWkRIaWY3VkRkZ21mVDIzRGlhVlU3d3UxVGZFR3VieHltX1NBNk9PRmRsTDAtODA2R3BVNkxfbGJFTkE?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-24T06:40:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "How Palo Alto-based Rohati's India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "d565b120ce23",
    "title": "SoftBank raising $11.1 bn in world's biggest high-yield corporate bond sale",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNDOWhYakljNVJyRjFVM0tjS05hUUFwTWRFNmpTeTRVUEhvN2ZxWnlpVk1QZEpuRjIzVUxjM3VyTVNlVFA2SmNVUGhZTkpIdlltVnRsM1VBU0VyRzhsM3V5WnRwV2ZPWHVQMjMzLXFaZWFYU2N3S0REMjVITWxZTnJLc2ZmUHBSdXBSU2lWTWV0VnJQSW52UlBIcXlpbDA?oc=5",
@@ -4604,69 +4709,6 @@
    "alerted": true
   },
   {
-   "id": "eea04b9cc2ad",
-   "title": "India insurance reform tanks distributors with commission squeeze",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUJXRjlXbHdYbjJHTHQxakdqaUZSQVdiWHJFa0tyVzEyMkNrWGxBZFNYaW9BQTAxRGZyMHNneFUyUnRFc29fMWg4T2tqWTdQUHdNSHJfdm5VRDVlM2hRdXJ4Tmx2VU14QmZOYWU2M0cyZmtsRjNEUTRKdkgzWFFkRzE2NFdqRUJ3WW9KcElYQVpuMkU?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-24T06:34:38+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f74f944ab582",
-   "title": "Meta's Charm gadget carries CEO Mark Zuckerberg's big AI ambitions",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions/articleshow/134451753.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T05:05:59+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Meta's Charm",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Mark Zuckerberg's",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4efea11a370a",
-   "title": "AI firms should not get regulatory waivers, says Nvidia CEO Jensen Huang",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-firms-should-not-get-regulatory-waivers-says-nvidia-ceo-jensen-huang/articleshow/134451232.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T04:38:32+00:00",
-   "score": 31,
-   "category": "other",
-   "company": "",
-   "amount": "$13 billion",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Jensen Huang",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "$13 billion",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b2b86090e71a",
    "title": "Anthropic touts AI-led biology discovery",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-touts-ai-led-biology-discovery/articleshow/134450981.cms",
@@ -4700,40 +4742,6 @@
     "$23 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "a759342646a4",
-   "title": "Hacked FBI data has sensitive information about employees' intelligence roles",
-   "url": "https://economictimes.indiatimes.com/tech/technology/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles/articleshow/134450621.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T03:33:00+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Hacked FBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3f5f11d775f3",
-   "title": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity/articleshow/134450452.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T03:20:14+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Heads",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "680ae94a6108",
@@ -7072,23 +7080,6 @@
    "score": 63,
    "category": "launch",
    "company": "Protein",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ec27a03c89c9",
-   "title": "Indian Gaming Handheld ARC X1 Launched With Snapdragon G2 Gen 2 Chipset",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUZ1RV9JbXBvVzFzLWZ1ZmFyWjMzMy1Xb2VoVnh2ZVB0ODd3enJkSTgycldpRWc1cVRHMmRYLXM1QjVGM1FHYW1GaDdSQ1hKbU9LVUI0em1ObjNhZl9Dai1IekY4dlVYeWhhU2hNcllTMXlOUW9VVmw0UlhXeGhPVXN4NWlPSjNXNVNMUTJaZFQydzcyMlBVN254T1J1aUZzZDVRbFVydw?oc=5",
-   "source": "IGN India",
-   "published": "2026-09-20T15:07:41+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Gaming Handheld ARC X1",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,139 @@
 {
- "generated_at": "2026-09-27T17:07:41.174487+00:00",
+ "generated_at": "2026-09-27T20:05:35.554483+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 10,
+  "fetched": 14,
+  "fresh": 9,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "cd1b7174c7c0",
+   "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips: The Information",
+   "url": "https://economictimes.indiatimes.com/tech/technology/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information/articleshow/134525276.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T18:41:20+00:00",
+   "score": 58,
+   "category": "acquisition",
+   "company": "China",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a4ef6f63b4db",
+   "title": "Indian startups can contribute as much as established industries: FM",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGtEbXFJSEczOFVkaUJZRmI5YklPZE5NOUVGRzRxYldicnVQTjA4cXYxYl9fY2FIZFRMajlaTUFHVE1PVGdkVlVQTS01THFVYW5uOVFCMjZkRkhfLVFuMm9Xc185YXZEaXgwVGkwMGZvamh0UFlhYnR5T1EzOWxCZ0lpY1JmLVpTaXJ1LXhtYVU0cDNhS2lrZk5qQkhlNDBRbExjMVdELXNsY2pZc3VzZjY3amdJMkVHM3dBVHFRMzZyZjJYZFlQVDNJSndEZzN5aUhKWW1ydTlCbDQ1Z3hQQ1BhSFZZVS1R0gHuAUFVX3lxTFBneW44VzdwLUVnb2xLSF9XRWRrU0FvUm5qY2NlaUlmTlFjQ3ZxcHE3SThKbGx0RktlYjVyQlU0ZWVSSTM5M0hzYURrUFdINDFPM1p1eHFkVHNFUU1yZFhkX0owZUcwT3lsS2R2NEUwclFSVGVUMElzWENHTEVweHhWZ0Nla2dYVWNyVHFrSDUweWZHZ0tzdDZtcjJXNlFnWVp1TGZmdGJOcGF0SHBiUGJpb3pGdTZSR3FSVngwMTNKc3VrR0t1eV9tdnRhNlNobDRyRHpUbkxDdHZZd1RlX0pUaHBLSTA0N0V5dkZUalE?oc=5",
+   "source": "The Times of India",
+   "published": "2026-09-27T18:32:00+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "13dd0bd8c566",
+   "title": "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5POVVwRHRkOFE3RDlwWjNsU3hadlppRWdEU2dfVkxJc3h1ckdDTzZ3eHcxWjRLVHpmV1B1QThkMXNvcURJNVFONlY0bVMwektZMkE?oc=5",
+   "source": "instagram.com",
+   "published": "2026-09-27T18:21:24+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Between September",
+   "amount": "$397 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$397 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ebd3ca24533c",
+   "title": "IIT Delhi graduates raise $1 million for ByteAsk",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnBtU3dmNWFjQXZaVk9oS0lfaDA2UEVJYWpMSThzZ1RfZURrSVNfZzg4WE1yMTI4S0NfSEtRSVYtWTF6LVlabHNIUnhCdXRYQnZEb0pMbzg3Ql9nYXRtb29QNjJpUTMwajl2bG1JNU1EQXMxd1gyV2hJX1BfSDJiZ2gxVnM5OFY2R3lyTnNuZ1dGcEg4Rm1PTmZHRklUUQ?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-27T18:06:08+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "IIT Delhi",
+   "amount": "$1 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd6e143d81fe",
+   "title": "Universities As Labs Of Entrepreneurship",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rbFd6Z01XejB3VWhkWjAxb3RjbjQ3TlN3eHN3WmRzYkFBUzRQbE5EVjJsaGppQ0RpS2xOZ09SNnVlY3RwVURQZ3ZqNmI3Qk5UQjdCTFh0V3lORlluemc3MVBLcFVfSU4wTUVHckR0cUZHTmY2RThv?oc=5",
+   "source": "News India Times",
+   "published": "2026-09-27T17:21:26+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Universities As Labs Of Entrepreneurship",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a2702c99b0d6",
+   "title": "Anthropic CEO Amodei to have White House dinner with Trump: Axios",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-amodei-to-have-white-house-dinner-with-trump-says-axios/articleshow/134523438.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T16:54:24+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic CEO Amodei",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Dario Amodei",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6555b8fe967d",
+   "title": "Bill Gates joins calls for AI safeguards, including legislation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/bill-gates-joins-calls-for-ai-safeguards-including-legislation/articleshow/134523669.cms",
+   "source": "ET Tech",
+   "published": "2026-09-27T16:52:58+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Bill Gates",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6cf62b86b497",
    "title": "25 startup websites and tools every Indian founder should know",
@@ -4494,58 +4621,6 @@
    "alerted": false
   },
   {
-   "id": "152aff8cf5eb",
-   "title": "Explained: How OpenAI breached a government website in Australia and what happens next",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-how-openai-breached-a-government-website-in-australia-and-what-happens-next/articleshow/134455433.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T07:46:17+00:00",
-   "score": 12,
-   "category": "launch",
-   "company": "Explained: How OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "listicle/opinion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "101d72b63604",
-   "title": "Bengaluru Housing Market is Changing : Building for a More Disciplined Growth Cycle",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUtPZi03cjBERDNOcWhod3p1dEFGYU8yU2d5N0RYRUM0Z2lTck5aNHY4WWtCaE1tWE5hQnRmbFU3RExrSDRQTjZRdi1Jcko0UEtJU1hBSnNHSmg2RlJYbmd0cDZmOVZJTDNONmV4dnJqNFp4dVhMWkpQaExnYkNVc2RaQ25NUkVQVzNLaDRFcVY3QXBRTlpkOFEwN2JFeV9lQTh5SURzOEljdw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-24T07:40:29+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bengaluru Housing Market",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1411f303f9c2",
-   "title": "IRDAI wants insurers to stop hiding prices behind personal data walls; calls it a dark pattern",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUp2Q3V0QjJVRXYzd01LeGFCalNiQ0tSdmZVTmwxQmlhMTZwOEJpYjZlRHI5ZGxMLTl1cnYzcGpkZFJBRW4tcnlic3dLU1VEUVlQdGNMa214aHVHajI1Q1N0eU1ZM0dNa1hJTmZ0aFJMN2F4S3gxcHFoYk40R2Q3V3ZZZDZhd00?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-24T07:12:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "IRDAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "99a2e2987200",
    "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
    "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
@@ -4565,23 +4640,6 @@
    "alerted": true
   },
   {
-   "id": "6964125d829b",
-   "title": "Oman\u2019s Galfar wrapping up sale of two road projects in India",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVVoenZqdURZNXdBZG1MY1hUUHNNYkFWNXNtQ2luUVFlQ3dOVnU3SVFnd0s2TEpmU0NLMHFwazdmaWtSbzVvT253aExtYWRJSlVvRHhoaVhfcWE1NVA5UHVyTy04ejdMNGZWcWo4YngzWEh3SjRFMzA1aEdfZWJPNW8wbnJZTVhaSFFRMg?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-24T07:10:15+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Oman\u2019s Galfar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e1f93297ebbf",
    "title": "Skillmatics in Talks for Major Funding, Eyes USD 75 Mn Raise at USD 420 Mn Valuation",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWl90VkJDaE9tX3NLNXlzX1BSVllNa1p3TE4yQzkzc2dTdjZVSk5lNlEtSFVkZkNNTEJiMUwyNTc0S3ZfU3BFbk43UUdYdi02aEhKLWR5MVdxVDBCbHFyZTctMWVTNGsxNGJmTEo1TGNQX3VBMFNoSFM2RDlKbmhPQy1iT2xwZVFJazNhTHZlQTZRZy1KQTFqeG8yWGtNdkNiekhZWnp4aC1sX09VS3hYcmtuejc1bmtGdy1GZGZMTWV6MWdVcHBMVXEtRGJGU1Qza2c?oc=5",
@@ -4598,42 +4656,6 @@
     "USD420 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "618f7d64879b",
-   "title": "AI data centre startup Nava, founded by ex-OYO executive, in talks to raise $200 million from Greenoaks",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWxsRnc0dFlWVnpwYUpvVEZDZk5JQWJNMkxLWFU0MW1obDQyXzNIZjFiWm90M2dRVnFUOEdlQUlub2h3R1QyZEp6ekJ3MDc2ZkNHQWswNzRGTmR5VjZBV015cjl6bm1sTGxsd05ZSWx6UVZDZTlXb05zU2VDYjlVczlxWkF3VWFCbU9tYVVONS1BNTNGUm5nT0w1M3hwajZRVElXRXJlWlFkamtoQUVMLTJvZE9Vc3dLSmgxQkFDelRoRWFLTzVlcTBscFNJOFNKekFPR2laY0tGNk94ZzdkQTVvcVlzOWt1Y2kwS0RNOFRDUVZNdTRQeNIB_gFBVV95cUxQVVRLUXR5ZDdWN0t6UHVucnIxc2VINW1rdzBkMWxzS0JGeG0wZVFfUFoxQnRMWHdDS2NWb25sY3N5ZlpSeExmTjJMaVJlYjBBODhJLWJDbDZrczBTNDN6eDdGaWhQMHJDQmp0YnpLbFp4VGhKRE9jcV95OWdvX3kweElHNnhmZnNlQzlHRWxaaHp4VzJzTUVCWUdZajlVREJBcGt0dnh5a0FhYWxrWVZPcDVuUDZiMWFMV1RIMVQ0TmlTaURuWTlaUkdjS3h4dWNUVGx2R2hDVnNVeXFiVVJKUFIwcG5JdjlVTDI1Sm5sUkltRmdlNzlZVkp6RXZDZw?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-24T06:55:20+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "",
-   "amount": "$200 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$200 million",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "92827ec128cb",
-   "title": "Retail India News: Sv\u00e9rve Beauty Enters India\u2019s Growing D2C Beauty Market",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1saTBiUHhKSUdQUS1udkNONThDc2pjeExPY1JaX3hwcEYxM0daTmJTRmsybm9nN3JJUGEycUtLb3RZbUgyXzB0LWs5djlidk5TeWFUQ05vRFphWEJyTDFaUzVMVXJQM2dyWDlPLWdfWjNCZlA4UFdOQXJaanNWN3NaUDNGWElhV01kRFZxM3Mtd1BSQ1FJQU1UODZwOG9CWHBUMlVleWVpV1E?oc=5",
-   "source": "indianretailer.com",
-   "published": "2026-09-24T06:51:39+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Retail India News: Sv\u00e9rve Beauty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "12f04a28286a",
@@ -7063,23 +7085,6 @@
    "score": 68,
    "category": "launch",
    "company": "Apple Pay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ae11c81642f7",
-   "title": "Protein boom: Chaayos, Tim Hortons, Starbucks launch protein drinks despite whey price surge",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQURMVFBjTjgwd2p6SVctaXBEZy14LXpuLWJuZlEwajM2YkJPQ3l5V2p3TXA2ZTRFYm9KT0h2UXZ2NGVDRDM3SnJSUjBGV3I3U0poS0V4SUtXVDFETmZ3N0dKZmhNVThBcVR3YU5ra3ktT1hYNnhxZkxkYmR1TGFLY29aQk91dS16YUVrQjlrR1d5cmxXZk1mMUhsZC0xVlI4cFQ5YzlTRlNnVUxUa1Y1ZEstSDluLXRaVGFSNnZvLXNISDRXQlY4N3IweDhWSFhLR05kLWJRLVlMRW5QYjU3TndNaEJnR0J2dl9McWhKRUFneXVHRGhNYUphS1pmQlEzT1JLNU1n0gGGAkFVX3lxTE9BRExUUGNOODB3anpJVy1pcERnLXgtem4tYm5mUTBqMzZiQk9DeXlXandNcDZlNEVib0pPSHZRdnY0ZUNEMzdKclJSMEZXcjdTSmhLRXhJS1dUMUROZnc3R0pmaE1VOEFxVHdhTmtreS1PWFg2eHFmTGRiZHVMYUtjb1pCT3V1LXphRWtCOWtHV3lybFdmTWYxSGxkLTFWUjhwVDljOVNGU2dVTFRrVjVkSy1IOW4tdFpUYVI2dm8tc0hINFdCVjg3cjB4OFZIWEtHTmQtYlEtWUxFblBiNTdOd01oQmdHQnZ2X0xxaEpFQWd5dUdEaE1hSmFLWmZCUTNPUks1TWc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-20T19:20:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Protein",
    "amount": "",
    "stage": "",
    "founders": [],

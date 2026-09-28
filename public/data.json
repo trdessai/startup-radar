@@ -1,12 +1,99 @@
 {
- "generated_at": "2026-09-28T15:19:41.743957+00:00",
+ "generated_at": "2026-09-28T21:16:01.222617+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 57,
-  "fresh": 48,
-  "alerted": 14
+  "fetched": 10,
+  "fresh": 9,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a5e81fca2cda",
+   "title": "- MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDQ5WUhHMGhZTXh2djFFeDFOd2RDQXdZc1I4MmM1RnVKUjM0ZlNxTkRvTlFUNENTdlN4Y2pMTzFPV1c3X1pteV9DQlozdDZKRlZaVVNXOWxwVzlNeHhjMm5xTjh3RjI3TDBsUEo4dDVBcUlVN25IQWVJQ0Z1SkxJYmotVHM2cHRzRlNxMw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-09-28T18:05:12+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "653a55427206",
+   "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-second-claude-5-5-model-as-it-builds-toward-ipo/articleshow/134548694.cms",
+   "source": "ET Tech",
+   "published": "2026-09-28T18:02:40+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e421c7cf624a",
+   "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1/articleshow/134548680.cms",
+   "source": "ET Tech",
+   "published": "2026-09-28T18:00:18+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Anthropic OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "342ae5d048d2",
+   "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trumps-ai-meeting-with-tech-ceos-to-focus-on-finding-balance-us-house-speaker-says/articleshow/134548648.cms",
+   "source": "ET Tech",
+   "published": "2026-09-28T17:58:36+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Trump's AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "02977edd5da0",
+   "title": "'Sellers may submit false declarations': Why CCPA penalised Amazon, Flipkart, JioMart for selling unregistered herbicide",
+   "url": "https://www.livemint.com/companies/news/sellers-may-submit-false-declarations-why-ccpa-penalised-amazon-flipkart-jiomart-for-selling-unregistered-herbicide-11790607193111.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-28T17:50:01+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Sellers",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "c6077634a3fe",
    "title": "\u2018No UPI Day\u2019: Mobile, FMCG Retailers To Protest UPI MDR On October 2",
@@ -4644,41 +4731,6 @@
    "alerted": true
   },
   {
-   "id": "da0f57c45f54",
-   "title": "Maharashtra announces AI Policy 2026 to boost industry, governance and public services",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5",
-   "source": "News On AIR",
-   "published": "2026-09-24T19:27:16+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Maharashtra",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "28ab5d1e634a",
-   "title": "TPG Exits FirstCry With \u20b9202 Cr Bulk Deal",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ib01pRkN4dlRSa2thNG9GWmQ3NkdjdDVFWUY2QU1sdHN3RG56OTVzN3VJcmpEY2V6dlA4YnFBWmdoRkdGeWowUGFHa3FaVDk1czhuaFRCeXVES0ZPTWItTmVJWTVQampsdmZYRzdRdGh3OHcyN3VBcnh4ZHIwdw?oc=5",
-   "source": "inc42.com",
-   "published": "2026-09-24T18:54:11+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "TPG Exits FirstCry With",
-   "amount": "\u20b9202 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9202 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "24ca5c2b89f8",
    "title": "Meta launches Charm, a companion device to its Muse AI agent",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-charm-a-companion-device-to-its-muse-ai-agent/articleshow/134468633.cms",
@@ -7045,58 +7097,6 @@
    "reasons": [
     "funding in headline",
     "Rs100 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d05d279b7408",
-   "title": "WorldSkills Shanghai 2026: India's Largest-Ever Team Skill India Contingent Set for Global Debut; Naveen Jindal Backs Young Champions",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdGQ3QVRtcktFM21rSmZncWUzOEdBWEVGakxrY25BM1VsQWw2cnFMYllsNnZZT0lvcHFiUUFRUmxkXzVYQ00tTkxxU05nQ2dKU1J2TjVuY3VkR2J3TG1ZVm5FQU1jVUtZMDRNd3FlUnFGMHB5T01YV09yQ0lpNEZnN01TMFlFY0dWczV6ZXQwSm54bV91ZE5NS0RlWG9XUmJnTFdWZjg1ZkdIS0ZLV1Y5R3RadWE3bVphdjVEZTRyM0ctVktac0VJRWFPbmZMRU9jc2VvQk5MVkVhSHl1NnpGeE9ZSlhQMTg3X1c3QUtxSHZycW04R055Nm8xWmZSMmho?oc=5",
-   "source": "India's News.Net",
-   "published": "2026-09-21T19:19:02+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "WorldSkills Shanghai",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0b0a374026b4",
-   "title": "Amazon blocks Meta\u2019s Muse AI agent from its retail site",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-blocks-metas-muse-ai-agent-from-its-retail-site/articleshow/134396800.cms",
-   "source": "ET Tech",
-   "published": "2026-09-21T18:53:26+00:00",
-   "score": 57,
-   "category": "launch",
-   "company": "Amazon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "28b9423b719f",
-   "title": "Gates Foundation launches coalition to build more representative language data sets for AI",
-   "url": "https://economictimes.indiatimes.com/tech/technology/gates-foundation-launches-coalition-to-build-more-representative-language-data-sets-for-ai/articleshow/134395989.cms",
-   "source": "ET Tech",
-   "published": "2026-09-21T18:08:18+00:00",
-   "score": 88,
-   "category": "launch",
-   "company": "Gates Foundation",
-   "amount": "3 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "3 billion"
    ],
    "alerted": true
   }

@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-09-27T22:57:58.959336+00:00",
+ "generated_at": "2026-09-28T01:21:17.207167+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 7,
+  "fresh": 4,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c73c65f8c60a",
+   "title": "Tailwinds under-appreciated, India can absorb global shocks and grow: DBS Bank group chief economist Taimur Baig",
+   "url": "https://www.livemint.com/companies/people/tailwinds-under-appreciated-india-can-absorb-global-shocks-and-grow-dbs-bank-group-chief-economist-taimur-baig-11790507179154.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-28T00:30:57+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Tailwinds",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f7c123e6fb48",
+   "title": "Policybazaar, Turtlemint Feel The Squeeze",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JV01IdGktamRWaDFFbWNyTmZZZXFzUHRHclJrYzJKaXFvQll5UC1SN1NFRnpYMVpyYjE5U1hhd2M4ZDJBUG4tNlBwNl9Xc1F2Q3E4ZTRJNWtvaGxEUjNudmNfOU96Yk5qWXFtOUlSUXQwc1JsVjZN?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-28T00:30:41+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Policybazaar Turtlemint Feel The Squeeze",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "133c8dd23b50",
+   "title": "Linux Foundation launches LF India to boost open source innovation",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3h1RXRSNnJkVWFyemxKR0cyQTZQRnpvOU5xTmdUT3Q3M2JMUFpubjFNaVE4emNpZ2lCS244M1hCQzQyeUhvcmZIcE9PMTUwZURhOHV4d1Q3VWIwcndoTzNhYnR4OXN0bDFBOWFsaXUzVi1kVlpQa1VSTUh1ZEYzalR0U0JwMXFUVHpvSExsb241S255dmo2aTBwbU4zRDhjTlVxc2pXcHNob2dDbUw1QmVUUC0xUHlYVWNySER30gG-AUFVX3lxTFBfeHVFdFI2cmRVYXJ6bEpHRzJBNlBGem85TnFOZ1RPdDczYkxQWm5uMU1pUTh6Y2lnaUJLbjgzWEJDNDJ5SG9yZkhwT08xNTBlRGE4dXh3VDdVYjByd2hPM2FidHg5c3RsMUE5YWxpdTNWLWRWWlBrVVJNSHVkRjNqVHRTQnAxcVRUem9ITGxvbjVLbnl2ajZpMHBtTjNEOGNOVXFzaldwc2hvZ0NtTDVCZVRQLTFQeVhVY3JIRHc?oc=5",
+   "source": "TechGig",
+   "published": "2026-09-27T23:25:17+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Linux Foundation",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "e77d708e426f",
    "title": "Amit Shah inaugurates Rs 1,472 crore worth development projects and launches India\u2019s first LNG-powered train",
@@ -4621,23 +4672,6 @@
    "alerted": true
   },
   {
-   "id": "f12128494ded",
-   "title": "FSSAI takes penal action against Zepto, Amazon over food listings",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LQWFvOER1UG16N1dVNTV5S3J5OXF1STR3TDAxNE52SEFNdm1pakpmYl8wWURtakd5UWVNVTVPSDd1RlBzZmFKcnNuWUVSUVhwUFJ1SGxqS1ZzVVVOOEpNUDFLQUpXVTRranprcnRQLWdNT0NPZ2h0MGV6Zw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-24T08:14:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "FSSAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "99a2e2987200",
    "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
    "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
@@ -7055,41 +7089,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "681564263d71",
-   "title": "Value commerce startup CityMall in talks to raise Rs 400-500 crore led by Jungle Ventures: Sources",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQmx2TnVuZDdrRUJXUFhLdnZvSFZkVmtIYW4tdHM5QzI1WHAyUmFjV2llSUp0TWdkaXlfVU5oTlZVZlgwYloyMVdUcmd6dGRGY05IeDk4QzhCMXFPdzNzUW93YTlYTjZiRWRCTU1Dc3gtTHhmM2NHV3lEV2UxUFFrQlE2RkdmZFVBZDdYMDZMcWxja29ySFBsWEVtYzdJMGctdjZkcEoxdy1sMXI0enpQOW5mZ1NlWlFJQTBoMk9CQ0FHd3d6OWkzdFh4a2h2SjhvQ2hRaHVfRGFINjQ5YzJHNG5FbmVNMVY2cFo3aWl6bzRERnZzcnpaTNIB_gFBVV95cUxNUFJBWnBfVHVMMGd2UU16N2dtSzRQTlg4dVRjd3pKOG9zMUI1QlhQS3BnN2N1WmpkengwaktwUFVNRV9XbkUyaWFBM3NOSUVXU0I1XzVyYnNKNkxyNE9XVmo1QnhzZEswZ29ySmNCTUNMSU0zRXFYaHpZNWJPRU9PNDA3LVBhc2xGOXFhZFkycTBUOHAtQWxJSmQ1UEFrYUd6Q2t4UUpnUG1DWk8zdGd1WXZsR2dYNTRrelBnT0dNZ05XakRUODExdzljQ3JINGg3RzJRbE1pVEJHWHB1aUJ1U0ZCNjFGM280RGo0TkVsS2JrSzJWcUlNYTF6cTVkdw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-21T00:30:00+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Value",
-   "amount": "500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "500 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2840a1235d74",
-   "title": "India\u2019s defence push draws former govt scientists, repeat founders into startups",
-   "url": "https://www.livemint.com/companies/news/indias-defence-push-draws-former-govt-scientists-repeat-founders-into-startups-11789693190248.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-21T00:01:12+00:00",
-   "score": 55,
-   "category": "launch",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

@@ -1,12 +1,155 @@
 {
- "generated_at": "2026-09-28T21:16:01.222617+00:00",
+ "generated_at": "2026-09-29T01:00:15.560499+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 9,
-  "alerted": 1
+  "fetched": 13,
+  "fresh": 8,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "b5e36f1aa2ba",
+   "title": "Peak XV raises seed investment limit to $5 million \u2014 TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlp2UTdiaVZyWldadzdWc2tvYi1LMzBUTnVpTGJYb0JVemNjM0hiTFhIcEdHSEVVclRLMEdIcm9Ga0VmOWN3QnpObjJxYTRVYi1xbnVabmQxaGpNX1g3bndpMElPMUh0UVNVQjVnVnhnLXNSN00xTVY5LVJ2Wl9Da3IxNkdSVUlRWDU3Q2ZkRnRRSl9EOGFoVktmNGJMQQ?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-09-29T00:41:38+00:00",
+   "score": 91,
+   "category": "funding",
+   "company": "Peak XV",
+   "amount": "$5 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$5 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2647704bc34c",
+   "title": "Peak XV raises Surge seed investment ceiling, unveils 18-startup cohort",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWtNSlQ3b2NJZHpxdE02S2NFa1ZXTloxQ3JUbDEzN0VvQW9xMzUwRS01cXFsbXpmRDdVZHJXY25uTFRGNm1Gam1VZGptNzV1d0drOGg1cWRoUmdud0hxdmwzUmtuVHVNcW5nbG02bHlOemxrWnluc2owM1BnT2RBM0p4ZFN2ajR5YmMtYVA0b1lseGxJUGxiNHFjYlQ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-09-29T00:41:23+00:00",
+   "score": 80,
+   "category": "launch",
+   "company": "Peak XV",
+   "amount": "",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ee4eeb025bf6",
+   "title": "Quick-commerce crunch forces D2C food brands to widen offline trade",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEJWWkd4NmVqbUVTZ21HOWo1UDlMcHpMdnlNQUcwd2xWMnk2ODRCRklSRlotQ1dzTEZ2QlF5ekNsM3p5NzZwYUFZbEVrdGRDZ29MSmxldXZWc2MzSFJUSGtBRHAwM1drZmE0WGtTbmRUd0NON09keUNwLWgxMTUxS25oZ01pWm1FdXJBOUZYN2I1djFvR1HSAZsBQVVfeXFMTkdtcEc5UHZXcXROUVBKa2R1eERwOXpZR19UcGE2VjZmem8xZlgzX3loeTkzc3NpVjRGWnUzLUlDWTItVHpZQW9QeWJlMU1jWUVXdFFkVTBLMlJVa01lVV95QnB2RGtKRjdJY3dzbU56eHJJdjVEeWhtXzd0S2JqdFhmbTJVRkVsb0dsclgtMkNIQktVNVJhNUd0MW8?oc=5",
+   "source": "Livemint",
+   "published": "2026-09-29T00:30:35+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Quick-commerce",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f4caaf0e8590",
+   "title": "Indian family offices, MFOs ramp up CXO hiring to build institutional capabilities",
+   "url": "https://www.livemint.com/companies/news/indian-family-offices-mfos-cxo-hiring-institutional-capabilities-11790563405712.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-29T00:30:35+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2f3ecf28f7ed",
+   "title": "Union minister Piyush Goyal to headline ET Startup Awards on October 9 in Bengaluru",
+   "url": "https://economictimes.indiatimes.com/tech/startups/piyush-goyal-to-be-guest-of-honour-at-et-startup-awards-2026/articleshow/134549492.cms",
+   "source": "ET Tech",
+   "published": "2026-09-29T00:30:00+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Union",
+   "amount": "$94.53 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$94.53 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "08250f16e88d",
+   "title": "Table Space IPO faces Sebi challenge over promoter classification",
+   "url": "https://www.livemint.com/companies/news/tablespace-technologies-ipo-legal-dispute-11790488407207.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-29T00:00:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Table Space IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "36c6edfa55cc",
+   "title": "Modulate raises $25M for native AI-based frontier audio",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3QkUxSzU4SHVmY1JjbWhEVE15WVVQM1RYQ3lmM24wc25xaFJCdnRvRW1odFZnX3V2djFGd3BBTkFZU3Q0ckdxYXZuejg3QWFLUC16c0VaYS15MjFNRGZqY0pGRERfTmRkcjZhT2tUY1Z0M1pEb3lHN2QwUkUtX3l0cVFEdzVfUkU5eVJqdXhqenhtaHB4Z242eXBKVEs1aTgxelQxdnJFeEpVOEZmOWZTbTFtWDZzX2wwcG00dw?oc=5",
+   "source": "SaasRise",
+   "published": "2026-09-28T22:31:14+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Modulate",
+   "amount": "$25 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$25 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "838796295534",
+   "title": "Funding Alert: Tech Startups That Raked in Moolah This Month",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2ZuYkJiS28wSjJJOXA2cF9yYk1MZ1A4c1BCbFFYUnY2c3h0VTRoOURCT2J2ZHctSFdCVnZnRnE0TmlJeG1SendDVG5UcEZWRzN1ZGJJeUlVNTlDMkNnUXdzbm5VUURjb0lYS1ZGSTh6REF3eHd6cGM3dDFzekp2U0pIYld1bzBxVEtUNnNRUGlxaElVSjZHMG9B?oc=5",
+   "source": "TheTechPanda",
+   "published": "2026-09-28T21:36:28+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "a5e81fca2cda",
    "title": "- MediaNama",
@@ -4451,79 +4594,6 @@
    "alerted": false
   },
   {
-   "id": "43dd63f29bb6",
-   "title": "Anthropic seeks 50.1% voting control for cofounders ahead of IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-50-1-voting-control-for-cofounders-ahead-of-ipo/articleshow/134474140.cms",
-   "source": "ET Tech",
-   "published": "2026-09-25T03:17:30+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "905ce2b161a9",
-   "title": "Autonomous AI hacks raise thorny questions of legal accountability",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/articleshow/134474095.cms",
-   "source": "ET Tech",
-   "published": "2026-09-25T03:09:21+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Autonomous AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "523ab30a07a0",
-   "title": "Oracle, Blue Owl project delay sends ripples through AI financing",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-blue-owl-project-delay-sends-ripples-through-ai-financing/articleshow/134473751.cms",
-   "source": "ET Tech",
-   "published": "2026-09-25T02:54:59+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Oracle Blue Owl",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "15d30a618ddd",
-   "title": "OpenAI to preview GPT-6 Cyber within days",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-preview-gpt-6-cyber-within-days/articleshow/134473657.cms",
-   "source": "ET Tech",
-   "published": "2026-09-25T02:49:40+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sam Altman",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "cf8f183a8bb9",
    "title": "Microsoft launches India South Central datacenter in Telangana",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWnVvcmxzSVBpWFREY1V5enh5ZmV2UDBaVTdJVFV3Y0RHYnJyUldGYkw0Tmt1eFhNd2xxRHR2T2QtVzQ1LVNLMWVyUkY0SjFYQlZSdEhGeWFhSGswOWJhSWNGalBaSmJEY1MtNGVLbEdRLTlNZnNSbktoc2hCd2tqWXNaTmpWcHdOY2xMcTR5VmRYR2dkUTNJLWg3dDNZZTB5TUN1czkyQ0tyVjgwMTI2cEhwMzFiLTZNaHFxM2d4S3pNOEV0VnVkN1FuUUJ0OUlsWjZlZWszZVZxMWVPU3RZQTFPeVo1MlFEMmowM0hsZmJiVmN6ek4yTmhyNTJsME9yQlhuYzA2VkFqQV9QQUFUbm130gHgAUFVX3lxTE9ncW0td0htT1g1cVd2dmRYYm0tUHFtcUpnbU1GOEV3dG9yNmp6TmlUVWE1OUFSTW9ORUsxSkNCWFVlWG8yVjU0aC05Unpyc3ZVOHEtNXVkMUF0UnllLV9EVk9TR3l1bHgxV1lHcEsxdEVDd1hFMW1ZY0pUSlBrMFNxcDlrdng4MzJkeHZPTTREcG4yX2pvUkd5cDkyd3k4T2xPMkEwcUpiMGFpclcyeFlERWIwa244ZGtRNVhYVVlCQVNVaUtRSnBqYzE1XzF6QXhkVlRLTHR5NWhpc2dEcUFB?oc=5",
@@ -4541,23 +4611,6 @@
    "alerted": true
   },
   {
-   "id": "3fbd8cf84434",
-   "title": "The Insurance Shuffle, Moneyview IPO Day 1 & More",
-   "url": "https://inc42.com/buzz/the-insurance-shuffle-moneyview-ipo-day-1-more/",
-   "source": "Inc42",
-   "published": "2026-09-25T02:30:36+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "The Insurance Shuffle Moneyview IPO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "438b561fa520",
    "title": "Fuelling startup dreams: JIS Group launches incubation centre, hosts second innovation hackathon",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR09NZFF5cTlON0ctTV93M0xLRmlWS0tDcUZFbUEzYVVxb0RHOGpPX1hCblg5WkZfeFF2Wjl0NW1oXzB2TS1Ed1NvUHZ6b05vaXpEMkVmZW14RlJqTGFMb0wtZmtCMzd5azlNOEJTZkFjcC1GN1Jnd1BvUXYtRUNZOEY1RjYxN1lzRWFGa0NWRUpoM0ZlQU54Y0xIUjIxZExqY3dlRDNpdUE1eFZxRDd5VEN4NW9SeEpoVW95cTBPYWVKR2dNcUc3emFWejVncGxUaFlLTmxxQXVIOVJvMEM0LXRkbVBpdGJhQ0ZGWFN2V050dkJTTEJV0gH3AUFVX3lxTE1HT01kUXlxOU43Ry1NX3czTEtGaVZLS0NxRkVtQTNhVXFvREc4ak9fWEJuWDlaRl94UXZaOXQ1bWhfMHZNLUR3U29QdnpvTm9pekQyRWZlbXhGUmpMYUxvTC1ma0IzN3lrOU04QlNmQWNwLUY3Umd3UG9Rdi1FQ1k4RjVGNjE3WXNFYUZrQ1ZFSmgzRmVBTnhjTEhSMjFkTGpjd2VEM2l1QTV4VnFEN3lUQ3g1b1J4SmhVb3lxME9hZUpHZ01xRzd6YVZ6NWdwbFRoWUtObHFBdUg5Um8wQzQtdGRtUGl0YmFDRkZYU3ZXTnR2QlNMQlU?oc=5",
@@ -4573,40 +4626,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "4f257980db5d",
-   "title": "IRDAI's commission reset impact; ETSA winner Progcap\u2019s next bet",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/irdais-policy-to-rattle-insurers-banks-etsa-winner-progcaps-next-bet/articleshow/134472995.cms",
-   "source": "ET Tech",
-   "published": "2026-09-25T02:07:54+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "IRDAI's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c8dd0b9e4a7c",
-   "title": "Tata tussle turns the spotlight on TVS-Hanno deal; India is leapfrogging in AI: Google Cloud executive",
-   "url": "https://yourstory.com/2026/09/tata-tussle-spotlight-tvs-hanno-deal-india-is-leapfrogging-in-ai",
-   "source": "YourStory",
-   "published": "2026-09-25T02:00:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Tata",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "263aef52955f",
@@ -4642,23 +4661,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "b2d75469877a",
-   "title": "Ingram Micro bets on small businesses to drive India growth",
-   "url": "https://www.livemint.com/companies/news/ingram-micro-bets-on-small-businesses-to-drive-india-growth-11790258682503.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-25T00:30:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Ingram Micro",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0f57b15a8c92",

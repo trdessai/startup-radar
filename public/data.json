@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-09-29T22:38:42.892085+00:00",
+ "generated_at": "2026-09-30T01:31:04.583618+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 8,
-  "fresh": 5,
+  "fetched": 9,
+  "fresh": 7,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "f00fc87b0b2a",
+   "title": "Indian PSUs to keep tapping dollar debt despite higher costs, says HSBC's Venkatesh",
+   "url": "https://www.livemint.com/companies/news/hsbc-india-dollar-debt-indian-rupee-psu-overseas-borrowing-rbi-11790679263139.html",
+   "source": "Livemint Companies",
+   "published": "2026-09-30T00:30:35+00:00",
+   "score": 52,
+   "category": "funding",
+   "company": "PSUs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf8e933b2994",
+   "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
+   "url": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/",
+   "source": "Inc42",
+   "published": "2026-09-30T00:30:17+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Arivihan Nets",
+   "amount": "\u20b998 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "\u20b998 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "bbaa03435ea3",
+   "title": "Arivihan raises $10 million to expand AI-powered learning platform",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0c4SnAyLUktWl9QMlR2WjUzZEtHeWRpdTNFYk1LTmtzT3FhTHdpdjNXbXA4bk1pZFVvcGI4MThMVXV4QkZtWmF6RTRGR256MHgyNWtWcFR0UlhmdWNmMHdqaEt1NnY3dkJUMkNSZXZZbnV6MGZ0eTlpUFBjWGZTLTAtWGFJa0VPMVhwTzZqc2ZjMElCSjB0YnBjSWVsb3k4VkFyWW5yUnBGZzJMUDFxdHRGc25GZVZlYTRGbnpNV3RzaVFfcmJKdzJsUWN4Sy1yeTMxSmpB0gHbAUFVX3lxTE5pZUV3NVVFbWVoN3JCc2o3bUVIaTFuSG1KekVNU1UzcmF3cnhMaW9obVpRWXFqOURCdGhvX1V3SVBxMnFia3pkUEM0bVlHd1Jrc191Z2YxYjFja0dyYko3Y2h0OE80MVBkUWJhZkJPb3lyOW5tb0FVdHBMSTVmT1p6SkpocmlyVWdTaVR5LUtEYklJR0xOOVFfa3lvWkhhbm0yQ2pOUUVKVGJGZVdWLW53Z1RDU2ZtUHVIV2ZNOW0wUVJLUWlkRlNuODBSbXZSSzVGUzVNd0syOWFLbw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-30T00:30:00+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Arivihan",
+   "amount": "$10 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "796dfc37fb81",
    "title": "Will Amend IT Rules To Bar Under-18s From Social Media: Centre To SC",
@@ -5091,23 +5145,6 @@
    "alerted": false
   },
   {
-   "id": "8238f5266f24",
-   "title": "MeitY plans to expand DigiLocker into private sectors like finance, education & health",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUltX1pCSnpBTUdUNkQxejRWbmtPY1BaZEU1SmdkNzBNSnBwMzdJd2JBLVcwcFNKeGZJb1V6d2ZhalJXY0k1dWxjbHJZaUtCcWJsRjUtdGNHbEpiZEpSbzg5UFlRT0l2TlF4NXJqZlkwUGg2LU85cGZZSHVEdXp1WmRnUUZZd19ZX0ZmV1dDcw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-09-25T12:11:39+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "MeitY",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ce781de77f0d",
    "title": "{Funding Alert} Zelio E-Mobility Plans Rs 167.96 Cr Fundraise to Expand EV Manufacturing",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWZDZjMwTXhVXzRTX19mVXlFTk1tU0RoY1gxVDhOQVA1OHlLY3FJbU94VGdxTkpoS2hobUNOenhiWGhoOVg4NTRnNXduaW9HcVZtc2MwSmF0N1cwM0pWcElEM2hzT2lPZXVrc0hDSmFKYXhvMWoxS1NpaFl6dkQyNkNtcFBoY01vcmNDNURNZ3diNU5ZbkJ4UnVfYThpUXFuX1dzaU52bzM0cUc4ZFMwdWpHQ254UktXWEE?oc=5",
@@ -5142,23 +5179,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8d1f6c9178a2",
-   "title": "Dextr AI",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjXzVyaGQ2SnQ3RXlYcHlDbms0LXhjSlAwMHFJZE5rQ0ZURUdwcm1Od0VpTDdxekd5Q2U2dDI3ZjlzMm5leUYzeFlR?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-25T11:50:14+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dextr AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "923f958ea3b0",
@@ -7089,26 +7109,6 @@
     "funding in headline",
     "Rs43 Cr",
     "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "20fb50b82f17",
-   "title": "D2C streetwear brand Indian Walker raises pre-seed round at Rs 20 Cr post-money valuation",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRF9Ic01UbFlTVkEzSzJOcm5pV2Z0UDY5SWQwUk0xaDIyYmpWNXctUDJMZ3JhelFaUDR3ckhta3UxUmU2c25WWXFMUy1Wbk5OSG0wYndiWUhIQmZGNHBNa0Z5dmk0WTdmMVIxUm9HaVJ1R0JrQzZZR3VjWThsd2ZGS2xycThSTVBabzJVVElzRXhzXzAyeHYxWDlkSkhLMlpPWWN1c3MzMmZ3am5HVnJnSnhySGp0d2xxMzY0aEVydGRCYlE3ZDQ00gHHAUFVX3lxTFBEX0hzTVRsWVNWQTNLMk5ybmlXZnRQNjlJZDBSTTFoMjJialY1dy1QMkxncmF6UVpQNHdySG1rdTFSZTZzblZZcUxTLVZuTk5IbTBid2JZSEhCZkY0cE1rRnl2aTRZN2YxUjFSb0dpUnVHQmtDNllHdWNZOGx3ZkZLbHJxOFJNUFpvMlVUSXNFeHNfMDJ4djFYOWRKSEsyWk9ZY3VzczMyZndqbkdWcmdKeHJIanR3bHEzNjRoRXJ0ZEJiUTdkNDQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-09-23T00:30:37+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs20 Cr",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs20 Cr",
-    "Pre-Seed",
-    "no company named"
    ],
    "alerted": true
   }

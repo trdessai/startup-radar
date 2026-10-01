@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-09-30T22:35:11.333867+00:00",
+ "generated_at": "2026-10-01T01:29:07.255710+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
+  "fetched": 8,
   "fresh": 6,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "3fd5dc46d30d",
+   "title": "DataLabs by Inc42",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GYlV2ZjVOOGExaUwzTkNsZVViUGV3NTdrR1o2WVJPVTFWMDBLUTctSlBXeUUyTld2b05seXBKNnJHN0NycmFod1RzY2x1S2tVY0RRcGxYcVRULVV2aDBGelhHdw?oc=5",
+   "source": "Inc42",
+   "published": "2026-09-30T21:52:27+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "DataLabs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "69bcaa71a4e0",
    "title": "Traders Call Off \u2018No UPI Day\u2019 Protest After Meeting FM Sitharaman",
@@ -7106,25 +7123,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fcbc62ec77ab",
-   "title": "AI coding startup ByteAsk raises $1 million from YC, Entrepreneur First",
-   "url": "https://economictimes.indiatimes.com/tech/startups/ai-coding-startup-byteask-raises-1-million-from-yc-entrepreneur-first/articleshow/134443548.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T00:30:00+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "",
-   "amount": "$1 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1 million",
-    "no company named"
    ],
    "alerted": true
   }

@@ -1,12 +1,219 @@
 {
- "generated_at": "2026-10-01T14:43:30.978193+00:00",
+ "generated_at": "2026-10-01T19:50:16.348986+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 56,
-  "fresh": 35,
-  "alerted": 13
+  "fetched": 19,
+  "fresh": 15,
+  "alerted": 5
  },
  "items": [
+  {
+   "id": "71627ca30fbf",
+   "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals",
+   "url": "https://economictimes.indiatimes.com/tech/technology/synopsys-shares-jump-on-robust-growth-outlook-openai-and-aws-deals/articleshow/134626421.cms",
+   "source": "ET Tech",
+   "published": "2026-10-01T19:09:02+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "Synopsys",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e20ec3b9fb54",
+   "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai/articleshow/134626238.cms",
+   "source": "ET Tech",
+   "published": "2026-10-01T19:01:46+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "SoftBank",
+   "amount": "$30 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$30 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bbb58e32361a",
+   "title": "Niyo FY26: Revenue Zooms 80% YoY to \u20b9158 Cr, Loss Narrows 58%",
+   "url": "https://inc42.com/buzz/niyo-fy26-revenue-zooms-80-yoy-to-%e2%82%b9158-cr-loss-narrows-58/",
+   "source": "Inc42",
+   "published": "2026-10-01T18:44:46+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Niyo FY26: Revenue Zooms",
+   "amount": "\u20b9158 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9158 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d90313977773",
+   "title": "From checking Earth's fever to AI lab: 3 Indian startups launch aboard Falcon-9",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGRuUjJ4RDYwd0w3cDdNSzRldGUza1dEQ2h1dV9oX1QydFNnMHNIdHgtOGhhQXU4dFBBOUdZbkFCYTY2ZWxXS1NxOFRhdVJrOXF4UkRiOFFKclJab0hmMUVOTXpfa3cyeUhFNTcxTGtJS2hvQll4aUFVQkNOb2loYkF6SHJGUEZTVlFjcGFyWWpJS0xmd1hnV0dKYVlCdFpBR2k3OXRLQkk5SE11dGNRLVB0cDZ0VUVrSDhjVnI0TDJmLVZReUJSNkJ3a05pY2p0Y0xXc0tnNWjSAd4BQVVfeXFMT3ZXZGNGSjc2TmEwUlFtWmY2TzhfR3owZl9qSFhiNVVpVzZhcU9GaExQTUlXZzAwcW9YamZrcXVkbDh0QnlKVjBKc2JmTzZhdk5Xak5USmlodWRrMjBkVWZWZGc1NUpBMXJRRGRKaHV5aHB4dkhPQTViMVVzTGF1ZnVDQ3VvMHJISkN5TjhMSkJhYUFoSld5S3hFY0N3T0pla2l2ZGdMemRZMEF4LTNkVGtmQURfSnA1ZHBuLV9LZ2hIVDE4eVAtMDVCNHNRd2pWdTllSUxpMmI2R09IRWRn?oc=5",
+   "source": "India Today",
+   "published": "2026-10-01T18:32:57+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3135c85d1539",
+   "title": "Rogue OpenAI agents covered up their tracks, report says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/rogue-openai-agents-covered-up-their-tracks-report-says/articleshow/134625556.cms",
+   "source": "ET Tech",
+   "published": "2026-10-01T18:28:22+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Rogue OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "67cc77f8fe21",
+   "title": "California attorney general opens probe into OpenAI over cybersecurity concerns",
+   "url": "https://economictimes.indiatimes.com/tech/technology/california-attorney-general-opens-probe-into-openai-over-cybersecurity-concerns/articleshow/134625489.cms",
+   "source": "ET Tech",
+   "published": "2026-10-01T18:24:57+00:00",
+   "score": 47,
+   "category": "product",
+   "company": "California",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c865215e3c3",
+   "title": "Stocks Sena Launches Free Stock Research Platform, Raises USD 232,000 at USD 2.32 Million Valuation",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0VQTmlJLTBqSDNFMnAzbzh0aU1DMkVJMktlUnhoVzFDbmJDM3ZKSmQ2OTZaWEtZSlh6TGtZX2JOc01jRlBvNmZzbmhtMVlwTnRPVzNkQlFmUTd2M2d1TWUxTlo2TF9LRXlVS1ZnR0FibWlkMzlJS1M0U2NZZXIzMUY4bWtkaDVUUlFjWVFMbGRsMVJtODNFeHBRVy1rSS14TDJJellybUdhVk9iWTZkQkxXZDVidG5Pb3loTTNiQQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-01T17:01:37+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Stocks Sena",
+   "amount": "USD2.32 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "USD2.32 Million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "584dc26d6792",
+   "title": "Test before you scale: WPP Media's new playbook for brand launches",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXJyYWd6S1l1VnBKNHdKYlZ1TDQySnR0ZWVsRy0wc2JZeF81RXdfZkd4QWVZTHdaZnk1b3VveHZZM3JXZ0QtOTlhekg5QklOUjZFQm5CcFRKRXVaUERseVZ4SHZSek1ZbDRFZkJfdG5DUWg0TjVwd2RESUhrY285UnNnR3kzak1hRGNlT3hTZVJpbGE0bm9pR3BLNm9XcEpqSEJVckNrc0diX2pCREdyLVpBbmVVanc?oc=5",
+   "source": "PitchOnnet",
+   "published": "2026-10-01T16:55:26+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Test",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ebcbb76576ab",
+   "title": "How Anup Bagchi got the HDFC Bank MD-CEO job: Timeline of developments",
+   "url": "https://www.livemint.com/companies/people/how-anup-bagchi-got-the-hdfc-bank-md-ceo-job-timeline-of-developments-11790872658025.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-01T16:52:33+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "How Anup Bagchi",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "HDFC Bank\u2019s",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3f66f0b414bd",
+   "title": "Nykaa Fashion launches Hidden Gems accelerator with zero commission for six months: What it means for use",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTmdNV0F0dG5LQWVzZll4aTZaOHRIV0l3R1dZeVdENHI5dE80RFBHS1BUVUNjQTJvZHFlZlUxQ0VVZFFKVzY2b1g4dmNWenpZNlptazRwQzQyN3hGdDRVTHlzeDZXZkEycXZrVkE4c1h6OXZOeWI4U3BqbS1LTXEwcWZESGxObWNUQXUwTi04NzZIXzdfTWg4RDFPRnE4NXdEY0Y3bkN4NGR2RTJncUNjdjRnMzhCRjA2VE9IUWcxZktVTHNjaWJpc2FJd05SOTJpbDAxVmdGNVExeUFiUUpXX0Z1TEItajI3aDltQzB2Yk54SjZIZy0zejNnNnhJa01QVFhyWlJGcHlMUzJEVXFQM2VfWTRHTEpiMkNjUkZR0gGeAkFVX3lxTE1OZ01XQXR0bktBZXNmWXhpNlo4dEhXSXdHV1l5V0Q0cjl0TzREUEdLUFRVQ2NBMm9kcWVmVTFDRVVkUUpXNjZvWDh2Y1Z6elk2Wm1rNHBDNDI3eEZ0NFVMeXN4NldmQTJxdmtWQThzWHo5dk55YjhTcGptLUtNcTBxZkRIbE5tY1RBdTBOLTg3NkhfN19NaDhEMU9GcTg1d0RjRjduQ3g0ZHZFMmdxQ2N2NGczOEJGMDZUT0hRZzFmS1VMc2NpYmlzYUl3TlI5MmlsMDFWZ0Y1UTF5QWJRSldfRnVMQi1qMjdoOW1DMHZiTnhKNkhnLTN6M2c2eElrTVBUWHJaUkZweUxTMkRVcVAzZV9ZNEdMSmIyQ2NSRlE?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-01T16:45:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Nykaa Fashion",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b35b3a757add",
+   "title": "HDFC Bank CEO salary per month: Check renumeration of FY 2026",
+   "url": "https://www.livemint.com/companies/news/hdfc-bank-ceo-salary-per-month-check-renumeration-of-fy-2026-11790869651281.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-01T16:22:44+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "HDFC Bank CEO",
+   "amount": "\u20b915.13 crore",
+   "stage": "",
+   "founders": [
+    {
+     "name": "HDFC Bank",
+     "handle": null
+    },
+    {
+     "name": "HDFC Bank's",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b915.13 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "3362f7f085ff",
    "title": "Aignosis Raises Rs 4 Crore to Expand AI-Assisted Autism Screening Across India",
@@ -5316,114 +5523,6 @@
    "alerted": false
   },
   {
-   "id": "342ae5d048d2",
-   "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trumps-ai-meeting-with-tech-ceos-to-focus-on-finding-balance-us-house-speaker-says/articleshow/134548648.cms",
-   "source": "ET Tech",
-   "published": "2026-09-28T17:58:36+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Trump's AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "02977edd5da0",
-   "title": "'Sellers may submit false declarations': Why CCPA penalised Amazon, Flipkart, JioMart for selling unregistered herbicide",
-   "url": "https://www.livemint.com/companies/news/sellers-may-submit-false-declarations-why-ccpa-penalised-amazon-flipkart-jiomart-for-selling-unregistered-herbicide-11790607193111.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-28T17:50:01+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Sellers",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c6077634a3fe",
-   "title": "\u2018No UPI Day\u2019: Mobile, FMCG Retailers To Protest UPI MDR On October 2",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3FmQ3dBWGNjZmtsZkEtTm1YVVhXR2hDOWkydDhYbVozMU9VZDRVNHRneDdGUUVKR2E4U0F1amNlVUdTUmUxX3RaejB1b3JSRzhIZ2lFQzltQnVQOEJWTFJ2YmwwTktnSEpjNlBZQW5JSVBFeWJsNlpia216b3ROLXdpSTZiYkFqWTFmRW1LRDNBZw?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-28T15:07:03+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "No UPI Day\u2019: Mobile FMCG",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e9f06874773e",
-   "title": "New Air India CEO gets his strategy in place",
-   "url": "https://www.livemint.com/companies/news/new-air-india-ceo-gets-his-strategy-in-place-11790601738384.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-28T14:56:25+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Air India CEO",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "New Air India",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2af99bbef4d9",
-   "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/florida-asks-court-to-bar-openai-from-developing-new-models-as-part-of-child-harm-lawsuit/articleshow/134545674.cms",
-   "source": "ET Tech",
-   "published": "2026-09-28T14:48:23+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Florida",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "08c5210552d3",
-   "title": "Fintech Startups To Watch: Startups That Caught Our Eye In September",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTZJSlNsRXdZYWZWeXRyRG5HRHptN3BjMUVfdjdKbFljS2M2S19JYUVUMmRuQzhVTkVxZmpHR0Y1MFRwTHdOQjl4bDJsMzhiWk1qb1l5SGFxbVV2THA4VnplR2FHRk1jZmNkQnhyV3YxSDAtNk9EZzJXMF9tbHZMODd6a1BmaDc0YlZWY0hseFRmZjBrRlhFZmpwTQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-28T14:47:57+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "To Watch: Startups That Caught",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "16be925eeb13",
    "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
    "url": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
@@ -7028,95 +7127,6 @@
    "reasons": [
     "expansion",
     "\u20b928,790 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "24ca5c2b89f8",
-   "title": "Meta launches Charm, a companion device to its Muse AI agent",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-charm-a-companion-device-to-its-muse-ai-agent/articleshow/134468633.cms",
-   "source": "ET Tech",
-   "published": "2026-09-24T18:31:58+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ee3a0116096e",
-   "title": "Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network",
-   "url": "https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/",
-   "source": "Inc42",
-   "published": "2026-09-24T17:59:38+00:00",
-   "score": 90,
-   "category": "funding",
-   "company": "Rio Health",
-   "amount": "\u20b943 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b943 Cr",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "11424aa88048",
-   "title": "JanAI, IAEF Launch India-Africa AI Bridge for Collaboration",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONlhPdWp2ZzhuSDFFX2ZqbGZfN21teFZGbFF0ZTlhX3hiTVBiUjdOODZMMkhjdkRZSE5DWkJqZ2t6YXgwOE9rcDdRSWRFeW9HcS1mRHVvZTVHMm9ncklhYnlDbUlOSHowMlBNbVBzNHlmU0V4VzBGRklMVi1HUjhuWnE4YWVDeENRVGlXcjhWbURiSjIxT3Zxck4zazRhZExycHp3VG00UkdZUzJES09N0gG0AUFVX3lxTE1HTGFpZHV5eHVPTWtkeXhzc0hYak5aSFFsaFhEY0RXSzNzTGVFcWVvUjhiMVMxbjF2RVdsZjRzR2ljcFlPZ3VkS2w1V1JUVVVPejdNTkxlclU5akw4N2hMaVNmMXNEVlJzOWFFVGFRMXdsZXM0czh6VFdwXzdyTDRZX3ZrLXlNUnhJUERTWTQyaGFkY01ERWFkSm04NXotOG0wUGlQNlBuN2hVenI2aV9ub2p3VA?oc=5",
-   "source": "Rediff MoneyWiz",
-   "published": "2026-09-24T16:59:56+00:00",
-   "score": 67,
-   "category": "launch",
-   "company": "JanAI IAEF",
-   "amount": "",
-   "stage": "Bridge",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Bridge"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "36212c4183c9",
-   "title": "NIMHANS launches AI-assisted project to screen depression in Indian languages",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSHpXVnlMTWVvQkdVZFNPWGJpYm5UZFVGWnJDaEdEYlIzZU9uYlBCbHNJS0tRQ1F5NW54VDdCTFV3ZnhrWDFJamY1LW0zV0huVGNoX3BDdjdidEFsOGlKZGFWZVNHeUpVaVNCb3pFREVGdll6TmpXdG1tUXdCV0dVc01GOGg0dHRtbGI1MXF4WmxEQ0RLeDk2aE83U0FsRXk2VURPR2NtbXBZUEN2VVNmSzdJTkVCQTNqQWZXQUg1X2FkdUJwX0xHT2hiT0FJLXZN0gHQAUFVX3lxTE5IeldWeUxNZW9CR1VkU09YYmliblRkVUZackNoR0RiUjNlT25iUEJsc0lLS1FDUXk1bnhUN0JMVXdmeGtYMUlqZjUtbTNXSG5UY2hfcEN2N2J0QWw4aUpkYVZlU0d5SlVpU0JvekVERUZ2WXpOald0bW1Rd0JXR1VzTUY4aDR0dG1sYjUxcXhabERDREt4OTZoTzdTQWxFeTZVRE9HY21tcFlQQ3ZVU2ZLN0lORUJBM2pBZldBSDVfYWR1QnBfTEdPaGJPQUktdk0?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-09-24T15:57:01+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "NIMHANS",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "45530c9f0b79",
-   "title": "IPO-Bound AceVector Nets \u20b9189 Cr From Anchor Investors",
-   "url": "https://inc42.com/buzz/ipo-bound-acevector-nets-%e2%82%b9189-cr-from-anchor-investors/",
-   "source": "Inc42",
-   "published": "2026-09-24T15:34:58+00:00",
-   "score": 76,
-   "category": "funding",
-   "company": "IPO-Bound AceVector Nets",
-   "amount": "\u20b9189 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "\u20b9189 Cr"
    ],
    "alerted": true
   }

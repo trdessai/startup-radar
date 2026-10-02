@@ -1,12 +1,195 @@
 {
- "generated_at": "2026-10-02T15:08:36.457581+00:00",
+ "generated_at": "2026-10-02T19:54:56.795609+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 18,
-  "alerted": 6
+  "fetched": 14,
+  "fresh": 12,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "19460a3d2728",
+   "title": "Vytalyou Raises Rs 9 Cr At Rs 33 Cr Valuation",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2h3N09FaE1SMmVENzltS3RheTVhVG15a0dkRjFManJwODZiWnBDS1dnZ0VoTFZVT3ZBUkpKbHdSUGwxMklWZDQxLUlWVlJydVZYSlFfMGw3Zy1WYUJQeU9qcjZZbzh4cnd6Z2M0djM4MkZGQ0hHc2lDSEZhVjJvQVFnN1ZfQVMtS2J6NXdTcmRnSHhIejdOQ3Z2dXRXM3F0M1g3RmNNOXBzclBKcnhlLThYMnlHbENqU084aDNtUQ?oc=5",
+   "source": "Bharat Fast",
+   "published": "2026-10-02T18:35:10+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Vytalyou",
+   "amount": "Rs33 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs33 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6c2adf87a434",
+   "title": "Indonesia Raises October Palm Oil and Cocoa Reference Prices",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJ0LTlpQWM0VG1ldXk3X2pVWVczOFRaWlhWMlRBR2xQZldPaGFNT1NlLUhHLS1UVjBMX3JPNlNjUk9mbjNEeElZVTRPS2dvZ1hXLUlJMEROdFVxYnM1ZmxSUTFIRzRoNVFWUW1NSnRfLVVlYTRqa3hOai1XMjJ1UVZEMlBvVmdJSUpiLXBpejdJVTdYeXRoOXMxVWRNT2VFYTlKWnI3N1RJX2laaXVFWjdDQkpjdkU?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-02T17:55:06+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Indonesia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2be384835417",
+   "title": "Emergent Becomes a Unicorn With a $130 Million Series C",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDZPLVJtbVpZZDZhV0dQRE1VV2VGT3Y0M1FDQWU4UU9mcmtBTDlBcldZQkpCRjhiLVpUa2ltS05fS3dWM2Y5VThuT3A3cXozeVIwMnRfa3U1Y2RWeTRIV3RaVWtWYjhtMFhTV1dpeDM1WFFMdHFMNnYzZTdUd18zMTZKc1R4bVhR?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-10-02T17:42:07+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "Emergent Becomes",
+   "amount": "$130 Million",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$130 Million",
+    "Series C"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b9b45f749ff9",
+   "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
+   "url": "https://economictimes.indiatimes.com/tech/technology/dutch-eyewear-chain-hans-anders-halts-sale-of-meta-glasses-citing-privacy-concerns/articleshow/134644388.cms",
+   "source": "ET Tech",
+   "published": "2026-10-02T17:22:49+00:00",
+   "score": 54,
+   "category": "funding",
+   "company": "Dutch",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "36ebc1a70b74",
+   "title": "Zoho Takes Arattai Beyond Chat With Free Monthly Messaging for Schools and Hospitals",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWgwTGFxNFJKbnJqMmRURVk5LUhOWWIyWF9PWFBJU3F4SmxXdFFSdXFHMFktTFhhUVJfQVZVdDZadGJQdmU2dGxYM0JoYTdTQ0ZrNkRUS1duY3VHV3ptWHNTRkU1RGlqTk5QcmJ0YXBNbGloQ1VfM0JGUzF3aDhtS2M1TzJrSXFtQy1zRmNwTEtxRUstelM4dlpXal9SRGc2VkViZFpzbG5wVkJoemhjN3ZGWXkyZ2g1b2gw?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-10-02T17:17:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Zoho Takes Arattai Beyond Chat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7dd319cd9afb",
+   "title": "CEE Startup & Tech Weekly: New \u20ac70M+ Fund Backing CEE",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYnVBRV9hUF9oRG91NmloaTdZbEtZQjVHcHJ4enBMTnktTmRuX2xoTWxvbmdDVHFGdjI3czdISFl4dXh4R1RCZ09SaS1QX3NseFprZ1ZLdjRPZkJKWXJIY0ZFejZTTUU?oc=5",
+   "source": "The Recursive",
+   "published": "2026-10-02T16:54:07+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "CEE Startup",
+   "amount": "70 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "70 M"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7f6ad3d78641",
+   "title": "Skyroot Aerospace CEO Pawan Kumar Chandana named in TIME100 Next 2026- Who is he? All about \u2018Elon Musk of India\u2019",
+   "url": "https://www.livemint.com/companies/people/pawan-kumar-chandana-skyroot-aerospace-time100-next-2026-who-is-he-all-about-the-elon-musk-of-india-isro-11790956114241.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-02T16:50:17+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Skyroot Aerospace CEO Pawan Kumar",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Pawan Kumar Chandana",
+     "handle": null
+    },
+    {
+     "name": "Skyroot Aerospace",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "43d37d92ac33",
+   "title": "How BorderPlus Is Turning India\u2019s Talent Surplus Into A Global Workforce",
+   "url": "https://inc42.com/startups/can-borderplus-is-turning-indias-talent-surplus-into-a-global-workforce/",
+   "source": "Inc42",
+   "published": "2026-10-02T16:34:44+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "How BorderPlus Is Turning India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e5c030f666dc",
+   "title": "BorderPlus\u2019 Bet On Global Talent Mobility",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFo1Wk12Ry1qVDJxdHpPWTBrQlZ3eW9wV3QxSmVLLV8yZVRndzhMLUZoUW9pQ25CWUlZWjhPNkpEMC1xb19zRXQ5WmRmUGNmbHk5OEN3OGxfQXo0alh3X3JUTDBjbF93a09DbU5WWXlkX1ZJZTNIS0JNLVpkZktBaHBqUVZHSWFsSl8wU2syY3lIbl9rZTYwMnBkSFBrTzdD?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-02T16:34:44+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "BorderPlus Bet On Global Talent",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "89765bda0930",
+   "title": "Nikhil Kamath has a '100' funding message for startups: Zerodha co-founder backs post urging startups to r",
+   "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQb2dRWUhwT3VYYlE0ZnZfa21HbmlKUDgxdzFjYXUzZ29sLTVPbmduZzk0TFBMamphNmhxNzZmdXUwbXBUSkQ4NGQ0RnF2akEwcWhER2JndXJrN21XcXlVQWxMR05wUGRxejlnNkVJWktRVDk0NUx3SEVDaTJPUGNnVEZkbG82Wm9ybHAycFZ5QjZzRkRLWE5VZFUyM3pKNko3WnRlR0N0eTBRSjlJdW9VUW13bVh6TnhmeG4wVW4wLV8tOFlBekxVTS1FZzNKdlFlVjgzQUx4bzJ4dWNtRlRPeEE0b3BTV3I5NzZ6a0o3dmFvaGVIb3ZyZk84RXkwWjRqUHFqOVhhMll3NVRlRHNTclhoZDlxNlFnTGkyQklVbGRZalpjVFdtZDR2bU9NM1VUS3ZMQlNoN0dKSFBiZE1QTTc4Ym9qZS14ZF9yRkhydEx5dTExTWVZb0U5bjlpQzBTSjNfMnE3MGQtNlR2Wld0ZDJYUTdFRHljZHJxNdIB9gJBVV95cUxOWjByQTZvUEN0RFpZZmM0dG1XckF1RXdjM1Z4azFOSWxOSXc0dmxsNmluN1UwTGc1LXRWaGJDNEhlZU1iajltZXR5Y2Q5VmI5MnNwSm40OTFUeklYMEo4SnJoXy1wU3ZhVDhuaTBLbnAwRUFuMHJ3RjBHa0lFOGdRV0pKOEhQMTdSMjRndkRIQmp4ZkplUWJXN1YxNnUtbmNOR2drTE9NeDFZdFF3aW5vSGJqaV93MkFpemwzMGR0YXpsaURUaUJMYWtoN0s5RTZBc0pCNkZzc2ZnYm1idWt2NE5zUThBSGpfczJNY3VYeWZyU1M5TktMNENocV8xNVRCQ1BKNXJ1N0ZhWnFEQ091RFNfT28zTGFNWFEyaldXeWQxbG1kYVNFeTJwYThCUjVYOEd5b0Fya2h3NEVLbVB0TlppWVVpZUFEN1NNN3BvSmVVcEZCem5kUkh0Mnk0Qk12TTQwSE5fT0loTXllVU1kZmlObGVodw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-02T16:29:46+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Nikhil Kamath",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "33f0c306cb74",
    "title": "Haryana CM launches \u2018Startup Haryana Seva Sankalp\u2019 to support youth",
@@ -5770,40 +5953,6 @@
    "alerted": false
   },
   {
-   "id": "d3076a4d66ed",
-   "title": "Today News Headlines for School Assembly, September 29, 2026: India sends senior MEA official to Pakistan; SC refuses to stop MDR on UPI payments",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5",
-   "source": "indianexpress.com",
-   "published": "2026-09-29T03:56:38+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Today News Headlines",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cd07b3fbdb8f",
-   "title": "Hinge bets on India as Gen Z dating fatigue tests the app business",
-   "url": "https://www.livemint.com/companies/hinge-match-group-dating-apps-india-dating-market-gen-z-online-dating-app-fatigue-ai-matchmaking-tinder-11790585127736.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-29T03:55:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hinge",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7113606735bf",
    "title": "India's Essar Group to build largest steel plant in US: Trump says 'largest plant in America by far'",
    "url": "https://www.livemint.com/companies/people/indias-essar-group-to-build-largest-steel-plant-in-us-trump-says-largest-plant-in-america-by-far-11790652850128.html",
@@ -5840,40 +5989,6 @@
    "alerted": true
   },
   {
-   "id": "3f745f40c454",
-   "title": "The Sleep Company: A Brand Strategy Built on Product Innovation",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWpKYWN3U2tuQmx4WFZSSU9LMV9Fd2ZuOXZ6Z201NUxpV2xEU0oyNXhTUDJHa2NqNnhiR3EtMGxnalZmVWE0SGM1UDRkMDlnOXNkXzRaS09tRGtDc21nZzl4VFZVeUg1dGJkOW83ZHhkMXR5RmxlbXk2bUstTGRnbXlSa3NZU0R5NXFvek5HX25WT3hQaXNOXw?oc=5",
-   "source": "MarkHub24",
-   "published": "2026-09-29T03:30:14+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "The Sleep Company: A Brand",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1efb61af3ee9",
-   "title": "GCCs in India are moving from service delivery to product building; developers need to follow",
-   "url": "https://yourstory.com/2026/09/kewyn-george-gcc-ai-pilot-graveyard-devsparks-chennai",
-   "source": "YourStory",
-   "published": "2026-09-29T03:30:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "GCCs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "55ab6070a216",
    "title": "AMD to acquire Fei-Fei Li's World Labs in $8.2 billion deal",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-to-acquire-fei-fei-lis-world-labs-in-8-2-billion-deal/articleshow/134555077.cms",
@@ -5890,58 +6005,6 @@
     "$8.2 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "b15275019578",
-   "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/articleshow/134554998.cms",
-   "source": "ET Tech",
-   "published": "2026-09-29T03:15:24+00:00",
-   "score": 45,
-   "category": "launch",
-   "company": "Nvidia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "80a8e58d6b91",
-   "title": "As AI makes copying easier, this product leader says trust is the real edge",
-   "url": "https://yourstory.com/2026/09/kunal-shrestha-responsive-ai-trust-devsparks-chennai",
-   "source": "YourStory",
-   "published": "2026-09-29T03:00:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "As AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "402b1bb33605",
-   "title": "Meta taps Australia's Firmus for AI computing capacity in Southeast Asia",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-taps-australias-firmus-for-ai-computing-capacity-in-southeast-asia/articleshow/134554559.cms",
-   "source": "ET Tech",
-   "published": "2026-09-29T02:52:56+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "69b57c3e4a4c",
@@ -5998,41 +6061,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "ee4eeb025bf6",
-   "title": "Quick-commerce crunch forces D2C food brands to widen offline trade",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEJWWkd4NmVqbUVTZ21HOWo1UDlMcHpMdnlNQUcwd2xWMnk2ODRCRklSRlotQ1dzTEZ2QlF5ekNsM3p5NzZwYUFZbEVrdGRDZ29MSmxldXZWc2MzSFJUSGtBRHAwM1drZmE0WGtTbmRUd0NON09keUNwLWgxMTUxS25oZ01pWm1FdXJBOUZYN2I1djFvR1HSAZsBQVVfeXFMTkdtcEc5UHZXcXROUVBKa2R1eERwOXpZR19UcGE2VjZmem8xZlgzX3loeTkzc3NpVjRGWnUzLUlDWTItVHpZQW9QeWJlMU1jWUVXdFFkVTBLMlJVa01lVV95QnB2RGtKRjdJY3dzbU56eHJJdjVEeWhtXzd0S2JqdFhmbTJVRkVsb0dsclgtMkNIQktVNVJhNUd0MW8?oc=5",
-   "source": "Livemint",
-   "published": "2026-09-29T00:30:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Quick-commerce",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f4caaf0e8590",
-   "title": "Indian family offices, MFOs ramp up CXO hiring to build institutional capabilities",
-   "url": "https://www.livemint.com/companies/news/indian-family-offices-mfos-cxo-hiring-institutional-capabilities-11790563405712.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-29T00:30:35+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "36c6edfa55cc",
@@ -7107,23 +7135,6 @@
     "funding in headline",
     "$10.5 Mn",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "beb990002035",
-   "title": "Assam launches North East Seva Innovation Challenge 2026",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VDWUNHYWdrSjFjNG5neDNOWnV1aDdwMXFEajVxUjRNUW14UXM4SGRVUDIwMENobkdZcUhoZUpnYnBYR3ZRNU02cm55NDFubjZkSk9uU2dqTURvUGNHbEVLNkViNFpHRG14YmlYRXN5alFRN2o2Y0tWVEw5aDFVanY4alhkdmtGMHhQUzduRmhHQ3c?oc=5",
-   "source": "The News Mill",
-   "published": "2026-09-25T16:12:17+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Assam",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

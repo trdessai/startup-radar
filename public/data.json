@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-10-03T17:12:16.026953+00:00",
+ "generated_at": "2026-10-03T19:50:52.047311+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 15,
-  "alerted": 6
+  "fetched": 11,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "405978c4f9c3",
+   "title": "Jack Dorsey\u2019s Bitchat Goes Offline In India After MeitY Order",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGdlLXZlODhvd1NOcVJ0c0RrRklHWEVxa01XLVVwM0UycVczS0R5MTFEMmlNMldkbkpKaG9xSEQxNW5wSU0zRXFqQWhGMi1lUVdIejZpR2xFV0hZNk1rWko3c0VQZzh5amV5ekxROWZ6NUtVX1hHeWVsQWVTWlhhZndGbFlXMktxNlAxUmVIaDBvbnVy?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-03T19:35:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Jack Dorsey\u2019s Bitchat Goes Offline",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "11422246fe35",
+   "title": "Odisha CM announces \u20b911 lakh reward for Indian men\u2019s hockey team after Asian Games gold",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnR6d0p1Xzl0WVVXYkVSYU5qLWJFOHQwcVpWd1lpUU1hVGdQZVg1YllpMEFhSGhwUEcxN25yRVllbmZsS1c1VHhXYlM2OFFUWGg2cWxZUXc4R1R4MGFralVGd2JnS1lJYU9xcGN5ODZBYnZsYTNKM1RqcHNyaXlzQ0hZZmVLVnN3czREM3cwWWtsVWk1cHpzN2dSS19DNTFVZm90NWdjSjk3Y19fRHJWV1F0RDJuZEJkVzUtQU1BNE1LUUpTS3c?oc=5",
+   "source": "thenewsmill.com",
+   "published": "2026-10-03T19:02:13+00:00",
+   "score": 59,
+   "category": "product",
+   "company": "Odisha CM",
+   "amount": "\u20b911 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "\u20b911 lakh"
+   ],
+   "alerted": true
+  },
   {
    "id": "102827663c01",
    "title": "\u2018Next year could be bad\u2019: Zerodha co-founder Nikhil Kamath endorses grave warning for startup funding",
@@ -5985,24 +6020,6 @@
    "alerted": true
   },
   {
-   "id": "c58dd56e4a02",
-   "title": "Anthropic eyes $518 billion AI buildout; backed by 80% non-cancellable deals",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-eyes-518-billion-ai-buildout-backed-by-80-non-cancellable-deals/articleshow/134565978.cms",
-   "source": "ET Tech",
-   "published": "2026-09-29T12:23:25+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "$518 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$518 billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "bcae2563d0d9",
    "title": "Bharat Housing Network secures $5M from Symbiotics",
    "url": "https://yourstory.com/2026/09/bharat-housing-network-secures-5-million-from-symbiotics",
@@ -7140,24 +7157,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e06448af7da6",
-   "title": "IIT Madras-backed Unicorn India Ventures raises \u20b9450 crore; to complete the fund at \u20b91,000 crore by December",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLUFyZUVkTVBYU3F3UDBDSTBTSjBCYWpTc0NhTDNDU3dMVUR1ZHA1UmxITWtScUdkMXF4X3Z2Uk5BMnV5OXFPSFZkTE40ZE9mc0tSUHRMNTZWbDBfby1oaFpnVU9vTVNNNFIwamJiYzlrTE9JLTQ3bVZmNnJ4ZjhIbHkxTV8tZnBoYmF2UG50TmtWWkg2WmptQWFRcDhTdW1Qb1JjLWZwQTduWjdWX3JQVXhzMnhyZTlFZ2hWQ2dkR0t1eGJmSUtxMGdzYlM3SVF4Z28yaDVsTWV5QTRfSTBIeWwtOTNYMTctSndwLXRVSnVtVWwwWXo3dkZGcC1vR1dOQV9B0gGKAkFVX3lxTE1tcUY0MTRCZ1IzbEZ4U1AtTHpGbUlQdHFlQ3A2bzQza0wtcWN6UVFrTTNWZno3aGFHOENJZDFsYzNLcDRVY1NwZEJSMDgwQUljcUEtMDQyaEdwT3FPR0NpQWRpLVY4UnFRb2NDSFg2Q0NUSXltSGhUQ2xEbE14eVVBYWVneW0zd2pfSmVJM21JWjBsRnZTUWM4Ri1uZnFDTERidXQtTVJIYjMyQXZZblY2U0xoVW5WeGwzaXBzcVRNRlFMZ2JMUVlDd3RiMEx5a0dJV2lLTERsaGM1MGl1cUpsUmJ1NGdBU0FBdk5VVW0xUG4yQ05aNnloSk9CUkJIZmphNzU5TGFFRjBB?oc=5",
-   "source": "The Hindu",
-   "published": "2026-09-26T18:39:52+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "IIT Madras-backed Unicorn India Ventures",
-   "amount": "\u20b91,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b91,000 crore"
    ],
    "alerted": true
   }

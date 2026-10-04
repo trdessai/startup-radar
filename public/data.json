@@ -1,12 +1,168 @@
 {
- "generated_at": "2026-10-04T01:49:19.503446+00:00",
+ "generated_at": "2026-10-04T07:26:45.797640+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
+  "fetched": 16,
   "fresh": 11,
-  "alerted": 0
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6bc3c520e653",
+   "title": "Asia\u2019s AI Startups Enter the Physical World with Robotics",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHFwYUVEYWpKR2VaN29nNGdpX0JpbEpiRXhRTGFGY2Zzc1VRTzJGV19xNk5UaVJ0Q24zbDRtOXhfN28tWTNULXd4UG5vYVBxX2xnQ1UwTWJ2X0R4LWhKVThfWWJSaTV3cWVMZW0xZl9nUmFpVWFZUUJtMS0xeXN2ZWNaVHZwM21rQ3FUcTV2el9ud3lmVlpMWEFna1lhUE16MWh1R21QaUJKbE9aamfSAa4BQVVfeXFMT2RxcGFFRGFqSkdlWjdvZzRnaV9CaWxKYkV4UUxhRmNmc3NVUU8yRldfcTZOVGlSdENuM2w0bTl4XzdvLVkzVC13eFBub2FQcV9sZ0NVME1idl9EeC1oSlU4X1liUmk1d3FlTGVtMWZfZ1JhaVVhWVFCbTEtMXlzdmVjWlR2cDNta0NxVHE1dnpfbnd5ZlZaTFhBZ2tZYVBNejFodUdtUGlCSmxPWmpn?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-10-04T07:01:03+00:00",
+   "score": 53,
+   "category": "expansion",
+   "company": "Asia\u2019s AI Startups",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a043aaf9cfa2",
+   "title": "Karan Longyani \u2013 Startup Ecosystem Profile 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMWhHUFItb3paOWM2MGc4c1ZPMi1FdmRkbGNrNlN1MFlYMjdaTlFPQkxHUjJpaHZDZzBCS3o4YVhRMHdLdlZnY1g1QlhkWVBrRUE?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-04T05:35:34+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Karan Longyani",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9c1d9abec199",
+   "title": "Is Apple Pay\u2019s India Entry Too Late?",
+   "url": "https://inc42.com/features/is-apple-pays-india-entry-too-late/",
+   "source": "Inc42",
+   "published": "2026-10-04T05:30:15+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "Is Apple Pay\u2019s India Entry",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "49d77edef907",
+   "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+   "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+   "source": "YourStory",
+   "published": "2026-10-04T04:34:42+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "PanIIT Andhra Pradesh",
+   "amount": "Rs500 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs500 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0486480ab852",
+   "title": "India IPO Daily Market & IPO Updates | 4th October 2026",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVdTS3hpeThXdmFJZVAxclNGa0tGaHg1dGQzZDMxUWRTTm5Fekl0VGxqMktIWlN4eG9keDVwLS1jTHFVRkFVR0RzYWlTVjRBNFczc1A5dF9XQ3A2UE0tcG9MVlVEejNhZXVNS3RKZXBnU1RmbXFqR0pxMWo1djJ6dHktaGFBbkJ2aWdQLVFhR1o3enBP?oc=5",
+   "source": "IndiaIPO",
+   "published": "2026-10-04T04:20:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India IPO Daily Market",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "720982b5c4bd",
+   "title": "Inside NPrep, the Jodhpur Startup Using AI for Nursing Exam Preparation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMG1MTDhNWmYwN2VTTTlfYkctZl9vOGZhdmVKeDlMZ1R3Ni1saGVQZC0wT0JkaWFJM0laaWpFeGtIUjdJM0JCMDJKc0hLZE1IZGNpdVZ3Z3dnVDZ6VXFvN0JYVVVWaXFmY0hsSGFKcWN2aWRaaEdJeXBUa2dJNlBUZkJUM2RSREl1ejA0S3FTbGlVSV9Gb3IwbGxjaW9wSmdOamVzdQ?oc=5",
+   "source": "ascendants.in",
+   "published": "2026-10-04T03:59:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Inside NPrep",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0a8e066fc0cf",
+   "title": "Abbott launches blood test as new option for colorectal cancer screening",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcF9GTXpWUllFZU01SjB4dFR0NGRUOFJiV1hLTlRTTFl1TmhyYVhqV2xteDVqcW04bHBEVUR5TDA0cjFEbC0tWGRwM25XSlZtZHV1LU5yYUVRemVkUnVtdzZsZ3JHMTNvSldPV1hJNWJpVVlBNEdPXzlGUC1hUEE4c1A0ak41SU9iaktDSmRtRkxVWWY1eEM4OGxTNlhrZUVpb1JPMUNEc09wZHpHVzVZWmhkYkJGSzjSAb4BQVVfeXFMTnUxOHNxMy01cDdSWE9sMkEtdmt4a19oT19JTXFaMDNoWVJWamR5NDdYQW41WE9uRFNiOV85WFljWEtDbEQyVU5HVHQzcVhCVzZLVGF4R0dONGxidHJUM1h3UFNWbkVFWlFUZjFrYWVWamJFRmFJMG9aOExqcS1lQVZUdTdOVnZCTXdGbFdJNTY2QnVCcU8yRHV4UV9WZGhudWVmQXNZNzRfWWJEcXU1emNOT0hkMkhFRThyWXdzdw?oc=5",
+   "source": "Indian Pharma Post",
+   "published": "2026-10-04T03:49:14+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Abbott",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "72b6f6439ce4",
+   "title": "What Startups Can Learn From India's Biggest Consumer Brands",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk11LXFkX0hMOGhVTW0xQUxUMGNPQUhETlpVZ0Jzc2lmYmxqTl9ndHBQblBCNi1mZWZtd2tRZ2hOREQ0NlFNYWlmTDN1ZFQ3aG9GcXhPTVFrRTNabFJIYy1ndWljLWFNaXVycUhxWklGRTMxcXV2NG1OM2dDV0RKR2lzMXRsVkN3UEJpMWFEMnJCbS05VUE?oc=5",
+   "source": "MarkHub24",
+   "published": "2026-10-04T03:30:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "What Startups Can Learn From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "09e7746b397b",
+   "title": "Dhravya Shah: How a 19-year-old dropout built a $3 million startup and his relentless approach to testing ideas",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOY2xnWERhbk5MNzUxdlpPS1lxOThua1BsNjdqang5ZWdGcEdQSjlUQWpMVkVQRExFaUVpVzZIRVQ2LVgwX0NyTlJIZmE4SGQ3N1EyOXhkelVJWmRxUi1rcDVobDV4MDVqdmhwcGE4NWM1cDZ3Q0lxbEp0MzBrYWllMTFMSXk3emozYjQtaE5BVXBEUzA1RmkwU2ItOC1Nc01ob1FlQWxmWXltN3ozWlhoY0d5Skk4dURQTDdBTjFBd0VlS002d1hqNGRRaXk1NVpxa0VFdUxFRFFPMllTVWQxeVhLMGtHS3ZOQUtDWThQYS1WNWthTlJ6bTFIZHhGRGd5eEg5SDFn?oc=5",
+   "source": "Education Times",
+   "published": "2026-10-04T03:30:00+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Dhravya Shah: How",
+   "amount": "$3 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$3 million"
+   ],
+   "alerted": false
+  },
   {
    "id": "8ffb5501aa97",
    "title": "Murali Manohar \u2013 Director, Logituit | 2026",
@@ -5707,40 +5863,6 @@
    "alerted": true
   },
   {
-   "id": "4beb9f659b66",
-   "title": "Subrat Mohanty \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tYnlHREtuMWRnQm9qaVJ1SkZIY285M0pHSUZmc1Vob1JUS3A3bGJFMm9vdmJJakloNDBTLUU1SFRjYVcwS2NuN2hJZWZPd2JoUFE?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-29T18:40:48+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Subrat Mohanty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3382dbf1b6fb",
-   "title": "Shiva Kumar, PhD (Workforce Management). Author I GWFM\u00ae",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWd3cEM2UThXai1wemI0Mk1BWmpYbTJQazdENTJOS0hMZllNQ3VSejF3Um9EcDBKak9tNlgtVGhNaGRjcHRGT0dhNEs3YmExaEs3amVLY1V1dW5ZcV82SWpMdW5VTWg1cmVIT2hCRFVyN0pTV0U4UTd6Y0VxWXZ0MURn?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-29T18:40:48+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Shiva Kumar PhD",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c9689fb5c05e",
    "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms",
@@ -5757,43 +5879,6 @@
     "$30 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "b58db294f011",
-   "title": "WhatsApp Business users face new messaging charges from October 1: Will customers also pay?",
-   "url": "https://www.livemint.com/companies/news/whatsapp-business-users-face-new-messaging-charges-from-october-1-will-customers-also-pay-11790702433462.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-29T17:42:22+00:00",
-   "score": 23,
-   "category": "product",
-   "company": "WhatsApp Business",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "product",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b29f21b02698",
-   "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
-   "source": "ET Tech",
-   "published": "2026-09-29T17:38:04+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Tiger Global Dragoneer",
-   "amount": "$40 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$40 billion"
-   ],
-   "alerted": false
   },
   {
    "id": "bf8ecc956ff8",
@@ -5850,24 +5935,6 @@
    "alerted": true
   },
   {
-   "id": "fd6f7401d44d",
-   "title": "Why Nithin Kamath wants corporate tax raised to 27% from 25% instead of 2% CSR: \u2018Is the spend really necessary?\u2019",
-   "url": "https://www.livemint.com/companies/news/why-nithin-kamath-wants-corporate-tax-raised-to-27-per-cent-from-25-per-cent-instead-of-2-per-cent-csr-11790700230958.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-29T17:27:02+00:00",
-   "score": 50,
-   "category": "funding",
-   "company": "Why Nithin Kamath",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "funding in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f8ba5e9b3db5",
    "title": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-takes-on-meta-with-always-on-dots-agent-in-enterprise-ai-push/articleshow/134571434.cms",
@@ -5883,24 +5950,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "9d9a90a32f9b",
-   "title": "Anthropic says rogue AI agents pose uncertain legal risk for the company",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-for-the-company/articleshow/134570817.cms",
-   "source": "ET Tech",
-   "published": "2026-09-29T16:45:55+00:00",
-   "score": 22,
-   "category": "launch",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "markets story"
-   ],
-   "alerted": false
   },
   {
    "id": "7bc0e47182c2",
@@ -5919,41 +5968,6 @@
     "\u20b918,000 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "61def56effef",
-   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yb0FjYXozazJLSkVsbkhoYWY4YldWdWl4Q3NvUnRuYTdGdG1XR0pjUVF4c21CNGJ6V0N2LUFsMFN1MHloQ0thcUhwemJXcTJUN1o3UU42TUl5RkhOUjdrM245RUlyTHNFV055aUxYWlF5U00yUTRTMklmNDU5SU0?oc=5",
-   "source": "Inc42",
-   "published": "2026-09-29T16:03:00+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bb46d32705b5",
-   "title": "KKR to take majority stake in Cisternina to build liquid storage platform",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblh2YmIyTlRZXzNacWhIYjVCSjJNRk90Z0lpVE80UlRTOXBMeHJVaFpfRmpMVXBQUVhvcE1pNHFoM25MZUlvUndISFVBS0Y5V0ZxM3hVTHlhQVhzclh3b0tuWHFHYk9wTmxrd1k0bjdRVlZqdWJEczFoSG1GRm5yaWxwUmhvVmFTa2VQdXBkT1NhUmh2WlhOcTYzUEZ3QQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-09-29T15:52:22+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "KKR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f684d7a6002f",
@@ -7125,23 +7139,6 @@
    "score": 63,
    "category": "launch",
    "company": "Nine Gems",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "de5279c5badf",
-   "title": "Tamil Nadu CM Vijay to launch 1-gram gold ring scheme for newborns on Monday, Sept 28",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWxLQlM2TUg5YW1lTmliWG9XQXV5bS1mbU5DdTlFckNwY1llQXFTZUt6SDc5a1ZveXpkWjU3N3F3a1RWX2Rqd3hfMWtnck5VdWRXMDJPVVVBMUQyV3ptRmZFZHRBRWRLbmRiZmxpWjRMVWVDeElGeGNCV0dSU1dHNDUtNGZocnQ5UU56YTYwazdxd24tbWU2SF9seVB2M3J6aU9oaURNaHJQcFB4aWFSUFhoOHoyaW84VnpLaG4xdnBBSVNRcnliQ05NTDV4MGE0OXJXT0syTkRWZXlpS1FEcnZhblZKZHZU0gHoAUFVX3lxTE5RbEtCUzZNSDlhbWVOaWJYb1dBdXltLWZtTkN1OUVyQ3BjWWVBcVNlS3pINzlrVm95emRaNTc3cXdrVFZfZGp3eF8xa2dyTlV1ZFcwMk9VVUExRDJXem1GZkVkdEFFZEtuZGJmbGlaNExVZUN4SUZ4Y0JXR1JTV0c0NS00ZmhydDlRTnphNjBrN3F3bi1tZTZIX2x5UHYzcnppT2hpRE1oclBwUHhpYVJQWGg4ejJpbzhWektobjF2cEFJU1FyeWJDTk1MNXgwYTQ5cldPSzJORFZleWlLUURydmFuVkpkdlQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-27T03:16:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Tamil Nadu CM Vijay",
    "amount": "",
    "stage": "",
    "founders": [],

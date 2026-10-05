@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-10-05T17:30:35.165992+00:00",
+ "generated_at": "2026-10-05T23:19:57.922998+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 30,
-  "fresh": 17,
-  "alerted": 5
+  "fetched": 6,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "84ae94b4fd5b",
+   "title": "India's Bond Market Priced the Turn Before the RBI Made One",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUdKR2VQbmZfYTFRcFY5dXQtUDA2MWRoYW5yNkN0dUJHVDFHTjMzVTJ3VGhFM3BMaUk2dGQxMFRFTTZudXFUSTZKeXhFYTNOTUJ4ekNBVS1ObkZCUW05QnlQUWNPSFppb0VaS25hSTNNcmczVDhCdXAyOVFkUXNlRXpxd01qTEJfems4?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-05T19:25:20+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bond Market Priced",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b7a04613936e",
    "title": "Omaxe Opens Doors To Start-Ups: 25 New-Age Businesses Explore Opportunities At The Omaxe State, Dwarka.",
@@ -7101,41 +7118,6 @@
    "reasons": [
     "launch in headline",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "36c6edfa55cc",
-   "title": "Modulate raises $25M for native AI-based frontier audio",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3QkUxSzU4SHVmY1JjbWhEVE15WVVQM1RYQ3lmM24wc25xaFJCdnRvRW1odFZnX3V2djFGd3BBTkFZU3Q0ckdxYXZuejg3QWFLUC16c0VaYS15MjFNRGZqY0pGRERfTmRkcjZhT2tUY1Z0M1pEb3lHN2QwUkUtX3l0cVFEdzVfUkU5eVJqdXhqenhtaHB4Z242eXBKVEs1aTgxelQxdnJFeEpVOEZmOWZTbTFtWDZzX2wwcG00dw?oc=5",
-   "source": "SaasRise",
-   "published": "2026-09-28T22:31:14+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Modulate",
-   "amount": "$25 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$25 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "653a55427206",
-   "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-second-claude-5-5-model-as-it-builds-toward-ipo/articleshow/134548694.cms",
-   "source": "ET Tech",
-   "published": "2026-09-28T18:02:40+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

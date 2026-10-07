@@ -1,12 +1,191 @@
 {
- "generated_at": "2026-10-07T13:48:57.977431+00:00",
+ "generated_at": "2026-10-07T19:34:16.936988+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 69,
-  "fresh": 54,
-  "alerted": 29
+  "fetched": 21,
+  "fresh": 17,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "8673599c059e",
+   "title": "Microsoft brings more AI to PCs as it challenges Apple",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-brings-more-ai-to-pcs-as-it-challenges-apple/articleshow/134773844.cms",
+   "source": "ET Tech",
+   "published": "2026-10-07T19:05:41+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Microsoft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5cbf01681ca6",
+   "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms",
+   "source": "ET Tech",
+   "published": "2026-10-07T19:03:07+00:00",
+   "score": 70,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4b43fcfeb6b3",
+   "title": "AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai",
+   "url": "https://www.livemint.com/companies/news/ai-cloud-firm-coreweave-to-launch-first-india-data-centres-with-adaniconnex-in-navi-mumbai-11791395574606.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-07T18:11:04+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f25213b78ce4",
+   "title": "Raj startups find new investors after on-spot funding at TiE SmashUp",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHFFRmZybFZwRWlhS25pNGtUb0lVT0tZQW40MWw4bFRfOE1lN3N3azlXR2w5Z1pxS24ydGc2ZnBFQmw5MEpIeDRCN1pFc2lkWktUdHR6bVBMSms5OHVPeV84UTVlckUwZzJsTmR1TElUZnRtTkFGclUxUllRWjI4UWRZNmxoY05IT0tXQWllLUdUYVZfRXlhOWJyYVBsb3pJN01QMThCdEQxYXNKZl9LOUxLTHl3ZUMzTXAwQWJDYlpMMElBdWhKYUNLNHhTZ3RyRlJELVVMdC1XUdIB3wFBVV95cUxNSVJiWm1mYjFrSE5TRlVpZ2dobHZFTVE3OEFHaFM4TU9HendLZFlZS2tLTUkwUFI4YXBRc1hsU3RmZ2h0b2tLdDNxcGttOWFRYm9Udmp3TXpUVm84WTZZMzVDQk5OVU5aZGtkNDBCak1MSWFScnpVQkoxbGVuREUwcUNsVW5GSEg3MHlQREhZdkxXLUdvV2xTOU8xSk8yNVQ3R09ScXFjR1R4bnRjRGQ4OGFXeUxIYUtHa0NUeXpZOGREbllJejZnMmF4dkpacE03ZG9jMFA1REFSajhfdW9F?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-07T17:08:00+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Raj",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d10799d784a0",
+   "title": "Starlink India launch row: Elon Musk says delay is a \u2018crime against the people\u2026\u2019 in X post",
+   "url": "https://www.livemint.com/companies/news/starlink-india-launch-stuck-elon-musk-lashes-out-says-delay-is-a-crime-against-the-people-in-x-post-11791390758707.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-07T17:00:35+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Starlink India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "69045c378c00",
+   "title": "Revolut will cover costs for customers hit by data hack, Western Europe CEO says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-will-cover-costs-for-customers-hit-by-data-hack-western-europe-ceo-says/articleshow/134770459.cms",
+   "source": "ET Tech",
+   "published": "2026-10-07T16:39:14+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Revolut",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Western Europe",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "724a2ab0d043",
+   "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+   "url": "https://economictimes.indiatimes.com/tech/technology/us-government-google-join-zuckerberg-backed-biohub-in-1-8-billion-push-for-ai-biology-data/articleshow/134770321.cms",
+   "source": "ET Tech",
+   "published": "2026-10-07T16:21:19+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "US",
+   "amount": "$1.8 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.8 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "734b77730efd",
+   "title": "OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-teens-use-chatgpt-for-under-15-minutes-a-day-as-worries-over-risks-grow/articleshow/134770104.cms",
+   "source": "ET Tech",
+   "published": "2026-10-07T16:09:28+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c1e6a8448c04",
+   "title": "Myntra's Big Fashion Festival returns Oct 8 at Midnight with 8 mn+ styles, celebrity collabs and 100+ new",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMEdvdHpoaUpHSUJCeThFVk9FaVJkYmVVaU41QXpIUTY1TEJ4UDBmaDNfV3dhZGZSZkFOcmF4blhBeUhGVmRKa1FJTmg2RzJ0dEFiYkdEMkwxNUNGd3FUbGotZm1HelE0OHdDYTYyS3BLT3o4OEEtSnliWTZacXJPZWQ3b3JmV0RYQWJHQ2FXVEtYVFdmSE1Cc2E5d2hhbzVZRHdJR3lHNFEweXFQZE9vdFRzY3JEWnhFSGkyTnYtTC1lNWhNLXdyMmNfZ2VWdEhxcE1EZEJCbHA0MHptX0xLSnN2STdyLTVjeGEyRnR1bWRQRUF1bUdERC1saXVnazZfaThmWThuZ28zY3VFWUlycE90M1RpbGNjSFhwNjJn0gGeAkFVX3lxTE0wR290emhpSkdJQkJ5OEVWT0VpUmRiZVVpTjVBekhRNjVMQnhQMGZoM19Xd2FkZlJmQU5yYXhuWEF5SEZWZEprUUlOaDZHMnR0QWJiR0QyTDE1Q0Z3cVRsai1mbUd6UTQ4d0NhNjJLcEtPejg4QS1KeWJZNlpxck9lZDdvcmZXRFhBYkdDYVdUS1hUV2ZITUJzYTl3aGFvNVlEd0lHeUc0UTB5cVBkT290VHNjckRaeEVIaTJOdi1MLWU1aE0td3IyY19nZVZ0SHFwTURkQkJscDQwem1fTEtKc3ZJN3ItNWN4YTJGdHVtZFBFQXVtR0RELWxpdWdrNl9pOGZZOG5nbzNjdUVZSXJwT3QzVGlsY2NIWHA2Mmc?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-07T16:06:00+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Myntra's Big Fashion Festival",
+   "amount": "8 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "8 mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8a532d7d89ed",
+   "title": "AI-native debt platform Recur Club announces Rs 500 crore fund for D2C brands ahead of festive season",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZnpQU1NsdXJFWEpBZjdiLVctSXNwcGIzTjhMQW5vM0xrdHJlX2plQU9xR01sQzh4cDVvU0FYNEo0WkpvVmY1OHhvcm1oMk43S0VQd19zUDBQbGZEc0xLRFlsdUpTYVI5Z1RCM2dkSFpoS3hJNHdWS0V1QmlmeEpaQUF3eU1ZX2NxZ1N3dndnQkczNHBuajkzWjNWdzNNTmJPNVBHVzJOVDA4SGFiWWJiQ3RsNnl1eVRHVDc5cXl5UVUxc0FlWGhIdllNSUltbkRWaU9EWUp6SEZIN2ExdkHSAd4BQVVfeXFMT2Z6UFNTbHVyRVhKQWY3Yi1XLUlzcHBiM044TEFubzNMa3RyZV9qZUFPcUdNbEM4eHA1b1NBWDRKNFpKb1ZmNTh4b3JtaDJON0tFUHdfc1AwUGxmRHNMS0RZbHVKU2FSOWdUQjNnZEhaaEt4STR3VktFdUJpZnhKWkFBd3lNWV9jcWdTd3Z3Z0JHMzRwbmo5M1ozVnczTU5iTzVQR1cyTlQwOEhhYlliYkN0bDZ5dXlUR1Q3OXF5eVFVMXNBZVhoSHZZTUlJbW5EVmlPRFlKekhGSDdhMXZB?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-10-07T15:38:58+00:00",
+   "score": 71,
+   "category": "product",
+   "company": "AI-native",
+   "amount": "Rs500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "Rs500 crore"
+   ],
+   "alerted": true
+  },
   {
    "id": "ec27d66c655b",
    "title": "Oral-B Launches Vitality Pro Mint Green on Amazon",
@@ -6828,260 +7007,6 @@
    "reasons": [
     "funding in headline",
     "$180 m"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8f2581291d59",
-   "title": "From \u20b910 crore seed funding to 17x sales growth: How a 16-year-old founder sold 1 unit every 2 minutes | Startup story",
-   "url": "https://www.livemint.com/companies/start-ups/from-10-crore-seed-funding-to-17x-sales-growth-how-16-year-old-founder-sold-1-unit-every-2-minutes-startup-story-11790786080726.html",
-   "source": "Livemint Companies",
-   "published": "2026-09-30T17:47:17+00:00",
-   "score": 77,
-   "category": "launch",
-   "company": "From",
-   "amount": "\u20b910 crore",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "\u20b910 crore",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cd39cc3d2df1",
-   "title": "How 25 students of Gurgaon-based college raised Rs 60 crore funding in deep tech and space ventures in a d",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNbUZQdkR2SzNYNkpfRlJQdXgyV05YaXF4ME9ReEZvTkstUTlPYm9YcjZreFBvQWo5djZscHBLOGV3VFFjN3lYa3B6YVZxc040S3l1NktVcEk2bHBJYkVUcHR5R21sS1p6M0JNdnhxRW0xRUlSbkFrQ3gwOEE2MUhzeEVwR0FUVXo5Zm5PSnFaYVNPeVhpb3VMQjNVY2MzeHhwdXZGUXUxS0pEQ0xxbERoaG1fdC1YVHVTVW1Sei0tc1VQNU1CbzlxMERJZE1GVVBwdENVWDZtNXNFSkNGemVUbHdtOUYxMDB5ZE1Ldnp4ODhjVlM0Z29ZOVYyaEZoX3FTa0tvdUZjN1BJUHdqNngzMUxWby1qeGJyeTAzRmprMNIBnwJBVV95cUxNbUZQdkR2SzNYNkpfRlJQdXgyV05YaXF4ME9ReEZvTkstUTlPYm9YcjZreFBvQWo5djZscHBLOGV3VFFjN3lYa3B6YVZxc040S3l1NktVcEk2bHBJYkVUcHR5R21sS1p6M0JNdnhxRW0xRUlSbkFrQ3gwOEE2MUhzeEVwR0FUVXo5Zm5PSnFaYVNPeVhpb3VMQjNVY2MzeHhwdXZGUXUxS0pEQ0xxbERoaG1fdC1YVHVTVW1Sei0tc1VQNU1CbzlxMERJZE1GVVBwdENVWDZtNXNFSkNGemVUbHdtOUYxMDB5ZE1Ldnp4ODhjVlM0Z29ZOVYyaEZoX3FTa0tvdUZjN1BJUHdqNngzMUxWby1qeGJyeTAzRmprMA?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-30T17:11:00+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "How",
-   "amount": "Rs60 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs60 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6d932aec7c17",
-   "title": "Nagaland startups secure INR 1 crore seed funding through Yo",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkkyT01EWlgtR3dJREJtZDRrUHg1NHJYdzZMOUIwRHJfNDM1UmZfT0I4cktscGJMcUxVc1VTVWZIRFphVjdwYlRmTjNsOGFHQVhNX0ZJajAzYzM0N3pSWHNtS0s1ZHNhVmxnb1lwcUtKMlgyb1ZHWW1vM2JIS0hNbWlaM3J0TjRXUm1NLVRhc2psWXhBVDBNLTh4UWxVN3Q3ejkyY1lmdnJJUHhFY1VlQmg4SUM4UzhxN0dVTjBpUQ?oc=5",
-   "source": "Eastern Mirror Nagaland",
-   "published": "2026-09-30T17:06:30+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Nagaland",
-   "amount": "INR1 crore",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "INR1 crore",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a18679200bce",
-   "title": "Nine startups secure Rs 1 crore seed funding through YouthNet",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkk5NndkOGozMGk2bkdfTTVHVFBhX1JJaXN4eEkzZFgybGFPYlBtNlpmbkNBSjU2VHJpQi1ab051QlMxMmxoYzNPbk50Um1OcDVIWGl5dl9DQW42UTVTVUswd2Q3enhmUngzSmpkMWtGdGw0dENua290c2lpdC1SaGstbldqb1R2T0RPTjljVmU?oc=5",
-   "source": "MorungExpress",
-   "published": "2026-09-30T16:50:53+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Nine",
-   "amount": "Rs1 crore",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs1 crore",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9c0f4008c59f",
-   "title": "Prodoc AI secures seed funding to develop Intelligence Layer for Indian hospitals",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnVjY3FVcHlGMWlzUzR1Z0dQV0swa2hQQ0t1MG5UWW14V2lMTjFJUGJPTlhyMUg2M0RJWDRSSlF4MnJrQ0lXZXp4bGFwTWZTYTlrc01ta1ZBR3hLS2FBcFV2aVNSQ2ZnN3dqMUFtaTZYYUItZkVOZEppcDN3b3hxTExKQmVKMFJkYTJNTE9qTWFfblhOUldXWDV2cFZTTC1Ma3lsbWlCeVlxblNvTXRiV1YwQ2ZuUkVSX2gtZHp0MmVkVHZ4bklxVVNuSWJ5QQ?oc=5",
-   "source": "biospectrumindia.com",
-   "published": "2026-09-30T16:47:57+00:00",
-   "score": 72,
-   "category": "funding",
-   "company": "Prodoc AI",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5a8c4f94292c",
-   "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134599046.cms",
-   "source": "ET Tech",
-   "published": "2026-09-30T16:35:05+00:00",
-   "score": 72,
-   "category": "funding",
-   "company": "ElevenLabs",
-   "amount": "$22 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$22 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c9c0c5218257",
-   "title": "Gujarat startup\u2019s thermal infrared camera to launch aboard SpaceX\u2019s 'Falcon 9' rocket on Oct 1",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2Z3R09zR2Jaa19iU3hRZl9mTFFxZkRSQWNkN0w1cmo2dXVjNHR5VjZOdnJNeXkxRXR4ZEhtUW45RnBMcGhXSEJ4WXZkeFRScjY4NTRwZDRxa1BpTHg3NEpmV0pYWXgzU0tzSk9zRktGZHNSdXNPNVlqSF9XeGNLMGNOWmVIZWxPQzJ1aDl0SmNRdlpWSnQxMkZXdzBrUThneWtyVGZteVRCeFpYMFYxeXNwSll1WUV5T2I4bmw3R1ptdw?oc=5",
-   "source": "FM Bharat",
-   "published": "2026-09-30T15:30:25+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Gujarat",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d197fbbc9b7c",
-   "title": "Simple Energy Raises \u20b91,750 Crore in Series C Round to Fund R&D, New Manufacturing Plant",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEd4TWdqdXFtRjN2YlQ4WC1LSnVtcExiT0pFdkkwNERma0dsMXFzSnBVd2NnZzVpVmN4RWVaZlFNX3RlRE9OZWVCcVFjM2NUekQ1Q0Y0aVVzWUUwUXVHc1RVZ2lFUnNqY3VQWE5Udi10R1VhNjUyYUJKWWlJT2x2LS03YjB6bjhWMEkzLUVkajROb0pJQ0YwT0xlaHV5YV9jY2tZdzRSNmRyemxMeVVRd2pSODZEbmhhMHc?oc=5",
-   "source": "ACKO Drive",
-   "published": "2026-09-30T15:14:12+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Simple Energy",
-   "amount": "\u20b91,750 Crore",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b91,750 Crore",
-    "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "18bf382b2ec7",
-   "title": "Simple Energy Raises Rs 1,750 Crore to Scale Electric Two-Wheelers",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0FoaDJQdWpkZ19IV09HTzlmbmhOWlE3VV85RGllQnBSakdnY1QyZGZQY0lsZU9WRzFfalNUY1JzNVU4V1U2U2RkZXFSSnlaM3paRThKOU96ZTE2UVdaN0Z3Mnp0aXY5c0RPc1pVMXdFd242TlJqN19JczhkeTNGdUtqRGF4MlhFa2RLZ1ptRHg4U3ptS3RpbXVFSi1YeGdVUW5FZHBzN2xyZFFZbkU1UFJfVTNwaU4yaGNEYmtDNEd3dk11U1FQUUkxNEtoQQ?oc=5",
-   "source": "siliconindia.com",
-   "published": "2026-09-30T15:07:34+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Simple Energy",
-   "amount": "Rs1,750 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs1,750 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7e6b9f04b29d",
-   "title": "Vytalyou Raises Rs 9 Crore to Scale Preventive Healthcare Clinics",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEcxbVp1eG9iVVRmbk1kNkxRajZXYzVRWGpqSm5sbUozNHJ5VTJWYzdWLWVtZDVudXZicmhpeXd2a01mdkhCem5FeloyWG9SZnNxV3BwNTZZRmVBZk5VVno4OGhBbmUtbk9nZ093ZTFvcUZ1SDhZUURYT0t2ald5Tk1QN0JNcGF4VXMxU1BsTnlCQ0Mtb2NiU3ZiQjZwQnlJM1NHdHFUR0psRUhkRXZ5aVFha1BYM1Eyb0lHZVJlMC1fbWlHN0kzSzhma00wcWc?oc=5",
-   "source": "siliconindia.com",
-   "published": "2026-09-30T15:07:34+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Vytalyou",
-   "amount": "Rs9 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs9 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "51e4f12e1703",
-   "title": "Gravity Raises $15 Million to Scale India\u2019s Interior Materials Platform",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWEVrRGJ4VE9UalRMUUFMYlU1M0t2aWVNOGJ5aklBRHFSMnd2Yk5tQXgya3duaDR3blFPcnREemF6cVdTZzRyODRVYVFucy05WnB4aUd6T1daTERQNloxSURXeGlBRE93S1g0YnV6WmdpcG9aUERNTzgyVmxwUFhpeUZCZllteWpvbnRTS3RnTExmakRVSWQybjFGZXpXZVM5dkdIb1JtU0otaGdCUVNyS3habkhlOHFmS1l2S2MzYUt2eFEyUmo3cXFxVVRFc3dUcjVuUjJBMG9ZbUx6UzQ0QQ?oc=5",
-   "source": "siliconindia.com",
-   "published": "2026-09-30T15:07:33+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Gravity",
-   "amount": "$15 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$15 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "376e09cc55a1",
-   "title": "Blitz Raises Rs 28.7 Crore in Pre-Series B Round Led by IvyCap",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzN4UGV0aDJ3Y1F5X3lsSEU1Mkc3VWRBY2IxQWtKMDVNT25oNlpkUmhtX2ctdmhsdlBnRmtfbzFFNzBxNUt5ZUtQNFVhZWxvNmI5Q1oxWXRKc1pScUFxWHhINUQtU0Qzb0QxMjNuS2dFSmxfNjhKRldBVDcwTVpORHhzeHJVaFA1cFJBcWdfb3cyU2dQcE1CY0hMR3Z4dmdSOGo1dGtSYmxSN2xYVndFRVR5SnBsbmRIT083S1lCcXdEb2RTcm5LUA?oc=5",
-   "source": "siliconindia.com",
-   "published": "2026-09-30T15:07:33+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Blitz",
-   "amount": "Rs28.7 Crore",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs28.7 Crore",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b884f88092e4",
-   "title": "Google launches Fitbit Air in India for 13,999 rupees \u2014 TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlZ3cng5WFpGMmFmSlNTUVF5eVNVbVlleUVNajZhTTVVay1EM2FFcVprNTlhcDRIQmZuRFUwWG16ZGRTTFVNN25qT0VTNVpQWjM4ellhcEZBUU1LdG9zdEdGZmZIV0poWEZ5N1QzWklFQTU1S05QTnlrbjFNcmEyT1FmOEVCb0ZPbkU5bkFVemVVSEdXcElCWkRsNA?oc=5",
-   "source": "UA.NEWS",
-   "published": "2026-09-30T14:48:25+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c7a5fdd99d67",
-   "title": "SatLEO to launch India\u2019s first thermal payload TAPAS-1 aboard SpaceX\u2019s Falcon 9",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeVNsN2JLTGp0aVJ6MlRXZC1jWEw4QXlTMXNOMlBmNnhXb1l1dll3eGZwVXZzZEZRbFRTdThGTWRXZHdEUTNnT2ZWaW9hWmdoLTFiZmZfRmxOYnFFQWU0eC05aUx2T243d1p3MXJFYVhWdmJQTk9idHp0MTEwSDllN1BmVlJvSF9YRk9VVDJ2QWtETU9mNHJ2bFpPNnRGM19FeWRidkZ2bDR1bVpuOTZvN3dhREpaZUxRZmNSUU9WaWhfRGcxY0JoanpDUGVBQU9vZ2ZKN09VTjZBQktHd2fSAeMBQVVfeXFMTk5Vc0I5blJuYS1WcTBiN1hveE9pdWxueF9IT2pfOVBpa3d0Zm43VUdGSDdYR19DdzJEX2otZkEyc1lZVk9mY1VZM0lNZXJmVlpNQ2hyYnQ5YTJHZnp2OUNseEc0QVN6djdWNXJ0Zjg0YnRrYTlSRzEzQnZKOF9MMlFKRWRlT01sMk9QTzhseWxnamNvemxaZ1FELTZXZEkwMkFGdWVfa1RycnJKUmdMWUltd2p5dEJXcDBsenl4MGVtcHlUcWo1X3l5Q0xfbHJybThDNkxHZVF4NmVDSk5FUFhQZUk?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-09-30T14:39:10+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "SatLEO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

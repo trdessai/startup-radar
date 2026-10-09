@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-10-08T21:59:18.490515+00:00",
+ "generated_at": "2026-10-09T01:44:57.097861+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 7,
-  "alerted": 2
+  "fetched": 5,
+  "fresh": 5,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "5257aa7b2614",
+   "title": "US tries to dig up Indians' green card journey, but few are on that path",
+   "url": "https://www.livemint.com/companies/us-suspends-perm-labour-certifications-for-indian-it-but-is-it-affected-11791477284612.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-09T00:30:52+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec560929eb0d",
+   "title": "Startups will crown new champions today at 12th ET Startup Awards in Bengaluru",
+   "url": "https://economictimes.indiatimes.com/tech/startups/startups-will-crown-new-champions-today-at-12th-et-startup-awards-in-bengaluru/articleshow/134798886.cms",
+   "source": "ET Tech",
+   "published": "2026-10-09T00:30:00+00:00",
+   "score": 30,
+   "category": "expansion",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "2c0a00b9b84f",
    "title": "VinFast Signs Deals To Set Up 50 E-Motorcycle Showrooms Across India",
@@ -6379,23 +6415,6 @@
    "alerted": false
   },
   {
-   "id": "01646c8c768b",
-   "title": "Heena Arora Agarwal \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56U254YkFmWlhOMXJ2OVBzWTVyNUNUZHV5MU8xeDVPY1NKdTR4dTUyei1xT1owSjhlSlV2VlEzM2trVzNRVWVNTWVGV2NXVlNtaF93U2RlYw?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-03T23:15:48+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Heena Arora Agarwal",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "11422246fe35",
    "title": "Odisha CM announces \u20b911 lakh reward for Indian men\u2019s hockey team after Asian Games gold",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnR6d0p1Xzl0WVVXYkVSYU5qLWJFOHQwcVpWd1lpUU1hVGdQZVg1YllpMEFhSGhwUEcxN25yRVllbmZsS1c1VHhXYlM2OFFUWGg2cWxZUXc4R1R4MGFralVGd2JnS1lJYU9xcGN5ODZBYnZsYTNKM1RqcHNyaXlzQ0hZZmVLVnN3czREM3cwWWtsVWk1cHpzN2dSS19DNTFVZm90NWdjSjk3Y19fRHJWV1F0RDJuZEJkVzUtQU1BNE1LUUpTS3c?oc=5",
@@ -7044,23 +7063,6 @@
    "score": 68,
    "category": "launch",
    "company": "Suno",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ae6800be5b30",
-   "title": "Bengaluru Bike Ambulance Service Launches in Traffic Hotspots",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTFXeUtrOFo2R1NWLUI1dkU5UlF0YTJTaS1tcnhreldlZkctMXc2NTRVc3NpcDJTQTh5X2piTGxHZ3JLNVF2cjByV1FPbS1QRjNDMUFtcU43VVhEVExWMHRpSlpNN2dna3h5OWt1TkxZVnVVZEI1dVRmQWJJVlBMUjktUkN3eF9VelFZMkxZOEVNdw?oc=5",
-   "source": "urbanacres.in",
-   "published": "2026-10-01T23:25:14+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Bengaluru Bike Ambulance Service",
    "amount": "",
    "stage": "",
    "founders": [],

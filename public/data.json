@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-10-10T15:56:43.335047+00:00",
+ "generated_at": "2026-10-10T19:38:59.503486+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 17,
-  "alerted": 11
+  "fetched": 6,
+  "fresh": 5,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "29684d097a7f",
+   "title": "TechSparks 2026: Zakir Khan, Varun Mayya, Keshav Reddy, and more join the speakers",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-announces-final-speaker-lineup-zakir-khan-varun-mayya-keshav-reddy-and-more",
+   "source": "YourStory",
+   "published": "2026-10-10T19:09:46+00:00",
+   "score": 54,
+   "category": "product",
+   "company": "TechSparks",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "70b00317a5aa",
+   "title": "India's Infosys does not expect material impact from US PERM suspension",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension/articleshow/134858725.cms",
+   "source": "ET Tech",
+   "published": "2026-10-10T17:57:49+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Infosys",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b9bc9948d64d",
+   "title": "The Elephant and the Dragon: Decoding India\u2019s Hotan Route Request | Startup Story",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkxIa1pxUzNuLUNXSXY5MkFKRGhLdHdSdkVFVUp6R0pBc3VJcllpX2NXbGRoUElhV0RQMmhzaVhQQTQ5bG1VVTN2Zk92OF9xVmtZSmcwblk4ckdSekg2MUtfLXYtTlBPd3E0S3daVGJ6Zm03NmNvVnlfdVJhNWdlU1pJdzVicWNSZFNWLUpaZGdLQ0FRTTZ5aUxmWW85c1o1SUHSAaIBQVVfeXFMT0ZMSGtacVMzbi1DV0l2OTJBSkRoS3R3UnZFRVVKekdKQXN1SXJZaV9jV2xkaFBJYVdEUDJoc2lYUEE0OWxtVVUzdmZPdjhfcVZrWUpnMG5ZOHJHUnpINjFLXy12LU5QT3dxNEt3WlRiemZtNzZjb1Z5X3VSYTVnZVNaSXc1YnFjUmRTVi1KWmRnS0NBUU02eWlMZllvOXNaNUlB?oc=5",
+   "source": "Startup Story",
+   "published": "2026-10-10T15:48:18+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "The Elephant",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "53b2f8ad9151",
    "title": "Indofil Launches New Fungicide Curatis in Brazil",
@@ -7022,82 +7073,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "11422246fe35",
-   "title": "Odisha CM announces \u20b911 lakh reward for Indian men\u2019s hockey team after Asian Games gold",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnR6d0p1Xzl0WVVXYkVSYU5qLWJFOHQwcVpWd1lpUU1hVGdQZVg1YllpMEFhSGhwUEcxN25yRVllbmZsS1c1VHhXYlM2OFFUWGg2cWxZUXc4R1R4MGFralVGd2JnS1lJYU9xcGN5ODZBYnZsYTNKM1RqcHNyaXlzQ0hZZmVLVnN3czREM3cwWWtsVWk1cHpzN2dSS19DNTFVZm90NWdjSjk3Y19fRHJWV1F0RDJuZEJkVzUtQU1BNE1LUUpTS3c?oc=5",
-   "source": "thenewsmill.com",
-   "published": "2026-10-03T19:02:13+00:00",
-   "score": 59,
-   "category": "product",
-   "company": "Odisha CM",
-   "amount": "\u20b911 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline",
-    "\u20b911 lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "102827663c01",
-   "title": "\u2018Next year could be bad\u2019: Zerodha co-founder Nikhil Kamath endorses grave warning for startup funding",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObW9YajBEWVlTUHd5SzN2dGViTEVqWFVJcXpGaTE3clp1QzRpUEtXLVlGNTlMUk1CU0xVdzJzUWdTQk95REMtczFoVE5kdDZUeVJWMk5wdDJjX2lkU1BkLVBWSVZmaVlYYTlMQ0JPRWw1a0Z4ZXFzcHNSYkFHTUVCaVdMMmNqUDJxVWdEM0xiTS1feXFvV0lReW1MZk92SDhNb2M5R3dLcG9VZG9HZGNFa2dOdTNwNTVCNmdwMGtlZEd5V09ZSlB3QVNRNTFHSE9FalIyR3F0RGN4UkZfaUVZX0pfWGdsNTR5bXU40gHwAUFVX3lxTE1Udko4UGx3U2xyWTl6S3FEU1pvT0hoamstNEJUVDE0ZnpRdW1nWHN2LURQRDNWMGw0bkVuaVlKd1JyR2ZEWFpMdWlrTzhJRzNlczB2VlFfallmR3hwdFlJSm5OdEtNU3Z2RXJ0Yk9jQ1Qzd2EtMGJfajVpSGw0dDE0ajhxTkNwU0NvWlo5QzJJR0pWWVNrZ0VxZkZEUEZNM3ZGenZEV0ZhX3N0WE1RLXBwWlBrMXNKNEFDVjR5OUluLWxjbHQ3Z2tjQ240S2RIQ3NDMEs0M3F6d2sxaUF2YnhvbjdwZFZWNlNHNWxIakFnaA?oc=5",
-   "source": "Livemint",
-   "published": "2026-10-03T17:00:30+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Next",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Nikhil Kamath",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "41df711405aa",
-   "title": "Home interior materials startup Gravity raises $15 million led by 3one4 Capital, Info Edge Ventures",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVAzMWtTQWxWdHRJWEx5Q2o2bV9nZENaajZKX1BCWGdnRThUR055aWxwT0h4N1lPdGFuTFRELXY1NlFMV0pxdkR0V1c1ak9ROFlKeU5wak1TWFhiOElLOHEtaXE5eTFldVVWN0R0aDBDekN3cWQxMEtCUEs2Tm5TM0YyTXVBb0RlaWJNWUZyZnh4dkI5ZjB4SUZENjBQdVZ3NlBKSWxiNFNBeHhXWUQ3WUtRbDBfbnNOUW5PWmt4LTQ0Z1JDd3FkejBhai16eE1xZHVnSkxsWjNDcmY30gHcAUFVX3lxTE1lUDMxa1NBbFZ0dElYTHlDajZtX2dkQ1pqNkpfUEJYZ2dFOFRHTnlpbHBPSHg3WU90YW5MVEQtdjU2UUxXSnF2RHRXVzVqT1E4WUp5TnBqTVNYWGI4SUs4cS1pcTl5MWV1VVY3RHRoMEN6Q3dxZDEwS0JQSzZOblMzRjJNdUFvRGVpYk1ZRnJmeHh2QjlmMHhJRkQ2MFB1Vnc2UEpJbGI0U0F4eFdZRDdZS1FsMF9uc05Rbk9aa3gtNDRnUkN3cWR6MGFqLXp4TXFkdWdKTGxaM0NyZjc?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-10-03T16:56:39+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "Home",
-   "amount": "$15 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$15 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "29561119a1b3",
-   "title": "Silicon Valley startup CScale raises $145 million to bring light-based links to AI chips",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNC1Bb2RHTDBwbGVoLU1xc1BUbTlEOWpCVERoSjR0SjM5SGh1WV9wSHhVdzhhWEZwWmhHQmxiUFpueFZzTm9UZ0FlVzlJM0Z1eUhTaEdNeU50Zml1dk1DZ3A3UlFEVXpuSUV2TEdlZkdmVjQwX0c0QlpnSGk2cUEzS2VyY2xTZEQ2WUZwMTlaNFlGdjdvMW1kWHFQWEJoTXlJalpuUzMzbE55MjJ3RkpxV2kxdmdLY1Y5?oc=5",
-   "source": "varindia",
-   "published": "2026-10-03T16:21:08+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Silicon Valley",
-   "amount": "$145 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$145 million"
    ],
    "alerted": true
   }

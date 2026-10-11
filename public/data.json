@@ -1,12 +1,133 @@
 {
- "generated_at": "2026-10-11T01:22:32.978267+00:00",
+ "generated_at": "2026-10-11T07:23:09.015435+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 2,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 13,
+  "fresh": 9,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "8fb575e78405",
+   "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
+   "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
+   "source": "YourStory",
+   "published": "2026-10-11T06:16:34+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "TechSparks",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4e95e1dde69e",
+   "title": "Exclusive | Startup Raises $10.15 Million For Anode-Free, China-Free Sodium Battery",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVRqU0txMHM1a1UzNEhwOFRvYmtZRHpVbmpCRGdnVlFUTTJhMjdrRWpPZVNyLWQ3aHFfLWlzZDVoUG5xRzh3UEh6MmYzMXYwcjJJVU1Ta2U5c3ZraUVQYXhzaG5pQTdRb2ptdjhPQVctVktmS0ppYWVxYl9odktJT216MnJfN2FOazFoYmtXeENxZ05qekFXcFpGNFNtU2lBVzcxUDcwQ0NmTUd0NTNDOXpwSm1oM0s3MHc?oc=5",
+   "source": "WSJ",
+   "published": "2026-10-11T05:41:06+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Exclusive",
+   "amount": "$10.15 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10.15 Million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e29f2c2e3c41",
+   "title": "Swiggy, Zomato Have A New Fight On Their Hands",
+   "url": "https://inc42.com/features/swiggy-zomato-have-a-new-fight-on-their-hands/",
+   "source": "Inc42",
+   "published": "2026-10-11T05:30:38+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Swiggy Zomato Have A New",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b7bcd190b018",
+   "title": "Rejected by Harvard and Stanford, 19-year-old raises USD 10 million for AI startup",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTmxoLWtLdU1FbHh6d25JbXdONEtHWjRoeng2bE1ndTlsS3ZDd3JzbTIzdHp1UlFReXFLMG9oLXBJS2cyS0xxR3h5b0RxdXpncXdJaGN3amxVOU9Eak5fUTR1NS1iaHZwV3RQbjgyaEJyQ3VrVnd4SFAxWFk3N2lJa0FkT3NyNHRqekM4c3JfUzhZdHd6cGY4TXY5MC04eDlCYTdMQzZHRUxPTmUyRjh0TEN0V1pqTHpvZG52MDcxSGlkMU1CdGt2amxVNm1ENXRWcmFGVDQ4M2h4Ui13RVJSdEJ6YmIyaG1BWl9vaWYydmM5S0NrOTVn0gH8AUFVX3lxTE1CWERzTDZkQTFiYy13aDV5ajhueXBBSllXd1hMbjNyUGhJdmYyejl4WjNKcXZZeHJmR0tWaFhINTd1dm9NTFNxTXg3OENEMVpiT1VjWWVCNGNjU1o0cnFZWGU1X2drZ2duTGxWWXRHWlBtc0dpNXJ0dDZ2UXdHNzF0eURnWEFzOWF0X0tncXAzRUpMaElhQjJUd0RYazgyamFxR3JJSEp2UnYtVXJDZEhjdjFhdERUXzROTm1xSTcxTGZ0UTYzbGU1VUctaTQzakZmV01LMUE1NF9iWVRhWk5DWDcybzN4MS1XVFBmN0pMdlhwal9KRW9YSGZqZQ?oc=5",
+   "source": "India Today",
+   "published": "2026-10-11T04:53:23+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Rejected",
+   "amount": "USD10 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "USD10 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "759ba1f78190",
+   "title": "\u2018Competition would greatly benefit average Indian\u2019: Elon Musk takes a fresh swipe at Ambani over Starlink\u2019s entry",
+   "url": "https://www.livemint.com/companies/people/competition-would-greatly-benefit-average-indian-elon-musk-takes-a-fresh-swipe-at-ambani-over-starlink-s-entry-11791689732466.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-11T04:33:02+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Competition",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1a88656875fa",
+   "title": "Indian Softball Cricket League unveils season 2 jerseys ahead of 127-match tournament",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTdQaDF6NUcwUTB0SkhOU1NfVDBsX2RxSHZTOG91UTYxQW53OXVpd0JCSmxURlVUdFlBdjFIMWNFU1o4bmpvX3ZXd3o2OE5sSFJuLVk5SHJxSW9VamtPRXltVWdsRlliMEVvd0I2VXk2cF9sUXlUSTU2U0RZdzYwRFNfUjFfN0xWRlhuRmRtYXhJdldJYmRvQ2xpUTNhN01FQl9IYnNROW5jSjV5bXMwUlJMMENHbkxUTlE?oc=5",
+   "source": "The News Mill",
+   "published": "2026-10-11T04:12:09+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Softball Cricket League",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "47ef116af2d2",
+   "title": "Minimalist\u2019s Digital-First Skincare Business Model",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0phaGtUNzNVdnU5OGhqbkE4dkV6R0c4VzNpbThBTGdYWEctbFJuQjFOSl9oZE9FdnBHV3RDVm1zeF8tMnJLeXkxNlZlc2VRVmxMTUJGVFExbUNpMG1peFpYUFFhR1UyZVRrWFhxUTdrUDJNc3FEZU11a002dlVRTl9BVWFUakJs?oc=5",
+   "source": "MarkHub24",
+   "published": "2026-10-11T03:30:19+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Minimalist\u2019s Digital-First Skincare Business Model",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "dfd929b2089e",
    "title": "Hedge Funds Snap Up LA Fire Deals as Political Backlash Sputters",
@@ -6578,115 +6699,6 @@
    "alerted": false
   },
   {
-   "id": "eadc937b983d",
-   "title": "James Norris \u2013 founder, chairm, SkarduApp - Be Indigenous | Leadership 2026",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaXRRY0JRdWdud0pnWmRLbDNsQ2xtNjBTNEdMSXBDMlF1WHlIOG9TQVR4WjJFRzY5TldNbVpPeE1BMjJzclQ3VlBkRUZDemM?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-05T14:30:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "James Norris",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a84ede6cfe3d",
-   "title": "7 Books that teach you why rich people think differently",
-   "url": "https://yourstory.com/2026/10/books-people-thinks",
-   "source": "YourStory",
-   "published": "2026-10-05T14:16:23+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "943e47a0800a",
-   "title": "How Stock Trading Apps Are Changing The Way Indians Invest And Trade",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXg4a3BZY1FTQ09lVXVJaHNab2NCRmZueUo5azRaNFYxbm1VQ2lsdXN2Sm1rWG9ZQ3d6Vjh5TDV4REdpNWJrRm5qekhObGxLRWNJWFFBemxoTFhHaUdVbGtMbW8zUTdfajB4dEZ4aF92bjBSQ3p1U2VMYmZOYjVKSUNVVl9ycndZX1FvVC1Md3ZGQUlrQUVB?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-05T14:01:23+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "How Stock Trading Apps Are",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "110ce35878b9",
-   "title": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
-   "url": "https://economictimes.indiatimes.com/tech/startups/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us/articleshow/134707195.cms",
-   "source": "ET Tech",
-   "published": "2026-10-05T13:43:10+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "German",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Roman Holzl",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "$1 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16e6eb7409e4",
-   "title": "What we still don't know about Delhi Police's live CCTV surveillance",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjkzUk14ZDQtYjd1TFJCVkk0clJlQzhtNDRXbjJQT3g3Ty1LRUloYWtUY244OWI2QzY4ZXlmRHR6c0NNdGotekZFb01LeXhSa2JQT1JzQkNDV1BPUk9IMXFXQlpuSmUyd0NNbHptRXpVRjdkbnNJUkpiX3lTWDUtU0N6d2FxVmdNTTZUMQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-05T13:32:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "What",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e4bc8015b455",
-   "title": "From fintech to semiconductors, TechSparks 2026 brings more voices to the New Tech Order",
-   "url": "https://yourstory.com/2026/10/from-fintech-semiconductors-techsparks-2026-brings-more-voices-new-tech-order",
-   "source": "YourStory",
-   "published": "2026-10-05T08:48:01+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "29a29c889809",
    "title": "How Deep-Tech Startups in India Can Navigate Long Funding Cycles",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEV1bkYzNDE1dVY1d1JfRnZuZUxGckZfVnoybjdHRzVwRmxDMV83OTQyUjZTYndTUHdYa3JlcWFnbkZlbWxSdkJMcmNRUEdQRm0xZ09KWHBqcG5hNEtUdnNodjFQbUVYeTJnekQwSVJXU250TUZaaUM2RjEwV3k2UjctNGF5TnNVbXpGYWlmTzctUUVsNW8yalJvMHdNai1KNFluOENjdDk0UdIBtwFBVV95cUxPRkx6TDhzaXNSWW5YZTJpTnQ1Wk9kQkRuMWRpUW9TVFZ4Um5DTWROMEVHMFplWE1mWFNRR2pweFIzWHNwMERMV1YxV3RqZFB5YmdZNEgwdmNzcXlmQkFydXk5WnVLNDk0WmpEZERGTzR4VEFMakVrR015cUZOYzJuYUVYb3hJd2hnR19WX2c5XzVENGtWRmRtMXhTYVlhVkszWHBDV2JnTGtuZmF2WFhBZXFQdFU4ZVU?oc=5",
@@ -7068,23 +7080,6 @@
    "score": 68,
    "category": "launch",
    "company": "Yogi Adityanath",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0a8e066fc0cf",
-   "title": "Abbott launches blood test as new option for colorectal cancer screening",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcF9GTXpWUllFZU01SjB4dFR0NGRUOFJiV1hLTlRTTFl1TmhyYVhqV2xteDVqcW04bHBEVUR5TDA0cjFEbC0tWGRwM25XSlZtZHV1LU5yYUVRemVkUnVtdzZsZ3JHMTNvSldPV1hJNWJpVVlBNEdPXzlGUC1hUEE4c1A0ak41SU9iaktDSmRtRkxVWWY1eEM4OGxTNlhrZUVpb1JPMUNEc09wZHpHVzVZWmhkYkJGSzjSAb4BQVVfeXFMTnUxOHNxMy01cDdSWE9sMkEtdmt4a19oT19JTXFaMDNoWVJWamR5NDdYQW41WE9uRFNiOV85WFljWEtDbEQyVU5HVHQzcVhCVzZLVGF4R0dONGxidHJUM1h3UFNWbkVFWlFUZjFrYWVWamJFRmFJMG9aOExqcS1lQVZUdTdOVnZCTXdGbFdJNTY2QnVCcU8yRHV4UV9WZGhudWVmQXNZNzRfWWJEcXU1emNOT0hkMkhFRThyWXdzdw?oc=5",
-   "source": "Indian Pharma Post",
-   "published": "2026-10-04T03:49:14+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Abbott",
    "amount": "",
    "stage": "",
    "founders": [],

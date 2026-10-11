@@ -1,12 +1,80 @@
 {
- "generated_at": "2026-10-11T18:55:19.339811+00:00",
+ "generated_at": "2026-10-11T22:33:16.480403+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 12,
-  "alerted": 4
+  "fetched": 5,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "024d948b4e71",
+   "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-11T19:40:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Musk",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6ef157c920e3",
+   "title": "Nagpur-Based Bangladeshi Trafficking Kingpin Behind 250 Fake Passports, Fresh Search Launched Across Indi",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONHcwVnZaVnBLbUxmTHVJZk1EOFl2VlA1UTF3MHZnSmZQcXctV0ZSUUhfR2RRdXBUSjEzemJnLUdrNkpfSlp4b1l1MmtpZUdkeEJPZUVvMFFwbWpuT0RpYzdvTkNFMmNISTZJNlVEMThoLWptMTUzYm55NEhtQy03OXFWaFl2Z25VN2daUFNyalB2X0hQZVBOa0lkOEhYUGxWbk93VGFObnFqNkstcEI3WTVFQjBSTHZFekl2ZEZCQWkxZURSMDlXTkNGUzRuU1ZDd0YxbDVUWGtVVjZKR0RDNVRzbEx6UEhRbTdLZ2JOVnFmaE9MaXloMG9WcU9oc0tEeHVxUU9jb29hOTjSAZACQVVfeXFMUHd6M2htVF83Z3lmRDBIVkRWVnRRaWlmejQ5b0lNckp6Q2tYZDZaeVluanlWQ2RsVl9tS2ViYTZrRlAyOFA3bWtadlJfcm16Ri1zTzVSNm8zbWNDZy1HVzJkQk1sdk5Hc0JrZWJGcGk4ZnFjMVJwanJBZ2VUajlBMjkyeFdnZG91Yk9ZdXA2MG5tTUc4c01wYWM1NVk5a19sbG1aaElxakdhWV8zWV9SWE56cDUzQ1dzZlJCS21fdVBIcVNPYm1JWW5vUmx0X2g1TURzYjV3bkxXU3ZGeE5lQlQ2b1YxcWVBNDZaMzJnd0NoMGhManIzcGJOTVZfVFoweWlWVllHdWM0TUVVXzNfRXg?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-11T19:36:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Bangladeshi Trafficking Kingpin Behind",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0f57b15a8c92",
+   "title": "Union Minister Jyotiraditya Scindia launches theme for 10th India Mobile Congress 2026",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONS1LeUxtVzZ3VDJndG1MTzZjY0VNTDJOV0w3RXhBMU1CN091aFVuQzM1UDZzaVN2cDQ3NlJqSWdYX2lFc05wLWtPWl9IYmozNE1DUkhyN2x3QnBXeUdUY0NLZkxDdi1yVzZZN2FqbWNTTEQxZDdHTDNReHVxSDg3U0xDcWR1UGRQZ3RQRGIzVnliZUozR0xJZXBVcmc4dDZncUQ1c1NwV3dZWGUzQTZXTlh3?oc=5",
+   "source": "News On AIR",
+   "published": "2026-10-11T19:12:40+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Union Minister Jyotiraditya Scindia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "527fadc815c1",
+   "title": "Gujarat doctors pledge funds for healthcare startups",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXdYQkh0bnRpb0lzX0VWd2VjemVqOXFzVmpJWU1mVnpKOW1ra2dxblRfWEpwb0hCSDQ2d0MwNUtTcXNJaUM5aW5oSFg3aG9CYjE4QUlDNTBiSE5rSEtuRG0wNV9oVGNXV2R5dmhOeDA5dTBQZUNxYl9YVExGZlMyQzlwYWFFa1RWT1ByMkxmUWM3R3NFN3NWbWRQdUxHXzJ5WHZvaDVyWExqUFBEak9kb1dwM0IxU1hQQ3ptbk1Yb2tDakl5VVdaVtIBzgFBVV95cUxQdnB6N3puWFRZcXdXRmtaSWpKS1VQbFRjX1h2X2dWVHRIc1ViRmJFTlpKZDcwTm42bklndzMzdzh4WHo5Z21xa09GSldNR3htWWNzV055QlQ4OW5yNFF3MGVXYTFOSl8teV9SQWxEdkQ3N2dzeERzYy12Q1hzU0xXX25raTRYVEZwakRRTW9JZ202clN4ZzdBX2ZCdUVacHFMdmZFQ243aWI3VkFhYW5EVG5VVV9rb0Etc0doSzRESjBzVGF6SE5iQWVWLTFnZw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-11T18:51:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Gujarat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "218d9344b9f6",
    "title": "Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 Film Tanks on Opening Weekend",
@@ -6153,41 +6221,6 @@
    "alerted": false
   },
   {
-   "id": "80b0cd516982",
-   "title": "Cabinet approves proposal to set up Integrated Transport and Logistics Authority",
-   "url": "https://yourstory.com/2026/10/cabinet-approves-proposal-to-set-up-integrated-transport-and-logistics-authority",
-   "source": "YourStory",
-   "published": "2026-10-06T12:52:08+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Cabinet",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "36708007181f",
-   "title": "FirstCry-backed Swara Baby Products gets Sebi nod for Rs 1,000 Cr IPO",
-   "url": "https://yourstory.com/2026/10/firstcry-backed-swara-baby-products-gets-sebi-nod-for-rs-1000-crore-ipo",
-   "source": "YourStory",
-   "published": "2026-10-06T12:51:02+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "FirstCry-backed Swara Baby Products",
-   "amount": "Rs1,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,000 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9d770199fc34",
    "title": "Uber to buy US catering platform ezCater for $2.3 billion",
    "url": "https://economictimes.indiatimes.com/tech/technology/uber-to-buy-us-catering-platform-ezcater-for-2-3-billion/articleshow/134741017.cms",
@@ -6204,23 +6237,6 @@
     "$2.3 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "a9977a0dc752",
-   "title": "India\u2019s cybersecurity startups face a new hurdle: proving they can protect customers",
-   "url": "https://www.livemint.com/companies/start-ups/cybersecurity-startups-enterprise-security-checks-11791263076605.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-06T09:57:13+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "6f3db10eed34",
@@ -6240,24 +6256,6 @@
     "Series B"
    ],
    "alerted": true
-  },
-  {
-   "id": "1df7944d3d9c",
-   "title": "\u201cCredibility Is Built One Parent at a Time\u201d: Vrushali Gourkhede on Building Yuvrus Botanicals, a Science-Backed Child Nutrition Brand",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTTBudW92Nmc1T052R1RVbGM0YXExa09xSXBXMG84RERVNWJIWkVBTUVXSVZfWS0zY290YWtjMTBoSENoaXhzRmwyMU81UG5RSDFkbV9EbmI2T2cyYmJSaXVha2pUcDNKamVfZFBaZHVEMG9ldkY2U2ZGTVFHZnpvT1B6SkhUcGppYWZUY0RXdl80T2NybjNDTzNTSHBUQk9YMGhvempwS3NpTXcwdlZrSWlRc2wxaC15WkhBU0lraUNLNWNicU1RekY5WGNBZldNLXN4TV9FT1p3OGJRZkROZTdKdHlZYU1yU1VGMG1zeWw5UTNUVG9IblpDWkVMUGRaYWZMT0xlWQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-10-06T09:47:56+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "93c412b9fd6f",

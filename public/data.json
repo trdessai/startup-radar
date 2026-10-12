@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-10-12T17:45:34.542935+00:00",
+ "generated_at": "2026-10-12T23:45:58.560411+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 38,
-  "fresh": 29,
-  "alerted": 8
+  "fetched": 3,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "650fdd5c6800",
+   "title": "Qualcomm Sells Shadowfax Shares Worth \u20b9157 Cr In Bulk Deal",
+   "url": "https://inc42.com/buzz/qualcomm-sells-shadowfax-shares-worth-%e2%82%b9157-cr-in-bulk-deal/",
+   "source": "Inc42",
+   "published": "2026-10-12T20:08:23+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Qualcomm Sells Shadowfax Shares Worth",
+   "amount": "\u20b9157 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9157 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "3edb14a2afaf",
    "title": "RBL Bank expects to put most FCNR(B) funds to profitable use in 2-3 years",
@@ -6461,24 +6479,6 @@
     "$10 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "0698702d1f85",
-   "title": "Humanoid robot maker Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
-   "source": "ET Tech",
-   "published": "2026-10-07T04:23:07+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Humanoid",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
   },
   {
    "id": "90046ca7ff8e",

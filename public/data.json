@@ -1,12 +1,248 @@
 {
- "generated_at": "2026-10-12T23:45:58.560411+00:00",
+ "generated_at": "2026-10-13T03:54:10.887303+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 3,
-  "fresh": 2,
-  "alerted": 0
+  "fetched": 18,
+  "fresh": 16,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "4fe174655e13",
+   "title": "Mesa School of Business raises \u20b9110 crore to expand its portfolio of programmes for the AI era",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb21xQk8yLXdQY09jYTBodTR6OFpfWWp3ZjdGQlhyZGNOdXR5YjFqcW4tUV9lelJxX3R2NFFBUHp2TW5NZjNsU3dYZFNOSXNxbkpBOUNBLU83aldlRjh1RFpJQnZkZWg5OGdadURGQ2JkMy0ydVI5UmtPRXF5Q1FaRTZWZzBxVkliTWpabV9KZTgtMHNva2ZqZUh0Ym1SZXJrazN0RFNLbzdCV2JZZU5RNlNPVnkxR1gwUDU5YXF0ZTdSRWV5TS0yd3NpNVRMSk03cndZbEg2YUxvc1pyZ0c1b29sQ3F6NW8?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-10-13T03:30:00+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "Mesa School",
+   "amount": "\u20b9110 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9110 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "56e89740e365",
+   "title": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports/articleshow/134906918.cms",
+   "source": "ET Tech",
+   "published": "2026-10-13T03:29:13+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "NTT Data",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6676d6f919fa",
+   "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
+   "source": "ET Tech",
+   "published": "2026-10-13T03:05:19+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Tencent",
+   "amount": "$4.5 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$4.5 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fe188c23ea0a",
+   "title": "Meta says its new AI models on par with OpenAI, Anthropic",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-says-its-new-ai-models-on-par-with-openai-anthropic/articleshow/134906480.cms",
+   "source": "ET Tech",
+   "published": "2026-10-13T02:58:54+00:00",
+   "score": 57,
+   "category": "launch",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1f6f3a228e60",
+   "title": "Anthropic says new safeguards sharply reduce AI distillation attacks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks/articleshow/134906398.cms",
+   "source": "ET Tech",
+   "published": "2026-10-13T02:39:47+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a58be46232e4",
+   "title": "Agentic video startup Clueso raises $10M in Series A funding round",
+   "url": "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding",
+   "source": "YourStory",
+   "published": "2026-10-13T02:30:00+00:00",
+   "score": 93,
+   "category": "funding",
+   "company": "Agentic",
+   "amount": "$10 M",
+   "stage": "Series A",
+   "founders": [
+    {
+     "name": "IIT Madras",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "funding in headline",
+    "$10 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e04e8ff414bc",
+   "title": "Sarvam plans big fundraise; HCLTech's Q2 profit jumps",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/sarvam-plans-big-fundraise-hcltechs-q2-profit-jumps/articleshow/134905940.cms",
+   "source": "ET Tech",
+   "published": "2026-10-13T02:06:50+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Sarvam",
+   "amount": "$3 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$3 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5fb95c8ace2f",
+   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
+   "source": "YourStory",
+   "published": "2026-10-13T02:00:00+00:00",
+   "score": 40,
+   "category": "other",
+   "company": "TechSparks",
+   "amount": "Rs5,012 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs5,012 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ea1fec80a928",
+   "title": "Welcome to TechSparks 2026! Here\u2019s all that\u2019s happening on Day 1",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-day-1-agenda-speakers-sridhar-vembu-priyank-kharge",
+   "source": "YourStory",
+   "published": "2026-10-13T01:50:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Welcome",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a7d29fbc04c0",
+   "title": "Mesa School of Business raises Rs 110 Cr co-led by Dharana Capital and Elevation Capital",
+   "url": "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital",
+   "source": "YourStory",
+   "published": "2026-10-13T00:40:00+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Mesa School",
+   "amount": "Rs110 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "Rs110 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8c73afb94396",
+   "title": "Mesa School Bags \u20b9110 Cr To Launch New On-Campus Courses",
+   "url": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
+   "source": "Inc42",
+   "published": "2026-10-13T00:30:58+00:00",
+   "score": 93,
+   "category": "launch",
+   "company": "Mesa School",
+   "amount": "\u20b9110 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b9110 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "25d4ed456d4f",
+   "title": "Venezuelan crude comeback puts Reliance\u2019s refining edge back in focus",
+   "url": "https://www.livemint.com/companies/news/venezuelan-crude-comeback-puts-reliance-s-refining-edge-back-in-focus-11791800830505.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-13T00:30:57+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Venezuelan",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5e87d4e4006a",
+   "title": "DHL joins NX Group in race to build semiconductor logistics in India",
+   "url": "https://www.livemint.com/companies/news/dhl-joins-nx-group-in-race-to-build-semiconductor-logistics-in-india-11791788224057.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-13T00:30:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "DHL",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "650fdd5c6800",
    "title": "Qualcomm Sells Shadowfax Shares Worth \u20b9157 Cr In Bulk Deal",
@@ -6173,40 +6409,6 @@
    "alerted": true
   },
   {
-   "id": "38ef0ec221b1",
-   "title": "Brussels looks to capture Big Tech through tax on large corporations",
-   "url": "https://economictimes.indiatimes.com/tech/technology/brussels-looks-to-capture-big-tech-through-tax-on-large-corporations/articleshow/134757355.cms",
-   "source": "ET Tech",
-   "published": "2026-10-07T05:50:48+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Brussels",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ca46b175c0f3",
-   "title": "OpenAI agents' web probes raise questions for India's UPI plans",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaV9pWllKQkVUcGsxYmp1c0IzX1BJeElYZGZjLTUxYXRfSDk3dzROeld3N0t0SDgtM2REeWxsOHZRSVVLYl9naU1SSkVFMEJ2U19DOXpPM3ZKaVZneXhnaW5pVEdjR2Q2UDQ0a19rWGZOS2F3TzVoTi12dlVGcUJGOA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-07T05:39:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "50825819e757",
    "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
    "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
@@ -6224,23 +6426,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "9066df551f90",
-   "title": "Kevin Rudd on four minimum AI guardrails that US-China should agree on",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2JDY2NMSkN5cndRWmN0SEtxOGtCOTIxd2ltWVNQT3BwRzRGZzJuN0lBNlNCSmlmbENuSFRWWGFzR2ZqV0lBM3JGNkZSM2xjOVhLbExhYUdyZE1aaUNLVjJWSVQxMUJvTWttLTJyazRYN1BzdEhrUUNfc09xLWttTUlNYW1LTGRk?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-07T05:37:45+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Kevin Rudd",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "b32fd35a998b",
@@ -6299,23 +6484,6 @@
    "alerted": true
   },
   {
-   "id": "b57646f660c3",
-   "title": "JioHotstar expands to MENA through STARZPLAY",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzdLb2gwSUhKNk4yZ2pTS3hNNnBxRHJTMGk1NWl1dkp0cHhnUXJEWkE2WXBfUl9PazI2THBjbmhIZWZiTnBNdmNURDluclNfdUlrMkdEV2pGTlB6SVJYeWNJZ0Nfd3AwbkhXMlFzNjRNRkFLWHFSeE84RHptSWh0R0xnT2xWcDExa2Jv0gGLAUFVX3lxTFBjN0tvaDBJSEo2TjJnalNLeE02cHFEclMwaTU1aXV2SnRweGdRckRaQTZZcF9SX09rMjZMcGNuaEhlZmJOcE12Y1REOW5yU191SWsyR0RXakZOUHpJUlh5Y0lnQ193cDBuSFcyUXM2NE1GQUtYcVJ4TzhEem1JaHRHTGdPbFZwMTFrYm8?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-07T05:25:29+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "JioHotstar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "60898de218a6",
    "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
    "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
@@ -6333,41 +6501,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "f87a1553fc4f",
-   "title": "Carlyle-backed Highway Roop in talks to acquire another precision manufacturing firm",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkp4RjRITkdTQUh6VEQyMDJSVmV2cHpGd1lOQXlvaEw4TzdGZmVkaGtERVdtMEN6X3ZtWENTVVhGSDNwRXFkVC1xVE1TRFE4N3pIS20xWW01Wl9IaVBMSTVvM0wtWF9lM2haNHNNYTU4WjlHVjF3czJwbVNNZ0llczVFSEsxT3gxMTNZeG9jV0hDQzFYdUxIYXEwblJFanpROWlXQnFBSXJQSXpy?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-07T05:22:41+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Carlyle-backed Highway Roop",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f47665c3fd75",
-   "title": "TPG-backed NewQuest offloads Rs 115 Cr Shadowfax stake in bulk deal",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQW4wYnQxWUZnOW9yTTFSd0hnU25URWNsaEFOOTZ5bnhTNUFNOHlvUGp5cmFJTFB2N0h3d01XeFlIU2c1ekR0eVdJNGpRRXhETk1ZZ2hkUFFnVjRXOFdydk9xTExqRGJwN1JEcXRnZjltMHd4Tk1NbUNWXzBRSEdUbTZZQnVQdHpQSTl1NUQ2ZmJkLWVIRGp4d3dPM1NwTWRybXhPZtIBpAFBVV95cUxNQW4wYnQxWUZnOW9yTTFSd0hnU25URWNsaEFOOTZ5bnhTNUFNOHlvUGp5cmFJTFB2N0h3d01XeFlIU2c1ekR0eVdJNGpRRXhETk1ZZ2hkUFFnVjRXOFdydk9xTExqRGJwN1JEcXRnZjltMHd4Tk1NbUNWXzBRSEdUbTZZQnVQdHpQSTl1NUQ2ZmJkLWVIRGp4d3dPM1NwTWRybXhPZg?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-07T05:17:31+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "TPG-backed NewQuest",
-   "amount": "Rs115 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs115 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "048732475a2a",
@@ -6388,28 +6521,6 @@
    "alerted": true
   },
   {
-   "id": "c95fb0e0ef46",
-   "title": "Billionaire Ray Dalio says we\u2019re nearing point where AI bubble may burst",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/billionaire-ray-dalio-says-were-nearing-point-where-ai-bubble-may-burst/articleshow/134756519.cms",
-   "source": "ET Tech",
-   "published": "2026-10-07T05:05:11+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Billionaire Ray Dalio",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Forbes Global",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "408ad5635f83",
    "title": "Zomint raises Rs 36 Cr seed round from Lightspeed and Prime Venture Partners",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEduaUtxS3pxd1lCQ2pSNnZuYk1tSzB0cmEtTWgyRldsX3FZWTY1X3dyaWVRbjhvd2RmNE10enBsVU9lVFVOZHYxZkVFTU1BaW9MMktmMjBwNFZnME5KU3RRS0Iydi0wTWttRVZHVUpMVWF2SEdpRWJnekVjX1RBMVZfV1hWTi1WSUEwcEhsRjdNYlo4dUctVmxhVDlva2t3eDRSOWdmcDJIajA2ZUR1OEU1cXJ5QdIBtgFBVV95cUxPeEduaUtxS3pxd1lCQ2pSNnZuYk1tSzB0cmEtTWgyRldsX3FZWTY1X3dyaWVRbjhvd2RmNE10enBsVU9lVFVOZHYxZkVFTU1BaW9MMktmMjBwNFZnME5KU3RRS0Iydi0wTWttRVZHVUpMVWF2SEdpRWJnekVjX1RBMVZfV1hWTi1WSUEwcEhsRjdNYlo4dUctVmxhVDlva2t3eDRSOWdmcDJIajA2ZUR1OEU1cXJ5QQ?oc=5",
@@ -6427,40 +6538,6 @@
     "Seed"
    ],
    "alerted": true
-  },
-  {
-   "id": "cac9bab84df2",
-   "title": "South Korean megachurches probe suspected AI-linked cyberattacks",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks/articleshow/134756283.cms",
-   "source": "ET Tech",
-   "published": "2026-10-07T04:46:59+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "South Korean",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fa7cb7c35e0d",
-   "title": "Bottomline: ICICI Venture-backed Arteria sees growth rate taper",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWxHUG1TMldmTzlvZWZLbW13M2pRV2hMQ1hBWi04TFVRUUVqOGxhY2owazRsQVh5NFNLRjFOYndBbjVXaDZYSUtMUzcwTnBWMjZkeWRoQ1JkLTBhU2JwX2ZKeGVYNzJQRE9ZQTIxSm9UQ1NabWJUNEwzdUFhcFRBaDZOZFdfZ2Fld19raEFmaw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-07T04:36:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bottomline: ICICI Venture-backed Arteria",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "eb07f3e4ccab",
@@ -7027,78 +7104,6 @@
    "reasons": [
     "funding in headline",
     "80 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9a61da170fd7",
-   "title": "Google, Constellation near deal for nuclear power",
-   "url": "https://economictimes.indiatimes.com/tech/technology/google-constellation-near-deal-for-nuclear-power/articleshow/134721292.cms",
-   "source": "ET Tech",
-   "published": "2026-10-06T02:32:09+00:00",
-   "score": 73,
-   "category": "acquisition",
-   "company": "Google Constellation",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "acquisition",
-    "$1 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0ff4b2ba80df",
-   "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year/articleshow/134721256.cms",
-   "source": "ET Tech",
-   "published": "2026-10-06T02:31:11+00:00",
-   "score": 80,
-   "category": "launch",
-   "company": "South Korea",
-   "amount": "$3.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "$3.5 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "01c9e74bd943",
-   "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
-   "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
-   "source": "YourStory",
-   "published": "2026-10-06T02:00:00+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "VC",
-   "amount": "$100 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$100 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "99f759f7e722",
-   "title": "Beyond Appliances Raises \u20b9110 Cr To Expand Product Portfolio, Boost Manufacturing",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd08wOGF2NmFkWURRX25TSmpKY29zcXE2TnJlT0xwNkN3MEFPd1BfQi1ST0diMWc4dlB1TFZlV3E5U015aTBJbjVOeC1haUt0a0VSREdJQXZZX29MQVhyOVlGelo4cmgtaWpVb2xocXV6cFM4a1ZEWXU3TzlkamNRRWhJVlY2Q1hNSG1kei1Qb2RvU0xjdDRDdnRVS0padE1qWjVfVUR5azZUcThiRzh5NkhB?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-06T00:30:16+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Beyond Appliances",
-   "amount": "\u20b9110 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9110 Cr"
    ],
    "alerted": true
   }

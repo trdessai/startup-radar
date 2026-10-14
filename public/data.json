@@ -1,12 +1,236 @@
 {
- "generated_at": "2026-10-14T17:04:59.380031+00:00",
+ "generated_at": "2026-10-14T20:35:50.773142+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 50,
-  "fresh": 37,
-  "alerted": 15
+  "fetched": 27,
+  "fresh": 18,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "ef63f04d83ee",
+   "title": "Indian VC Firms Are Following Founders to Set Up Shop in Silicon Valley",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ObVpVTVBwSzgwcnZPUTJWZHVna29la19OdEh3V0lZdzhtcy1WcVo4aDJLdlc5anpMX2VoWUtSWDV5V0FmdGJ1MkxzUnkyY0daMmpNSHlvdnI1OXJqMXhpYlpfaVBwTWFlTUh5NEw4by1sQQ?oc=5",
+   "source": "Newcomer | Substack",
+   "published": "2026-10-14T20:21:55+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "VC Firms Are Following Founders",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ad9711032f43",
+   "title": "Nvidia CEO Jensen Huang says he would cut off customers who build unsafe AI",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-jensen-huang-says-he-would-cut-off-customers-who-build-unsafe-ai/articleshow/134950532.cms",
+   "source": "ET Tech",
+   "published": "2026-10-14T19:12:36+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Nvidia CEO Jensen Huang",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    },
+    {
+     "name": "Dario Amodei",
+     "handle": null
+    },
+    {
+     "name": "Anthropic PBC",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "77f7029fbaee",
+   "title": "Eight US states sue OpenAI, claiming ChatGPT harms children",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eight-us-states-sue-openai-claiming-chatgpt-harms-children/articleshow/134950394.cms",
+   "source": "ET Tech",
+   "published": "2026-10-14T19:02:58+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Eight US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a41ddea82f01",
+   "title": "IPO-Bound Tonbo Imaging Nets \u20b9255 Cr From Anchor Investors",
+   "url": "https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/",
+   "source": "Inc42",
+   "published": "2026-10-14T18:59:05+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "IPO-Bound Tonbo Imaging Nets",
+   "amount": "\u20b9255 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9255 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fe73648d9507",
+   "title": "India Startup Funding Q3 2026: Early-Stage vs Late-Stage Investment Trends",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUdRRFlTanA1VmNLMzltY3F3TG5UNVEyZVV5ODRfMEFsakc0Z3JReDFBSVh6eXNwVFBsSm16QnNmMzJLMXpuREtDemJLM2JkV2F2dGlHazFENFdfb09zdmQ4U1dseFlTSzZqSmZHQU05MktFeEZLeE9CZ2V4M0RadjRBVzEwZlQwa0VFSFpJTXl4WTJRdjQ1MEkzb1Z0cnJKZE5iN213T3h3b0ZoWU5Kd2JVQ3R2SF9hdThKZkRWb0FfOTAwSF9XTnJ6alBjcWlxaVdpbQ?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-10-14T18:23:07+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "India Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cfac4b4dea94",
+   "title": "Hyundai plans \u20b94,000 crore investment in Maharashtra, aims to double Pune plant capacity by 2030",
+   "url": "https://www.livemint.com/companies/news/hyundai-plans-4-000-crore-investment-in-maharashtra-aims-to-double-pune-plant-capacity-by-2030-11791999786904.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-14T18:17:00+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Hyundai",
+   "amount": "\u20b94,000 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b94,000 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ea1ae9b6603",
+   "title": "AI infra startup Modal raises $750 mn at $15.7 bn valuation",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkN6c2RMWWhtMnRoV2RMN014UTFPV1RJa0lzTklHWDRNcV8wLTd4MGE1Vy1WWU42OG53MGM5Q2YzdkR6MXE3VXhuUVM3LW1VTWU4ckw2dzJOeUd0LW1OSkhpVjVVV0FuVkFNUHRCaUZ2MzZGZUItX0ZILWdhQTJhZ2pKNDBaZFRseFBjNXJtV3lFN2lkY09MWWlzSmJLQkhmS0hYdGdUbkRuQzhMbVg2MTdPQzlQN3ZuR01oUDc0VlVZdThJZkdIazVzUlJZbkZuV3Baem9NQ0hvUTDSAeABQVVfeXFMT2ZhNjQ4eER3Q1ZNR3lmc0NZN3Z0eVJlZGlkSks0UjJKanRpWWFzNl9WUEU5bFhDMkhMMDZIMTdpNWswUnp3eWJNcl93LV9ueG5jYnpHNUk2ckR3cEVnLW15Y0hOMXVmRlRQUVNHR3UzUk5laU10dDhha3kxMTNkV1g0SVlCblhGbjZjN055SjZMSXEtR1hwcVltNzFkYnRkN0VXQzk0YVdOcTZGNVFGT3BseDBtZUFzQ0I0Umw2YlE4SzdFcG8yeUNEay1vcEViWms4NFYzSTZtQTZSc0d2VkM?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-14T17:50:00+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "",
+   "amount": "$15.7 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$15.7 bn",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "17af62924353",
+   "title": "Apna Launches Campus Tank Season 2: Funding Pool Raised From $6 Million to $15 Million",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNenhZU0I4ZEQ0cW42VGFrWTdKZWtEY21fdkVhZHFjZzBjbEszbERSOHl0UHY5djRqS1IzbkIxaktleVpkN1F2cDNubTFvMkFyQ2g1dVFRWk5YZFNTUmZCM0dNSW40SnpzYUcxaU1LWl8tbllKMTU5aXFLSFByMjNEbWFB?oc=5",
+   "source": "TechnoSports Media Group",
+   "published": "2026-10-14T17:38:52+00:00",
+   "score": 77,
+   "category": "launch",
+   "company": "Apna",
+   "amount": "$15 Million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$15 Million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b144e5afd8e9",
+   "title": "Policy reforms, risk capital fuel India's fast-growing space-tech ecosystem",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFdRT2VPVTBRSTVsRWt2a3lLam1tclhDTUdKbklkYmRLbjdTRWhaanMxV2dyUVprSTIxR2tYTEdVSDZrMWJOcG1mV3BZRDlpX3pGVGdaRzAyR2tvSGJyN1NLa0M1dVRUdlNzd1FBMG1yWVNVMDdyVElrclFocXFHTzR6QXM0N1hBcHkwUFU4aFVzMVFsZGlveTJkdmZNeFBoa2VrRjROSS1CSDVSbnNnYVl2WVhRemlTQ3owbVVIU0lSdWM0SUZnLUEzZWt0TUpla1JCcW1qZVYtSFR6MlBzZ9IB5gFBVV95cUxPYU9PbnFBb1c1RUlNYUk4ZERNNkFkUk1kanYySE40aGtQOUx6ZllqWjU4ejd1VF8xX1hKcUEwQXZlRnd4TW1zam1kWmpEYmJZYkthaFJOYmNNcDNteXNLR3dRc3Y5bHh5TUl0cUtKS1hGejkydHN6cnhfeDVRVWF0c1hSZzE2QWp6MU5IcnRuRlFvS0ppMXNSZUJ5ZVhKR0w2WVJ0NXBURVoyVmR3RDBxelN4MGZqdGZEZ2cwUjhFc2lQdzhFbThlakxUSVF0dmxWallqUVJoUnBSMWFta0ZFVEpOTnZ5Zw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-14T17:19:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Policy",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "86599e1ac266",
+   "title": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business",
+   "url": "https://inc42.com/buzz/scimplify-bags-25-mn-to-scale-its-semiconductor-chemicals-business/",
+   "source": "Inc42",
+   "published": "2026-10-14T17:11:43+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "Scimplify",
+   "amount": "\u20b9238 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9238 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "21d22e702889",
+   "title": "US startup books 2 Skyroot launches onboard Vikram rockets",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ1VDVVV3OFdDNDZvcEZrc0FQWEx1LV9qNDRfTEdqeTNzWXMyc2xzV1ROaHhfWWkxMHNFZ3RmRlI4b1pHZ3QweF9ib1NiblRvOVEwT3hZMzRKUlVjTDViRzk5UjZqOGNKLXhsb2VrVjdLeGJFc1k1QU9hdmdyaEZMOHVMM05ndXBkYk0yMUxLOXRPbHdid28ybTlzTG1RSWQ4ajdEck52Rkk2Q0NHeWdfZ0hZTDhZREZWVzhPT2tYUzY5Q2M2SWltTjVRcmRORnhhVHd2N1JR0gHWAUFVX3lxTE1DVUNVVXc4V0M0Nm9wRmtzQVBYTHUtX2o0NF9MR2p5M3NZczJzbHNXVE5oeF9ZaTEwc0VndGZGUjhvWkdndDB4X2JvU2JuVG85UTBPeFkzNEpSVWNMNWJHOTlSNmo4Y0oteGxvZWtWN0t4YkVzWTVBT2F2Z3JoRkw4dUwzTmd1cGRiTTIxTEs5dE9sd2J3bzJtOXNMbVFJZDhqN0RyTnZGSTZDQ0d5Z19nSFlMOFlERlZXOE9Pa1hTNjlDYzZJaW1ONVFyZE5GeGFUd3Y3UlE?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-14T16:56:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "380e1ff4d350",
+   "title": "Space startup funding hits record $20.8 billion in Q3 as infrastructure investments surge",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmdJRkVWT25MTUxHMDVhYmRBOFBSMWFnXzUyemtGTWhIN3JJcFRKcGgzR3Q3Q0NRRVpSUGozcDRzUmhCcUp0RzZoX1JEb3FmWDQwcVFqTmpCUEduSTU0WEd1VmZVRHk4M2FBZ0lsLTdRZFY0Y19PNFBpZWNkTnFTSU1rM0xjMy1Bc2IzVF92ZWxYOU8wRi0wM0FpSWVUZWQ0ZnU2RktJUQ?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-10-14T16:42:26+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Space",
+   "amount": "$20.8 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20.8 billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "92eede19a60d",
    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47",
@@ -5653,58 +5877,6 @@
    "alerted": false
   },
   {
-   "id": "17b906d47a8e",
-   "title": "UPI MDR framework needs rationalisation to protect public trust: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/upi-mdr-framework-needs-rationalisation-to-protect-public-trust-report/articleshow/134870367.cms",
-   "source": "ET Tech",
-   "published": "2026-10-11T12:17:06+00:00",
-   "score": 47,
-   "category": "product",
-   "company": "UPI MDR",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "45d7a4d0dc4d",
-   "title": "Record 511 teams join 929 Challenge as startup bootcamp opens",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVm1FVmdDMG1JZ1dJQWtXNExrOVp6SXZ5QzB6Q3B2YW0tNmUyMzBUcDJDdmJSOVFuY0FzcEZuN2ctZnBESmhYZDNtQ2ViZlZsQVdSdktnMkVOQ2FFRUhOMzFOWjRxVWdxR1VwYncwZ0s4Rmh1MWl4UENUZFVISHZnd3h6QzY4Vk85MzJOWlY5VktFUQ?oc=5",
-   "source": "Macau Business",
-   "published": "2026-10-11T12:09:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Record",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f96bd51d59c8",
-   "title": "Ecommerce firms sell goods worth Rs 24k Cr in first two days of festive sales: Redseer",
-   "url": "https://yourstory.com/2026/10/ecomm-firms-goods-worth-rs-24k-cr-first-two-days-festive-sales-redseer",
-   "source": "YourStory",
-   "published": "2026-10-11T12:05:51+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Ecommerce",
-   "amount": "Rs24,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs24,000 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "37934860e09c",
    "title": "Zetwerk raises fresh issue size to Rs 2,830 Cr, OFS component up 49% in RHP",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDZ5V2x5OGROQ204TVVCNThQVlBkZldZN2o3TGhCOXhOOUh4MVlQdmx2WV9aVmtDZ3ctck9IQjNqMjVkUUdVYW83X1A2QWNSa1drTnVtSzZuc2ZKdm14ZGZNMjlZbkxOMUlwc183UGxIRTFZVXU2dUdQblpPTmx1T0RoX2V4WGxKc0dyWnVuYm8yTkVFYkJQdThZUG1SWWp1c08zNm1aNmNOXzTSAasBQVVfeXFMT0w2eVdseThkTkNtOE1VQjU4UFZQZGZXWTdqN0xoQjl4TjlIeDFZUHZsdllfWlZrQ2d3LXJPSEIzajI1ZFFHVWFvN19QNkFjUmtXa051bUs2bnNmSnZteGRmTTI5WW5MTjFJcHNfN1BsSEUxWVV1NnVHUG5aT05sdU9EaF9leFhsSnNHclp1bmJvMk5FRWJCUHU4WVBtUllqdXNPMzZtWjZjTl80?oc=5",
@@ -5721,23 +5893,6 @@
     "Rs2,830 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "8fcf4cc32f87",
-   "title": "Strengthening India\u2019s Space Sovereignty",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekFocy1TVjNIaHhMUFR6bWc5ZE9rc2huWmxLSFhTVkVWa0x1WnBmRFdkZWlWb1JlV0lDNEdkQ0NHQ0NCblNxN2hPaWt6R09oU0VpazVabVpsdzEyOEJ1ajRYNmsyYTRxOXRtOE1uUTU5Z3VYRjJ4Rg?oc=5",
-   "source": "PIB",
-   "published": "2026-10-11T11:31:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Strengthening India\u2019s Space Sovereignty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "f3feb43e5cf7",
@@ -5793,112 +5948,6 @@
     "604 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "235dd6785752",
-   "title": "India's quick commerce growth set to accelerate, food delivery to remain steady: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/indias-quick-commerce-growth-set-to-accelerate-food-delivery-to-remain-steady-report/articleshow/134868720.cms",
-   "source": "ET Tech",
-   "published": "2026-10-11T10:29:03+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b841bfd22e1c",
-   "title": "Pope Leo Says Will Have Surgery to Remove Lung Nodule",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZExQY2hoamRPS0pORlE2c0hPUTAzbE5zakJqM0JraF9Pd1Q4X1I2cmd6NGMyVGQxYVRLQ3NPYnNTNC1kNHVBWjFVX2l2WXNhZ3c4U2JNWlVxb2t2MG9fZHE3Y0lzZDQzTmZIbHJNb1RDYl9EeGlrRmljNjFfbHRGWk9pOXhrNmM1cjYwS0xsQWlOaF91dDNuSElUc2l5XzdMbGhNR2J0dw?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-11T10:27:16+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Pope Leo Says Will Have",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e38a809edaef",
-   "title": "Ecommerce firms sell goods worth Rs 24,000 crore in first two days of festive sales: Redseer",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer/articleshow/134868694.cms",
-   "source": "ET Tech",
-   "published": "2026-10-11T10:21:09+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Ecommerce",
-   "amount": "Rs24,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs24,000 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "32c30db4cd61",
-   "title": "India's tech push: five things to know",
-   "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-push-five-things-to-know/articleshow/134868670.cms",
-   "source": "ET Tech",
-   "published": "2026-10-11T10:17:21+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "",
-   "amount": "$133 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$133 billion",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a9e2d8538623",
-   "title": "Google faces backlash against India data centre",
-   "url": "https://economictimes.indiatimes.com/tech/technology/google-faces-backlash-against-india-data-centre/articleshow/134868659.cms",
-   "source": "ET Tech",
-   "published": "2026-10-11T10:14:45+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Google",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8fb575e78405",
-   "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
-   "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
-   "source": "YourStory",
-   "published": "2026-10-11T06:16:34+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "TechSparks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "4e95e1dde69e",
@@ -7106,40 +7155,6 @@
    "score": 65,
    "category": "funding",
    "company": "Late Stage",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5cbf01681ca6",
-   "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms",
-   "source": "ET Tech",
-   "published": "2026-10-07T19:03:07+00:00",
-   "score": 70,
-   "category": "launch",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f25213b78ce4",
-   "title": "Raj startups find new investors after on-spot funding at TiE SmashUp",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHFFRmZybFZwRWlhS25pNGtUb0lVT0tZQW40MWw4bFRfOE1lN3N3azlXR2w5Z1pxS24ydGc2ZnBFQmw5MEpIeDRCN1pFc2lkWktUdHR6bVBMSms5OHVPeV84UTVlckUwZzJsTmR1TElUZnRtTkFGclUxUllRWjI4UWRZNmxoY05IT0tXQWllLUdUYVZfRXlhOWJyYVBsb3pJN01QMThCdEQxYXNKZl9LOUxLTHl3ZUMzTXAwQWJDYlpMMElBdWhKYUNLNHhTZ3RyRlJELVVMdC1XUdIB3wFBVV95cUxNSVJiWm1mYjFrSE5TRlVpZ2dobHZFTVE3OEFHaFM4TU9HendLZFlZS2tLTUkwUFI4YXBRc1hsU3RmZ2h0b2tLdDNxcGttOWFRYm9Udmp3TXpUVm84WTZZMzVDQk5OVU5aZGtkNDBCak1MSWFScnpVQkoxbGVuREUwcUNsVW5GSEg3MHlQREhZdkxXLUdvV2xTOU8xSk8yNVQ3R09ScXFjR1R4bnRjRGQ4OGFXeUxIYUtHa0NUeXpZOGREbllJejZnMmF4dkpacE03ZG9jMFA1REFSajhfdW9F?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-07T17:08:00+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Raj",
    "amount": "",
    "stage": "",
    "founders": [],

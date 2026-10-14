@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-10-13T22:52:21.152046+00:00",
+ "generated_at": "2026-10-14T01:27:16.661431+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 9,
-  "alerted": 1
+  "fetched": 5,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "8cb05647c471",
+   "title": "Zoho\u2019s pay freeze signals broader AI-led pressures for India\u2019s software industry",
+   "url": "https://www.livemint.com/companies/news/zoho-freshworks-ai-impact-on-saas-companies-11791894032225.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-14T00:36:21+00:00",
+   "score": 55,
+   "category": "launch",
+   "company": "Zoho\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d9dd0bb0455e",
+   "title": "Hyundai Motor Group Announces $15.5 Billion India Investment by 2032 \u2013 Bigger Manufacturing, EVs and R&D Push",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFZqYlJHQ3I2cVRRLWJrTHZzZjdMYTRWdElpbnlhOTdlcDJpTFZqdm8wOXlMcGxzNDdUMWNRTE5TY0VkN0x5NFg3SDRjYmRraVVKZDhZMFFBd095M2ZPa01DczdWMU9jSUtDdWtXRWRZSWJtRU9leGlTdy05dVFhUQ?oc=5",
+   "source": "Autopunditz",
+   "published": "2026-10-13T22:52:01+00:00",
+   "score": 71,
+   "category": "product",
+   "company": "Hyundai Motor Group",
+   "amount": "$15.5 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "$15.5 Billion"
+   ],
+   "alerted": true
+  },
   {
    "id": "eb03ad62bbfa",
    "title": "[Update] Blume, Speciale Invest & 11 Other AIFs Selected For Deploying \u20b97,131 Cr Under RDI Fund",
@@ -6110,24 +6145,6 @@
    "alerted": false
   },
   {
-   "id": "0ea360d2fd4a",
-   "title": "SK Finance\u2019s early backers eye part exits to Neo, Kenro in \u20b9400 crore deal",
-   "url": "https://www.livemint.com/companies/news/sk-finance-neo-kenro-capital-stake-sale-11791429483423.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-08T08:00:31+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "SK Finance\u2019s",
-   "amount": "\u20b9400 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9400 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1bfe743c663d",
    "title": "India, Swiss Launch Research Framework To Boost Varsity Ties",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWkxMWdhemxFZEZ5TVRWVzdUNEtLRlRlM2piTVpMNG8xYUktRmRyYmszeGp3RVBnaWQ2V2t0Z0pTTjBLVzBzSE1UazdsdW5peUxfa3prZ0RtRk4yTGtoV2lKZHhzQzVyaGJPVzE1WDRSLTcwQWRJNmV6dkkwaFJiSU5KUG14S3Q1TTBlaE9CeXJKUkFMOW9oSU9lR2x3RTFvNUFibw?oc=5",
@@ -6143,23 +6160,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8935b3bb6752",
-   "title": "Astrophel Aerospace Wants to Bring an Assembly-Line Mindset to Rockets",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZU9WTUE3TEp3dmZIN1VGNmNxVTJyMFZQNGJsWTVpdW1HNjU0TFJvS3JsNHZsdXB0WEVCeDQ3Vmc2ZnFPUTNVT2pJcG5NRmhUTC04aEZIclFvcV9hUUFaLW5aUllYWjNzUl9mR0ZsNFkzWllQdzVxbThCSmF2TlFvbjNfSlZmRTBMRnB1WDZwRUVkOU1idjcyWlpB?oc=5",
-   "source": "SME Futures",
-   "published": "2026-10-08T07:46:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Astrophel Aerospace Wants",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a95c29dc58e9",

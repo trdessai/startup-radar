@@ -1,12 +1,244 @@
 {
- "generated_at": "2026-10-15T15:44:48.067647+00:00",
+ "generated_at": "2026-10-15T19:23:44.432378+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 49,
-  "fresh": 33,
-  "alerted": 8
+  "fetched": 19,
+  "fresh": 16,
+  "alerted": 7
  },
  "items": [
+  {
+   "id": "50b4bcfdcc6b",
+   "title": "Origin Bags $20 Mn To Build Autonomous Construction Robots",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDh1aURUa0dhbDlHeDVyT2owT1paM253djNmTnB4bzBGajc2NURweW1DUzZwdlpDQzVZTmpZOF80MFRaamRnWktwWlMyd0dsem9BU2J5MER5V0RhZ0RXQkp3dGZZRnB2TncyXzZDUXV4WUtEcFIxNHhsX3RZNTh4TGNJcV93X01T?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-15T19:15:59+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Origin",
+   "amount": "$20 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b8930ff80ee9",
+   "title": "Prosus Ventures leads $1.5 million funding in space startup Cosmochute",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSzVBVlFxQmJweXRpamFXNkZmNXcyLTJrSDhFcFNYNEplQjBwbkpaUTBzemswWTY2bE05QmFKOWFUNFZMRVBZSGphMmJtX1Ztdzd1dEY0M08zWkNTNlNsbE5EZS1FNHFCRzhWUjF1TWlrQmc4M1hvbFlNVGNqWWhZcHJERms2VmxLVTROZ0JoYjVWRl9hUEh3SThYUXNwZHNwX3lOeUVUcmZoX1JOcDh2cjBMQmdURWpid0VwSUhCdFNwUThRSTNuQUlJazc2TWFnaXlvcWNDcHNCZ9IB2gFBVV95cUxOSzVBVlFxQmJweXRpamFXNkZmNXcyLTJrSDhFcFNYNEplQjBwbkpaUTBzemswWTY2bE05QmFKOWFUNFZMRVBZSGphMmJtX1Ztdzd1dEY0M08zWkNTNlNsbE5EZS1FNHFCRzhWUjF1TWlrQmc4M1hvbFlNVGNqWWhZcHJERms2VmxLVTROZ0JoYjVWRl9hUEh3SThYUXNwZHNwX3lOeUVUcmZoX1JOcDh2cjBMQmdURWpid0VwSUhCdFNwUThRSTNuQUlJazc2TWFnaXlvcWNDcHNCZw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-15T18:18:24+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Prosus Ventures",
+   "amount": "$1.5 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.5 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8f03e40d672f",
+   "title": "Nvidia, Apple each gave $25 million for Trump's ballroom: Washington Post",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-apple-each-gave-25-million-for-trumps-ballroom-washington-post/articleshow/134974635.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T18:18:14+00:00",
+   "score": 70,
+   "category": "product",
+   "company": "Nvidia Apple",
+   "amount": "$25 million",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Charles Ergen",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "product",
+    "$25 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "af5fa7b855f3",
+   "title": "Amazon launches two new portable AI listening devices",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-launches-two-new-portable-ai-listening-devices/articleshow/134973760.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T17:44:09+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4fdc969dc8a9",
+   "title": "CNN signs multi-year AI partnership with Google",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cnn-signs-multi-year-ai-partnership-with-google/articleshow/134973561.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T17:33:20+00:00",
+   "score": 55,
+   "category": "acquisition",
+   "company": "CNN",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "David Ellison",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "acquisition"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f06bdb65aeaa",
+   "title": "CoreWeave's slump puts spotlight on debt behind AI boom",
+   "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-slump-puts-spotlight-on-debt-behind-ai-boom/articleshow/134973449.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T17:31:53+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "CoreWeave's",
+   "amount": "$50 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$50 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1adfbbe31516",
+   "title": "Construction-robot startup Origin raises $20 mn to automate interior work",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRi1WaW0xZU8tX1RUVW5IRTdWUS00U1MzLWlRcGxvemFVWHVEZ0RsZE9ZWjgxeEhWVVVEdS00ZjFLLTBVODhHVXhKNDZzUWZxUGE0dnJnT25Vd19PMldVQlZTUm9wUHV3R01pMHdyTnRxcEQxLUI5VjA0MFltMV9tMTBQcThPVER0N0F6eDJtNTVCVS11WXExUDBLQ2RyUUgwWHlpdXF6WkE5LUZtbFlDNVEyeGp3blpURzdfV0N4STVCLWNEbFY5UzBjOUxoc3cxV0pUZktkRXZDM1g0d3ZB0gHkAUFVX3lxTFA1aDZNckwzWDBwcF9yTzRHQUFSdVNYME1obERFZ1hlSnhnOUF6R2lxVTZqT2RhS09Uc0ZHVHFlbmZ2cXlhajJOUVFKMkxrOWVHLXV0NXJvbDRoeXFWTENQMXJucVpwWFVUM3pqbGlwd0ZweEFaTEZBZjhJR2lsWkhvQnZ5VG0yaXFCZGJDeWU2ZVVoSzRRamdweHR0eENtNjhENHV6bjNYSHZtV1BZM21xT0JZRjdnZkxzb05FZVRWNGFxbm9tZEI2QTl4dmJZN0lPTW9KNm4zRVBVUDNFajZYQ1J2Ng?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-15T17:19:44+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Construction-robot",
+   "amount": "$20 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c69333bef53d",
+   "title": "Air India CEO Tewolde Gebremariam sets up committee to explore cost cuts, team mergers and lower office lease expenses",
+   "url": "https://www.livemint.com/companies/news/air-india-ceo-tewolde-gebremariam-sets-up-committee-to-explore-cost-cuts-team-mergers-and-lower-office-lease-expenses-11792078317436.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-15T16:58:45+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Air India CEO Tewolde Gebremariam",
+   "amount": "\u20b922,238.23 crore",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Tewolde Gebremariam",
+     "handle": null
+    },
+    {
+     "name": "Air India",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "\u20b922,238.23 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dacbe136b3d5",
+   "title": "5 Kristin Hannah lessons on the complexities of womanhood",
+   "url": "https://yourstory.com/2026/10/kristin-hannah-lessons",
+   "source": "YourStory",
+   "published": "2026-10-15T16:39:28+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8432984146af",
+   "title": "5 Non-fiction books you must read before 2026 ends",
+   "url": "https://yourstory.com/2026/10/non-fiction-books",
+   "source": "YourStory",
+   "published": "2026-10-15T16:29:25+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f69ebe03cc41",
+   "title": "TechSparks 2026 grand finale: Intel, Jhunjhunwala, Food Pharmer on India\u2019s rise",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-grand-finale-jhunjhunwala-food-pharmer",
+   "source": "YourStory",
+   "published": "2026-10-15T16:14:07+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "TechSparks",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e72ecc0d8d25",
+   "title": "Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1WYXVNTWxoVGU4SEgyTEV4TFBqTDEtVzdyRDFJQjRQVnNNNUlhNFpuSzVrU21KUGllaDR6T0ZiaXYtWTdMRHplRHlMNUZwaDl3d0hWVVp5ZUxDYzd4MUd3dnZkcE5xUHVRX0stR29zbFFKSkpOcFAxcGNyYXo2VW1zQkJLQURtbHBIUzNPdnpaS3dqaUNsVDdBTDdmSWY1djVwdEItNXpjUXctY01ITHlB0gGyAUFVX3lxTE5BTVZhdU1NbGhUZThISDJMRXhMUGpMMS1XN3JEMUlCNFBWc001SWE0Wm5LNWtTbUpQaWVoNHpPRmJpdi1ZN0xEemVEeUw1RnBoOXd3SFZVWnllTENjN3gxR3d2dmRwTnFQdVFfSy1Hb3NsUUpKSk5wUDFwY3JhejZVbXNCQktBRG1scEhTM092elpLd2ppQ2xUN0FMN2ZJZjV2NXB0Qi01emNRdy1jTUhMeUE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-15T16:00:01+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Construction",
+   "amount": "$20 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "dc72e29b9d65",
    "title": "The Foundery Opens Applications for Cohort 2, Targets Building the Next Generation of Indian Consumer Brands",
@@ -5332,92 +5564,6 @@
    "alerted": true
   },
   {
-   "id": "506d0bab8a20",
-   "title": "'I look to China as gurus': Zoho's Sridhar Vembu",
-   "url": "https://yourstory.com/2026/10/i-look-to-china-as-gurus-zohos-sridhar-vembu",
-   "source": "YourStory",
-   "published": "2026-10-13T09:12:47+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "I",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5fde9c59805f",
-   "title": "FSSAI Eyes Tighter Quick Commerce Rules For Expiry Dates, Food Labelling",
-   "url": "https://inc42.com/buzz/fssai-eyes-tighter-quick-commerce-rules-for-expiry-dates-food-labelling/",
-   "source": "Inc42",
-   "published": "2026-10-13T09:08:39+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "FSSAI Eyes Tighter Quick Commerce",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f368f468ffa7",
-   "title": "Dognosis is training dogs and software to sniff out cancer risk",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpOUlRuOE12MXkyQXI4TWlvNGFpMkkwaVZ3Qzl0bkM3TlVBcmRKLW1rRVpSU1JkcUZRTHhWYWxPb2VlaGExSjl0V3NhT2pxbXRwMVdJTER6T1ctNWllNnlJV3N3TzNkZ1R0X3BMWnBmZ1VmZ1RCT211QjZ2WG85S0c3NVpvS3VabjZYVg?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-10-13T09:00:42+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dognosis",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ef10e2c17549",
-   "title": "Red Balloon Aerospace aims to build India\u2019s near-space infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhaVWl6OUxJQU1BRktZZjU0THhjcndMRWd6SzZUV0NFS0F3bDdzZU1ranJ3QXNlRURhd2ZleUlfdXNjS0txWWpNZUFLb1RUcGx2Q3pDNXVxWDNNWWNaMnhzYXdvZFpwWWJJREVZTW1GMkU2NC12TmxBWE1zUC02QmVVeGNDXy1QQ1pRbw?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-10-13T09:00:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Red Balloon Aerospace",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "403efa2fbe79",
-   "title": "This startup's electric farm machine can help ease India\u2019s labour shortage",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkJwY2xZMnJuRTd4WkVNQ2R1TTY5bFpSRkc0VmJsdUNxN1pQSkkyUko5cncyenhhTVFQcVoyTndCRFRnYUFZQlRqYk0tdjZKMU5Sak5vbTZPWkxLWkJlM1BLd3pKOHZiSGYyWFpkT0VnQUcwNDVEX1Q0LU85OEJKblBJbFlnc0Rvb2c?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-10-13T09:00:00+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "27ba153af4a3",
    "title": "Nandan Nilekani-backed F2A Raises \u20b93,000 Cr for AI, Deeptech Fund",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDBqZ0pOYXR2OTFJMlNzLVNJbW5NV0ozVVM3MWJaOEstZlJpZkgxQWNjbi0tNDdYYm5GeUtlTThBcC1WNjVKOWlvTHA3Ymp1b01rTW8tdUExdDloTlplajdnT1RXeTdib3BibUdzWDd3ZjNaZzE3S285OFZJdE9qLWNSUG5yb1c1elNUQ1RUak8xMGc1UGdiY2hMTXNaSTUzRVg3OXAzYVpjQnE4Z1dyT010elFvQdIBuwFBVV95cUxQbTlzTEVwUWtiWDR4ZTFaVHlkYmdiSW5wcWdvekRJRndVdDdWWW9DdnZmaGo3QkNmRUhLa2k4bmdSbEFOakMtTHZZVGNhdEFHY0tuZFpPSTNiMmZrOTE5clpHNWhjcGNrMmZ3VzQwdk43dDQ0UHJ1akxRSW5weVRGdGJLM25MbFZfMVowdlBaalNaZGRnTHNHWm5JT2FHbEdLX0l0SDA5Zm5EeV9neWhyd2MwZ1ZFUk5tcmNN?oc=5",
@@ -5436,74 +5582,6 @@
    "alerted": true
   },
   {
-   "id": "e5c465c8e30d",
-   "title": "US, India must deepen cooperation on AI, semiconductors for shared security: Gina Raimondo",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-india-must-deepen-cooperation-on-ai-semiconductors-for-shared-security-gina-raimondo/articleshow/134912781.cms",
-   "source": "ET Tech",
-   "published": "2026-10-13T08:46:17+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "US India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bf21449c92f4",
-   "title": "India postpones UPI payment fee rollout until after Diwali",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRG9hZEVxRC1QdHJkZGlSMW1jZV9Fa29VWnp5aWV0eDg2ckVIcGcyN0trZF9qU1ptR1h2OS1NdkdXdUpMalVOWTh2TEJGYWJzWVd5RllrdjdwUkM1SU9fVTMwaFpOV1l3N1hsQUJIanI1akMyNGxlRHRESVoyMWhKdzFlRWx6U0Z5Z1HSAZIBQVVfeXFMT3R5Y2thRFhJaGVzSjFwaVlLaU1VcVN1Zm9YTTVaczVKRGwyV3NyLWtQdXJiZnRfYUVlUWxkWXdUbWNuYWtMaUw3UVN5YjhjSUxVY05kRWNiWnZzOW5vNzFZSUZYWjhlM1M5a0hBMURwMXJaMjVaZEp3clFicGoyZFc2R0JJc044TDJaeFB6bEpNc0E?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-13T08:45:08+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5cda4d873fc7",
-   "title": "Meta Says Blink Digital Allowed Scam, Sexual Services Ads",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEh2emxXR19QWUxJQlVyVDhLODNIWDB0N1BvN0ViUVdmVDJ1cnEzTGFtN2dTdU0zODl4YmxJOUs1REstVFMzTUtaMFJ5aU5FcmVJRGFsWVJRTzFvdmR2UkFiR25WSU5hSlZZdl9BZXRIX1ZEb0lCVF9jeUhyWGZ5TUZiQmI?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-13T08:41:49+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Meta Says Blink Digital Allowed",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0b2f95257b07",
-   "title": "Turkey bans social media for under-15s, restricts infinite scrolling, ads and algorithms for teenagers",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3J4bW9vbkFZWDhreGo3Rk0yaGNYcHh2S1ZzRkJjekpYRkZBZlF2WHVtd05DMXRnUFFoNU1tMTVfUWpfNFY4VlMzN29aM3BhdEprblVTUG5hWU5DSFdubjlKaVE1M2sxWmlkNTBKSDAzN3ktaGxPdW1aNnI3M0dhM280QQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-13T08:36:21+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Turkey",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "940e27465a59",
    "title": "Fundamentum\u2019s AI Platform F2A bags $315 mn, raises target on strong demand",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlQ0Qld6Z3I3dlhwVUFBWUY5OU5ORGhhTWdJdzlvelJMMTZYUVNrTGRpMFJvY2FsX0VUX2owakpEa0J4ckRta1hkZVctYTYyZHpjUmFELWFvQ3NTamt2TGpEXzlnb3BZSzBwSG5hX1JIbTVuWHZmMG5Jb0pqQkoyOTRPbXcwbUg1U29CQmtUSXBCMm9BcFltTENJdlXSAaQBQVVfeXFMTjFYUW9pcFJ0NjIyRktqb3E1d3E2YkJMRk5UTDZJeF9GcExhNTE3UVhaYjFaQnktMmxma29lcllOSFN5UXNnNHQtWkpETVQtXzQ4eWtIdUcyODBJaUZrMXgzOWRyZzVxWFMxSXRVTmltaEhtN3VfOXFzUzNIcjhSUFd5eDlraHdqWmhwZTg1RmEtSFZ0UmhtUWpNaVpjU2ZXbl9kQjU?oc=5",
@@ -5520,46 +5598,6 @@
     "$315 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "26d31534e21b",
-   "title": "Singapore-listed CapitaLand India Trust puts Pune IT Park on the block",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmNlZzdvY084bTdXcW11T1B5UVQ5cGhpb3N5VWtoZkU5VU5JWS1CLUdnNTE1U0NrUThDY0F4U1ktZ1hpNUlpeHo1MmNaSG9NN2oxSWNsLXBwMm9ycnh0dW41WllfcXE2SkI2dmRJQThaRGpTTjlKTEZMQjlQSEtVZW90U0Z0a2gzSjJpekJCZ05GOEFqNWc5QjZR0gGiAUFVX3lxTE9TNmNJZEJEUS1hVmM1NURvRk1xQ3NyTWxoWmFrQTEwYTJrLUlBQTJENFNUZVEyUndJSlJkQzZfa1dhZS1nMHBncGExajFwQkdTaWJ0OWtTTGV2QUpXYkJaZXNEMXI4aEVha2R0dkU2ZWltYTdyTU9nMnVpb283M0g4YXVFR1p3QlpZTERPNUxzVDRoOUctTGdaRkFIVU04Z05GZw?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-13T08:35:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Singapore-listed CapitaLand India Trust",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1fe3d3d09f55",
-   "title": "Fundamentum Frontier Advisors Marks First Close Of \u20b93,000 Cr Deeptech-Focused Fund",
-   "url": "https://inc42.com/buzz/fundamentum-frontier-advisors-marks-first-close-of-%e2%82%b93000-cr-deeptech-focused-fund/",
-   "source": "Inc42",
-   "published": "2026-10-13T08:30:49+00:00",
-   "score": 47,
-   "category": "other",
-   "company": "Fundamentum Frontier Advisors Marks First",
-   "amount": "\u20b93,000 Cr",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ashish Kumar\u2019s VC",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "\u20b93,000 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "8efb2e50ae4d",
@@ -7157,24 +7195,6 @@
    "reasons": [
     "funding in headline",
     "$1.9 Billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "baad7b82bb8f",
-   "title": "Immigration, skilled talent mobility distinct: Nasscom as US suspends IT firms from green card programme",
-   "url": "https://economictimes.indiatimes.com/tech/information-tech/employees-transitioning-from-h-1b-to-permanent-residency-via-perm-relatively-limited-nasscom/articleshow/134798504.cms",
-   "source": "ET Tech",
-   "published": "2026-10-08T18:10:49+00:00",
-   "score": 65,
-   "category": "product",
-   "company": "Immigration",
-   "amount": "$300 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product",
-    "$300 billion"
    ],
    "alerted": true
   }

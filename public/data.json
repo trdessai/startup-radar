@@ -1,12 +1,821 @@
 {
- "generated_at": "2026-10-15T06:21:40.266219+00:00",
+ "generated_at": "2026-10-15T11:46:32.040119+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 48,
-  "fresh": 37,
-  "alerted": 11
+  "fetched": 70,
+  "fresh": 52,
+  "alerted": 14
  },
  "items": [
+  {
+   "id": "6789be6ec0ad",
+   "title": "Karnataka Bank unveils \u2018Nava Dhamaka 2026\u2019 \u2013 Enhancing banking experience",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWkZKb0ZBdlF2a3dCWEVGRzVIQ2lTUWFKa3E4YjhUTmFMd3pRUE9XU3NxNThPdGo2Q3dPZzZ3akxPdFBJYzM0clNWaG4zMTFXSHpnR0tVVXYyRHdrdTBqOHZpUGFyUTlia1N3OXhicnZTX0RYYkpj?oc=5",
+   "source": "Daijiworld",
+   "published": "2026-10-15T11:26:34+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Karnataka Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "700d45322d4c",
+   "title": "Akash Ambani says Jio carries 60% of India's data traffic ahead of IPO, eyes major chunk of $1.4 tn digital economy",
+   "url": "https://www.livemint.com/companies/news/akash-ambani-says-jio-carries-60-of-indias-data-traffic-ahead-of-ipo-eyes-major-chunk-of-1-4-tn-digital-economy-11792062642247.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-15T11:24:45+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Akash Ambani",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dcf2a74b733e",
+   "title": "India can build any technology, says Prof. Ashok Jhunjhunwala; calls for backing startup risk-takers",
+   "url": "https://yourstory.com/2026/10/india-can-build-anything-says-prof-ashok-jhunjhunwala",
+   "source": "YourStory",
+   "published": "2026-10-15T11:17:16+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "41f9b93d1cba",
+   "title": "MEA admits India lacks a stand-alone tech diplomacy document",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODNWbHBJYnFKM0VpYXhEZWt6X2ZCbTBXZTRIQzlSS01JRXdsaHQyX2Jodkp2aGFWZkZzcW5GMVBTYzJfT3JFbW8zZ3E1VE1GWFpQUlhDMlZJY1JzYjczWFFKWTNrQmNXRFg3X2lUNnFrMG1CVWJUc2pYS1NfeUhvU0xoUGRPOFBncDR5VA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-15T11:08:01+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "MEA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6df5bfc678ef",
+   "title": "Wipro Q2 Results: Net profit declines marginally to Rs 3,201 crore, but revenue rises 9% YoY",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q2-results-net-profit-declines-2-yoy-to-rs-3201-crore-but-revenue-rises-9/articleshow/134965842.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T10:44:57+00:00",
+   "score": 25,
+   "category": "expansion",
+   "company": "Wipro Q2 Results: Net",
+   "amount": "Rs24,752.7 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion",
+    "Rs24,752.7 crore",
+    "markets story"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bcd19a455ed0",
+   "title": "Formial Labs Raises Rs 2.88 Cr In Pre-Seed Funding Led By Zeropearl VC",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzAtSFQ0RnlGRld3N0tKZ2FjWVN1cWVoa2pOeWhrb2JrMC1HNThFbUVUSG9Edm80S3ZkLTJzVzhGV1JQSFhrbnlQbUtJdHdJdlVHME9lVDRwOWdua1ZITmthVGtrMW16Si1pVk92NjlwcnNYX240bTQ1Q1pqeWF3R3BhSWtZRnV2bnNfWktILVFsUmlLM3BveUV2cTNra08yMzh3c1dDcVdyYUZjdW5Rdw?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-10-15T10:39:09+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Formial Labs",
+   "amount": "Rs2.88 Cr",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs2.88 Cr",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "29e9d87937fb",
+   "title": "Myntra swings to net loss of Rs 579 crore in FY26, revenue drops 13%",
+   "url": "https://economictimes.indiatimes.com/tech/technology/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13/articleshow/134965022.cms",
+   "source": "ET Tech",
+   "published": "2026-10-15T10:39:04+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Myntra",
+   "amount": "Rs579 crore",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Nandita Sinha",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "Rs579 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3ab5e27d915e",
+   "title": "Air India\u2019s new CEO tightens spending as losses mount",
+   "url": "https://www.livemint.com/companies/news/air-india-s-new-ceo-tightens-spending-as-losses-mount-11792056057446.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-15T10:36:43+00:00",
+   "score": 40,
+   "category": "expansion",
+   "company": "Air India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b2c810f751c8",
+   "title": "Udaan\u2019s FY26 Revenue Rises 13% To \u20b95,134 Cr, Loss Narrows To \u20b9852 Cr",
+   "url": "https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/",
+   "source": "Inc42",
+   "published": "2026-10-15T10:23:34+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Udaan\u2019s FY26 Revenue Rises",
+   "amount": "\u20b95,134 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b95,134 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f701d84004d0",
+   "title": "AI \u2018kiss and hug\u2019 app rated for ages 3+ still on Play Store as NCPCR summons Google",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVUphRG5oMXV1dnBIZUllcllsMGc3X2NGdzV0VldKTWtDbGp0blMtUVlVN3VyMU1yUWRna1hDNnhzRTloQ3FiSmZKcDltRmI1eGJuVXdDRzVqT2xGWUF6ZU54Z2VFeUx2b1B6M18yd19HNEk1bWw0SnEtVml2Xzg?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-15T10:16:14+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c4d50c8ae771",
+   "title": "Fairfax Proposes To Transfer Go Digit Stake To IDBI Bank",
+   "url": "https://inc42.com/buzz/fairfax-proposes-to-transfer-go-digit-stake-to-idbi-bank/",
+   "source": "Inc42",
+   "published": "2026-10-15T09:57:52+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Fairfax Proposes To Transfer Go",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d8b598509d26",
+   "title": "Groww says Rs 300 UPI MDR cap is not affordable",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemZSbkctUURwR0liaFNSZ08teTFvblRSb25ZYjZaVWFXMDFLb0thRXlPd3JhN1BpbEVjLVNQZE5qLU5YTnZNejFmSGtmRXZmM21aUENYV2FjaFAzbXVLZHBZeFVuSmNaTDJJSG1fQ3BQUHdCTnI2ZXlyakI2WUdMVGc4VExlLU9F?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-15T09:54:27+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Groww",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "04068da537d0",
+   "title": "{Funding Alert} Banarasi Food Brand Banaraswala Secures $2 Mn in Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVRsbVI4ZTFSYmluQmFXOEJmbE5yWi0wNXNaTERtNUtCeXJGU0Y3TkRUWlI1eElGNllsd0MtaDBIalI2eFRtOWptWndobllYbm1Od2hHT3VMV0pQc3RsdW45alcyODZQb3NUTm12aDA3bVROZ29IT2pZcjJjV1BQaVNKcGlHdTlPUGVTNlF2QV82N3BNaEVsRFFGa0lYQTU3NXY5MjU1eDVPdm8?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-10-15T09:48:11+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "",
+   "amount": "$2 Mn",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 Mn",
+    "Seed",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "deaf4869f425",
+   "title": "SC quashes police demand for Abhishek Upadhyay\u2019s X data",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JTHd6N3I0ejZkSi1WeVNQVjRqZDBxV09YUWlUdGtTTC1Sc1B4dXZMdE53SDRGQi1fUDFSaDVVa3VrbG5QRGFXLVY0TTJ3VzdLaGJWeWt5VE9SM2ZUUm1KbERvSVAwZmRYVGNtZVRzMHh4MzFOM3lGeWFzNA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-15T09:45:34+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "SC",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cb92aede09d5",
+   "title": "Centre Directs Telcos To Display Caller Names From November 1",
+   "url": "https://inc42.com/buzz/centre-directs-telcos-to-display-caller-names-from-november-1/",
+   "source": "Inc42",
+   "published": "2026-10-15T09:44:54+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Centre Directs Telcos To Display",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8e8bf86044d0",
+   "title": "Osto Launches AI-Native Cybersecurity Platform for Startups",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTZjaW9jamV6Qlc4TjFPTnk2YXN2UTFRNXV0cmFxVUdWUjloM3pMUVhYR2N5SVpEVVppWFBrZDhubVFpaFEwN0x5cG55c1FCYnVZcWlORnlGMXMxWGdYVTN2RmZJVllQZ1p5RWdBMWlDdGtzU1lhRTNMc1U2YUk0Ri1ET1ZreTYxRUJ5RldWU2tXMnVKY0kzWFdLb2c0TmN0dWlONENMdDIxSHFjLWhKdzNjN01fMzJoVjBXT0JBWVh4VFJGWkRRNzUwZGw?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-10-15T09:44:37+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Osto",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cc6ce5692002",
+   "title": "What the $3.2B IPO filing by Jio reveals about debt, growth, risks",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lWWc5OU1TLWw5VGtzTk9mNnNIT1Z3Mnloc0lDQmJjWVRpeVlON1JDNFRxOFZsY19lMUpPMG0yaHZCWVJEYUoxZ2VwdjVYWVozYkFvVWwyaGJvUXE5THlJMTNxYTdiZUZwWDYxN0xndnFJSHRsT3hSSG5NMA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-15T09:41:49+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "What",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "379cc209d01a",
+   "title": "Google announces new AI initiatives in India across crop science, agriculture, education and small busine",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb2d5cVoyVWpzaGZuWXlkSkhNeFBGeDZVUmVtMXpFQVp1bkdDel9nYUw1cXVzanJXU2VLVXpwVlJ5Ym1LTTdaSG1NVkM2V2o5M1RRVjRYVGo2S0k3TEN4UVdRWWJXY09hVjhGSmdLMzY0Y0d0b1VzS1h5bjFaMFhWMnlWdDd2XzJ0OTRoUmpDUzY4TEdrekFuQnVTMVVmOU9Cb2xBVUFsQ1JQQ2pVTmgxUERHVlVkaGxfY3dLb0F1YVRmTmpaLXFwZ1NaZG92WkFRdXFFX1pacl94M2pWX096Vkx3bHdiMnpDckY0OE1OU0s5SGtGLUVSVHoyWmpiOUVtMnRGcHdn0gGLAkFVX3lxTFBQU3BFZjJ3U0d6MWp5TWMzWU1OdXZSQnFrNHF2eWNxUVBVMHBsTXc1bEJxbEFXWG1jN2IzZUJDcEtwbkJ3N1dlREtncWhJVnNCbjJDbzJvM3ZFYlZqWGRpQzFNdUpGT195dkpLLWxUWHd4emp2R3JpdnlOZ281cXVkVlZOS0toZ0dtSHJzMVo0T0VKQ0ZvckVJMHNUNml6RDdScHV2QkYzWG5HMl9ZTUtsTzhVQ3VrNl9WZWc2MDBQbGI1YkYzUDNGMl9FeWhQYk5FZUY2YkNJMWhlanFOMFliYUY0Q2JVQ2hKUTkyWmx3MnVjUmJEMmlsOHplVC15dXBOYVhOdElOZlNEQQ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-15T09:40:00+00:00",
+   "score": 53,
+   "category": "product",
+   "company": "Google",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9f3068e8b240",
+   "title": "Space Robotics Startup Cosmochute Raises $1.5 Million in Pre-Seed Funding",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0dDc2Rmd3VkcUV4MEtoTmMzR3d5ODFYMVpaVlhjQTg5TXpDN0FFbUEzR1VCYjRWWVFzOXIwTFdSbDl0VG1KMmFSWmx2NDZmaEgzQ3dYU1ZjS2pDVUsxUlZFbXJJRTFYY3FkUVVENjJRWXlQN0tYU2xoS25OZ3BvTklReHg3VDRiN2dlRjVXWi1wdG1fV1V4SjZ3SFphS01LclJYTGM3c2E?oc=5",
+   "source": "CXO Digitalpulse",
+   "published": "2026-10-15T09:27:48+00:00",
+   "score": 82,
+   "category": "funding",
+   "company": "Space Robotics Startup Cosmochute",
+   "amount": "$1.5 Million",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.5 Million",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "75c944a39913",
+   "title": "From failed SMS startup to Rs 3,000-crore 'InMobi' success: How Naveen Tewari built India's first unicorn...",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWUxtMkJZTy1SbUI1LUpSdklLbEFXMUZVX1hsUURsNEdsV3c2WUJYSXZ0akJCUXg1TENOZ2ZFUlc4QkNHOVFubFhWd0ZtcEVPZTc4UFNTWWxKVkdnaWx2Mkl0dG1yNGZPSEtZd21kcF9iNkpQbUl3NVVYZ19WSFRQd3VuQ1JxdHZVWHFmeDRxRVZRMGdMZlZ5dkZCSFRmdjZtUE9DM25UYWg2WHhtLTNlNHdZY0R2WUN6LUhYWTdVWXNUWjJubnEtYnFLdzBYSmlfZ1dXLTlfMmpnWFJtYUpXLTVEWHlpTFlvYjlGZXhBeVVHYVRCeHhzNzRVQTUyZFJ0TVItTzFR0gGLAkFVX3lxTE5xbUUwRTRqSVh5S1FFLTQxbnh6U0FkeDlFT3BOeEpGRS1uYlBtUEdqRGhrM1doZnRBREVBd25JUlJkV1U2Z2dIakdPNWFwR290SEt5d09hQ3pPclRxOC1sVVROY01CWnJ0SkoyZ0xtZGlQc3Y0LXljRVhyY1M1bFNNR3V1RHc3aVBZZUZnZjY0c2VtQTdVaUlWVGZ6dTN4NU5XVFY1MWtfS2ZMZEIyZ25JNTFpWjRGelkzWklCSmdHTXlqaklrSEp2b28yTDE1dmdIeHJoM2VGN1VleHpyakt0OWtRbm9vVm1KaDFYVkJNa0Y2aXA5Rnhyb1Vib29lNXVjZjhHM1hFOHB0VQ?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-10-15T09:26:35+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "507de556bb04",
+   "title": "Udaan posts Rs 5,134 Cr gross revenue and Rs 852 Cr loss in FY26",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVl0Y0R1blNZTGlRNUl0aU9hbFVmclZHdlIzZUk0VzdMZm04QVR3MXBJZXUyNlItdDhJRDhvTE00Y3JVRi0yMjliaXZVR3h1NXJrMzI2NU9HR09ZSkpNR1B2c3o1U0JfOUl3MGtmVmg3TlR3b2VEclpjWDY0R05JUXpVRGpIOEJvMnZTaXp3S0JRVEktUkY1U0llOWtIMlhJTEhMOEdB0gGmAUFVX3lxTE1pWXRjRHVuU1lMaVE1SXRpT2FsVWZyVkd2UjNlSTRXN0xmbThBVHcxcElldTI2Ui10OElEOG9MTTRjclVGLTIyOWJpdlVHeHU1cmszMjY1T0dHT1lKSk1HUHZzejVTQl85SXcwa2ZWaDdOVHdvZURyWmNYNjRHTklRelVEakg4Qm8ydlNpendLQlFUSS1SRjVTSWU5a0gyWElMSEw4R0E?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-15T09:26:12+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Udaan",
+   "amount": "Rs5,134 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs5,134 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c90c8c3cb4a",
+   "title": "How Ubiqedge Is Giving Old Industrial Machines An AIoT Upgrade",
+   "url": "https://inc42.com/startups/how-ubiqedge-is-giving-old-industrial-machines-an-aiot-upgrade/",
+   "source": "Inc42",
+   "published": "2026-10-15T09:12:22+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "How Ubiqedge Is Giving Old",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "54145a82c106",
+   "title": "How Ubiqedge\u2019s IoT Stack Is Automating Utility Assets",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEd0ZUZQbVYzTlc5Y05OZzB4Y2tiQXJFaTlqV3hhNWJVczFFdkVBV3BmdTRvV213T3Q3Ti1oQmhwdHVPbXVkWHZiVG1iV09HVlhtMUViOC1vU0VDMjF2TndFU2FjZjVpMFRFVjZHcXBDZUZVMnhBNHFqZFJRVWJYbDljbXROamVlVzhUdXZXRnY4cHlD?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-15T09:12:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "How Ubiqedge\u2019s IoT Stack Is",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fb172e8badef",
+   "title": "Enterprise AI startup Shamrock AI raises $5 million in seed funding led by Endiya Partners",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1NpQ09Ua2RlUVVrOXF2NjFqNHh1cHJHNzliNUZ3SWcyYnNSa2l5OUdvQ2psZU9WMkUzRHo3aDc3UkI0VktGSzJEa1pkdndPbnFwRmpUQ3dNRjlCVmVEYlVUZy1hUUppYUZWVHJQdXIzaUlMaW5NYXdxb25GTHNKN3JQRm9hR09wT2J4WjVoMGx2Ml9RakdkS2wzYU1TTnE3am1IZmtfOXYxNktrb2FGdWRDY0ZaT042NndiZkk5cTRQT3dkTHlOZU1WM2pUQVVFQnfSAdIBQVVfeXFMUGtTaUNPVGtkZVFVazlxdjYxajR4dXByRzc5YjVGd0lnMmJzUmtpeTlHb0NqbGVPVjJFM0R6N2g3N1JCNFZLRksyRGtaZHZ3T25xcEZqVEN3TUY5QlZlRGJVVGctYVFKaWFGVlRyUHVyM2lJTGluTWF3cW9uRkxzSjdyUEZvYUdPcE9ieFo1aDBsdjJfUWpHZEtsM2FNU05xN2ptSGZrXzl2MTZLa29hRnVkQ2NGWk9ONjZ3YmZJOXE0UE93ZEx5TmVNVjNqVEFVRUJ3?oc=5",
+   "source": "Indian Startup News",
+   "published": "2026-10-15T09:05:49+00:00",
+   "score": 86,
+   "category": "funding",
+   "company": "Enterprise AI",
+   "amount": "$5 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$5 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "53f623a5670b",
+   "title": "Amazon Now and Amazon Fresh Drive Revenue Growth as Amazon Retail Losses Widen",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHZsc0o3eWd4YVktY0JONEtUZkN5X1VOVGV0MGptbGhxZHJJSHROanBsVTVIREtNYXI1cEpnRlQxSEJHSW1ROGtQeDJfaE5mZzJ3MDlYWUhPNXpxd0o5cUw4NmQxMDFEODIwREdfcFZQRUt5RE1nSWJyNDU3QWEwRGdMS0pEZTgyU1RRNk5oOFc4NFBaUGFFU0YybGpoMDNsMUV6U2tUQi1WWWkwbWtXSQ?oc=5",
+   "source": "Indian Retailer",
+   "published": "2026-10-15T09:00:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Amazon Now",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c75e5bf35de8",
+   "title": "Zetwerk IPO Subscribed 8% On Day 1 So Far",
+   "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-8-on-day-1-so-far/",
+   "source": "Inc42",
+   "published": "2026-10-15T08:54:52+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Zetwerk IPO Subscribed",
+   "amount": "\u20b95,012.3 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b95,012.3 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e5c6290934ed",
+   "title": "India Credit Opportunities Fund II",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhVl9uTnVRMFNYUnNUaGtkOHFURjVqdDZxLUtNa2l4NUVHcWJyLXhfdDBYNEtUM2NoSFdvdW8xeWEtalNvbmVtaVpEX2Z3d1JiWkw4ckpaSGtPWVUtMEw4U29vbXpZTXRUM2p5VnV2a18?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Credit Opportunities Fund II",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9224c83fe7c5",
+   "title": "Dakshayani Healthcare Services Pvt Ltd",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ISWs2cGNWRFMwZGRmMnNReHNsNUlBQWQwNmEzQXBnbmRoVS1zSlUxZjBDWk01MmdaQVJ5NDZ4bTBJcW12X3ZLUGVWWDNLWExmYmNKV1AzZUFGbXJzOTVWQ2JxcDhkRmlxTEZjZDFsYzljazIxOHc?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dakshayani Healthcare Services Pvt Ltd",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "296142209017",
+   "title": "International Oncology Cancer Institute",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LY21JTDRpaWs2NW5icnh2NGloazdCUk1uRTZfaWdrVTJQblBzVk53MkRiT1cyOU4tZTJrZkhLcE14czNTV3RzTThQUG91Vmc4QUtaWmpvUVBrSDhQOWJOWHF0QXpfcWtJTmNjMEREdVdGOW9EZVJ3?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:22+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "International Oncology Cancer Institute",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fc316cba8ab4",
+   "title": "Accord Software Systems",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CWDFiSzJkRy11RF93NjU2ZE8zUHN0R3dTVlRJT2dyVEtiZmhOMEpFdEt1VEVmRE94bFY0RUdmLWdXMXZ6VWhiaUhuazFrTW9uNThNUFpkeV9oc05nNEJ5UE9n?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:21+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Accord Software Systems",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f9cd98840ffc",
+   "title": "Latest M Pallonji Group News | M Pallonji Group News | M Pallonji Group Funding | M Pallonji Group Fund",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQWF82YW5BZHRVYWtsR0U4eWxYbE5CYy1KVzRPZVFSMHdnMlNsOHkzZkh3b2tYTFA5ZV92bjR5VEZSblI0YmZiMDg0ZG01eFg2UllnTHRqWjI?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:20+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Latest M Pallonji Group News",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "124725c13ddf",
+   "title": "Latest Kumar Equipment News | Kumar Equipment News | Kumar Equipment Funding | Kumar Equipment Fund",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02cUR0NWU1TDF5T1JFeVJjaWk4MlRVajkzVEdRLTZGYmk2Y1pOUno4X05CUlNXSkpuMUd2TUZrTDdOVjNjS0duU1ZFMkRZdTBzTGJmY2FqUQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:20+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Latest Kumar Equipment News",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cc2e79ea8313",
+   "title": "Latest Resolute Corp News | Resolute Corp News | Resolute Corp Funding | Resolute Corp Fund",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2VTkxZk9SWjBveFlSelpiR3ppWFplX2oyc056NTNUYjZjd1VGUUpDQ2hYSE5CZTc0R2x6Mzc5TjNramVwbm1GcVR2UFJfMG1FXzhKdQ?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:20+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Latest Resolute Corp News",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5d31bd395e76",
+   "title": "Shree Anandhaas Sweets & Snacks",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Fbk1BZF9PbUFsMldkN0d3MkFETHA2YUozRGdON0ZNMUQzWVV6cTQ1Z0lrem8tdnVoRm9KcjhiVjRieVFUSjQtQmlxcFdzZy0wa3ZUcmhrM2VzU2RKT084ZS1ZNXRBUi04eVE?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:54:19+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Shree Anandhaas Sweets",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "782350cd7597",
+   "title": "How are KKR, Saudi PIF, other PE firms and wealth funds placed as Jio floats IPO?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkpqQWxOc1psb2IxbTZlZ3VISTJyZXdEdHpKTmRkaUJrTHFZb1JNaUk3ai0xM09KbUtHMERRRVIwbHhJUDJtRTdMeFA4RVdxZFVIbEVQVjhMMEdfcGNZcG1FMTBPN29xcVdqVVdJeVU5MWlCTGRvbF9ZRWxxMFZwV0stUmVKcVo3by1nOEZPNFJjZC0walAzaGtvWnlZT1duOVU2StIBrAFBVV95cUxPZjdxckxuaUZoR1N5TTJTREhpeGlxc1QzWkZGS2RRcDZBbndKWVd6ek1Yb2RtcFdoTXVGVzR3NlFUT0taU05Ha3Q0ZVZrRmFiSjA2dGdpRUN3NW4zU3FvRGw4YkRYcFVUNGFaTkotR0lLdWdCYnVMU3ljNkZBRGtIZXpNOWN2ZFdWaDhCNTdKaU9ma0RfcVRCVWZTRXJhWktJa2VVTGZ6WVpNNjQz?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:50:35+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "How",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05460c399065",
+   "title": "Karnataka Bank Launches Nava Dhamaka 2026 with 9 New Digital Solutions",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2ZHR3FqczFZcmpHMjRKVFJaeFktRHI0cDkzRm05dXdhWF82N011cWFOeUl2MW1JcGxWa0E5RGdPdFJfRGJOTWlpcy1wa0RPSWdsSmM4Rk1QV2hjZjREcFFaLV9vZVFvUjQ5SFZXNFNaQUdOMUlhSUdYTnVDNE4wWExpZVNfeVc5Q2tXaTZoY3ZuVTlHYlhnQVdkdG82S0ZKRldPRl9fNzljQQ?oc=5",
+   "source": "PSU Connect",
+   "published": "2026-10-15T08:45:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Karnataka Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4ea8754d9494",
+   "title": "Supreme Court upholds Bombay HC order quashing Yes Bank\u2019s \u20b98,415 cr AT-1 bond write-off",
+   "url": "https://www.livemint.com/companies/news/yes-bank-supreme-court-upholds-hc-order-at-1-bond-writeoff-11792042824907.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-15T08:41:38+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Supreme Court",
+   "amount": "\u20b98,415 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b98,415 cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3a5c2ca2b2d0",
+   "title": "The Death of India\u2019s Unicorn Obsession",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNU9CQWtxc2YzSjZ5V3ZocnNJMXpRdWtTTXNueXJ5eFB6SkhIUGxMaEd0WWJibEcwbnBrSjIwRTVrV1V5a0dUSjFUdDN3VmxBbjVzYlBZWnQzWGtSSG5pXzdrQ0RheXplSXNqRWlNVW9jQW8x?oc=5",
+   "source": "TechGraph",
+   "published": "2026-10-15T08:40:39+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "The Death",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "11bd95536fcd",
+   "title": "Quantum Research Lab Bengaluru: IISc, MIT Launch Facilities",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNm1BVXNLRW83WVlDYlY2dzlydHFYeVpXNmxDOEZxMTNZeDhaSUdLREhpT3BiY3V5US1xbEJ1WHpIZWpyUU5iZjRuNWE2VUN1X3dJQW5jVC1PSFh2YlpzR1RvSlhuR3d4S0ZDbmxSemxfTWd6MHZJUVNLT3ZnbjBjdllZRFJWM1ZGZEZGbXZ3Mnc5QQ?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-15T08:26:54+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Quantum Research Lab Bengaluru: IISc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ca04c24c942a",
+   "title": "Nestl\u00e9 India shares crash over 8% as commodity costs loom",
+   "url": "https://www.livemint.com/companies/company-results/nestl-india-q2-results-nestle-share-price-food-inflation-fmcg-industry-11792048060976.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-15T08:23:54+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Nestl\u00e9 India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "421bcce8b5c7",
+   "title": "Fairfax plans to fold Indian financial holdings into IDBI Bank",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzYwd0tXTzR4TnZvWGJWM2dwY0NSZFR6YjViaUJBeXU2TXFrMHdpU2d2UUwyeC1jUlpqWFA4NllrWHIxZXpXejZ5S2NXV25kZ01JT3N6RWN0Yk5YN3g2QS1oa3NKak9heHUtTkRwTnlhTHFuQ3VZTUVMYUZOTlQ5ZjhvVHVtVHNGWExkdDZsQdIBlwFBVV95cUxPMHQtVkFTaEdsbW5McnFXZnNOdVg3NlZJem1pMXlfLUhhRnBLM09kMkNlYTZiTVJCT2JucklnbE9wNmprXzVHaUNrZUhkVUc2OTB2cUFrMnA4dnhzeERXenZRbjI2U0Y2bjRIYS1xNkR5eUxPS1BaUGMzZG8zcGNieEY3VVpRVXR6c2ZXMTRDN1hORXB4ektN?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-15T08:16:18+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Fairfax",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c900b71c41c",
+   "title": "Zetwerk\u2019s strong anchor book signals global confidence",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUXBHQ1NIdGpYZXloRmRhOGdIOGFidWtXRjE1QUtYd3lwc3dYVkV2VmhYc29PUkkxODFfTVRKVDlXQkNDSUxFUjRqd1pSaURaMVg2MHJXRnVmaVIzaHdlcldWZjFxMVF2XzZJTjVxdUZNNTY3NlVzbGJIUUt4NzdXRnVNMnZjZUNYdWNZSHV3dFlDQdIBkgFBVV95cUxOUXBHQ1NIdGpYZXloRmRhOGdIOGFidWtXRjE1QUtYd3lwc3dYVkV2VmhYc29PUkkxODFfTVRKVDlXQkNDSUxFUjRqd1pSaURaMVg2MHJXRnVmaVIzaHdlcldWZjFxMVF2XzZJTjVxdUZNNTY3NlVzbGJIUUt4NzdXRnVNMnZjZUNYdWNZSHV3dFlDQQ?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-15T08:15:54+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Zetwerk\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "11473a2b947c",
+   "title": "Banaraswala raises $2 Mn from Prax Impex to expand across India",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTc4UnY4UUJFQmVETk1tQUhBeVJOb2x1NFR1OXpPTHI5ek5ldXh6U3h3bzlQczNfSHR4S2FIcUxna1J1MGQ3cGNBUWNaQjJRbWhybUg1dDBGZnJFR0RIdFRESFVKRW5ESjdRUEl1d1NPdFhlcW1qM096b05NWlZUUDhnSUxibm41RnB1YTE3eHVSYTFtUXBZMnhnUmV3VnE2WE1z0gGjAUFVX3lxTFB1NzhSdjhRQkVCZUROTW1BSEF5Uk5vbHU0VHU5ek9Mcjl6TmV1eHpTeHdvOVBzM19IdHhLYUhxTGdrUnUwZDdwY0FRY1pCMlFtaHJtSDV0MEZmckVHREh0VERIVUpFbkRKN1FQSXV3U090WGVxbWozT3pvTk1aVlRQOGdJTGJubjVGcHVhMTd4dVJhMW1RcFkyeGdSZXdWcTZYTXM?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-15T08:10:47+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Banaraswala",
+   "amount": "$2 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$2 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0db5836d2165",
+   "title": "'If I make a mistake, I'm done': Inside Food Pharmer's high-stakes shift to food startup founder",
+   "url": "https://yourstory.com/2026/10/if-i-make-a-mistake-i-am-done-how-food-pharmer-is-turning-food-activism-into-startup",
+   "source": "YourStory",
+   "published": "2026-10-15T08:02:26+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "If I",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b9f995db6153",
+   "title": "Bengaluru-based startup Formial Labs raises Rs 2.88 Cr to expand personalised prescription skincare",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREpOb2ctekxqamZxRmNLZW1hUkdRUGxLQjNFVUpPZXFwRXZqUV92emZrZ29YQTJVVnBoeWozT292Nk55REVJS2k4Q3kxUnZDQ0JFbGNvcWd4aUtxTXFKNVRqemJqX1F1ZlZUckVhV0h2TzNNcWstcEtTTjhQQlhQaWFodnlMc01xMkxXMm52MFhsZ1BrRzBWeEZEeHNMR2F1TExNM25hdDB4MWJ4VHlLRnc4QUl1Z1IxdTZaQklJdHN2ZzFaX1JlY0ZGdGFMLXluTkhXZlR4ZW52a3A3X1FMNW5LQ2Q4UQ?oc=5",
+   "source": "BioSpectrum India",
+   "published": "2026-10-15T08:00:11+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "Formial Labs",
+   "amount": "Rs2.88 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs2.88 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8e2e8688e540",
+   "title": "Confido Health Raises $12.5 Mn To Automate Healthcare Administration With AI",
+   "url": "https://inc42.com/buzz/confido-health-raises-12-5-mn-to-automate-healthcare-administration-with-ai/",
+   "source": "Inc42",
+   "published": "2026-10-15T07:58:07+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Confido Health",
+   "amount": "\u20b9119 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9119 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
   {
    "id": "04838a0dce29",
    "title": "YouTube Music AI song labels: Do they meet India\u2019s rules?",
@@ -4663,23 +5472,6 @@
    "alerted": true
   },
   {
-   "id": "1f6f3a228e60",
-   "title": "Anthropic says new safeguards sharply reduce AI distillation attacks",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks/articleshow/134906398.cms",
-   "source": "ET Tech",
-   "published": "2026-10-13T02:39:47+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a58be46232e4",
    "title": "Agentic video startup Clueso raises $10M in Series A funding round",
    "url": "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding",
@@ -4702,59 +5494,6 @@
     "Series A"
    ],
    "alerted": true
-  },
-  {
-   "id": "e04e8ff414bc",
-   "title": "Sarvam plans big fundraise; HCLTech's Q2 profit jumps",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/sarvam-plans-big-fundraise-hcltechs-q2-profit-jumps/articleshow/134905940.cms",
-   "source": "ET Tech",
-   "published": "2026-10-13T02:06:50+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Sarvam",
-   "amount": "$3 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$3 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5fb95c8ace2f",
-   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
-   "source": "YourStory",
-   "published": "2026-10-13T02:00:00+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "TechSparks",
-   "amount": "Rs5,012 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs5,012 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ea1fec80a928",
-   "title": "Welcome to TechSparks 2026! Here\u2019s all that\u2019s happening on Day 1",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-day-1-agenda-speakers-sridhar-vembu-priyank-kharge",
-   "source": "YourStory",
-   "published": "2026-10-13T01:50:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Welcome",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "a7d29fbc04c0",
@@ -4794,59 +5533,6 @@
    "alerted": true
   },
   {
-   "id": "25d4ed456d4f",
-   "title": "Venezuelan crude comeback puts Reliance\u2019s refining edge back in focus",
-   "url": "https://www.livemint.com/companies/news/venezuelan-crude-comeback-puts-reliance-s-refining-edge-back-in-focus-11791800830505.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-13T00:30:57+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Venezuelan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5e87d4e4006a",
-   "title": "DHL joins NX Group in race to build semiconductor logistics in India",
-   "url": "https://www.livemint.com/companies/news/dhl-joins-nx-group-in-race-to-build-semiconductor-logistics-in-india-11791788224057.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-13T00:30:32+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "DHL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "650fdd5c6800",
-   "title": "Qualcomm Sells Shadowfax Shares Worth \u20b9157 Cr In Bulk Deal",
-   "url": "https://inc42.com/buzz/qualcomm-sells-shadowfax-shares-worth-%e2%82%b9157-cr-in-bulk-deal/",
-   "source": "Inc42",
-   "published": "2026-10-12T20:08:23+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Qualcomm Sells Shadowfax Shares Worth",
-   "amount": "\u20b9157 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9157 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "3edb14a2afaf",
    "title": "RBL Bank expects to put most FCNR(B) funds to profitable use in 2-3 years",
    "url": "https://www.livemint.com/companies/news/rbl-bank-expects-to-put-most-fcnr-b-funds-to-profitable-use-in-2-3-years-11791814901062.html",
@@ -4864,24 +5550,6 @@
     "\u20b934,000 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "4e2dcf970c2e",
-   "title": "How young founders can secure up to Rs 1 crore under Karnataka's new DeepTech and minority schemes",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVBoeHNSTVlsbGdmbGRvQTdCQUY1azczRExFejdWUTI3bVpULUF4RGRibzFKLTVDaGlMcDMxcmtTeFNrZVdEdzh6NkhVUHJuNGFkNUk1U0FkdWVzTE1sbFNnc05CZktqM0o4MlFpUzI2Q0IxNHA0QmxJcHFfRjFabVNralZoMXRUSEVFSzNGV04xc2czd1hvVVdmVzQyMW1nWDVpSlN4QWVjWENyYU1RVTlXTWd5cl94SjY4MzNXSEhESnlRd2fSAdMBQVVfeXFMTjRwUWRiS2t1eUFqajJQTjdxMkNxUDRjWEViX29WalZ5eERxY2k3UlNXdjladHQzaHVRYTVac2xybmxjNHRGR2FlSm40U0dhUEhENW04WVR5OUZ0a010ekJlTjAwemRCdVNJRUZtY1A3eVNJcHNKWTRLNU9tODRMelFmWWh6aHZtS0VGNHlUTHkxckpHd1owS054UE1ub3lfRW9UVW1wQkV5bUZRZUItS0lIYmQtakJWMG84Ql9IOUZSQ0o2ZTdDUDl5VzI0SkVwNGMzOA?oc=5",
-   "source": "EdexLive",
-   "published": "2026-10-12T16:41:31+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "How",
-   "amount": "Rs1 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "2578dc94d23c",
@@ -4919,100 +5587,6 @@
    "alerted": true
   },
   {
-   "id": "7018266bcf2a",
-   "title": "The Zocket Story: Building Brand Brain, the context and orchestration layer for AI-native enterprise marketing",
-   "url": "https://yourstory.com/2026/10/zocket-brain-ai-native-enterprise-marketing",
-   "source": "YourStory",
-   "published": "2026-10-12T16:16:51+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "The Zocket Story: Building Brand",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c6549e677de7",
-   "title": "Qualcomm sells nearly 1% stake in Shadowfax Technologies for Rs 157 crore",
-   "url": "https://economictimes.indiatimes.com/tech/technology/qualcomm-sells-nearly-1-stake-in-shadowfax-technologies-for-rs-157-crore/articleshow/134897975.cms",
-   "source": "ET Tech",
-   "published": "2026-10-12T16:11:01+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "Qualcomm",
-   "amount": "Rs157 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs157 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ecb40c9e3886",
-   "title": "Why did Japanese chain 7-Eleven shut 31 stores in India despite its \u2018long-term\u2019 ambitions?",
-   "url": "https://www.livemint.com/companies/news/why-did-japanese-chain-7-eleven-shut-31-stores-in-india-despite-its-long-term-ambitions-11791817401033.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-12T15:38:46+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4a62cc477416",
-   "title": "Nazara Top Deck Shuffle: Founder Mittersain Steps Down As MD; Caratlane's Sacheti Takes Executive Role",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUlxQ1BIRHFDVlBHNDZTaXc2NFlrS2tWN0p5M3BnRkxTbG1rT2FhOFRyRjU4Uk9KWTI4anVobUZTNlZCM1p5X201M1VtaDdMajVOMVQ5Vko3bGtfRFU2WENSaHc0S05QSXJEU0VpQjhPS2t0bmNOekd1aG1Dd1o0dUdDa2duZHlpT3BxbWlSMkhiSEtSZ0FJRzRjOVVvaUxOYkRadmhfbXlwd1BJeVpHZ3czQ2pUWHN6bFdVN2VjS2k?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-12T15:37:51+00:00",
-   "score": 11,
-   "category": "other",
-   "company": "Nazara Top Deck Shuffle: Founder",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Mittersain Steps Down",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f2fca994b7c7",
-   "title": "Manufacturing Startup Whizzo To Raise $26 Mn From Aavishkaar Capital, Bertelsmann",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeThsYjlTRWJON2d2ODl3VVFHbldJSVI2bXpVa3VJY0ZiZG9ILWJWeU9xY1NGOEhmaDZqclNsSXRYQXlxMmMtTUFGelRZbTJqck1jcUxIeGUzcG5BZmR4NzdZSWQwZU1tOVZ4UE8tRkVraEJDdDV0M296ZkljaEdVUHdwRkd2Qnk1QTJYYS1tMW9KYlpMOVBNUDZzTVpZNm9MYllySw?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-12T15:32:18+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Manufacturing Startup Whizzo To Raise",
-   "amount": "$26 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$26 Mn"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7820b7cc3cb2",
    "title": "KL Rahul-backed Boldfit raises over Rs 400 Cr in Series B round led by Bharat Value Fund",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFFWcG0xY2ZWNEZ2ZERvUUZIeVY5cXVpYUQwMDBxQWY4NTFhNGktTkd5aGVMcEVCQ0hfeURjcXh1WmxzaFM0ellFZGNDTzBNRllfYnhBZmMzNmRZTHR3Zjg5OGx0WEZMOWNVcDl5U2x3ZmlQeHFVaHdOa2lBaUlkaXhxcDVfVVhVZmZfbjRlU0hHYkh6amFqVUxqT2hFa2tCSmMtWkVXNkxXcTdaTDhzd0lpNjR0TXBWYWp1LWVHcUrSAcABQVVfeXFMUFBRVnBtMWNmVjRGdmREb1FGSHlWOXF1aWFEMDAwcUFmODUxYTRpLU5HeWhlTHBFQkNIX3lEY3F4dVpsc2hTNHpZRWRjQ08wTUZZX2J4QWZjMzZkWUx0d2Y4OThsdFhGTDljVXA5eVNsd2ZpUHhxVWh3TmtpQWlJZGl4cXA1X1VYVWZmX240ZVNIR2JIemphalVMak9oRWtrQkpjLVpFVzZMV3E3Wkw4c3dJaTY0dE1wVmFqdS1lR3FK?oc=5",
@@ -5030,24 +5604,6 @@
     "Series B"
    ],
    "alerted": true
-  },
-  {
-   "id": "2ee7b5766ab1",
-   "title": "Govt selects 19 fund managers under RDI, committing Rs 7,131 crore",
-   "url": "https://economictimes.indiatimes.com/tech/startups/rdif-approves-19-fund-managers-with-rs-7131-crore-commitment-to-boost-indias-rd-ecosystem/articleshow/134896665.cms",
-   "source": "ET Tech",
-   "published": "2026-10-12T15:18:25+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Govt",
-   "amount": "Rs7,131 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs7,131 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "c1b23ae58616",
@@ -5068,24 +5624,6 @@
    "alerted": true
   },
   {
-   "id": "c43b3750ec9f",
-   "title": "Karnataka ELEVATE Grants: Startups Can Apply for Up to \u20b91 Crore From October 13",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWVyaDE5M0oxME16aFk1Q2JPWmI4WVc5bGFaemllUmJUZ0pSWG5ramIzNEo1Nm5HUUVmWWxBMENOTXRNR1d6SE9DZzhNNXFKdkZpQjVJWDRrWWZWc1pzS19IeUdHeDBYRDdEWVFQSGtlX0hINHVTSXA2cVg5SjJFczhKaGNpNmYtUWJCQzZGdmNoeWNFa0xpclZuQ0dLem83SURvU3NvdWtjbWc?oc=5",
-   "source": "The Bengaluru Live",
-   "published": "2026-10-12T14:51:35+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Karnataka ELEVATE Grants: Startups Can",
-   "amount": "\u20b91 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 Crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "66f52b35180f",
    "title": "Karnataka govt launches ELEVATE schemes to boost inclusive, DeepTech entrepreneurship",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmpnUUltdTVROHluaWx3ZnlablhPeXlpQ1Z0ODVuUnJNZVFXRHlack5YSV9QNm1UTHBoeXJGTTdRQXQyUDk3Y0RxU21XWmdaLVhWdDlQdHB6RFgwRnJVMGZOSjZ3bkFBR1JkR2haN2RkTHVJdkNrZFRWOEw0YWhBejRwVEFwcjRUTnM0bFRyalh3MURqeHExQkgwZ0hqUU95Y1h2blVfbFJjU1RUd05QV29XYkpBN0NJelpSam9jdm_SAcABQVVfeXFMT0pqZ1FJbXU1UTh5bmlsd2Z5Wm5YT3l5aUNWdDg1blJyTWVRV0R5WnJOWElfUDZtVExwaHlyRk03UUF0MlA5N2NEcVNtV1pnWi1YVnQ5UHRwekRYMEZyVTBmTko2d25BQUdSZEdoWjdkZEx1SXZDa2RUVjhMNGFoQXo0cFRBcHI0VE5zNGxUcmpYdzFEanhxMUJIMGdIalFPeWNYdm5VX2xSY1NUVHdOUFdvV2JKQTdDSXpaUmpvY3Zv?oc=5",
@@ -5101,183 +5639,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "b401957a6874",
-   "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
-   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-on-saving-costs/articleshow/134896014.cms",
-   "source": "ET Tech",
-   "published": "2026-10-12T14:43:27+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Microsoft",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9b4a8c9e8345",
-   "title": "Indian Startup Unveils Vision Nano 250g UAV for Special Forces, Claims 25-Minute Flight Time",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0R2ZVc3RzJlbFl3ODlaYWtoU2xmSXlMVTl6Ujl4M3Q2cFdzUjBjdUhVRWZ3UUZGZkthR1ZaVXZmak1ydkFZTkhhYUJZTWRXU1dkcFpKS3NVM0FWU3hWMmNwU2ZQYjJ4UktfaE5xRmg4S1lxZTJKYjk0SGV3WkxnSkY2M0F6OHFiM2xJLWZyZFQ1cmZjWWdjQWxhR0VzY2JfdWk2WFFOWExPTnBBNDZmWGVPUWI1R01TT20tcUdiejRGUVFSakJ2WlYtWVE?oc=5",
-   "source": "Convergence Now",
-   "published": "2026-10-12T14:43:04+00:00",
-   "score": 51,
-   "category": "launch",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6cfc4ddbc347",
-   "title": "5 Must-read lessons from Endless Dream by Gigi Ganguly",
-   "url": "https://yourstory.com/2026/10/lessons-dreams-growth",
-   "source": "YourStory",
-   "published": "2026-10-12T14:34:40+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "30b9d6cc9434",
-   "title": "As Musk flays Modi govt, space start-ups tread carefully, ex-ISRO chief, Zoho co-founder hit back",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDZBMnEyeHdKMXNFdy1WVU84YnYzWHRidHF2Z0otSjZGM29uWHpBajFzQVY4by1wemJydUlpdG9FZFU0czN5azJEWGwweFJSMzlKdHNlWllDWWFJeUNhUUJLU0VnRzR2Q0o5QU44djNuVG52akxQSnMyRURod191aUVPODY?oc=5",
-   "source": "The Federal",
-   "published": "2026-10-12T14:32:24+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "As Musk",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "79424af68f30",
-   "title": "[Update] Alpha Wave Ventures Sells Lenskart Shares Worth \u20b91,705 Cr",
-   "url": "https://inc42.com/buzz/lenskart-shares-slump-5-amid-bulk-deal-buzz/",
-   "source": "Inc42",
-   "published": "2026-10-12T14:31:44+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "",
-   "amount": "\u20b91,705 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91,705 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "999d0bdbfb0a",
-   "title": "Lenskart Shares Slump 5% Amid Bulk Deal Buzz",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZWFJRWNiWkJkaDFhZllzM1RNaktydk1uU1RuUmt0QmtibkxWYmJ5VUwxU2JUbGh4REtxOFVNSWdTcVo1bmI2YW1jR25DZG90VzQzbXBlOE1JUk9MNkwwM29oMFE2d2VDMjlVeTFCbWFmcTdjQ3c?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-12T14:27:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Lenskart Shares Slump",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b1f44828dfe3",
-   "title": "5 Lessons from The Average Advantage by Utsav Malhotra",
-   "url": "https://yourstory.com/2026/10/lessons-susbtainable-career",
-   "source": "YourStory",
-   "published": "2026-10-12T14:17:22+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ea26411c06c5",
-   "title": "Old Monk maker says Maharashtra lost \u20b9300 crore in excise revenue since plant shutdown in May",
-   "url": "https://www.livemint.com/companies/news/old-monk-maker-says-maharashtra-lost-300-crore-in-excise-revenue-since-plant-shutdown-in-may-11791809452860.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-12T14:15:55+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Old Monk",
-   "amount": "\u20b9300 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9300 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bdb21e4a1316",
-   "title": "Indian Family Offices Increase Startup Investments as Younger Generations Reshape Wealth Strategies",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdDB2U1RHSWxHOGVQREQtMm1Sa2w0ejlPa3NOa3JNUm9mMWhCMWtINGdobHNYQ0xuQ3VPWTRyb3BGY2dPUWh3VGZHRVlhOUdldjNOcjkwSHltUnFkODkxLU9Ga0FCLTNBLWtMTnJZSmdhUDRMOFRmcnJjamJmTDFyLUVjc2YxbE9iOGdUb2JPT2pEVllacXRzQ2p2VE5ib0Q4SWcxdHhqZnJFdndEX1FhTWJyLWtQOE9yRHJvcWxPU084bHNnOE8wWEhsU3Jpb1V1WlV1M2xLSQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-10-12T14:15:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Family Offices Increase Startup Investments",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b9780e17758c",
-   "title": "Nazara\u2019s Nitish Mittersain steps down as MD; Mithun Sacheti becomes executive director, Arun Agrawal named CFO",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkk1Mm0tS2h6UkxkZjA0TjZ4T0NOMDBQOU1Uc3FNMlgtQzVIRV9BZGlyXzJZV0V4Ui1jZWlkUXlwNFhQWk9TWEc1Nm5VbXh6WGo1dG5XWlg3bHFfLUhZeF9VYW84UmJ6TmVET180Y3R6ckdNeDhENjRDSHR4dDNNc0tmYWE5VFE3c2VpUnlSUjFMdEM0a1RUTnMtdkQtY29PN1N0RHlRY0NIZWZBRG5Lc2pZU3o1YWxGbUFsanhmOFFVTTFqTEJ5UWRNTnJvQVQxZTBreGw2WFVHQdIB2gFBVV95cUxNbkk1Mm0tS2h6UkxkZjA0TjZ4T0NOMDBQOU1Uc3FNMlgtQzVIRV9BZGlyXzJZV0V4Ui1jZWlkUXlwNFhQWk9TWEc1Nm5VbXh6WGo1dG5XWlg3bHFfLUhZeF9VYW84UmJ6TmVET180Y3R6ckdNeDhENjRDSHR4dDNNc0tmYWE5VFE3c2VpUnlSUjFMdEM0a1RUTnMtdkQtY29PN1N0RHlRY0NIZWZBRG5Lc2pZU3o1YWxGbUFsanhmOFFVTTFqTEJ5UWRNTnJvQVQxZTBreGw2WFVHQQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-12T14:07:54+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Nazara\u2019s Nitish Mittersain",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
   },
   {
    "id": "222d115a3010",
@@ -5297,23 +5658,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "d8e94efbc900",
-   "title": "Loan Collection in India is Still Largely Manual. This AI Startup is Changing That",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLS1DRG90bFAwU2l1eFd2THlCVjBnVzdzdWR0VEZCeVpib2ZGQXJiS1g2ajdPa0E2azVGTlQ4Qk9wbmo3RUR3REcwVFA1TU1Xc0pzM0JmUG5yeEhCTzBGUTlQZGpEYXVJdUI0QnRRNTFxUTI0TFIxb1ppdWl1SHAxZWJ3ZTJKS01Hc052U1RnYVVqRTZEVks4TzczOG1sa0lWckpaZEZSMDJUcUtUUm5ndDNaSXFJMU54dHgtMk4tZk9PX00?oc=5",
-   "source": "Analytics India Magazine",
-   "published": "2026-10-12T13:54:46+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Loan Collection",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ebd84dc8e1a7",
@@ -5351,23 +5695,6 @@
    "alerted": true
   },
   {
-   "id": "05a8a7ea2237",
-   "title": "BYJU\u2019S Parent To Hold 32% Stake In Aakash After Settlement: Report",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFdEellUbHBta092NWRIOXBFWnQwYlVFaU1OTkFEM2VRWDMwZUQ3OWVkamlfeUxOd2xGcjlSR3d1dDlxS1NOZEJoMGhMVXBpZE81UzJHVUFZNmxfR2NiOTRRUjJEWlJrM0RMZ2YtYkpmUXJDS1RjT3hxbXQ4UDlKazlPellZQXdxVUJ2VUswbzU?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-12T07:33:15+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "BYJU\u2019S Parent To Hold",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1e141f21a732",
    "title": "Apple rolls out festive offers across iPhone, Mac, iPad; launches special-edition AirPods 5",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZFX2tBWThQX0ZhbDhxcHE1cFpnQ0V1ZkhlQjliS2ZYazZhb1g2Qm9xZ1ExaTdHYzlBRVkwUmJpbHJuZm1XWU5pNlBLSXFlb2hqN2pwVjhhbVRrSk5PQlJ3Zmk4MTJOUDg1cWFWZnpIek5xM1VHLWtnX2p0NHVXX0hRMFA1UUhjQlNQVWFhRDhjMXdZUU5SeGtGYlhkMnVmWHhxZjQ1Vno3bXl3VVVQOFp3OGNIMnBlRDBOWnZzNEJqdFRTQzE5dC00QnFheUNrUEJmRFl6R2VRaE1NczBMRTE2R0J4V2FXN2fSAeoBQVVfeXFMUHNmRV9rQVk4UF9GYWw4cXBxNXBaZ0NFdWZIZUI5YktmWGs2YW9YNkJvcWdRMWk3R2M5QUVZMFJiaWxybmZtV1lOaTZQS0lxZW9oajdqcFY4YW1Ua0pOT0JSd2ZpODEyTlA4NXFhVmZ6SHpOcTNVRy1rZ19qdDR1V19IUTBQNVFIY0JTUFVhYUQ4YzF3WVFOUnhrRmJYZDJ1Zlh4cWY0NVZ6N215d1VVUDhadzhjSDJwZUQwTlp2czRCanRUU0MxOXQtNEJxYXlDa1BCZkRZekdlUWhNTXMwTEUxNkdCeFdhVzdn?oc=5",
@@ -5383,132 +5710,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "83328ca228a7",
-   "title": "YouTube blocks video essay on Modi and Adani in India after government complaint",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxTmtsNjhnVFZVRzlpdVM4RktZVXRGYy04c19INVdxUU10NVVVSVhxX0x1eWdod3dTZXFudUxTLWtCUTYwR3lfbHNsTzByMnU0VVpTb24xLUM4czFzVmhpZXpWWkdQMFhiSlc4dUYwN1hTUjd6LUhlcjJsVQ?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-12T07:23:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "YouTube",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ee8f7b3036d2",
-   "title": "Tonbo Imaging\u2019s Rs 852 Cr IPO offers investor exit",
-   "url": "https://yourstory.com/2026/10/tonbo-imagings-rs-852-crore-ipo-offers-investor-exit",
-   "source": "YourStory",
-   "published": "2026-10-12T07:17:04+00:00",
-   "score": 45,
-   "category": "other",
-   "company": "Tonbo Imaging\u2019s Rs",
-   "amount": "Rs852 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs852 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5c1246a006de",
-   "title": "Spectrum Digital Appoints Narin Shetty as Group President \u2013 Marketing & Growth Mumbai, India #Ad",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkZPNDI5VXpyRkQtcDNuWUU1WDhNX1JPYmJPb1Zmc1dnenE2aWEwaHZiQ25UOFJpYUVrbE5jbU9IUER3NjJ5NlFWU292akg3OWhyMkgwTGl4MzZHVERCQmVFTEJQcTJZNzl3ZExtd3dQZHNoaVdhVmgyZi10ZVhzeXpuMzM5ek5QY3hVcWpKN2x6eHVXR1hWTGFkNnN5RjFfbWNoNi0zck9WY2Y3dEI1bzlGZ1IwNDhVb20wRzFjeFFDZU1yY293cg?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-12T07:16:00+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Spectrum Digital Appoints Narin Shetty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "36f8a7e324f5",
-   "title": "Gamehok: Turning Indian gamers\u2019 passion into structured opportunity with AI",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUVheEhINkZRT0prV0tEYklsczFNY3cwaUxsQXAwaWt1Q285T0dUNXBvSmM2V3RRUDhiaE5aMmg5bTdVYjRIUlp3aDI1dEM2ZzFLWFk3aGVXdVNIWVkzLWlITnpWN0FYLXRoZi1qcGwwVkFSUU5XWV9ES3B4YmsydkNUQXd2MUlSMjR6djdlams5YlpWdWN4RnRWcl9XTzdkSWh1bk5YVGpfY0RvUVFwTmhtNFVJQTBRUW5VTA?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-10-12T07:15:53+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Gamehok: Turning Indian",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "61b014f4cef3",
-   "title": "IndianRaga founder Sriram Emani explores identity and belonging in Jam Boy",
-   "url": "https://yourstory.com/2026/10/indianraga-founder-sriram-emani-explores-identity-belonging-in-jam-boy",
-   "source": "YourStory",
-   "published": "2026-10-12T07:15:40+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "IndianRaga",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sriram Emani",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c88f605abccb",
-   "title": "Defence Research and Development Organisation (DRDO) allowed MSMEs and deeptech startups to access testing facilities across 24 of its laboratories free of charge through a single portal under specified projects. At VIMARSH on September 15, Defence",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15RlJ6YkVwMDE2THJzRzQtYjBZTHFNemNXY1hXRkdXY2MxV0xzMU9FcWgtQnpQM3d1T2MtTHZtVjBvNXlLQkx6NGRRRjRvejhJcHc?oc=5",
-   "source": "Instagram",
-   "published": "2026-10-12T07:08:57+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Defence Research",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a9f8dd31014d",
-   "title": "Risen releases 23.5%-efficient anti-glare heterojunction solar module",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3ZUcUhNTjl3UXlzM3NObHRJalNSazJxTlJkUWRlMnZCeDhpLUFicVZ5dWdxM29aOEp6RG15YnM4Z2MydUp2N3ZsNXJ1NHByczhaa1JIUEdsY1cybUdlWXVGNFFuMjNqWEEtUDFybUo4cW9aNnFOalVLMmxLUWxCdU1yTS03WG5PYzZVcFJ4alRfNldwRFZTWjFkOVVHU1pnRUhFYnhLcl9aM1cy?oc=5",
-   "source": "pv magazine Global",
-   "published": "2026-10-12T07:08:51+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Risen",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "507e59881908",
@@ -5527,76 +5728,6 @@
     "Rs25,583 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "7ee45b784ae2",
-   "title": "India's semiconductor sector sees M&A, investment surge for AI data centers",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbl9ZS1lXbHp6U2kyR2kwVkNsR21sNmlodlpCellWbjZQRk1aRzZHa3dTUkJ5alVMTWZtV3V6RDBSMF9ZMkdvVVBJTWR0VFk3VHA3Mk5rVHBMMmVReU5wZXNFT0NnX1kwbEV1SkxyTlVFMjljdms1clJLSzZLX3REY00tVWZBMnpnM3lxcUc0RGVkOThGNk0tbWx6SDZZOVppRTY1UjVjRUhTanFXUlBNRVdVZTA4aDFzdWRxZmpVblRMWVR4RWJuQzJ0OGNNamFVdmhDbzc5NlFSRnV4cHh0aUdMSHVsSlZEcWc2MUQwa3N4Nl9vbVJPNHpWUlp5MDJmY0JtQUFSb09lWlJ4RWtOVFlzeERfd0UtT2dfd2IwdnJWeEloUzJmdnhR0gH4AUFVX3lxTE9rRHJ6VzR5bWZST0I3T2FFbXctNUhKTWwxS2NXQmNiRFp4VVdXY2s3T3Z0VUFQMWsxR0h5MURNd0pZZ3lSMFFNV2JWanZlb3NSYVlteUFudEJkRlpONVdYbkc3TnNEWWZPaHN3d1FCUkE2TllybTlPeGd5ak9tYmw2UTBUb0R1RHZzM0tXNDM0Q0dxS0UzelNRN3Z6ZDZzQzFEQlB6UGg4Vklra0ZhVTJVbFlNb2pQVVNQSWxZZU15b0VkRWtUdGlfN3VFVDZNRHhLeGd3dHBtUWc2R0dpY2tyd04yVUU3c21nY3cteTNsbUZOWG1ManVu?oc=5",
-   "source": "ET Datacenters",
-   "published": "2026-10-12T06:47:54+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "71a4051b4df1",
-   "title": "#startup of the day 28 - Litemed India",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnFDdDdhc2hIOXlTN3pJSEhyeG9DMEtOdHZCTTEtM0ZOLXRPWnVRcnV0MHprdnc2MlBFeDlSVEpuV3VGMjQtV0VLTkNEbVN5MG40bE9oV2cteFNOOEdKZ2xTNlJySDFFNUhqdnRsdGdVM3pMS0wwUnNnbTh4Z2NEazllSkJqZUJTS0dGS1gwbVBDWkdlbXc?oc=5",
-   "source": "BioSpectrum India",
-   "published": "2026-10-12T06:39:13+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7d0801d51c6d",
-   "title": "Claude AI sent a false murder tip to US police during testing; Anthropic took 2 months to detect it",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfZHFUVTJRaF85N0Y5dG5nYndzSzhmZWlxYmI1aXYxelZ1WTc0NUZLUjU4M3NBYk55VUY0eW10LWZEam5wWnpzUVUyYm5ncDJHR2M1T1YtX1l2NDZGSG83VWE1TUZkVVQ1cGRia3dpaTV0TWxIWnVSRlRB?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-12T06:31:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Claude AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "83182f7a697e",
-   "title": "Beyond the Bachchan legacy: Navya Nanda steps into startup investing with her Naveli Ventures",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSU56eGxIQzFEdXpuNlNNcUVVVUwwWmJBZVdRTERsMXZfVktlcnpJa1dFUXh3dWxTNF8wZnN2akRDSWlsV0RhUWN0dXBZOXB3RE4yLUUwcWVBc09XQjBwSXpUenY4bUtTMmp1VzgwT2J5ci1HRFhrYVF2NmJOMEhYdzdwVl9WVWN1cEtvOUJqQXdON012QzFNRWl0TGFidzN2NVNfZm1DRlNyWm4zLVUwLTA2WlNsWnI5NVBDWnZodDlaMHhPQTlLSzRjcnlDQnhuUHFuSFFtdHZxRWp6VHNPSDFtemJGRTdFcHd2ZzJqQzlxcFh6WkRVa0taSW1KYWw0b2hZ0gGIAkFVX3lxTE8zdFRtbkpmb3JseDlzZXFib3pfa0VVeFdUd0swYXNocm8yclhHN2dVc3dLVE5ITnNpbHc4UGhlR3RhWUE2NW1BNzZUWEZzb2g5cEoxNE9WTDI2UHgwYWtPVzlYalhQbVFSb3RtR3llNU9iVUo5a3BtcjkxSXBDWV9kT2ZXZ3d4WndVTmdtY3o4WUM1MVd6X0R3dmo2c3R6WlFZQjhtUV9OQ2ZCSC1RclBIMFV2bWFpN1ZzaG9JLVA0cnM5UktTOE1maTBaRHd5cEF3MDdNeXdIaUZkRVRBSU84endTRnluVDdrTXJ1ZEZqdnlvaGlTRFRWaGpyblVmUzR6U3dHeWxkcQ?oc=5",
-   "source": "Business Today",
-   "published": "2026-10-12T06:24:24+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Beyond",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "e9921d35d25b",
@@ -5649,40 +5780,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "39fa2d614e13",
-   "title": "Apple announces festive offers in India: Check deals on iPhones, Macs, more",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmQ2TUdDQ1lzeko0RlRwWEQzSk9zSWZFb1Z6MW5MNDhCRDRQLUJYTUhCTXdEY0p0N0hnS0hyYnBmbFM4MUtacF9Ya0RBVkY4OEF3TnJ1NENDRDZTV29sV2oxVHg0ZVVOU3JGRV9FcEF4TmVYVjJjT3lHNFU4X0pMeUhtamFjYmV5VFdCM1hpUjJUZ2RySjJwaUIwa2VMTjhLV3owczhPaHAyOXMyVWZDc2tnaUxqdWYyOThoUXJiWVhQQnYzMWo2TQ?oc=5",
-   "source": "Business Standard",
-   "published": "2026-10-12T06:10:14+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "05998b66165e",
-   "title": "India\u2019s imported-gas problem has a domestic fix that starts at the kitchen bin",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3RmWmw3LXgweE82UEg3SjRaSExPVmFqRkpaWFBrdVFycm5OZm5FTTNNWWFRZ0F6VlFzcXphWHZxT29aRXhwam5yVmRPdmljOEFMRnNjbVF4a3hWZHo0YWxleVBpUjdxMnYyRHBLOUtaVGNBdUJuVWxGR2tqeWo1enUtYllfY2NfMDNQaEg1U3ZZVDEwU0dkYnR0VVNIZjBxZUloekRBZ0dsLTB3VWluaEJUNm9xalZPcVBHR0pMRTNkekFSSk1XZU42OTF5UTMxLWM4Qw?oc=5",
-   "source": "The Ken",
-   "published": "2026-10-12T06:00:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ea8c5110b33a",
@@ -7057,120 +7154,6 @@
     "funding in headline",
     "$1.1 million",
     "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "aa626c39a262",
-   "title": "IVCA Joins Headstart as Co-Host of Bharat Pitchathon 2026; Launches National DeepTech Founder Intelligence Initiative",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT2xxdzFyVnFNSllFdjI2aTFJVVpuNDA2Y0hIMW5zUHMyUl9TTURwZ0VZZHNYMEVfZzVBOVRsNk9qa2dvN0FWQmhhYWxWdGZ1R00zU01rblRhTlNwM1pwRXM4VzRFMDBOLWd2ZktSZEZra0VwSUtGdDllakF0c0NCSE5LVzkxbHJ6LVJVa0NmcXNNNUVwNWFTeEN4VDRVWURKb3NLbnFUXzViZXBEUWl4c1prQ0NEMUhaVTNFRzRiTEJTM3hyM0lzOTZpcFl5Rk9aa0lVNXlmXzRwUUNB?oc=5",
-   "source": "Newspatrolling.com",
-   "published": "2026-10-08T09:27:48+00:00",
-   "score": 73,
-   "category": "launch",
-   "company": "IVCA Joins Headstart",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Intelligence Initiative",
-     "handle": null
-    },
-    {
-     "name": "Launches National DeepTech",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8c8e9ae3e29f",
-   "title": "Inflection Point Ventures leads funding in Zinara, and other India deals",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGVmaVZzY2ZjUlhWNFBFR2R1Nk9USlh4NmxzNllDRDRFMXg1RDlkcjM3THhXRk1nX1B4WnJVM0ZHYWtqcFBvRFY4S2t4NDZOSEJyeTlnc2VZamd3WDI2RG55dkIybW5uMUtHcnU0SHUtV1RQTE1ZdnAwWFJRbnFwaFpYLXU?oc=5",
-   "source": "DealStreetAsia",
-   "published": "2026-10-08T09:13:03+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Inflection Point Ventures",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0b10b33f73b6",
-   "title": "Pet food startup TailBlaze Longevity raises pre-seed funding",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmxBWG9ZWm9Tc2JNZW81ZDV6RS0wM1FnbmVfQl9ReXpzWUM5SGVWQVJ0XzNtNV9MU29TeUthNWNHbXQxM25ZaUlWMUlFSEFEWnJ1Q1kxN3dlZWEwOTNheFBhN2gyZi14SjVVb3BCTGNURl9BVHF4SzdFSFh1dU9OaXQ1dFRNM0twNWE1Q0RUY280S2dwU0tHSXVWWi03NFdp0gGgAUFVX3lxTE42bEFYb1lab1NzYk1lbzVkNXpFLTAzUWduZV9CX1F5enNZQzlIZVZBUnRfM201X0xTb1N5S2E1Y0dtdDEzbllpSVYxSUVIQURacnVDWTE3d2VlYTA5M2F4UGE3aDJmLXhKNVVvcEJMY1RGX0FUcXhLN0VIWHV1T05pdDV0VE0zS3A1YTVDRFRjbzRLZ3BTS0dJdVZaLTc0V2k?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-08T09:02:24+00:00",
-   "score": 72,
-   "category": "funding",
-   "company": "Pet",
-   "amount": "",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1bfe743c663d",
-   "title": "India, Swiss Launch Research Framework To Boost Varsity Ties",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWkxMWdhemxFZEZ5TVRWVzdUNEtLRlRlM2piTVpMNG8xYUktRmRyYmszeGp3RVBnaWQ2V2t0Z0pTTjBLVzBzSE1UazdsdW5peUxfa3prZ0RtRk4yTGtoV2lKZHhzQzVyaGJPVzE1WDRSLTcwQWRJNmV6dkkwaFJiSU5KUG14S3Q1TTBlaE9CeXJKUkFMOW9oSU9lR2x3RTFvNUFibw?oc=5",
-   "source": "BW Education",
-   "published": "2026-10-08T07:56:22+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "India Swiss",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a95c29dc58e9",
-   "title": "Credfix Raises \u20b916.1 Crore to Scale AI-Powered Debt Resolution in India",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVFLSm9UVnFMOGJYN053S1pBU29MMU5LaEtsQjR0UmdwclI1WjNsMHQzdDV5OU5vY1pwcXRyc3otYWQ4amR5NUNkdnZNLVRhaDNMSjFwSzE0aGFRT0pTWXpieUlhWnZ2NFJDQnBpRzZZR29MTW5Wd1RhdERPcFB1MUtIT1hQbktRbmJMZEdud1gzX0JUZHRzQ1o1OVk1Uzd2Zmp1Z25DNlU?oc=5",
-   "source": "Konsulteer",
-   "published": "2026-10-08T07:40:32+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Credfix",
-   "amount": "\u20b916.1 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b916.1 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f3a03226752e",
-   "title": "Meta says it acted on 5.3M pieces of child abuse content in first half of 2026; rolls out new AI tools to crack down on ads",
-   "url": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads",
-   "source": "YourStory",
-   "published": "2026-10-08T07:07:25+00:00",
-   "score": 85,
-   "category": "launch",
-   "company": "Meta",
-   "amount": "33.2 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "33.2 million"
    ],
    "alerted": true
   }

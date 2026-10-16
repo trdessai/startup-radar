@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-10-16T18:05:19.788092+00:00",
+ "generated_at": "2026-10-16T20:57:20.499511+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 39,
-  "fresh": 20,
-  "alerted": 7
+  "fetched": 16,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "858e23c6eccb",
+   "title": "RapidCanvas raises $29M to build and run AI apps for enterprises",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ienlnQzA1WEM2QTdzX0p2c25Tby1peVRQN1JzdlFGM3o2R0FaOUFhc1MtWnEzSE8wMklkYTFrQVM2aXp3NGVGOGF1SEs5Z0NvOGFRYjVTREp1enEyM0MtY2RYSi1rRWpGYVZMYzRyeFZJMFRR?oc=5",
+   "source": "The Next Web",
+   "published": "2026-10-16T18:22:30+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "RapidCanvas",
+   "amount": "$29 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$29 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "ccd8c65416c6",
    "title": "Accenture sets \u20b92,700 per employee monthly limit on Claude AI usage after some rack up bills of over \u20b994,000",
@@ -7144,24 +7162,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9e8e36af3c7c",
-   "title": "Myca Raises $1.3 Million to Expand Across Latin America",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVNrTjlEdklqMHB5Z2dHdXN4bEUwOWZpQTdqbm5tUnZCWGMzU3N3dVg1MzIzWWdsVXZGRWd1N2Z4TEpZVFo5SlpSRWRLTFhKblFLVkxlYm51bVg5LVdUdXRHSG5hdXkwWjJKOHJFN09QV1E3RW00QWNRVkI1SUxnT1E4dldQckxXV3A4RTFTVXhYYnprN242UVZtU0NnaU41VlZN?oc=5",
-   "source": "Agroempresario",
-   "published": "2026-10-09T19:06:42+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Myca",
-   "amount": "$1.3 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.3 Million"
    ],
    "alerted": true
   }

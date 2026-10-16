@@ -1,12 +1,364 @@
 {
- "generated_at": "2026-10-16T14:17:02.205247+00:00",
+ "generated_at": "2026-10-16T18:05:19.788092+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 62,
-  "fresh": 45,
-  "alerted": 15
+  "fetched": 39,
+  "fresh": 20,
+  "alerted": 7
  },
  "items": [
+  {
+   "id": "ccd8c65416c6",
+   "title": "Accenture sets \u20b92,700 per employee monthly limit on Claude AI usage after some rack up bills of over \u20b994,000",
+   "url": "https://www.livemint.com/companies/accenture-sets-2-700-per-employee-monthly-limit-on-claude-ai-usage-after-some-rack-up-bills-of-over-94000-11792169580468.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-16T17:29:19+00:00",
+   "score": 57,
+   "category": "funding",
+   "company": "Accenture",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "079f97b65666",
+   "title": "Microsoft president warns Trump's H-1B, green card crackdown could drive tech talent out of US",
+   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T17:20:25+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "Microsoft",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a54d0e5c4395",
+   "title": "Meta employees said Lula's accounts were hindered during Brazil election: Report",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-report/articleshow/135000017.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T17:12:04+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d8c42354c357",
+   "title": "Urban Company prioritizes InstaHelp growth as losses widen",
+   "url": "https://www.livemint.com/companies/company-results/urban-company-prioritizes-instahelp-growth-as-losses-widen-11792161351409.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-16T17:09:44+00:00",
+   "score": 48,
+   "category": "expansion",
+   "company": "Urban Company",
+   "amount": "\u20b92,500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "expansion",
+    "\u20b92,500 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "948b52da6135",
+   "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
+   "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T16:59:30+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "CoreWeave's CEO",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b16f28e60b9a",
+   "title": "ETtech Deals Digest: Boldfit, GreenCell lead as weekly funding hits $232 million, down 45% on-year",
+   "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T16:47:50+00:00",
+   "score": 80,
+   "category": "funding",
+   "company": "ETtech Deals Digest: Boldfit GreenCell",
+   "amount": "$232 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$232 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "97a5e83eef67",
+   "title": "FirstCry\u2019s Core Revenue Engine Is Fighting Too Many Battles",
+   "url": "https://inc42.com/features/firstcrys-core-revenue-engine-is-fighting-too-many-battles/",
+   "source": "Inc42",
+   "published": "2026-10-16T16:40:40+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "FirstCry\u2019s Core Revenue Engine Is",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8d62cb29fcd5",
+   "title": "Now, FSSAI Issues Show-Cause Notices To BigBasket, Flipkart Over Misleading Claims",
+   "url": "https://inc42.com/buzz/now-fssai-issues-show-cause-notices-to-bigbasket-flipkart-over-misleading-claims/",
+   "source": "Inc42",
+   "published": "2026-10-16T16:38:43+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Now FSSAI Issues Show-Cause Notices",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5068a8616453",
+   "title": "Mettle Capital teams up with Peak XV for maiden deal, to invest in AI startup Empirical Machines",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa0hpMktKZGZHR191X2RHLUppeXFkSTJRbktJeS1YR0ZITVp3UGhhNWp2RWo2eF9xTVNoMlRVQjlodjJTNnIyS1lINU16N3dSRllfcFM0bTdqdE0tU04tNVBRTS1Pa1hvUzljT080Q0NjNXRjcGQ1Vm01emk5NTVvakwwUEc0VnppSnZ4ak5zZWhSM1J4UHFRYTQzc0JmT1p4RmVBVUFELTZ2WHEtQ0xVdUhZNndWeUdaQlhyam11UVJ2dklsYlJyZndQSGtNT3g1LXFob0VLTU1QT0RLRjFRLXVSNHF6TldpeUlPS21hVnNUQdIB9wFBVV95cUxQRjBhZnN0UDFwQ29QV3NmUVhQTHEwanJ6WjZyeUQ5SmliRHAxZjVWamFvWldzalFjYjBaWU5qckpkTXRzcms5bExHR1RCSGNGOVBiMUI4VkJYWk1jeUhOV3ZvdWl4UzUxVndJSks2SUIyZWRuUnh2bmlsN2FCbFdWa1JRZ1dKaXJMVEpsb1ZrQ2NtOHBRaUVCY29iNU9xbUg1ZTNENUlSZFhIU1dDbHFHcndOSVdaN2ZISmNrbEhRbWtNX0xSRndxcGZiWjJXNUx3RE13ak1kclV1QkdZYklySEhUQ2t5MEFlZUozRklGQ3VxcWU0dzhz?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-10-16T16:21:04+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Mettle Capital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d4bcf29c1fe2",
+   "title": "Strengthening India\u2019s Space Sovereignty",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuMkJqa2FtYW0yTnZuYlEwUVMwOG54V3ZjX3Jxa0pBWU9GNzUtd2lTSHd6YVVROEppVFBoRmdUZDhpM2lnbXlERGZHcEdlZkstVDVQbzl2bXNXTW5XZEIxM1dnai1MUmdGdFBoSlJzUDFsZzJ5bHZJVw?oc=5",
+   "source": "Press Information Bureau",
+   "published": "2026-10-16T16:12:01+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Strengthening India\u2019s Space Sovereignty",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ccbd0affeb6",
+   "title": "Urban Company announces plans to enter residential air conditioner segment",
+   "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-announces-plans-to-enter-residential-air-conditioner-segment/articleshow/134998753.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T16:00:51+00:00",
+   "score": 55,
+   "category": "product",
+   "company": "Urban Company",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "48230c336abe",
+   "title": "Shubhra Saxena\u2019s It Matters A Lot: 5 Lessons on conscious living",
+   "url": "https://yourstory.com/2026/10/lesson-conscious-living",
+   "source": "YourStory",
+   "published": "2026-10-16T15:56:11+00:00",
+   "score": 59,
+   "category": "launch",
+   "company": "Shubhra Saxena\u2019s It Matters A",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2eef55d768c6",
+   "title": "India Startup Funding Doubles This Week As Consumer, AI and EV Drive Capital Inflows",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVlJVdXhzT2dGNEEtcmM2S2lJV2FwZWZDS0RiTzY5R3o5WWJOR0x4bkFsbzRXN3NNRjJCVnNHY2l5VFJwU003Y3UxOFY5OWZmMjJ6YVA4X1RjdGJNOGozeUx2M3ZxampkeGdZM3JtN3NPekQzckFYaUFwbGlLNDZybDR1czJkLS03VVdHRGxXREdpSm9HV3lWWk9CZzVQU3p4MTBKX0tjOXBxTjN1MTFPcF9QVkZsZ3ZjWDN1V0htR3RfbUR3czFDSHFUWWlTaXp0UFJXeVhiSWdZOTZvb0JyaENqZFVxT1F3ZGc?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-10-16T15:07:06+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "India Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3bd592b6d923",
+   "title": "Bharat D2C Conclave 2026: From the \u20b9100 crore playbook to AI-led advertising and omnichannel strategies, f",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUlZZSjZ1LS1nMjFTOVYyazhDS2NCVk1ySk9mMjZWWi1Uam1CS0dFSm9CUUxGeWxDeE5adU56V1R0QXR0emtSNEFyZ0o5SWNvLVRyVDNTOXBJc204bmdJZS1FbnEtQ09IQUdiVGlnbzZkOG9YR01YTFhhRm1wb2tqeEN1ZXNCUml3UjYtclNYdHRvVW15cHpUQW1RQzdUc3BUWHMzeVFWOGpNU3BvUm95UnRRTDdhdGlyMDBoZC1RVEJ6ZGgyWWF2Sk5Ha2RrUFZHNERwbWZUbHlRT2t6QjdoNGdXTDBrU1RlSWtJMnQ5YzBMRTBtNFpBMUg2dzdMMUg4NWJYY2gxR0JkcEtWeHA5ZHlRbXZVRUxISHNFSTdUTHFfZmUxcmhma1VENm5XcEFEV2xLSVJLX3RQenlfbXk0WHp0eHhuRGt4NU5hTDJlbkhwd9IB0gJBVV95cUxOUlZZSjZ1LS1nMjFTOVYyazhDS2NCVk1ySk9mMjZWWi1Uam1CS0dFSm9CUUxGeWxDeE5adU56V1R0QXR0emtSNEFyZ0o5SWNvLVRyVDNTOXBJc204bmdJZS1FbnEtQ09IQUdiVGlnbzZkOG9YR01YTFhhRm1wb2tqeEN1ZXNCUml3UjYtclNYdHRvVW15cHpUQW1RQzdUc3BUWHMzeVFWOGpNU3BvUm95UnRRTDdhdGlyMDBoZC1RVEJ6ZGgyWWF2Sk5Ha2RrUFZHNERwbWZUbHlRT2t6QjdoNGdXTDBrU1RlSWtJMnQ5YzBMRTBtNFpBMUg2dzdMMUg4NWJYY2gxR0JkcEtWeHA5ZHlRbXZVRUxISHNFSTdUTHFfZmUxcmhma1VENm5XcEFEV2xLSVJLX3RQenlfbXk0WHp0eHhuRGt4NU5hTDJlbkhwdw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-16T15:05:00+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Bharat D2C Conclave",
+   "amount": "\u20b9100 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9100 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c564893739a1",
+   "title": "7 Books that explain why we're connected but still lonely",
+   "url": "https://yourstory.com/2026/10/books-lonliness-modernlife",
+   "source": "YourStory",
+   "published": "2026-10-16T14:59:12+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0ac920519f4c",
+   "title": "CapGrid Raises \u20b946.28 Crore in Pre-Series B Round Led by Hero Enterprise Partner Ventures",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYk1rUU1wSjROVmNValZzdjR4Z1gyNFp0VzdtSlNrM2ZTaHBXZUx6WEdvV0dqem9iSDhST3FEYy1oSV9DWFROQUxzellVcU5DVnZxd2YwaFVfZGM4OTJZUUtWWklVTWNPY0I0N0Y1TmFNcjFXaW1FYm9mMUJUVUNhTm4weXN2bGc0Ui1xWjhYU1pHWUd4M2V0WDBTM2ZjVzl2M096eVhJaGJUcEdqRWZNX0FBcHptbTFON0drOTdkbWZla09WR2dRU1FMdzV3elJiUkxzTQ?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-10-16T14:32:25+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "CapGrid",
+   "amount": "\u20b946.28 Crore",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b946.28 Crore",
+    "Series B"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "df04b52303f4",
+   "title": "LTM profit dips marginally, revenue up 13.6% YoY",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-dips-marginally-revenue-up-13-6-yoy/articleshow/134997435.cms",
+   "source": "ET Tech",
+   "published": "2026-10-16T14:21:33+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "LTM",
+   "amount": "Rs11,807.6 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs11,807.6 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ff0b8782314",
+   "title": "Cult.fit Gets SEBI Clearance For \u20b9950 Cr+ IPO",
+   "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+   "source": "Inc42",
+   "published": "2026-10-16T14:21:30+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Cult.fit Gets SEBI Clearance For",
+   "amount": "\u20b9950 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9950 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "62ef2563ee77",
+   "title": "Survey finds SIM binding may disrupt business, but will it stop fraud?",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3ZLZzBYekw1SEFKVnF2Um5hSWdjVEVsOEZnWk5jUGNXSHlEejhHTXpxYzhySjZDRTBJYkFoSlU5ZHB0aGZyVW5qOGdGLXlfdlNwVDBIVDFOYUZYVi1OS3cxRWQ3eW5YWjBQR0lmZTZrY3laNmVFUjhFUnRRTDNIS1k2YWZEUjA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-16T14:19:53+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Survey",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ac34b9d4a401",
+   "title": "Funding Wrap: ThinkMetal, Boldfit, RapidCanvas raise fresh capital",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONm5wbU10RTFtZ3RLYkpSSDc1YkwwM1o5Q1U2M3lwLXVQczhXX2V6bXIzQjBRNTFVUk5oREpHdlJsdlMteVZRZFRRVjd3T1hCc0RJUU4xR0wzbHJnaF9MVG8zR1NjY21TYXpZSWJrZmJzdTJ0Q1o2YTlmT3p0Z3l2R0xaN0RyMHBMZjR3X2xlM2dpQ1E5NC05cERvMVEzWEpPampwUHEtYktzaVhhSDdCQlRHY0p2Q0dOT2l5WlI0WXBsZlg5U0NnUzFEOW1YdjdvdnFvY05rRdIB1wFBVV95cUxONm5wbU10RTFtZ3RLYkpSSDc1YkwwM1o5Q1U2M3lwLXVQczhXX2V6bXIzQjBRNTFVUk5oREpHdlJsdlMteVZRZFRRVjd3T1hCc0RJUU4xR0wzbHJnaF9MVG8zR1NjY21TYXpZSWJrZmJzdTJ0Q1o2YTlmT3p0Z3l2R0xaN0RyMHBMZjR3X2xlM2dpQ1E5NC05cERvMVEzWEpPampwUHEtYktzaVhhSDdCQlRHY0p2Q0dOT2l5WlI0WXBsZlg5U0NnUzFEOW1YdjdvdnFvY05rRQ?oc=5",
+   "source": "ET Entrepreneur",
+   "published": "2026-10-16T14:10:18+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "2014da9f3576",
    "title": "Snabbit Spent \u20b916 To Earn Every Rupee In Operating Revenue In FY26",
@@ -3976,24 +4328,6 @@
    "alerted": true
   },
   {
-   "id": "cfac4b4dea94",
-   "title": "Hyundai plans \u20b94,000 crore investment in Maharashtra, aims to double Pune plant capacity by 2030",
-   "url": "https://www.livemint.com/companies/news/hyundai-plans-4-000-crore-investment-in-maharashtra-aims-to-double-pune-plant-capacity-by-2030-11791999786904.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-14T18:17:00+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Hyundai",
-   "amount": "\u20b94,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b94,000 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "5ea1ae9b6603",
    "title": "AI infra startup Modal raises $750 mn at $15.7 bn valuation",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkN6c2RMWWhtMnRoV2RMN014UTFPV1RJa0lzTklHWDRNcV8wLTd4MGE1Vy1WWU42OG53MGM5Q2YzdkR6MXE3VXhuUVM3LW1VTWU4ckw2dzJOeUd0LW1OSkhpVjVVV0FuVkFNUHRCaUZ2MzZGZUItX0ZILWdhQTJhZ2pKNDBaZFRseFBjNXJtV3lFN2lkY09MWWlzSmJLQkhmS0hYdGdUbkRuQzhMbVg2MTdPQzlQN3ZuR01oUDc0VlVZdThJZkdIazVzUlJZbkZuV3Baem9NQ0hvUTDSAeABQVVfeXFMT2ZhNjQ4eER3Q1ZNR3lmc0NZN3Z0eVJlZGlkSks0UjJKanRpWWFzNl9WUEU5bFhDMkhMMDZIMTdpNWswUnp3eWJNcl93LV9ueG5jYnpHNUk2ckR3cEVnLW15Y0hOMXVmRlRQUVNHR3UzUk5laU10dDhha3kxMTNkV1g0SVlCblhGbjZjN055SjZMSXEtR1hwcVltNzFkYnRkN0VXQzk0YVdOcTZGNVFGT3BseDBtZUFzQ0I0Umw2YlE4SzdFcG8yeUNEay1vcEViWms4NFYzSTZtQTZSc0d2VkM?oc=5",
@@ -4029,23 +4363,6 @@
     "$15 Million"
    ],
    "alerted": true
-  },
-  {
-   "id": "b144e5afd8e9",
-   "title": "Policy reforms, risk capital fuel India's fast-growing space-tech ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFdRT2VPVTBRSTVsRWt2a3lLam1tclhDTUdKbklkYmRLbjdTRWhaanMxV2dyUVprSTIxR2tYTEdVSDZrMWJOcG1mV3BZRDlpX3pGVGdaRzAyR2tvSGJyN1NLa0M1dVRUdlNzd1FBMG1yWVNVMDdyVElrclFocXFHTzR6QXM0N1hBcHkwUFU4aFVzMVFsZGlveTJkdmZNeFBoa2VrRjROSS1CSDVSbnNnYVl2WVhRemlTQ3owbVVIU0lSdWM0SUZnLUEzZWt0TUpla1JCcW1qZVYtSFR6MlBzZ9IB5gFBVV95cUxPYU9PbnFBb1c1RUlNYUk4ZERNNkFkUk1kanYySE40aGtQOUx6ZllqWjU4ejd1VF8xX1hKcUEwQXZlRnd4TW1zam1kWmpEYmJZYkthaFJOYmNNcDNteXNLR3dRc3Y5bHh5TUl0cUtKS1hGejkydHN6cnhfeDVRVWF0c1hSZzE2QWp6MU5IcnRuRlFvS0ppMXNSZUJ5ZVhKR0w2WVJ0NXBURVoyVmR3RDBxelN4MGZqdGZEZ2cwUjhFc2lQdzhFbThlakxUSVF0dmxWallqUVJoUnBSMWFta0ZFVEpOTnZ5Zw?oc=5",
-   "source": "Business Standard",
-   "published": "2026-10-14T17:19:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Policy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "86599e1ac266",
@@ -4137,41 +4454,6 @@
    "alerted": true
   },
   {
-   "id": "a1f18ae561a2",
-   "title": "Jio Platforms Sets Stage For India\u2019s Largest IPO At \u20b910.3 Lakh Cr Valuation",
-   "url": "https://inc42.com/buzz/jio-platforms-set-stage-for-indias-largest-ipo-at-%e2%82%b910-3-lakh-cr-valuation/",
-   "source": "Inc42",
-   "published": "2026-10-14T16:05:23+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Jio Platforms Sets Stage For",
-   "amount": "\u20b910.3 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b910.3 Lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6045e5bd551d",
-   "title": "TechSparks 2026 Day 2: From Krishna Byre Gowda\u2019s Bengaluru blueprint to Stripe\u2019s global playbook, and more",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-day-2-krishna-byre-gowda-stripe-deeptech",
-   "source": "YourStory",
-   "published": "2026-10-14T15:41:33+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "TechSparks",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "f05043ff0b61",
    "title": "IIT Kanpur launches $1 billion fundraising campaign, announces Rs 180-crore innovation school in Noida",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaG44WDJqcVdVeEdwNkdpZGVvTDZPVC15SGZUX1BVS0RBYWNRb3lPZkNzdXZHakRZOFRjOHBsZDRhYVB1V0I4NTRjTUtNWXFkbjJwVEFTc2RLQTBxMzlzX21HWUNaV1I5VmhSc0hodm1ZcHVSVGR4anFubWhHdU1ud0g0QWQ0dUdQcVdMTllXQnlMMUdacW1zaDdRNjNCWm8tMHlBdzFYNWQyX1FfUnAteXpYblR6ODZockFiQlN0Y3pzMWcyV0ROeE9IVERjRmt2eEUtVWR5YkJ0eHczNFpheGZIanVKSzhCY3NpSTJtcUdNQzVp0gH7AUFVX3lxTE1zQW1VMjI2TmlpQ0RDallxNGRmWXlIdFdrcjZ3ZE8taDE0OU50UHRUdzdJSTdVeUVKTDUtNHh2U2ltc19vRENSOVNEMXBjWEdxRkZLOHBCU3d0TnR0WDhuY0dnUlI1OVpSTUd1a2ozczRpdm5WamNWdkFScE9qLVhWcmlDLUJKcC0zUUFhUndkaXhCb1pib2hXaE9HTGxPNjU1Y2VRNEl1TGYwb1NnZVBZV3ZCM1U0WXRwUjM0bEk5WUxjNm1lVzVYYndlUlR0WXZrbVhIOGsxV2VRRHZ2alp3Wjk4WlA5N3VOWVpuQUI3Mm1neDZkZU9ZczlZ?oc=5",
@@ -4205,23 +4487,6 @@
     "launch"
    ],
    "alerted": true
-  },
-  {
-   "id": "787f04888505",
-   "title": "Parallel Loop",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUkdKTlRqakYzMGFsaTU1UkU0LTdYQzlHTEhVaGlJcnUxYkR2T0pzUVlud1BuUUUzaGR6ckRUZFhlZXZtbmhMRnBsTzBYZ0F4?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-14T15:19:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Parallel Loop",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "39ed150f94b8",
@@ -4276,41 +4541,6 @@
    "alerted": true
   },
   {
-   "id": "e15fa5922128",
-   "title": "Mexico to require digital platforms to protect minors from violent, sexual content",
-   "url": "https://economictimes.indiatimes.com/tech/technology/mexico-to-require-digital-platforms-to-protect-minors-from-violent-sexual-content/articleshow/134944970.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T14:28:49+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Mexico",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c3759c49986f",
-   "title": "Deeptech is giving rise to new kinds of founders and bold ideas: VCs",
-   "url": "https://yourstory.com/2026/10/deeptech-is-giving-rise-to-new-kinds-of-founders-and-bold-ideas-vcs",
-   "source": "YourStory",
-   "published": "2026-10-14T14:27:52+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "73238f68790c",
    "title": "Six Sense Mobility Launches Noida Automotive Electronics Plant, Targets \u20b9500 Crore Revenue with \u20b9160 Crore Order Book",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbS1YeWZhYlNMNGxvRThscVNiU0RndmI0QzFDVTlJUUp6TzNuZnBmQnktVnl1cXR4ZzVSRXdjeDdlLXV5b2w1c1VEVUh5SC1FNnJxakpYQm5xTkFpYklBMjJhX2J4ZWY2OFFzMng1dGFUVHlhdmZBN1A2eGx2dGNoekxURms2Z2c3em8zWXRsR1hGWWFLNXRHcktGSFpPV1hPQlZ3VXV5ZzJaa0c5RG1EWV9wNlp0LXN1U3RSbTZ2UXN6ZEJndFA0cy1sUzRkcXhNcXI1YU9TOGhWeldCQjRMWmRoSE8wYjgxeVA0ZGlpMXNjblNyb2JiRm9Ea3VrVnViTU9XaG1WYXVUMDhCeFRFOGVmbWc0aEl2?oc=5",
@@ -4329,58 +4559,6 @@
    "alerted": true
   },
   {
-   "id": "09cab8b35693",
-   "title": "Udaan sees growth after four years with 13% rise in revenues",
-   "url": "https://economictimes.indiatimes.com/tech/startups/udaan-sees-growth-after-four-years-with-13-rise-in-revenues/articleshow/134944990.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T14:25:40+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Udaan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "59b48fca199d",
-   "title": "EU Commission is in dialogue with Google: spokesperson",
-   "url": "https://economictimes.indiatimes.com/tech/technology/eu-commission-is-in-dialogue-with-google-spokesperson/articleshow/134944752.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T14:09:08+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "EU Commission",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cf00cf1f16cd",
-   "title": "Netflix cuts about 6% of jobs: WSJ",
-   "url": "https://economictimes.indiatimes.com/tech/technology/netflix-cuts-about-6-of-jobs-wsj/articleshow/134944619.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T14:03:53+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Netflix",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "87e31ddbba1a",
    "title": "Manipur police launches probe into CSAM network on Telegram",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFIxMUZpSWxycDBsZzhDa0p3bEZBeURwV1VsNjhQRVZUSGhyTTd0VzRyREF5bGNUQ2FiYnpwVjNOZUVnc2VMTmhIZFI4RGhxXzJlWlpHU3JQeDFBcE5tM05hdlhyNWV6eG5jVklEWnpoT2FvR1ZhWl9GREpNUVZaMUJRN2xuMUhqSEtXSGgwT0djOW5RRWF3?oc=5",
@@ -4396,24 +4574,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "d8b553964e9b",
-   "title": "64% of Indian Shoppers Willing to Try New Brands: Report",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWx1WWdQbUwtQ0FUdEQtbmp1MjZNV01ZcDRDeGdEQWtJSC13MU5peG9hVVV5YVVyU1JBellGX2ZVQVo0cFRNLVI3bzJHc1ZDWnNqQWFoUHZQZXZsckZpM08tQkt5aUR3MS1WSld6cUxCbjB5QWhvbnFTeUpUUkk2UUJWMGdFcUJZSG9tR3E3ZDd1YjJOQldvQ01YRzJQWm8x?oc=5",
-   "source": "Apparel Resources",
-   "published": "2026-10-14T13:57:33+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "2647655ee296",
@@ -4435,41 +4595,6 @@
    "alerted": true
   },
   {
-   "id": "050ea79f6ea0",
-   "title": "Jio Platforms IPO To Open For Subscription On October 21",
-   "url": "https://inc42.com/buzz/jio-ipo-to-open-for-subscription-on-october-21/",
-   "source": "Inc42",
-   "published": "2026-10-14T13:54:42+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Jio Platforms IPO To Open",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "de2e7d7ef128",
-   "title": "The math behind why young startup employees are underinsured by over Rs 1 Cr",
-   "url": "https://yourstory.com/2026/10/math-behind-why-young-startup-employees-underinsured-over-rs-1-cr",
-   "source": "YourStory",
-   "published": "2026-10-14T13:50:46+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "The",
-   "amount": "Rs1 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "c015447a440b",
    "title": "Scimplify raises $25 Mn in strategic round led by Hitachi Ventures",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkFaTDhiUVQtWmNzNG9zVlZxTXdnWWJSelNybHR6ZWY2ZTIwYkVxOEstV1pxS01GVTd5UTE3SzJ3U3AxVGRYeWVyb3YtaEFYY0dFYksxZHY4ZnljLTBTc2xwaHBRS01jRTBSVUlqcGtTZmVKeUd4T0NTUnZkWDZUdFRVNXY3NTc3UXBpV2VMcXlJWmlzajA3NnlrLTBlTjBLTkHSAaIBQVVfeXFMTW5BWkw4YlFULVpjczRvc1ZWcU13Z1liUnpTcmx0emVmNmUyMGJFcThLLVdacUtNRlU3eVExN0syd1NwMVRkWHllcm92LWhBWGNHRWJLMWR2OGZ5Yy0wU3NscGhwUUtNY0UwUlVJanBrU2ZlSnlHeE9DU1J2ZFg2VHRUVTV2NzU3N1FwaVdlTHF5SVppc2owNzZ5ay0wZU4wS05B?oc=5",
@@ -4486,23 +4611,6 @@
     "$25 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "4765a57df133",
-   "title": "Emirates cites infrastructure, flying-rights hurdles at Navi Mumbai, seeks more India flying rights",
-   "url": "https://www.livemint.com/companies/news/emirates-cites-infrastructure-flying-rights-hurdles-at-navi-mumbai-seeks-more-india-flying-rights-11791977380229.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-14T13:40:43+00:00",
-   "score": 40,
-   "category": "expansion",
-   "company": "Emirates",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
   },
   {
    "id": "0707ef766899",
@@ -4523,74 +4631,6 @@
    "alerted": true
   },
   {
-   "id": "0dc3afd325ac",
-   "title": "Anthropic opens office in Singapore, partners with government on AI safety and adoption",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-opens-office-in-singapore-partners-with-government-on-ai-safety-and-adoption/articleshow/134943411.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T13:34:49+00:00",
-   "score": 50,
-   "category": "expansion",
-   "company": "Anthropic",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a256631f0815",
-   "title": "Mukesh Ambani's Jio files updated prospectus for record India IPO",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjB3M1NDdGloSjZRekRnTjhVZGZsOTIwREdJcmkxSFVsdnJHUDBSeW1NQmEwRDVVNW5sQWRhZ08tTVNGNEtvd3JITktocnRhM1VWS1FUUVNCNzQyYkNGSzVfVmlHMmIxUlhocW5WWFRaSGdiSWhXRjJfS3ZjLXNWSW1jRDBWTUF3RzZQZDhuUnhYZXfSAZsBQVVfeXFMTWhCYjJoSmZTTW5wUVA1WGtqTGxIWkh1Wjg4Q29IaHRmNTEwLVo0UVZ1eS1XUHJxczU4VVItR0MwZ21JWGlJbFNPclhzWWVLMjg1WnA4blhqV1NpaVROTjQ3XzNia2VrRExwMHJNVE9UVjliV3RySzVPTHNpbFJueTMtU0V2aEt2azE3RjlwSlIxZ01qNVpWcWY0OU0?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-14T13:29:42+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Mukesh Ambani's Jio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "28015196b9f6",
-   "title": "Radhabinod Langoljam \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kMWF5RzVfUjdMcldwSEtyNmxHQnlkTVJPUVVQXzNuMFhjN3pJaG5mOVo0TUtNZjF0bUdDU204cFVUZW9kNFRiMFg0X2RRTVltdjY0aVhUVnlIdw?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-14T13:24:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Radhabinod Langoljam",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d1600f598173",
-   "title": "SEBI proposes small-firm IPO overhaul, expands role for institutional investors",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWJhV2FuSXBhQ2NRN25rWDVCal9uN3dOVEZYRTVoZC1qWloxdXR1eV9hcmhUOGttSC16SXhOLWh0eDdQNWpWVzhaVmp6RXFsdGx4TzB0Z21QNU1pRnlfbzJtSF95cEFXSVdFZXczZXNDc3NjelVmZDltdGVwMVV0aVpsTWZRZXc0ZHhLbU4wc1JVZ3VYWVdsd1h0YVhITTdiMXYwedIBrAFBVV95cUxPTldad0ltalV6eEJrczRWaEtYY29nYXA1UGpsam1Ia040dmlMTnJKZDkzTXI5bXVvQkxTbkVDZnUxdDhHazR3UEc0alBRdjU5Q0pkZDhnOUozZ1lsWGVIT0VNNXR6YTZRUlpnTmxhY2RFWFh1ZXh3aHVnZ3F0ejE0d1BXWnhVOVZmUkVYaUp6dklhQk00MU1OLTlUOW1IdUZCNFEzVlFGMmZHb1NW?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-14T13:19:52+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "SEBI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1187f326c121",
    "title": "{Funding Alert} GreenCell Mobility Raises $34.6 Mn to Strengthen Electric Bus Network in India",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEhWTU1NX09IWnNQbmlDQWV4ZVJlWHpubUNqMHZZUk5UcllPV3RLMk1WVVRlN0pPdDI1VW9fV1Q4UjRtMlRWa0k5ay1zOTZiOUdiZnpuenVTaEhQWkJrZzhOZGk1U0JtLTJ0Mkl5S2Y3Sm94RnpFTHBnOHBDVG1zQ2RPUnJ2X1FoZWFicHVocVZlWHZpSGw4NVdlX1BKMWZRazhxUmczajJOTmJlX1NXSzlTUk1WeTJXaUtKSw?oc=5",
@@ -4608,24 +4648,6 @@
     "no company named"
    ],
    "alerted": true
-  },
-  {
-   "id": "41076d3a2d71",
-   "title": "5 Lessons from Grief burns like fever by Minakshi Thakur",
-   "url": "https://yourstory.com/2026/10/5-lessons-grief",
-   "source": "YourStory",
-   "published": "2026-10-14T13:17:09+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
   },
   {
    "id": "5aab3bdc16a0",
@@ -7140,23 +7162,6 @@
    "reasons": [
     "funding in headline",
     "$1.3 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5cb706eb72ec",
-   "title": "ET Startup Awards 2026: Meesho, Groww CEOs on how life changes after an IPO",
-   "url": "https://economictimes.indiatimes.com/tech/technology/et-startup-awards-2026-meesho-groww-ceos-on-how-life-changes-after-an-ipo/articleshow/134837023.cms",
-   "source": "ET Tech",
-   "published": "2026-10-09T14:50:34+00:00",
-   "score": 59,
-   "category": "funding",
-   "company": "ET Startup Awards",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

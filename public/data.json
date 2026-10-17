@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-10-16T23:11:42.416547+00:00",
+ "generated_at": "2026-10-17T01:19:43.592333+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 2,
+  "fetched": 2,
+  "fresh": 1,
   "alerted": 0
  },
  "items": [
+  {
+   "id": "2527133c3134",
+   "title": "DataLabs by Inc42",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWUJXWTR4bnVMUkFaRVNrQXkxY2lKRUJPSkpjaTNyajRfVTd0UEJYczFOcXFTSXlDUGlYd0w3VldsS3pZVUVRcHpTWkg2NlVDNThYS00xRVlYczVMR3ZvaHZB?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-16T22:20:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "DataLabs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "d4c2798b936f",
    "title": "Deals Digest: PE-VC investments hit $5.9 bn on Fairfax-IDBI Bank deal; M&As slow",
@@ -7145,23 +7162,6 @@
    "reasons": [
     "product in headline",
     "\u20b91 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ed8c139bf377",
-   "title": "Dr Jitendra launches multilingual Websites as single platform for students, StartUps, researchers, citizens",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlRsV2c4VUVFNmNMXy1aeUU1Q2NOOFoxQU1RcnRiVkJ0UUlnWXBTT3pnSThsNEFSTXAxc2xYdmppdzZPYkNGS2JBTS1MYkdCTW9wSGtJSVhPQlQxdE9laFdhbFB2RlJzd1FaNVlUOW9WX0JQaXltbmhJbFRlWlRFb2VqUm5xVHV2d2gtanV4d0VJMjh6bGdwN3RhckNFSThIakdnVGgzakZYZ3R5YWpCdWVBZk5KX0xqZ0xSQUJBRTlZeldKWHl3XzFEWWZsZ3phVmlxWWNrTdIB1wFBVV95cUxNSlRsV2c4VUVFNmNMXy1aeUU1Q2NOOFoxQU1RcnRiVkJ0UUlnWXBTT3pnSThsNEFSTXAxc2xYdmppdzZPYkNGS2JBTS1MYkdCTW9wSGtJSVhPQlQxdE9laFdhbFB2RlJzd1FaNVlUOW9WX0JQaXltbmhJbFRlWlRFb2VqUm5xVHV2d2gtanV4d0VJMjh6bGdwN3RhckNFSThIakdnVGgzakZYZ3R5YWpCdWVBZk5KX0xqZ0xSQUJBRTlZeldKWHl3XzFEWWZsZ3phVmlxWWNrTQ?oc=5",
-   "source": "Daily Excelsior",
-   "published": "2026-10-09T23:19:06+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Dr Jitendra",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

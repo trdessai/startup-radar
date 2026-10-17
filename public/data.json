@@ -1,12 +1,221 @@
 {
- "generated_at": "2026-10-17T01:19:43.592333+00:00",
+ "generated_at": "2026-10-17T05:40:10.121812+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 2,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 25,
+  "fresh": 14,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "4b0787a29acf",
+   "title": "Funding and acquisitions in Indian startups this week [Oct 12- Oct 17]",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGpRV0RvMlRBNnVObkxEa0dtcXFPZ0JKdDI2aXhzS0ttS0QyTzNTdDZ6dnI2SzluQ05ER1ZnNzRMS0w2aEY3M1czazIxRzJFeTgyNm1MeXBJNkl6Y0xqM1llQTAteG9Fb2gyU1ZfLVVWci0zS2J2Zzd1Ynl0UEZmZ1FWMFJIZWlTWWlNUERlWVZmWTNCRVh5VTlxUUxRczlqSHBGdzlYQmFqeFVianhtd19QVW1HaTFXLUZ6amtMb01aNkhTUnV6b3Brd0ttVktpX1NKa3VqT0VQMEVzdmxITHZB0gHiAUFVX3lxTFBUalFXRG8yVEE2dU5uTERrR21xcU9nQkp0MjZpeHNLS21LRDJPM1N0Nnp2cjZLOW5DTkRHVmc3NExLTDZoRjczVzNrMjFHMkV5ODI2bUx5cEk2SXpjTGozWWVBMC14b0VvaDJTVl8tVVZyLTNLYnZnN3VieXRQRmZnUVYwUkhlaVNZaU1QRGVZVmZZM0JFWHlVOXFRTFFzOWpIcEZ3OVhCYWp4VWJqeG13X1BVbUdpMVctRnpqa0xvTVo2SFNSdXpvcGt3S21WS2lfU0prdWpPRVAwRXN2bEhMdkE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-17T05:27:03+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8c13dd18e96d",
+   "title": "Finance Ministry says Centre allowed to sell stake in IDBI Bank, refers Delhi HC's 2018 judgement to defend dilution",
+   "url": "https://www.livemint.com/companies/news/idbi-stake-sale-finance-ministry-centre-allowed-dilution-as-amendment-rejected-parliament-refers-delhi-hc-2018-judgement-11792213298781.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-17T05:19:37+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Finance Ministry",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "08ae449634ff",
+   "title": "Leverage Edu\u2019s revenue jumps over 2X to Rs 364 Cr in FY26; turns EBITDA profitable",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEdYUks3VUJVLVFvMmExT245MFV5alNBaF8wM1EtcWhjd1ZBR0d3LTdHSlFqYlc2RllSVnkwOXduSWVCdG54TlFxRWFhdS1LcUdZS0FrLWFaU0NaV1NMaUtCb2dDcnR2d3RidUczbkFrbVpfc2F5ZGxPbWNBNlgtdWgxSlRoZUR6NF8waDlBSjZBOWdnMzdWNm1ReWJrWXVFM1k4Z3E5SU1IVzlaU29ibkVXT18xOUtDWkc0S9IBvAFBVV95cUxNdEdYUks3VUJVLVFvMmExT245MFV5alNBaF8wM1EtcWhjd1ZBR0d3LTdHSlFqYlc2RllSVnkwOXduSWVCdG54TlFxRWFhdS1LcUdZS0FrLWFaU0NaV1NMaUtCb2dDcnR2d3RidUczbkFrbVpfc2F5ZGxPbWNBNlgtdWgxSlRoZUR6NF8waDlBSjZBOWdnMzdWNm1ReWJrWXVFM1k4Z3E5SU1IVzlaU29ibkVXT18xOUtDWkc0Sw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-17T05:08:12+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Leverage Edu\u2019s",
+   "amount": "Rs364 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs364 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05150d5d7bd4",
+   "title": "Groceries led UPI merchant transactions with 3.94B in Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmcySHZsRzhMN2w1cjJUdmVqM3lJQ1JLMmxabllfQWNVRXlHb0ljNDJULWJMblJzYTd2MVdkaUw1dTd6RElVUEdITkpSOXh0ekJnMjc0TEQzNEdmNlBHc2VqN2FHc2pYYnZFSkNxVzhiNjVja1gyTGxncDliSGwyeVN2YUdlMWNIU0hSRA?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-17T04:57:04+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Groceries",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "57376f714a8c",
+   "title": "UPI transactions at 24.07 billion in September 2026: NPCI",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWNOTDBlVXpIb01vX2hvNV90RFVWcU82NncwSy1wNEdfM0VZT2lzUGxUY1REaldXYXhScUQ2T0F1Qm9qcGNhX2VVZGxRMDhaampXdW1ZVnFyYUZDWHFGeE90TXdZZkJzaThfZmt3TEJYSFBiWWVOWFJWUEdGS0hQX1NSZlBLUQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-17T04:35:39+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "UPI",
+   "amount": "24.07 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "24.07 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8071adef63ba",
+   "title": "TRAI Q1 FY27 data: India\u2019s mobile data usage rises 8.3% in June quarter, average cost per GB falls",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5bHhhbERqSEVYVUZWUGJMdTRlSGowekJoME9jaHluYzEzbmdXX3BteUNuay0zSXpnUEtJYlRDMi1sZUtwRk1BSG51SkxiM29aQUQ3WHlHSnNiOEZadzRCSldvejA0V3dpdDBxS2VTMmtOalZoZTQtNg?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-17T04:27:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "TRAI Q1 FY27",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e7e675f4ab4e",
+   "title": "From shareholders to partners: How Google and Meta\u2019s Jio investments evolved into an AI alliance",
+   "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
+   "source": "ET Tech",
+   "published": "2026-10-17T04:18:50+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "From",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "abc88eb314d4",
+   "title": "NASSCOM asks government to review public procurement processes for AI to counter Big Tech pricing",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblFXaE5mbG1kVEpTdFkzUmdKNjNpdWhhZ1l5c3ZuZ00wdmpYdnNkVW9laG5vUmhWbDdtcUR3aXdITXZJZXhvVWUzVHNYOU83eHltOF9zdlk0QkE4aDRQQ3h4T3BNYktTSGhSM3podGgtVThmM1pXUkt5eXRlRnJVcW1rSQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-17T03:44:50+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "NASSCOM",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f36e19ea821e",
+   "title": "From Boldfit To Origin \u2014 Indian Startups Raised About $236 Mn This Week",
+   "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
+   "source": "Inc42",
+   "published": "2026-10-17T03:30:52+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "From Boldfit To Origin",
+   "amount": "$236 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$236 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "23f7efd0b0ab",
+   "title": "Starlink responds to Reliance, says \u2018worked closely with regulators, ready to connect India with high-speed internet'",
+   "url": "https://www.livemint.com/companies/starlink-responds-to-reliance-says-worked-closely-with-regulators-ready-to-connect-india-with-high-speed-internet-11792205826693.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-17T03:10:53+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Starlink",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b801a4c4a1ab",
+   "title": "Masters\u2019 Union Launches Road to YC for 6 Startups [2026]",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sX1E0R2dtM2lfN0ZWWTNZdWNDdzY5YUxPT19mQUpxR2RRUlV0T0o3TE9neXF6cEJtYlhZQ2FWS21XX0RDMlNDbW40Qlp4Q09PMWtPUk1QZXk3QUJBUWlLV1N6SUkwaTdNdi1LZkFGNFk2MFVO?oc=5",
+   "source": "https://tech-insider.org/",
+   "published": "2026-10-17T03:07:03+00:00",
+   "score": 18,
+   "category": "launch",
+   "company": "Masters Union",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9266b8741c36",
+   "title": "India\u2019s massive AI opportunity; Women entrepreneurs in this year\u2019s Mann Ki Baat",
+   "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
+   "source": "YourStory",
+   "published": "2026-10-17T02:00:00+00:00",
+   "score": 56,
+   "category": "funding",
+   "company": "India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
   {
    "id": "2527133c3134",
    "title": "DataLabs by Inc42",
@@ -4157,74 +4366,6 @@
    "alerted": true
   },
   {
-   "id": "5e06c3416657",
-   "title": "Next phase of AI about driving outcomes, not experiments: OpenAI's Pragya Misra",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/next-phase-of-ai-about-driving-outcomes-not-experiments-openais-pragya-misra/articleshow/134955737.cms",
-   "source": "ET Tech",
-   "published": "2026-10-15T02:44:43+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Next",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "89a322319b59",
-   "title": "Nupur Garg \u2013 Founder, WinPE | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qOFpKX19YV3dPWFZCaGtROEhFNUtWQVRVZmxPeERNQ3NRWHc5MExHM2pIUnhmd2dmNWZvbHMxb2FjVkY1Q2VVVTNyNUU?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-15T02:31:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Nupur Garg",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cc0a05134f68",
-   "title": "India\u2019s Biggest IPO, Groww\u2019s Q2 Profit Run & More",
-   "url": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
-   "source": "Inc42",
-   "published": "2026-10-15T02:30:24+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "India\u2019s Biggest IPO Groww\u2019s Q2",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2134048719e8",
-   "title": "YouTube to label AI-Generated songs across its platforms to increase \"transparency\"",
-   "url": "https://economictimes.indiatimes.com/tech/technology/youtube-to-label-ai-generated-songs-across-its-platforms-to-increase-transparency/articleshow/134955591.cms",
-   "source": "ET Tech",
-   "published": "2026-10-15T02:26:44+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "YouTube",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "443d63c73c07",
    "title": "Hillhouse launches data centre platform TeraNova DC, may deploy $12-15 bn in India by 2032",
    "url": "https://www.livemint.com/companies/hillhouse-launches-data-centre-platform-teranova-dc-with-plans-to-deploy-12-15-billion-by-2032-11791954712858.html",
@@ -4246,104 +4387,6 @@
     "15 bn"
    ],
    "alerted": true
-  },
-  {
-   "id": "85050724d474",
-   "title": "Karnataka CM woos Czech investors; pitches energy, agri and aero tie-ups",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0hUWWxob2FHSUxSNDVJZkdIc2hWTEJORFhQN3B2WnRwbTVrUVNTNjNWQXhSY2ZJMDQzcFNvcXZkRzdRb1U1UGZQNmlReTVTVDE4WTU4OWdZaWNGS3FOd2xyUHRnbFlFRGFRb0Y1V2JxZXlsUEQ4cXFpWUpabWtCMkRWbHVycnFOdVlKTXRxTnQwTFJyVDU4cWNOZE1UTElEcHB6bDdKQ19kU0M5T2E1U2lQa2RKU1lkcGwzUUYxdG83bVNGeTA4?oc=5",
-   "source": "Deccan Herald",
-   "published": "2026-10-14T22:31:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Karnataka CM",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d2c0ced76b2d",
-   "title": "DPIIT Recognition: Meaning, Eligibility, Benefits & Registration",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFJRVzc4aEVfNnJlbnQ4b0dyaFdxcG9CU3h1dXhUaGhPV0NsZVJ6ODBab0NkZlp4bG9ZYWQ0a2FWTnU0dXlQQnN4Rm1PTi1wUkhKRDBvQW9sV3ljWGNMUDFGNGFqSThla1dsUWVMUUN0MjJDa0J4aXlHTGZhODBJZmhXc1BjdE0?oc=5",
-   "source": "IndiaIPO",
-   "published": "2026-10-14T20:22:42+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "DPIIT Recognition: Meaning Eligibility Benefits",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ef63f04d83ee",
-   "title": "Indian VC Firms Are Following Founders to Set Up Shop in Silicon Valley",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ObVpVTVBwSzgwcnZPUTJWZHVna29la19OdEh3V0lZdzhtcy1WcVo4aDJLdlc5anpMX2VoWUtSWDV5V0FmdGJ1MkxzUnkyY0daMmpNSHlvdnI1OXJqMXhpYlpfaVBwTWFlTUh5NEw4by1sQQ?oc=5",
-   "source": "Newcomer | Substack",
-   "published": "2026-10-14T20:21:55+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "VC Firms Are Following Founders",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ad9711032f43",
-   "title": "Nvidia CEO Jensen Huang says he would cut off customers who build unsafe AI",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-jensen-huang-says-he-would-cut-off-customers-who-build-unsafe-ai/articleshow/134950532.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T19:12:36+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Nvidia CEO Jensen Huang",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Jensen Huang",
-     "handle": null
-    },
-    {
-     "name": "Dario Amodei",
-     "handle": null
-    },
-    {
-     "name": "Anthropic PBC",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "77f7029fbaee",
-   "title": "Eight US states sue OpenAI, claiming ChatGPT harms children",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eight-us-states-sue-openai-claiming-chatgpt-harms-children/articleshow/134950394.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T19:02:58+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Eight US",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "fe73648d9507",
@@ -7109,59 +7152,6 @@
    "reasons": [
     "funding in headline",
     "Rs4.8 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1cdfb8d0ea3c",
-   "title": "From DailyObjects To StockGro \u2014 Indian Startups Raised About $123 Mn This Week",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFZCaUx2d3o0dnhXWHM5MEFjdUlfOXZRV01pUklyY00yUWR4U0xhVFVZdTNBMVR5aHYzalhhLTc2S2xrZVpzQm9UbUJ1RmJtUHdJSmxPNFdMLVh3UWNVZFFnNzdRSjFBRWVtN2MtWG90akh2N1lmZE9EcGdLeWl4Z0pHVGNDRXlQaWJJOVZSaDdjd25YT3M5YnhMc19rcWhv?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-10T03:30:25+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "From DailyObjects To StockGro",
-   "amount": "$123 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$123 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ab4161f1e0fd",
-   "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTJHbnRLM05qWjZUNkpKSVJudERCeXJQUjJ6N25kU0d1dmtockxpeVpQTENxUU5sWmFrV1R2RDEtOEdXdGlUQVhPZ011QTVDeDVJa1F3UGlmekV1UE1xU0pLRFNUZjdxNHFUWXpZNWhwT0J5VVYxQmRzRnI5TVBPbm55UlVwVjk3NldqTVNyMmFCYjQzVUdtbUJFeTNMaVF0RW80YVJvNEhEZw?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-10-10T03:10:06+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Elon Musk",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1c3a12e3faab",
-   "title": "Cars24 announces inaugural Grand Startup Challenge with \u20b91 crore prize pool to give India\u2019s founders the freedom to build",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVzBJX3pBS2I1SF9BcWFoWDUwRXIxM0pJR0Mwdl9KY25sYWlKbjgyY0F0OGhSYkdqbmQ5dERUN2h5dzA2eThJS2lJc3k2LS0zRGZ0WFlUc0lqVFZ5Y2d4OGY0VE81b3JxV0hZVGxzLUVQVWh4anVXNFQyUmU4VFprNmN2VTN4VkN4ZjFLU3pCUXU0ZmVWY2V1OGU0ZzdsS2FrME5Gd3UwUWZ5RWdUcFJvWVBHaGs4WVRtVndsblJvLUszRlhrQnVyR0c3b3J1c1dERmJvTVpIVjZ3Yk9Eb1U2aE5fNGxPWkR0MHFUSXV0RnkxUQ?oc=5",
-   "source": "India Education Diary",
-   "published": "2026-10-10T02:37:46+00:00",
-   "score": 59,
-   "category": "product",
-   "company": "Cars24",
-   "amount": "\u20b91 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline",
-    "\u20b91 crore"
    ],
    "alerted": true
   }

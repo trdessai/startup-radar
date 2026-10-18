@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-10-18T16:32:55.990479+00:00",
+ "generated_at": "2026-10-18T18:51:19.682829+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 15,
-  "alerted": 3
+  "fetched": 16,
+  "fresh": 4,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "5cdfe9bffe24",
+   "title": "Should India Rethink Startup Funding and Job Creation?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXRaVERvdnpKV25RSklvb0ctYWRYdjFLUklLREFWUU9ZZ1JpOHlaalRVdFd0bGFONXpQanF3eThIc3VMeHpYNndteUJxUG93OGNXNW4wUGdTQlRXQThPdzBzMUJYTTBTQjZEMFZSN1Fod0ZaTXQ0M1pIUE9QYnJIcklWRkJxdV9fWUFYMWYwYWp1TnBEOUtObGJxNndZTzJ3SUNDYWloeEdrQlNkeUlKbDFB?oc=5",
+   "source": "Dainik Jagran MP CG",
+   "published": "2026-10-18T18:30:40+00:00",
+   "score": 53,
+   "category": "funding",
+   "company": "Should India Rethink Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "99e308b33cb9",
+   "title": "NSAM 2.0: Supporting Startup India and propelling GDP",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUZ5WmhweGxnMVpScFNudklUWnN3NXpQN1MydGlzN2xBNVIweWhoV3JrWUp0VVcxYTFGWXF4RjRtU2FGNXpTOVA2aENHQzhrc01oRi1uaGpHRnV4dFMxVHN0R0V4LUZpRTBERFV5Um00bGxkSWMtTDJGT3prZG4wbzFVNTMzSm40WGZMdjY5SFFMLXVXZlM1U3V0b05KODRqbHc?oc=5",
+   "source": "Organiser",
+   "published": "2026-10-18T17:21:10+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "NSAM",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "9a2fa05bd993",
    "title": "Airtel launches voice-only plans at \u20b9185, \u20b9203 and \u20b9206 after TRAI's mandate: What each plan offers",
@@ -7156,40 +7191,6 @@
    "score": 63,
    "category": "launch",
    "company": "Union Minister Jyotiraditya Scindia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "20c93ee6a6d2",
-   "title": "Sigma launches 50-120mm F2.8 telephoto zoom in India, 16-300mm superzoom gets a new mount",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM0JCOE42WXBPbHJTb19iRU5fTFViMWtRUzg3a1pEbmY2dlFkSDRHeDBJVkdkNnA2dnVFVHd0OXJzNGhPYU1XY1puaVlpUHI4c2hQVWFOX0oyX1Yyc0loMnFiQmMtM21zcnF2dDhYNHNFRDhFR2tiQlptLUVmSHBCTHQyd1JxdG5GMEl4SnB2THVwNnZMVnBQdHg4ZkNPdjNtd0prem9CdTluWVcxLUlrLW1uLVVwSjhRQWpDMkxVd0YtUlV4VlQ1ZDRzQUFEQmlFZHBYMnB3cU93R3JTc2NsR2txSzRQcVhoaGRVcDVXZ2NiRlJLUTNDYkJ6RjNHMTd20gGGAkFVX3lxTE5vMTBpODVGZ2o0Z3JFVng5amRNbThhUnhvQmp1UUdadjJ1WUE5bGk1N0t4QS02Wmx0STV0QmNxaEVvNEh3RHgwRW15eUxOQUZta0p5TVNGMWdpZUw2b19HbWwzMGtuSkFmREUxdU9QVnRrMXVqZlYzb01SamhUVFR4R203ZFpHRmZaVmJuUHRTa0pxNjloa2ZxMmVMZEl0Rk1OQzBLblRZeHhsX0xNblRvb0RNRm5PSHJNQi1CWm5lV3lKRDZ2aGpOcHI3aktzNEh6aE5ZeVpoeHp4UWo1ME5oaWtOeG1LaWlnR1BCek5GOWJ5bzFVZWxDTWkyTkQ5eHdjaHJpQWc?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-11T17:41:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Sigma",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b1031ff522fd",
-   "title": "\u2018You\u2019re fired! Get the hell out!\u2019: Trump launches blistering attack on Gov Hochul & AG Letitia James",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLU05MDI0SmRCR2JsemRBOF9zbXliTDE1RnQ4clpYRWdpaVpOR0QzNnR6enp2S3pKQVl6a3Z1d1lpb1dnbWt2ZkZUUGlZOXFUVWNmSGpxOWRzR1YwbHVXQl9vdnBnVGtWSzI3Y1VmRzJ4MjhRUjZuYVRDRVlJLWpnLXJEb19wREFKdU93V21DN3RNcFVHM0h3cU9qZVh4R1QxWGplOU1MSjJha1hrMEtnWVlxT0ZpUlN1RkI3TGZReUYxWm1RYXZGTzNsQjdMMVZMbWpnVTZtU0NSYmtTWjVlY2U3YTVBeFl4N3dNbTNINTUwUDRwWHNJYk52S2VyRXJOZVp4UzBWWE5HQdIBigJBVV95cUxOLU05MDI0SmRCR2JsemRBOF9zbXliTDE1RnQ4clpYRWdpaVpOR0QzNnR6enp2S3pKQVl6a3Z1d1lpb1dnbWt2ZkZUUGlZOXFUVWNmSGpxOWRzR1YwbHVXQl9vdnBnVGtWSzI3Y1VmRzJ4MjhRUjZuYVRDRVlJLWpnLXJEb19wREFKdU93V21DN3RNcFVHM0h3cU9qZVh4R1QxWGplOU1MSjJha1hrMEtnWVlxT0ZpUlN1RkI3TGZReUYxWm1RYXZGTzNsQjdMMVZMbWpnVTZtU0NSYmtTWjVlY2U3YTVBeFl4N3dNbTNINTUwUDRwWHNJYk52S2VyRXJOZVp4UzBWWE5HQQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-11T17:34:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "You\u2019re",
    "amount": "",
    "stage": "",
    "founders": [],

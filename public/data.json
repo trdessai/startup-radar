@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-10-18T18:51:19.682829+00:00",
+ "generated_at": "2026-10-18T21:07:48.398278+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 4,
-  "alerted": 0
+  "fetched": 12,
+  "fresh": 6,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "687edc998fee",
+   "title": "IndigoTex raises $518K to scale India's waterless wool denim tech",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUE2UlFNM3hFa1ZjMXhxcUFqOTlEeDk3dFBwN3lldGhJS3VrY25NbGlWY0x5MDZmdEJpV01TN0NkZ0J4OTRzdk5XRUFPQjBFblNsRWNsN1NKV0FHczFVZEpWOFc1MDJLU1BzNkM5T05xQk9yazJjbi1xWmVlMlNkc09YcndtQlpkenZPeTg2QS05TTBKSEUtbDgwV1I1SDA?oc=5",
+   "source": "Dealroom",
+   "published": "2026-10-18T21:04:43+00:00",
+   "score": 71,
+   "category": "funding",
+   "company": "IndigoTex",
+   "amount": "$518 K",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$518 K"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "45c4a4ca59f6",
+   "title": "Bengaluru startup Khanal Foods moves beyond yak-cheese chews",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMkkzdUF3THlzeEswWk9zeXVWNlJrT1ZkX2lXXzR5aDR3b0tBUS1GNjVRMXUzdGxOY0JtNVVVckkzeXF5MzlZWTNfUDRtZjNWYWJLWDZOdW83RjFsaFhaX0p6Z212RkZ6TnFKQ1FBWU4xVVh4ZzVHanhpSzFPODFMVWlMMkVLai1rVWhoemFidEtOWHZPWmdrLXAtSlc2TXZqT0xxVHloRVh1YkxKeFlSdGNCNXBISjAtVVktLTdueE5YcEZWbWJjZ2RaMUVkeHd4NEpadEJpRjZkeDEtWWdFbg?oc=5",
+   "source": "Dailyhunt",
+   "published": "2026-10-18T20:42:13+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Bengaluru",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b5598481a829",
+   "title": "The Weekly Notable Startup Funding Report: 10/19/26",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3FpUHIzM0dnalhKVEJqb0F2NFBRa0hSSllTS2xycy1XYXI2djQ3UUE5RXdnbjBTb0ZELTc4b3Q4YnZxanV2UmRNM2FGNldtb2R0RlI1R0FjWEdBa3dGVElHYnE5ZVpMN3lqNVhaUW14M09wTUktREJGNFVFMno1QVVyaFJHXy1mOUE?oc=5",
+   "source": "AlleyWatch",
+   "published": "2026-10-18T19:28:35+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "The Weekly Notable Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a358c09b939c",
+   "title": "Who Will Pay for Delhi\u2019s Shutdown? Modi Government\u2019s Security Crackdown Raises a Brutal Question: How Much Must India Lose to Protect the System Around One Constitutional Office-Holder?",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPUlg0R29pWng4LUl3bnJKZ1dVMElaX0JQdUx1bUxvNnlZN180MVF5WjZDZFh6d01JZ1k3d2JxaXJGWHlITjc2Y1pLVGxBTndEV3doWk4wekZsVGlqQnRneVZpektFNjN2cUFuYWh2V0hCRkxEZjR6ZVQxb2ZoeXBfSHItYTNEMlpHSEprWFM3UDJoNUVqcmRKNG45R3dvdzhUY19WNklaN01IclRkSG9RYWVVSGJ4ZUtBQzFSRW9mZjZCaUluSElsdWhCTndHZnEtOURTVDhCSV9Ddkk1R0R4MXNRWUd0UW9EZ3E4RGNQMDRtVzdVUVFZXzJLRU9TSFhYS3pnVEp2QTgzZmp6SWdqZVNVc1JoSFMxaHNib3BVSVhQM3Y3VjBKdHJUVXhyTUtBSFh3T1FRR0hfcGo4?oc=5",
+   "source": "Inventiva",
+   "published": "2026-10-18T19:17:16+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "Who Will Pay",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "5cdfe9bffe24",
    "title": "Should India Rethink Startup Funding and Job Creation?",
@@ -22,6 +92,23 @@
    "reasons": [
     "funding in headline",
     "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "28d87b0370f9",
+   "title": "Two global tech centres to come up in North Karnataka region",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjVzR1I4S2ZRZVpOOC11SFcyTmhMUTVNbE5LWU9QRlZlUDlIanlhWGFoOEFQVHROYnhlNTBQRjVpT0l4emRfdDUtQlhfelM0UGdKUllMWWhtclRqbnkyRnBIeFN4RFBKNjdRSjRJWk5VVkRPV2MtRGMwTDl2Q0c0bzJnQmVja0YwOUMydnlWU1pwajB6Q3czRFdIc0tHSlRxeEhxZmt4aVZmbTRNWlhuQUxvTms3ek9XS040VFlEQ2toSng1WWc?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-10-18T17:22:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Two",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
    ],
    "alerted": false
   },
@@ -4457,60 +4544,6 @@
    "alerted": false
   },
   {
-   "id": "c19bc75c1f28",
-   "title": "This 11-year-old built an AI smart cane for \u20b910,000 and took it to the UN",
-   "url": "https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un",
-   "source": "YourStory",
-   "published": "2026-10-15T12:10:09+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f70428e7e7ac",
-   "title": "Prepaid Pulls Ahead of COD as Digital Payments Gain Ground in India\u2019s D2C Festive Sales",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1dxb0lBUVpNa2k1a25hNFF5bG9ya0pQU1hvMnRmMHBNeVNCVmZfc0ZnbDVKVHg2cVo1QVRIT1JzV1Q5eXhZb0NEalpfRC1WQkszWUN1dFN6YlJnS2x0RVFJYVdzcUpjLXFjZmxCckZNZVh6U1lQUVFmU2lyQlpRX05uT3lHcFA4X0F2V080MGE4UEhETkJRd29INDF2enFMb2lwTVNhcUpwNm9uMEZVV1I3WFFGQQ?oc=5",
-   "source": "MediaNews4U",
-   "published": "2026-10-15T11:52:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Prepaid Pulls Ahead",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7f12f91dfaed",
-   "title": "#FrontPageLIVE \ud83d\udd34 OpenAI levels counter-allegations against Apple in an ongoing trade secret lawsuit, and a $1 billion AI satellite constellation just made orbit its next data centre. The biggest stories in global and Indian AI are live right now. Global Headlines:-",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEVsOHFJUUdCMlc5aHpZamVNVWh5WFpJYVdWek1sNUJoakVwSXBNWTBNVldXS3o2V3lUeDZYV1hqbXFvMGVTYjQyZFRQX0pENGFhWkZkck5MdVcyRXVEeHhPRlB2M1hHMEpPcndPVnB4cDRvSEZXY28zQUNYUFVzWHdSYm0yNTlrUlNCODFlTFB5b0xobXhUaTg5Y0Q1SEloQWROZG9iVGNKVXF4WFFRT3BBVTJNWjUtM2cwNFo5U3BQNVJoTWQ0?oc=5",
-   "source": "LinkedIn",
-   "published": "2026-10-15T11:48:12+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1 billion",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "58dfc23f38d5",
    "title": "US startup planning to sell sunlight books launches with India's Skyroot Aerospace | Launch dates were not disclosed | Inshorts",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOC1WNlA4SnkwZFJQa2Fveld2T29tV3ktRXpHUHV0WTI0Sm1mZk1oRWV2Y3NzNUpkbWNhRnRtTk94RGlseHI5NmtWZldFUks3bFdUVXUtUFdXamltbW9hN01aQ3BoYnNRLTdxc3BSSXA5UFpma3V3TU1Ba1Q1cGd1dUJ3Yl9vMzBqd293OVo4a1JnSTZxam1KOUR3ejlXWGpORjdVbXNsRmQwYlVsc1ZLT19WY21oQmpUZlpjUEJZdl8yTDZDQnQ4M9IByAFBVV95cUxQOC1WNlA4SnkwZFJQa2Fveld2T29tV3ktRXpHUHV0WTI0Sm1mZk1oRWV2Y3NzNUpkbWNhRnRtTk94RGlseHI5NmtWZldFUks3bFdUVXUtUFdXamltbW9hN01aQ3BoYnNRLTdxc3BSSXA5UFpma3V3TU1Ba1Q1cGd1dUJ3Yl9vMzBqd293OVo4a1JnSTZxam1KOUR3ejlXWGpORjdVbXNsRmQwYlVsc1ZLT19WY21oQmpUZlpjUEJZdl8yTDZDQnQ4Mw?oc=5",
@@ -7162,40 +7195,6 @@
    "reasons": [
     "expansion",
     "\u20b95,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6ef157c920e3",
-   "title": "Nagpur-Based Bangladeshi Trafficking Kingpin Behind 250 Fake Passports, Fresh Search Launched Across Indi",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONHcwVnZaVnBLbUxmTHVJZk1EOFl2VlA1UTF3MHZnSmZQcXctV0ZSUUhfR2RRdXBUSjEzemJnLUdrNkpfSlp4b1l1MmtpZUdkeEJPZUVvMFFwbWpuT0RpYzdvTkNFMmNISTZJNlVEMThoLWptMTUzYm55NEhtQy03OXFWaFl2Z25VN2daUFNyalB2X0hQZVBOa0lkOEhYUGxWbk93VGFObnFqNkstcEI3WTVFQjBSTHZFekl2ZEZCQWkxZURSMDlXTkNGUzRuU1ZDd0YxbDVUWGtVVjZKR0RDNVRzbEx6UEhRbTdLZ2JOVnFmaE9MaXloMG9WcU9oc0tEeHVxUU9jb29hOTjSAZACQVVfeXFMUHd6M2htVF83Z3lmRDBIVkRWVnRRaWlmejQ5b0lNckp6Q2tYZDZaeVluanlWQ2RsVl9tS2ViYTZrRlAyOFA3bWtadlJfcm16Ri1zTzVSNm8zbWNDZy1HVzJkQk1sdk5Hc0JrZWJGcGk4ZnFjMVJwanJBZ2VUajlBMjkyeFdnZG91Yk9ZdXA2MG5tTUc4c01wYWM1NVk5a19sbG1aaElxakdhWV8zWV9SWE56cDUzQ1dzZlJCS21fdVBIcVNPYm1JWW5vUmx0X2g1TURzYjV3bkxXU3ZGeE5lQlQ2b1YxcWVBNDZaMzJnd0NoMGhManIzcGJOTVZfVFoweWlWVllHdWM0TUVVXzNfRXg?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-11T19:36:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Bangladeshi Trafficking Kingpin Behind",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0f57b15a8c92",
-   "title": "Union Minister Jyotiraditya Scindia launches theme for 10th India Mobile Congress 2026",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONS1LeUxtVzZ3VDJndG1MTzZjY0VNTDJOV0w3RXhBMU1CN091aFVuQzM1UDZzaVN2cDQ3NlJqSWdYX2lFc05wLWtPWl9IYmozNE1DUkhyN2x3QnBXeUdUY0NLZkxDdi1yVzZZN2FqbWNTTEQxZDdHTDNReHVxSDg3U0xDcWR1UGRQZ3RQRGIzVnliZUozR0xJZXBVcmc4dDZncUQ1c1NwV3dZWGUzQTZXTlh3?oc=5",
-   "source": "News On AIR",
-   "published": "2026-10-11T19:12:40+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Union Minister Jyotiraditya Scindia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

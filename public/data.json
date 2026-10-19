@@ -1,12 +1,110 @@
 {
- "generated_at": "2026-10-18T23:03:45.725301+00:00",
+ "generated_at": "2026-10-19T01:05:45.175287+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 1,
-  "alerted": 0
+  "fetched": 8,
+  "fresh": 6,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "751abdc3a3d3",
+   "title": "Food services platform Focus Prism raises \u20b9145 crore from OAKS, buys Chennai-based catering firm FoodExo",
+   "url": "https://www.livemint.com/companies/news/focus-prism-food-services-oaks-asset-management-145-crore-fundraise-foodexo-catering-acquisition-11792309818833.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-19T00:30:47+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Food",
+   "amount": "\u20b9700 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9700 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "54c337c775ab",
+   "title": "The Pant Project Raises \u20b9109 Cr To Expand Store Network & Portfolio",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmVGTk9MTUt5eEpZbmcwbWJ6QmpyUXZxR2tkUTRZd1VJS3BhWHpLcFFYRWtKM1ZZMEJzZGliVFNEU1hhQ3IzaW00MmJ3LVo3SXk3eVBPTkFhZXBtajBUNE4yZ21YbjgtUlVWakc2Y19SX1RBWjdnTnBNdnZuV0hCTkVmZ0p1TFMtZVRDc1BEbkdaaEdTb21fbWwweTVZUQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-19T00:30:13+00:00",
+   "score": 79,
+   "category": "funding",
+   "company": "The Pant Project",
+   "amount": "\u20b9109 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9109 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f1fb6928338c",
+   "title": "Will The Jio Platforms IPO Live Up To Its Billing?",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmQwTVE1V3JBMm9KaExqTlJJdjg3eE10Q05aSjZSdTFKLUJpTVlfMHF2aHoyeWpVODJhUEZIeUF0dzFjZVhNQ2R5ckFSWWhsZXJSV1lHMDRSQV92M0c3cVQyUTB4MlRZUHNwOVVlTm1nZlBoUHUxSjhSODJGY09CaGRwcw?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-19T00:30:04+00:00",
+   "score": 11,
+   "category": "other",
+   "company": "Will The Jio Platforms IPO",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7bde7c068db5",
+   "title": "India a keystone for Hitachi Energy supply chain amid global power crunch: CEO",
+   "url": "https://www.livemint.com/companies/news/india-a-keystone-for-hitachi-energys-supply-chain-amid-global-supply-crunch-says-ceo-andreas-schierenbeck-11792320006502.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-19T00:00:30+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Andreas Schierenbeck",
+     "handle": null
+    },
+    {
+     "name": "Hitachi Energy",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8de61e872a68",
+   "title": "Battery Smart raises $10.5m from Ecosystem Integrity Fund and other India deals",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNm5oZTVqYm5XR1Y5a2lpOEN3TVdfSHF2STF6ZEE2TUgzeV9ibnRKQUtvaEpPQW9GaHF1N0pMLW9VQXd3OGVseDk0R2M3dWoxU2ZKMUd5alJoRFU5eVRMOG53UTBmTTNnVm5lMUpGcWFXYVNET3poX2F1T3lROTB5SEhiMmlHd3B2cEY2ZWpR?oc=5",
+   "source": "DealStreetAsia",
+   "published": "2026-10-18T23:36:25+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Battery Smart",
+   "amount": "$10.5 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10.5 m"
+   ],
+   "alerted": true
+  },
   {
    "id": "687edc998fee",
    "title": "IndigoTex raises $518K to scale India's waterless wool denim tech",
@@ -4445,63 +4543,6 @@
    "alerted": false
   },
   {
-   "id": "95f04a8df771",
-   "title": "Exclusive: Shopify To Bring Accelerated Checkout Service \u2018Shop Pay\u2019 To India",
-   "url": "https://inc42.com/buzz/shopify-to-bring-accelerated-checkout-service-shop-pay-to-india/",
-   "source": "Inc42",
-   "published": "2026-10-15T12:59:36+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Shopify To Bring Accelerated Checkout",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6780e5254bd3",
-   "title": "Flipkart Group posts Rs 1.46 lakh Cr revenue in FY26, losses stand at Rs 8,468 Cr",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzhENVJIU21RbktlVG5YcUdTaUVLMFVITHAyMnNhdlBEZnhjVkZYRDNCMVRyVzJMbWJLbDAwQnZta0hQVHNFdnQ5V2tqMFYzNkw4aDBYT0tnZVc5UmRCVWlZc09EeXRxWjQtSHQ5SUM1ZU9NOVhGSzU4RFlaaTNvRURLaER3Q2k5am5sZW5udWZULUZnYk5RVzMzR3E2TGNrcE1SQzdBemJlRzY3cURPSDBvMlhFSVp3LVHSAboBQVVfeXFMTTc4RDVSSFNtUW5LZVRuWHFHU2lFSzBVSExwMjJzYXZQRGZ4Y1ZGWEQzQjFUclcyTG1iS2wwMEJ2bWtIUFRzRXZ0OVdrajBWMzZMOGgwWE9LZ2VXOVJkQlVpWXNPRHl0cVo0LUh0OUlDNWVPTTlYRks1OERZWmkzb0VES2hEd0NpOWpubGVubnVmVC1GZ2JOUVczM0dxNkxja3BNUkM3QXpiZUc2N3FET0gwbzJYRUlady1R?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-15T12:48:24+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Flipkart Group",
-   "amount": "Rs8,468 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs8,468 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4e3302a1b7b0",
-   "title": "Swiggy's next big bet is on the 90% of Indians yet to try food delivery: Rohit Kapoor",
-   "url": "https://yourstory.com/2026/10/swiggys-next-big-bet-90-of-indians-yet-try-food-delivery",
-   "source": "YourStory",
-   "published": "2026-10-15T12:47:45+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Swiggy's",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Rohit Kapoor",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "12abed7dbe13",
    "title": "AdGraam Raises Rs 3 Cr Seed Funding Led By Nitro Commerce Co-Founder",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1h0N2w3TzlSalQ1WDNCcFg4R0tIeWt3ZHFXZW9wVTFJQzY2dV9zcU50QkFyMTlRZUhSR3RvTlhLNEJmSER4UzZOV05TczhCYVE0SXFvMDkyZVl1ck5oRkp1bERtM3EzNXlDRHlPeUp3VTZhbHNsUmhsd3hvQXZUSFhCMHh4U1A5cF90TE5NNGNXOXFPb1ZFTzJwZ3dONDliQ1Bha2F2S2xlRjJkekE?oc=5",
@@ -7159,42 +7200,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "67b200134808",
-   "title": "Supply-chain shifts, policy push fuel India\u2019s manufacturing startup boom",
-   "url": "https://www.livemint.com/companies/supplychain-shifts-policy-push-fuel-india-s-manufacturing-startup-boom-11791710198682.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-12T00:30:35+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Supply-chain",
-   "amount": "$1.92 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$1.92 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f70b434910cd",
-   "title": "Encalm looks beyond airport lounges to build \u20b95,000 crore hospitality business",
-   "url": "https://www.livemint.com/companies/news/encalm-looks-beyond-airport-lounges-to-build-5-000-crore-hospitality-business-11791693514617.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-12T00:30:14+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "Encalm",
-   "amount": "\u20b95,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b95,000 crore"
    ],
    "alerted": true
   }

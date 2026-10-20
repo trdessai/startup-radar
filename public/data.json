@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-10-19T22:40:32.620646+00:00",
+ "generated_at": "2026-10-20T01:17:03.725219+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
+  "fetched": 4,
   "fresh": 3,
-  "alerted": 1
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "9eab011ecdd2",
+   "title": "Goa AI Tech Conclave 2026 Opens Registrations for October 22 and 23 Event in Panaji",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN212Z3RxU09OZFNpalU3NEhSNVY1U2M3MTY5VWg5U3ZQTzZDand2aGlyS2o5UExzRGs2QzVzWjFiYUJxTlgtUEFtUk9SY0ZqQ3hwSDVhTlRrTEViaXNBbXpia1RzajhTbkl3YmkzU0x5Z2lYYTlwa3JLUGt4LVVKLUpvcjFhVzZmRlVqY0FjUnRuNzZaSlhUUDA3UWdHeU5GRVZsaVdYeWZYa2FZMDZYaXlNSGVLVHlH?oc=5",
+   "source": "Prittle Prattle News",
+   "published": "2026-10-20T00:21:42+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Goa AI Tech Conclave",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1ae0c588ca9f",
+   "title": "- MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfVzJqd28ydk04VTctRE1PV1VhYVNZbjZmaVJLSEZrVWJjUEVsWVVRVU0xVk0zVEJ1a3VFeDlFZ21DQ1VwcTRJeEhud2ExSGdsS3BNb2xfWmNxR2pWRnFubVpiaGhXdXM?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-19T21:28:38+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "d61555430816",
    "title": "Nityas Gems and Jewellery, owner of LGD brand Ayaani, opens Rs 108.42 crore IPO",
@@ -7151,43 +7186,6 @@
    "reasons": [
     "funding in headline",
     "$10 M",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a7d29fbc04c0",
-   "title": "Mesa School of Business raises Rs 110 Cr co-led by Dharana Capital and Elevation Capital",
-   "url": "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital",
-   "source": "YourStory",
-   "published": "2026-10-13T00:40:00+00:00",
-   "score": 73,
-   "category": "launch",
-   "company": "Mesa School",
-   "amount": "Rs110 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "Rs110 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8c73afb94396",
-   "title": "Mesa School Bags \u20b9110 Cr To Launch New On-Campus Courses",
-   "url": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
-   "source": "Inc42",
-   "published": "2026-10-13T00:30:58+00:00",
-   "score": 93,
-   "category": "launch",
-   "company": "Mesa School",
-   "amount": "\u20b9110 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b9110 Cr",
     "Series A"
    ],
    "alerted": true

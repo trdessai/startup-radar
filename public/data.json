@@ -1,12 +1,66 @@
 {
- "generated_at": "2026-10-20T19:36:29.955357+00:00",
+ "generated_at": "2026-10-20T22:35:55.966726+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 17,
-  "fresh": 12,
-  "alerted": 3
+  "fetched": 6,
+  "fresh": 3,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "e187416f53ae",
+   "title": "Ammonium nitrate to PETN: CCPA cracks down on 7 online platforms over explosive listings; 3,940 sellers delisted",
+   "url": "https://www.livemint.com/companies/news/ammonium-nitrate-to-petn-cracks-down-on-7-online-platforms-over-explosive-listings-3-940-sellers-delisted-11792527020743.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-20T20:24:53+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "Ammonium",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a94128028b17",
+   "title": "The RBI Just Raised Rates For The First Time In Nearly Four Years. What Does It Mean For Inflation, Growth And Your Money?",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTms3UjJzN3MtT3J0ZG5RVDl1UkZPYnVqOUMteHUzekxFazNmNnZScmVuQm0yZURhVUVXQ1I4eTZJbC1ka2t3Rl9sT3hfSTBpaThBS0ZhcS1vUGNqY25PRVhIVDktemZ1czRINDI4VzQ2X2tKSXNNT2xQN1BSTV9XZU8wNnFvRTdpankxandLa3ZHN1FuXzQ4MFJoVWFlWGxjTjk5UVZ4WDN3VXFBbVN3UkROX0dzeHM1cmZDejZsb3ZUcDA3bnNwVGFoaTF6Um5lempGcmxaWThueG9GMThldlVDZndialhkN2FR?oc=5",
+   "source": "Inventiva",
+   "published": "2026-10-20T20:12:37+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "The RBI Just",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "96906e11a051",
+   "title": "Vectorial Raises $3M From Smilegate and SenseAI to Rebuild User Research With AI Audiences | HackerNoon",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1seXBrNEI2a0xKSjUxR1FPT2xnNjhUcnFnanE5UGlQelB3dmxQeFBJY0xOdllqcFFUcHE4?oc=5",
+   "source": "Howl.link",
+   "published": "2026-10-20T20:09:47+00:00",
+   "score": 70,
+   "category": "funding",
+   "company": "Vectorial",
+   "amount": "$3 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$3 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "288cb5f4ded9",
    "title": "AI-based startup Epinova Health launches in Dubai to transform disease prevention and global health security",
@@ -7096,24 +7150,6 @@
    "reasons": [
     "product in headline",
     "$15.5 Billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4787cf157488",
-   "title": "Sainaptic Raises \u00a31M; ByteXL Secures $9M",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFphTk5zN0Z3RHlNMmdUMDFPM2RjbU1LWnJ2NndDWWFhMkdqUThJaVMzNUR1aHRkazBPZ1dxdS1SRmNjT0sxb2hsWFFab3BZdEZaeUlrYUNpdUV5ZkpfQjF5Q01lLTYzZ1VGcWl2VmNTcUVfcHF2d3JhelFwekpBeGVYM3hWelJmWU14UWJkNV9qTHY5RjhtbEt3NDM?oc=5",
-   "source": "Education Week",
-   "published": "2026-10-13T20:02:01+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Sainaptic",
-   "amount": "$9 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$9 M"
    ],
    "alerted": true
   }

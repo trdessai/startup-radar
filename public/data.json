@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-10-20T22:35:55.966726+00:00",
+ "generated_at": "2026-10-21T00:50:57.765309+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 6,
-  "fresh": 3,
-  "alerted": 1
+  "fresh": 6,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "ff5f4d49d87d",
+   "title": "Bengaluru-Mumbai Vande Bharat Sleeper Train on Nov 1",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTUtRUpjZUlIR2dNYllER181NG9XZjlIM3prbkw4ZHV2UTN5bGJUS2NoSkh2WXZxeUR0S0VJbms1el9IVVRKalBfcTFDX1ZYejNfMlQzMHYyU1k5TnV6OGE1ZmRmUUpZY2wzWmtqTzBTRmdmRlhNTGszR3hsNnViWERYOUNoaEo4RHhfQ0tUaWhVUk9sSmkw?oc=5",
+   "source": "urbanacres.in",
+   "published": "2026-10-21T00:42:33+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Bengaluru-Mumbai Vande Bharat Sleeper Train",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2cf14726dfcf",
+   "title": "Match Group eyes India growth even as dating-app scams raise safety concerns",
+   "url": "https://www.livemint.com/companies/news/match-group-eyes-india-growth-even-as-dating-app-scams-raise-safety-concerns-11792412946077.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-21T00:30:19+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Match Group",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fca7dce59ddc",
+   "title": "AI startup Simplismart in talks to raise $40-50 million; valuation may triple",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUl1a3VsczFGOFl6Z0ljTGxpNHIxTGp3ckF5Vy1hU1I5YjJBME9xMHhtd0NfMkxBc0pLWEtGZWhrMnNwazNac0IwWmRySG15cF8zanlvVURqWWxoSXBGMWlrZlBhWE91bDUta1oxWHVYMmFlV0wtMTk1SWpfTFlhX09POXhGU1JCTW04dnY3VkdYRlN0bkxsZ290TGtMNG4yLWNHcXBDOThQbHRvYmhzTElCUG52RWFhdVc4RmJ4ZWU5OGRLaVU1c1VwOXZ5OTFLSmY0dm5ZZWlHd9IB3wFBVV95cUxNYnVBX1NYblJRbjlnbjkxUXJXUUN6eWhlaFJhZzhSbFlnVVhsVjdMZE1wQ2dFTzVOSjVpMHgzbG5CUlNVaXpla0h2U29GTGthdVRod3RBcUZSQTB0ZEdPTmV2YW5VSk9XcUg3aWUzV0xRUTlfd0d3bWJ2akZLNDRaTUJjWXZkMXEwU0t2T3U4UDhoRzRZTnhzcWljRjlJYlVPZlBMNDBjOVN3TVJxMTIxQ3JZaU9mcUY0UnRoWENuMURXMm00cFVGRmptN3dCdHNxQnRKd0JqZDZScG5Nd0Nr?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-21T00:30:00+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Simplismart",
+   "amount": "50 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "50 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c2842ec6ca16",
+   "title": "Akash Ambani Leads Push for India\u2019s Biggest IPO as Jio Opens \u20b930,213 Crore Issue",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk1NVml3cUFldmxzX3BndWdnR1ByYmVUY3luWUxNUmxESjk4RGFBb1ZsZXl3cWN3ZFZVMzZ3UmxxU3VPRVlPMDQ2NjZtQnY2ZFpOazg5T2JDYkQzYXRqdzRGMzVxMnFMcnRLZWNVTGxHMnBuY3c4QjFCNU5BMzdMNFN6QllJZ2hKaDRYQTRfSVFNTUpIbTVpZ2Y2bkphdmRkRk1taXpkTUFPdl9UR1NPZGdXMjVQVTQzeHNsWg?oc=5",
+   "source": "India Business Trade",
+   "published": "2026-10-20T21:21:25+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Akash Ambani Leads Push",
+   "amount": "\u20b930,213 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b930,213 Crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "e187416f53ae",
    "title": "Ammonium nitrate to PETN: CCPA cracks down on 7 online platforms over explosive listings; 3,940 sellers delisted",
@@ -4637,23 +4707,6 @@
    "alerted": false
   },
   {
-   "id": "d4bcf29c1fe2",
-   "title": "Strengthening India\u2019s Space Sovereignty",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuMkJqa2FtYW0yTnZuYlEwUVMwOG54V3ZjX3Jxa0pBWU9GNzUtd2lTSHd6YVVROEppVFBoRmdUZDhpM2lnbXlERGZHcEdlZkstVDVQbzl2bXNXTW5XZEIxM1dnai1MUmdGdFBoSlJzUDFsZzJ5bHZJVw?oc=5",
-   "source": "Press Information Bureau",
-   "published": "2026-10-16T16:12:01+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Strengthening India\u2019s Space Sovereignty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1ccbd0affeb6",
    "title": "Urban Company announces plans to enter residential air conditioner segment",
    "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-announces-plans-to-enter-residential-air-conditioner-segment/articleshow/134998753.cms",
@@ -7115,41 +7168,6 @@
    "reasons": [
     "funding in headline",
     "$11 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8cb05647c471",
-   "title": "Zoho\u2019s pay freeze signals broader AI-led pressures for India\u2019s software industry",
-   "url": "https://www.livemint.com/companies/news/zoho-freshworks-ai-impact-on-saas-companies-11791894032225.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-14T00:36:21+00:00",
-   "score": 55,
-   "category": "launch",
-   "company": "Zoho\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d9dd0bb0455e",
-   "title": "Hyundai Motor Group Announces $15.5 Billion India Investment by 2032 \u2013 Bigger Manufacturing, EVs and R&D Push",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFZqYlJHQ3I2cVRRLWJrTHZzZjdMYTRWdElpbnlhOTdlcDJpTFZqdm8wOXlMcGxzNDdUMWNRTE5TY0VkN0x5NFg3SDRjYmRraVVKZDhZMFFBd095M2ZPa01DczdWMU9jSUtDdWtXRWRZSWJtRU9leGlTdy05dVFhUQ?oc=5",
-   "source": "Autopunditz",
-   "published": "2026-10-13T22:52:01+00:00",
-   "score": 71,
-   "category": "product",
-   "company": "Hyundai Motor Group",
-   "amount": "$15.5 Billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline",
-    "$15.5 Billion"
    ],
    "alerted": true
   }

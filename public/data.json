@@ -1,12 +1,395 @@
 {
- "generated_at": "2026-10-21T00:50:57.765309+00:00",
+ "generated_at": "2026-10-21T05:27:48.820012+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 6,
-  "alerted": 0
+  "fetched": 31,
+  "fresh": 25,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "948924dad774",
+   "title": "China's Moonshot AI to operate in Singapore, jobs post shows",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-to-operate-in-singapore-jobs-post-shows/articleshow/135082861.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T05:16:46+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "China's Moonshot AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec518f834aba",
+   "title": "Jio Platforms opens Rs 30,213 Cr IPO for subscription",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUppYlZKem9hSmtXbG5YT2RLcS1jSVo5LXQ0emdVU1c1RDNmdEthdjZvR2s1TlNqempmT0xSNjVUZEo2V1FjdlBiSkg1NE9GWE4wLTNKc1N3c3ZRbE5aSWFTUzVFUjBFbDFXSFJQUTQ1ZlVaRHpoWklJMFlQZzhHclRrb3ZSQnlTaml2TGRsRUfSAZABQVVfeXFMTjlKaWJWSnpvYUprV2xuWE9kS3EtY0laOS10NHpnVVNXNUQzZnRLYXY2b0drNU5TanpqZk9MUjY1VGRKNldRY3ZQYkpINTRPRlhOMC0zSnNTd3N2UWxOWklhU1M1RVIwRWwxV0hSUFE0NWZVWkR6aFpJSTBZUGc4R3JUa292UkJ5U2ppdkxkbEVH?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-21T05:06:16+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Jio Platforms",
+   "amount": "Rs30,213 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs30,213 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f3db846f621d",
+   "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzg4bktGOVFxUjA2UGUzY2VoN3VwREFkQzRkM25VN2NLbGxGZmFWQUR1VjJuWU9wckk1eVVZX1pfTmFZQ2NlVU02bXZMS0FHbnhsR1JhZWpTaVE2Q0xISjNrcWNCTEZzajNYVm83S0FVNllKaTMzUkF4dUdJNEFBM2dLdWFYaUpYOGpwSDV6aDM4NnFvZVhrQVRMVkJjaEZPZ0pSdVJPZFlfNXdYQXJ1ZUVnb0Z0WHBVTWcwem5rTUN6QQ?oc=5",
+   "source": "Analytics India Magazine",
+   "published": "2026-10-21T04:46:38+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "ElevenLabs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6eb4d60d366e",
+   "title": "Browsers Block eMudhra Certificates After Key Flaw",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWVKbXRGUUd0NVNoaFRhMS13UFhSaHBvbDFUTThmSVl2aFVGdlI3dTNoaVM3SG5zZlZhTUZjLTRFSWdGWHBkNjhzOEhURlpJbHBQSjhrNFMxbS00LV9VU2lQcXY2LTNhcXV4bUlQSnFiV3R3cUJGWFI1TS1QRVlvalMwOHQ1ZjdoMk1UZFRYakNsQQ?oc=5",
+   "source": "Analytics India Magazine",
+   "published": "2026-10-21T04:34:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Browsers Block",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "34542341a4e9",
+   "title": "Jio Platforms IPO: QIB Quota Booked Within Minutes, Issue Subscribed 58% So Far",
+   "url": "https://inc42.com/buzz/jio-platforms-ipo-qib-quota-booked-within-minutes-issue-subscribed-58-so-far/",
+   "source": "Inc42",
+   "published": "2026-10-21T04:32:34+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Jio Platforms IPO: QIB Quota",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "48a17a37d73b",
+   "title": "EAAA India Alts targets $1.1 bn valuation in IPO",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmNPd3JpN1FOYzdtRlhOS3R4V1VEQlBwT2VBQnRVcGJUSFRYd0VPQmNLOUx4WTVoSkFjcG1wenJrYkVWQ3pjV1NWSEhTMWRfOV9fclV5M3Ffd09UbGJEWFNwUzNQRHJuS2p4RGlYY1FHNWhzdUtMWlB3cjlfMXZwNlRsc9IBgwFBVV95cUxQTmNPd3JpN1FOYzdtRlhOS3R4V1VEQlBwT2VBQnRVcGJUSFRYd0VPQmNLOUx4WTVoSkFjcG1wenJrYkVWQ3pjV1NWSEhTMWRfOV9fclV5M3Ffd09UbGJEWFNwUzNQRHJuS2p4RGlYY1FHNWhzdUtMWlB3cjlfMXZwNlRscw?oc=5",
+   "source": "VCCircle",
+   "published": "2026-10-21T04:29:57+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "EAAA India Alts",
+   "amount": "$1.1 bn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.1 bn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3b259140c9ae",
+   "title": "OpenAI says its AI agents weakened internal monitoring system",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-its-ai-agents-weakened-internal-monitoring-system/articleshow/135081804.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T04:13:10+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "657755fe4deb",
+   "title": "Genie Health closes a US$3 mil seed round to grow its health intelligence platform",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2Q4c0FaeG0tRlIwaXZBNTQwM091cko2ZEd4Y213cW1kTm1IVlRiY0pqMTgxdHJFNUF1ZVQwWG9zaTBFZDdUcEdQaVpSMmdfaWczMlFXclFPN1RvcUZlSUFvYk9QT1BuaHdxbXFhQkkwRXNGaS05TWJKR3pHQmJJeG9EN2JnSHVaMDVKV25hNDZDVWtIMkNjc0p2bk5udmlpOFhpeWlYci10TkF3cFpDcFVfZWd1eUpH?oc=5",
+   "source": "Digital News Asia",
+   "published": "2026-10-21T04:07:33+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Genie Health",
+   "amount": "",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "721a4958d2a0",
+   "title": "Urban internet subscribers reached 666.09M in June 2026, with the rural base at 448.08M: TRAI",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlFoZVBHRDNWeDdrZGdZSXlCSWFPcnVkUml1Ui1XcWVFMDEzWk5MYXdjeldiNHkyZTBlT0M5TXRkQXhVMGwwU0JpZ1Q1MHhPQXNRejBydDF1c25lSzh4MGRLeVhNVkxIWGo1OG9mTkdJcEhNNHR4cXoxSEZHcGJzSEwxbkd3bHpu?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-21T03:51:28+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Urban",
+   "amount": "666.09 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "666.09 M"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "03fab363cb1d",
+   "title": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/essilorluxotticas-smart-glasses-boom-runs-into-tougher-regulatory-scrutiny/articleshow/135081445.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T03:46:22+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "EssilorLuxottica's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "200f9c6f426b",
+   "title": "Japan's Enrission backs Indian freight startup Raaho's Series A",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWNHZnRsTWJXZGo4VDhVNTBKX1A4U2l4bmlHRXphV1BDTHgzb01QZ1JNY2Fya3VUQTJta2xSWUNTcmtzbW1abXRfOGN5bEFhbWtqMF9lM19UMFBLNXBSLUJRbnZ3aWpoay1FeUNLNGZoZkxIQ0dROTJYdDYwVThCWGVGWUg0RjJaUnMtSXpkeGdRMnFONFlBRFloWGM3dw?oc=5",
+   "source": "Dealroom",
+   "published": "2026-10-21T03:43:31+00:00",
+   "score": 28,
+   "category": "other",
+   "company": "Japan's Enrission",
+   "amount": "",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Series A"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "993653ba305d",
+   "title": "Who is Rahul Agarwal? Indian-origin inventor who secured a \u20b93.3 crore deal on Shark Tank USA for reimagined spoons",
+   "url": "https://www.livemint.com/companies/people/who-is-rahul-agarwal-indian-origin-inventor-who-secured-a-rs-3-3-crore-deal-on-shark-tank-usa-for-reimagined-spoons-11792553535839.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-21T03:41:47+00:00",
+   "score": 66,
+   "category": "funding",
+   "company": "Who",
+   "amount": "\u20b93.3 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b93.3 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f5edfe5bc07c",
+   "title": "Meta's board signals 'recurring' failures in election content moderation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/metas-board-signals-recurring-failures-in-election-content-moderation/articleshow/135080886.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T03:09:51+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Meta's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cb06c153fda8",
+   "title": "Digital Push: FPOs, PACS, Agri Scientists and Startups at one Platform",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0NzTjRqbHp2OU9HTWxOYmhLYkl6UHkzMVhMcHNHZGpYSDE0TlZCY3VSSW03ZTc2bU8wSUlMX0tfSWc1anJzV2VCUUhZM29FeHFaMXZRTG90MkQ0S3c3VXo2cHFpWmZwSENNWDJCdnVKQnJrT2k4aXhPdjFndjhJNi0zd29NcTFFclpFNGJ3cW1sall5eW02SXFkWEkzbnM2a1lTeW96TmpuODlkbXc4Y0ZOQkE?oc=5",
+   "source": "Indian Cooperative",
+   "published": "2026-10-21T02:42:20+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Digital Push: FPOs PACS Agri",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cb05286ee198",
+   "title": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+   "url": "https://economictimes.indiatimes.com/tech/technology/qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows/articleshow/135080151.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T02:38:13+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Qualcomm",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1297ef9ba61a",
+   "title": "Fireworks AI is in early talks for a new funding round",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDIxaTdJQmd6ZTBXdG9uWXRmc3RFajhoaWJxaXBBSnpVZWNrQ29wX3IwVW8za2s4SExubV9sSUE4OEN0ZUVLR2tyOEFya2c1NFVVWVJLSzY0RWdmNUJoZEUwRjQwelBrRUt0cVV1bDJWdFBkTVZmdGVicWhfWTh3ejBRZ2NmZXJLTkJUcXJJb2VTbVh2?oc=5",
+   "source": "IndiaIPO",
+   "published": "2026-10-21T02:33:24+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Fireworks AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "795cef8bf388",
+   "title": "Apple\u2019s FY26 Snapshot, Flipkart\u2019s Foodtech Foray & More",
+   "url": "https://inc42.com/buzz/apples-fy26-snapshot-flipkarts-foodtech-foray-more/",
+   "source": "Inc42",
+   "published": "2026-10-21T02:30:50+00:00",
+   "score": 54,
+   "category": "expansion",
+   "company": "Apple\u2019s FY26 Snapshot Flipkart\u2019s Foodtech",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "367aba119161",
+   "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ahead-of-massive-ipos-ai-companies-are-sketching-plans-to-share-their-wealth/articleshow/135080049.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T02:20:00+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Ahead",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0c9e8c72b212",
+   "title": "The Curious Case of Rahul Yadav: The Rise, Fall and Controversies of an Indian Startup Entrepreneur",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBa0RmMDJuOWNLUlUwd1NySUtvRnZ6Sk9tWWc0dl96Z2dWWnVpT2g4MlNfQnI1b1NVRUNYWVhwYUdmU0lTMW04M1VtaGJTamZnWm1hVmJFZHlkdTFBWkNVMEY3Mmczb2NzNnM0?oc=5",
+   "source": "Founder Magazine -",
+   "published": "2026-10-21T02:14:05+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "The Curious Case",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b0f3b050398a",
+   "title": "Anthropic recorded net loss of over $80 billion in first half of this year",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports/articleshow/135079928.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T02:11:42+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "$80 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$80 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4161ca71ed46",
+   "title": "Netflix issues weak fourth-quarter forecast, shares drop",
+   "url": "https://economictimes.indiatimes.com/tech/technology/netflix-issues-weak-fourth-quarter-forecast-shares-drop/articleshow/135079840.cms",
+   "source": "ET Tech",
+   "published": "2026-10-21T02:05:18+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "Netflix",
+   "amount": "$12.87 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$12.87 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0b6dc48fdb2d",
+   "title": "Amazon bets on agentic AI to power enterprise ops; Is your marketing AI tool driving profit or just noise?",
+   "url": "https://yourstory.com/2026/10/amazon-bets-on-agentic-ai-marketing-ai-tool-is-it-driving-profit-clevertap",
+   "source": "YourStory",
+   "published": "2026-10-21T02:00:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "ff5f4d49d87d",
    "title": "Bengaluru-Mumbai Vande Bharat Sleeper Train on Nov 1",
@@ -4497,41 +4880,6 @@
    "alerted": true
   },
   {
-   "id": "2527133c3134",
-   "title": "DataLabs by Inc42",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWUJXWTR4bnVMUkFaRVNrQXkxY2lKRUJPSkpjaTNyajRfVTd0UEJYczFOcXFTSXlDUGlYd0w3VldsS3pZVUVRcHpTWkg2NlVDNThYS00xRVlYczVMR3ZvaHZB?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-16T22:20:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "DataLabs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d4c2798b936f",
-   "title": "Deals Digest: PE-VC investments hit $5.9 bn on Fairfax-IDBI Bank deal; M&As slow",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFpSN1NEX0RWU1FDb1c4b3BpamF5djI3OHRHMXRMMUY3Y2RLMFdMMTd4QVowMllZbFhsZnFYc21Xa29ZWjFMZ0pmbjJiMHU2UmVoRHFOaGg4VFZpUlNqeHd2WWwwV2h3YWU5R0ZydFNLelJyNzFmVFJVb0k2V1JPQVZBcERueXJvUk95YjJzSENPd2c3cDlOUmpMNVNKNHBkNmVZ0gGrAUFVX3lxTFA4WldzNTNscVE5MXg2VEhySk9jOEpBZ244Z19PNHRBMGZiWW8wZGNrMzB3WVkxNVRWWGRPV1VQRzRhSjR5WTNETjNzZ1RxNlRfQmVWTVd5YndvblpKTUFfbHVlai1DQU1nR29qY2t4anphY052VFJtMGtnSkZwMW5jZE5BcTliSVMtb1dHS3VNUGg5TkdlRV9xU2xaMG1vSXJxRV92ZmJ1VGd3QQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-16T19:30:27+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Deals Digest: PE-VC",
-   "amount": "$5.9 bn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$5.9 bn"
-   ],
-   "alerted": false
-  },
-  {
    "id": "858e23c6eccb",
    "title": "RapidCanvas raises $29M to build and run AI apps for enterprises",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ienlnQzA1WEM2QTdzX0p2c25Tby1peVRQN1JzdlFGM3o2R0FaOUFhc1MtWnEzSE8wMklkYTFrQVM2aXp3NGVGOGF1SEs5Z0NvOGFRYjVTREp1enEyM0MtY2RYSi1rRWpGYVZMYzRyeFZJMFRR?oc=5",
@@ -4584,60 +4932,6 @@
    "alerted": true
   },
   {
-   "id": "a54d0e5c4395",
-   "title": "Meta employees said Lula's accounts were hindered during Brazil election: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-report/articleshow/135000017.cms",
-   "source": "ET Tech",
-   "published": "2026-10-16T17:12:04+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d8c42354c357",
-   "title": "Urban Company prioritizes InstaHelp growth as losses widen",
-   "url": "https://www.livemint.com/companies/company-results/urban-company-prioritizes-instahelp-growth-as-losses-widen-11792161351409.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-16T17:09:44+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Urban Company",
-   "amount": "\u20b92,500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion",
-    "\u20b92,500 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "948b52da6135",
-   "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
-   "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
-   "source": "ET Tech",
-   "published": "2026-10-16T16:59:30+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "CoreWeave's CEO",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1 billion"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b16f28e60b9a",
    "title": "ETtech Deals Digest: Boldfit, GreenCell lead as weekly funding hits $232 million, down 45% on-year",
    "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
@@ -4654,57 +4948,6 @@
     "$232 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "97a5e83eef67",
-   "title": "FirstCry\u2019s Core Revenue Engine Is Fighting Too Many Battles",
-   "url": "https://inc42.com/features/firstcrys-core-revenue-engine-is-fighting-too-many-battles/",
-   "source": "Inc42",
-   "published": "2026-10-16T16:40:40+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "FirstCry\u2019s Core Revenue Engine Is",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8d62cb29fcd5",
-   "title": "Now, FSSAI Issues Show-Cause Notices To BigBasket, Flipkart Over Misleading Claims",
-   "url": "https://inc42.com/buzz/now-fssai-issues-show-cause-notices-to-bigbasket-flipkart-over-misleading-claims/",
-   "source": "Inc42",
-   "published": "2026-10-16T16:38:43+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Now FSSAI Issues Show-Cause Notices",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5068a8616453",
-   "title": "Mettle Capital teams up with Peak XV for maiden deal, to invest in AI startup Empirical Machines",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa0hpMktKZGZHR191X2RHLUppeXFkSTJRbktJeS1YR0ZITVp3UGhhNWp2RWo2eF9xTVNoMlRVQjlodjJTNnIyS1lINU16N3dSRllfcFM0bTdqdE0tU04tNVBRTS1Pa1hvUzljT080Q0NjNXRjcGQ1Vm01emk5NTVvakwwUEc0VnppSnZ4ak5zZWhSM1J4UHFRYTQzc0JmT1p4RmVBVUFELTZ2WHEtQ0xVdUhZNndWeUdaQlhyam11UVJ2dklsYlJyZndQSGtNT3g1LXFob0VLTU1QT0RLRjFRLXVSNHF6TldpeUlPS21hVnNUQdIB9wFBVV95cUxQRjBhZnN0UDFwQ29QV3NmUVhQTHEwanJ6WjZyeUQ5SmliRHAxZjVWamFvWldzalFjYjBaWU5qckpkTXRzcms5bExHR1RCSGNGOVBiMUI4VkJYWk1jeUhOV3ZvdWl4UzUxVndJSks2SUIyZWRuUnh2bmlsN2FCbFdWa1JRZ1dKaXJMVEpsb1ZrQ2NtOHBRaUVCY29iNU9xbUg1ZTNENUlSZFhIU1dDbHFHcndOSVdaN2ZISmNrbEhRbWtNX0xSRndxcGZiWjJXNUx3RE13ak1kclV1QkdZYklySEhUQ2t5MEFlZUozRklGQ3VxcWU0dzhz?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-10-16T16:21:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Mettle Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "1ccbd0affeb6",
@@ -6907,267 +7150,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "80ca0659697e",
-   "title": "OlsAro raises $5.5m seed round as salt-tolerant wheat nears market",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHNiZUlpRnNJSV8zS3IzeXlTX2FtY3JnLUNmbHgxZklhZG1NWDBKOFNtUnlpMU5VOTdtaThtU0k5MlBrMVM2d0s1MlFpVU9rR1E4U1ZQNlFVR2wxa0tfc21EUDBEdHVXREZDaWtFVXhKVkdGT2VNeUp0b0RWR0tNQjB6X2VjR0hlczNjQXliMEpqc3RO?oc=5",
-   "source": "AgFunderNews",
-   "published": "2026-10-14T05:00:26+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "OlsAro",
-   "amount": "$5.5 m",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$5.5 m",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9f692a083bb1",
-   "title": "Indian Startup Flying Wedge Unveils AI-Piloted Fighter Jet Prototype With Planned 1,500-Km Range, 350-Kg Payload And Mach 0.85 Speed",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbWVkdV9LbHE4WmVDOGpHdW1SMnhGajRZQTUzdXljcndOQU11aHlxUWFYQmttRDRGTkhHeDRlLVkyR3J6V1lxR3ZRQzIyY2hhN21PRy1OcDBMMk9aMVdteExXU0ZOcUFZT2txNUlMZDlMTGN3LTktQkVsaVZjTjNONTNvRENxd0RnNzF5alRmTW1fR0pBQ1ItUFJmSkxESi1lTHFiU3VDVFZWUlVqa1doQUY0anVoRHFZd0tFa01MeTg2bWNYdkVrdFdKaFhOcUJ0eXVkaVZXUUJWelpENlJkWDl6TUt4WnUyZGx3alZHbXRsVzDSAYMCQVVfeXFMTVpDamJsZ2tTYmNGSTlTZGktYUxoSzJlSjhBTHdxZzJjZ3RkZm9MNUFUVEo2TXVnc3lNTWJtZlZobEsxUXRRUVNxUmpGMG5HaUtfX3dtSU1sSlQ3dnBzT05wZ1dTU0pDTjI4alJMNTR0cTlkcTBzVllsOXVudnBzQWFMbmRQYVVRNkJPbmdrZ04zUlFaSXVWbzZWUGtTTk9TbkNwWlczVmgzZWszenZpNDhKR0JXZXJkUVlReUxCemVsX2FEcjN0VXN2aWFjbEJpREtRRzZyOFB5YTU3NjhxWUE5NTJDQmRyUUlQeExIOVpBSFZRbEg3NEdoS1J0ejFmekJYcw?oc=5",
-   "source": "Swarajya",
-   "published": "2026-10-14T04:39:16+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Flying Wedge",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7a65f66c5f5a",
-   "title": "M Pallonji backed Protec General secures around \u20b9300 crore to expand operations",
-   "url": "https://www.livemint.com/companies/protec-general-insurance-raises-rs-320-crore-pallonji-divya-sehgal-11791824749247.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-14T04:39:06+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "M Pallonji",
-   "amount": "\u20b9300 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9300 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "35dd1c201a14",
-   "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZ9IBngFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZw?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-14T04:32:22+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Enterprise AI",
-   "amount": "$2.5 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 Mn",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "491105b691bc",
-   "title": "Circle Raises Rs 25 Crore Led By Nexus Venture Partners, To Build India\u2019s Trusted AI\u2011Driven Pre\u2011Owned Marketplace",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaE9qOE1yUFB0bmFpeWp3QUZaWktMcDlKcHd6VHNZdmRsdWk1YXI5cnBrODdSOUZGTDJzUHBZdlJXc1YzSzdzQWJMUEVFdGJPNFE2LVBKbXNrNUJIWVpCeHZJalczY3dNRGM5am8wZWNmWFNPdzk1T1RTWmxUUTUzZmtxZXo?oc=5",
-   "source": "Indianweb2.com",
-   "published": "2026-10-14T04:23:00+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Circle",
-   "amount": "Rs25 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs25 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d3121ada3c97",
-   "title": "CM Satheesan unveils cover page of Huddle Global 2026 annual report",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHJWaGxKU01WSkR3SVU5QS1xTGlGZWdlSkZYcE9oSGVGNFF6VjJOM2Q2RlNRU3Q5WEtObHZXQ1VwRDdjS0VQR2JZODEzNUdBajN1ZWMwaE5FYjhPVGx0QjdBVjdHOVYwSHBIbHhDeXlhQ3hmZUlNUmMwQVl2cUZFN2pxSXZaZ183V0E3cVNJYUdBQjV6a1dEY2dDVWJnZ05xY2lUQ3V4cVpkRFVfVTFjM0lQZmRUZUFQV3NQZTlZdjR4MFhXb3pFSTRyZHN2SVRTTFBReA?oc=5",
-   "source": "The New Indian Express",
-   "published": "2026-10-14T04:04:12+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "CM Satheesan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "57367a8bfc7f",
-   "title": "Indian Embassy in Indonesia introduces AI avatar 'Dewi'",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXYzVk1RWmRzcFVrSF9DSGR3WDllUklxUkpLZm9fdXBIdHlPWUVvc2ZuS0NhZGh4VEFSZmxLelphVjAxcW9ubkY0ajJLVnM3bF9tU2tNdkhPVnpXbVN1SHFGaUc1SGVJUzhlZDRsQ0E0bkpXbkNrNkJwS2tvSDNGN1BYZW1nbVA3c1dHdFpsY2ZOYVQzcHF0WXFJSjRGc3VaRUdJbC1QTmhBblc5TEEtWDF6bHRZT0ZzSkhtUmxoUUdZMlF2V1ZJSXFMSW9tbkcyeldod2dlb9IB1wFBVV95cUxOcXYzVk1RWmRzcFVrSF9DSGR3WDllUklxUkpLZm9fdXBIdHlPWUVvc2ZuS0NhZGh4VEFSZmxLelphVjAxcW9ubkY0ajJLVnM3bF9tU2tNdkhPVnpXbVN1SHFGaUc1SGVJUzhlZDRsQ0E0bkpXbkNrNkJwS2tvSDNGN1BYZW1nbVA3c1dHdFpsY2ZOYVQzcHF0WXFJSjRGc3VaRUdJbC1QTmhBblc5TEEtWDF6bHRZT0ZzSkhtUmxoUUdZMlF2V1ZJSXFMSW9tbkcyeldod2dlbw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-14T03:59:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Embassy",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "444d4b6a178a",
-   "title": "EU takes a page from Ireland's AI playbook",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-takes-a-page-from-irelands-ai-playbook/articleshow/134931453.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T03:47:14+00:00",
-   "score": 57,
-   "category": "launch",
-   "company": "EU",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d54607c5aa86",
-   "title": "RevRag.AI raises $2.5M seed to put AI relationship managers inside lenders' apps",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEY5a0hwRWJ6c01XUk83NldObDdZTlpJOS1DRGJkYzVXV1gyTEtzSUl2OEZNMjBzUkNoVHFiTVF4MEFKVDdkdEQwQjQxVk51azJ0aldGZURaQ291OEVfN01RQUNGZ0RESmg1TE5mLUZJbXpsSVZrcUE4dHdnd1U5U3U0WF8tdGxZVGYxZlNyM0p5a29nSDNVeTdqSEFaY0RsLUFhMkFxTnVfaUVJNkZOT0xB?oc=5",
-   "source": "Dealroom",
-   "published": "2026-10-14T03:34:52+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "RevRag.AI",
-   "amount": "$2.5 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 M",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "00eb147b3efe",
-   "title": "RevRag.AI Raises $2.5 Million, Plans to Build Its Own AI Models After Starting With Third-Party Technology",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFV2SkZTTnN0RlJtUzF5MV9tS2ZRdUJXOGZ1QTlPbmtVc3g4emJVZDlTS252RlZ6WHVCRWhSRVAySDJuRFJJOUZHQnR4MVlGa3lSSUZFYUFVVkZ6Qkh5OW5VLXZyUnhzMDFPNlJfR2tNVDljSEx5OTk2VkVvT2lmNXFsc202bGVNeDRFY3ZJV2ZDeUQ2ZnlR?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-10-14T03:20:49+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "RevRag.AI",
-   "amount": "$2.5 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$2.5 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4356db0b022a",
-   "title": "Sarvam AI launches Bulbul V4 Flash text-to-speech model at 33% lower cost",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFFhdGhkbU92VHJEcGYtVVJIeTVLc2R5dk1iUHBla2RoaTZZcW9PQnNyTDFTWUdqdjFLOWFXNHBoeXBGWWhjeVBJemZJN1h3ZmJ3Qm8zOG1MdDFLVXBsNlZLUG5sX1FrZ19PSF9DbzNvdFF1dVpxNDdWNlVKNDVWNlV3eDV2TTlQOWNxMzlxSjJDeTBuN3Z0TlhieEsxWklxVC1kR3JnRkhjWEVLVV92NjdVYUFTTllmZlhaZVBiTEJmY1NVSmN0ZFdxdjU4dTBqMHR4VmJtNk1oemJhWHM00gHkAUFVX3lxTE1fWndyZ2JScE94S1l5TzJmdHBfVGdNMy1qbGxJZDZEREdZSXBobHJJeHJiMXBReV8zWmNuOXQtaTA1TEhJeDVGdm9YSkVza0t0dmxaR1RYQzdyN3VkTWF2Y2lmMlcxWGhDMnhOLWdXQXVYYmZNWjc1WjhWTWNMSnFtQ094N2RLUEdSb1dWcHRDNE5IY015elY1TVRKN3hYTWFYS1VDU0NOWDJJazdjRHNGWkRWMHVIUFZwbzRuWi1sbWtvczhPdGxXWS1LZHBxOUl0T1JFWUhtY3h1LWx1Uy1kcmNqSQ?oc=5",
-   "source": "ET Enterprise AI",
-   "published": "2026-10-14T03:01:33+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Sarvam AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ff84425423b5",
-   "title": "GameStop CEO Ryan Cohen buys shares worth nearly $23 million",
-   "url": "https://economictimes.indiatimes.com/tech/technology/gamestop-ceo-cohen-buys-shares-worth-nearly-23-million/articleshow/134930781.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T03:00:31+00:00",
-   "score": 77,
-   "category": "funding",
-   "company": "GameStop CEO Ryan Cohen",
-   "amount": "$23 million",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ryan Cohen",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "funding",
-    "$23 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "38f732b05522",
-   "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
-   "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
-   "source": "Inc42",
-   "published": "2026-10-14T03:00:18+00:00",
-   "score": 80,
-   "category": "funding",
-   "company": "Agentic AI Startup RevRag.AI Nets",
-   "amount": "\u20b924 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "\u20b924 Cr",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0c21ace409cd",
-   "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/articleshow/134930375.cms",
-   "source": "ET Tech",
-   "published": "2026-10-14T02:30:24+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "SoftBank",
-   "amount": "$11 billion",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Masayoshi Son",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "funding in headline",
-    "$11 billion"
    ],
    "alerted": true
   }

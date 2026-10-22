@@ -1,12 +1,118 @@
 {
- "generated_at": "2026-10-22T19:24:47.843077+00:00",
+ "generated_at": "2026-10-22T22:31:08.769441+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 18,
-  "fresh": 13,
+  "fetched": 9,
+  "fresh": 6,
   "alerted": 3
  },
  "items": [
+  {
+   "id": "8122963d5ebb",
+   "title": "HeyVoli Kicks Off $500K Pre-Seed to Launch AI-Powered Healthcare Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOG1PbGlXVzZhQkhFcmxsYVQ2YVZvTjZUUjF2SmdvRjBQcDZpQkNZVGtTaW1CNlIxYzdjeWV6Z2pHNXl2blNtbVhNN1l3SU40emJlLUdiN0pHTUZ4QVlnNWVRNDRwaTg1Q0NqT1I3a1Vuc3JaT3Q4ZVdZcWNRbzV0ZXRRM1Q2ZFg0VnZ1dTdLMFFJYjZrN1dPdm9xM3FxMnhHalMzLUptcnhKUW10WUt3VGFjN05RcWNB?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-22T20:51:51+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "HeyVoli Kicks Off $500K Pre-Seed",
+   "amount": "$500 K",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$500 K",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6f4c26d64e6d",
+   "title": "Hyderabad startup LogiXair raises seed funding to develop autonomous cargo aircraft",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1RHdU4xNFdIeUtMS0xlbXNUY293VzJldzFOZHFOcEVGUnBaV3h0VmFfeWMzNE1LZXR4c2VSbU1xa3FoaF9YX2ZodWFWYW9FdExhbnhYdUlXbDl2WEwxTDRublJWQkRMakMyMHRBVHktN2tESlBscWVlZHRoZUpWTEFka3dJdV9BdzNCU1JRMWpKT3VMVm9RdGtCVEFxZERDTzAxcE5xdGNRQllFWmdXTHJLNl9XUkdDQWt4cE51UjhabW9qaU52N1F6a3llaFR1?oc=5",
+   "source": "Prop News Time",
+   "published": "2026-10-22T20:30:24+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "Hyderabad",
+   "amount": "",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "406748d3da4a",
+   "title": "Poland PM Donald Tusk arrives in Bengaluru",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0pNQldoRFdqVWJZLUxpQVU1ODZySUk5R0szeF9aYXNPcGotZ2JzQjRuRFhjd0pWbnB4dlNhSkctSHpDemRwaFNLSGd4UHpGZ09jeXZzODU3OTFfcVVCNE9ka210NFpHcXVXQ2QzVVBKVDFvNThBUEpiVnZucTRTSTVWaW9PNUpYa01odw?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-10-22T20:05:50+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Poland PM Donald Tusk",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7c9bdd2350f1",
+   "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+   "source": "ET Tech",
+   "published": "2026-10-22T19:17:43+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Steep",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e7991efb705b",
+   "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+   "url": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+   "source": "ET Tech",
+   "published": "2026-10-22T19:15:39+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Rhode Island",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "87581ec1d3fa",
+   "title": "India, Poland to Launch StartUp Bridge, Tech Hackathons for Youth",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3hOeVB6emtld2pmdWo5ZFJTU0lSRlR5VXVzU3IxTWtocE5jbEZ0cy1wWFgySXQ5bE5Md0tvdVBjZW5PdDhRQnI4Q29QR0tLRjRoay04R2l2QTltNktvVUJfbzZPTXM3OFcxeHc3UXg5M2tMTTZ1Nl92djR0NVNMUmQxVGRYNE1TT2NSY2wteFA4UllKVXZiQ2JZQjU1TEpQT0tYN01lWE4yVTNjUW9JcnFFU1lWWTDSAbcBQVVfeXFMTk94TnlQenprZXdqZnVqOWRSU1NJUkZUeVV1c1NyMU1raHBOY2xGdHMtcFhYMkl0OWxOTHdLb3VQY2VuT3Q4UUJyOENvUEdLS0Y0aGstOEdpdkE5bTZLb1VCX282T01zNzhXMXh3N1F4OTNrTE02dTZfdnY0dDVTTFJkMVRkWDRNU09jUmNsLXhQOFJZSlV2YkNiWUI1NUxKUE9LWDdNZVhOMlUzY1FvSXJxRVNZVlkw?oc=5",
+   "source": "Lokmat Times",
+   "published": "2026-10-22T18:55:17+00:00",
+   "score": 67,
+   "category": "launch",
+   "company": "India Poland",
+   "amount": "",
+   "stage": "Bridge",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Bridge"
+   ],
+   "alerted": true
+  },
   {
    "id": "7cf77f1bf209",
    "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
@@ -5325,78 +5431,6 @@
    "alerted": false
   },
   {
-   "id": "c77280c6e17f",
-   "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
-   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
-   "source": "ET Tech",
-   "published": "2026-10-19T15:37:24+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Nvidia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "638541828d2a",
-   "title": "[Update] Zetwerk\u2019s IPO Closes With 3.06X Subscription",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3ZTMkRkRmNKRkpFcml6cldxYWJFX0ZsRXdramFMVWdUY21xMmtXT2JOaTYzUkN0M3IxaXN6T2tGaEgwSlhlUFV2NXJyeGxQMTE0SlJudG1CV3VvSmZwYzN6OTFsbFFnek5ub19xaVVTdkVLNjRZZ2VqWFNDRnN6dmQxMC1NWXNrNWZmSUh6VmRGM0lidl9XaEFjOEdBMWpjTVhsZzFFRQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-19T15:33:04+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3c7bdb88df50",
-   "title": "Justdial\u2019s Q2 Net Profit Slides 10% YoY To \u20b9108 Cr Despite 13% Revenue Growth",
-   "url": "https://inc42.com/buzz/justdials-q2-net-profit-slides-10-yoy-to-%e2%82%b9108-cr-despite-13-revenue-growth/",
-   "source": "Inc42",
-   "published": "2026-10-19T15:19:22+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Justdial\u2019s Q2 Net Profit Slides",
-   "amount": "\u20b9108 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9108 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9a49d2cc3187",
-   "title": "ixigo swings to Rs 63 crore profit in Q2 on Freshbus stake sale",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vMkJlVjVKZHFQb0VHYTlJTWVldksteERSOXpwcFZ0YlZibkUtRHd1Yi1sZWZhX19wLVAyREh5ZlJqVng2N09BekRFM1RKdUxlanJGczBZb2pnV21HUUpjX2k3cWQyZ2dnSl93VmNqVjAtaV9y?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-19T14:55:13+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "",
-   "amount": "Rs63 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs63 crore",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ec5c33c3e714",
    "title": "Lab-grown diamond startup So/Facet raises Rs 10 crore led by Sauce",
    "url": "https://economictimes.indiatimes.com/tech/funding/lab-grown-diamond-startup-so/facet-raises-rs-10-crore-led-by-sauce/articleshow/135049028.cms",
@@ -5456,23 +5490,6 @@
    "alerted": true
   },
   {
-   "id": "d40dc3c45b0f",
-   "title": "Utho Cloud Opens NVIDIA B300 GPU Reservations in India",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY0N5SWZkUUIxajJJLVVwdUVQc1FzQ0FiZ21HTV9Cd3ZvTld1X3p2bk92YW5WRXk1T21MRl90Tnd3WE44MzdsZ3FxVzhLU3pYVHhjQ3VDSUFpZ01yV0lxcXY2WU1SS09ja0dCcmx5YW9fVGd4clBtN3l0eld2d2VCX0VjSnMzVzJLV3laZTNJWXVQajFnT3lYelFNZ0FlbHRJcU5zTm90YWt0RFNJSlNTN3BORjU3WGRpdEtLMHY0OGZubmY2WVJRcWlrRktfNnVQdlpMTzRqd3ZQWUFLZG5JQ3M2Ul9lMUxaMDU0Tg?oc=5",
-   "source": "Passionate In Marketing",
-   "published": "2026-10-19T12:22:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Utho Cloud Opens NVIDIA B300",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "bfc1ae85cca8",
    "title": "PEs, strategics eye minority stake in Zoff Foods at over \u20b91,000 crore valuation",
    "url": "https://www.livemint.com/companies/start-ups/zoff-foods-minority-stake-pe-firms-strategic-investors-spices-rs-1-000-crore-valuation-11792403130492.html",
@@ -5489,23 +5506,6 @@
     "\u20b91,000 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "4d5ab49b0ae7",
-   "title": "Netflix faces questions on user engagement ahead of third-quarter report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/netflix-faces-questions-on-user-engagement-ahead-of-third-quarter-report/articleshow/135048673.cms",
-   "source": "ET Tech",
-   "published": "2026-10-19T12:18:36+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Netflix",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "74ce28a6114d",

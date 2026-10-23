@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-10-22T22:31:08.769441+00:00",
+ "generated_at": "2026-10-23T00:53:05.767727+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 6,
-  "alerted": 3
+  "fetched": 6,
+  "fresh": 5,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "3c886f91cf9c",
+   "title": "Colossal raises $200 million to genetically engineer military dogs",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmc5dlc4T3FRbTlFeG5BWUZtaDZXb0M5aXA0LU5aSGppNnVNeUR0aWpYbDNTWlVYOVBEdDNXOUhzS2JxVzM1VDlXTU9vZjdCNExhUHBicjJqWjBhdTQtS2JnSHFJbEMzcjZIZHhLMXVpVlk5NlhPc1U3SVBDdXRlXzdYM3FvOTRtaDBHSC1EUV9oa1Zxb0IwemlYbnVoN1NJNC04MFJtb0dJVmRpTG52TkMtNDhISlk?oc=5",
+   "source": "Dallas News",
+   "published": "2026-10-23T00:11:14+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Colossal",
+   "amount": "$200 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$200 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "8122963d5ebb",
    "title": "HeyVoli Kicks Off $500K Pre-Seed to Launch AI-Powered Healthcare Infrastructure",
@@ -5409,24 +5427,6 @@
    "founders": [],
    "reasons": [
     "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3dd68e013906",
-   "title": "Who earned \u20b91 cr per annum salary while many got layoffs? These job professionals got pay package in 8 figures amount",
-   "url": "https://www.livemint.com/companies/who-earned-rs-1-cr-per-annum-salary-while-many-got-layoffs-these-job-professionals-got-pay-package-in-8-figures-amount-11792424674850.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-19T16:05:25+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Who",
-   "amount": "\u20b91 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91 cr"
    ],
    "alerted": false
   },

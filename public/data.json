@@ -1,12 +1,64 @@
 {
- "generated_at": "2026-10-23T22:16:54.954997+00:00",
+ "generated_at": "2026-10-24T00:44:45.555877+00:00",
  "min_score": 55,
  "last_run": {
   "fetched": 4,
-  "fresh": 1,
-  "alerted": 0
+  "fresh": 3,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "aa037e9ad44f",
+   "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
+   "url": "https://www.livemint.com/companies/news/trinidad-and-tobago-in-talks-with-ongc-videsh-oil-india-to-refine-venezuelan-crude-11792749605379.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-24T00:05:09+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Trinidad",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b5c4323f7589",
+   "title": "India: Lending platform Vegafin raises $106m from Premji Invest, Norwest, Lok Capital",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2ZfZDJuUHh6V0FNcXFVRU9jMl96allDRzZLcjNHdmdROER5Um5JMnp6WnB0RkZlUnNaTFJfRUxpRUhOblp6eDI1dUYtTzZCRmJ2UnhEYnRqR3JBb053Zk9zNUFvVjFQTFppUkNJMmJnWVFRQVo5bjAzUXYzV2o5Vk0waEVPTlhIQ1Fmb21Fc2Q?oc=5",
+   "source": "DealStreetAsia",
+   "published": "2026-10-23T21:49:15+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "India: Lending",
+   "amount": "$106 m",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$106 m"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1014d444013c",
+   "title": "Campus Binge Launches AI Career Platform, Divests Housing Unit",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdjV6cmlTNU9yYTdBN1BEUEViQnktZGNnZjVWbF9FSjNneWRHWFV3UFJ6Um14Y2VqVzBHSU1CTTQ3U2EtbUU3UjFKOUUzVnhtQlRYZENqOUd6MDlfX2RYaGF3UVNDdVNSRlY3X0tURGJ0Nm5EaUFoME1tVVRMRnJFUzVHeGg0enhYbXJYcWo2WG9sWTlBVUJLRC1QRjFlSEZXU25HUjBodWQyZ3hRbUg5a3pSM2NxZVJVNU91MDk2ZjdCTW5SeDFLaFo5NndUZ2NOZDFSRHAyN3VlMWYxZ0loRmJYVVFLbTFB?oc=5",
+   "source": "RS Web Solutions",
+   "published": "2026-10-23T21:00:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Campus Binge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "d7eb95358cc4",
    "title": "ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year",
@@ -5460,23 +5512,6 @@
    "alerted": false
   },
   {
-   "id": "e113b41f85b3",
-   "title": "\u2018You are all born artists\u2019: Prakash Belawadi on surviving the AI age",
-   "url": "https://yourstory.com/2026/10/you-are-all-born-artists-prakash-belawadi-on-surviving-ai-age",
-   "source": "YourStory",
-   "published": "2026-10-21T07:11:09+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "You",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1a6fdb00fcc0",
    "title": "Dar Blockchain launches Web3 startup incubator",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUt4NkxJNnI3eDFFUnk0azJsMnpYUmdzSzNxalRwZno0WlcxbEw4Wk5raEdnMktlRnljRWVYaE1fRXJXcWJ4Yzh1TWUtTEk4Y19GbUJfSTFqQ3haZzZ0NVJVNXhSTkRZNUdoVnNvNzN1ZTllMnoxMy01RGZ4ZDlfSUJJd0k3T21zTWZPa2pOSUV3bE9rVEpuQg?oc=5",
@@ -5509,40 +5544,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "035f9a99732e",
-   "title": "Meet SKY-001: The Indian-built AI model claiming an edge over GPT-6 Astra",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON0JDMTMyamdWUjE3RnE1UWdERVVFVzZkWHk0Y3VRNWNkZkFtLXFEbnY2RVFocEV2T1c4VmRDWnNxZFFSOUx3S28xY1ZRZ2pZbE1yS2RqSFZmTjJlVm1uYV9IcDRicXFyeHpIS24wSzQ2YU9tb1Z5UVZJYjNKZGhka1NsS3M5cG5vUmp0SjlIOTYwYlF1eWxzM2hENVNCRE1WRkpkUFM4M3VsUlUxa1FBOHZzTU9sODhsX2pHbmZxWHlKRV9fVG9kU2kwNVdlWEpKbjhiY2lUWFTSAd4BQVVfeXFMT3NJdk9jMldaSEl4UkRwaGZ0aWpoNGJMUC1LSVRDQ0pheHdrTUFaV3VCTndxVzZKZlNqNWZBMHdldW9yM1RYT2s2QTNDQnRDckV6TXkyZlZNaFZuWndWcHFVbEw2Rld3YlQwX0t5SlczS1pyOWVNUWlJVmZ4TUxXWURaQTBrNGo3TlZIbjZxejhPajlPWUdRdF9WWEJMZnF0XzB5dE4yQlpSQWtRelB4Q1lKNFQ0d1NZbXlsSWRZZXQ0NllSVXVMcUIxak8zNzE1V3lMck9ydzB6NmRQRk5R?oc=5",
-   "source": "Business Today",
-   "published": "2026-10-21T07:03:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Meet SKY-001: The Indian-built AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c99946123149",
-   "title": "Startups Are Powering India\u2019s Space Tech Boom",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnJ5TmRqc0M3SWZmeXU3RE80SUZ3ZmRqV1BaUEpLaXAwYlZ1WjhXWmhETFBTRXFvZnJkbmY5aUplNktlbVVvdmtIWU9hTWtkTjA2ZFdnRjFnYUphaGdiRjlpeG95ZV9ZVjNtQlVfOFlqaE9XRXYtQzN1QlJpX0pZQjVaUkMxMFBFOUhuNE56TDdWY0tDQXd1RlRueDA?oc=5",
-   "source": "Forbes",
-   "published": "2026-10-21T06:59:58+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Are Powering India\u2019s Space Tech",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "91dc4c1ddd9e",

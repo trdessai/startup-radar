@@ -1,12 +1,262 @@
 {
- "generated_at": "2026-10-24T00:44:45.555877+00:00",
+ "generated_at": "2026-10-24T05:03:27.460486+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 4,
-  "fresh": 3,
-  "alerted": 2
+  "fetched": 24,
+  "fresh": 20,
+  "alerted": 6
  },
  "items": [
+  {
+   "id": "6d693a157405",
+   "title": "Failed JEE advanced, built a startup: IIT Madras student Kuldeep Rathore raises $1.1 million",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeXpVWmpUS3FTRWxOMXFNOFFwX1l6dHV4LVBlUmpqd0Z0Z1FUMWdTVl93WHpGWm1aYjZ5TXNQbjJKcDJObktQdWJQLXNWaEhFMmh1ajVKR0d2akZlelVhYnhwZUxBQnV2ZmNxMXU0WHp2RDVMWV9ZVTZOTFk5OGN1OWJxT2VUMmg2UEFlSkJ1N2QzWE40a3hpZ01GNVNZakVON28xSEtETTVYNjladUNVNDNKNTlOd2tpTU5kVnZOd1M1VTF0WkpyMzc2cWdLaV91NXhSREJjYWg5UlMyTUxjNmxVckNHWjUwU3M0?oc=5",
+   "source": "Education Times",
+   "published": "2026-10-24T04:50:00+00:00",
+   "score": 75,
+   "category": "funding",
+   "company": "Failed JEE",
+   "amount": "$1.1 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1.1 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9edc86165b03",
+   "title": "Instacart in talks for sale: The Information",
+   "url": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T04:49:29+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Instacart",
+   "amount": "$12 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$12 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5479ac3ed93a",
+   "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T04:44:25+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "What",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3e51b96599d0",
+   "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says/articleshow/135162044.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T04:38:17+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "PHP Foundation",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0fa25665e670",
+   "title": "Firstwork Raises $15 Mn In Series A Round Led By Earlybird Venture Capital",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWFMNEF4anZwT2lPX2kwMUhaRzhHN2Z4eS1POVRPODlJLWt5dVVHZEtLSjYyQWI1SFFoUmZPa0FzQnQ2empRdDRxcE1FYjdqbzBwLXU5Q21NX21aSDZlN2t2Wi0tMTRnX1h5M2V1akhwUWpSZW04aTYtek8wbFRXS280UXlzVEd4blhoVzZyTmlLdUpaOEJLaDMxMkQtZ3dWRTFZVlhqY0U2YkxBcVZKdXAyZ2c?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-10-24T04:36:14+00:00",
+   "score": 89,
+   "category": "funding",
+   "company": "Firstwork",
+   "amount": "$15 Mn",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$15 Mn",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a332deb03607",
+   "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T03:59:03+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22070333781b",
+   "title": "Why AI data centers are powering a boom in fuel-cell demand",
+   "url": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T03:56:47+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Why AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ac35196ca23b",
+   "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says/articleshow/135161200.cms",
+   "source": "ET Tech",
+   "published": "2026-10-24T03:53:58+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Amazon",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Andy Jassy",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7093c35a7da5",
+   "title": "\u00c9ntisi Chocolatier rolls out debut ad campaign for Diwali 2026",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlNfOHB3ZEF1WFJqZkVqUVJ1XzQta0w5bzV3S0I3RnVvVGlUdGRXX190NldoMVA5enNOSVNmM0hGZEp5bEtzaUN6dWhMdjRGbUVUNHg0RWtFMnIzZzJJRnhvOTUwRms0bGRsZk5iQjR2eGt2cm55RTVrMVF5TldTZ1gwSWNaMkQ1OEI0ZGZvOWlNSWNtUXU2blNVRXg?oc=5",
+   "source": "Adgully",
+   "published": "2026-10-24T03:40:10+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "\u00c9ntisi Chocolatier",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e0a51f312ca3",
+   "title": "From Even Health To The Pant Project\u2014 Indian Startups Raised Over $184 Mn This Week",
+   "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+   "source": "Inc42",
+   "published": "2026-10-24T03:30:36+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "From Even Health To The",
+   "amount": "$184 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$184 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "155c2d1a3ea6",
+   "title": "In 2019, two founders launched vodka made from carbon dioxide; their startup later secured a US defence c",
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQLW5FZTExbmhiY1JMT3F0YUc0UXkzdjV0STh0Y3BubnIxcW0wYmFHYXdwYjRYeXd6bEc1R0pxYm84WHJ4VmY2di1nWTlWNDBDTENjQ2RoTWx1X2x3ZVRHclFsVndwMnFmTFcyeE9nVGwwY1JRdDQ1TDRwYW4xSmZIVXZ1eEFmaDNkaGpFM1dkMmNCMnBuLWRhSmFmOHJoRHpIQURJbTlTU09WemFQTVR5cmlxSU56cnFDWkxOVXByNVFMWXdiX3p2UWxLTWJNVG90ckJ1RUhDeE1Bc0RTOTF3QlN1dGlOcGNTcHRiMzlOV2NzbVl5bTJSZzNua3NhaC1HWURlYzRvZk1aOTFTT1dTSlVEeHZIU3g1eUtYMnE0MXFiU0lncndGVU1vZmV3bDd1VF9nMEpXdEczSVVEY2lON2g0by1jbU9hblVYbC1DSlNSSFVQVkdVVjJxUW9hUdIB4wJBVV95cUxPVWp2enYyb19ncGtqRU1reHlIdy0wMnRkcmlLeEZidjBTeVF5UFhLamlZNThwWHAyY2lBVzhaN0lISEJpVU90bUdGV0FWc0M3VExpaW1OR2xGSlgtd0Rkd0JBQzNJaXJfWE44QXFMdEJQcTBFWWtWNXhBcjR1RENleEJMS3F2Y0tsbWRWbzNObmVDOTJ1R2MwMk5mU1FLTk5pd29DN1BMUU9EaWhmYjB0RDdLNGlnOVlIMG1LMlhnak9fUk14TDVKQnlVelNaQlVqTU5EYkoyODV3c2RVWVlkZWVYb3BpZkNoakFqMmU1Rm1yMGdfT0JHNE84aFdYMDVKVWRlZXdnU2VwUEZtX2lqMG9MVlFvNmFzWjVldUhFVXNiZ0NkZnJjWHMzVDNYU3VBVTY1WVlvUWpBWFhxdnJ6Um8xSXFyUGtfZzdMLTFVVVJ0RTQ4U2taeGYyb0htNUd2ZVVJ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-24T02:30:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "In",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ac4749e756f8",
+   "title": "Why India\u2019s flying taxi revolution begins with electric air ambulances",
+   "url": "https://yourstory.com/2026/10/why-indias-flying-taxi-revolution-begins-with-electric-air-ambulances",
+   "source": "YourStory",
+   "published": "2026-10-24T02:30:00+00:00",
+   "score": 14,
+   "category": "launch",
+   "company": "Why India\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8991c4fe02c7",
+   "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+   "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+   "source": "YourStory",
+   "published": "2026-10-24T02:15:00+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Rs",
+   "amount": "Rs10,000 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "Rs10,000 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d254ac655271",
+   "title": "Infosys AI revenue jumps 29%; Apple\u2019s foldable iPhone fully pre-booked in week 1",
+   "url": "https://yourstory.com/2026/10/infosys-ai-revenue-jumps-29-but-growth-outlook-dims",
+   "source": "YourStory",
+   "published": "2026-10-24T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Infosys AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "aa037e9ad44f",
    "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
@@ -5217,93 +5467,6 @@
    "alerted": false
   },
   {
-   "id": "9e46a8a99811",
-   "title": "India\u2019s AI startups could unlock $100 billion in market value through IPOs: Report",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHdobjUyelkxMHNFekhiVklxcTZqNjZVYzRKekJYbTBPWEEtX0lEakJZNzlCVUFGaUc3Skl2aW44MHBRYWx2bVBoTmgtNmt5QTBXNXphNlNHY3lPRHRTLWhBREpkeEJncTVKQXBqQjEzMDdXM2NjYnNCdUVGV3pMX2M2UURSLUJyUmFka1dnNHI2UVg4QUQzZUhtNWFZdnFxbXRlVFNkeXNDZjg3aF9ZaldWNzBkS3dLRkpqS0tGNkY1Q3MyV3c?oc=5",
-   "source": "Zee Business",
-   "published": "2026-10-21T08:41:01+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "India\u2019s AI",
-   "amount": "$100 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ffa89c2aaeb5",
-   "title": "Zerodha founder asks investors to use chatbots to check stock tips",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzJvcjZUbzFMcmRWb1M3NlBKSmJJQmh4RUVoN1YyR1NEUFdWT3otbVBVOVJWMmZlWmh0emxEQ0tjaUJwV1lVT0ZLY0VxWDdRek90d3NNOU9mZFY3WjI4M1BFNmJlYXhSZjBGcWhPQkFxVlFYMmNOTkFJbVRjTGkyQ1FwOWFVb0ZqOFhfWTh3?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-21T08:28:52+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Zerodha",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9942bcb0026f",
-   "title": "Kissht parent OnEMI gets BSE, NSE In-principle approval for Rs 832 crore share issue",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnNHck5tS2dEXzdTSGJHaFN5dU95dnM5RjRmRjFlalBjaEY1MGZlRU5NRmpGS2daNkZ1eWhxM0I4Q1dIX1Nsc1pDQnZMZDltckV5ekM4X0k5WkF5UWhBMkxDaHgzbGlPcjNlMHl3dEpzSW1qNVpSeTRWM0tSQndLd2hlU004VkhpNlp3WTBCa1hHekd3S2I4eGxDNjc5WlJfOVVQQjUtR0c0V1NiVHpaQkU4Z2ttT2hoZnA1R3FCd9IBvwFBVV95cUxQVnNHck5tS2dEXzdTSGJHaFN5dU95dnM5RjRmRjFlalBjaEY1MGZlRU5NRmpGS2daNkZ1eWhxM0I4Q1dIX1Nsc1pDQnZMZDltckV5ekM4X0k5WkF5UWhBMkxDaHgzbGlPcjNlMHl3dEpzSW1qNVpSeTRWM0tSQndLd2hlU004VkhpNlp3WTBCa1hHekd3S2I4eGxDNjc5WlJfOVVQQjUtR0c0V1NiVHpaQkU4Z2ttT2hoZnA1R3FCdw?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-10-21T08:22:01+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Kissht",
-   "amount": "Rs832 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs832 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "695705e8186e",
-   "title": "How Neo San is processing non-recyclable waste where it is generated",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHdYWU13VDI4MzVpWHJWNjQ2Y3hmNTgxcExFVVZSYms2dzBFTHdiRHJmT2pNempfVmRDbFF4Y3lmUS1OS0M2emxud2J6VTBOcXlVVkpHNzJYMUpvUndNZ0wyWUQyLU41R1RtTVZWX3RHY0tnZFZwLWFScTJsX2w4cklyT1pzVzZZdGxkc19fbnJrblk4MkFzQm5B?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-10-21T08:17:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "How Neo San",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "146b0a0a0459",
-   "title": "Grapevine: SP Group, Tata Sons, AM Intelligence, Simplismart, others in news",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWpRNFJ0RFlxak9ZVHFEUjViN1BidEt3dWM2bUY0S3dUaTlBc1I5OUFrNWdzQ0lTbl96akdCaGFTdWt5M0JXOGlYb2tGNDJuLV9xRkhuU3JLdFZOYUhQLVdidFExRkFfXzVNMEh3MTNFbmZXaENsb1lGUEw0azNIb2dDYi12ODBhdElRWms4b2N3RjBqRHJENFpGONIBowFBVV95cUxOUEZ2VFlCS1ZUdXRMTXRldEtKRGhTWmVrYW5lMGhySHlrVzRtMTJDZEQ3cjJvdk1sMzF3bUM3WUZBWXppNUc2YWt1Mzd6MEsxbFBrZGVzYjJjUlA1bGowQ2h5SjhfMFJhTG96RnRJYkc0VVpabkV3WVVzQ2RBbU0zdXdsNVFMNzlMV0U2ckQzekRNQVd6dFdkdkVmUU5Fd2QwWU93?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-21T08:11:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Grapevine: SP Group Tata Sons",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "af93f3ded1e6",
    "title": "Jio Platforms IPO oversubscribed in less than two hours led by QIBs",
    "url": "https://yourstory.com/2026/10/jio-platforms-ipo-oversubscribed-less-than-two-hours-led-by-qibs",
@@ -5337,23 +5500,6 @@
     "$1 Million"
    ],
    "alerted": true
-  },
-  {
-   "id": "02be710f872e",
-   "title": "Indian Oil announces Subrat Kar's departure after 38 years: Here's a look at his career, achievements and more",
-   "url": "https://www.livemint.com/companies/people/indianoil-announces-sabrat-kars-departure-after-38-years-heres-a-look-at-his-career-achievements-and-more-11792569524014.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-21T08:07:35+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "Oil",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
   },
   {
    "id": "342a0d9de13d",
@@ -5390,58 +5536,6 @@
    "alerted": true
   },
   {
-   "id": "e873b463a465",
-   "title": "From backup to energy management: how batteries are changing India's power needs",
-   "url": "https://yourstory.com/2026/10/from-backup-to-energy-management-batteries-changing-india-power-needs",
-   "source": "YourStory",
-   "published": "2026-10-21T07:40:52+00:00",
-   "score": 44,
-   "category": "expansion",
-   "company": "From",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "827e36148dd0",
-   "title": "Amit Singal, Managing Partner at Indicorn Angels, on Why Founders and Customer Love Matter in Early-Stage Investing",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMG9LRHJXcE4yWWNreUt2Si1PNmdYN3dNaHZWbGZMN2F0Z2JjY0huVjhsT2FiTk5mY21aMWgwcnBJY0tHbEpJbnR5bDRBZGpLSXVYQnFrd1RFdVVVVlJlMkJ3a2xTV0JueEF1ZVBxU0pWdXpIS01KYnBfRVJ2d0FkQnkycTFPUXdCT01JOWh5ekZKQm95OXpxaW5ENklTdzdabE5GTlI3R3FQR0hBUzlHRmlGQldCQUd6MU83QjNfSjNXaWhWS3RrTmxIQlJLaVYyQW5wMFh4cml2YTh4a1NpU0xhQkVTYjNQV2RkRXhNYkhHUQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-10-21T07:38:58+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Amit Singal Managing Partner",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e80b6c0570d5",
-   "title": "arnataka Turns to Centre Over Under-16 Social Media Ban",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUxLUGdTZEhvZzRCRWpfcVJEWnltb01GV0otR213dGY1SnJnLXlwTnV3VTNqSWpUUURvNHIxR01JV3NCZWhZT05JUmhxNVU5RUpoSzNBODdTR1pkTm5mXzNHUFByV3FoZnRfSjM0MVhOQk5LZWFiSjItUkZITFBLTDFBb1h6QVQ2?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-21T07:38:24+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1883b9caec0a",
    "title": "SMOOR launches 75th outlet in Bengaluru\u2019s HSR Layout",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFJ2VlpkV0JBQUJFb1ozOUJINkM4a3VldDhSNnRjVy1GcFdqeHJCWEEwR2o0SHVPTmJaaXRNazVCTW43T2xvR2xGOGUtQnBwTEE4RXg5NUlVS2VOMGVGTTl2LWxFUWl1RENTbk1yaGNfRFlRWENsMXhsbThtNEdZTGJHVGNYU21aRlE?oc=5",
@@ -5457,59 +5551,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "cbedc3f9dbff",
-   "title": "Plum Benefits-backer Gemba Capital sees partner-level exit",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDZtZnVGclRMSmF4Q04yMDJUWk1pZ0VHLW9QRlJVeWNrYUN2V19DeVotekdDUFlGZWxCaTRjRGl2ZFA5QUJKblpXNXJaYTRvM244ZE5KeE9VeGw3UlZXMW03Z09YcmwzbjdjajBpYUszWkI5alNqYlA1SEVrdk9QaTIwUlNzZ1JtV2fSAZIBQVVfeXFMT2RrWkFMLWVCd1NVYjNkR21XZmVMR2hDVUl3dUxVWUQtRE1WSktoNkpCdEhMajdjRl91bHBZWDlGcGZFNDJhbnFhVkpKTG0zMlI4SmRsRkJqTHg4X3Z4ZExKQUpKRnQ2N2sxSmtzbU9ib09kengtX25sLVN2TDREb2gwLVlDdU5GcUdIWm01T243dHc?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-21T07:19:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Plum Benefits-backer Gemba Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c26d2fd03514",
-   "title": "How Bajaj Alts is betting on office assets differently with its maiden realty fund",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0ZVTU43WGtsdTVNRVdrcHNnSTdReE53NWF0T2o0QWo1bTRnSHhkSWN3YVJJZE92UE5uRVQ5SEZxa0ZoZTdUazB3a2xFdURPYkI4RUpiY1F3MHRBVTdqcjJYWjFLd0VkTWplNW5RNHRfaU9OOWZBS0JERGcwTzlQOEJwWmVHMTEzRmtIVUlYUmxmMDNyRXNzeTdtMDRJTVV1VWlaU0NNR3NkUdIBsgFBVV95cUxONmpUaVFyTWRJb1M3T2QwTm54MGljSFFpTXpfYjJRbkJaMWJVejVtT0FWMlRPYTFfQXJkbjl6RnNnYjNFSDV4X2M1Mk01U2VuMVRNek00UlFKXzE0Yy1LZl9ETDhYaFlKV2kzOVZZM05MVXpnZ3RGWDRoTzI1TldOSHFmOXpqSF9SQ3BWbVY5b3pHSVVGMVRUaExTQzVpZ3RiQnluMGN2VTB6bHpfMUNTTGdR?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-21T07:13:47+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "How Bajaj Alts",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "db536fdf2a71",
-   "title": "Stargazer Fund leads $1 Mn pre-seed round in travel platform Onto",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEpyblNOUDc3STBzMUgwb3YyUkpuZ2NIUEVMU2NwdWdad0V6bDhLeHRRTzVEVF8wdTBLT2s2ZXhDMlI3MDYtWGpiWUFtdmpFdlJyVGNuUzVsS3lCVmFNX0IzZWZiVjZFMXZielJGMXpMdUJKNFI1S0EtejJ3T2hKampJMll5ZFJITHpNVlhpci0tblZiaWNPQ1g5UDlTRHBWNnpvMUJ30gGmAUFVX3lxTE8wSnJuU05QNzdJMHMxSDBvdjJSSm5nY0hQRUxTY3B1Z1p3RXpsOEt4dFFPNURUXzB1MEtPazZleEMyUjcwNi1YamJZQW12akV2UnJUY25TNWxLeUJWYU1fQjNlZmJWNkUxdmJ6UkYxekx1Qko0UjVLQS16MndPaEpqakkyWXlkUkhMek1WWGlyLS1uVmJpY09DWDlQOVNEcFY2em8xQnc?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-21T07:13:17+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Stargazer Fund",
-   "amount": "$1 Mn",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$1 Mn",
-    "Pre-Seed"
-   ],
-   "alerted": false
   },
   {
    "id": "1a6fdb00fcc0",
@@ -7053,41 +7094,6 @@
    "founders": [],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f36e19ea821e",
-   "title": "From Boldfit To Origin \u2014 Indian Startups Raised About $236 Mn This Week",
-   "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
-   "source": "Inc42",
-   "published": "2026-10-17T03:30:52+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "From Boldfit To Origin",
-   "amount": "$236 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$236 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9266b8741c36",
-   "title": "India\u2019s massive AI opportunity; Women entrepreneurs in this year\u2019s Mann Ki Baat",
-   "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
-   "source": "YourStory",
-   "published": "2026-10-17T02:00:00+00:00",
-   "score": 56,
-   "category": "funding",
-   "company": "India\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
    ],
    "alerted": true
   }

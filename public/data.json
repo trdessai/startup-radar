@@ -1,12 +1,135 @@
 {
- "generated_at": "2026-10-24T13:25:40.411526+00:00",
+ "generated_at": "2026-10-24T16:44:54.463377+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 20,
-  "fresh": 16,
-  "alerted": 6
+  "fetched": 18,
+  "fresh": 11,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "a3e4a9de1819",
+   "title": "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXZzblRac211RElKalkxTVo3bDNHMGFtMU5Hc3BXVmRzN3k5NjBkbXpua3B4ZFN6bFVnRHJHakxKRnZSTWF5VTJHS2s3MV8yZXlGRkh2LXk4aDZXWTlkWUI1SDZrOW9oMEpoaFZqNklVaWp4U3JDblJTaDJUNG1hLXVPMkNjbWY1WkRoUTRBeTJJN3RFVXRJemtyd1hvZVdmcExHeHNtbksxNzZ5OG9JdE5scWtHVjZEN0h4M1dFTUs?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-10-24T16:28:39+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Chinese AI",
+   "amount": "$15 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$15 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6cd889fb5b3b",
+   "title": "Dognosis in Bengaluru uses dogs and AI, claims 90% accuracy",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWp3MkpPUW94cXdjeURrdUVNQkxfRkRzWU9SSDNINGg2STVTMDBtVll1OGpQNjdXNmdvX2ltUHMxbTZka3lHUDNtMzJaTk56MmhIOVoxeXlWT2E5ZVp6V2J3NUM1TTZUYUszM0k0Y2lta01SZjMzYW9JX3FXdi1YZzF2dk1MNVc0OHlHb1dQeU9FYm1TckJqbWlKYXlzNVFSdzA3dE40NA?oc=5",
+   "source": "NewsBytes",
+   "published": "2026-10-24T15:45:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Dognosis",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "00884c134c7c",
+   "title": "Can dogs smell cancer in humans? Bengaluru founders says with AI, dogs can detect seven cancer symptoms wi",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQVFkYTFjVWx2Rld2RV9LamJBX0k5dWNoUXRmNlBnQkEzbE03ZjFjdzY4ZC1fV0JZMWVVay0tX1Y2MHVlQlc4d2VKeUowZHJ4ZXY4cUZWUFQzRmdGXzdrcHRTTlo3bjlOQkUtVXJPYURDX3ZOVVRxWFZYS0dfN2lRRUg4SV8wWm9uQ0JNN3NTSXgwbDVPSWpxVzlyYkFCT0dNejNmZmVOcGJjWjJ5MWpFSzlxenJ1T3Zrd0FZNXFLV3JGSm1QZW9sZ2ZvVWRjTnk2enpWS3h5X0JGbGNqaHk5aWRRaVg3NktGTzRaNHVMdlpmR1UzNnVIQy1BQy1MNXc2MGIxVlJEbVhGakR2NzZsY29YQUVGd3NZRGlxMGFFei1CcXdJM2fSAZ8CQVVfeXFMTThXaFlmU1piT3BxOW9TODZCZmxmcUFYWDZfdUcxdGt5Y2RhYXBtQ0RTejFqcGdkczh1OXA5b0F3WTVrTnVPeHlYRlRhSE05SU5relBiM0QtS1dURUs4NExNdlV3azRSR01VYjgyU21oLTJTTWViVWJMOTJUdWF1WWhnMnVIY0xqZ0NvdDNkTTQwYXk5dm9BOVdCQmlQWXltLVZiUDN5aXdGbUZQczhLcVRkRl9JUDMtRmZ4UjZITnoxMi1KY0psSFA4eVU2dlFkSTRnTEN6cFBPbndRLWE0bnplNkxab1A1SzR2Ul9Wdk9tQTRfZ2JiWXBfQzJTMEpwWHVURDZnTV9BMUZRR3doX0Z5V2tYTVVuMDl6U3l1dW8?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-24T15:24:02+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Can",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "43cf6f477ab8",
+   "title": "Reliance Jio IPO: Who is Arjun Vaidya? Bizman shares why his friend Akash Ambani returned to India from US | Video",
+   "url": "https://www.livemint.com/companies/people/reliance-jio-ipo-who-is-arjun-vaidya-bizman-shares-why-his-friend-akash-ambani-returned-to-india-from-us-video-11792851277334.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-24T15:21:59+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Reliance Jio IPO: Who",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9af51b2dd9aa",
+   "title": "Myntra Slips Into The Red In FY26, Reports \u20b9582 Cr Loss",
+   "url": "https://inc42.com/buzz/myntra-slips-into-the-red-in-fy26-reports-%e2%82%b9582-cr-loss/",
+   "source": "Inc42",
+   "published": "2026-10-24T14:37:28+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Myntra Slips Into The Red",
+   "amount": "\u20b9582 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b9582 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d6c7c0400f55",
+   "title": "Comm min identifying AI-proof professions, sectors where India can take global lead: Goyal",
+   "url": "https://yourstory.com/2026/10/comm-min-identifying-ai-proof-professions-sectors-where-india-can-take-global-lead-goyal",
+   "source": "YourStory",
+   "published": "2026-10-24T13:55:25+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Comm",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d3070a833718",
+   "title": "IDBI Bank sale: Employees\u2019 service conditions to remain unchanged, says DIPAM Secretary",
+   "url": "https://www.livemint.com/companies/news/idbi-bank-sale-employees-service-conditions-to-remain-unchanged-says-dipam-secretary-11792845187639.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-24T13:23:15+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "IDBI Bank",
+   "amount": "\u20b952,878 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b952,878 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "26776f2ec9f7",
    "title": "Masai School Launches LEAP Founders\u2019 Cohort: A Build-First Journey for India\u2019s Next Startup Leaders",
@@ -5377,23 +5500,6 @@
    "alerted": false
   },
   {
-   "id": "9579d391fde3",
-   "title": "Former Kalaari Capital partner floats new VC firm",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zZUlFZlQ5QWdBb3RFYzBaYV9WYnRrZVNmVWJPdVFYVk1aZzJscmQ2Vkc0Qng4bXpBYVVoVjVlbGpnWXI3ZVFuUWcxR0NoWEZzcFFYUnNkcm9PRVlSR3pOSUN4VFNwN2xUSTloN2N5U21vSE1QeHNRS2dicGM2Z9IBhgFBVV95cUxQN1hSb2xfeFl6RFlSQWlEcWRnLWVIcW9zWHFsaDNWWFdfNmdPYzJDV2dUR2JUeHhrR1VYbzk0YWlsMlF0UV82Z254QkFIZHdXclpIdU1IS3E5ODJ2N0hFd3J3TkhweWlwS3RINTFaMkdMVjcyT3EyZEZqUG9DRFpHbUpDejdRUQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-21T13:20:40+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Former Kalaari Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "aaa42f46bf65",
    "title": "Goldman Sachs: PE Funding in Indian AI Startups Triples Since 2024, IPO Pipeline Could Add $100 Billion in Market Capitalisation",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWWxXTnhwc3l4Y25sbmNGNVBjRjAzWUlHUVA0ZFZDRUpLc3cxQlp4bmE4UzdSOHczNGNMSTNocTl4dHhKbjZVbzRxWUFmNDZQNV9teWpXbVkxUUNXekxFUkNRWS1SY1BhMVQ0aE9FZ01kSFNlWXo5Q1R6cXBJX2RDd2RfQm5qblhQOFdfNjVqc3pFOXZ5d0t1ZlBjRlFaYjJ3UEhOd05id0lDRm5zWG11SkozWGlxbGU1bDMtUDhobDAzV1JhSklzSnl3dXE1NUQwVGxVeDAzQ3ExLUQtR1hDY3k3bmJKQUZ1TTFSWlhEMk85REhlMVVkUERR?oc=5",
@@ -5410,41 +5516,6 @@
     "$100 Billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "d0e71a797d89",
-   "title": "Zetwerk heads for stock market debut as alumni build manufacturing startups",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2tsNmEyTmYyaE9HNUNrWU1nc1h6REU5X1ZYS2FndUtsZlRjZjNDQkFKU0d0VXoxYmRZdE5ncEdBSDlXbXBiX291SG0yMkgxVmFLbk5EVXhlY0JkenZ0V0hFanhyWV8yRExBSTRXRXE2V3VaSnZtQnN4N205Q2pZc3FPQW1ZaUZLcVY1QTJHWmdkZFFpZUpkeGk3M203d2hlQ3d6MEkxblpkSmNCLWJTLXNYSUZsREwyR2lCUUV3cEo0M3ZNbXlEU250UTNoaHhKQmhySWJueFp3LUFSMGFvZzczb9IB6AFBVV95cUxOdW1hNU10MVNWZFNVT0lMRTh2YXRfV1RDRnRwX2c3Z3FyV3h2OXhMVDZHaThZUWpEMEhlSWhocG5LVHl4YzgwVTJjeURYR2hVbU9lc0FJbzlXeENnd1hMak92eHJ4SUZRVXV0YWlUUGZaQ2RvNUhRYUZjd3RnVlc5MVRfbDBCU0gwZnVieUZTbEVQNmZSd05RRndzT1RJNXkwX2JxNlFKOVBtX25EQkIxVFltajFReFRyY2FaZHBIR1Q0UGsxcTBvbjRza1doQTRhdFlZOFgzMVlZR0tCMWxnWG9zMnNzc2RX?oc=5",
-   "source": "Business Standard",
-   "published": "2026-10-21T13:10:25+00:00",
-   "score": 28,
-   "category": "launch",
-   "company": "Zetwerk",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "markets story"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6896e1ad36ea",
-   "title": "AuxoAI",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PS085ckdRUFZrcFh4cktMQ0VIUUNoVjlzMUNQYjZCWG14c1FpVXdjSWtaMVJpQVphNWlaVkYxUW1tTFlmUWx3?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-21T12:57:41+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "AuxoAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "209f67fd5532",
@@ -5481,23 +5552,6 @@
     "funding in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "3f037d23785f",
-   "title": "After YouTube block, Mumbai Police asks X to remove 24 posts on Modi-Adani video essay",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWowMm1lbmpfR2tWSTQyZXd1TWFIdWJvU0RjMERWcUxub081N1pnQ2cxNG8wVGI1dkhJZVNfS1ByX0x4UHFvT1pzUmhod29IVzhMOU9VUFpyZlEzNlF3WXNKYkxBSmh4N0dHY2pNUk5DcjJ3UmZiY29HaFZMdGZLVFpKZ01hNVotUkp1WHZjdGw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-21T12:22:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "After YouTube",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "ba23156a43cc",
@@ -7033,61 +7087,6 @@
    "reasons": [
     "funding in headline",
     "$2 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2155fe06c324",
-   "title": "Meet Aayush Agarwal: Snabbit boss explains why \u2018house help\u2019 firm suffered \u20b9168 cr loss on \u20b912 cr revenue in FY26",
-   "url": "https://www.livemint.com/companies/news/meet-aayush-agarwal-snabbit-boss-explains-why-house-help-firm-suffered-168-cr-loss-on-12-cr-revenue-in-fy26-11792240673102.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-17T15:52:28+00:00",
-   "score": 63,
-   "category": "expansion",
-   "company": "Meet Aayush Agarwal: Snabbit",
-   "amount": "\u20b9168 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b9168 cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "73a3a5645181",
-   "title": "Mobile gaming studio Spill Games raises $10.5 million in funding led by Elevation Capital",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmFTbmdlUl9POHZFRjFZUDdqMEVoVDlZcWxPRHBiYVlndXAwQ1VQMDB2bHJFcFktOVM2bEFrcUZiRHprNHQ4ZnZhekFHeFZxdDhDbHFZN3REb2hvc2lJLXFMTFRhU2tUNTVseHBFblNXZjh5aHRVM1JLZnpBTDBYM3JfSTV1dW5UdEp2ZEx4QVd2NDE4ZF9oaURPMlNWVUp0Z21uQS1jRkRaMGZSSW5CaFdJRHN1cTFhNEV5R1NjaUt2STI2c25ualBaSlQwMGPSAc8BQVVfeXFMT0ZhU25nZVJfTzh2RUYxWVA3ajBFaFQ5WXFsT0RwYmFZZ3VwMENVUDAwdmxyRXBZLTlTNmxBa3FGYkR6azR0OGZ2YXpBR3hWcXQ4Q2xxWTd0RG9ob3NpSS1xTExUYVNrVDU1bHhwRW5TV2Y4eWh0VTNSS2Z6QUwwWDNyX0k1dXVuVHRKdmRMeEFXdjQxOGRfaGlETzJTVlVKdGdtbkEtY0ZEWjBmUkluQmhXSURzdXExYTRFeUdTY2lLdkkyNnNubmpQWkpUMDBj?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-10-17T14:03:13+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Mobile",
-   "amount": "$10.5 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10.5 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2d1b74900310",
-   "title": "{Funding Alert} Battery Smart Secures Nearly Rs 100 Cr to Expand EV Battery-Swapping Network",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjZ4cXFRZ1RRNnp2bXgxVkR1TmpBd3d2SDR4dzRIZW1iSjN0N05PZk5ueExsUXhxVjE3aGVwY2NmTjVsT3VYTzJFdXpmVGxsUTVZOWNuZjZUdVZqaTQ5MzNxb3JVRzh4LWMyTEswdHJoS0NEeTlhYk9xOVoyVFEyUk0xSmNUa3NzNzJJclNBSDNGTm85cXUwSmFWRmNkbjRpaDViUzg5bm04c09SYVFhcVNkNEZPYjVUaEVwWG5GQ0c?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-10-17T13:30:00+00:00",
-   "score": 62,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs100 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs100 Cr",
-    "no company named"
    ],
    "alerted": true
   }

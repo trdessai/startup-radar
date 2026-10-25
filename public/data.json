@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-10-25T18:55:22.253924+00:00",
+ "generated_at": "2026-10-25T21:17:37.651340+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 6,
+  "fetched": 5,
+  "fresh": 2,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "e1dbffb91cfe",
+   "title": "Katrina Kaif\u2019s Kay Beauty hits \u20b9350 cr valuation, completing one year in UK's retail market with luxury chain Space NK",
+   "url": "https://www.livemint.com/companies/people/katrina-kaif-s-kay-beauty-hits-350-cr-valuation-completing-one-year-in-uks-retail-market-with-luxury-chain-space-nk-11792954648251.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-25T21:06:10+00:00",
+   "score": 78,
+   "category": "launch",
+   "company": "Katrina Kaif\u2019s Kay Beauty",
+   "amount": "\u20b9350 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "\u20b9350 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "18b53f1ceaed",
+   "title": "An American startup wants to sell sunlight after dark. Who gets a say?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYS1sUnVlSVdTUzlpZWh1YzUyZDNqVG9oUzQ4dFFRMTRBTGt2UHdFRDhhb3NFTmUtUGJKMWxUYXJDOXNydGlwY01yYWhERmRodkZvSUVCUTNObFktc0w3UWoyYjZQMk53TGlsUkdIemtCaU1mUzlPNHl4Vmg4MXY0MEVRckd2Si1JU3pLNnM4SWVOVWdhc3Q5Q1lIWEgtcEp4dnExOVF3?oc=5",
+   "source": "The Conversation",
+   "published": "2026-10-25T18:32:17+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "An American",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "280c1b7e52c0",
    "title": "Is the AI Bubble About to Burst? Nikhil Kamath Warns of $800 Billion Funding Gap and Tough Times Ahead",
@@ -7047,41 +7083,6 @@
    "reasons": [
     "funding in headline",
     "$10.5 m"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "687edc998fee",
-   "title": "IndigoTex raises $518K to scale India's waterless wool denim tech",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUE2UlFNM3hFa1ZjMXhxcUFqOTlEeDk3dFBwN3lldGhJS3VrY25NbGlWY0x5MDZmdEJpV01TN0NkZ0J4OTRzdk5XRUFPQjBFblNsRWNsN1NKV0FHczFVZEpWOFc1MDJLU1BzNkM5T05xQk9yazJjbi1xWmVlMlNkc09YcndtQlpkenZPeTg2QS05TTBKSEUtbDgwV1I1SDA?oc=5",
-   "source": "Dealroom",
-   "published": "2026-10-18T21:04:43+00:00",
-   "score": 71,
-   "category": "funding",
-   "company": "IndigoTex",
-   "amount": "$518 K",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$518 K"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b5598481a829",
-   "title": "The Weekly Notable Startup Funding Report: 10/19/26",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3FpUHIzM0dnalhKVEJqb0F2NFBRa0hSSllTS2xycy1XYXI2djQ3UUE5RXdnbjBTb0ZELTc4b3Q4YnZxanV2UmRNM2FGNldtb2R0RlI1R0FjWEdBa3dGVElHYnE5ZVpMN3lqNVhaUW14M09wTUktREJGNFVFMno1QVVyaFJHXy1mOUE?oc=5",
-   "source": "AlleyWatch",
-   "published": "2026-10-18T19:28:35+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "The Weekly Notable Startup",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
    ],
    "alerted": true
   }

@@ -1,12 +1,136 @@
 {
- "generated_at": "2026-10-25T23:18:32.776059+00:00",
+ "generated_at": "2026-10-26T01:15:58.739872+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 5,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 12,
+  "fresh": 8,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "bb72eae9e989",
+   "title": "Astrobase\u2019s 3Rs of rocket launches",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUh4MGFPTGQ4Z3pkX3hCMHF3ckpPTzd5UjlyUjBDV2VvM25wMm5zRmVfSHhueTJMT0Y0Y044U1IwclBOb3lwVjdPNWdUY0NSNUkwN3lLRFJtZW9qdnJuWk9ILUpfM0RWRnl3cFBWWmxXalhVVTdJdlJIOEhfVHFRUGl2eExKWm14R1JPanN0NWpUUXd4eXNBS3pvby1pOE9kVWlqSUl3bGJEeGppVnQ5Zl92UkI1ajQ0d1FhT25vUdIBxgFBVV95cUxPamdQbUZKOW5hR05tYWJTUEZwUm9JSms3TFBrX0VyZWd4UUx0bnFMUlpUT1N6dkFXMV82MDFWZUJWYVlnbE9mUjJNQWRsUEY1YURoMmdPeDhsVDVENlQycG0tOVJfbjBkR2FNTFc3NWUxdDh1SDFpMXlZcDFZQV9odmxOTlRBblg5RGlfdG9qbUJGbXlIb284d3R6LU9mazhmZDFmbkFVSGY5blJVX1pmSGdYWUFQQ0VxamxCcC1fN21La0RKMXc?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-10-26T00:45:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Astrobase\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "52016c8475dc",
+   "title": "IIFL Capital hires four Barclays bankers to expand wealth business",
+   "url": "https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-26T00:30:56+00:00",
+   "score": 26,
+   "category": "expansion",
+   "company": "IIFL Capital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "expansion in headline",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d1dd60bfb724",
+   "title": "JSW MG taps into Chinese parent Saic for 70% of its purchases",
+   "url": "https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-26T00:30:47+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "JSW MG",
+   "amount": "$840 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$840 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "77c6b318cbb5",
+   "title": "Growth Vs Profitability: Swiggy\u2019s Tug-Of-War",
+   "url": "https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/",
+   "source": "Inc42",
+   "published": "2026-10-26T00:30:39+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Growth Vs Profitability: Swiggy\u2019s Tug-Of-War",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "958a6b8e0c6c",
+   "title": "Wow! Momo plans \u20b9300 crore fundraise, eyes overseas expansion ahead of proposed IPO",
+   "url": "https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-26T00:30:36+00:00",
+   "score": 66,
+   "category": "expansion",
+   "company": "Wow! Momo",
+   "amount": "\u20b91,050 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline",
+    "\u20b91,050 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f6a18e5ee190",
+   "title": "Introducing Lab Rats: A Mint series on India\u2019s biotech startups",
+   "url": "https://www.livemint.com/companies/start-ups/mint-lab-rats-biotech-startups-in-india-11791818972814.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-26T00:30:33+00:00",
+   "score": 52,
+   "category": "funding",
+   "company": "Introducing Lab Rats: A Mint",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "26c5f81a68e3",
+   "title": "Flipkart plans to launch \u2018Earth\u2019 to tap demand for premium, sustainable products",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQXh6dFhaQ1d1OFdITXNCOUYwWERMdm0tTkN2ckI3RzhjOGVnOVFKd1N2OEdqYWw4U0NVMmc1ejNxQ1pNSms3UEJoREhjTUdsd3dER1RCZ0J2ZHJ1YjEtZC1aSkJjVG5icnc5dnp2cFdxLW92bDhiMUxING1jUzBKQVFqVjg5cmpKdkxsMmFQNGpNQ3VXRkk3R0N5cC1MUDZxWktCQURJd1dHcm40RHVYM3NDZFdiVzh3TkJyalJpNk1aX005blREaUdSeHFfMk5odDlLcEVkeFlPaHl0eGfSAeMBQVVfeXFMTVYtcEQyMnBtTXRJR1F4UEdVVEVkdmU5MlVkc3ZGbEVTN3BHRC11N0I5TmZSUU54V2tRYmstbldQTlRSYXVTQV8yYWlpaHQ5QXhyUWVyeFdHQU1FNkxvYWNzTU9yOGNxRVF4eVJISWtMdnYyWU9rZ2l0dTJMYkpxS2pSZWJReEUybFVPejR1ZUtmTjh4eFREb1poNzRyX18yY0Q1R3hlc2FWUEVTblg2Q2hUN1FsSHpVOWJUSnk3b1R5VWV0NUdsd0tUUUhCZlpVNTgxT3J2R1d1ZG5BZFhwQUN1VWs?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-26T00:30:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Flipkart",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "502a0d75a67b",
    "title": "Democratising data for startups",
@@ -5419,74 +5543,6 @@
    "alerted": true
   },
   {
-   "id": "fc68673fafaf",
-   "title": "Midas Capital",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZeHp6T05SUmlKUFJZT1l5MTRXckhVNGRHdUxJcHJGaHREX29Va0E4SWhwbFEySlV2WlRZc25ESGlLNjBpeEJsdHJ3bTFPc2FXTV9OVA?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-22T02:45:50+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Midas Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5c63b3346342",
-   "title": "Government websites in Europe, US go dark over AI-detected flaw in a web programming language PHP",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/some-websites-go-dark-as-operators-address-an-ai-detected-flaw-in-a-web-programming-language/articleshow/135105251.cms",
-   "source": "ET Tech",
-   "published": "2026-10-22T02:40:51+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Government",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "55ffbaaa5abf",
-   "title": "Meta strikes deal to keep Mark Zuckerberg in California after wealth tax concerns",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-strikes-deal-to-keep-mark-zuckerberg-in-california-after-wealth-tax-concerns/articleshow/135105017.cms",
-   "source": "ET Tech",
-   "published": "2026-10-22T02:30:40+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Meta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "998df5bdade4",
-   "title": "Eternal\u2019s Q2 Profit Run, Jio IPO Day 1 & More",
-   "url": "https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/",
-   "source": "Inc42",
-   "published": "2026-10-22T02:30:10+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Eternal\u2019s Q2 Profit Run Jio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "86c482a3268b",
    "title": "Carlsberg prepares India business IPO worth up to $700 million, eyes December launch",
    "url": "https://www.livemint.com/companies/news/carlsberg-prepares-india-business-ipo-worth-up-to-700-million-eyes-december-launch-11792634847843.html",
@@ -7030,60 +7086,6 @@
    "reasons": [
     "launch in headline",
     "\u20b958,000 cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "751abdc3a3d3",
-   "title": "Food services platform Focus Prism raises \u20b9145 crore from OAKS, buys Chennai-based catering firm FoodExo",
-   "url": "https://www.livemint.com/companies/news/focus-prism-food-services-oaks-asset-management-145-crore-fundraise-foodexo-catering-acquisition-11792309818833.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-19T00:30:47+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Food",
-   "amount": "\u20b9700 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9700 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "54c337c775ab",
-   "title": "The Pant Project Raises \u20b9109 Cr To Expand Store Network & Portfolio",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmVGTk9MTUt5eEpZbmcwbWJ6QmpyUXZxR2tkUTRZd1VJS3BhWHpLcFFYRWtKM1ZZMEJzZGliVFNEU1hhQ3IzaW00MmJ3LVo3SXk3eVBPTkFhZXBtajBUNE4yZ21YbjgtUlVWakc2Y19SX1RBWjdnTnBNdnZuV0hCTkVmZ0p1TFMtZVRDc1BEbkdaaEdTb21fbWwweTVZUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-19T00:30:13+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "The Pant Project",
-   "amount": "\u20b9109 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9109 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8de61e872a68",
-   "title": "Battery Smart raises $10.5m from Ecosystem Integrity Fund and other India deals",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNm5oZTVqYm5XR1Y5a2lpOEN3TVdfSHF2STF6ZEE2TUgzeV9ibnRKQUtvaEpPQW9GaHF1N0pMLW9VQXd3OGVseDk0R2M3dWoxU2ZKMUd5alJoRFU5eVRMOG53UTBmTTNnVm5lMUpGcWFXYVNET3poX2F1T3lROTB5SEhiMmlHd3B2cEY2ZWpR?oc=5",
-   "source": "DealStreetAsia",
-   "published": "2026-10-18T23:36:25+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Battery Smart",
-   "amount": "$10.5 m",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10.5 m"
    ],
    "alerted": true
   }

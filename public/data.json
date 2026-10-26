@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-10-26T19:12:37.734652+00:00",
+ "generated_at": "2026-10-26T23:08:05.883877+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 18,
-  "alerted": 4
+  "fetched": 2,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "f0a0c5234221",
+   "title": "News Publishers Move SC To Challenge The DPDP Act",
+   "url": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+   "source": "Inc42",
+   "published": "2026-10-26T20:14:46+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "News Publishers Move SC To",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c5c13d57468",
+   "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
+   "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+   "source": "Inc42",
+   "published": "2026-10-26T19:47:18+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "BioStack Nets",
+   "amount": "\u20b990.4 Cr",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "\u20b990.4 Cr",
+    "Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "afaa5221ba1d",
    "title": "Tata Motors completes Iveco acquisition to turbocharge global play",
@@ -5265,28 +5301,6 @@
    "alerted": false
   },
   {
-   "id": "fe413d35e673",
-   "title": "Flexiloans co-founder Ritesh Jain on growth drivers, asset quality and more",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0ZqS3hoaWxIOWFlNDhVeTJHRW9PUXlwcURQRWJWeGMtZ3FzeWpld2tKVmJuUEh4SVBRSVBWWFlyRTdjRGJlbkN4cG56c3c4YTJZRTBmM2Fabm9KNWFTSjcyVzBCbDFodWxWYl9GYXlTakMyRk1OVnExQS1zSTcxcmZPM3I1QTQ3cExiOWE4OTdSWDRFNGJBWnlOazREUjjSAacBQVVfeXFMTm14X3dWeEo2R0tLNmE0Nm1RMmR0d0Nua2JMVUZkbjN6MUxWX0M5aFhjNS1JRWZpaGkzdzF3QUU4VXVaWHVUd09ORGYyS2l4RkxrWXRtNThPcDN2a1FxMVFMNGdURU4waHJ2NzdPVDZvMEJlX2puM0ZoSUs0TGJuanZlMTJ5b3VPWE1NanRpUktUYWM4Qk11b01ZX1JWTWJ4eFhESXlyZWM?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-23T04:17:47+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Flexiloans",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ritesh Jain",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "129988e12b40",
    "title": "Amaha Funding: Mental Healthcare Startup Set to Raise \u20b9100 Crore for Hospital and Clinic Expansion",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnNsbWhyY212UzNrLS1kanF1WjlaTkI3SGxheEs4OVViSkt2Y21YMEFheE5kbEE4aU43SWE5dUpTX0ZMRVVqT3ZaYkY0NW8wQU5FZ2VlNFZsLUliQ0hld1lWeXBDcVlBZnVRSW9PcFJZSDduYTN0aFpmaG1Fblhsd0ZGa1FjZw?oc=5",
@@ -7063,24 +7077,6 @@
    "reasons": [
     "funding in headline",
     "$6.2 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "cfa4631090ec",
-   "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGpSZWZaSkllc1QzU0tBb1VBd05rNlZhMnFOMU9pT1NBT1kxT080R0h1clJlRE9OREZGUVk3UkdfZ0VkZjU3LWpaU29yWmRzWmU2bERmY0xsQktybGljbHJQTEkxUUphaDNqb19waDk2N2NDUy1uZmczY2lCTHF1NWk4SG00elY2dVFVYjlYcU5LdGNHRWlXdEhxX0Y?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-19T19:51:48+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Even Healthcare",
-   "amount": "$50 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$50 Mn"
    ],
    "alerted": true
   }

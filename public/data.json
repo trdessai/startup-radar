@@ -1,12 +1,82 @@
 {
- "generated_at": "2026-10-27T18:54:00.816108+00:00",
+ "generated_at": "2026-10-27T22:42:31.960000+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 18,
-  "alerted": 7
+  "fetched": 10,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "8c1a9e035745",
+   "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-10-27T20:17:29+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "American",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "526d4552fdc2",
+   "title": "Finvolve backs India's Tensrai in pre-seed round for machine-retrofitting robotics",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmRaaEpmTHlyLTI3Yms1ZnFEcHA4bkphYjRYSFFmYndXQkVRZjR3NW53cXVYN205el9WcnNGOFVkcnZzV2tzT1hRQV9zN2ZHeXRkUXdLbzVubTNmZnNqS0IxZFVpSXJreU0xdTZGZWpmNDFyMlZwTDlkeWI0WjFyOVBOOFZFdWZXSEQzX3JPbkdVYnFkR05MdzFMRzN1aDY0djBsVmk4YjRVOHF3c1BCbGFJQi0zZFk?oc=5",
+   "source": "Dealroom",
+   "published": "2026-10-27T20:07:21+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "Finvolve",
+   "amount": "",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Pre-Seed"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "021ffbc7a37d",
+   "title": "Philips Launches 1000W Mixer Grinders in India, Prices Start at \u20b98,495",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGJ0amZ1dTVyQ016al9ZUlFJSExjbUtsYWc4RjJPMmdwWjJEdGo1NjB0YVhfdGoySXhsdVcxY3VUeVJ6UHh3M3dBSEtDOC05RVJqcGJiZTQ5ZVAzdXZtZVlLSFpjdlFXUzhOWnJneDh4R2tvdllFbWxUN3BfSGNxT2pJaVQ1UFhiVXVtLVZGYlVZZ0JsNzFodnE0UVlJdUlyaXk3Zk1aampraklQbC1B?oc=5",
+   "source": "India Business Trade",
+   "published": "2026-10-27T19:06:09+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Philips",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f3e82fd72f50",
+   "title": "The HRX Case Study: How Hrithik Roshan leveraged sweat equity, Myntra\u2019s supply chain to conquer Indian activewear market",
+   "url": "https://www.livemint.com/companies/people/the-hrx-case-study-how-hrithik-roshan-leveraged-sweat-equity-myntra-s-supply-chain-to-conquer-indian-activewear-market-11793126236667.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-27T18:56:30+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "The HRX Case Study: How",
+   "amount": "\u20b91,500 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,500 crore"
+   ],
+   "alerted": false
+  },
   {
    "id": "ce90297012c7",
    "title": "Who are Roman Saini and Gaurav Munjal: From founding online coaching to becoming venture capitalists with \u20b9700 cr fund",
@@ -4905,24 +4975,6 @@
    "alerted": false
   },
   {
-   "id": "1954514f2c6f",
-   "title": "Bengaluru-based DriveU delivers on-demand drivers in 30 mins; clocks Rs 131 Cr revenue and Rs 3.6 Cr profit in FY26",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkZsOTVMYlVJcGYtVU12UzlfdnRoM3UydHdLMEo5RmJ0VE5zdFVqWF9TUnVRXzZDc2RRMTExVXhLaEFmQUNmVXROZ3RxeHhTRlhzVF9sM3RHUGQtYnQ0S3ZJTjF2dUp1UURXQzRYRGJuZ2dWdmZCdUl4aWZYU0tFUzMyXzlqclVIS09hajJlMlNlMl9nS3pwRFlESG9UVExYQXNCNU1EYmVvNGZyUHJmU2paTVNKNlNGdmxTMm1Fb0tQdlZp?oc=5",
-   "source": "Startup Pedia",
-   "published": "2026-10-24T05:31:37+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "DriveU",
-   "amount": "Rs131 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs131 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "6d693a157405",
    "title": "Failed JEE advanced, built a startup: IIT Madras student Kuldeep Rathore raises $1.1 million",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeXpVWmpUS3FTRWxOMXFNOFFwX1l6dHV4LVBlUmpqd0Z0Z1FUMWdTVl93WHpGWm1aYjZ5TXNQbjJKcDJObktQdWJQLXNWaEhFMmh1ajVKR0d2akZlelVhYnhwZUxBQnV2ZmNxMXU0WHp2RDVMWV9ZVTZOTFk5OGN1OWJxT2VUMmg2UEFlSkJ1N2QzWE40a3hpZ01GNVNZakVON28xSEtETTVYNjladUNVNDNKNTlOd2tpTU5kVnZOd1M1VTF0WkpyMzc2cWdLaV91NXhSREJjYWg5UlMyTUxjNmxVckNHWjUwU3M0?oc=5",
@@ -4939,41 +4991,6 @@
     "$1.1 million"
    ],
    "alerted": true
-  },
-  {
-   "id": "9edc86165b03",
-   "title": "Instacart in talks for sale: The Information",
-   "url": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
-   "source": "ET Tech",
-   "published": "2026-10-24T04:49:29+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Instacart",
-   "amount": "$12 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$12 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5479ac3ed93a",
-   "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
-   "source": "ET Tech",
-   "published": "2026-10-24T04:44:25+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "What",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0fa25665e670",
@@ -7086,24 +7103,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "96906e11a051",
-   "title": "Vectorial Raises $3M From Smilegate and SenseAI to Rebuild User Research With AI Audiences | HackerNoon",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1seXBrNEI2a0xKSjUxR1FPT2xnNjhUcnFnanE5UGlQelB3dmxQeFBJY0xOdllqcFFUcHE4?oc=5",
-   "source": "Howl.link",
-   "published": "2026-10-20T20:09:47+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Vectorial",
-   "amount": "$3 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$3 M"
    ],
    "alerted": true
   }

@@ -1,12 +1,216 @@
 {
- "generated_at": "2026-10-28T14:14:52.834413+00:00",
+ "generated_at": "2026-10-28T19:34:37.734360+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 86,
-  "fresh": 57,
-  "alerted": 13
+  "fetched": 19,
+  "fresh": 16,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "422291f4f351",
+   "title": "Anthropic tells California governor courts should be able to block risky AI models",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-california-governor-courts-should-be-able-to-block-risky-ai-models/articleshow/135278359.cms",
+   "source": "ET Tech",
+   "published": "2026-10-28T19:00:57+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a4aee7dd704c",
+   "title": "PhysicsWallah-Startup India Partnership to Support 25,000",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0xJQTdZaldDdm5tRU5vbWJQU3dGS3VRRzVHUEp5NFFESW9pRjNGaVd2V0NfQ0VCREZQb2pSRDRvTmswZWUyeklOUFdQSkdURnZiV0xZTWlHRTFIR2lzTVdvWEV5dkNWOWhJbGdVbHNvOXpYZ3dIZWpNbGY0aUlxdHh3T1JTeVF0RlJJWjdR?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-28T18:35:13+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "PhysicsWallah-Startup India Partnership",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fcc91f80fe6f",
+   "title": "Adani eyes \u20ac3 billion acquisition of Dutch energy storage firm VTTI as supply disruptions boost demand",
+   "url": "https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T18:09:39+00:00",
+   "score": 64,
+   "category": "acquisition",
+   "company": "Adani",
+   "amount": "3 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "acquisition in headline",
+    "3 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "945d87d928f3",
+   "title": "Innodata Lays Off Nearly 550 Employees In India: Report",
+   "url": "https://inc42.com/buzz/innodata-lays-off-nearly-550-employees-in-india-report/",
+   "source": "Inc42",
+   "published": "2026-10-28T18:09:35+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Innodata Lays Off Nearly",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b846d831747c",
+   "title": "Chennai Metro Phase II: How Hitachi Rail's \u20b91,620 crore contract will power driverless trains",
+   "url": "https://www.livemint.com/companies/chennai-metro-phase-ii-how-hitachi-rails-1-620-crore-contract-will-power-driverless-trains-11793206947646.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T17:44:33+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Chennai Metro Phase II: How",
+   "amount": "\u20b91,620 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,620 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "40d30e30be47",
+   "title": "Pee Safe enters nutraceuticals with Within, targets \u20b9100 crore revenue in 3 years - Biz roadmap | Exclusive Interview",
+   "url": "https://www.livemint.com/companies/pee-safe-enters-nutraceuticals-with-within-targets-100-crore-revenue-in-3-years-biz-roadmap-exclusive-interview-11793203423571.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T17:08:46+00:00",
+   "score": 29,
+   "category": "launch",
+   "company": "Pee Safe",
+   "amount": "\u20b9100 crore",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Rithish Kumar",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch",
+    "\u20b9100 crore",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9bc4aca492a5",
+   "title": "Adani Airport, foreign airlines deadlocked over Mumbai airport shift",
+   "url": "https://www.livemint.com/companies/news/adani-airport-foreign-airlines-deadlocked-over-mumbai-airport-shift-11793202480765.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T17:08:30+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Adani Airport",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "43d7acc57ae2",
+   "title": "India Tops $4.39 Billion Emerging-Market AgTech Funding",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0lxcDNxYVpFZy1hWk9PTXNyMlUzWndjTGRtX2U1RHE5dGdjMnlKTXVocnZFTDJFdTZzSVI1Tkt5QUZIWElmZm5iYmduMlhfMm9LdkNRMG5iaEhmempTZHpYSWsyU3RpYUZlQzZQWTUtVWxTQ2NwRWR3ZEtIS1ktOUR4TmlvMk9oMzVhQkhxTHA5NW1XS19aUVJ1Q09XbWRxSmZWT0RwVGU4bTNjSXc?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-28T17:01:47+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "India Tops",
+   "amount": "$4.39 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$4.39 Billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6ae4878ff8e7",
+   "title": "\u2018Keep learning, keep adapting\u2019: Priyank Kharge tells IT professionals to stay ahead of AI",
+   "url": "https://yourstory.com/2026/10/priyank-kharge-it-professionals-ai-skilling-nipuna-karnataka",
+   "source": "YourStory",
+   "published": "2026-10-28T16:37:26+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Keep",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "815ee5541195",
+   "title": "German startup NVision shows new path to quantum computing chips in Nature paper",
+   "url": "https://economictimes.indiatimes.com/tech/technology/german-startup-nvision-shows-new-path-to-quantum-computing-chips-in-nature-paper/articleshow/135273277.cms",
+   "source": "ET Tech",
+   "published": "2026-10-28T16:36:32+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "German",
+   "amount": "$155 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "$155 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "208d68135037",
+   "title": "Who is Rajesh Ambati? Meet the Indian-origin Apple engineer promoted to VP of engineering: His role and career journey",
+   "url": "https://www.livemint.com/companies/people/who-is-rajesh-ambati-meet-the-indian-origin-apple-engineer-promoted-to-vp-of-engineering-his-role-and-career-journey-11793201596833.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T15:45:43+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Who",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "John Ternus",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "3fb6d1b597ec",
    "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
@@ -5022,23 +5226,6 @@
    "alerted": true
   },
   {
-   "id": "aa54b12f36fe",
-   "title": "Talent, compute and R&amp;D key to India's AI ambitions: Report",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
-   "source": "ET Tech",
-   "published": "2026-10-26T03:23:49+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Talent",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a35c1253a307",
    "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
@@ -5055,40 +5242,6 @@
     "$40 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "a84a837b8afb",
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall/articleshow/135201024.cms",
-   "source": "ET Tech",
-   "published": "2026-10-26T02:31:26+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Anthropic's Claude",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "8a4b6a514f10",
-   "title": "India Chip Design Startups: 6-12 Month Gap [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRfTGVIQ2lHMjVJU19ZZmFLQUx2MG5icmpvWVQ5S3hwMWZBT3Z0TG55dTI1c3VSSk0yVG9yamkzcWJiUWU5Qi1FUWZxcWMtNjF2Ymh0OGpaOHVYMDB3cnVRQzV5UDVwVUdiV3hQM2FkaXhOWXAybF9Ra3dDVDhWVXlqYVU?oc=5",
-   "source": "shattered.io",
-   "published": "2026-10-26T02:30:17+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India Chip Design Startups:",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "bb72eae9e989",
@@ -5108,61 +5261,6 @@
    "alerted": true
   },
   {
-   "id": "52016c8475dc",
-   "title": "IIFL Capital hires four Barclays bankers to expand wealth business",
-   "url": "https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-26T00:30:56+00:00",
-   "score": 26,
-   "category": "expansion",
-   "company": "IIFL Capital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion in headline",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d1dd60bfb724",
-   "title": "JSW MG taps into Chinese parent Saic for 70% of its purchases",
-   "url": "https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-26T00:30:47+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "JSW MG",
-   "amount": "$840 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "$840 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "77c6b318cbb5",
-   "title": "Growth Vs Profitability: Swiggy\u2019s Tug-Of-War",
-   "url": "https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/",
-   "source": "Inc42",
-   "published": "2026-10-26T00:30:39+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Growth Vs Profitability: Swiggy\u2019s Tug-Of-War",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "958a6b8e0c6c",
    "title": "Wow! Momo plans \u20b9300 crore fundraise, eyes overseas expansion ahead of proposed IPO",
    "url": "https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html",
@@ -5179,23 +5277,6 @@
     "\u20b91,050 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "f6a18e5ee190",
-   "title": "Introducing Lab Rats: A Mint series on India\u2019s biotech startups",
-   "url": "https://www.livemint.com/companies/start-ups/mint-lab-rats-biotech-startups-in-india-11791818972814.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-26T00:30:33+00:00",
-   "score": 52,
-   "category": "funding",
-   "company": "Introducing Lab Rats: A Mint",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
-   ],
-   "alerted": false
   },
   {
    "id": "26c5f81a68e3",
@@ -7063,79 +7144,6 @@
    ],
    "reasons": [
     "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5a2e525751c3",
-   "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
-   "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
-   "source": "Inc42",
-   "published": "2026-10-21T16:00:27+00:00",
-   "score": 80,
-   "category": "funding",
-   "company": "Peak XV-Backed AI Startup Blacksmith",
-   "amount": "$66 Mn",
-   "stage": "Series C",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "$66 Mn",
-    "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "948a7069b45d",
-   "title": "L&amp;T wins large orders worth \u20b92,500-5,000 crore for Delhi Secretariat buildings, Andhra Pradesh office towers",
-   "url": "https://www.livemint.com/companies/lt-wins-large-orders-worth-2-500-5-000-crore-for-delhi-secretariat-buildings-andhra-pradesh-office-towers-11792594798595.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-21T15:37:14+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "L&amp;T",
-   "amount": "5,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "5,000 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "dadf2fb08fae",
-   "title": "Who is Dhruv Toshniwal? The Pant Project raises \u20b9109 cr as menswear brand plans major retail expansion",
-   "url": "https://www.livemint.com/companies/news/who-is-dhruv-toshniwal-the-pant-project-raises-rs-109-cr-as-menswear-brand-plans-major-retail-expansion-11792595502830.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-21T15:34:30+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Who",
-   "amount": "\u20b9109 cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9109 cr",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "992356b92faf",
-   "title": "Indian Army Commanders\u2019 Conference begins in New Delhi with Land Warfare Doctrine launch",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTBPdlpNSllCYkxuc2QyVFVjVE9NbzYySTI4dmJWZzdTQVhweXdUSlk5NmlTaUxUdE05Tk1FbV9XOHFMaHVMeXAxbERoZFB6X1RUZmV0c2RaX3VBNXJkanlhbmZEUWctSzJIemZ4dFI1VW9nTURGei01ZU5ER3NtTEFOdC1IbnI0X3hnbW9HaHlDX0NXUHEzaHJCRHRnZWt1OFNMM2hjNkhuNmtFV1FOSExpVHhpYzlCaGNQdg?oc=5",
-   "source": "The News Mill",
-   "published": "2026-10-21T14:42:29+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Army Commanders Conference",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

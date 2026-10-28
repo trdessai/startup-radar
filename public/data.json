@@ -1,12 +1,83 @@
 {
- "generated_at": "2026-10-27T22:42:31.960000+00:00",
+ "generated_at": "2026-10-28T01:44:06.218454+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 10,
-  "fresh": 5,
-  "alerted": 2
+  "fetched": 9,
+  "fresh": 6,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "fde1a5255aba",
+   "title": "Snabbit's Aayush Agarwal on the $100B Home Services Opportunity | The Brand Equity Show",
+   "url": "https://economictimes.indiatimes.com/tech/startups/snabbits-aayush-agarwal-on-the-100b-home-services-opportunity-the-brand-equity-show/videoshow/135248580.cms",
+   "source": "ET Tech",
+   "published": "2026-10-28T00:45:35+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Snabbit's Aayush Agarwal",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "680c5053b639",
+   "title": "Lab Rats series: A Pune biotech startup\u2019s new approach to vitiligo cure",
+   "url": "https://www.livemint.com/companies/start-ups/lab-rats-series-a-pune-biotech-startup-s-new-approach-to-vitiligo-cure-11791867187983.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T00:31:17+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Lab Rats",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4c44a9637ffc",
+   "title": "TVS family feud: Venu Srinivasan, son and wife along with daughter file caveats",
+   "url": "https://www.livemint.com/companies/people/tvs-family-feud-venu-srinivasan-son-and-wife-along-with-daughter-file-caveats-11793105246980.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-28T00:10:12+00:00",
+   "score": 8,
+   "category": "other",
+   "company": "TVS",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ad1ab93357ae",
+   "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+   "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+   "source": "Inc42",
+   "published": "2026-10-28T00:00:25+00:00",
+   "score": 88,
+   "category": "funding",
+   "company": "QwikBuild",
+   "amount": "\u20b922 Cr",
+   "stage": "Pre-Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b922 Cr",
+    "Pre-Seed"
+   ],
+   "alerted": true
+  },
   {
    "id": "8c1a9e035745",
    "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google",
@@ -4898,74 +4969,6 @@
    "score": 18,
    "category": "other",
    "company": "Andhra Pradesh Plans Two Space",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "91e27a159901",
-   "title": "Chapter2Drip Opens First Store in Dehradun, Expands Offline Retail Presence",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHpNWlVQc29nZEEzUFVOWnJ4eGU3d3dWREpIc1RoUGd1V0VRRmd0MFdJSHNGQTRHTW1pLURsRFJIaGlmQXN5MjRvUGxVXzdjV3hXaGgzQS1XazlLSDJ6bktIRG1FOWVJQ2JnRW9aWVZPaERURTR0OVhwbzJ3RUJreTdQWktHdXZyRDE1MEJ4clEwUmV5WE8tTC1rc09fQ2pzYXRCelBRMldQS2c?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-10-24T06:34:48+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Chapter2Drip",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4d53bd4c483b",
-   "title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-cuban-says-ai-hack-agents-are-like-cockroaches-but-can-be-controlled/articleshow/135163806.cms",
-   "source": "ET Tech",
-   "published": "2026-10-24T06:10:51+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Mark Cuban",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "01148c912416",
-   "title": "Deepinder Goyal\u2019s Temple opens waitlist; applicants see a price of Rs 85,000",
-   "url": "https://economictimes.indiatimes.com/tech/startups/deepinder-goyals-temple-opens-waitlist-applicants-see-a-price-of-rs-85000/articleshow/135163255.cms",
-   "source": "ET Tech",
-   "published": "2026-10-24T05:55:22+00:00",
-   "score": 42,
-   "category": "expansion",
-   "company": "Deepinder Goyal\u2019s Temple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "46b0858605d3",
-   "title": "How art festivals benefit when galleries across cities collaborate",
-   "url": "https://yourstory.com/2026/10/contemporary-now-art-festival-gallery-creativity-photography",
-   "source": "YourStory",
-   "published": "2026-10-24T05:49:19+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "How",
    "amount": "",
    "stage": "",
    "founders": [],

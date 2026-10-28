@@ -1,12 +1,29 @@
 {
- "generated_at": "2026-10-28T19:34:37.734360+00:00",
+ "generated_at": "2026-10-28T23:28:28.376554+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 16,
-  "alerted": 3
+  "fetched": 4,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "d8cfc1e871f8",
+   "title": "Gold Coast Films to Debut Bharat Runway Tour (BhaRT) in Paris This February 2027",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzczT2ZqZzJ1LW1LaVZVZVN6cnpwLVlfb3RpSTZxWU4ya1pkM0MtUjBWeTBXWG5KU0VkMUdTOWkyZVJ1TDVjaTRrVzN5QkdObzItaEpFTVREVHZFMHFKalQwT2xjU3N6bERaOWVBNFJZaVJxUjRjYjZxZXJfTzdpeWhMQU84T2NRV1N0Yld0RDZvYUpXbU1EUlhIODJ5VWNTemJRSWdiUnd3V3FuVHhXNVRYa0E3Z1RSd1BDag?oc=5",
+   "source": "India's News.Net",
+   "published": "2026-10-28T21:29:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Gold Coast Films",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "422291f4f351",
    "title": "Anthropic tells California governor courts should be able to block risky AI models",
@@ -7122,28 +7139,6 @@
     "funding in headline",
     "Rs100 Cr",
     "Series C"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c83d6a355a5d",
-   "title": "Nutanix Founder Ajeet Singh Floats New AI Martech Startup Different",
-   "url": "https://inc42.com/buzz/nutanix-founder-ajeet-singh-floats-new-ai-martech-startup-different/",
-   "source": "Inc42",
-   "published": "2026-10-21T21:15:56+00:00",
-   "score": 66,
-   "category": "launch",
-   "company": "Nutanix Founder Ajeet Singh Floats",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Ajeet Singh Floats",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch"
    ],
    "alerted": true
   }

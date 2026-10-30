@@ -1,12 +1,117 @@
 {
- "generated_at": "2026-10-30T17:14:05.211869+00:00",
+ "generated_at": "2026-10-30T21:30:24.932498+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 32,
-  "fresh": 29,
-  "alerted": 6
+  "fetched": 15,
+  "fresh": 10,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "5f441ded8a1f",
+   "title": "Two Indian American 18-year-olds skipped India\u2019s engineering race and raise $1.3M in Silicon Valley",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTW1ROVZtZmdRMklVSjI1dVpWUi16UkhpRU9HMW4wdHpNYU9ZVUp4aTFpWm40Zk13eXRCbTZhSEtxOEFOdzRkNDh4SkFYaTlUdTdCa2k4Ry1PbnVtUzhLdEVxVXA1T2thbkpBVGZsV0o5TUxTLUFvaGFpUmZ0QjhtUVNsTmFxSjA4ejNMMnVzb1FlcklNZGpDOTVkdFN6Y25MZF83ZDFFbjh3dEQ0VGNhTEFBZHpCOXNBWUhjNTBqdG5GbF9CM1N1X0s0cTNXdzdEN1M3bmhRMGFnR3I1NVViVTh1OA?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-10-30T21:22:13+00:00",
+   "score": 33,
+   "category": "other",
+   "company": "Two Indian American",
+   "amount": "$1.3 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.3 M"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a56e749c6c55",
+   "title": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models",
+   "url": "https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models/",
+   "source": "Inc42",
+   "published": "2026-10-30T19:22:05+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "MeitY Floats New Privacy-Led Framework",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f9aad60b9ceb",
+   "title": "Kolkata Police launches probe after man in Denmark gets three traffic challans in three months",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnhrZnprS3NJY2JZUG5uMlRTLWVnS2U4MXotMlNVMk1CZGh1Rjd0bllaQ3owVm9iS2VtWDZCSTdSN3F3SFotb2xCaHI0NS1pVEM1Wjc1QnNKbWJkcWFkN1ZJZGIwVDBSTXNwR1h2Sk55OWl5NUt4MkRodHlyRElRQUtJTzYyRWlxTFRBSXl5Z3FfUjBON3lmUlVRdk85N2xBT25Bb1hRdlQ4aVBaWUpNVVNmVEJmN0FIdUZ0NkljSHVncHRsT2xLUFhjMGtULXhqSjhLVDd6UjE4Tkl4WmZUYjV3NUdnS1JVSTduQ2NWTm5lRjhlR2ctaDFhN1lZQdIBgwJBVV95cUxQWEstaE1qTWpCWE5HVlJFekFIOEV2WEtBSENZVHMzQjJQXzI4MUpMSW1oenBLR05UUEl1UzRCWnNhc1hSZmZTam41c19ZdjBVZ0VCenJQODlhSVJ0eVZqaHAzRHNkZjk3clAteGdwekNRNHZTWnZ1TXJlYVRoS0pzdEp0UFdtdnlTNEZaZGZuRmllRmFjTU9xcjR5MDNBeHVSMWhROF9JMDVsNmRZcUU0dGJYdFBwMlVJZkwzWDFIU1BRRjhRc0hqbFJnb3V6NVA3Q3ZOX3RnZUw3TUdPaWtEQVhleV9qQVNoUHA0NkR2M0lVbVBkS1NKYVE4RjVnT0UtZVJJ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-30T18:58:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Kolkata Police",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "912bd17d965a",
+   "title": "GU appoints in-charges for 60 buildings, launches complaint app",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMVhoRXY2Y1dEZ2tMYjJEblg4aHc3R0UzNGZXdG5naW1IMXUxX1ZrRWlOMWJwMnFtVE1tTGxPMUN3YlFiWTQ1NkwtMnVzQlhJdWZ0QmpNR1ZTaThUN3Q5bmtKS0NWVHhYMG5EVzRCZG9udk1TR2VBczVncDZRbnFGV0JrMFJ5eF9VVnJMdE9kRlp1dHBxRXBrT3ZidTgwejJHQXJ2RjNsMTdtWWNiOWpOeEZDZWhVcWwzNG5hNDNQRk5CWDVnUUZZRUp5WGl6M0cxU19va1dn?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-30T18:42:00+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "GU",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0023a778eae7",
+   "title": "Nandini milk price hike: Why Karnataka raised rates by \u20b98 per litre from November 1, how rates compare with other states",
+   "url": "https://www.livemint.com/companies/news/nandini-milk-price-hike-why-karnataka-raised-rates-by-8-per-litre-from-november-1-how-rates-compare-with-other-states-11793381297416.html",
+   "source": "Livemint Companies",
+   "published": "2026-10-30T18:12:52+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Nandini",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "89aba2bbf61a",
+   "title": "ETtech Deals Digest: Even Healthcare, Different lead October funding to $694 million, down 51% on-year",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdTFRZ1pyVTJ1YVFfSjVpVEhvb0U4Nmg2YkJodW9iZTlWNU9pUTlfS2tYUzZ3ZElVUk1OUGRfTXJFcDdXb01KSDFqOXJTd0xNa0xMYl96X1Zsb1o1MEozRVp6WGNBd3RLdVkzbnBCRXp5XzdrWFFQZ3loT1FTckdqT1pjUzgwS3I5aEx5Yjcxd3lWNEpYblByX1NVRlYtZEticXZxdlRxM19yNnExVlBWbGdMSzdVOGItZElrQTJaXy14MmNXbzJqUmY4RDE2U3E3UENtMUNtLTRUa2FETEZXN2RjaF9wOUw0QXRSOC1KaHl1UUQ0RGdfZtIB_gFBVV95cUxOY3otZ2M1WHNQRlpsSW1WMzlsQlJVRWtGdC0wSW8zYVA0Njc5ajk3NHprMi1ONGR4UU1mODMtTHFUbkNkdVFZYzRsbm05UmFmQ25yQmNjZEIxd3pfS2owOVZ5ZnNYNk9TRkdfYkY2OVVGUVhHNTVRbmVkQmhvRGF2UFR5SXd1Rk12c29yVDBDREhFUmxlbHFoVmluSFNaTUg2UmdsTlJteHdFNEdHbEpTVlNST3BGemZTSFlZY1hsY0VrQ1hoV215SF9kWC1fWnFobkRsSE5RTTk4MFNEdFJOaVdGc2VJajZ3SndMWlRWVWptNlh4X1ZkbHMwcC1sdw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-30T17:39:26+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "ETtech Deals Digest: Even Healthcare",
+   "amount": "$694 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$694 million"
+   ],
+   "alerted": true
+  },
   {
    "id": "590e919d871d",
    "title": "ReplyAll Raises \u20b99.7 Crore to Expand D2C Apparel Business",
@@ -5753,24 +5858,6 @@
    "alerted": true
   },
   {
-   "id": "b5c914be55ad",
-   "title": "5 lessons to learn from Sorrow and Bliss by Meg Mason",
-   "url": "https://yourstory.com/2026/10/lesson-sorrow-bliss",
-   "source": "YourStory",
-   "published": "2026-10-27T10:50:46+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "94138d2b736a",
    "title": "Rotoris bags Rs 70 Cr to expand its luxury watch business",
    "url": "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business",
@@ -5787,24 +5874,6 @@
     "Rs70 Cr"
    ],
    "alerted": true
-  },
-  {
-   "id": "439e90ced09d",
-   "title": "SoftBank Sells 1.2% Stake In Ola Electric, Offloads 1.12 Cr Rights Entitlements",
-   "url": "https://inc42.com/buzz/softbank-sells-1-2-stake-in-ola-electric-offloads-1-12-cr-rights-entitlements/",
-   "source": "Inc42",
-   "published": "2026-10-27T10:45:49+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "SoftBank Sells",
-   "amount": "1.12 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "1.12 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "80354fb81e13",
@@ -7079,76 +7148,6 @@
    "reasons": [
     "funding in headline",
     "$106 m"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1014d444013c",
-   "title": "Campus Binge Launches AI Career Platform, Divests Housing Unit",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdjV6cmlTNU9yYTdBN1BEUEViQnktZGNnZjVWbF9FSjNneWRHWFV3UFJ6Um14Y2VqVzBHSU1CTTQ3U2EtbUU3UjFKOUUzVnhtQlRYZENqOUd6MDlfX2RYaGF3UVNDdVNSRlY3X0tURGJ0Nm5EaUFoME1tVVRMRnJFUzVHeGg0enhYbXJYcWo2WG9sWTlBVUJLRC1QRjFlSEZXU25HUjBodWQyZ3hRbUg5a3pSM2NxZVJVNU91MDk2ZjdCTW5SeDFLaFo5NndUZ2NOZDFSRHAyN3VlMWYxZ0loRmJYVVFLbTFB?oc=5",
-   "source": "RS Web Solutions",
-   "published": "2026-10-23T21:00:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Campus Binge",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d7eb95358cc4",
-   "title": "ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year",
-   "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-even-different-lead-as-weekly-funding-hits-246-million-down-27-on-year/articleshow/135152641.cms",
-   "source": "ET Tech",
-   "published": "2026-10-23T17:55:26+00:00",
-   "score": 80,
-   "category": "funding",
-   "company": "ETtech Deals Digest: Even Different",
-   "amount": "$246 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$246 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4e9e6b5f6e03",
-   "title": "IIM Udaipur Launches India's First One-Year Full-Time MBA in Investment and Wealth Management",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbFZEcURDcDZDeEFnQnF1aE9Ld1VZQi1kX2VTN0ZFbFlqMkdneC11QVV5WG96M09rbVQxY21OUmEtS2VBdE1ZV2JrOENaSDNGZi1qMFFKVDJfYkpqMVA2OVRiYVBsX3pLcWVKN1pIUkdqRkVpWlI4OXVsWTFQbERjU2JjZzJGVG1jWTRUV0VzcmdsNFA1WmUwTjhyaVZkdU90dzR0bW1VeWoxOUtpbFB3akxMa1FmQnY5clBFZ2RyVXBOamUybTlTRGRCOHcwU3pYN0hwcVNSR1JwdGhFZmQ4TE9WSWxZRkZ1YkNjS2dvWFhPRnA0aUJwd1VjcDVkWWtFa2d1S9IBigJBVV95cUxOQ1lSY2NibGlpVXJtbFJfakRKaE5vaGVUZTFjMzJHdlhYckE0cUZ1WE0tX2U2bjJfcDhzOGVQZEtmdGpGNE00QS1JOVE2N0UwLWNiRGFDN0RXdGhjX2h3bmdLT2NzODAyMTJWYzd4eGdZSkd4Tl9NVUVRMUVFZkpLMzVjM1JiNDlta0UxSW1LN2NXbFltTHdiTC0zNU5mNE1ZVHYwRXRHc01mVHAxV0RWNWJJbkZYXzlnUkdtX08tQkx1bVNaU3lUODNaNnZZSTdiNHNYSnZFMjNhVmE4TE9valVfbC1yeGRYV0ZYdENFcVJSc09rUDZuNV9NSW1teThfeHNxemhMV0QzQQ?oc=5",
-   "source": "Business Standard",
-   "published": "2026-10-23T17:25:09+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "IIM Udaipur",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d6fba6ceea74",
-   "title": "From Apples to Kiwifruit: Strella Raises $4.25 Million to Expand Its Food Waste Technology",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT19mVGFUd0t0bzVPY01WbWlhbFJSbklRZW5KeWlVVGJkYURQVlFFcDRISE40TXdiOGpKVk1oU2NFRHoySG9GeG5yY3QtcklZNEJOWUp6VllCWThrd25xV3VWVUJlclkzeU5wTllsT1dvdEd3eHBEdE1RVHZqeC1EcG5EWmp6bU9rMm12SDZrRk1LSEVMY2NnWFp1dUJQb0xzMU5YaUJjMExweDctZnVGZ0xjUjRrbm9wOHZOaQ?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-10-23T17:20:31+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "From Apples",
-   "amount": "$4.25 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4.25 Million"
    ],
    "alerted": true
   }

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-29T20:37:38.882202+00:00",
+ "generated_at": "2026-10-30T00:16:39.883837+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 25,
-  "fresh": 18,
-  "alerted": 7
+  "fetched": 0,
+  "fresh": 0,
+  "alerted": 0
  },
  "items": [
   {
@@ -7110,43 +7110,6 @@
    "reasons": [
     "funding in headline",
     "\u20b9100 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3c886f91cf9c",
-   "title": "Colossal raises $200 million to genetically engineer military dogs",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmc5dlc4T3FRbTlFeG5BWUZtaDZXb0M5aXA0LU5aSGppNnVNeUR0aWpYbDNTWlVYOVBEdDNXOUhzS2JxVzM1VDlXTU9vZjdCNExhUHBicjJqWjBhdTQtS2JnSHFJbEMzcjZIZHhLMXVpVlk5NlhPc1U3SVBDdXRlXzdYM3FvOTRtaDBHSC1EUV9oa1Zxb0IwemlYbnVoN1NJNC04MFJtb0dJVmRpTG52TkMtNDhISlk?oc=5",
-   "source": "Dallas News",
-   "published": "2026-10-23T00:11:14+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Colossal",
-   "amount": "$200 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$200 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8122963d5ebb",
-   "title": "HeyVoli Kicks Off $500K Pre-Seed to Launch AI-Powered Healthcare Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOG1PbGlXVzZhQkhFcmxsYVQ2YVZvTjZUUjF2SmdvRjBQcDZpQkNZVGtTaW1CNlIxYzdjeWV6Z2pHNXl2blNtbVhNN1l3SU40emJlLUdiN0pHTUZ4QVlnNWVRNDRwaTg1Q0NqT1I3a1Vuc3JaT3Q4ZVdZcWNRbzV0ZXRRM1Q2ZFg0VnZ1dTdLMFFJYjZrN1dPdm9xM3FxMnhHalMzLUptcnhKUW10WUt3VGFjN05RcWNB?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-10-22T20:51:51+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "HeyVoli Kicks Off $500K Pre-Seed",
-   "amount": "$500 K",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$500 K",
-    "Pre-Seed"
    ],
    "alerted": true
   }

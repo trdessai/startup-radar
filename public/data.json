@@ -1,12 +1,290 @@
 {
- "generated_at": "2026-10-31T00:59:32.095234+00:00",
+ "generated_at": "2026-10-31T06:40:07.978539+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 4,
-  "alerted": 0
+  "fetched": 27,
+  "fresh": 18,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "37262ac84e50",
+   "title": "Weekly Defence Dispatch: Drones top India\u2019s Rs 2.12 lakh crore shopping list, Navy goes big on destroyers, ...",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUk1rRFBLc0NZZnBrb0UxdXpPSkNRSWZ0N01jVVhvLUlCX2ljazFhMVZGSHozakdyNWpWNUF2UEtjS3VYNVFqS1EzX0hYUGpBbHlvWWM5VXVFVVVFVG0yQlZQWEQwellDVDN5RGd4WGhFd09CMjJoTjF6UjYzdWJDMVpBamVPMFdmUHBYQkoyc1NOa08wc3N1V2wtdjBzUUhLdVZLcFZBMGhaZEN3YUE5Z09XZ2ZYYzBMVENhcUdzMFg5OG0zaS05WHhxaU93ajUtb0Fob1RJOWZGNEZXdS02MTdtYjUxYkRRTl9TUlRNZWVlY0NaMTVkR2lYSU1WVXRnZnI3QlRzQVhmd9IBjwJBVV95cUxPbzJNSkdjdlRRRHNfMnM4MFEyU3ZzX2ZMR0NLNlhoeFpLa21WREhIcFlwWUZQdE9taEJpR1FHU1o0VmFpb3JHX0pic0R0aFo3OUkxR0d2WnRMTXFfc2xxRVpYTnhGN1BJck5YVUh3ZU9Odncwc3FRbFJKci11VVY0OU1WOFBMNEd6SWNpUW5SRHc2cHJSZEJVeFVveG5tVHJUNDVtZlFldVpEanE4b09VSVlUVG5XYU9YQ0xSREctVFVOcXZKVGtZUlJnTGZWNWItbEpPekUxMExXZm1Sd0tZck11V2RWdzZHU2lXVG5TdkdxRW4wb2V0QnhoVnZhT3RHblREdURHVWMzSnRoclRr?oc=5",
+   "source": "Firstpost",
+   "published": "2026-10-31T06:27:23+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Weekly Defence Dispatch: Drones",
+   "amount": "Rs2.12 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs2.12 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "93734acab148",
+   "title": "Yulu reports Rs 281 Cr revenue and Rs 97 Cr loss in FY26",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU5fc2h0ZXFqcnFXUHByaDhRQlI3Vm8wb3VzeG5Bay1kQ0RDdmlrU29FeWhQcUtjX3FNTTNOaDFqVVFSc1JYZ2VWM3VmVnhwYl94TzRLNC1IVmZveDhnWGxPZS1zU0VsMDhZVzFLX2IxZkZxVllWU0tScjVhM1dFdTBhbnFQZmhoUW9xbHdTaHlrU1Z2WldDVmlVYkfSAZwBQVVfeXFMT2FOX3NodGVxanJxV1Bwcmg4UUJSN1ZvMG91c3huQWstZENEQ3Zpa1NvRXloUHFLY19xTU0zTmgxalVRUnNSWGdlVjN1ZlZ4cGJfeE80SzQtSFZmb3g4Z1hsT2Utc1NFbDA4WVcxS19iMWZGcVZZVlNLUnI1YTNXRXUwYW5xUGZoaFFvcWx3U2h5a1NWdlpXQ1ZpVWJH?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-31T06:25:59+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Yulu",
+   "amount": "Rs281 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs281 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "02adf71e34e0",
+   "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
+   "url": "https://economictimes.indiatimes.com/tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/articleshow/135391045.cms",
+   "source": "ET Tech",
+   "published": "2026-10-31T06:18:03+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "North Korean",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05c952b5cb3a",
+   "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+   "source": "ET Tech",
+   "published": "2026-10-31T06:13:40+00:00",
+   "score": 62,
+   "category": "launch",
+   "company": "Mistral AI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c277e66c076d",
+   "title": "AU SFB Probes Potential Data Leak, Vijay Sales\u2019 Admin Access Allegedly Listed For $25K",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZmWVYtUG9POGpoWjBNbmVPXzVyWkFRZXRwc2VPYkVIM2ZwOXozSmxVdnUzbTZ6aUN1RXhJTUpFb1hNYU4xOUpiRkxCS1o0c3dyNmJ5SnhmTGhveUloWFNsZE0tZWZXTUMyT2Zzc1l2S19rN1ZBdU1lNEtkNFhjcnVkZXA2V1lZYmxmSG9mRnQ0c1pucWlzSU14RGhSeTdIcFFTbE0ySlR0ZGc?oc=5",
+   "source": "Inc42",
+   "published": "2026-10-31T06:05:23+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "AU SFB Probes Potential Data",
+   "amount": "$25 K",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$25 K"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ee2dd243c74b",
+   "title": "Bengaluru's meal subscription startup Wellfed sends protein meals for just Rs 269 to young, busy professionals",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHIxTjZwbW1MVEI1bFY0YWFSd0JnZHpnaC1WRUo2TkhCYVJ4cGhhTzVIRGdtMXhzdG5qbjRNSS1USVRncm5xSGV5NTRXNjBGVTF2V3hnVHhMX3ZIYndzWDNYcFF6TU04Y3B5MHA5a0djSjVpZWRCeEs3MkZXRHVjZXpQWEFtVWkxNjkzYlJTSWUydl85VjlMaWNXMWgzbGJ3bEFjR1JLYTUwblBrYjJnWHFSazhTQndldVlwQWNMdGxWNGxjaC1uRDF1WC1ja1BXS3RFbnYwcDhKRDM4c2pDTDZqN3dqWURnUThVbm5n?oc=5",
+   "source": "Startup Pedia",
+   "published": "2026-10-31T05:26:43+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Bengaluru's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "eb5b88710767",
+   "title": "- MediaNama",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGhpUV80VXdGQWYtNDRybzdkVjlnN1ltMlpoZnNtNUlBelQzcG1ERzNRcHFhNFdPQ0pzWWZPbEk0VkdyS0xrMXpqMkZVOUludGJBdWEyWGRaTlhkVF9ZSmZ2Ni1FZmdIckZtRmlfQ2haRjVpdmoxT2Q0YXRaXzYza2N4T0FsTmR6X0Vha3hDaw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-31T05:02:12+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3e6c2511b4b0",
+   "title": "Indian Railways Launch Door-To-Door Parcel Delivery Across 8 Cities: Delhi, Mumbai, Kolkata, Chennai, Ahmedabad, Hyderabad, Bengaluru and Pune",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT1ZiTW0tWXROVVdTeHF5TGlXczhJeGZadmlMQWhHLU4zWHk2YkVKcHZGbnNDT0dEcGl0RUZXR3NPbEg2VzFqUlNQYWtSZnRvMTR2eDlPblp4MHVvRDAtMHFqQlAwdlJ3YnJlanRvSmJSdllncGhwQllodm5BWjNBRXMxc0tYTThQQktMUkxqRHBTQ1QxZ3ZhdVpjOUVwSGlqZTlGdGowUXJ6UmczVEF3dzVqRXlYaVkxclBHQTBRblFLN1VwbUlBWF9WVlBwSFE5RG5TNHota0FmQlR6SkIzenhDVGRGQUp1aUhzTG5EZ2Vjdw?oc=5",
+   "source": "Trak.in",
+   "published": "2026-10-31T04:52:44+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Railways",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "72bd01f7a246",
+   "title": "Maasi Bets On Structured Childcare Model To Organise India\u2019s Informal Nanny Market",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlNEV3FiR3RlUGNiRGs0ZExpUzZ3SjV0dTRCQ1RUNUxFYUNTTk5XdFR0MFV5blhhR2xTRmk2TFR3dG92QWlyUDg0a1N0eHlnMHJaelZCSmoyQ0FadE0xVnZSWkNKNTZ5bHVHWWdXdFg3SkdWOG5HT21iVlk4Z3Q2a0NJQ28zb3Rmdmp3eTllajhHUFR0YmZFMEw0UXc2dVZtVGM0VEtVaGRnaGkxdlZsOHc5OHVodlNlZTJIMWlmT3E?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-10-31T04:51:24+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Maasi Bets On Structured Childcare",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "79dafb9b1a98",
+   "title": "Funding and acquisitions in Indian startups this week [Oct 26- Oct 31]",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUlBUk5tWGVOY29yblJTbjRPME1lYWNhQ2tFaDM4YTBKSlM5ZVd6eVpQbDk2MkpLVHk5YWFSYkZfN0M3bEFrRVBneC1oLXNhRTc0akpOU204UFV6Z0Ffb09EUlktLVE2OWdhclZrZnhzZG5vVzdUOTFCUzNNU1BUYVpjaGJoZXlTMUVGelBIaUdnOThBNnBnM1B2Sl9FQVZmSl9tMDVJb21hNjFRZWNJTnFwcHQ4bjI3U3ctSlNWcGszdDRBZnpQRlJ3TkkzVnp2QVJpX2huLVlIOVZNN0QzNnpB0gHiAUFVX3lxTE05SUFSTm1YZU5jb3JuUlNuNE8wTWVhY2FDa0VoMzhhMEpKUzllV3p5WlBsOTYySktUeTlhYVJiRl83QzdsQWtFUGd4LWgtc2FFNzRqSk5TbThQVXpnQV9vT0RSWS0tUTY5Z2FyVmtmeHNkbm9XN1Q5MUJTM01TUFRhWmNoYmhleVMxRUZ6UEhpR2c5OEE2cGczUHZKX0VBVmZKX20wNUlvbWE2MVFlY0lOcXBwdDhuMjdTdy1KU1ZwazN0NEFmelBGUndOSTNWenZBUmlfaG4tWUg5Vk03RDM2ekE?oc=5",
+   "source": "Entrackr",
+   "published": "2026-10-31T04:46:43+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b76ec6c5cd58",
+   "title": "AU Small Finance Bank probes \u2018potential data leak\u2019 as hackers claim breach on dark web",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVZpOHdiSG1fN21zdHpwVUhWNEtKakN4bEpiR0ZWUXNqQUxneGVzdjdQX1d6Q1ZYSEhsaFl3ejl2dUNYVmxSTHNjOHlBOGNWWU5EX1VXcFUycnhCZ3NaaWRldVE2enVYSU5jT3ducHpOUW5mcEdmeXdQTXlmWlpCRy16M0oxdw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-10-31T04:34:58+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "AU Small Finance Bank",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b424dca1a4ab",
+   "title": "From To Cent to Matiks \u2014 Indian Startups Raised Over $132 Mn This Week",
+   "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+   "source": "Inc42",
+   "published": "2026-10-31T03:30:12+00:00",
+   "score": 84,
+   "category": "funding",
+   "company": "From To Cent",
+   "amount": "$132 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$132 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "99273759d661",
+   "title": "Isro's GSLV successfully places NVS-03 satellite into 'designated' orbit",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNkbWFPYkRpYmlxLUNoWmhBc1dfV0NiR0tnNUdmY0JhakZUbF9DTlNWRTlWMkQtUlBpdnA2a3hsVlI5RFN3b25CdkEzWjRiam1BTHR6NkdfSFJoakNMWTRGTW5kMnJQSGp2dnFldlZjXzhqaE1sN0FFNFhXZzhRRUdpU3dEZEktMlJrZzdSY1IxOFpzeDFlWEJ6NHVuT3BwcGVwZWplckRvRFhZelp5NW9wN2Etd09QY3JFLXRqXy05NkdrRWxmcmx3aUVPczRo0gHWAUFVX3lxTFBxUHNUUnVETV80WXhyYUgyUVA0eHZ2ODl6eFpTUFVpOTRxQTdGM3RrX0duRTBHdHUyWmZVU043ZWdLeWRjdEJJMmdXcDNSVXFNVkIyMlJIRFpvOWRFcXItb2xUVVEtMTl4bFdSdjNUWXF5Vkg4QllUbWo2bjBjbHhKZ2FwUVdMbmtveWo5MWl4TTB3SFhuRmxjdXhDTEFEVzBlVWJzaXh4SDZZN1puSk5zbFRvSkJPdWlIYzBsQXB6eEZjTk1oM0Z2WDdFWTlwZE5PSHJUR0E?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-31T03:03:40+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Isro's GSLV",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bb3f472bc35a",
+   "title": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
+   "url": "https://economictimes.indiatimes.com/tech/technology/alliant-targets-1-gw-of-new-data-center-contracts-in-six-months-as-power-demand-surges/articleshow/135385487.cms",
+   "source": "ET Tech",
+   "published": "2026-10-31T02:55:15+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Alliant",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "71c8454e1ad1",
+   "title": "Isro successfully launches NVS-03 satellite to bolster NavIC constellation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/isro-successfully-launches-nvs-03-satellite-to-bolster-navic-constellation/articleshow/135385396.cms",
+   "source": "ET Tech",
+   "published": "2026-10-31T02:53:03+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Isro",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "64783e2fb7a2",
+   "title": "October ends with a thud for Intel, Reddit, AI stalwarts",
+   "url": "https://economictimes.indiatimes.com/tech/technology/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts/articleshow/135385131.cms",
+   "source": "ET Tech",
+   "published": "2026-10-31T02:42:25+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "October",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "553855efd00d",
    "title": "IIT and IIM graduates shun startups as AI jobs gain appeal amid rising startup activity in India",
@@ -5574,41 +5852,6 @@
    "alerted": true
   },
   {
-   "id": "d00364fbbf04",
-   "title": "Lessons in Chemistry: 5 Takeaways from Bonnie Garmus\u2019 Novel",
-   "url": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel",
-   "source": "YourStory",
-   "published": "2026-10-27T12:30:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Lessons",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ccd942b1a4c0",
-   "title": "Ofcom wants to regulate body-shaming and depression content. Can platforms even detect it?",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXF4NEFMa1FHSkxkZ3NFSWhfQmtqZTBNemswVlZIS1hZeV9rWE5veUxkS0s0Ykh2ZFVmYWZ6WE45dFFINkpQVHU4M2hiWkJraWIwc3k0MC0yUXMzU183WUtpc1VlTDRKT3VPWnZIT1psbTdhYjlDUGktcy1FUF9IeVlR?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-27T12:20:54+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Ofcom",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "1e36f776c382",
    "title": "Trivia and puzzle app dubdub raises seed funding led by 3one4 Capital, Antler and Stellaris",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEhUQjFEYlJfaGF1TTRQZjhGdk92M3c1SkxNM1UySlNYOVdna29MQUJwNktlb1BXeTJSeWVaX2NNbFlkSEUzT3lnZ0FmVllzc01rWUFjR0VSYTB4RkZqM1RwZ0hFRlpPYzZaY2M3Vk5EUWxYQWVaVGhIUnQ1amZxaDJSVkpreURlMmx1S2xqRlpEQU5QSmFzTlBhZjJOZnZFdmREeUpMQW1OMUZkZnVYc3VjcGtPNHNiUHhtLTBPV3RON2k3a21VVdIByAFBVV95cUxPbEhUQjFEYlJfaGF1TTRQZjhGdk92M3c1SkxNM1UySlNYOVdna29MQUJwNktlb1BXeTJSeWVaX2NNbFlkSEUzT3lnZ0FmVllzc01rWUFjR0VSYTB4RkZqM1RwZ0hFRlpPYzZaY2M3Vk5EUWxYQWVaVGhIUnQ1amZxaDJSVkpreURlMmx1S2xqRlpEQU5QSmFzTlBhZjJOZnZFdmREeUpMQW1OMUZkZnVYc3VjcGtPNHNiUHhtLTBPV3RON2k3a21VVQ?oc=5",
@@ -5646,75 +5889,6 @@
    "alerted": true
   },
   {
-   "id": "53932897c590",
-   "title": "NoCap seeks order behind Facebook page block in Kerala HC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1M5Ni02U2IxdnQ5aHJJNVJQUEd6V2pmM3BkOW1pZ2hINmExX2pFMVlwVEFwV09Hel9PWmdiS1ZWMVF1b3FqVTBydTZBVXpJU2NNaVAzdEMyQW00TzFHS2pvRWtoX2hRMXRHOVAzekhjb29zMC05Q0w3c2dsZkpCdHd3NA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-27T11:57:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "NoCap",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "344e7094ca1f",
-   "title": "Google Cloud\u2019s Gemini voice AI wants to do more than just talk",
-   "url": "https://yourstory.com/2026/10/google-cloud-gemini-voice-ai-techsparks-2026",
-   "source": "YourStory",
-   "published": "2026-10-27T11:56:17+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Google Cloud\u2019s Gemini",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "755dc13174fd",
-   "title": "India\u2019s ESTIC 2026 Conclave Opens Today in New Delhi, Bringing Science Leaders and Deep-Tech Startups Together",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlFiMXVINGZhNEVJaUxNSDFMYjdPNV9NSm1tRHFhblY1d3l0dXRuMlNzZnNaTUxJTjNucXIyYm5vaDFfRTdNRmUtZjM5TXN4c2hoam4tYnZYY0hld2dDMjgzZFdaQWJLaVpYXzVZSHBxZEJRcFVJX0tUVXJQVVJEdEU1YmxhY0x3Yk0zVDVrdkhFaFVjbWc?oc=5",
-   "source": "www.nationpathindia.com",
-   "published": "2026-10-27T11:48:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India\u2019s ESTIC",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7854980a4587",
-   "title": "Sparsh hospital chain eyes PE fundraise, hires banker",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT090d0d0VGJCekJfUkNaNUN1cGhNWUF3dDFJeDRZOUJidU56LVZoVlAtUXRKZmtwVVp5Y0o0NHo2VExKbmxhVDhKTVJYVmdyYzBrSWlyMFZOTmx2eGZxQk1jVzZ1XzA1cUZXNGlmYjBycEtxVEg3UW5OUUhfQ1hhek1R0gGKAUFVX3lxTE1XTHR4ZFVSdzF6b1kxNHlud19uTFREa2ZPUVZZcHkxaU5kcWhRTXhhQmlZbDhJU2tDcWQzYmlTRTlyb0pQcEtMWnlueUp6Z0pXOTNoSlZDbXJHZDRrWUM5N1ZjZmxiX21INmotNTdSTzl4dENndGNCVUJfZjc4MG5PcXNNTTBFblVXQQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-27T11:48:48+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Sparsh",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b5b242a68e3f",
    "title": "Jio, Airtel add over 5.3 million mobile users in September as India\u2019s subscriber base crosses 1.3 billion",
    "url": "https://www.livemint.com/companies/news/jio-airtel-add-over-5-3-million-mobile-users-in-september-as-india-s-subscriber-base-crosses-1-3-billion-11793099005932.html",
@@ -5731,77 +5905,6 @@
     "1.3 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "457949b9b30c",
-   "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
-   "url": "https://yourstory.com/2026/10/workshaala-targets-rs-1000-cr-revenue-scales-enterprise-workspace-business",
-   "source": "YourStory",
-   "published": "2026-10-27T11:45:11+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "Workshaala",
-   "amount": "Rs1,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,000 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "656a10afb76b",
-   "title": "LenDenClub parent Vartis Platforms to ramp up digital lending; IPO on track",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemdFQjJWRUhtanA0bzQ0NDNRRFZoVTF4dmxzNlVSX0g4Mi1wOWhPV2dCdWNQb2hyX05vRVNNQlRJUmpPaXFHanJYZWx2Vm9PNEtuNFZ1U3g5bGFXMFdDZm8zNlNhV3cyLU81NlRWVTFySkl4VG94em5RWUZzWjEwbk5WU0padnhTQ0IwaE9sV2ZSZk9BVlRrWkFOSVhfa1nSAacBQVVfeXFMTTl4WXZaSEUwQkZmbkFhQnpmeC03NXYzMkZ3WGVXeXhGMWlpRUNXNWVIOFNaOUJBenNwOEZHT3BCMmthRWZQdF90NGptNVJHbHJhMFlfaEVycUtyUzV3bEtiUWRaY0t0TTZieU92NzNBcUUyNllHWU1jYUZOUmdtWl9oX1ZZWmxVNzB5cFZXbGNVbWE5QXdod3E2LV94R2ItUVJvZVpaZ2M?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-27T11:35:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "LenDenClub",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "26da90ea9997",
-   "title": "CoinDCX admits Rs 152 crore loss after CEO denied breach",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkxwOHo3TWZlSnVoUGt6WTVWdFZwR292ZVJrc002M0ZEX3hyUGNKX2hiYUxOLTNGNFZ4OFFRMmZRVkd3c0V3UkxDcEF2ZWMxVHg3U0lLeDk0RHFZaElwOWtLVWxDR1pCM2ZXUkxmc3kycm1mUEM2QVo4X1l4RkhxYk1n?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-27T11:30:52+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "CoinDCX",
-   "amount": "Rs152 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs152 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "53e62beddf43",
-   "title": "IndiaMART Q2 Profit Rises 10% YoY To \u20b991 Cr",
-   "url": "https://inc42.com/buzz/indiamart-q2-profit-rises-10-yoy-to-%e2%82%b991-cr/",
-   "source": "Inc42",
-   "published": "2026-10-27T11:29:00+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "IndiaMART Q2 Profit Rises",
-   "amount": "\u20b991 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b991 Cr"
-   ],
-   "alerted": false
   },
   {
    "id": "f9687053c0d8",
@@ -7040,113 +7143,6 @@
     "acquisition in headline",
     "\u20b95,400 crore",
     "question headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6d693a157405",
-   "title": "Failed JEE advanced, built a startup: IIT Madras student Kuldeep Rathore raises $1.1 million",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeXpVWmpUS3FTRWxOMXFNOFFwX1l6dHV4LVBlUmpqd0Z0Z1FUMWdTVl93WHpGWm1aYjZ5TXNQbjJKcDJObktQdWJQLXNWaEhFMmh1ajVKR0d2akZlelVhYnhwZUxBQnV2ZmNxMXU0WHp2RDVMWV9ZVTZOTFk5OGN1OWJxT2VUMmg2UEFlSkJ1N2QzWE40a3hpZ01GNVNZakVON28xSEtETTVYNjladUNVNDNKNTlOd2tpTU5kVnZOd1M1VTF0WkpyMzc2cWdLaV91NXhSREJjYWg5UlMyTUxjNmxVckNHWjUwU3M0?oc=5",
-   "source": "Education Times",
-   "published": "2026-10-24T04:50:00+00:00",
-   "score": 75,
-   "category": "funding",
-   "company": "Failed JEE",
-   "amount": "$1.1 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.1 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0fa25665e670",
-   "title": "Firstwork Raises $15 Mn In Series A Round Led By Earlybird Venture Capital",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWFMNEF4anZwT2lPX2kwMUhaRzhHN2Z4eS1POVRPODlJLWt5dVVHZEtLSjYyQWI1SFFoUmZPa0FzQnQ2empRdDRxcE1FYjdqbzBwLXU5Q21NX21aSDZlN2t2Wi0tMTRnX1h5M2V1akhwUWpSZW04aTYtek8wbFRXS280UXlzVEd4blhoVzZyTmlLdUpaOEJLaDMxMkQtZ3dWRTFZVlhqY0U2YkxBcVZKdXAyZ2c?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-10-24T04:36:14+00:00",
-   "score": 89,
-   "category": "funding",
-   "company": "Firstwork",
-   "amount": "$15 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$15 Mn",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7093c35a7da5",
-   "title": "\u00c9ntisi Chocolatier rolls out debut ad campaign for Diwali 2026",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlNfOHB3ZEF1WFJqZkVqUVJ1XzQta0w5bzV3S0I3RnVvVGlUdGRXX190NldoMVA5enNOSVNmM0hGZEp5bEtzaUN6dWhMdjRGbUVUNHg0RWtFMnIzZzJJRnhvOTUwRms0bGRsZk5iQjR2eGt2cm55RTVrMVF5TldTZ1gwSWNaMkQ1OEI0ZGZvOWlNSWNtUXU2blNVRXg?oc=5",
-   "source": "Adgully",
-   "published": "2026-10-24T03:40:10+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "\u00c9ntisi Chocolatier",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e0a51f312ca3",
-   "title": "From Even Health To The Pant Project\u2014 Indian Startups Raised Over $184 Mn This Week",
-   "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
-   "source": "Inc42",
-   "published": "2026-10-24T03:30:36+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "From Even Health To The",
-   "amount": "$184 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$184 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "155c2d1a3ea6",
-   "title": "In 2019, two founders launched vodka made from carbon dioxide; their startup later secured a US defence c",
-   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQLW5FZTExbmhiY1JMT3F0YUc0UXkzdjV0STh0Y3BubnIxcW0wYmFHYXdwYjRYeXd6bEc1R0pxYm84WHJ4VmY2di1nWTlWNDBDTENjQ2RoTWx1X2x3ZVRHclFsVndwMnFmTFcyeE9nVGwwY1JRdDQ1TDRwYW4xSmZIVXZ1eEFmaDNkaGpFM1dkMmNCMnBuLWRhSmFmOHJoRHpIQURJbTlTU09WemFQTVR5cmlxSU56cnFDWkxOVXByNVFMWXdiX3p2UWxLTWJNVG90ckJ1RUhDeE1Bc0RTOTF3QlN1dGlOcGNTcHRiMzlOV2NzbVl5bTJSZzNua3NhaC1HWURlYzRvZk1aOTFTT1dTSlVEeHZIU3g1eUtYMnE0MXFiU0lncndGVU1vZmV3bDd1VF9nMEpXdEczSVVEY2lON2g0by1jbU9hblVYbC1DSlNSSFVQVkdVVjJxUW9hUdIB4wJBVV95cUxPVWp2enYyb19ncGtqRU1reHlIdy0wMnRkcmlLeEZidjBTeVF5UFhLamlZNThwWHAyY2lBVzhaN0lISEJpVU90bUdGV0FWc0M3VExpaW1OR2xGSlgtd0Rkd0JBQzNJaXJfWE44QXFMdEJQcTBFWWtWNXhBcjR1RENleEJMS3F2Y0tsbWRWbzNObmVDOTJ1R2MwMk5mU1FLTk5pd29DN1BMUU9EaWhmYjB0RDdLNGlnOVlIMG1LMlhnak9fUk14TDVKQnlVelNaQlVqTU5EYkoyODV3c2RVWVlkZWVYb3BpZkNoakFqMmU1Rm1yMGdfT0JHNE84aFdYMDVKVWRlZXdnU2VwUEZtX2lqMG9MVlFvNmFzWjVldUhFVXNiZ0NkZnJjWHMzVDNYU3VBVTY1WVlvUWpBWFhxdnJ6Um8xSXFyUGtfZzdMLTFVVVJ0RTQ4U2taeGYyb0htNUd2ZVVJ?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-24T02:30:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "In",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8991c4fe02c7",
-   "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
-   "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
-   "source": "YourStory",
-   "published": "2026-10-24T02:15:00+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Rs",
-   "amount": "Rs10,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "Rs10,000 Cr"
    ],
    "alerted": true
   }

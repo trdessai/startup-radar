@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-11-01T20:35:15.207630+00:00",
+ "generated_at": "2026-11-01T23:50:35.874049+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 23,
-  "fresh": 18,
-  "alerted": 3
+  "fetched": 2,
+  "fresh": 2,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "ddb374738702",
+   "title": "6th National Startup Awards launched; three special categories for women, students and NE region",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHpjUnF6NFlERUVGc2w3Qy1ieldXRFVhQXhja0ZRRTc3WEtYNFFTcTRvLU5nRTZZenBnYzRab0JTZUpmTUYzeW55SUhBUmp2Z1dhUlp3Z0NWcDBneVVfSUplWUhlTzF2Y2psS3QyNUd5VTVQZDZIc3NXQVFyckFtdjJsZWRnNzZ2LW1QbG9XOGtaaU1CTmV6cGhkc1h3bTVya3MxaXNsNEwyZGhMUUJUZ3RIdHBGSlZLZnFteA?oc=5",
+   "source": "News On AIR",
+   "published": "2026-11-01T22:51:55+00:00",
+   "score": 51,
+   "category": "launch",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "911ad1922c2f",
    "title": "Crypto cards enter RBI's radar as Indians use offshore wallets for everyday payments",
@@ -7147,24 +7165,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e1dbffb91cfe",
-   "title": "Katrina Kaif\u2019s Kay Beauty hits \u20b9350 cr valuation, completing one year in UK's retail market with luxury chain Space NK",
-   "url": "https://www.livemint.com/companies/people/katrina-kaif-s-kay-beauty-hits-350-cr-valuation-completing-one-year-in-uks-retail-market-with-luxury-chain-space-nk-11792954648251.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-25T21:06:10+00:00",
-   "score": 78,
-   "category": "launch",
-   "company": "Katrina Kaif\u2019s Kay Beauty",
-   "amount": "\u20b9350 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "\u20b9350 cr"
    ],
    "alerted": true
   }

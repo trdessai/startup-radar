@@ -1,12 +1,94 @@
 {
- "generated_at": "2026-11-02T10:29:58.801123+00:00",
+ "generated_at": "2026-11-02T20:27:54.318523+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 81,
-  "fresh": 53,
-  "alerted": 19
+  "fetched": 11,
+  "fresh": 8,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "33818788135b",
+   "title": "Russian Su-57 Stealth Fighter Explodes During Engine Startup at Military Airbase",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVZMS2lxUHlXcXp1ZU5ETlN2SHpuMEd3UjNEeDA4SnZfSHZaYXNJbkZoc24zT2ppUkRpR3pvV3ZJVThJS1dncHV3SWZEVHU4TkhaODVpbXRVZnAyQTBqR0pJcjNIcEdxaGM5bk5ub1Y5eWNKR1d2eHdRdHpwdkZZZnVSQXJpcGd1MGdFbFJpb3ZidW5NanZXMEhoM0w2UlFKaFJETVRucWs3UFE?oc=5",
+   "source": "SSBCrack",
+   "published": "2026-11-02T20:10:27+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Russian Su-57 Stealth Fighter Explodes",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9d3c3d00e1b9",
+   "title": "Clinics On Cloud Bags \u20b9120 Cr To Take Its Health ATMs Global",
+   "url": "https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/",
+   "source": "Inc42",
+   "published": "2026-11-02T19:07:55+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Clinics On Cloud",
+   "amount": "\u20b9120 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9120 Cr",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "956fe4853541",
+   "title": "'I'm the CEO': Why boss paid \u20b92.7 lakh in compensation after employee was unfairly sacked - What really happened?",
+   "url": "https://www.livemint.com/companies/im-the-ceo-why-boss-paid-2-7-lakh-in-compensation-after-employee-was-unfairly-sacked-what-really-happened-11793641279950.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-02T18:04:02+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "I'm",
+   "amount": "\u20b92.7 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b92.7 lakh",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "05a5bc412303",
+   "title": "Fireside Ventures\u2019 Cofounder & Partner Vinay Singh To Step Down",
+   "url": "https://inc42.com/buzz/fireside-ventures-cofounder-partner-vinay-singh-to-step-down/",
+   "source": "Inc42",
+   "published": "2026-11-02T17:36:37+00:00",
+   "score": 17,
+   "category": "other",
+   "company": "Fireside Ventures Cofounder",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Vinay Singh",
+     "handle": null
+    },
+    {
+     "name": "Fireside Ventures\u2019",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "7486b9f1ffa7",
    "title": "Ex-Nykaa executive's makeup brand Hyeglo raises Rs 7 crore for R&D, new product launches",
@@ -6898,277 +6980,6 @@
     "funding in headline",
     "$5.5 Mn",
     "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6c5c13d57468",
-   "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
-   "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
-   "source": "Inc42",
-   "published": "2026-10-26T19:47:18+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "BioStack Nets",
-   "amount": "\u20b990.4 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "\u20b990.4 Cr",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "afaa5221ba1d",
-   "title": "Tata Motors completes Iveco acquisition to turbocharge global play",
-   "url": "https://www.livemint.com/companies/news/tata-motors-completes-iveco-acquisition-to-turbocharge-global-play-11793019547840.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-26T19:01:36+00:00",
-   "score": 69,
-   "category": "acquisition",
-   "company": "Tata Motors",
-   "amount": "$4.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "acquisition in headline",
-    "$4.5 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "dcc86e19b391",
-   "title": "Vande Bharat Sleeper trains to cut travel time on Mumbai-Bengaluru, Delhi-Varanasi routes: Check launch dates, timings, stops and more",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc1BNaEZyRFIxTVRDYldkS0xRZzR6UU9uLXkzTmRVQ1BiNExCU212ZmVjdXViU3hqd0JSeXZId3J2d1ZmQlZraERxRElBYXpieGYwMkJaVTNrMXZlZU1jVHVjeDBBU0lfQUx0al9nRzhMeDdTeElRYWozQlNUTF91RGtyS0hHakh3cGJndHgxNUpMeEp5TnN2M3dPZzAyUkluWThMa2c5N1BMa0VsM3drVUd0MjZ4TVlvZkFaajNRcEV4bmFYZEgwY0pCZEZIYU5sQXlhWFdBLUhNVmZvaU1HY2twRTNRUlU1dVE0SDNzbGFLdy1TcGVjOHhLZmJOTFRacmQxWFdzRFdYeklPTEljRXUzQVZMb1hVUkpyMFBkbkxKOXdkUmVQOERKMUNNNktUSGdWdGZUdmdaUjBxamc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-26T18:27:55+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Vande Bharat Sleeper",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0112a2af34d3",
-   "title": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGtUa0NhcE1Vc3JxMjZFS1diZ1JWTjlBT083X3pNeFN1cFdQLUhXQXlWZ2JDSTlmWTRJcFYzS3YzQUZqT3dMbmxDM0ZlSXR5LUVCUnBLQ1pCc0t5aHJyaktVMkx0SlY3S1lOYVVtbTdiRnBQUTA5bTluMVN3QkNheDhoSHdwNG9PMGRv?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-26T18:06:06+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Matiks",
-   "amount": "$10 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8212f7badf4f",
-   "title": "Kae Capital launched a $25 million fund in 2012; 13 years later, Porter and HealthKart had helped it deliv",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQSjJLUTd2cFZISlNoRlo4RkpJanRZaGlkVk9ZdndzUlU3dnZKbHF3REU3NVJDb2F6dVZLbUxhWl8wRzdZR216Q1otX0FWR3NuZENlUWswSW1fR0RnamNjdXNMeUZZc0pnRmx4Ylo0VlBvNjhtNWpGSUtBV1ZqYlRKb3JjeUhZeENzYlNkQlFwVy11ZUpyZWpkdVE1LXRkR3VGbEZsMFFqLTdOUWJ0TmtSQ2E1OTFkV0xXTUUzVk54VzBLWFR5UnozZ1JTblQ2UjUzSWRUaHNWYm0xRURGdEV2QzVSR1RrME9CampaQnkyMjRkSDgydzJTWGNTQVVmMXZuanVzNFotZFRRYlFHdmxhTFNNM2EyV0R30gGeAkFVX3lxTFBaTUd1a2xCZXlxeGhyaEM5SzhreHB6Wk44VnZPQTc4VTZwcDlrbzR1Nm1mM1V0X3ZIbUE5b2x2MVhfTlJfUks0cGNORWVXZW9pcldHNzQxaTQzaXJzY2ZGNnhfR1FTZk1xcHpOd0RTTWpxWG9mcm1zSHk4NDVBNW1kUmZERnhtZUpmV3V1cERHWnJFSHVCdVZWeW1YQUtLZll5c2RzcXE1eHpLSFkwV1F1SzlMV3RLZDROUTF2eG9hZzgzT0dPN21CdEpST3p0MjE3X3l0VHhacVpfZkZFY1c1UTlZU0tEandJQTNjZkd1UTNyY3hxZllDbkxUMVN2aVlsenY0elczNHEtY3g5a2tIcFE2TzRySjh2WHVGb3c?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-26T15:31:40+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Kae Capital",
-   "amount": "$25 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$25 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c29fc5a6313e",
-   "title": "Is Indian space agency being privatised? ISRO chief V Narayanan clarifies role of private sector in space missions",
-   "url": "https://www.livemint.com/companies/is-indian-space-agency-being-privatised-isro-chief-v-narayanan-clarifies-role-of-private-sector-in-space-missions-11793017905209.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-26T13:01:27+00:00",
-   "score": 60,
-   "category": "launch",
-   "company": "Is Indian",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "27f62230c305",
-   "title": "{Funding Alert} BioStack Secures $9.5 Mn Seed Funding for Healthcare Data Platform",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUJVS3pTYThoMUJLT2hCN21fS1lqbTlwYjk5OGktTkZ4M3pQYlFzaUdqbE10ZWQ4eDJ0X05zbHMxME9xMXpDOHVib1NWb2RySW9uOE1IYzBDZGtYMnFUVVkwZjlQY1hGbC1SQlJhcmV5SHBsOUlsRmVZQnR5M2pmT1AyMnZ0ajNOcFRNWGx2UkN3X0lpMklTdW1tWjdqMmFIMDVHazg4d3NRdEh1clZF?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-10-26T12:56:15+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "",
-   "amount": "$9.5 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$9.5 Mn",
-    "Seed",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a685e9bfcbe8",
-   "title": "Hyundai Motor India Launches BAYON SUV at \u20b99.99 Lakh",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjZyb3RsTHhueWU2c3BNWDRlcmdvaHR0d3dnWU4xOHVYWjN5MGFHbXM5c19TcDBVMkgwc3pEa014OGlLMWIwX0dWWTBVUU1wUWkxVzdmclJHZlZSckFWbUU2Y1lCblRseGhhLTduRnpuSGNWNkpBNkRpeUFfcFZpUWd4azVucFQ1X2JES0wweEYySlh6d20xeXlB?oc=5",
-   "source": "Machine Maker",
-   "published": "2026-10-26T12:38:55+00:00",
-   "score": 74,
-   "category": "launch",
-   "company": "Hyundai Motor India",
-   "amount": "\u20b99.99 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b99.99 Lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ddcc285f9995",
-   "title": "Music-tech startup Hoopr unveils macro-sync licensing tool Smash Plus",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2Z5RFlDM3ZCUklheXhmWU5XaTE5Z0pRcW9NX2NVVkNzby12aWRIc2UzYjBHS21OTHVlYjRmenE3Mk16bkN0ckw0MEd5bFNHM2FzY1NvQk03ZkdhN0lKNHVaQTVZQ3JBQ3VQeU8zUnVHX19qUjNNanljQWhxWWJYVDJRbXdfd21iejlzWVZTVGE1LWM2UlBmeEh6UFBNWFNWTG14bFFxVQ?oc=5",
-   "source": "Adgully",
-   "published": "2026-10-26T12:18:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Music-tech",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c98301400677",
-   "title": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXRPX1NTcVdPR0tFSHhFeUhDQU04dXIzQ3lvNHI5eXIwSGtWQ2dPQ0l6WU4xTjBBM2pKNmFDNTFXNUgxSWpvaUdvMDBvd3ZyREtGUFo2bHp4aEh5TDlZSHpfTV9McTlvcEFKeTdZdTlvSE1YWTNBQ0NhRzIwUGxCRkI5UmhIRnUtbDdtWW1yX1JhUEx0SVJlOER3RTFKczFqR3huYW53TnllS05HaXVz0gGvAUFVX3lxTE9tdE9fU1NxV09HS0VIeEV5SENBTTh1cjNDeW80cjl5cjBIa1ZDZ09DSXpZTjFOMEEzako2YUM1MVc1SDFJam9pR28wMG93dnJES0ZQWjZsenhoSHlMOVlIel9NX0xxOW9wQUp5N1l1OW9ITVhZM0FDQ2FHMjBQbEJGQjlSaEhGdS1sN21ZbXJfUmFQTHRJUmU4RHdFMUpzMWpHeG5hbndOeWVLTkdpdXM?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-26T11:54:53+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "Healthcare",
-   "amount": "$9.5 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$9.5 Mn",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4df42f53aa36",
-   "title": "Hyundai Bayon Launched in India at Rs 9.99 Lakh",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlN2Z2ZPYjhtUU1uXzlIYTNXbmM0YWZIa1dhX2JMT3RTSDZUZEpoTG92YklfR2Y0WmNCeDE0SkN5UVdSVG95b0REeVRiOVA3U2doT3lUbmtTbnJDOFBIbzZ4WW4zNzN5dXJQa1J6VkhuMXV6bzA3N0lBd24ta0czZE5oTFh1Y2k3?oc=5",
-   "source": "India Business Trade",
-   "published": "2026-10-26T11:53:04+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "Hyundai Bayon",
-   "amount": "Rs9.99 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs9.99 Lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8320a6dde104",
-   "title": "Greenply Doors launches 'Doors of India' campaign celebrating stories and emotions",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXhRQVNjZ2M4bWxKc0FVc01aeTRxM09TWThZbU1FekZKMV9VZmN2b1Z0d1AxYVhpLW1rR1lnQzFjLWstdDBMUU53Y3g3VU02bjEzRW96dklySFhITmJTX05CV0J1Qjd3VlFSLXA5d0hGSmZEbmlDWnRhbnVGWENQVDlKVFNzdHZWNDVURUNwUk9ieXFINWE2LUpFeW0zVFhqaGtVVHR0aUNQZmk4VEVPZHZpSGF5UQ?oc=5",
-   "source": "Adgully",
-   "published": "2026-10-26T11:45:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Greenply Doors",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f82983940313",
-   "title": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-10-26T11:40:57+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "BioStack",
-   "amount": "$9.5 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$9.5 M",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f3a6924a3f58",
-   "title": "Blue Dart launches International Parcel Connect for India's global e-commerce growth",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenQ3a3ZYc1BnSUdOY1pHelJ0R2NiRDZaOUxOSTdfMG9VVldqLVlvcUdpSEQwQ0ItOVd5ZVlJeVhDVmlkSXllUk9Zbm5SZmdPc05WenNjb1dEQ3FqRmtYSm11THhreWxQVVB5N1JTMTZSMnFxX21ueWxWN2UwOFJIcnFqSmdmam44OFhmNUgzXzdKelQ4N3I3eUktRVpGUkM2UkVOZ19xbGdoVHhGU2VZNGNra0UtSEU1UkNjag?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-10-26T11:30:09+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Blue Dart",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d11753406651",
-   "title": "Navitas Secures Up to USD 20 Million Growth Capital from responsAbility, Plans 2.2 GW Solar Cell Facility",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXRONjBLQmotZWxFXzdMdEo5WnYyWDBESXRDQVBJbkEzbUVCcE9TNFpHWWwzZ0lTUV9ETk9FaEZVWS1aT3EtaTZuVVA5MTc0cVpNTjl5SFV2VjdTSlRsbk1yLWt2dHhqUHFZSElFcGZvbW03d3U2V1VJZFd2dFhfWkwzM09NUWRJTENseVRIbTJvNjBTbi1FSmxudnluSmRzdDZQLVJtMlFxNkhocGF2RVdUYlNtNGZVVTZBd1BKb3RKTDBJc1Fn0gHPAUFVX3lxTE1PMTR1QkxmSEh2WFlQQlZYc3VOVDNnNW5ZODJuT09mdmhLOVhOSEhBNjE5MzlQSGNvWnJ3VHc3S1N3UVpDdXlXcnI1MTFZb0pMbDVPNWl0N0FVZWl1X1Z5WlBiZ3F0Y1o4bkNUY09uRHNSRzFyNG8waGdpcElUZ0dYbEo1enVOM2QzeDhXc0VuSl9oNkQyUjV5YUhHV3I0VmM3ZXVaWGdOMjNTUkwtazlmaDhOQmI5akV6ZkVaMUp6X2k2bnM0ZXhsaERkV01SQQ?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-26T10:54:43+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Navitas",
-   "amount": "USD20 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "USD20 Million"
    ],
    "alerted": true
   }

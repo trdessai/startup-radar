@@ -1,12 +1,98 @@
 {
- "generated_at": "2026-11-03T22:26:13.288787+00:00",
+ "generated_at": "2026-11-04T02:29:39.500388+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 9,
-  "alerted": 5
+  "fetched": 6,
+  "fresh": 5,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "debf4e22b840",
+   "title": "GIVA raises $100M in Multiples-led round; India\u2019s Rs 3 lakh Cr data centre buildout",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEaFN1MEVDeXRJNFNYQUp6MXFLRTJCelk0aF9zZnpuQzk2MXNpM2Y5bm5nUEdIS1JZNjBndkcyTld3U2ZYMjQ0eXlNTW9lWjFLdERrX3lhalRxeDlZdDB4Tmxhb25wWUhOQmZsbGp2RUhxWTk2QkJkWA?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-11-04T02:15:00+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "GIVA",
+   "amount": "$100 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$100 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "97a5d4fb264d",
+   "title": "Premji's deeptech bets; Razorpay gets IPO nod",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms",
+   "source": "ET Tech",
+   "published": "2026-11-04T01:59:57+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Premji's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "109b22e6e29c",
+   "title": "Why best consumer brands are built on everyday habits, not one-time marketing campaign",
+   "url": "https://yourstory.com/2026/11/what-takes-make-product-habbit-qubo-bruk",
+   "source": "YourStory",
+   "published": "2026-11-04T01:37:55+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "59874d4f7eb8",
+   "title": "India raises a toast to premium pours, snubs budget liquor",
+   "url": "https://www.livemint.com/companies/news/premium-liquor-radico-khaitan-united-breweries-allied-tilaknagar-earnings-11793691334064.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-04T00:30:32+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "India",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "48b732a8e456",
+   "title": "DataLabs by Inc42",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41RThjNEZQcThRVFNsWFZmbXcxd3pJbkZ1YWpWNFU4dE1GMFEySm5DZGxzNEM1d2txQ3htSEwtNUJaeTBIeTduMmFwVEsyRkl2NVhPWU1ONmtwQ3pZQVRhcg?oc=5",
+   "source": "Inc42",
+   "published": "2026-11-03T23:32:26+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "DataLabs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "59c91664f39b",
    "title": "Organic India Launches a Certified Organic Range of Nuts & Seeds in India",
@@ -5819,46 +5905,6 @@
    "alerted": true
   },
   {
-   "id": "35315b11754f",
-   "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-   "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
-   "source": "ET Tech",
-   "published": "2026-10-30T08:41:40+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "Foxconn",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sam Altman",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a76421437a02",
-   "title": "Traya nears Rs 600 Cr revenue in FY26, posts Rs 29 Cr loss",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGNvN1NyYU9JS2lINmdCU1gwMDZiQXJrR21sOFpBajZwZExFTHVtc1o0MDdYbTVrVEJWR0trem12cnpWNlY5S3B0NFZDOG1XVHJaczgtRjdtQm9fMXRMSzJubVZ4Zks5V292eDZaYURxZFRmNXk0NkxweXk0NFMzNGJDdWpCdVpBQ19pampab3Q0bkdfZF9VMldtTXNxQdIBngFBVV95cUxNRGNvN1NyYU9JS2lINmdCU1gwMDZiQXJrR21sOFpBajZwZExFTHVtc1o0MDdYbTVrVEJWR0trem12cnpWNlY5S3B0NFZDOG1XVHJaczgtRjdtQm9fMXRMSzJubVZ4Zks5V292eDZaYURxZFRmNXk0NkxweXk0NFMzNGJDdWpCdVpBQ19pampab3Q0bkdfZF9VMldtTXNxQQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-30T08:29:41+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Traya",
-   "amount": "Rs600 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs600 Cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ffd9c66192aa",
    "title": "Qiroko raises Rs 1.5 Cr in pre-seed round led by ISV Capital",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc19wLW16eWFTck9sZ2ZuRXBpbDhXb0FCTHV5eUNQdnF4ejBTY3NKcjl4S05SLWpKNWZ6cjVVb0RQQm10QXdTcUgxU2k4NURjcGNmQlFEMjZNMmFFR1ZOVTYwTkZDaEI5clp6LWFBNWEzUTBQejc2TXk2cFVNYWgtbkJnVEd4NkFxSTc1czRpaDRMS2pWSUN6MXkzckllWE3SAZ8BQVVfeXFMTnNfcC1tenlhU3JPbGdmbkVwaWw4V29BQkx1eXlDUHZxeHowU2NzSnI5eEtOUi1qSjVmenI1VW9EUEJtdEF3U3FIMVNpODVEY3BjZkJRRDI2TTJhRUdWTlU2ME5GQ2hCOXJaei1hQTVhM1EwUHo3Nk15NnBVTWFoLW5CZ1RHeDZBcUk3NXM0aWg0TEtqVklDejF5M3JJZVhN?oc=5",
@@ -5894,42 +5940,6 @@
     "$234 mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "15151f07c49b",
-   "title": "Aadyam Handmade Enters Gurugram With New Retail Store",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3RiSGxTS3dQcTFLNm5KX0FpbFF3UE4xR3B5anBDR1hjX3B4RmZlMEFuM1p5U0VMcHN4Y3Y2N0JkRjM4S1haOElYUEVUM3lNTnFlZFFNZ1FCUW5pbU9JV3IzVjNKSU9OX2NWQW5xdmpEc2ROWVRVbGo3bGRwUzJ3Znp3a25ZRWVqYm95Ykc3VXJWUUpXbHJIVUhnMjNnQXRWOUVn?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-10-30T08:19:46+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Aadyam Handmade",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2dd0c7b25cda",
-   "title": "Carrum Built A \u20b9233 Cr Business By Running Cars For Uber; Can It Grow Beyond One Platform?",
-   "url": "https://inc42.com/startups/carrum-built-a-%e2%82%b9233-cr-business-by-running-cars-for-uber-can-it-grow-beyond-one-platform/",
-   "source": "Inc42",
-   "published": "2026-10-30T08:09:20+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "Carrum Built A",
-   "amount": "\u20b9233 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9233 Cr",
-    "question headline"
-   ],
-   "alerted": false
   },
   {
    "id": "56604d211fc4",
@@ -7144,25 +7154,6 @@
    "reasons": [
     "acquisition in headline",
     "$11.5 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "ad1ab93357ae",
-   "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
-   "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
-   "source": "Inc42",
-   "published": "2026-10-28T00:00:25+00:00",
-   "score": 88,
-   "category": "funding",
-   "company": "QwikBuild",
-   "amount": "\u20b922 Cr",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b922 Cr",
-    "Pre-Seed"
    ],
    "alerted": true
   }

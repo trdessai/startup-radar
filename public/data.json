@@ -1,12 +1,227 @@
 {
- "generated_at": "2026-11-04T22:45:36.532911+00:00",
+ "generated_at": "2026-11-05T02:49:35.735466+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 6,
-  "alerted": 1
+  "fetched": 15,
+  "fresh": 14,
+  "alerted": 7
  },
  "items": [
+  {
+   "id": "1a37dd747137",
+   "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
+   "url": "https://economictimes.indiatimes.com/tech/technology/qualcomms-smartphone-chip-sales-miss-estimates-shares-fall/articleshow/135556562.cms",
+   "source": "ET Tech",
+   "published": "2026-11-05T02:43:57+00:00",
+   "score": 59,
+   "category": "funding",
+   "company": "Qualcomm's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a8393b510670",
+   "title": "PhysicsWallah\u2019s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
+   "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
+   "source": "Inc42",
+   "published": "2026-11-05T02:30:11+00:00",
+   "score": 89,
+   "category": "funding",
+   "company": "PhysicsWallah\u2019s Q2 Profit Surge Elo",
+   "amount": "$80 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$80 Mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5b9548d208fd",
+   "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Greg Brockman says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-greg-brockman-says/articleshow/135556244.cms",
+   "source": "ET Tech",
+   "published": "2026-11-05T02:30:06+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9d97a76f08fd",
+   "title": "OpenAI to acquire developer tools firm Pierre to expand Codex capabilities",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/articleshow/135556193.cms",
+   "source": "ET Tech",
+   "published": "2026-11-05T02:27:35+00:00",
+   "score": 55,
+   "category": "expansion",
+   "company": "OpenAI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "38e2e57916fc",
+   "title": "Apple cuts employee AI budgets in cost-control push",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-cuts-employee-ai-budgets-in-cost-control-push/articleshow/135556165.cms",
+   "source": "ET Tech",
+   "published": "2026-11-05T02:25:53+00:00",
+   "score": 47,
+   "category": "expansion",
+   "company": "Apple",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "21c18c43be65",
+   "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/goldman-apollo-seek-buyers-for-40-billion-spacex-ai-chip-deal/articleshow/135556148.cms",
+   "source": "ET Tech",
+   "published": "2026-11-05T02:24:06+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Goldman Apollo",
+   "amount": "$40 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$40 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9224dfe74573",
+   "title": "How Bariflo uses AI to help factories treat wastewater",
+   "url": "https://yourstory.com/2026/11/bariflo-ai-help-factories-treat-wastewater",
+   "source": "YourStory",
+   "published": "2026-11-05T02:03:15+00:00",
+   "score": 62,
+   "category": "funding",
+   "company": "How Bariflo",
+   "amount": "Rs2 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding",
+    "Rs2 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "361d26ae1804",
+   "title": "PhysicsWallah, Lenskart, Nykaa post stellar profits",
+   "url": "https://yourstory.com/2026/11/physicswallah-lenskart-nykaa-post-stellar-profits",
+   "source": "YourStory",
+   "published": "2026-11-05T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "PhysicsWallah Lenskart Nykaa",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ba58faf4023a",
+   "title": "Tech funding drops to 12-month low in Oct",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZtTzNta1pOUHZsb09YcndyS0dqLVB4Vy1DWE9LWFhIakttWjVFejJHY2JoQzI4U3pyWTJmSTM1a2ZabnRVZ3d1YmhkZ3hBNFhTUUJMOU1oeXJlbHRJVXo3Mm5nTFBROVNCNzVWTjJFdVlpVUljWWFMc01uQ2FIbENoZTVRWmlOaElNT2x4TTRDNmRZOVAwTmNIZ3hQX1hnaS1sRw?oc=5",
+   "source": "The Hans India",
+   "published": "2026-11-05T00:52:07+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Tech",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b74a92f2f3a9",
+   "title": "Jungle Ventures targets two IPOs a year from its portfolio",
+   "url": "https://www.livemint.com/companies/news/jungle-ventures-targets-two-ipos-a-year-from-its-portfolio-11793791578211.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-05T00:31:02+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "Jungle Ventures",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$1 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd83b53146f6",
+   "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
+   "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
+   "source": "Inc42",
+   "published": "2026-11-05T00:30:27+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "",
+   "amount": "\u20b997.5 Cr",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b997.5 Cr",
+    "Series A",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2f69e4516016",
+   "title": "altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures",
+   "url": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures",
+   "source": "YourStory",
+   "published": "2026-11-05T00:30:00+00:00",
+   "score": 76,
+   "category": "funding",
+   "company": "",
+   "amount": "$10.3 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$10.3 M",
+    "Series A",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "96bfbe72b799",
    "title": "Mahadev Betting App Promoter Ravi Uppal Arrested In The UAE: Report",
@@ -5991,24 +6206,6 @@
    "alerted": true
   },
   {
-   "id": "9be8652bbaba",
-   "title": "Shadowfax clocks Rs 1,538 cr revenue in Q2, profit rises 5x",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWcC1TR1hpdm0xSFVJanZmS0FsUS1wcDA4bzhrVTBPanQwZkMyVUdDZlZkTlR3WG1fY0NaX1NyempTcGVEZlNVVDVQTkV4aDA0Y2lkblFpNGltWnEyZThJa0g3RzZkNnJQYTdzeDZjQ3NFU1lT?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-30T10:06:50+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Shadowfax",
-   "amount": "Rs1,538 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs1,538 cr"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e3cfa9b5ae6e",
    "title": "WAVES Bazaar drives Rs 1,300 crore in business deals as WaveX opens funding avenues",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUlNnU3JOOFBOcGx3aEx5N3ltdm9yeE5keF9pdm9nNFVSUWh3NlZIVC1wRVczdUxRc0tPM0MwMEpCVXpVc3p4NzRsNUdCOUVCZUs5TGMzNmczVGlXRFVvZkhWSGxJQ1hJbVhzNHJ4U00wREJya2lpZEpQczlzbUZKVGh4NVJpLUFkTm41cEJQS0VLTDJ4YWFvUDJ4eTVUN2MzNGxPLTRFTGhSRTNzejluNWp6d0RXQWlHZFR1NjQycFhTU1BZQ0Q1UVMyNGlMTEg3NWZHb0M5dEsxTWVJTmc4WmR5UHJIUQ?oc=5",
@@ -6027,78 +6224,6 @@
    "alerted": true
   },
   {
-   "id": "d40de1b1788e",
-   "title": "ED's 5000 Crore Cryptocurrency Investigation: Mudrex, Saber.Money, Instadapp And Fluid Under Scrutiny Over Alleged FEMA Violations",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzcwSlBUeEdydjQzeUN5YzlOV1FXRnVtRjk4ODBEdUJ6ZkROLWVLOFVsV1pzRjJCN1VYbjFwRjBKMXdianJRV1JVcmo3Z1l6enNLUy16ZWI2ZFQtSTI3dkxHRVVVYjdLY2lZY1R2WGFCamtaWV9lZDJha1NBRV92RE8zS1JhRlRSc0syMXVvaWptWmtNakdhZnFPa3VFcm1JMEphX01qdTBkY0lHMk53RTlzeDd3Z2NocmItV25rM1UwZXJmWkRGVVczWWtZYmh4aHNCTkh3R2NwSU5iUTRybENxZXMzXzk1QUE5V0xaOFdMN3Rq?oc=5",
-   "source": "Inventiva",
-   "published": "2026-10-30T09:54:56+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "ED's",
-   "amount": "5000 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "5000 Crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9a27a08c71d4",
-   "title": "Zerodha's Rainmatter, Unicorn India Ventures invest $3 million in precision manufacturing startup Venttup",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2dCYW9mQUd1YVNZVldscXhVMXpJV3RKT3pVUS1ndWpzYjZGTXBvRVlKS04wNDNSM0RaU1EzS1dOblZ3bTdXOHJiS2JhRGM2MHBkWmFod2FTYmF6TE9YSW80TFpLRlNUaEs0cDJhb1ZYcTdycFBZMDluTnFnNlJVTnZmWnlEVzhzLVlkejFvUGpaaVJ4cmJZYkFrZHVKUFZaTjZlTm9XeUhmQmNja1VDalBhMW13Um1hVmM0djZON2ZCQ1dCUnFvaFlfbzNabEU1bkFkWmcxb3lMdGk3dlc0OENFY9IB4wFBVV95cUxPb2dCYW9mQUd1YVNZVldscXhVMXpJV3RKT3pVUS1ndWpzYjZGTXBvRVlKS04wNDNSM0RaU1EzS1dOblZ3bTdXOHJiS2JhRGM2MHBkWmFod2FTYmF6TE9YSW80TFpLRlNUaEs0cDJhb1ZYcTdycFBZMDluTnFnNlJVTnZmWnlEVzhzLVlkejFvUGpaaVJ4cmJZYkFrZHVKUFZaTjZlTm9XeUhmQmNja1VDalBhMW13Um1hVmM0djZON2ZCQ1dCUnFvaFlfbzNabEU1bkFkWmcxb3lMdGk3dlc0OENFYw?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-10-30T09:50:45+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Zerodha's Rainmatter Unicorn India Ventures",
-   "amount": "$3 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$3 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e8b88df26007",
-   "title": "{Funding Alert} Fashion Accessories Startup Qiroko Secures Rs 1.5 Cr from ISV Capital",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1FOZlkxSnpUOFBaX1BTZ1FMc1hQM2FjYl9TREZTbTE2eXVPaElOUlN6R3pTQkNRbGJTX3NXbWNrSmVfZ1FnUWk0RFBXSG9XdmpYUlB3QVg0VGI5a2JtcXRoTXNKOEFYMjhjRWZjS0hkbHQwTTc2QkRDOURmQWYwOVp6R1Y5dTRGZ3dvVGVvMjVpQnRHREk4RUJ4SWNxaEhLb3h1NWVnajZkZ0VfRWZRbU82MA?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-10-30T09:46:05+00:00",
-   "score": 54,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs1.5 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs1.5 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "88aebe2e1201",
-   "title": "Waiting for an AI law is a poor compliance strategy",
-   "url": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
-   "source": "YourStory",
-   "published": "2026-10-30T09:30:21+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Waiting",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "ad33a9fd6117",
    "title": "Ixigo Co-Founder Launches \u20b91 Crore Fund to Support IIT Kanpur Student Startups",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHhENnZhbHByZXF1M0ZwdHpjWG82Mjhwblo3RHNxWlV0dXpWOWlGLUVqakl4cjc0VnZMY2hjbElmZzhPZmlRcmE1dFFrU2tPMU1pdHFBZzBVVjRrcENmd1JJUlNXWndrMm5DbTY4SGt2MngzQXVnVkZlbkU3Qml5RDBFMnB4OU1laWJnNk8xOWVGYUNaUTNCZHJjdGxkMDdKWDNON3VVczNCdEZKRW5tSTM0dldOSFRBejZMY1JmbEgzZTBlWEVsZUtR?oc=5",
@@ -6115,41 +6240,6 @@
     "\u20b91 Crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "f357111a430a",
-   "title": "Govt notifies National Social Security Board for gig, platform workers",
-   "url": "https://yourstory.com/2026/10/govt-notifies-national-social-security-board-for-gig-platform-workers",
-   "source": "YourStory",
-   "published": "2026-10-30T09:19:48+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "Govt",
-   "amount": "",
-   "stage": "Bridge",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Bridge"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "25d2028bba12",
-   "title": "CapitaLand\u2019s another Pune IT park on the block, draws multiple bids",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMERjcVJmR3FJaGJJOFpJb2dWY2JLSm40NW9weGF5QzBBNmZlRG1YeDVCdUZyNTlaN09vS1FOUUZneFRTUE5DYm16RnBWYVhvcWYtSkk5UU9QZGlzVHNaZ3BFbXQwUG5XcDRJOEF0aWl6NjRIeGhpN3RWUnkxdkJncUV6OWF1Z05IcFNUSjgzaS1DU2lwSmxpNzN6a03SAZwBQVVfeXFMTTBEY3FSZkdxSWhiSThaSW9nVmNiS0puNDVvcHhheUMwQTZmZURtWHg1QnVGcjU5WjdPb0tRTlFGZ3hUU1BOQ2JtekZwVmFYb3FmLUpJOVFPUGRpc1RzWmdwRW10MFBuV3A0SThBdGlpejY0SHhoaTd0VlJ5MXZCZ3FFejlhdWdOSHBTVEo4M2ktQ1NpcEpsaTczemtN?oc=5",
-   "source": "VCCircle",
-   "published": "2026-10-30T09:16:48+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "CapitaLand\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "0f6760bb8a67",
@@ -6187,23 +6277,6 @@
    "alerted": true
   },
   {
-   "id": "d82558f3dcc8",
-   "title": "Event Announcement: Technical Issues with SIM Binding, Online, November 13, 2026 #NAMA",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2JibXkxLWdqVkpiRFpHRkw1RjlZMk8wSU5wbFYxbXdIcUNqVTJqdUhBR0Rwbko1THRxLVNsOVRXTjUxc01CcTBUdDJYRDhLdXllNGtpb0J1NzF5YTVYamo3OUpqekhWa092LTFOSUJLck1CVGdTNlBId2dGN1JiX2UwYklQTGdsdDM1NERaMUVXbm11NHdLc28xWjM0VFZtVGtvam85bUFSTU5OTl95QnN6Q0lCY2NRXzkxRw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-30T09:09:37+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Event Announcement: Technical Issues",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "e5830ba952df",
    "title": "Bijnis rebrands as Zorit, raises Rs 27 crore in funding for 60-minute B2B deliveries",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWFRU0FwYV9vU3ZJM1Q1aVlOS2lOU3llZ3VyaEdTODg2TU9VbmF5d0pKeGZtZkhoM0VoZUtqOXNicGNtdlBXZ3BxMEppX3VCd085aFVrZnBUY1BYT1M4UXl5dC14SHNoMHdydURvRkl3REhxTW5IZ2tyZDZnZmM2bVpOZndkR2NFVUplU3ZIcHMwLWpOUzJQMzIwSDNkcUtZelZ2TzNndC1Ocjc4WjhvMGFEYkZ1M1VpNWRFV3hnNXFfTURRczNCN0NB0gHKAUFVX3lxTE9FYVFTQXBhX29TdkkzVDVpWU5LaU5TeWVndXJoR1M4ODZNT1VuYXl3Skp4Zm1mSGgzRWhlS2o5c2JwY212UFdncHEwSmlfdUJ3TzloVWtmcFRjUFhPUzhReXl0LXhIc2gwd3J1RG9GSXdESHFNbkhna3JkNmdmYzZtWk5md2RHY0VVSmVTdkhwczAtak5TMlAzMjBIM2RxS1l6VnZPM2d0LU5yNzhaOG8wYURiRnUzVWk1ZEVXeGc1cV9NRFFzM0I3Q0E?oc=5",
@@ -6239,46 +6312,6 @@
    "alerted": true
   },
   {
-   "id": "00a8920e92c7",
-   "title": "Time to shut down business schools, writes Cambridge Prof. Chris Marquis in NYT; Zoho's Sridhar Vembu agrees entirely",
-   "url": "https://www.livemint.com/companies/news/time-to-shut-down-business-schools-writes-cambridge-prof-chris-marquis-in-nyt-zohos-sridhar-vembu-agrees-entirely-11793347874407.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-30T09:07:43+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Time",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Sridhar Vembu",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "58a1b39a6bc9",
-   "title": "ASCI flags 60 supplement ads over unproven health claims",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRk1ETnRMSmhLeTBYWnJxblNELUVkMXAxOGtJVllWbmw3bHNpbldGcWtBRmxMbF90aFJVLVdHeVh4VVFSSm42NndoMXhZZnpYUjVkazZBejlKWkVUeTB2U21WZU9yamhzb0FrdXprNHZWUW9DX0k0OTloU3ZwSm1RZjFEQkMtdkhh?oc=5",
-   "source": "MediaNama",
-   "published": "2026-10-30T09:07:03+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "ASCI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "a2aa24467b95",
    "title": "Underwater robotics startup Coratia raises Rs 18 crore as it builds robots for the Indian Navy",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSFl2YjJlRjVzZzM5Wm1hWEQ1R1BmQVBGYkdvWFVDWExiQUt6cG84YXl6dDBrME5lS3VGVWxRdFZQVnBUM2dyTW5nQjlHUGphSmxkMVo1SUl3a3ZPQU0xVVF2SjNKUWVWVHhxdWlwanoxazNkZ3doMVpFOUsxdVZWdXV0Qm9BSm1vTFVqRFFuUUpvSzFXWGtiZVB5RS1lUldxR2hCUXdnenFIeTBQR2t2Rnlwc0w2RGZWS19XUnlOLWdENXFCdjdGTS1FdFhWOTlCcWNHWEhUWTLSAdgBQVVfeXFMTkhZdmIyZUY1c2czOVptYVhENUdQZkFQRmJHb1hVQ1hMYkFLenBvOGF5enQwazBOZUt1RlVsUXRWUFZwVDNnck1uZ0I5R1BqYUpsZDFaNUlJd2t2T0FNMVVRdkozSlFlVlR4cXVpcGp6MWszZGd3aDFaRTlLMXVWVnV1dEJvQUptb0xVakRRblFKb0sxV1hrYmVQeUUtZVJXcUdoQlF3Z3pxSHkwUEdrdkZ5cHNMNkRmVktfV1J5Ti1nRDVxQnY3Rk0tRXRYVjk5QnFjR1hIVFky?oc=5",
@@ -6295,24 +6328,6 @@
     "Rs18 crore"
    ],
    "alerted": true
-  },
-  {
-   "id": "e40c3facfaa7",
-   "title": "India needs a digital goods marketplace and control of its distribution layer, say Indus Appstore and Eloelo",
-   "url": "https://yourstory.com/2026/10/india-needs-digital-goods-marketplace-control-distribution-layer-say-indus-appstore-eloelo",
-   "source": "YourStory",
-   "published": "2026-10-30T08:55:02+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "India",
-   "amount": "500 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "500 million"
-   ],
-   "alerted": false
   },
   {
    "id": "270e9d1716b7",

@@ -1,12 +1,99 @@
 {
- "generated_at": "2026-11-05T22:53:21.327899+00:00",
+ "generated_at": "2026-11-06T02:56:12.441153+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 13,
-  "fresh": 6,
-  "alerted": 2
+  "fetched": 11,
+  "fresh": 9,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "c2b7d701ea87",
+   "title": "Anthropic may need to cut IPO ambitions as investors balk: report",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report/articleshow/135590866.cms",
+   "source": "ET Tech",
+   "published": "2026-11-06T02:34:40+00:00",
+   "score": 27,
+   "category": "launch",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "markets story"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "cf6fc7aceb9c",
+   "title": "Why operational excellence will define the next phase of India\u2019s startup growth",
+   "url": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+   "source": "YourStory",
+   "published": "2026-11-06T02:30:00+00:00",
+   "score": 61,
+   "category": "funding",
+   "company": "Why",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "daf194761590",
+   "title": "How Satin Group\u2019s Sankalp plans to empower India\u2019s next wave of founders",
+   "url": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+   "source": "YourStory",
+   "published": "2026-11-06T02:20:00+00:00",
+   "score": 31,
+   "category": "other",
+   "company": "How Satin Group\u2019s Sankalp",
+   "amount": "",
+   "stage": "Bridge",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Bridge"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "87e0feb6463e",
+   "title": "AI-powered cyberattacks put Indian fintechs on alert; Shiprocket turns profitable in Q2 FY27",
+   "url": "https://yourstory.com/2026/11/ai-powered-cyberattacks-put-indian-fintechs-on-alert",
+   "source": "YourStory",
+   "published": "2026-11-06T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "AI-powered",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "50e7f6703a53",
+   "title": "Strengthening India\u2019s Space Sovereignty",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fTEZGZFUyR2RHVDFaYkRORF9SVzRjUnJsa2J0c0VNT09fUGdaY1JnaXZ0c2VMbXNfUmJ5ZEZFVlg4bjFvYmdwQ0JUVGU1YlVuQVJTS3kwVTJrRkYzb0JKX3FsWGx2ZWpzQmwtM1pOalpxNC05bmc?oc=5",
+   "source": "www.pib.gov.in",
+   "published": "2026-11-06T00:54:54+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Strengthening India\u2019s Space Sovereignty",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "11b73c3f3c67",
    "title": "10 Indian Women-Led Startups That Attracted Most Investor Funding in Q3 2026",
@@ -5404,23 +5491,6 @@
    "alerted": true
   },
   {
-   "id": "50e7f6703a53",
-   "title": "Strengthening India\u2019s Space Sovereignty",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fTEZGZFUyR2RHVDFaYkRORF9SVzRjUnJsa2J0c0VNT09fUGdaY1JnaXZ0c2VMbXNfUmJ5ZEZFVlg4bjFvYmdwQ0JUVGU1YlVuQVJTS3kwVTJrRkYzb0JKX3FsWGx2ZWpzQmwtM1pOalpxNC05bmc?oc=5",
-   "source": "www.pib.gov.in",
-   "published": "2026-11-01T01:28:31+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Strengthening India\u2019s Space Sovereignty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "7e86841c32bd",
    "title": "Darshak Shah \u2013 Founder, Securement Packaging | Entrepreneur 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mNFpHdV9qYkx5blhCdE1tbXU2aGttQ09jZElBV2FMaVN2Z2tvVDRyNXVBb080UWdSVGZXUjRKZG9laVZqRk90SEltRGphUE0?oc=5",
@@ -6588,41 +6658,6 @@
    "alerted": true
   },
   {
-   "id": "72bd01f7a246",
-   "title": "Maasi Bets On Structured Childcare Model To Organise India\u2019s Informal Nanny Market",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlNEV3FiR3RlUGNiRGs0ZExpUzZ3SjV0dTRCQ1RUNUxFYUNTTk5XdFR0MFV5blhhR2xTRmk2TFR3dG92QWlyUDg0a1N0eHlnMHJaelZCSmoyQ0FadE0xVnZSWkNKNTZ5bHVHWWdXdFg3SkdWOG5HT21iVlk4Z3Q2a0NJQ28zb3Rmdmp3eTllajhHUFR0YmZFMEw0UXc2dVZtVGM0VEtVaGRnaGkxdlZsOHc5OHVodlNlZTJIMWlmT3E?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-10-31T04:51:24+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Maasi Bets On Structured Childcare",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "79dafb9b1a98",
-   "title": "Funding and acquisitions in Indian startups this week [Oct 26- Oct 31]",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUlBUk5tWGVOY29yblJTbjRPME1lYWNhQ2tFaDM4YTBKSlM5ZVd6eVpQbDk2MkpLVHk5YWFSYkZfN0M3bEFrRVBneC1oLXNhRTc0akpOU204UFV6Z0Ffb09EUlktLVE2OWdhclZrZnhzZG5vVzdUOTFCUzNNU1BUYVpjaGJoZXlTMUVGelBIaUdnOThBNnBnM1B2Sl9FQVZmSl9tMDVJb21hNjFRZWNJTnFwcHQ4bjI3U3ctSlNWcGszdDRBZnpQRlJ3TkkzVnp2QVJpX2huLVlIOVZNN0QzNnpB0gHiAUFVX3lxTE05SUFSTm1YZU5jb3JuUlNuNE8wTWVhY2FDa0VoMzhhMEpKUzllV3p5WlBsOTYySktUeTlhYVJiRl83QzdsQWtFUGd4LWgtc2FFNzRqSk5TbThQVXpnQV9vT0RSWS0tUTY5Z2FyVmtmeHNkbm9XN1Q5MUJTM01TUFRhWmNoYmhleVMxRUZ6UEhpR2c5OEE2cGczUHZKX0VBVmZKX20wNUlvbWE2MVFlY0lOcXBwdDhuMjdTdy1KU1ZwazN0NEFmelBGUndOSTNWenZBUmlfaG4tWUg5Vk03RDM2ekE?oc=5",
-   "source": "Entrackr",
-   "published": "2026-10-31T04:46:43+00:00",
-   "score": 48,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "b424dca1a4ab",
    "title": "From To Cent to Matiks \u2014 Indian Startups Raised Over $132 Mn This Week",
    "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
@@ -7130,41 +7165,6 @@
    "reasons": [
     "funding in headline",
     "$250 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7ad766aa5ecb",
-   "title": "Exclusive: Smylo In Talks To Raise \u20b930 Cr To Expand Cat Food Portfolio",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXF6NHhLc0NDWGlvTmZNNk9BS1NKXzk1YWpVNy1FQ1F5Z2lpSkRwVDBBSkl3WHdfUkZmUEsxVVFtekFUMFJFYWp1MmZsTUdMLVQyRUhxUnRuTnFBaTJxYmFGQk1IZTk5aVE3QWdEN0pBV19fcnQzbEpDZGZoUTFkTkVTZkhQMDJQSnNKU25uZEtuTFdoUkdlRTZNSkZlR2JsbG8w?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-30T02:30:12+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "Smylo In Talks To Raise",
-   "amount": "\u20b930 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline",
-    "\u20b930 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "35e265e37fb0",
-   "title": "ISRO to launch GSLV-F18 carrying navigation satellite NVS-03 today",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkdXZ1lQNmRVa1VtbGR4aHJaOVNwUzNkeXE0bkxnQ0dndXhEZ2JKVFlKZHVLZnJucVQ1ZlhKSE9UaF9MWnpjZHhhSUhKT0F3RTF5UDkzV2UxMjhIMkk1Z2pSZWxKZmhhQWZXTUd2MTFreGgyWXhpSWxTU3czdmZKeWpmYnU5bjRsMnhyX3huR0RpX3N4cXZHVVVZbzdKSE40MGc?oc=5",
-   "source": "The Hawk",
-   "published": "2026-10-30T02:05:27+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "ISRO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

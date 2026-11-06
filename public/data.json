@@ -1,12 +1,69 @@
 {
- "generated_at": "2026-11-06T17:25:03.629589+00:00",
+ "generated_at": "2026-11-06T22:12:07.718515+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 26,
-  "fresh": 24,
-  "alerted": 6
+  "fetched": 10,
+  "fresh": 7,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "817ce658aee2",
+   "title": "ED Searches CoinDCX & Delta Exchange Over Alleged Illegal Cross-Border Transfers",
+   "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/",
+   "source": "Inc42",
+   "published": "2026-11-06T19:59:29+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "ED Searches CoinDCX",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ad2b67edec12",
+   "title": "Yuvraj Singh Launches PROTOCOL32, a 32-Ingredient Daily Food Supplement",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjVsaDRfQUdDVXVscHNMNThwN28yUmNZNWdoSFNJci1iNXJ0Vk84ZG8xQmpJSVloUUNjMmlHd18yUENZQ19JX2h2WW5EM3NIenU0cEpnMHB4WE85dEJmck9lcnJabUZwemlyTGdDZlM4c3d5bXNlQnBqTWtTX2I3WWhseGdNN1M3ZGw4bXFYemxMRHVmdE1yQUpvNW5UYWNpeUE?oc=5",
+   "source": "D2c Insider Pulse",
+   "published": "2026-11-06T19:51:16+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Yuvraj Singh",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4035b65487e0",
+   "title": "Deepinder Goyal's Temple gets thumbs-up from Unacademy co-founder Gaurav Munjal: \u2018True potential\u2019",
+   "url": "https://www.livemint.com/companies/news/deepinder-goyals-temple-gets-thumbs-up-from-unacademy-co-founder-gaurav-munjal-true-potential-11793987454722.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-06T18:30:30+00:00",
+   "score": 13,
+   "category": "other",
+   "company": "Deepinder Goyal's Temple",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Gaurav Munjal",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "India only in body",
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "6cdfca3061ca",
    "title": "Sectors",
@@ -7108,58 +7165,6 @@
    "founders": [],
    "reasons": [
     "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f9aad60b9ceb",
-   "title": "Kolkata Police launches probe after man in Denmark gets three traffic challans in three months",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnhrZnprS3NJY2JZUG5uMlRTLWVnS2U4MXotMlNVMk1CZGh1Rjd0bllaQ3owVm9iS2VtWDZCSTdSN3F3SFotb2xCaHI0NS1pVEM1Wjc1QnNKbWJkcWFkN1ZJZGIwVDBSTXNwR1h2Sk55OWl5NUt4MkRodHlyRElRQUtJTzYyRWlxTFRBSXl5Z3FfUjBON3lmUlVRdk85N2xBT25Bb1hRdlQ4aVBaWUpNVVNmVEJmN0FIdUZ0NkljSHVncHRsT2xLUFhjMGtULXhqSjhLVDd6UjE4Tkl4WmZUYjV3NUdnS1JVSTduQ2NWTm5lRjhlR2ctaDFhN1lZQdIBgwJBVV95cUxQWEstaE1qTWpCWE5HVlJFekFIOEV2WEtBSENZVHMzQjJQXzI4MUpMSW1oenBLR05UUEl1UzRCWnNhc1hSZmZTam41c19ZdjBVZ0VCenJQODlhSVJ0eVZqaHAzRHNkZjk3clAteGdwekNRNHZTWnZ1TXJlYVRoS0pzdEp0UFdtdnlTNEZaZGZuRmllRmFjTU9xcjR5MDNBeHVSMWhROF9JMDVsNmRZcUU0dGJYdFBwMlVJZkwzWDFIU1BRRjhRc0hqbFJnb3V6NVA3Q3ZOX3RnZUw3TUdPaWtEQVhleV9qQVNoUHA0NkR2M0lVbVBkS1NKYVE4RjVnT0UtZVJJ?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-30T18:58:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Kolkata Police",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0023a778eae7",
-   "title": "Nandini milk price hike: Why Karnataka raised rates by \u20b98 per litre from November 1, how rates compare with other states",
-   "url": "https://www.livemint.com/companies/news/nandini-milk-price-hike-why-karnataka-raised-rates-by-8-per-litre-from-november-1-how-rates-compare-with-other-states-11793381297416.html",
-   "source": "Livemint Companies",
-   "published": "2026-10-30T18:12:52+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Nandini",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "89aba2bbf61a",
-   "title": "ETtech Deals Digest: Even Healthcare, Different lead October funding to $694 million, down 51% on-year",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdTFRZ1pyVTJ1YVFfSjVpVEhvb0U4Nmg2YkJodW9iZTlWNU9pUTlfS2tYUzZ3ZElVUk1OUGRfTXJFcDdXb01KSDFqOXJTd0xNa0xMYl96X1Zsb1o1MEozRVp6WGNBd3RLdVkzbnBCRXp5XzdrWFFQZ3loT1FTckdqT1pjUzgwS3I5aEx5Yjcxd3lWNEpYblByX1NVRlYtZEticXZxdlRxM19yNnExVlBWbGdMSzdVOGItZElrQTJaXy14MmNXbzJqUmY4RDE2U3E3UENtMUNtLTRUa2FETEZXN2RjaF9wOUw0QXRSOC1KaHl1UUQ0RGdfZtIB_gFBVV95cUxOY3otZ2M1WHNQRlpsSW1WMzlsQlJVRWtGdC0wSW8zYVA0Njc5ajk3NHprMi1ONGR4UU1mODMtTHFUbkNkdVFZYzRsbm05UmFmQ25yQmNjZEIxd3pfS2owOVZ5ZnNYNk9TRkdfYkY2OVVGUVhHNTVRbmVkQmhvRGF2UFR5SXd1Rk12c29yVDBDREhFUmxlbHFoVmluSFNaTUg2UmdsTlJteHdFNEdHbEpTVlNST3BGemZTSFlZY1hsY0VrQ1hoV215SF9kWC1fWnFobkRsSE5RTTk4MFNEdFJOaVdGc2VJajZ3SndMWlRWVWptNlh4X1ZkbHMwcC1sdw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-30T17:39:26+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "ETtech Deals Digest: Even Healthcare",
-   "amount": "$694 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$694 million"
    ],
    "alerted": true
   }

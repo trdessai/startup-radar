@@ -1,12 +1,83 @@
 {
- "generated_at": "2026-11-07T19:01:19.701556+00:00",
+ "generated_at": "2026-11-07T22:39:28.549452+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 7,
+  "fetched": 6,
+  "fresh": 4,
   "alerted": 1
  },
  "items": [
+  {
+   "id": "aa8a7cd57293",
+   "title": "Gujarat Startup Funding Signals a Shift Towards Deep-Tech Growth",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWElFenQtdFFhNlJic1k2S0FRdVRzaXA3Vl9rcU1pRnpySG1pTUxuZlZUUzhVcXlwV3cxbWVHYnEwSFNmZU5hRnB6cFlMZXVVODBKbnBWT0pGWHgyTUhhUWxFUEhONG5HNFVyVXB4RGRxRy0xT3RPbDJWV0RfdkVJemR2WHZpVUJka2NHSnBXSHc?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-11-07T22:28:40+00:00",
+   "score": 65,
+   "category": "funding",
+   "company": "Gujarat Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4c564f013a1d",
+   "title": "186",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdTlQNWtHeFhXNThvS0hFWF9CZHFYUTJYbWZlTXExUTdGVmpFc1p5STBpWndLOUdYOHhJZmFKYW5pVzJ3VGFHZlNzdHg0VHp2bnlSeHhsVWZpYWc?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-07T20:07:02+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "08d0eca0d98e",
+   "title": "Six Gujarat startups secure Rs 287 crore in four months",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQnVGNXJBcEtoQXl6OWtIMVhLV1Jnbk40UkJiR25YSWhQQVJ5MEozalZ4TzVZZ0pxRjRXQ2J4bVdUX2NIS3ZpZ2t1ZnRNNy1nUWViSUNnUFNwZ1JOc3RHMWxGeWZaNUctbzNsc2dXUEV2Tm8yM2JpcEZ3ejFPQjhNamVTYW1CbVM4eUFJOUdXODFpdkVMSUZUWXRVallSb3ZEa1V0R192NVJ5X3ZLOE9MRDhKT0xGQWNLR1JtODJ2RUx2QkZtdnVsZkY4Q3RJbmxwVXfSAdIBQVVfeXFMT0J1RjVyQXBLaEF5ejlrSDFYS1dSZ25ONFJCYkduWEloUEFSeTBKM2pWeE81WWdKcUY0V0NieG1XVF9jSEt2aWdrdWZ0TTctZ1FlYklDZ1BTcGdSTnN0RzFsRnlmWjVHLW8zbHNnV1BFdk5vMjNiaXBGd3oxT0I4TWplU2FtQm1TOHlBSTlHVzgxaXZFTElGVFl0VWpZUm92RGtVdEdfdjVSeV92SzhPTEQ4Sk9MRkFjS0dSbTgydkVMdkJGbXZ1bGZGOEN0SW5scFV3?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-07T18:59:00+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Six Gujarat",
+   "amount": "Rs287 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs287 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3d3dd6901029",
+   "title": "07th November 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVV9YcDFEMWQwWUoxNnNlVjhadzdxd1g3cHJoTTZQZmRBcEFUMkdhSlprc252YXU5cm5ZVmNoMjM0VkdINlh2OWhzZzZHeGY5UHJwV0p5VUNQd2l4RmhfakkxWFN5NHRnekZWTTRMZEtWX3dmZ0hVcDI2SFVxZDhreXM3QVBzQk5mMDB4TjlfTGxJUXNjS2Nr?oc=5",
+   "source": "IndiaIPO",
+   "published": "2026-11-07T18:49:33+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
   {
    "id": "172541ad481d",
    "title": "NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on?",
@@ -7014,53 +7085,6 @@
    "amount": "",
    "stage": "",
    "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "429f0669381e",
-   "title": "Here\u2019s Why Doctors Are Betting On Docterz\u2019s Hospital Management Software",
-   "url": "https://inc42.com/buzz/heres-why-doctors-are-betting-on-docterzs-hospital-management-software/",
-   "source": "Inc42",
-   "published": "2026-10-31T21:16:47+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Here\u2019s Why Doctors Are Betting",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "13044307c746",
-   "title": "ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam",
-   "url": "https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/",
-   "source": "Inc42",
-   "published": "2026-10-31T20:22:27+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "ED Arrests Armstrong Exchange Founder",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Over Alleged Online",
-     "handle": null
-    },
-    {
-     "name": "Sagar Dash",
-     "handle": null
-    },
-    {
-     "name": "Arrests Armstrong Exchange",
-     "handle": null
-    }
-   ],
    "reasons": [
     "no clear event"
    ],

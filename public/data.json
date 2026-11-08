@@ -1,12 +1,101 @@
 {
- "generated_at": "2026-11-08T14:48:49.025560+00:00",
+ "generated_at": "2026-11-08T19:11:13.818628+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 15,
-  "fresh": 13,
-  "alerted": 6
+  "fetched": 8,
+  "fresh": 6,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "0a22c0cd4e96",
+   "title": "Traversal raises $120 million at $1 billion valuation",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzRUQUlQREsxdTNUV3BTcHAwcDJDUnBtVGFmbzROM1hiaHBjdkJYcG1VVHhtUURVZTRxYTh6QzlrQmYweFE5dEVySEZrd0N5RS1iQ255bWhYbndyQjJENTJaOHNsaFhOUVg0S0ZxeDViRW1UVWZBRGZKbzVqc2M2LWlkR2JPOE1BcmVKZTFIR2lBTTVrZFB1b0lBNTJ1QWkyOWFiNzBhSEx3QQ?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-11-08T19:04:09+00:00",
+   "score": 83,
+   "category": "funding",
+   "company": "Traversal",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$1 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e4b3f0f9182f",
+   "title": "PM Modi launches Pune Metro projects worth Rs 21,800 crore, calls for cities to become growth hubs",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkpuZHMxRW9RbjdnWUpMQzl0d0lFeWJtOXM0Vk5qZHdPOTVibjhRamszYTdjR01JTDItc2VMbTNubTZ0UzVqd2N0NVFDUG5nZlBJTEJrMGhfeFU4akhLdFZkdFpjNEJ1ejFGcHR6ZHByVEZWZlBMZFdUTDVIZUZ4TG4wcFhSaGtuMldBenEzb1pXa3pBckFBRUt4WFBfT201SGtsNC0yd3dBb1VyZUt1ZmhZblBHMm03NFYzV3FIM2pVTExFZXc?oc=5",
+   "source": "DD India",
+   "published": "2026-11-08T18:07:02+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "PM Modi",
+   "amount": "Rs21,800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs21,800 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "d50cc1aeb37f",
+   "title": "AI adoption creates new market for compliance startups",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWx3Z01tSDBLZ2NkbW1kTU5scVdibWc5VDJkcXlaNDZ0dkhLVzJpY2VYOWhCVDRxdzFabks0eDNFQTBTUF9ucXp1MWQwQjJ6aFdVT2YydF9tY1FxV2c2Y0FZRU1hbG5yV052cmFNS01XWjk1VVYxc0YzdkdJRE5pUXBhNzJubklYVUtORDBpZzhYVTRuQWNvbk1NVjRhMW5GY01SRmJhSE1NU2h2a19n0gG2AUFVX3lxTE9IYzB4TUdySG9EUUlzSzItcmZtdE1DRVJlVzBPWkY4QVhtNEFTcDZWUmFNaGJyQVpmY3lDN2RWcUJGTVpWU2YzSE5qZER2YkYtNU16S181TlViVkFucnNyOEY1QnRrT2xDQXcwNmFmRmhXSWlBVjdIeVVLMzRORGhILUF3TkQ0VTRCenBIUE1QN1RaSjRkZnVPb2pJSzVMU2pINW9mNzN1el85d2JFWHVkVXhVeFJ3?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-11-08T18:03:32+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c575a5badfbc",
+   "title": "Team8 raises $365 million to back the next generation of AI-native enterprise companies",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZY3hvVkpSdFlpRjJ1M1VBU1luaXJOR0dfTFRXaVNjNmEtczhJMlpCa0tCZ0pwWDlva3BGdGhFNWxqT1RaUjZ2YkNUUm1vQXJSajN2Zy0yQ1JMTFU1WGVhR1Jn?oc=5",
+   "source": "ynetnews",
+   "published": "2026-11-08T16:12:51+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Team8",
+   "amount": "$365 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$365 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "4662cb8d1637",
+   "title": "Thiruvananthapuram AI Hub Draws 56 Startup Applications",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0xXczg3YXdtVnNxaGQ4S2dfYzRZUDFVRGg1cTRYYU9oTXhhRjBpTHQyVXNGcmJRQlNzbDNhU3E4S1EtaVpkdlhJdW85TnBidTM3Z2YxUGtVcW82dnFINFo2ZHZ5SHRraVlLNzVOaVdnYW1OS2JnemM4LWVtYTV0M2tuUW4?oc=5",
+   "source": "urbanacres.in",
+   "published": "2026-11-08T16:00:49+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Thiruvananthapuram AI Hub Draws",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "8e2467d0bfd3",
    "title": "GTA 6 Physical Edition Cover Image Leaked Online Ahead of November 19 Launch",
@@ -6375,341 +6464,6 @@
     "no company named"
    ],
    "alerted": false
-  },
-  {
-   "id": "911ad1922c2f",
-   "title": "Crypto cards enter RBI's radar as Indians use offshore wallets for everyday payments",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNck9zRW1aaHRva0Y5Ulk1TTcwZUYxOXJWZTJuMzdGdFVoUHJuVlNNY1g3YkJYS2RiUU1VUG9CQ2JNQ0pHcFBrRXVhY0xrS1B4UUN1aTJteF9pWnlUYXlOTHdIQ3RqRmhLRjN6RVVpcnJVTTgxVzJDYzQzd2dPclBGc3FUcXRyOHNDNU15MjZGY1A0TGU0R3pkR0ZSckNzX3lmTXFQUWFFc1RhX2ZOS3Z3MEcwdWhMeHpvWnRlLXRoY2lHbUpMSy1YdW8tNGh2ajNNVk1vbXd1Q1hHRy1OTlQtUDN30gHnAUFVX3lxTE8yUTdFamk0TU9EMDQzdVZCdWthUGlOd2I2bVlfbmx4RTRGMU9UeURCdDZoSndsSXZhYTVrYldsZjNTNU1zY1lKbVB1bE5Rb1J5V1hURDY3Ukw2cmJOWmhYakhBUDRWTjNaMGNDWjdYUGdERjk1MnJTZFMyUzVTYVN5dFRINVAwaXNSR0djUl9LWDBXVmdGQ0dRa0YybEhJV2JNdEhFSUlwZDU4c1NGY2RqeER6dzlfbVktMHJVenlYaXg1enlLSDNXcVJXSzcxeEc5ZkJ0STJmMXR4SG1reFN1dS02V0pMQQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-01T19:06:31+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "Crypto",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "89233b279ad7",
-   "title": "Gulf investors eye India\u2019s AI infrastructure and space tech even as broader interest stays subdued",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZHJIa0RMemNpcmV6NTZIYlZ3UGdHZlpIVTlYaWxsRzZSRGZEMHZPN0htVHpjVGpweG1qb19hc25hT1owS2F3UTVyM3k5am45OVhLMDFqcVFVZGs5Z3RSSmNRZERjSmdpS3RNTXpORDhwbl9jS0c1TXhYVUpfdTVQaTdDOWtzUi1xRGdKODJsSmpoOFZZX0FGUTRsTmVHYWd2T3Bva2NkSEtXZWRNX05hOVdPZ0xtWVpsdC1kV2Zac0hqWUhFMlVYUFlhQ3pjbndtYVVZXy16dnItRVR1TGxvNndpSk1FMXF4bDJWUkpUcjlBS3dZQnBNX2J4d2xWVkxjeFpMandBN1FCaWduZFHSAZMCQVVfeXFMTS1Za3V2SC1FdEg2amdiUi02TGw0LVk4bFUzYnBYRDFpR185VHJjVlYwclZzR2dwVFpvS21zSV9LV2ZRWWlwYTFSam5wMHg2aVp6Y19yN25sRlBnelVIR0VlYUtoRUJqYlMtTE54dlJ6UVFERVhsejlXN3pRR2tiZnZMTTR5cTFsWThXVGdHc3pDc0RpTGRvZFpWR05YbnVtVDNaNG1yZE1lbXVEa3BiY1VzYndSck9QVHkyUXBZbzZ2ZzR1cmpWRThTY0Y5c0wzeUVvWW1JRkJ2bjhlX2dYSjNsUUFGTjRUMjNXRVd3Y1pFamlObl9kUEcxVHNfeXVoTnI3T0dKN1pGTXQtMVZrNzBfS28?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-01T18:35:01+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Gulf",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c23596dab6dc",
-   "title": "Bengaluru\u2013Mumbai Vande Bharat Sleeper Express Flagged Off; Regular Services Begin November 2",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVpuR1FlczVEb1RST3Z4QjN3VDFyWnJybnpPSzNMNDVJakU3alhBcDhmSGRJNHRtR0Q5RlFrWUp2ZGN1RTZTU3IzeXoxVDZWZnVoSW43anBmMmZqN2I3Zlc0OUp4dGFsTUdFNC1GaF9EeFBzVVVVT2R4MjFHWVFXMDl3ZXhxLVlYTDVwQ2wzMXNkR2pROGZ5MQ?oc=5",
-   "source": "www.nationpathindia.com",
-   "published": "2026-11-01T18:33:51+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bengaluru\u2013Mumbai Vande Bharat Sleeper Express",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cfcce7d7514a",
-   "title": "CapGrid Raises Rs 50 Cr From Hero Enterprise At Rs 430 Cr Value",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREExNHB3ZUh6UzBLOXR0MjJtUEVSc0NSQ29fakdiZXRHSkFpT2F2RVJiQnBrd1NRTTA2U2JydmRQVzhCTGdEbFpRTUlhemw2N0JjUVZHSlRLQUxQU1M3NVVkdUNDdjhwM19EcTVoU2FseW5xZWtEQVZnN3FfU2lKRXFrQlozOFR4RURoZ3BnVmZfTHoxbmZTOElLR3hLcmVx?oc=5",
-   "source": "Bharat Fast",
-   "published": "2026-11-01T18:04:57+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "CapGrid",
-   "amount": "Rs430 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs430 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1499d9af399b",
-   "title": "Tax-wise, $-foolish: Saving Dalal Street could come at a cost to Startup Street",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWs3SldFa2I5SWRMWC1EUmVIdS1HZDl3Ym1GUXE3cS1nV2VGc3FmdF9yd1JreEZyMjN4WW14VEJ5bWpKUzNtdjRadGV0QXVHOFNsSklkMVJnTnczRHFiRG50OEloaWU2RnJKeEd0NExXVWJYNDJVMUpvYWtIazB5Q1JsWkNFZDRNcVNkaEFkMFpvZkNubGp5TGR1dDVyUEFpaG00Mm82d3lZTVk5NWlKQ291Ymg4RUJVaGQzX0RoN09lYnZkOW5tOV9RTDBDNG95MUdZY2x0UmZjMXgtNkxUZWh0V0FXUdIB6wFBVV95cUxNbjdnbjB2YU4teHdLNVZmdFJ2dEFsZUhZTjZ3bzdxNnBwajhfb1NHX3NNRDRUWGw3OUpIVW5RVmY2UTJ6cU05VW93cmZxSEliQWVrY0huR3ZTT2tsZlRGczZjQzlnVWN2UGg3bFNHSGRiZTdwak5qLTc0dEVkcGN2dFN5VXE4cGpQOEdKa0lOOWdjNFVVQnJxWFd3Q3FDUjJpQ2w1ZmpuR3B2V29PNUFVOWdacmhaakVWU2hqS1lPOUNsN2Z0VjFBYVphSzJGM1hwV3VCclZpMi1idzc4WkJsZl9QZnZMWGp5WmEw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-01T18:03:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Tax-wise",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e84afc6ff770",
-   "title": "Two Point O Capital raises $10 million to expand clean energy financing",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNEo0OVFsMk9LTVpBalRkUzdXZ2thSGtQWVVaR2ktaDlVZm4yQS1PeFNCU19EWXJISERScXRCMk84d19IblROZXd0c3JLSndsRm5UcTllY2Nta1lDTVQ2Y3U2MXdkMmVKdUIxTVZmQWpKLXYySkM1WDlWSTE3cXJVT0dza1R2SDVOMzI4bW13QXNsZjFqOVVjeHdBS2ZiZWkzdEZjNFN6OEZ6M2JJWXNobklsZFhlaUF0ZWZrTGhuWERVRm1mamxYaUQ5ZW1IU0tUaDNBLWp0ZHQ1VjZrME82cklfVHZ5dUs4MjNHctIB8gFBVV95cUxPOHd1SXFmYWVYUVFXMXlHYUpMZzIxYU84QXNxOTlqRjdEMFlITVVxcVc1Rmd4MlJvRzUwbUo1MWxIZlhsbk5LYW93ZWppS3dlbmQ5aUdrWllNS0JON1pONGxKWmdrRnIxb2tLSEFNOXV0T2N4bG54MXM5djFpQXBUaHdmRHJ4aTdsekQzYWI4VTlTSXdxNEUwNmFxRUVKdmw1WDVBLUV1T0d5eXJDd0Fnd1JWZXpEUVViOXF1TGpaNGlTRTBhc0xpV0NaclpLUXFtV2tKRjUzV1Q5Q2xURmFXc0NDc3hGYTlsSGtTYV9rSUVsUQ?oc=5",
-   "source": "The Times of India",
-   "published": "2026-11-01T18:01:00+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Two Point O Capital",
-   "amount": "$10 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6c5b0f5a257f",
-   "title": "Broccoli AI Raises $52 Mn Across Series A And B From Khosla",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcER4MmFGZUFMYTZ5N1NNS1plMVFvRFNrUENwZnJnZDcteFBxOWJ1ckVpOTRyTWFwS2lCSG5MODJCQUt4V01HcUE2dktYU2VrODY1OFRXUTBKRk1ldUpqLXJFZFRqZ2pEdjZzYmVqa1hkTzBweU5xTnFOX1c0SldSenFXUGpkNkdQempXbmJDN3E?oc=5",
-   "source": "Bharat Fast",
-   "published": "2026-11-01T17:58:49+00:00",
-   "score": 88,
-   "category": "funding",
-   "company": "Broccoli AI",
-   "amount": "$52 Mn",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$52 Mn",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "725398df3af1",
-   "title": "PNB union seeks audit of 10,500 branches after \u20b911.24 cr fraud, multiple suspensions; warns against \u2018knee-jerk\u2019 action",
-   "url": "https://www.livemint.com/companies/news/pnb-union-seeks-audit-of-10-500-branches-after-11-24-cr-fraud-multiple-suspensions-warns-against-knee-jerk-action-11793550416012.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-01T17:54:51+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "PNB",
-   "amount": "\u20b911.24 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b911.24 cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "3507eb8fc185",
-   "title": "Vamsi Vikas Ganesula \u2013 MD, Comprotech Engineering Pvt Ltd | Leadership 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81V1ZoX2hhdDFiWXFsVHYwTG9LRWs0QnJUd1VZYkVxVFBtS25LTk00Ui1qdnVqNERURjNoZ0hTVHVFMzRFSWNzWEJQMnlRWWx0VkpGN2xkYUEyUQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T17:53:23+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Vamsi Vikas Ganesula",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "798a72bfd940",
-   "title": "ISRO chief announces success of India\u2019s navigation satellite mission",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0t1Tm1KQWJmZGJMaUozaHREUlF3bmt5c015QWhTUWROY3FZOVNTc0djcmxxWURoLU9FeHJtaUp4WE1pVGlOOVRBdzV2OXUyaWt0ajJRWXdrYXVWQm02VEdOWkw2NlFlSEwxcV8tUVBfZ2QtVFJzSFVJZk1iQUNYcExvSF82endJcHl5YXRIcC15RlFZNWF3T0RaZTdJcXZCNFE?oc=5",
-   "source": "The News Mill",
-   "published": "2026-11-01T17:32:08+00:00",
-   "score": 53,
-   "category": "product",
-   "company": "ISRO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a9527266a2f6",
-   "title": "AI Startup Valuation: What Drives the Value of Emerging AI Companies?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTY2UDRQWEt4QzV4cUNXVm14Umw5NVliTTBFcTVCX0ZTSURLTWw5LUJEakw3TXJzMW54SUttSlpQWkdvQ3k1bHFsWFFqUTk5V3doYmdSMVBld2xFQ2FHeEx3aFlxYWVZWll5alJSYVpRcE1qTThrZ1dZU3hySlkzQW04Mk9DZ0RWWi1lUnRpdHJZaXZHa1dOMnoyUTl2b0tGRkdFUG1DTE1nYzFFQzVWRElVUnN3c1RwQzdkVVhmR3NQc2daNmdzRFVfQ01Ca2fSAc8BQVVfeXFMTlE2NlA0UFhLeEM1eHFDV1ZteFJsOTVZYk0wRXE1Ql9GU0lES01sOS1CRGpMN01yczFueElLbUpaUFpHb0N5NWxxbFhRalE5OVd3aGJnUjFQZXdsRUNhR3hMd2hZcWFlWVpZeWpSUmFaUXBNak04a2dXWVN4ckpZM0FtODJPQ2dEVlotZVJ0aXRyWWl2R2tXTjJ6MlE5dm9LRkZHRVBtQ0xNZ2MxRUM1VkRJVVJzd3NUcEM3ZFVYZkdzUHNnWjZnc0RVX0NNQmtn?oc=5",
-   "source": "Analytics Insight",
-   "published": "2026-11-01T17:32:08+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Valuation: What Drives",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "564144302b97",
-   "title": "Bharath Gupta \u2013 CEO, Ozrit | Leadership 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kMTFuSW5DdUc4M3A1U0ZoQ1FmU2ZSSDh3YTBhWVVraGtoYmtVcHhhNTZ0TG5LT3pGMmhSeFdic2RRSHNqa1dGcmZLZER3aUZQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T17:06:06+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bharath Gupta",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a6cb866c0a25",
-   "title": "Anil Kumar \u2013 Founder, Shyftr System Technologies Private Limited | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IdnVjQ2lIM20ydDBrVmZkLV9uQk1hUUxtRjRfaGF6Y1hyTE9kX0V1SDc4U3dRcFZMWlJQQ0ZUVXpKSnNZSVpHYmJJbzZoQzg?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T17:02:12+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Anil Kumar",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Shyftr System Technologies",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "51cfa03d508a",
-   "title": "Anuj Jokhani \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPNG9NWjlicGtiSG90Qm9jSDJCRW1OTGx4QmVJM0l6MUEzVm5pTTN5SjZWWTlCVjRGM3lOa05lbDlKdXBiMkkyMC1hV2xqb00?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T16:58:11+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Anuj Jokhani",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b6ba19b05402",
-   "title": "Dhraval Narsinha \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMXlCVlFrajZtampodkNwT0RRVGpfWkNONl9nR2ZVVUF5NUc4ZXMxWHRRVDBXVUt2aHNfa0d1YUVaeGVpUVBOWG1xN09zVVlVeE5CWQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T16:53:58+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dhraval Narsinha",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "d0192203f2ec",
-   "title": "Dipikaa Sharma \u2013 Founder, Mobicloud | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNWVGaWZodUgzVEdEWk5DcVc1NFd4Q2cxT0JDNjVqQ3dMMDRXSkJuZWhiMVI2MlMwU00tUVg1eEsyUV9ZM0ZvcXhfNTFTWUFoVXc?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T16:48:02+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Dipikaa Sharma",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "180916b7008b",
-   "title": "Augustus D'Souza \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nWFdEbVhXWjBIcUdXc0ZqMlloSXZqMHRTSmhKQnRtR2NxRG14WllpUGl0b3JVSy1wM3FqZTlEOTZ2TWdhVDZvM2FlRmhSVTlRWTV0VQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T16:39:58+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Augustus D'Souza",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1ba162f0766d",
-   "title": "Biraj Shah \u2705 \u2013 Founder, intorque | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0Rk1LQV9wc2hOX3c2NjRqM3VJenctVmh4TndFTXRjaDZaZGhpeXpRWkhGNFl6NWJtN0N1ODRHSEJ3eF8tcTRTZUVFOXo?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-01T16:37:59+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Biraj Shah",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c7017d69ca21",
-   "title": "DivyaSree Developers, HDFC Capital partner to set up \u20b91,500 crore residential platform",
-   "url": "https://www.livemint.com/companies/news/divyasree-hdfc-capital-rs-1500-crore-residential-platform-11793500076141.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-01T15:30:34+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "DivyaSree Developers HDFC Capital",
-   "amount": "\u20b96,750 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b96,750 crore"
-   ],
-   "alerted": true
   }
  ]
 }

@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-11-07T22:39:28.549452+00:00",
+ "generated_at": "2026-11-08T01:47:21.852225+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 4,
-  "alerted": 1
+  "fetched": 2,
+  "fresh": 1,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "c99024cc01ed",
+   "title": "Qatar Offers African Startups Up to $5.5M [2026]",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUVxYUpsZXdnRENuaE1pYUtIUjFIT3JMVjZsdUFQUEZvOFRTT185OHJQWmJwOXZ6R0N1WnhYc3pDZGlvZkxCdHA5Q0FoZTZVNXZkNkx3d1A3dkJ0d1J4NGhxWkdSUUZrbl9JejU3YV9NRllqMGw5VWo0cElob0gwM2cxWEZBVDFINDBHQzN1b0ZFMDA?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-07T23:01:04+00:00",
+   "score": 32,
+   "category": "other",
+   "company": "Qatar Offers African Startups Up",
+   "amount": "$5.5 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$5.5 M"
+   ],
+   "alerted": false
+  },
   {
    "id": "aa8a7cd57293",
    "title": "Gujarat Startup Funding Signals a Shift Towards Deep-Tech Growth",
@@ -6911,184 +6929,6 @@
     "question headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "7e86841c32bd",
-   "title": "Darshak Shah \u2013 Founder, Securement Packaging | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mNFpHdV9qYkx5blhCdE1tbXU2aGttQ09jZElBV2FMaVN2Z2tvVDRyNXVBb080UWdSVGZXUjRKZG9laVZqRk90SEltRGphUE0?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:10:24+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Darshak Shah",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Securement Packaging",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "091d371c3925",
-   "title": "Dr P Hani \u2013 CEO, Edgeforce Solutions | Leadership 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wWGhNbjJnRS0wQTM5R0d1SHRjclNvZVFfLUNFSUsxalpwRmZjd1kxdWE0dTJ2d2QtM0h2NDlmeV9CZVZ3OHNWS2dHNA?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:52+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Dr P Hani",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Edgeforce Solutions",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5ed03df5618b",
-   "title": "Anurag Borisa \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4VjVKa0RUbHF2dWZrdDY5NnloQmlnOTVaVU9nMjVfM3NsMDJ2LVl2UXl6ZjA2ckJvVElScmhRSUcxTEpfQk5KVi1DM1Bxc1NP?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:41+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Anurag Borisa",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b9efcad5af7b",
-   "title": "Ekta Neeraj Verma \u2013 Founder, Silvine Game Studios Pvt Ltd | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hVVhRTlJUUDJ3dS1HLWRyQmtFS2lkcnNzTnU4ZVRnWFZGdkRTUUZJVlpzejVZem02Ym95S1hDMkNRS0hGZS0zMzZDREpoZTBPVVh3NkFR?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:35+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Ekta Neeraj Verma",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Silvine Game Studios",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "532f1df9575a",
-   "title": "Deepak Yadav \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Scm80cFplTE9aeXhFLWkwY0NyeldYZ2JyMk4xSVNreHNWU1NhNVI3bVc3alBsOXRKTEQ5Tm5fV1F2RnYxS2pfbHdfLWs0Mnl4M0E?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:35+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Deepak Yadav",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "fd418ef85b04",
-   "title": "Etisha Garg \u2013 Startup Ecosystem Profile 2026",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Vno2TlBjdXcyVWJONFdEV0Nvem9STlNiR1ZjUzk2VnN0Y21aUTlPZTJYWFNBdk9SamdaOXNpMDRXMk5YeFMzdVpmMUl2QQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:26+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Etisha Garg",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ec29d7e16902",
-   "title": "Amogh C J \u2013 Founder, Pomodore Software Solutions | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1POUdCXzdNZ0t0d3FDOWl6YXpMYkxtMkNBc0J1dlpUOS01YVhOZlVVeHhXUDRlYjVaYW1rYXRnQXNQRmtZcXFGektvWQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:25+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Amogh C J",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Pomodore Software Solutions",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0b87ad9cd98a",
-   "title": "Dheeraj Mengu \u2013 Founder, Medhyacom Technology | Leadership 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yMnUyYWE3NVhRY1dWNUc4eU10ZVFfLXVPLVczRW1XWG82dENJS1VCRXlULUMyN1lTQjMxUktXUkFzWVhCcWxaWTlzWTlVWjFV?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:25+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "Dheeraj Mengu",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Medhyacom Technology",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0766b2adf183",
-   "title": "Chirag Jain \u2013 Founder, your CFO (India) | Entrepreneur 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNQmtrS2hXSFBJSk1NaXRrd05fbnhfcWcxYy1ZaWhIWVNqOVJFNHBKek51YmNaWGthVHV3cmZFbjdhWE5WM2lYeERNTUNDYURT?oc=5",
-   "source": "Inc42",
-   "published": "2026-10-31T23:04:21+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Chirag Jain",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   }
  ]
 }

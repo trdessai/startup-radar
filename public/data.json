@@ -1,12 +1,133 @@
 {
- "generated_at": "2026-11-09T09:40:35.106853+00:00",
+ "generated_at": "2026-11-09T20:08:17.400872+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 27,
-  "fresh": 25,
-  "alerted": 10
+  "fetched": 15,
+  "fresh": 12,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "fdc77b134cd2",
+   "title": "Missing Telugu entertainment? Kavi launches global audio platform for Indian diaspora",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQm42RHItSmM5OWZxaThDQURnbVFsZUVqaWhwQmR2SFpWdGFkeTRXUENkb0NmWk1yQ01kT3A5Wk9JYTFRR2l0YVhEck0wZEoxZTNJWUJLWWhCV0QyemJ4ZFNMaXNpa2REWkpOSzJ0WmZCbk5UbjZIQ0dFS0VGNXZNMEFRTmY4aENrcjdjSzhOWUI5eHRCdm1BTHZhb1RDa3I5VzY4djJjOGZhcU9HWGxpcFJ3Y0piQ3F6dGpGb3JsTUMtWktiQkMtM0dRdEFjS3BIX1E?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-11-09T20:00:00+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Missing Telugu",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "40ed871b3dfc",
+   "title": "Director Pannaga Bharana's corporate love story brings Bengaluru\u2019s startup hustle to ZEE5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemJiZ0xoVEI0V2ttLTZxdG1pU0k1c2wtMHFQN05STmNKYkdCY3c3S1BIOFAwcHo0dk5DcGhPTWJobTBYRHVYMDk2YXRTX0ExNGNrS3I3dERoXzlKeFl5SktjUm9yWG92ak9UWFNQNWszX3hCdXlQLXNQSlFWZThGSjZWdkJCUmtDN0V2TW9JWVVBQW01N2stQTRnSU5tTXdHVGQ3RUxXRmNTVEU3MHRyLS13eXB4R21qZHZHdVVNemdiQy1jM2E1ejdxQWtkT08yNnlwTUdxMHBSZ9IB5wFBVV95cUxNa0dzaVlZYWtBOXZyZGZGbkhVdThUYWRkV3pWWERwMWVRUk92ZXBVMG9CdE82bFgtWGpsREtzLVUzYVVtYUZTcWNGVkxJVk5wYlViaWhzdzlYaF8wb09LdVFMNUwxQ0NfemJvdmhNRERrSVF3VG5ULURGSXZ2aTc5ZkNnMjR3Y2hRS0hCT3FIdEhTMnJrNEVhbWx0eE5oM3pPX3djM2J1bFdtQnlncWt6SlFId0I3bVUtQmJUbkF4SnV1VC0xN012LWgzY2NNckdKYkxDcUF0VWRhX3MxbUZXVF9UaTZMWTA?oc=5",
+   "source": "Cinema Express",
+   "published": "2026-11-09T18:38:29+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Director Pannaga Bharana's",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5e5a163dab57",
+   "title": "50 TCS Tech Days Brings AI Into Classrooms! 23,000 Students Take on Real-World Industry Challenges",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb2M0bVE1aXZaOC1oMGVpZHVTWkVnUTVldTlMbjZNSFZpbDU3dzU1cFptMzR6aHFCOHU5YWFHZUF5WmkxWG9qUTV0UzBxc2F6UWlVQUNvX2NaMktMN3M5ZXRmVnQ4cVZoUHV3RzV6ZUh3Y2NPU2ZqOTQ4TGdnZzBBOVpEaF9RWVRUaUpZRUhsbUxXZTlXN2ZtbjBHQXFoSng3ZEdDTDBMcUhHVGRsNk9vTEI0STVJaXNZS1U1bDNxalU5UHc1YzN2UFVqNA?oc=5",
+   "source": "Sahyadri Startups",
+   "published": "2026-11-09T18:24:38+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ac94bb43944b",
+   "title": "Indonesia's OJK counts 2 licensed crypto exchanges & 28 digital-asset traders as of Sept 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDMzLXJuWTNRRE04NWluZDM3cGpJUzJpb3cxSDFpX2c1aWRPVS00cnFJNkF0dlNOcFlpTHVKdjFxLWEzRll2NnVPM2hXbWpBbi1tWW5Mdk1KYmQzckhoRkFkd1Y2bEFjbGllYkNJWGFKelVmNkphS3BhNnl5ek5WMDlJUXo0OWxfTEpsRnVtUXQwUU1XSVNwc2hRV1o1Tnp4WXZ4bVhKeTlfV09Uc0NPSFluY0JLWF9zVXpNdjJoMlk?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-09T18:00:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Indonesia's OJK",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e4f542e23bd2",
+   "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGRDYnRUX2ZKM0ZjaEl3RWxmNDZ4RFpDSVlBcTMwYnQ0bXB0VFFiU2M1clMteUt4b21LeFJ5ZVBVWV8zZ0hTMkNGd0xLX2h4OEk4V1BZaGlsMFhaY3ktUnVuRWpnWmFkM3N3TTVVaHUyYTliblp0cXRGTmYzSnNCMXVtVzRJUloyUFdVUHBHTmZ1dkppSENNTklKX0tBRjFBcWRvS3lYVlZMQkwwSDliUzJvWnpZb2ZhdVRkcg?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-09T17:52:11+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Zipline Valuation Soars",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "02fccf94243d",
+   "title": "Skyroot\u2019s Raman-1 Thruster Clears Test Fire As Vikram-1 Gears Up For Second Flight",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnhPdDlaR2U0VEVpclZ0aGhseVRjYW5NeHcxQU0xNy1wXzAzbXhkb1U1QUNnTXpxRW1fc2JZdElOOTdseGItMVpzR3MxQ1NKajNNOENZeXVocTBmZFpIZnc2ZmM3ZFZGZlVzd0liWVppOVdNRjliemlhSDdSblB3QmlvazktUDdYYWlxdVZMQ29aWnlnREhCampKaHF1NW9VY0RMVnNDeTlyTWJzRTNhN1dlYm9XQndubkM4V1hRLVQ5eDg3aWtFWdIB0AFBVV95cUxNMURGQ2ZGeEhBdnBOUlVUNDJ2aTVDZTlMODZGQlQ1bjRwUEpCQkc5Y29fTUxJNXFMTThXWmY4dm9mM0JhZ0pBNnBKSVE0bUk4WVpzSHFZcE1NVEJZMUs4QUJjLTA2Rm9lQS1GQkZMTXpCc1JvcWJCWW5ta25MVGNlNXA2RDR5MU9oNk9uOEJKenFCSFJMMGdTdllyZ1AwX0JsWFFYaVBBNzNmM1ZpNXBRNEVQNjlvNW5wS2pSX1MzOTh4SFhGb213T3liejByVEdl?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-09T17:06:28+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Skyroot\u2019s Raman-1 Thruster Clears Test",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e1e2e84ebae3",
+   "title": "Sashikumar Sreedharan Quits Google Cloud for Sarvam! What India\u2019s AI Startup Is Planning Next",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlhGT242LVZXTHIwdVZPQ2pHTW1hYVRndnVXZ1R6OWlDcnNmaHZ2Nk9YV3IwZ192Y2dRSXFDaWdsQy1TMmlBYVY3cTVQUXJDZFhPQ0JRbzBhREt1LXVQSkd0MUVOcTdPQzg4ekpRNGJRWXhXclVuanNRQU5KWmJGSWVob2hBcXFCQU5YdmU0c3dfYXVmcWtLOFZkN1hVeEl0N1h2RFloWjJkYjhlbHVFVjJ5eHYxbGF3VEtwYl9BWnNaLU1DSzN3ajQtSnI?oc=5",
+   "source": "Sahyadri Startups",
+   "published": "2026-11-09T16:45:59+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Sashikumar Sreedharan Quits Google Cloud",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
   {
    "id": "91f4bcfd2839",
    "title": "Who is Ramswaroop Munde? Surat businessman wins internet over \u20b91 lakh Diwali bonus viral videos \u2014 Watch",
@@ -5795,233 +5916,6 @@
     "no clear event"
    ],
    "alerted": false
-  },
-  {
-   "id": "9d3c3d00e1b9",
-   "title": "Clinics On Cloud Bags \u20b9120 Cr To Take Its Health ATMs Global",
-   "url": "https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/",
-   "source": "Inc42",
-   "published": "2026-11-02T19:07:55+00:00",
-   "score": 90,
-   "category": "funding",
-   "company": "Clinics On Cloud",
-   "amount": "\u20b9120 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9120 Cr",
-    "Series A"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "956fe4853541",
-   "title": "'I'm the CEO': Why boss paid \u20b92.7 lakh in compensation after employee was unfairly sacked - What really happened?",
-   "url": "https://www.livemint.com/companies/im-the-ceo-why-boss-paid-2-7-lakh-in-compensation-after-employee-was-unfairly-sacked-what-really-happened-11793641279950.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-02T18:04:02+00:00",
-   "score": 12,
-   "category": "other",
-   "company": "I'm",
-   "amount": "\u20b92.7 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b92.7 lakh",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "05a5bc412303",
-   "title": "Fireside Ventures\u2019 Cofounder & Partner Vinay Singh To Step Down",
-   "url": "https://inc42.com/buzz/fireside-ventures-cofounder-partner-vinay-singh-to-step-down/",
-   "source": "Inc42",
-   "published": "2026-11-02T17:36:37+00:00",
-   "score": 17,
-   "category": "other",
-   "company": "Fireside Ventures Cofounder",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Vinay Singh",
-     "handle": null
-    },
-    {
-     "name": "Fireside Ventures\u2019",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event",
-    "people move"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7486b9f1ffa7",
-   "title": "Ex-Nykaa executive's makeup brand Hyeglo raises Rs 7 crore for R&D, new product launches",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2h1M250VzJvVnd6TzE4blZLb2pQY3NRUEpkc0JQb3UyRFBLQk1QVjZScFNaS3RLWFFxV0tOa2dPMG1vUEZybjZpN3owb0VqQUVXTjJ0WjcxdHN2MzNiS1FLVm5aSEV5TVBGeHlxTTFVSEVkMnEzaE13alQxbFgtOWdrTnhyY20zcFBXSV93d2VzVmViX0lmdXFJUVI1NGFmWGNIUkVYUmNVMTFfTDFzSnY1QUEtc25oYXhETnlKRnF1YnVxcEI4UlhSY1HSAcwBQVVfeXFMTlNodTNudFcyb1Z3ek8xOG5WS29qUGNzUVBKZHNCUG91MkRQS0JNUFY2UnBTWkt0S1hRcVdLTmtnTzBtb1BGcm42aTd6MG9FakFFV04ydFo3MXRzdjMzYktRS1ZuWkhFeU1QRnh5cU0xVUhFZDJxM2hNd2pUMWxYLTlna054cmNtM3BQV0lfd3dlc1ZlYl9JZnVxSVFSNTRhZlhjSFJFWFJjVTExX0wxc0p2NUFBLXNuaGF4RE55SkZxdWJ1cXBCOFJYUmNR?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-02T10:24:29+00:00",
-   "score": 74,
-   "category": "launch",
-   "company": "Ex-Nykaa",
-   "amount": "Rs7 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs7 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "dee35f775522",
-   "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XamdJdUFXRHpyNlZsbHVaUl8tTmZ1bkNnWG95Z1V5ZldpLWE5X29ubDI1Yllka3l6MGlXUUtjSmFKQlk4LVFYYmxqU1hUa1RWSW5xV29hNHRWWGJaNUlUT05CUF9Wdll1OEpZMXlScnFOWnItTV84OG9GVllYeUk?oc=5",
-   "source": "Indianweb2.com",
-   "published": "2026-11-02T10:20:00+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Meta Built Humanoid Prototype With",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aa100f7a7cd7",
-   "title": "LS Digital Unveils Commerce One to Simplify Multi-Channel Commerce Growth for Brands",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEFnR1NnWjdNSThXSUtIOWUtYjlhV2pXaVdsdTBIVlo0QW5aT3RxTkg4LWh4NHFYT05EcWFNQlBMUlJMUkRqUk1hNlhRQnZxUDV6WDZOX2E0d0xzQXlsX2ZyUHdaNlczeWtSV1JKVmJXUFBCWDU0SVY2X0xvd2MtaTctRTAzVzlNUDFqbjJOcEVBLTlucldzZkRaZi10emhfR3MzdzNVanNUZVQ5d2ZjNnlGSQ?oc=5",
-   "source": "MediaNews4U",
-   "published": "2026-11-02T10:15:54+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "LS Digital",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2ac66e89bd45",
-   "title": "WOI India launches venture studios, investor network, and startup support platforms at TechSparks 2026",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDdZMGx4VEtMRVJmV3dUcWUtcVBycWxhSzdDMzd4Tjl3V2FiVlpfS2Z5XzRjbTJwMWxWemNLZ3lVWHJIZGk2OGxhZ1V4dmtnaU80Y0lxSDVsbFB0TE1pWjBBbEY4eFVya1ZsZUtBM1hTdTVaTEptTFlxNnNRS1ZUcFkwUkR5a3BXU0l1SVVIQm12ekNEcm1ZaHlJdmpLTkVWLTNzZkZkbS1qQ19RX2hJcVY1V2F6S2tKRTI3ZWtR?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-11-02T10:07:30+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "WOI India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3cd7070dbe47",
-   "title": "Pixxel vs GalaxEye: Space tech spat rivalry spills into public over ownership, technology and Indian...",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVHdPUkRELTNiNVRYQ0puSS0wUkRXbVBsa3NQTXQtMS1ROFlBLUN5dzh4VV91T21UWmtFRV9DSUNtUVlSeGZUREZqSGxoOUVNOXcyd0ptZWVkb3hnYXlZWWJDaEE3dkUxWjRjdUpSeHR4TVNDYTh2bE1BLWtJZzlIYWYyemVYSUc1ZnlEejl3YjZNdVNCLTZMTjgxQVVBajhOWDgwS3FtWXVFVDVvVzVFSlZkR2RaeTF4WkVfUUE0WTZBU0lEN1lLXy1vNWlndUdhX3htUlp5T210YUNkWlNJeExMVUdwOVV0MGhhbWRUZ0I3d0ZkcVFCc3dTOUFNQdIBgwJBVV95cUxQRzVzUS1weEx6djNTZmZoQU1qeWJfb01QQXZPYVNKREdhelluX2h6Uzc4cnBQRzdaemdlbmk0elh1ODNqVUphSm5ibnA3cEM1NmdPcHd1SE00cUh4cXFpX1hidzd1RjZXdW51ZFJSYnhzNTRHb1VNc1ZZWl9YYWpoM2l0b1NjQzVDTVFUMFJTU0gxU2pNenZSa2dKUWttMmUxLXR6aFVUMlp3RWNnMnh5N3JKMGFsdGFmaWZKdjkyTjNtaG5GWVdUbmc1bk9jLXJVX2YwMzN2UmpVMG5fM2ExYUJPWmhfQkY2emlrR2lac0tRNlF1QXhZVDBvbUl1V0Q4RzNn?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-11-02T10:07:18+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Pixxel",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ebc9104586f3",
-   "title": "Matiks $10M Funding: IIT Guwahati Brain Games [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUFBZ0xxc3F1MXhxWGQ0c1duNXpIUHRzQVhBODg1ZFNLQTFDUURSY001YUZCUXJYb1ljRTQzelhuRTU1R3FsYlFtRk5oMFhTUWxQVW42b3RFY1pjX0hYblY3dVFxd1hLRWNQcDdRWVN6bEhSb2V1WVBWSlhaa284VUU3U1BHMUdiVmc?oc=5",
-   "source": "shattered.io",
-   "published": "2026-11-02T10:01:59+00:00",
-   "score": 79,
-   "category": "funding",
-   "company": "Matiks $10M",
-   "amount": "$10 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "97e7f839d2a0",
-   "title": "{Funding Alert} Dispatch Network Raises Rs 5 Cr to Scale Last-Mile Delivery Operations",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0Nxb256bWU4ci1KeXZMY3N0OVJGR21namhUUXdKV3p0NWhvdUlOX2RpdzJWNzFUOWljTlp5NGI1M2RIMnVhSC10OTg0TVNMaVd0UE1FZVp3LWFzMFFubW9WRldRV2NQdnl3VDlnWWo5QkZJUzRaREttR1FYeGFmaWh3dWxuVWtKb0FDTW82M0pTbnlIVjNrMF9hZmx0Nm1FSGxLTjNaT0tfOFBCMUZxc0Zjd2RfcjFz?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-11-02T09:56:15+00:00",
-   "score": 59,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs5 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs5 Cr",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "61d12b421242",
-   "title": "Crypto\u2019s next chapter: Regulatory sandboxes, AI co-pilots and the rise of derivatives",
-   "url": "https://yourstory.com/2026/11/cryptos-next-chapter-regulatory-sandboxes-ai-co-pilots-and-the-rise-of-derivatives",
-   "source": "YourStory",
-   "published": "2026-11-02T09:50:53+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Crypto\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a961d63a7f48",
-   "title": "Pixxel Is Indian-Owned And Controlled, Says Founder Amid Backlash Over US Foray",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREJHMlRhMWRUYWVlSGRCVm9wX2NJZzc1STZMd3VzOFFEcmptYkN1dkdsYTNZaXFYeEtrSnFiZTN1TDNNWmsyeTI1blpHd2hORkdIY0hnanZxMUkwaFh3VkVrMjh6czFEbkNVZnVhVnh6cnoyY0tEQTJ6T2RteGpjRHpfM0d4R1FuYnNvbXJrcGFuMm10WEdWTXYwZnJMa2VycUhHUA?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-02T09:50:39+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "Pixxel Is Indian-Owned And Controlled",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Amid Backlash Over",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": true
   }
  ]
 }

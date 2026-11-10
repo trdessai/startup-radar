@@ -1,12 +1,52 @@
 {
- "generated_at": "2026-11-10T18:02:48.399783+00:00",
+ "generated_at": "2026-11-10T23:09:39.405713+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 19,
-  "fresh": 17,
-  "alerted": 4
+  "fetched": 5,
+  "fresh": 2,
+  "alerted": 1
  },
  "items": [
+  {
+   "id": "6b095fc9a8e4",
+   "title": "Indian American founder launches Lampkey.ai, an AI-powered project management platform",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3hyOHgxaXptTlFUcmtNN3ZPTjAyVk03cDJVMmFNcXNOWWdFYkU2VXRHLTlXVmdWc3gyM3gzOGNDeDVEVk9KR1RwaFItdVJ3d1ktdF9hMEFneHA3YjA4Yi1EaEVrdFdLNTN0TWtrZ3ROejZVc1lrd1QxZ254YTBKQzZPWUFHSVF6OXlfYzIxTm4xSW9aRU0xdFlmcTZ1M0tqYnNTWm0yOExrLU4tTHdsbVlMd2lpWHJqOXM3NEl3d21hb1VhZC1qOGlSOVUwRUF6a193?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-11-10T22:25:38+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "American",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Indian American",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3aa8d2d50c2c",
+   "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
+   "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
+   "source": "Inc42",
+   "published": "2026-11-10T19:57:18+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "SoftBank Q2: Lenskart",
+   "amount": "$42 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$42 Mn"
+   ],
+   "alerted": false
+  },
   {
    "id": "a687470ca87e",
    "title": "NVIDIA Scandal & AI Selloff In the US: India\u2019s Neocloud Boom Faces Twin Tests",
@@ -5419,111 +5459,6 @@
     "no clear event"
    ],
    "alerted": false
-  },
-  {
-   "id": "59c91664f39b",
-   "title": "Organic India Launches a Certified Organic Range of Nuts & Seeds in India",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSy1nZVMtUE1Yd0Q5NUxxajFVQnA0cTNGSjY2d1FsWWUyQ2lWTFJLeC0zV3NPQ1BDTUx1SnJNLWZ0SVd2SFNCUXZVZ0hwaGY5VW0tbGF6YUpQVnNkTFQ5RUNBLXFRaXRLZ1kxTWVfLTBLMTJUaFRoMGpqZkdzZXJjSU9hUmd3d2VtUEpqMkVmc3hjcXpEWFh1ZVhpekk5ajdBOFp3MWJBanJ6UEtXbXhv?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-11-03T21:07:55+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Organic India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "0b0afd68a9cf",
-   "title": "DevX Q2: Profit Zooms To \u20b95.5 Cr, Revenue Surges 55% YoY",
-   "url": "https://inc42.com/buzz/devx-q2-profit-zooms-to-%e2%82%b95-5-cr-revenue-surges-55-yoy/",
-   "source": "Inc42",
-   "published": "2026-11-03T20:06:47+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "DevX Q2: Profit Zooms To",
-   "amount": "\u20b95.5 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b95.5 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "79c41700c2ec",
-   "title": "Aavishkaar launches $263M India fund for climate and fintech startups",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWEtVmw0XzJBR3Z2c2pjVExRX083aTdKRFo0dUZvSWhxLWgwXzNwU3h2aURWSjFES2Q2ZTcwWDRndmJMcUFGY2xHRTlvVEZXUm9CRUdxRXkzRnpHZlJ6MU1aaGxVSTJUUWFOWi15ZHA4c3YwT3dlcXNqUVdFVHp5RmhNa3NrZW1ycmMtRXhMR0xlMFpLZEwtS1B4NERkTU1rYWY2RA?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-03T19:47:10+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Aavishkaar",
-   "amount": "$263 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$263 M"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "31590360040e",
-   "title": "Soket Labs & ZenteiQ Launch Indigenous AI Models",
-   "url": "https://inc42.com/buzz/soket-labs-zenteiq-launch-indigenous-ai-models/",
-   "source": "Inc42",
-   "published": "2026-11-03T19:02:27+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "Soket Labs",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "09f38821c0d6",
-   "title": "Beauty brand Hyeglo raises $737K led by Sauce",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUE9ETWNpbmh0WFFnWUZfWFpPUDNPOTVDMUpfNjJzQ0xxRGdRUGt3NlpOVzMzd0h6Zk1rV1J3VHBoSHNjOHNSVWhCNm43LVNldkN2RUxDeE1VdlYwczRBZHJxZmUwRGY2aG9VdHcwUG14dlZ3aG5pYWpPSUliM1JjQXRuWG8?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-03T19:01:33+00:00",
-   "score": 66,
-   "category": "funding",
-   "company": "Beauty",
-   "amount": "$737 K",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$737 K"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "51195690640c",
-   "title": "Azim Premji Foundation Launches Social Startups Programme",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcy1MTnZuQ0FyaWZqOU1NWGdhc1IydWlzZVFRTF9sWHF5Tk5SeEpDMEFYczVzLWxvOVJUdjV5TWkxM3VFMFliQUNpNUs1QzVTT3UtVG5ISVJSa1JtOGMyM3A4RGppSkp0c1pSbGJSRy1zYlRzLXh3UlJGQ3JOczlTTXIzckVhU0pTd0RiVEszaDhRc3ZCT3hMZ0pUMUJqczhlZ1BUbUkxS2NRckxlT3FibGFSR0ZEN0xnWUpyUk85cXduSnVTUnZSeEtpSHg1anNqZnhRVtIB2gFBVV95cUxPb0RHTXNCeXp0djRNNGt5OXpaejBfU3lKcTFxV0laUnVnWFFHR1hwalRITklQYkZ5akZmZzdSRVlUd3JvZHROcFVMZ3p5M3hzT0xBSHJuLU9KeVF2Qk5mR1JPYVZxTFdSU3VUZ1VaRXVUbi1FcE1RaHFaWkZTTy01T3hPQlU5ZkJ5dmE1SzBpZ0ZacWF2QjhYdXp1d3l0SENmUy1WNEZxU0F1WWNFOW1sNkFETlV0UXVjTmtMZkRzbDdfX1BXUHNfYU5xZXBDQmRNWnVfWnUzWHpxZw?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-03T18:50:06+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Azim Premji Foundation",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
   }
  ]
 }

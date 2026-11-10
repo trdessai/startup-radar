@@ -1,12 +1,266 @@
 {
- "generated_at": "2026-11-10T10:27:25.255077+00:00",
+ "generated_at": "2026-11-10T18:02:48.399783+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 43,
-  "fresh": 34,
-  "alerted": 13
+  "fetched": 19,
+  "fresh": 17,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "a687470ca87e",
+   "title": "NVIDIA Scandal & AI Selloff In the US: India\u2019s Neocloud Boom Faces Twin Tests",
+   "url": "https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/",
+   "source": "Inc42",
+   "published": "2026-11-10T16:37:51+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "NVIDIA Scandal",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "99fcd1980c48",
+   "title": "Indian Army launches month-long cricket league with 64 teams",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzJXVFpWTmdNQWRRRnRCNGRidHY0azRCcjdpazczWEpYSDZFTktGVnI0Sy1oSGkxM3BBNEZHNVJ3RzlVUUdGY2pDM20yY3pTc2Z6ODdhV3FfOGF0eFBHbWgtSV94c2JfanlPcXdZdldqQVNPZ0tWaFg4emwzTWpNcGlTTHhCMTR6Y0xpaE1NeEpaSGdpMUtMRw?oc=5",
+   "source": "The News Mill",
+   "published": "2026-11-10T16:02:32+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Army",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c9d26eb0c72a",
+   "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+   "url": "https://economictimes.indiatimes.com/tech/funding/ai-training-startup-mercor-valued-at-20-billion-in-latest-funding-round/articleshow/135715625.cms",
+   "source": "ET Tech",
+   "published": "2026-11-10T16:00:33+00:00",
+   "score": 72,
+   "category": "funding",
+   "company": "",
+   "amount": "$20 billion",
+   "stage": "Series D",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 billion",
+    "Series D",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "7c212e458504",
+   "title": "48",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55ZEJtWXBnZnlZc205eUlGOC1jUDgzV0dtaVRUWmZXaC1Fd1l3cXVfR2FkMkVJUzJwN1pZNGJabi1hS3ZvbWhkcEJNZEsxam9xZU82WlFTSTNfanRLZUxfdjhIQUM?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-10T15:58:12+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7286f024a872",
+   "title": "Bihar Cabinet approves DA hike for employees, pensioners; launches startup and AI schemes",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkZvelBFZ0N2Zm9idVBFYTVXaW9XME0wbHZBZGpzd0R3cG5pWnh0Y0hMWmlBc25CZkZkRmRTVUt3LW5YU19iVm83WUlfWUZxQVpzLTN5dm9femE3T0ptX2twb2pCZmtMeV9pTThJU2xIeUhBVEVQMFcwTUV3T3hmaVBSRFRnOGNiU3RLVzRFci04UE12d2RpZTA2T0Q1WXNmcWxPMS1zMFVZaUJ0QS14MTBaeUxCeG43dFRIQ0x5RFJvR2NiQmFYaW42cWphaTNhd29iOVlQblZuZXPSAeABQVVfeXFMTVk3TXlKRFlqRXlmanlnY2JfblNEMS1PRXRLa0dkQmMtRHFmdFlXTkdvdkZ2ckhXSHR2MXZMOXlRWmUtdWVvdVRxUG5RZko1ZTJ2aXp5N0lnNVV6Y28xSlVicmM5SjQ1Um5TemxMZHZBalY2SkF5Q3otazhnaHFPUGZvUWN3cXZlVjNEN1RWRmZwSms1b1FIUVA5R1ZzQXEwZUxzanliWEhoaHVFOTh4TTYyeTdDWGpjUHpaRzZrWmx5cDBNazNZeE9wUURlWDRvVlNveFlXQkwyYk5UTjVQZkE?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-10T15:54:54+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Bihar Cabinet",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "31e191f8a3aa",
+   "title": "Three Workers Die After Inhaling Toxic Gases At Tata\u2019s TN iPhone Factory",
+   "url": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/",
+   "source": "Inc42",
+   "published": "2026-11-10T15:31:45+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Three Workers Die After Inhaling",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "29f6f3138f77",
+   "title": "Toxic Gas Exposure Kills Three At Tata\u2019s TN iPhone Factory",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUlqTmIwM05TanpBekIyYzFiem5sYWtXbXl0NGZ2bFlmLXM3S3NkRmVOMUJwZGloZ2hheThJdXRuR2RNWG5xNGFYdld5YjFQYVNxbjJpalhDNGhveHBnODA2RWMwOTNWU0NBcXRrdktPNzZqYnpDUzI2Y2tsSVc0QUJTV2FpQU1taUFNLWhFMW1UNHdjT1lSeHJXNA?oc=5",
+   "source": "Inc42",
+   "published": "2026-11-10T15:31:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Toxic Gas Exposure Kills Three",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c074b7f36b26",
+   "title": "Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/still-possible-chipmaker-nexperia-could-reunite-with-chinese-operations-ceo-says/articleshow/135714799.cms",
+   "source": "ET Tech",
+   "published": "2026-11-10T15:24:41+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Still",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Stefan Tilger",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "22509c0bbe25",
+   "title": "Three of nine YouthNet SISFS awardees registered outside Nagaland",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnQ5RWJiN2JsRGtPOUJpbmVhelB4UEdPV0VweFlRLTg4cWVUc1h2ZE5GY2xmLVRCa05aaWNpOUJBLUFaNTh1Q0ZacWpEYVBLWTNHdmJuT1RsX3hHcTA4X1hFOXdjMUpHUzZBZUdvellBZHBQR3ZxSy0zTnFMUV9LYWItSkdGQ1gxOUJrZURVb0NDUGxsTVVQWWkySQ?oc=5",
+   "source": "MorungExpress",
+   "published": "2026-11-10T15:17:07+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Three",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8c2cb481713b",
+   "title": "National Startup Awards 2026: DPIIT opens applications with Rs 25 lakh prize",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRWUyRVpOazBKdUxDdGZZbHBHcHJWOW5ITFppVGZXZUJGVEtEMm5lblJ3cllraVNNNHVvVmZiWTNlSzR2RlNwQm1CbnFwTE1jcW93SXVueVN1NmtRZmtncVJ4UGM0d3FDNW1Pb1pJOERESU9LNkNtbnFSMThid0hLV001UXk5WGRNcS1WSHd0MXZTMHhHYW84dGNnUm5aaWQ4Y2YyT3NnVUg2M0s5NWZJNUJvb2RFTWl1dHcxUllCV3RUVGs3RGxGWVEzd09FYWM5N3pYaTNpLVNvMVN2NFhuOEYtaXBabVNyUkx6SFJVMkPSAfABQVVfeXFMT0VlMkVaTmswSnVMQ3RmWWxwR3ByVjluSExaaVRmV2VCRlRLRDJuZW5Sd3JZa2lTTTR1b1ZmYlkzZUs0dkZTcEJtQm5xcExNY3Fvd0l1bnlTdTZrUWZrZ3FSeFBjNHdxQzVtT29aSThERElPSzZDbW5xUjE4YndIS1dNNVF5OVhkTXEtVkh3dDF2UzB4R2FvOHRjZ1JuWmlkOGNmMk9zZ1VINjNLOTVmSTVCb29kRU1pdXR3MVJZQld0VFRrN0RsRllRM3dPRWFjOTd6WGkzaS1TbzFTdjRYbjhGLWlwWm1TclJMekhSVTJD?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-11-10T14:51:50+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "National Startup Awards",
+   "amount": "Rs25 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs25 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dbb1d48f2bdd",
+   "title": "Daily Current Affairs and GK Updates (10th November, 2026) |",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUl9zWlhwMUVfRDVhVXVQQnZSWUZUbnJpZE02RS1wNXF6NU9FQ0R0SUR5ekxmcUdMa09IbHc3S1dCLXdXX0lGTnVZeEVHSDZnWVVIVUpOX2hsUVM2RzFMT3RjbTF5Yk5aVjhwdXgxOGpCM1ZuaWtRdTNlNTdaOWZraTg2ZjVQWlBValZ2Qw?oc=5",
+   "source": "Bankersadda",
+   "published": "2026-11-10T14:30:09+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Daily Current Affairs",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f612ef7e5def",
+   "title": "Amazon's Ring launches flying camera, autonomous security robot",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amazons-ring-launches-flying-camera-autonomous-security-robot/articleshow/135713226.cms",
+   "source": "ET Tech",
+   "published": "2026-11-10T14:22:39+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "Amazon's Ring",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "9d14a5a65301",
+   "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
+   "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
+   "source": "YourStory",
+   "published": "2026-11-10T14:22:06+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f1bf53753650",
+   "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713178.cms",
+   "source": "ET Tech",
+   "published": "2026-11-10T14:14:58+00:00",
+   "score": 38,
+   "category": "other",
+   "company": "TSMC",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "9fbfe3854120",
    "title": "Legrand India Launches Innovation Challenge for Sustainable Packaging",
@@ -5263,520 +5517,6 @@
    "score": 63,
    "category": "launch",
    "company": "Azim Premji Foundation",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "015a9fe453b4",
-   "title": "Apple's record India quarter has more to it than meets the eyes",
-   "url": "https://www.livemint.com/companies/cracks-on-the-wall-in-apple-s-record-india-quarter-11793691592531.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T17:14:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Apple's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b239906fd5cd",
-   "title": "AdaniConneX in talks with global banks for $1.5 billion loan: What will the funds finance?",
-   "url": "https://www.livemint.com/companies/news/adaniconnex-in-talks-with-global-banks-for-1-5-billion-loan-what-will-the-funds-finance-11793723718087.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T17:01:36+00:00",
-   "score": 41,
-   "category": "expansion",
-   "company": "AdaniConneX",
-   "amount": "$1.5 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion",
-    "$1.5 billion",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b97fa5117edc",
-   "title": "NTT DATA to nearly triple Mangaluru workforce to 2,500 by 2027; expansion to focus on AI, cloud",
-   "url": "https://www.livemint.com/companies/news/ntt-data-to-nearly-triple-mangaluru-workforce-to-2-500-by-2027-expansion-to-focus-on-ai-cloud-11793723935153.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T16:59:38+00:00",
-   "score": 43,
-   "category": "expansion",
-   "company": "NTT DATA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5c1550639e4c",
-   "title": "Royal Enfield Himalayan 750 Launched at EICMA 2026, Continental GT 750 Also Unveiled",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGdJTlI1N2dRdjBXaUVHVlFLODNqbzRkVDF3NkRfdE1TMjZGUlRfN0cycS1FMGQ1dVN5WkNXZHhxRklqNGJXMl8yYlVuMVNjX3ZVbFBCcVprUFRUQ0NZQVNBa1hzTExUTVZPTU14NVNOVHIwSzBTcmtzVXY4dldXOTBfcjZEdEhZWVRLS2otdE8teEVzMmd6M3lrZFppTFJ1eFlxMVk1Z3ptem0yWWo5ZmExa19VSFdQ?oc=5",
-   "source": "India Business Trade",
-   "published": "2026-11-03T16:38:26+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Royal Enfield Himalayan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e44e113d2225",
-   "title": "[Update] Ola Electric Allots Rights Equity Shares For \u20b91,000 Cr Fundraise",
-   "url": "https://inc42.com/buzz/ola-electrics-%e2%82%b91000-cr-rights-issue-to-open-on-october-22-issue-price-set-at-%e2%82%b927/",
-   "source": "Inc42",
-   "published": "2026-11-03T16:37:56+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "",
-   "amount": "\u20b91,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91,000 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2e594cf16d42",
-   "title": "Razorpay receives SEBI approval for IPO",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc0syYjRwaTFzVFBFOVlRQTZRc2NaT3lEbEpFVkpmbkNpLVBxWDhxMlVSaVNJcnlFeFktVUZEcVF6dlhlUVRZS3p5SzNpUzBpdzZoeEtNUXpudTFqbzc0WEs0Z0NlZVdWSm5BV3k3eWdTTkl0MDAwTDVZdVJhdk3SAX9BVV95cUxQSXNLMmI0cGkxc1RQRTlZUUE2UXNjWk95RGxKRVZKZm5DaS1QcVg4cTJVUmlTSXJ5RXhZLVVGRHFRenZYZVFUWUt6eUszaVMwaXc2aHhLTVF6bnUxam83NFhLNGdDZWVXVkpuQVd5N3lnU05JdDAwMEw1WXVSYXZN?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-03T16:20:30+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Razorpay",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0fd6d1930a98",
-   "title": "Mahesh Babu invests in Indian gaming startup Shortgun Games: What we know about the deal and its funding history",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbS1URU0wVjJmVmMtS0dWQlRvYWNrdmViSmR4SHVfcVVZRTVrQnFlM0ZmTF9rbFBjOG83bkFRQmFLUGMtT2t1TkJOWTQyQjZINnpvV04zVGJmeE04aThhcnN3T0lqbENfaHFibDdMNDh3alc1ZmdaZUxqMlRKYjNKcEpHUklGQVdYVlczTmRVX29icGZ3Ml9ldXIxZjlxSGo2QlZSSjRDX3dyUWdIZmdHc1FkRlluX2ZnZS1Bei1SYlFQbDVJa05vc1F4S1hyRmhkVVJFSmU3MWMyaDlibTNvYjFXekxzN0FIM1ltRkpSbk1MRmFJVnpaTzM5a0ZVMmd0VmFKYXhSOGfSAY4CQVVfeXFMUHdGeW93OUE3SDRESTdKUHlYSFNqai1ybkR6LTB1dndjYTBpeGNERTBhZjFVb29EWUg5blk2bTBhdjBEZl9Za2NfMW1GZVU2LVc1eWFieEU3aUtxdnM2RWJSNEVNWkpVTUgzTS1NaG9TRWpod1ZreEJZZDctczJaOG0zLTVtSFR0WmY1T3RCRjFJU18yMk1WYnRNUGhVQVZzOHFGcWlkUWpFSXRfRWtHaW9RbzR1VzlmRnlObE90UnotcmhaTEJUYXV0OU9icURDbUNmSXFTSGd1bnFBQTc5TGFUMTNZTGZzWmpKZkg2el9oTk9rd0NsUmdEZnpsU19BblhYYmFWdnozU2syc2N3?oc=5",
-   "source": "Livemint",
-   "published": "2026-11-03T16:02:07+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Mahesh Babu",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f2785e409568",
-   "title": "Travel Startup Got First 100 Customers By Sharing Posters; In 10 Months, Clocked Rs 22.5-Crore Bookings",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOamtRSkZGbUtWTDE4ekRkUHl5S2c1b0lucWhXWVdZaVFIYnk3RkQyVVQzbnFfQWhhQXZQQWN5eVVqcVdsa0QzbWgtRUJCQVJJdUdiZ211Y1NzWm1saDQ1bzdDc3dXa2NaVUpuNm9YUGlTUWR1dEllMjQ5Rm84U3V3cXRsUjZ6OTNiUTdQaHF4cWMtME1JNUNWNXhKZHJJa1loWDl6WXJVY0FFd1BhaWxfRlBKcnVJd01yLXJ3cmRzSFhKY2F2dWFzbWM1UXpQaFkxRkpTWWUyV3ZTMzlrLWxnTUtkNk5GV3ZK0gHwAUFVX3lxTE5FLTBsOW03c3p5aFVhWGVBcjZmcWpkNGFldWQwaTloblJuYVFiWk1JTVQ1dzZSZzNvcTBLcWhnQkgzdUExMG9NaUF4a2p0cEx6SXk2U1RrMmQwaUFnRXRUeTVjRnVGV1hObWhDMktKSGpjdU5WYmNsWHlJMjk4bGl5dG9sVHV4QTZjSHpTSExXWXFxX3cyR2Ixa1psVXdCZ0RfNmVxZDg5LXI2ZjVERzN1ZldIXzhFN2xHaFpFYUNvSUVheWFUUlJxLVc5X2piS183ekRxaGlPNXhMejFZbE1jU29LZTlLNnlHaXZ6VnpIWA?oc=5",
-   "source": "NDTV Profit",
-   "published": "2026-11-03T15:39:51+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Travel Startup Got First",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "abc6c8fb5990",
-   "title": "Sarvam AI's Prism model answers in 44 milliseconds instead of writing text",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnhCekFVLThmeE5DYnZmcTVHTlJFdi1lMl9MZVhJRE1SRGxEQklPdl9BZFdmWkNQWkdINk1GN0p1U0dWeVJIeDhVRDRKNE55Nk5kUDcySThoZWxmMEU5N3ZSNUxhV1pMQVZpcVNwNlNvbTdjMjVZYmcxS1RYbWx5MjNoMllzWDZwX3lEMUlwRGtIc1RyNVFxZTZhVXZZWHNQY21J?oc=5",
-   "source": "Startup Fortune",
-   "published": "2026-11-03T15:33:04+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Sarvam AI's Prism",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ccbf6bae14c7",
-   "title": "ArisInfra Q2 Profit Rises 78% YoY To \u20b922.8 Cr On The Back Of Strong Revenue Uptick",
-   "url": "https://inc42.com/buzz/arisinfra-q2-profit-rises-78-yoy-to-%e2%82%b922-8-cr-on-the-back-of-strong-revenue-uptick/",
-   "source": "Inc42",
-   "published": "2026-11-03T15:27:22+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "ArisInfra Q2 Profit Rises",
-   "amount": "\u20b922.8 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b922.8 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7d933fbb0faf",
-   "title": "Bold Security Named to the 2027 Fortune Cyber 60 List of Most Important Cybersecurity Startups",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVhIb2FWVjRDYjRLT3p1MDlXd0tPUlRwd1Q4WHRuXzJSTkJBSk80SWJ4dUloNXlzNUdiY04zVGMxWGdqSllGYmU5LUU1Z0xZTjRSYzRLWllRUTRvSzZ6cmN2bnNrZ3hBdF9qWElpS29RNVNQYTdBd0t6TlZOZU5zQUhtSlJXY3ZjVVZzeWhRTkZyeUpMTWVURUZIbWx2RDFWeVViQ0hlMkNzdldLV3FmdjFiS1NSUkFnUl9OOFlCcTdQTng4am13WVlTUTFyRFVvQUZzd3RMcG1YS2xuWHUxSTlCM3I1U2Fo?oc=5",
-   "source": "PR Newswire",
-   "published": "2026-11-03T15:20:10+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bold Security Named",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9e17187357a7",
-   "title": "IndiQube Cuts Q2 Net Loss By 80% YoY To \u20b96 Cr, Revenue Up 35%",
-   "url": "https://inc42.com/buzz/indiqube-cuts-q2-net-loss-by-80-yoy-to-%e2%82%b96-cr-revenue-up-35/",
-   "source": "Inc42",
-   "published": "2026-11-03T15:11:20+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "IndiQube Cuts Q2 Net Loss",
-   "amount": "\u20b929.9 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b929.9 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16360743c38b",
-   "title": "Multiples PE leads $100 mn round in jewellery brand Giva",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEVjNUMyQ2ZERy1rMW8xNXExY0xKX2hWa1ZYSXVXYVNySzJ3T0dnRGVESzhfQVB1MFlOdjdSWlNpOU9ybkFxXzF2TWQ0cGNmejFLQ3VZd0pnNmdjU01OYWFLdE5TSkF1LTIzTldJYXFEYnRLV2diUnpNUDJ1eXA5RTMteVdXQdIBjgFBVV95cUxNN3FVWEw0NHRYbWZrOUxjZVBxV0RYbnVQa1VfYm02cGI0WUdCX1k3ODZBODFZVkpkWkpJQS05RmJyM1A2aGRKTFpGRUdmcWdKM0RMTkZVZTdZMzM5U25ZeGh4TUE4S1h1bGxvZTQtdTdFbW9vWmNZamx4MHZGNTNzNGtzV3NtaGd3a2hsNkpR?oc=5",
-   "source": "VCCircle",
-   "published": "2026-11-03T15:11:15+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Multiples PE",
-   "amount": "$100 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cdb4074a58a2",
-   "title": "Hero MotoCorp's VIDA begins European operations, starts deliveries in 10 countries",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGpIZWl5UURVaDVlVmQ5M0NJLW9fMTdNR1oxVFBFSUtNbV8yUXE5a2VnaTZqaGE1ZXNWcEhJTGd4aVRtTWxodFY1ck5saHpUYktUNFpTQ3ZDZlhMcHNpN1d6YkNhME1EcEJxTmpVRWRYX3doeUhOUmxaTWJ6TGFWNFNwMXdJbDFTcVFJM3NrWV9YdGVUbWVwV2M0ZlRMRnFJd3FqSDQ1YUk5N0VCVkptbTNnSlNZblptNTBFeFVYYjZaa29NeEFFSkFnTHVXLUdIRm1GX3AzWnVmUdIB2gFBVV95cUxOcGpIZWl5UURVaDVlVmQ5M0NJLW9fMTdNR1oxVFBFSUtNbV8yUXE5a2VnaTZqaGE1ZXNWcEhJTGd4aVRtTWxodFY1ck5saHpUYktUNFpTQ3ZDZlhMcHNpN1d6YkNhME1EcEJxTmpVRWRYX3doeUhOUmxaTWJ6TGFWNFNwMXdJbDFTcVFJM3NrWV9YdGVUbWVwV2M0ZlRMRnFJd3FqSDQ1YUk5N0VCVkptbTNnSlNZblptNTBFeFVYYjZaa29NeEFFSkFnTHVXLUdIRm1GX3AzWnVmUQ?oc=5",
-   "source": "Business Today",
-   "published": "2026-11-03T15:08:07+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hero MotoCorp's VIDA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "aefadfc09fb2",
-   "title": "Solgram Raises Over $1 Million in Pre-Seed Round Led by DSG Consumer Partners and Saama Capital",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXZUWm1pSFRJclFvYVdDY21BYmZ3VzdwS0dJc0ZReHpwTWhPS2xkUjF6TXk5bUZBWEFCMS1NcTJleEdLeXBZZ2FoMkFIYms4OWUwTUcwUk9mZWFGTzdfZUlhd3dHRFp4eTV0S2kxelEtY2hIVUNORWFsRUlaT2NpclVibng2Y0NKb0xXZzV6Q0VSdFp3VDU5cHFFZzZaZ05EMGI2NjBMNGI1WmR2cFcyZEU5dnJFLTdUa0dlbFNpZ0dxNnhZanBxY3FjSHJVeG1G?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-03T14:52:36+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Solgram",
-   "amount": "$1 Million",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1 Million",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "7ee58799947b",
-   "title": "India overtakes UK to rank third in Hurun Gazelle Index with 51 firms",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUU16bThxbThiMEFEcDlyMW9WVUliODhLbHhnMk04NFVtTHN6WlR0ZVhiS0JVRHEtOElERlVVT25xUnNnOU1fRnptWm1aVGFfNFk0Sk1MQTlleDd0ZG9fR2dTS2I5RWEySDYzd04wbUFPa2phUTB4bDZLa21QR1ZpbjNpNy1GQ0E0TF94bW96MXJyUE1RbUZENVEyeWEzVlFDYmE2MUJSS1o0LXdFUVYxNmEzQUUwWlcxSFcyWmUwN2RxcEZyVWFXTzlYMTV4X2NhaGtZbm1PeXpzWkXSAeABQVVfeXFMTnVycU5KUFlEZnotZzNCY0NGNmZjUjJsTDlrdER5SkF1R0JMM0MyRU1od1JVQUt4aWV3WnJ3UWZjajhwODAxLWx3bDVtcDJkTmx3RUV6VHZMNVV1T21CTC1SQUNIMGk1MU9ydjlpZXcwajB3b1lPNmxrR1N6bG5SUVRLUGUyc1NsSUVpQ3lKb2FZUndBejVmc1dMOXdpR21uTTA5Vk90a0JqWUF4SXJkOHJhbXJMRkFUMHEyN2ZhNlBzcUtNcE1aSVBLcmdyTjVHejVldlV2RXhJNnR6b2dSdjk?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-03T14:47:36+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0944b459d657",
-   "title": "Astrobase, Bayer to invest Rs 700 crore in Karnataka, creating nearly 1,500 jobs",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHBqQTA5bHl5ZHNfOHlJZUhPZTFocWJHX05sMk9GNEhnRERlaW5ieDZycHIxMEJVOHk3UHVBaHdoWFdPUzZkLWplNXV5R0JwelFfQ014cHhLdF9JNDRXbHVPZ2tONVlaNFV3cUpTUnpqQUpzVzU4bXFlN3ljZWw3Yno0ZUtpYVlQNVRORW9WR1RVOWRRZFlkY1d2S1dTcTBVWUlrUUFaa0FXOTFmdGE5a2hNV2ZPZzhyX244eDktU004MjcyT3h4WUQwbXIwczZfQXJLOEZmX09GOG5ZVTZqamR0WkpJSE5mRVHSAe8BQVVfeXFMT2hGYWVpcW1UQlRUMVFKaV95WFRRQWdzb2NfSTVTXzhNcUdNdVp6UlhwTjJscllrZ2VMZHU2S25HLVZhckx3amxxWjhYWklVdjJsUy1hTm5ONGRpTlRlWU5EUjN1dWlqODVvOHZMd3BoZEgxTTJub1pCVHo1TmE0X1ZSa2JsN3lEWXhqODVhNkhWMEZveVdVTkJJemRHOGVWUThSb2Z5SjB4RExoNF85R0FCYllDMXdUNEdaVDZCV3BvT0hPUWNwNy1icXA2YndBZ0lhSGY3bFJ5YVBnODdWV0ktMVlGLUIyRmtzTVE1WWc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-03T14:42:47+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Astrobase Bayer",
-   "amount": "Rs700 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs700 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6a28dbce64a3",
-   "title": "RUPA Plans to Double Regional, Value Stores and Launch D2C Site",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEhBWVJrVTVxNVpyeVlmVE9QOGlxbjNCRU5GTExKanVpWVB2STV4N2N6T3htdzhhTUlDREpwTW84YXcwNFdHaExfcUI5WEV0QXcwT0RBb2FqTlVuSjIwRUMxMGNMMW9kendpbl9nalczR3dyTmhGeWlJcmw3bmIzVUY3Q204LWNoWmEzejhxNjFqcTIxUEQ1a3RXdjltcTZzM2NYZUhBcUU4M2l3?oc=5",
-   "source": "Multibagg AI",
-   "published": "2026-11-03T14:35:07+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "RUPA Plans",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "d4df820a5d4c",
-   "title": "CarzSpa\u2019s Paint Protection Film Travels 21 Km Into Near Space In Aerolaunch India Mission",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1LWGZKeG0taldCNHE3M295SnF0UmRNVXFrT3lMZ1dCMHlpMThVUnhXNC1SOGdnZVNZYU1KVVJ6ZjExeFpRMktWZXVoZkNKOHY3UVdmRUFWRURXZFc0ek5ma2VoXzlVNlNUOTBkdGpyVWlIYXgweGpKdTVSOUd6XzhpUW1GeE81dnRndU9kaXZfckVyX1dQZUdUdFkxM0N1MWsxWDlIYlFxUHZlanBhU2tFVXphd1F1bS1zRE9YaGljY3VXc2pF?oc=5",
-   "source": "BW Auto World",
-   "published": "2026-11-03T14:34:55+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "CarzSpa\u2019s Paint Protection Film Travels",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "91cf035d0c16",
-   "title": "Karnataka tech funding jumps 26% to $4.6 billion even as funding rounds plunge 35%",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanhqQm5iYzJZZmRLRTQxemtldXBNYWlOcVp1Y095Z2lIYjhiWHNZMEloNHlMMzVCbjhBQzhNNnNXMmtFa3VZWTJ1OEpaTGM2dFI1U25oQjl6YTh5N1NEVVRITUlfYmJjNnNMcENFOHhlQ2dNbWYzeUcwMjltYVR3RmhQdlc3elA0NzJObVNidWVmbzNNTncwTktoUThDOHdWaVBMNnZBMjZJckxtenFEel9Wem0xTEU2ZHVYdVNLRdIBvwFBVV95cUxPanhqQm5iYzJZZmRLRTQxemtldXBNYWlOcVp1Y095Z2lIYjhiWHNZMEloNHlMMzVCbjhBQzhNNnNXMmtFa3VZWTJ1OEpaTGM2dFI1U25oQjl6YTh5N1NEVVRITUlfYmJjNnNMcENFOHhlQ2dNbWYzeUcwMjltYVR3RmhQdlc3elA0NzJObVNidWVmbzNNTncwTktoUThDOHdWaVBMNnZBMjZJckxtenFEel9Wem0xTEU2ZHVYdVNLRQ?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-03T14:26:14+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Karnataka",
-   "amount": "$4.6 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4.6 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "241d06d66efe",
-   "title": "Indiqube posts Rs 472 Cr revenue in Q2 FY27; losses narrow 80%",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmtLZjhNWFpZZ3FpeEY1LXVoRDdYRmR2MExmdkZ6WTJlYVpSWXpqOHBXUUZ5MjVVY21iWTRFWTAtM1hYalg0b2Z0V2EtdmUyMkZrTWJZb1g4ZWNUWUM0UDNUcW5lRlNSVHpsczdfUHg2TE80WjRuNGU0TlFIM2VDSWJFZ1ZQRmxtSDBzOHdCR2FhcVd1NHhDN1lpMGtFSGIyaHfSAaIBQVVfeXFMTm5rS2Y4TVhaWWdxaXhGNS11aEQ3WEZkdjBMZnZGelkyZWFaUll6ajhwV1FGeTI1VWNtYlk0RVkwLTNYWGpYNG9mdFdhLXZlMjJGa01iWW9YOGVjVFlDNFAzVHFuZUZTUlR6bHM3X1B4NkxPNFo0bjRlNE5RSDNlQ0liRWdWUEZsbUgwczh3QkdhYXFXdTR4QzdZaTBrRUhiMmh3?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-03T14:24:23+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Indiqube",
-   "amount": "Rs472 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs472 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5da715b4ea05",
-   "title": "Spill Games",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZRGdiOTBhTzlqejhGZjU4ajFYZDBVN2xXNEhic3gwN2NQQVBBTV9vbUhDNi1CSmNRN3k5QjRwNGltVkhIMml0R3VHZEw3UQ?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-03T14:17:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Spill Games",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "677e4cee5856",
-   "title": "Groww founders\u2019 fund, HCLTech join Agrani\u2019s $100 mn round",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ2x5cG1pTVBtcHkwbm9FeEJkZXNmbmhUXzlEanYwMEVGMWVmdExmUHNiTlNaZk5kaXFQN1R1V1Itd2RpekhYVk5tRkVxM2RvX253YVIxUWs5LTJYMUhaaF9PcVh4NEVXMU1SSkdsWFI3RkFXNUhjb25MRHdaNHhiMHhjUTF0WWgwU1BCcmIxMV9DSVV4TFVDcDNqRThtM0FwYUdFQ3NJWDlJRWlpMGdBdWhxX1AzdW4wcFBCeklaSUloek5BSjlqaUpkbGRPY2p4X1BpOXFiVGhPYnVYUHBsb1lyVHF4eGZ3MVV4VHF5QUxIQlZZbDE1TGdRTFR4Qkl2M3F4engtQmxrQ0Z6RVZUXzF0bE54WDBCZS1OcWNmR1g?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-11-03T14:16:28+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Groww",
-   "amount": "$100 mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$100 mn"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "761c5415433e",
-   "title": "Hero MotoCorp EICMA 2026: Xpulse 450, VIDA Europe Launch",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejY4LWVOR1l4OEhwekhuYzZYd2NRb2t3LVJBMkdxNkJkakhDX0xNZnlGakFidFhSYlRhZ05RR01mNGtkSG1OX1hwSVpWcDIxM1YtOVJjU0dYWDRraElqTVJUV0NhQ2dqRjRtTlBNRjNndHpkRThJNTRMaDFLRmFDMnYxMUJXRDJwMDBWOHc1MEFWWnh2N19JXzNwTGNoYzR1T0dZdmNyQXMycW1q?oc=5",
-   "source": "Kalkine India",
-   "published": "2026-11-03T14:14:00+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Hero MotoCorp EICMA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bb2462d20a1c",
-   "title": "Air India weighs Mumbai shift for Europe, US flights as airspace curbs bite",
-   "url": "https://www.livemint.com/companies/news/air-india-weighs-mumbai-shift-for-europe-us-flights-as-airspace-curbs-bite-11793707670703.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T14:10:04+00:00",
-   "score": 40,
-   "category": "expansion",
-   "company": "Air India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e6f7548a232c",
-   "title": "Yes Bank bondholders step up pressure for restoration of \u20b98,415 crore AT1 bonds",
-   "url": "https://www.livemint.com/companies/news/yes-bank-bondholders-step-up-pressure-for-restoration-of-8-415-crore-at1-bonds-11793700909840.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T14:03:30+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Yes Bank",
-   "amount": "\u20b98,415 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b98,415 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2f8f9374a1e8",
-   "title": "Why does IndiGo want lower charges at Mumbai airport? CEO Willie Walsh weighs in on airport investments",
-   "url": "https://www.livemint.com/companies/news/why-does-indigo-want-lower-charges-at-mumbai-airport-ceo-willie-walsh-weighs-in-on-airport-investments-11793713640826.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-03T13:55:55+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Why",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Willie Walsh",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "18dcb1b5fdb2",
-   "title": "India overtakes the United States as ChatGPT's largest market, user base doubled in 10 months",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXNHNXV1YXgzOElQcndjZTktT1BJZFBEQW5qd1A0TDNUUkNXRi1yYVkxUkwxWXNJeTltLU5yRktLMUFxQWJZX3FGbDdOWl9xQUJ6MzhwblFBYWJNa0ZaTFNNeGp0ZDVHUldwdmpBWDQxcWl4Y25sWlZwaHI4U2Noa2liYlJtUFY2dF95NlVuOWVkT2Y3OGl3d3kzdGFkUFNmZE5WVlV1MVVqVlJpTGpZNFp3QnpIa1k1aHZ5ZDZzU1NZVVR4RTlDalFjRzc1b2wy0gHQAUFVX3lxTE8tc0c1dXVheDM4SVByd2NlOS1PUElkUERBbmp3UDRMM1RSQ1dGLXJhWTFSTDFZc0l5OW0tTnJGS0sxQXFBYllfcUZsN05aX3FBQnozOHBuUUFhYk1rRlpMU014anRkNUdSV3B2akFYNDFxaXhjbmxaVnBocjhTY2hraWJiUm1QVjZ0X3k2VW45ZWRPZjc4aXd3eTN0YWRQU2ZkTlZWVXUxVWpWUmlMalk0WndCekhrWTVodnlkNnNTU1lVVHhFOUNqUWNHNzVvbDI?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-03T13:53:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "India",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "750be8e405cd",
-   "title": "NITI Aayog launches science & tech scoreboard to map research, innovation ecosystem across states",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3RKNWV5VVVlU1JSTnhrX1J2UHJrak9IU2F3ak8zSmtuMC1ucHJucTBxQ3JSbUJpdFAzeHUweXFSdEM1VTZMQll4LWtyLTFSUDNycDZsejRrdFd2eThiUWRjcjVsSzVNbWw5QW5CbG1VY2EzY3lNNjRlN2czN0p2eWFjeDgya3NrX200RjZfVm1OWDRSLU5PRFRPNmVtekxfSDRjTU0ybnYyMmRMRWMzNXJPVXlORWFDNlhmT0tHUHpsNDRSNXlpaGdzRdIB0AFBVV95cUxQdTlzeG9JNTJHSWpSV2h3ZlJSOFltcklVMVRQWS1rVUdlUkpOYUdRdWoyNFZ4VENoOUNET1dRZnJtZlhaOUZEN2RHenRBSkh0Z2JXNnZfOEJyUnA0eEMtOHdveUNaUFBDWWljWHNDbDdQYjRRWmVqWnd0MFlOaG9Rb0Yyc2hDbDR6ZWh3WnEweW1oS3NVNWZycGh5eXZQSzhqSGZDYURPNTY4TG5abHlGaFQ2T2N2WmprUDh6dGVfSzFQRWtXS25FWVZ6M2tLdkY0?oc=5",
-   "source": "ThePrint",
-   "published": "2026-11-03T13:31:30+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "NITI Aayog",
    "amount": "",
    "stage": "",
    "founders": [],

@@ -1,12 +1,205 @@
 {
- "generated_at": "2026-11-12T12:43:46.917175+00:00",
+ "generated_at": "2026-11-12T20:28:22.256733+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 89,
-  "fresh": 74,
-  "alerted": 19
+  "fetched": 22,
+  "fresh": 17,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "7a3840d2fab4",
+   "title": "Yatra Slips Into The Red In Q2, Reports \u20b978 Lakh Loss",
+   "url": "https://inc42.com/buzz/yatra-slips-into-the-red-in-q2-reports-%e2%82%b978-lakh-loss/",
+   "source": "Inc42",
+   "published": "2026-11-12T20:03:57+00:00",
+   "score": 35,
+   "category": "other",
+   "company": "Yatra Slips Into The Red",
+   "amount": "\u20b978 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b978 Lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b73b5ec895e0",
+   "title": "Rigi Raises \u20b910 Crore From Google at \u20b9670 Crore Valuation",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEYtem90ZG1DWjU3S3lOOUZXXzlzenVsNjlzY2NTMFUzTUFGNGZLX05BRU56U00tUUFCaTFkZktlQUhnRFIxeG1Vc2F4Mm55NXM3LVdRQU1vRUwtXzJPT1pnTU5UMTBjMUYxSUZuZWtBQ1hVbXRCQnBLcGo2ZGhqdHRVX2tiZ3dGMFBxWmEyY1l1U1pCbWI5RC1vSXJ6TVNiN25HMnVkQ0NzWXE5VS1BM2R5ckc?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-11-12T19:37:26+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Rigi",
+   "amount": "\u20b9670 Crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b9670 Crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2e680201a3ce",
+   "title": "Olyv Raises \u20b957.62 Crore in Extended Series C Round Led by Nippon India Digital",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3h5czJNR0xWcnNuampMMTFhNFZoMWU1NnNoNFk1dGcxbFdkQ1BEVy1jbWRmSDBOMmNDVzJFb3Q3TFgtVWRjMzRKMXdUNU90QnVfVm1wZi01clJuT3VxTkN4UXlmNEJhZVhRYXYwV01EcFRObmUwN0paZWlfbXdieFgtVEdjenFTbGJDMGloLVB3RGRHdDZUbUFsVVNjZ3pabE9OOHpIeDdnRGJzVDJUMmtZZ013REpRMGRYMGJLS29Zb0RJVHZv?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-11-12T19:22:25+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Olyv",
+   "amount": "\u20b957.62 Crore",
+   "stage": "Series C",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "\u20b957.62 Crore",
+    "Series C"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2b153d499c16",
+   "title": "Skyroot to launch first private orbital mission Vikram-1, PM Modi calls it \u2018historic frontier\u2019 for India\u2019s space journey",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkFLd1F0SDh4MEt6NHNsb1RtbFN3TUdyWUx0bVI5RFJzOFNzNk91ZW1UdEtwZ2NSWExBWkdGakhxbU5qNjBOSUNpMlVNYjdhb1lwUlNhTHNuTzNFaUtzcGl1RF9QTDhVdTl2cEMyV24ydUZJUG9od0FIQzZrLXVWb2Y5aHdUVGYzamJTU1pJUExDVVNqWGNBWUFsZ0NKWTI2TkNvb1NycFUxTGxFZFktbUQ0d0lXd1R5MkVtRUhaRTg3dUhMNlVNRUZ3MWVxTm1nM211ckw5cExlZw?oc=5",
+   "source": "DD News",
+   "published": "2026-11-12T18:37:29+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Skyroot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "fd7e9638cee8",
+   "title": "GTA 6 Crosses $1 Billion in Pre-Orders Before November 19 Launch, PS5 Leads Sales",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmVJQ0VmQkdpekVqcmRwbFhTRHBDSGF1R0hyR0ZsT3g3dU1naVF3ZVV4eGI1UGtwYjRpSWFkUjdLUE05OEY0Z3lBWkZhd2lqZmhYVFhtYU9pSk4wb0NVQ0tKQlozZ0d3V3lQN2ZaOFBjeHZNVFdpXzgyQXlRUTdxdjN3RzhEbk44d3EtOGRfTQ?oc=5",
+   "source": "https://ascendants.in/",
+   "published": "2026-11-12T18:13:34+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "GTA",
+   "amount": "$1 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$1 Billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "0bfca4c16f47",
+   "title": "Nvidia next CEO: Who\u2019s Jay Puri? Harvard alumnus Indian-origin techie grad to succeed Jensen Huang? Strongest candidate",
+   "url": "https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-12T18:01:53+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Nvidia",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Who\u2019s Jay Puri",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "73f798057ce6",
+   "title": "Bodhi Tree to acquire majority stake in restaurant chain A2B for $180 Mn",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1RhTTJrakdGb1owOUgtcWNkUERNQTFRSXM4RU50bGxtQjBoajBoSjROek8yOHYxS3dQNVRsQVNPM014RDBkMU5RU2pQWWQtejFYMjJwMGFfaTI0Rjd2QUlyaGR5NThTU0tPbUlFay0xMDRreHdlZHUySndjTWxjNVYxc1FlcFpyVndhek1IZkFZSlBYdUMxWjJaX3lRLXpGYXVxSHMxUjFUVFNRVGo40gGvAUFVX3lxTFBPVGFNMmtqR0ZvWjA5SC1xY2RQRE1BMVFJczhFTnRsbG1CMGhqMGhKNE56TzI4djFLd1A1VGxBU08zTXhEMGQxTlFTalBZZC16MVgyMnAwYV9pMjRGN3ZBSXJoZHk1OFNTS09tSUVrLTEwNGt4d2VkdTJKd2NNbGM1VjFzUWVwWnJWd2F6TUhmQVlKUFh1QzFaMlpfeVEtekZhdXFIczFSMVRUU1FUajg?oc=5",
+   "source": "Entrackr",
+   "published": "2026-11-12T17:52:31+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Bodhi Tree",
+   "amount": "$180 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$180 Mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d5c6a073411f",
+   "title": "Maharashtra couple earns up to \u20b950 lakh revenue growing saffron without soil in a 400 sq ft room, here's how they did it",
+   "url": "https://www.livemint.com/companies/maharashtra-couple-earns-up-to-50-lakh-revenue-growing-saffron-without-soil-in-a-400-sq-ft-room-heres-how-they-did-it-11794500845890.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-12T17:18:06+00:00",
+   "score": 9,
+   "category": "acquisition",
+   "company": "Maharashtra",
+   "amount": "\u20b955 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "\u20b955 lakh",
+    "listicle/opinion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e9621a64697d",
+   "title": "Exclusive: Fireside Ventures Sees Another Key Exit, Days After Cofounder Vinay Singh",
+   "url": "https://inc42.com/buzz/exclusive-fireside-ventures-sees-another-key-exit-days-after-cofounder-vinay-singh/",
+   "source": "Inc42",
+   "published": "2026-11-12T17:12:16+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Fireside Ventures Sees Another Key",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Vinay Singh",
+     "handle": null
+    },
+    {
+     "name": "Days After",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "a204f01c47b7",
+   "title": "Exclusive: Why Zupee\u2019s AI Pivot Was A Smokescreen For Its Shutdown?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2lqWC05aThYcDlFVElRUnpwYS10RHFMeTBRbDVDcVNCSEdRQXFCWGdLOXY0TlU2REI3N2dnYVRId2NuSWR5OVlBZHZOVHF4OV95TUJocU5iTE5TeVY0WjJqMDk4NW5TMXhPTkw0Z3FIY0F5blNSNkZ1WV9xNm04UGNrLTA?oc=5",
+   "source": "Inc42",
+   "published": "2026-11-12T17:05:11+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "Why Zupee\u2019s AI Pivot Was",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
   {
    "id": "07365505f3cc",
    "title": "Kerala CM Satheesan unveils startup scale-up mission",
@@ -5881,477 +6074,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "075c9ac75593",
-   "title": "CEO Harsh Jain Teases A Revamped Dream11 By 2026-End",
-   "url": "https://inc42.com/buzz/ceo-harsh-jain-teases-a-revamped-dream11-by-2026-end/",
-   "source": "Inc42",
-   "published": "2026-11-05T20:12:00+00:00",
-   "score": 66,
-   "category": "launch",
-   "company": "CEO Harsh Jain Teases A",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Harsh Jain Teases",
-     "handle": null
-    },
-    {
-     "name": "Harsh Jain",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bbacc5bf2150",
-   "title": "{Funding Alert} Travel Startup Bucketlistt.com Plans Multi-City Expansion With Rs 7.6 Cr Funding",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeXo4dEVwNUhkVkNYOFhZSExTcWZIZm85WmZBYV9wbklTa3ZObHBlNlo0LWNQdnRmdXY0NDRMM0dyVXo1dlRYNkpKRHkxeUFmTFI0cWluZmVFdjVPbHg4Q3llZ0JlNVN0ODQ3dWJlb3ljTE1zZElxUDlSSzRxSl81eVdQb3BWWktfY3d5aE9BUWxnQ1dxSV82dDMtUk45eDgwWXhBM0VhYkhWaXBBaEgyaU1FZll1Y2JQR2tfWlo4bkg?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-11-05T20:00:51+00:00",
-   "score": 54,
-   "category": "funding",
-   "company": "",
-   "amount": "Rs7.6 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs7.6 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a0ead4e8caad",
-   "title": "Sachin Tendulkar Backs Hitwicket Amid Growing Competition | Outlook Respawn",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaERoQ1NZOTl5cDh5emVSMWVpMWVOZkxyOXctdDFlX0JfWDA5MjNacVh4ZS04SVhUeHlMTUJqbDE0Vi00R19UVURoRVJ2Nkx2VGd2NVlwTlM2OUNlc3U4SEJpUUdMOUhpYksyQUpUeFdMa3V1dmNwS09ldjFaaGVpNXliNG94SmlOUFRvMHZIOW5XdDVlWVZBeXBkdlVKQ2k2bGVMYURYUHo4ZVJENFHSAbsBQVVfeXFMTjJycUVjSllPSWgyX2VGOEo0WDVfRWFUcEsxVjduYTN4eHUtZVM5VVhNbEFnVVdoMWNUNUFfVUVFd3dPbHFPV2dlNm15NUc0VC1qLUdCSklwVHpGYzFXdmxqZkpTSEFDWmtJS1o4cWZVc2NZbGY1SGRqck1oNk9LcnNtX2ExQ1FyR01pa3kzalBmdnVZYkpyY0JWVmI0bTQwbE1VUjRTSFFTLWFycVVXLU9yWFFSXy12dHdSdw?oc=5",
-   "source": "Outlook Respawn",
-   "published": "2026-11-05T19:30:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Sachin Tendulkar Backs Hitwicket Amid",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b34f07898978",
-   "title": "India Pioneers Space Debris Removal; Union Minister Dr. Jitendra Singh Announces Vision of Debris-Free Space by 2030",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFZVbWdTSlJVbEVNeWlzZUY0dFpwajlWeTVJc3N3MmxOM3k0OXhCTU9IT2ZTeG5EQWwwZkZuTW1MTGpZRUdfTGJJb2VSeV9jS0ZfdjZPejA4d0NuRV9wQ3JSelBzeDFQaGhpc19tNm92QUVzVjlOdWVYcUNhSnpCLWFjQ0NrbTFJU1Bhb05PMXFNeUg5WW1VbFV3MWhqNmhsVVJPYUJOYzZJUFJmYU5zeEFqSHNwd2ROd2NXaHRqRkNHRnNLY2tOcWM2R2J5VTBzOFp0TUxqWmI4WEk?oc=5",
-   "source": "Kashmir Despatch",
-   "published": "2026-11-05T17:40:21+00:00",
-   "score": 58,
-   "category": "product",
-   "company": "India Pioneers Space Debris Removal;",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5bcae410f325",
-   "title": "Jio launches voice-only plans from \u20b9147: How do prices compare with Airtel and Vi?",
-   "url": "https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-05T17:32:20+00:00",
-   "score": 56,
-   "category": "launch",
-   "company": "Jio",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "question headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "fa12db99efb0",
-   "title": "This Is Not About Money: Deepinder Goyal Defends Temple Amid Credibility Row",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVhxTUdZT2Y2NTBzbXhqa09wVnRhVVhfdlpTRnNhZS1JclRacGl2Ty10TDc4M3JaYnRFOVpkcE91M1BBWHRHV2kxdHY1VTk2eXhoMEFKeDU1Vm4xMFBFcDV1M2RfU3RzdVlpblpPQjQ1SXNEVGZpb09xTklPb2NqNm5PUW5WY3RmVmd0Y0JabUlyQjJRUkdPdmFmV0xiekJL?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-05T16:44:34+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Is Not About Money: Deepinder",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "45da92ca762d",
-   "title": "Hyderabad gets India\u2019s first private space servicing facility",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGw2clhvSHUyUmNrWVkweUliNkpYT19MNUpfZ1p3bEZNV0pDUWhVVUJWUzBiLXRkRTNiaDZocEM3Tm85UWUxOEVtMksyODlfX0JFMnhrUzYtRFNVcFNHVjdCTjB5SnNBbU5jX3ZXZnJuUFhLOE4wSkxPaGpwVzdzZHJyTDlVZ2t5cTVFT2NHU2lfcXVKTXfSAZsBQVVfeXFMT3pUQnMyR3paTDd3VzlRamhLaFl3NW5ITFZmZ1J2YnptdFJUZDRPeXBFcjlUXzh2OXI2Wm9ZdUkwYzFBbFVhQzNtTkUzTGZ1UGNCUlpHSkUtVWZoMkg2ZlFHckdVV1hkVXBTcjhRTG9rSlUzYW9NWndnX1lWM2huZjNlaWtfZU11T2hHenFpXzAyUkhCX1ZYQ1A5T00?oc=5",
-   "source": "The Siasat Daily",
-   "published": "2026-11-05T16:07:19+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hyderabad",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5aa24100c930",
-   "title": "PhysicsWallah Q2 net profit more than doubles to nearly \u20b9144 crore as revenue rises 18%",
-   "url": "https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-05T16:05:54+00:00",
-   "score": 32,
-   "category": "other",
-   "company": "PhysicsWallah Q2",
-   "amount": "\u20b9144 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9144 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "28324c9376a7",
-   "title": "Berger Paints misses Q2 profit estimates as raw material inflation squeezes margins",
-   "url": "https://www.livemint.com/companies/company-results/berger-paints-misses-q2-profit-estimates-raw-material-inflation-squeezes-margins-11793884875033.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-05T16:04:18+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "Berger Paints",
-   "amount": "\u20b9216.88 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "\u20b9216.88 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7e81b94c13f0",
-   "title": "[Update] Exclusive: RapidClaims In Talks To Raise $30 Mn",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUc4Zi1BbG1EZHJpbG5RQlRFZ3FXTUJiN2FjbkRRb0EtZWpaZTFHRmpIajFHbjlFaDFNT0tDWHh5cXFHSVdNcm02dEF3MjJXbERlV2tuVG9XQVNlOVgxU3ZJaXZvZXMzRGgtU1Q0YzQ4M1FCZ0E3LUNQb2N2aFNyRXdkLWdhRE5xbzZ6anFCYjhIc3h1?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-05T16:03:26+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "",
-   "amount": "$30 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$30 Mn",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9070fc3f2b4e",
-   "title": "Go Digit Q2 Profit Falls 31% To \u20b9142 Cr",
-   "url": "https://inc42.com/buzz/go-digit-q2-profit-falls-31-to-%e2%82%b9142-cr/",
-   "source": "Inc42",
-   "published": "2026-11-05T16:01:33+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "Go Digit Q2 Profit Falls",
-   "amount": "\u20b9142 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9142 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f76f65d11ab2",
-   "title": "Apoorv Shankar launches Bengaluru-based Aina AI ring $399 preorders",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2VKU05kN2wzcm5RRDNjOGpOWjBVZFI1MG1MTFUyUTBuLUxyNkRXVjZnaFdsQXZHV3JMZUsxR0VvWVhZRVllWTE4ODdFMzJEUmpDVjRrSC1fUExsMEZVdFA3U0dBVGRvanBoQk9hemJaRGd6VTNnMDUxRlVtMlU5YURKNmUyQmc5Q1ZBb3JQTE9ZemQ3ak9Ka3ljaGNQUm1SMGFHcnFnWEJMMU03eDAtdEtnZFA?oc=5",
-   "source": "NewsBytes",
-   "published": "2026-11-05T15:58:03+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Apoorv Shankar",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "613941e57244",
-   "title": "ServiceNow and LTM Expand AI Partnership to Support Over 700 Shared Enterprise Clients",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUcwdndkQzVldk1qRm03eHQ0TDRRa05sRWU3TFpHZ0RmVjhZMWp3dFJmeHF0UG1Zc3B2aTNKQmsxbG5DbTlrVVh1a0J0UFhDX3M1WDZfSGhQaTQ5UmRXd2RFdEtZa0VNa1hfNGU3Q3l3RzNMYUJsZ1Z6RVRMSFhMcXpiT09SdjBOMXV1VXJmV2x2QnlFMFFPOE9PZTByRXR2Q25GVEJiemYzcW9adVpMUmU2SWF1VTF2aEZ2S2lxTEp1Q3RXblE?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-05T15:51:09+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "ServiceNow",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a284a33e10f6",
-   "title": "Adobe launches new programme offering startups free AI and SEO tools for 12 months",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFZDYko4X0Y1dTB3QXFjTzVNZjVTSzhsM2xwdVhFRkRhVHRDRG54blk1Q2FsaS1oYVpUQTNKTmNsTzRHSmxLNFFjYjczdEp3ZmhUNUh0UzhOWWRRRV85emVrV1AxTE91eUdBTWRDWGRzMlJ2RFZzUHRLc0JqeDMzVXNhWW5vRmY4bHE2cHQzMWJqWE5NZ3NzeDRYUW41NjIzSXdDMHNYaGFLb3Y4SWJTaHBnTlA2R3VPaUZSQVY3THU0eTVW0gHEAUFVX3lxTE90VkNiSjhfRjV1MHdBcWNPNU1mNVNLOGwzbHB1WEVGRGFUdENEbnhuWTVDYWxpLWhhWlRBM0pOY2xPNEdKbEs0UWNiNzN0SndmaFQ1SHRTOE5ZZFFFXzl6ZWtXUDFMT3V5R0FNZENYZHMyUnZEVnNQdEtzQmp4MzNVc2FZbm9GZjhscTZwdDMxYmpYTk1nc3N4NFhRbjU2MjNJd0Mwc1hoYUtvdjhJYlNocGdOUDZHdU9pRlJBVjdMdTR5NVY?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-05T15:13:20+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Adobe",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2b1709aeec11",
-   "title": "Ex-Ultrahuman executive launches AI ring startup Aina for agentic interactions",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUnJPdktfSFhaOHlFeDRuYTN5UU1aR2wya1k4LWlZeDg0U0ktbVFmbFhDa05PWGtnRFZVUFdZZFRULXlMTnBVNXJZOEJCbUp1LXMzMTZnR3lkSThibWg3NkpnbTNzVFNNblRsS2ZNQ2JpT1NoNFU4SFd1Mm11d0JVVDlZYnJjelFPN1RDRGlCUzFUY1JtVHJhQkhsMXVzcTlBNGJlU3BRMjg3UVZrQlY5YW1SNFRSMnpwaXJXcE40M21Ga1dqekNpMTZZVjJfRDh3Y0R5elFqQjF3ZHpVT3ZJ0gHkAUFVX3lxTE1XeHNaRnRKczI4REcybTEwSmZ1Z2xvRGQ5amZ0YjI3X1AwaTVvbG9pVExNdTJ5UVZNc3hIRGpuTXAtMm9DU0RtdjlwSjFVUDVwdVNoM1Y3VW5DMjl1TVVGcElEaG1VU01pOHZOcUxTaTNMOS0xd1JsdkhuNFdkR1FOMGJjQ0F3MHlpdmdEZ2doT28tM3VyZW5QTWVEY1BlWllGZkd5MGRkam8wZzlrVTBNdTJIVEtIMVRReEwtS2d3R0dxLVc4Z1NGdkhMS0sxWVc3TkNxTERra0dVTXlzR1dVbUJPdA?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-05T15:07:48+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Ex-Ultrahuman",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e3e7cf3b7aa2",
-   "title": "India rebased its GDP. It still can\u2019t see the Rs 34.5 lakh crore women do free",
-   "url": "https://yourstory.com/2026/11/india-gdp-unpaid-care-work-women-workforce",
-   "source": "YourStory",
-   "published": "2026-11-05T15:06:44+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "India",
-   "amount": "Rs34.5 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs34.5 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "f5975c631665",
-   "title": "Spacetech startup Cosmoserve Space raises $6 Mn in seed round",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZncyUmtTTmpmSFVWUWpnWU5kRXdnWGxGQTZRd2VteDZGVVJ3SGJLS29hMDRuM05GQUhOWEhCYWctaGFyTDhzTjF1aVh6QTlMczFUNnQxWVJGa0N2dXB2Vk11YURQbGlPQTEwMHQ0ZHZVMkowWHhKWXJmZjFFcGhuaXRNdEVlejZHay1tOHZ0ZGM1V0syVTFROFBuVXdlYTlr0gGgAUFVX3lxTE5mdzJSa1NOamZIVVZRamdZTmRFd2dYbEZBNlF3ZW14NkZVUndIYktLb2EwNG4zTkZBSE5YSEJhZy1oYXJMOHNOMXVpWHpBOUxzMVQ2dDFZUkZrQ3Z1cHZWTXVhRFBsaU9BMTAwdDRkdlUySjBYeEpZcmZmMUVwaG5pdE10RWV6NkdrLW04dnRkYzVXSzJVMVE4UG5Vd2VhOWs?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-05T15:06:42+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "Cosmoserve Space",
-   "amount": "$6 Mn",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$6 Mn",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "3bc61c0ce969",
-   "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
-   "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
-   "source": "Inc42",
-   "published": "2026-11-05T14:46:07+00:00",
-   "score": 88,
-   "category": "funding",
-   "company": "Venomics AI",
-   "amount": "\u20b925.5 Cr",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b925.5 Cr",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "af7f84356eac",
-   "title": "altM Raises $10.3 Million to Turn Agricultural Residue Into Specialty Chemicals",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFY0aDMycTZYREhFQWdRSDFrWVp0eGV3RWgtbU16cDR1UTJJLXVJQUhLLVRKNktTLXF6VWw2NmctSUxRWHlJM1hjS0xMeVEwcVhGMThnck50OHhNQmpzdXVITU9iMDFjcjJHLWYtOXpDYlVrVzE3WlBnV0NSUjk0ZkpFTmtSa1djam9RZ1VTS3NrUk50Q1Fla1B6NzlJWWRnZUF2MU1jVlQxYUNtUEpwR2hIZ2diUjUzSWNyYVBZbGdPVW8?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-05T14:45:56+00:00",
-   "score": 62,
-   "category": "funding",
-   "company": "",
-   "amount": "$10.3 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10.3 Million",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1dc83490bff2",
-   "title": "Hyderabad Startup Cosmoserve Space Opens Space-Debris Testing Facility as India Pursues Safer Orbits",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXFIZHdndmFkZ0Q3T3MtNWNhUlBqOW9OYjJLVm04aDIyay1aejAwb0RSQVVOdS1QZVp3RW9lMl96bHdSTi1JVnVLdC0xV3ZURVhQUk9XdWMtbG5zaFptWnR5dFBLWmRRaFJDMTFhdTlJMWtXSWxLUTE1UFZOeHlYU1pSWDBFTnpkYWRlSWdTdHFTdVJYbTRKQU82LVBUNklwWFIyZ2h6c2g0UGJIaWNpSGZNWmQ3UWhNWHBpQ0pSeGpRNDlHbXFz?oc=5",
-   "source": "The Policy Edge",
-   "published": "2026-11-05T14:23:49+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Hyderabad Startup Cosmoserve Space Opens",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b3d83dd2898f",
-   "title": "Blinkit\u2019s free ambulance service: Why non-emergency rides cost \u20b92,500, Deepinder Goyal explains",
-   "url": "https://www.livemint.com/companies/people/blinkits-free-ambulance-service-why-non-emergency-rides-cost-2-500-deepinder-goyal-explains-11793886059855.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-05T14:16:19+00:00",
-   "score": 55,
-   "category": "launch",
-   "company": "Blinkit\u2019s",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "97038c5940ea",
-   "title": "SaaS Company RateGain\u2019s Q2 Profit Rises 47% YoY To \u20b975 Cr",
-   "url": "https://inc42.com/buzz/saas-company-rategains-q2-profit-rises-47-yoy-to-%e2%82%b975-cr/",
-   "source": "Inc42",
-   "published": "2026-11-05T14:14:09+00:00",
-   "score": 38,
-   "category": "other",
-   "company": "RateGain\u2019s Q2 Profit Rises",
-   "amount": "\u20b975 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b975 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "caf30224a6ba",
-   "title": "IFF & SFLC moves Delhi HC over disputed Delhi Police takedown notices",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRGU2R2aWxjeWFCSmo0dHlOLVlFUE1XRWRvVVA1NWRQQVkycG1BWjMxbFBmeWNXUXd0OG91N1FxNl9haXlIZWFyb1ZHelJPU2pVSVVDTFFyMlRzVmpESjlmNDNOd2h3enZnUjE2aFBIZmdWdXBhN0hnOVVKNEhMUHdEOGtrQmFwaGRRQlJIcw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-05T14:10:20+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "IFF",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6cfb6504053e",
-   "title": "- MediaNama",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mamthajhTUWd3NGkwZldhbks3a0xjaTNMMlhUem15ckpmZ3BRaWRiUk1ySVdqNkxMWUxIbkhPVDJ1R0NtV0tRQlgxQXREa0FvNjRUOTR1cmVGekVfQTlBVkd5bmVkaTR3bVE?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-05T14:05:55+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "5b17725ef79e",
-   "title": "Spacetech startup Cosmoserve raises $6M in seed round",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW1BZWMxYWUtUnd0VlRfV2hYemlrYXk2WWZHdENWQTg3eWlERVNZMUVURG9kMjJGalNubFdnZjMwN3lOclNnSndsNnB0UkdpTHVPRGNMSEc3RWw2LUVBRm9hU1BFaDI4azNGQ2JUNlJmbjZ5XzV4S08xZ3ZhcWdsTkg5enlZX2JCcldKaEVnRS1PZWc?oc=5",
-   "source": "YourStory.com",
-   "published": "2026-11-05T13:47:52+00:00",
-   "score": 86,
-   "category": "funding",
-   "company": "Cosmoserve",
-   "amount": "$6 M",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$6 M",
-    "Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "51f9bd504839",
-   "title": "Amagi, Shiprocket post profits; US polls\u2019 impact on IT",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/amagi-shiprocket-post-profits-us-polls-impact-on-it/articleshow/135575132.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T13:47:42+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Amagi Shiprocket",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   }
  ]
 }

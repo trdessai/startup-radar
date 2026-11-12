@@ -1,12 +1,182 @@
 {
- "generated_at": "2026-11-11T23:39:49.385323+00:00",
+ "generated_at": "2026-11-12T04:10:42.394426+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 1,
-  "fresh": 0,
-  "alerted": 0
+  "fetched": 20,
+  "fresh": 15,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "5f1adf935865",
+   "title": "Nvidia working with outside firm to identify CEO candidates",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms",
+   "source": "ET Tech",
+   "published": "2026-11-12T03:34:36+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Nvidia",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f6acc58b24da",
+   "title": "Nvidia CEO scandal wipes out $600 million in paper gains for India staff",
+   "url": "https://www.livemint.com/companies/nvidia-india-employee-stock-options-restricted-stock-units-rsus-jensen-huang-11794408485394.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-12T03:31:02+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Nvidia CEO",
+   "amount": "$600 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$600 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c700c79de0cf",
+   "title": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment/articleshow/135753152.cms",
+   "source": "ET Tech",
+   "published": "2026-11-12T02:57:10+00:00",
+   "score": 65,
+   "category": "product",
+   "company": "South Korea's Lee",
+   "amount": "$30 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product",
+    "$30 billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "72ade767b5d7",
+   "title": "House Republicans push for Nvidia's Jensen Huang to testify, float subpoena over spy allegations",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/house-republicans-push-for-nvidias-jensen-huang-to-testify-float-subpoena-over-spy-allegations/articleshow/135753113.cms",
+   "source": "ET Tech",
+   "published": "2026-11-12T02:55:35+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "House Republicans",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d46521d7bce9",
+   "title": "Grab is putting $750 million behind Malaysia\u2019s AI ambitions",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wc0pLbXB2amhKY1V1bHBFM1p1anlRRVZxcXhTSDFVMmlYaWQ1bkJjcVhmalNzNC0ydlZRU0RZLTJxMXNPZnZJNDZtWjlFT2xPM2Z4SDd3UGpRRDRWajNNdDROUjdFdVNwMngyU3pFUk5PY3d2TEE?oc=5",
+   "source": "Asia Tech Review",
+   "published": "2026-11-12T02:30:37+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Grab",
+   "amount": "$750 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$750 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "56d9f7ae63fb",
+   "title": "GoKwik\u2019s ESOP Twist, New CEO At Unacademy & More",
+   "url": "https://inc42.com/buzz/gokwiks-esop-twist-new-ceo-at-unacademy-more/",
+   "source": "Inc42",
+   "published": "2026-11-12T02:30:11+00:00",
+   "score": 56,
+   "category": "product",
+   "company": "GoKwik\u2019s ESOP Twist New CEO",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "At Unacademy",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "product"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c8cfdfbb1fce",
+   "title": "Kunal Shah\u2019s big plans for WhatsApp; Gaurav Munjal steps down as Unacademy CEO",
+   "url": "https://yourstory.com/2026/11/kunal-shah-plans-for-whatsapp-gaurav-munjal-steps-down-unacademy-ceo",
+   "source": "YourStory",
+   "published": "2026-11-12T02:00:00+00:00",
+   "score": 10,
+   "category": "other",
+   "company": "Kunal Shah\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bdbb32e10999",
+   "title": "Indian companies ramp up overseas dealmaking amid growth push: JPMorgan",
+   "url": "https://www.livemint.com/companies/news/indian-companies-ramp-up-overseas-dealmaking-amid-growth-push-jpmorgan-investment-deals-acquisitions-11794388870843.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-12T00:30:32+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e41d00bc734c",
+   "title": "Exide, Amara Raja rush to monetize $1 billion Li-ion cell lines as investor questions mount",
+   "url": "https://www.livemint.com/companies/news/exide-industries-amara-raja-lithium-ion-cells-11794400315622.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-12T00:30:12+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "Exide Amara Raja",
+   "amount": "$1 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$1 billion"
+   ],
+   "alerted": false
+  },
   {
    "id": "a784da8edc94",
    "title": "Guava secures $12.5 million seed funding to scale its AI voice agent platform",
@@ -5707,221 +5877,6 @@
     "no clear event"
    ],
    "alerted": false
-  },
-  {
-   "id": "1a37dd747137",
-   "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
-   "url": "https://economictimes.indiatimes.com/tech/technology/qualcomms-smartphone-chip-sales-miss-estimates-shares-fall/articleshow/135556562.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T02:43:57+00:00",
-   "score": 59,
-   "category": "funding",
-   "company": "Qualcomm's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "a8393b510670",
-   "title": "PhysicsWallah\u2019s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
-   "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-   "source": "Inc42",
-   "published": "2026-11-05T02:30:11+00:00",
-   "score": 89,
-   "category": "funding",
-   "company": "PhysicsWallah\u2019s Q2 Profit Surge Elo",
-   "amount": "$80 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$80 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5b9548d208fd",
-   "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Greg Brockman says",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-greg-brockman-says/articleshow/135556244.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T02:30:06+00:00",
-   "score": 25,
-   "category": "other",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9d97a76f08fd",
-   "title": "OpenAI to acquire developer tools firm Pierre to expand Codex capabilities",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/articleshow/135556193.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T02:27:35+00:00",
-   "score": 55,
-   "category": "expansion",
-   "company": "OpenAI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "38e2e57916fc",
-   "title": "Apple cuts employee AI budgets in cost-control push",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-cuts-employee-ai-budgets-in-cost-control-push/articleshow/135556165.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T02:25:53+00:00",
-   "score": 47,
-   "category": "expansion",
-   "company": "Apple",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "21c18c43be65",
-   "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/goldman-apollo-seek-buyers-for-40-billion-spacex-ai-chip-deal/articleshow/135556148.cms",
-   "source": "ET Tech",
-   "published": "2026-11-05T02:24:06+00:00",
-   "score": 43,
-   "category": "other",
-   "company": "Goldman Apollo",
-   "amount": "$40 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$40 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9224dfe74573",
-   "title": "How Bariflo uses AI to help factories treat wastewater",
-   "url": "https://yourstory.com/2026/11/bariflo-ai-help-factories-treat-wastewater",
-   "source": "YourStory",
-   "published": "2026-11-05T02:03:15+00:00",
-   "score": 62,
-   "category": "funding",
-   "company": "How Bariflo",
-   "amount": "Rs2 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding",
-    "Rs2 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "361d26ae1804",
-   "title": "PhysicsWallah, Lenskart, Nykaa post stellar profits",
-   "url": "https://yourstory.com/2026/11/physicswallah-lenskart-nykaa-post-stellar-profits",
-   "source": "YourStory",
-   "published": "2026-11-05T02:00:00+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "PhysicsWallah Lenskart Nykaa",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ba58faf4023a",
-   "title": "Tech funding drops to 12-month low in Oct",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZtTzNta1pOUHZsb09YcndyS0dqLVB4Vy1DWE9LWFhIakttWjVFejJHY2JoQzI4U3pyWTJmSTM1a2ZabnRVZ3d1YmhkZ3hBNFhTUUJMOU1oeXJlbHRJVXo3Mm5nTFBROVNCNzVWTjJFdVlpVUljWWFMc01uQ2FIbENoZTVRWmlOaElNT2x4TTRDNmRZOVAwTmNIZ3hQX1hnaS1sRw?oc=5",
-   "source": "The Hans India",
-   "published": "2026-11-05T00:52:07+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Tech",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b74a92f2f3a9",
-   "title": "Jungle Ventures targets two IPOs a year from its portfolio",
-   "url": "https://www.livemint.com/companies/news/jungle-ventures-targets-two-ipos-a-year-from-its-portfolio-11793791578211.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-05T00:31:02+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "Jungle Ventures",
-   "amount": "$1 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "$1 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bd83b53146f6",
-   "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
-   "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
-   "source": "Inc42",
-   "published": "2026-11-05T00:30:27+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "",
-   "amount": "\u20b997.5 Cr",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b997.5 Cr",
-    "Series A",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2f69e4516016",
-   "title": "altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures",
-   "url": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures",
-   "source": "YourStory",
-   "published": "2026-11-05T00:30:00+00:00",
-   "score": 76,
-   "category": "funding",
-   "company": "",
-   "amount": "$10.3 M",
-   "stage": "Series A",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$10.3 M",
-    "Series A",
-    "no company named"
-   ],
-   "alerted": true
   }
  ]
 }

@@ -1,12 +1,136 @@
 {
- "generated_at": "2026-11-13T16:11:46.014454+00:00",
+ "generated_at": "2026-11-13T21:58:45.492507+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
-  "fresh": 29,
-  "alerted": 8
+  "fetched": 16,
+  "fresh": 11,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "6131972b67c9",
+   "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGxSdmNfaE5Icy1zLWItaXZCUFhjVTNSUGFFd093V0N1R0lwSGQ3QmtEcjYwdXcxb3k4YzZjWURWelNjMlZHZ2hoQTZxV2diXzRoU0Y2VEJ6Yy1pV1V0T2F4R0ZmcE1Ec2tlOGMtVnJoZnJpU1FwbDZoSm42NUQwVzBFbEREQQ?oc=5",
+   "source": "Inc42",
+   "published": "2026-11-13T21:26:03+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Sachin Tendulkar Backs Waste Management",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "730de12c0035",
+   "title": "[Update] Razorpay Gets SEBI Nod For \u20b96,000 Cr IPO",
+   "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+   "source": "Inc42",
+   "published": "2026-11-13T19:55:13+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "",
+   "amount": "\u20b96,000 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b96,000 Cr",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "9b30f2332ff9",
+   "title": "Zelio E-Mobility\u2019s Net Profit Zooms 2.6X YoY To \u20b931 Cr In H1",
+   "url": "https://inc42.com/buzz/zelio-e-mobilitys-net-profit-zooms-2-6x-yoy-to-%e2%82%b931-cr-in-h1/",
+   "source": "Inc42",
+   "published": "2026-11-13T19:37:04+00:00",
+   "score": 34,
+   "category": "other",
+   "company": "Zelio E-Mobility\u2019s Net Profit Zooms",
+   "amount": "\u20b931.4 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b931.4 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0a993ace2e02",
+   "title": "Bengaluru Mangaluru Vande Bharat Launched Amid Boarding Row",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWhtNk5BbTJhbVhzQjI2ZDc0MGpfUVUzb19aSE85ZW5Ta1BOOF9jbHlWRm9CUmhNWnJEdkhzVHRONzJ5Zm5TX0JFSm9UWUFrZHRENUJZblVPa05VazV6eTNfRjF4a0FsYXNzdUhydEJ0bGlyNDBRTFl0Q000RGVGSTVJU1ZkVG1wcUdCSmxNSnlUVmVyTFVueGpfU2c0NjZZ?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-11-13T19:22:15+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Bengaluru Mangaluru Vande Bharat",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "b98747692d62",
+   "title": "Shivraj Singh Chouhan launches National Scholarship Portal; over 6,000 receive Rs 21.35 crore through NSP-DBT",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa25FLVVjS1F5U0lzVFlRLWdfc1ZEaUpYTlZ3aXRnUmhELXNaN0F4MmpIOEpXOEc3SzRFelhPSHNnSnoyUjNwX01SZXJtamlKZFpYaGd6VC0xSGhmNWpQZ0YzdE9VWHRuNmtWcWs5WmdNSUpUT0EzYzRoblZsbkFqbGtjcGIxTHZwS0tOMkR4aEM1WW5iaWdZeUVpLTdVZlJVZnhTMU1LY3BkejZnTjhLQkxkSi1EazRENnFuRktscXNmbFdUdTZpSXNwR21iQQ?oc=5",
+   "source": "DD News",
+   "published": "2026-11-13T18:57:11+00:00",
+   "score": 73,
+   "category": "launch",
+   "company": "Shivraj Singh Chouhan",
+   "amount": "Rs21.35 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs21.35 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ba7f7708cc29",
+   "title": "Reliance to invest \u20b91 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants",
+   "url": "https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-13T18:26:21+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Reliance",
+   "amount": "3 lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "3 lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "b61a69cd71d7",
+   "title": "The secondary market is filling a funding gap and changing Indian venture capital for the better",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRWNSU2Y4NWxPcDJEaVAtS0ZXbS1acFg1N3R4d0RpbXdGTjF1SV9ncHBSb2lzSTA1b3Y3TG9WOHF2X3Y4OFB2YmpYUlZZZ0w0RGVrUDJpcjVxZE9QRkNOTnJBcktuZ2RUU1JXcDdiZ3pfMmZObGhYTExuX3ZwZkZrU1RCYTBpT0MxS0d6TlBjRHgwV3c4S3ZhOXZNNnBnOUpndG1FYmJQRVd6TGgxbGl4NlJSWXlvX1ZsZkhlSlhocXNBUkxwQ29ZdEYzd0FBLWI5aTZFRmhzbVhuWEQ4OEU1S3ZHLWE2VVlkUWpDRFNOVjZxNVZtSEFwbGsxdmF5ZXdGdkHSAYcCQVVfeXFMTlplOGRGREJHMDN6Q3ZnRTgtRUFxcDgxZ3pqbnl3bndEX1I3VWxYNURxX3g1UXFFV2JxcmFJd290YTZfZG9SMDVfMTd0b19abkR5OEczR0tHU2x1RnM0cmlVZ1ZjWkRNeURjcHpMZldndzU1OFZJTEYwTmd5YVBjcnFHeUlsSEMyRm13aThzQ0daelhLbmhUamp6eEdGMTN0c0tOQkZaWDBEV2xNMUxXbFZNZDdrODVhMU44am5oNk4zWjRZcmFldGxwdlZhWjNLa2czaVViTDktRjdNSEVsYmFmY19UZWxyMnEtdkxjVWVKZENPOTN3QXIzZTdpUzlxZ3lfNW5CR0E?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-11-13T18:20:21+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "The",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "67857839df1e",
    "title": "Microsoft\u2019s Outlook Outage Drags On: Indian Enterprises Are Feeling The Heat",
@@ -6078,133 +6202,6 @@
     "\u20b9353 Cr"
    ],
    "alerted": false
-  },
-  {
-   "id": "817ce658aee2",
-   "title": "ED Searches CoinDCX & Delta Exchange Over Alleged Illegal Cross-Border Transfers",
-   "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/",
-   "source": "Inc42",
-   "published": "2026-11-06T19:59:29+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "ED Searches CoinDCX",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ad2b67edec12",
-   "title": "Yuvraj Singh Launches PROTOCOL32, a 32-Ingredient Daily Food Supplement",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjVsaDRfQUdDVXVscHNMNThwN28yUmNZNWdoSFNJci1iNXJ0Vk84ZG8xQmpJSVloUUNjMmlHd18yUENZQ19JX2h2WW5EM3NIenU0cEpnMHB4WE85dEJmck9lcnJabUZwemlyTGdDZlM4c3d5bXNlQnBqTWtTX2I3WWhseGdNN1M3ZGw4bXFYemxMRHVmdE1yQUpvNW5UYWNpeUE?oc=5",
-   "source": "D2c Insider Pulse",
-   "published": "2026-11-06T19:51:16+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Yuvraj Singh",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "4035b65487e0",
-   "title": "Deepinder Goyal's Temple gets thumbs-up from Unacademy co-founder Gaurav Munjal: \u2018True potential\u2019",
-   "url": "https://www.livemint.com/companies/news/deepinder-goyals-temple-gets-thumbs-up-from-unacademy-co-founder-gaurav-munjal-true-potential-11793987454722.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-06T18:30:30+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Deepinder Goyal's Temple",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Gaurav Munjal",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6cdfca3061ca",
-   "title": "Sectors",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uNWZNV3ZNbWV2TmJUWUdWZ0VFMngzaVlCcDd0dl9SWGFFbGVrdWxGdmVwemYwaU5Oa2p4OEN0Yl80bDZtTHZ0Vl9n?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-06T16:56:51+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Sectors",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "03cb03eb6f3f",
-   "title": "Tata Power commissions 300 MW solar project in Karnataka, to cut 1 lakh tonnes of carbon emissions yearly",
-   "url": "https://www.livemint.com/companies/news/tata-power-commissions-300-mw-solar-project-in-karnataka-to-cut-1-lakh-tonnes-of-carbon-emissions-yearly-11793982901002.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-06T16:54:04+00:00",
-   "score": 41,
-   "category": "other",
-   "company": "Tata Power",
-   "amount": "810 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "810 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "16e6f26b374e",
-   "title": "Office of the Principal Scientific Adviser and DPIIT Launches API Integration between Startup India and I-STEM Portals to Strengthen Access to National Research Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdVVibXZnMFpfcEZ0eXBoSUd3djNOc3FadElMT01mMW80bV90LUI0THVrTEllYjg0TmE1dmRJR0oxcFh2M1VINm5ZUm01OVVpaVZCbUluM3NVVklyaG9iX25EUGtYcHl6RDdGUEpXdEhzRTh0Y3BjcGpIcjhYLVdLX1VwdksyTTJNdFdOMU4yRTBzVktLUUFiZHRnTU95N1ZKSFdEWGxLUjVWRVJlaWdJQjl6VVdWNkp4b1Q2dW5EbWN1aWJEbVU4aXEwZDJ2cWhHWElabW9fVGJiREdKcDBLOEk2cUhyalR0bXdsNGhuQnVBRTgzdDE0eFZBOGF6TTBaVU5IMzFGMXdUTndCZWxSY3pjc1l4akJIeFozVF9QZ254YjBKVmJZRGxZTGhoY2xvOWww?oc=5",
-   "source": "Technology For You",
-   "published": "2026-11-06T16:37:17+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Office",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "483c922b3233",
-   "title": "ETtech Deals Digest: Eloelo leads as weekly funding rises to $142 million, down 35% on-year",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSng0czRNQmZwR29GREVNb2FaTWVQV3ZTN0QzUFk3dEFiQk5TUWdOREF4VFBOTVpLMHBuTEVmRUREc0lsN2xRNGg2MHJVNE02UFR2bEJCWnpZalZnMl80MVYyNW9XVndGTms5NUJFNFpCUW5FZEd1akw4MnQyV3JQREVuY2lpNXhXUjFXcTNtSUFOQS1BWjg4ZUZtTnZGLXB4QVVGZ2JPMHNOc2RGT2dMNkxVLUJ4UVVlZUVnY2FRRHBGWkM5Z2h2SERvMGU3M3NfcXlnTjJPOXRoWjNPRlhfR1dhUldmMU5LcE440gHwAUFVX3lxTE1uTmE2ZXlWVDBvRjNDZ3ZUeWQ4REZwZXN1YktrdWF0dExCM1BIUjVyamxNMkJRMlNXWV8waHoyMHJWcmJMRHZPYUpCbDBqS25TdTB2V0lpWHhlTFhkWFB0WlBFeFprVXBodzFoeUpHcnRjNUxHakxkb3VQU3E2MFVaWmViXzNlSWpzUmdFUEc3SGpteU45TTdGTUNRcnBIdlBhNFh1cEZ2bndCTzh5bk9jZkNxcTJJSzFURDkxMFFpd3V0N3ZWNTUza3EwdFg5aGttTlNCa3ZieXNfQnRsSF9ydVJlSWtJMlg3cEhnb0dNWA?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-06T16:25:48+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "ETtech Deals Digest: Eloelo",
-   "amount": "$142 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$142 million"
-   ],
-   "alerted": true
   }
  ]
 }

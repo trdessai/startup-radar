@@ -1,12 +1,65 @@
 {
- "generated_at": "2026-11-13T21:58:45.492507+00:00",
+ "generated_at": "2026-11-14T01:57:39.599511+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 16,
-  "fresh": 11,
-  "alerted": 3
+  "fetched": 6,
+  "fresh": 3,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "252d86427cc6",
+   "title": "China's BYD clears import hurdle, looks to accelerate India push",
+   "url": "https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-14T01:30:58+00:00",
+   "score": 45,
+   "category": "expansion",
+   "company": "China's BYD",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d9311f277359",
+   "title": "Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030",
+   "url": "https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-14T01:30:54+00:00",
+   "score": 41,
+   "category": "other",
+   "company": "Mars",
+   "amount": "$1.2 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$1.2 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "3a92930dfbaa",
+   "title": "SoftBank Offloads Meesho Shares Worth \u20b91,855 Cr",
+   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
+   "source": "Inc42",
+   "published": "2026-11-13T22:09:36+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "SoftBank Offloads Meesho Shares Worth",
+   "amount": "\u20b91,855 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b91,855 Cr"
+   ],
+   "alerted": false
+  },
   {
    "id": "6131972b67c9",
    "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
@@ -6184,24 +6237,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8d3818a5df27",
-   "title": "OYO Parent PRISM\u2019s Profit Jumps 17% YoY To \u20b9353 Cr In Q1",
-   "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
-   "source": "Inc42",
-   "published": "2026-11-07T01:30:12+00:00",
-   "score": 47,
-   "category": "other",
-   "company": "OYO Parent PRISM\u2019s Profit Jumps",
-   "amount": "\u20b9353 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9353 Cr"
-   ],
-   "alerted": false
   }
  ]
 }

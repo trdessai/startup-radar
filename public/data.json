@@ -1,12 +1,243 @@
 {
- "generated_at": "2026-11-14T01:57:39.599511+00:00",
+ "generated_at": "2026-11-14T08:27:36.371994+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 6,
-  "fresh": 3,
-  "alerted": 0
+  "fetched": 22,
+  "fresh": 15,
+  "alerted": 4
  },
  "items": [
+  {
+   "id": "1719b5a65ffb",
+   "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
+   "url": "https://yourstory.com/2026/11/babycue-wins-rs-5-lakh-at-tribal-business-conclave-for-diacue-healthtech-innovation",
+   "source": "YourStory",
+   "published": "2026-11-14T08:03:59+00:00",
+   "score": 27,
+   "category": "other",
+   "company": "Odisha",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "fcf61737a4a4",
+   "title": "Bengaluru Entrepreneur Turns \u20b95 Lakh Investment Into \u20b920 Lakh Bindi Business",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXkxVTBwYWlMY2RwM1NGXzBQc0dZbEJvYmJWQmQzRUt2b3cyaWE0VDI2aWpsVHFIeTZ6bkxrQWVwd2VURkxxTEgyUEdGb1pndnNFZGd4MWlSbVR3T0ZJa1ZuSkI1Xzd1Z0xDZVVyR2NWNEJiM0hQUk5TcE9FcTk1MFJ2M0JnVDJlNHM5aU91eFFmRDdSUkxsbENTVVJnUQ?oc=5",
+   "source": "https://ascendants.in/",
+   "published": "2026-11-14T08:03:13+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Bengaluru Entrepreneur Turns",
+   "amount": "\u20b920 Lakh",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "\u20b920 Lakh"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4db0b2ba79b3",
+   "title": "28 Indian startups pitch air pollution solutions to VCs at AirEarth.org event",
+   "url": "https://yourstory.com/2026/11/airearth-28-startups-pitch-air-pollution-solutions-vcs",
+   "source": "YourStory",
+   "published": "2026-11-14T07:43:24+00:00",
+   "score": 15,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "48abe3593a89",
+   "title": "Mahadev Betting App: CBI Searches Multiple Locations, ED Arrests Saurabh Chandrakar",
+   "url": "https://inc42.com/buzz/mahadev-betting-app-cbi-searches-multiple-locations-ed-arrests-saurabh-chandrakar/",
+   "source": "Inc42",
+   "published": "2026-11-14T07:42:52+00:00",
+   "score": 29,
+   "category": "other",
+   "company": "Mahadev Betting App: CBI Searches",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d4700061d067",
+   "title": "KPMG Launches Bengaluru Sports Tech Hub, Targets India\u2019s $40 Billion Sports Industry by 2030",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1lyUXhETHhSbndfQjZhOVRMS1lIM2NhVWM1Tk13WnNtNlhYakRyMVFFMWZkbzZJeVZOamtXclRmQnlXcXBUdnhsNC1fU2dCWjI2V01zbWp1TVQ2d2k2ZmpWYldBV1k4aHJ3dF8tbV80VF9fMURhTzZVblA5MHpIZzQ0VUNBT0hhc1JvYWV4cEVIZGNWampubzVZQzNrRzNROEgxY2lzUjhCWU0?oc=5",
+   "source": "https://ascendants.in/",
+   "published": "2026-11-14T07:40:59+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "KPMG",
+   "amount": "$40 Billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$40 Billion"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "a0b44e6183dd",
+   "title": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations",
+   "url": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge",
+   "source": "YourStory",
+   "published": "2026-11-14T07:23:49+00:00",
+   "score": 85,
+   "category": "launch",
+   "company": "MAGIC",
+   "amount": "Rs7 lakh",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "Rs7 lakh",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ffcd4c359fae",
+   "title": "Stage III cancer to 200+ startups: How Tej Chingtham built the Northeast\u2019s first incubator",
+   "url": "https://yourstory.com/2026/11/tej-chingtham-aic-smutbi-northeast-startups",
+   "source": "YourStory",
+   "published": "2026-11-14T07:13:27+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Stage III",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6737210c4cb3",
+   "title": "Adani denies lowering Tarali PSP cost to reduce statutory obligations, says reduced figure solely for\u2026",
+   "url": "https://www.livemint.com/companies/news/adani-group-green-energy-denies-lower-tarali-psp-cost-to-reduce-statutory-obligation-figure-solely-onsite-investigations-11794636744060.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-14T06:54:08+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "Adani",
+   "amount": "\u20b95,675 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "\u20b95,675 crore"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7b860f577af1",
+   "title": "Rohan Dani on Private Credit, Sustainable Growth and India\u2019s Evolving Business Landscape",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTd6MTY2VTN3LWROdTl0c2NXRVViUHVkQW1QYmxfM3N6U2VzaDhoM1R1YXN4VWhvaEdfMjlDcFF4UVpQVXhQWDJUWWxmVnVQT1E2NFBTREoxLTZpNVZEcjNFMEFscEV2SEpaX2tZdWZYR09XdVBJOFQ3bFVvcFUtRWtvbmRqRkpkN0xGM1BUSm83ckVtdzNBcHFaX3pXN2FOR1VUSHZTa1Z4VmNlWUNhVVpYV2hvUFRTQUVrQzBubzg0YVZwbWs0T0RBVkxrdw?oc=5",
+   "source": "Indian Startup Times",
+   "published": "2026-11-14T06:41:57+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Rohan Dani",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "1f159e141e31",
+   "title": "Funding and acquisitions in Indian startups this week [Nov 09- Nov 14]",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWNZV2ZKSHZWS0lSbkxTYmxVTXpqTHI3akwzSFFENGxEcldmM1cxUy1jdUdINTVWTk5HeXR4b2FnMnVQMmVBWGZzOHJlaW9Ganp0NjZJdVR4M3JXcUN3b3dZNi1IclQwSGVkTXJSUHd0MHUwbnZ4cEZFTjhYRm9HaXdyXy11OTRJMlR3TWNqQ0dmbDFRdFlBbFEtT3M2Tl84MEpLaUp1d9IBpwFBVV95cUxNYWNZV2ZKSHZWS0lSbkxTYmxVTXpqTHI3akwzSFFENGxEcldmM1cxUy1jdUdINTVWTk5HeXR4b2FnMnVQMmVBWGZzOHJlaW9Ganp0NjZJdVR4M3JXcUN3b3dZNi1IclQwSGVkTXJSUHd0MHUwbnZ4cEZFTjhYRm9HaXdyXy11OTRJMlR3TWNqQ0dmbDFRdFlBbFEtT3M2Tl84MEpLaUp1dw?oc=5",
+   "source": "Entrackr",
+   "published": "2026-11-14T06:41:10+00:00",
+   "score": 48,
+   "category": "funding",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "82b544fc81d2",
+   "title": "AI Startup mistEO raises Rs 18 crore to expand climate forecasting technology",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUNrTnFhb2xhV3Bnc3RJVU9ZX0s5ZjVWUEZwLVdfbER3b1BtWXEwV2tGdW1CckR5cy1TeFphVnlJa2Y4bDV4NW1OdGcxZ1REVldMbWxvdHZvRk1MaG5pMHZtWTVFenBUdExUSVZZZzB1dTVMNE1UR2hPa2FtS3lqdDdXQTdESDRZMVhidTVsazFTVzh3dTRISG8zb044MTU1S1l5a1Vua3RXRzlNaUszd090SVVac3c3ai14SlZvLVdSRy1USUtvbWcyVVBVQQ?oc=5",
+   "source": "Exchange4Media",
+   "published": "2026-11-14T06:38:54+00:00",
+   "score": 58,
+   "category": "funding",
+   "company": "",
+   "amount": "Rs18 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs18 crore",
+    "no company named"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1f269893f299",
+   "title": "Warburg Pincus seals $176-mn deal for stake in Pricol\u2019s auto electronics business",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazVDM2VNdkl2YWY1eEpkZHhDbEJZdkdNUmw3X0swaTlaZnRIQnl6eWVleW93cjdXanFFQkVyN244ZS1CVEZJN2x2MHNtU19WbHJtYWliVmhGREFQc3Z1RDF4XzdTVjB2aU9Vb1NEU0pJdzRMOGhRa3BoS1U3bldFenRRT3IzWkR5M0p5Y0hDZG1wU29xaExSZlRBb01TMGRNOWlhWnk3d9IBrwFBVV95cUxPNk9NdTAtQy1pcHphWnZIZFFnUDVKZGhlTFdGa0Z4Y3dFdFRKcXN5Q0xwSzlUSHlTTl9ud2RhWURFa1MwQnI3M0t2OG50RmhBRTE2U08yV0hFSGxic2VEMTlSMGpmVmNoRWh6UTVCd21nRWprRU8tTkRRRXNKaFRfRkhHM29SWnhOZWxQNzhTbC1DeGFWMWpGenJSeHJoeGNzbTEwbXNVc1JHTjFvV3lF?oc=5",
+   "source": "VCCircle",
+   "published": "2026-11-14T06:14:52+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Warburg Pincus",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8788a5e3e076",
+   "title": "IndiaAI-backed Chariot launches speech AI model that understands context across 12 languages",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSVhFNXd0MmRXUjRqX1laRnpCZnF1Qzg1ZFlfeGQ4LURRMUJzbEIwSUVoY0s4ZE5KOWM5cm56NTBrdmFZTWdCZGpJaWtud2hkM3JjS3dVLTBXc1poVEZ3TGc4ZmRjdmxOX0kwMnRrV2c0b1dkdV9TRmdFU2pyUGFXU24ydU1VTDFaeC1FX1BTZ1ZNQXFrdnA3WFVzaV81WmNBNDU5NzBkWVVjUU1TdTI0QmhKVUh3aGNNRHk2TDJfb25SNUNuMk5GOTJfNnlZa2FybURoY3VFX3RjNGlZb2JqbEJLdjQ0NDBXM1pfMkdOMGtYTmFLWlJoS3dORdIBgAJBVV95cUxOYnBkVmlGRWZYbWcyc2d5cnZQdk80X0d0bktzYnpadlFmVUVKWEpKM0hURjluWmYtSzRtUFAzS0pMVzk3ZjFlR0c0UW1hWHZhNDI5VkNiNS0tU2pHOUt5dGNvbWQ4bktKczhvOE8wTlhERFJHUU9JU1JLY0pQLU92ZDM1V3kwbEdGNU5qTHNHV3h3VDhPbEE4MmY5b0FKTzFjMkRNYkhsSjJfYW05QTIxZE8ta1V2VVZIc2JsMllmcm1JcTYzeHBQWUpla1d3OGotSXl6aXR0RkFtSDF4MGE2SmlSUWlYN0lRY1ZSQUphOUIwc2ItU2pJOGtESkpHbjFH?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-14T05:18:40+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "IndiaAI-backed Chariot",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
   {
    "id": "252d86427cc6",
    "title": "China's BYD clears import hurdle, looks to accelerate India push",
@@ -6126,117 +6357,6 @@
     "no clear event"
    ],
    "alerted": false
-  },
-  {
-   "id": "10f42fdf5306",
-   "title": "Mukesh Ambani vs Gautam Adani: India's richest wealth race since Diwali 2025 - Who won, who lost? Wealth rise in $ bn",
-   "url": "https://www.livemint.com/companies/people/mukesh-ambani-vs-gautam-adani-indias-richest-wealth-race-since-diwali-2025-who-won-who-lost-wealth-rise-in-bn-11794034360761.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-07T07:11:24+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Mukesh Ambani",
-   "amount": "$119 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$119 billion"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "84f409971e2b",
-   "title": "Why Deepinder Goyal's Temple is drawing social media scrutiny",
-   "url": "https://www.livemint.com/companies/why-deepinder-goyals-temple-is-drawing-social-media-scrutiny-11793967006723.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-07T07:00:31+00:00",
-   "score": 13,
-   "category": "other",
-   "company": "Why Deepinder Goyal's Temple",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Deepinder Goyal\u2019s",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2904f82d9824",
-   "title": "Air purifier sales surge amid worsening AQI: Blinkit, Zepto see demand spike; Amazon sales double in a week | Details",
-   "url": "https://www.livemint.com/companies/news/air-purifier-sales-surge-amid-worsening-aqi-blinkit-zepto-see-demand-spike-amazon-sales-double-in-a-week-details-11794033218216.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-07T06:42:45+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "Air",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ca9cc45f43de",
-   "title": "Kirloskar-backed NBFC Arka gets \u20b9525 cr initial commitment from TPG\u2019s Rise Funds",
-   "url": "https://www.livemint.com/companies/news/nbfc-india-arka-fincap-tpg-rise-funds-kirloskar-11794028463025.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-07T05:54:31+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Kirloskar-backed NBFC Arka",
-   "amount": "\u20b9525 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9525 cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7edf697e53cb",
-   "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
-   "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
-   "source": "YourStory",
-   "published": "2026-11-07T05:03:20+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "VibeCode30",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1b38ba9425fb",
-   "title": "Amazon rolls out text-based shopping through Alexa",
-   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/articleshow/135626091.cms",
-   "source": "ET Tech",
-   "published": "2026-11-07T03:59:33+00:00",
-   "score": 65,
-   "category": "launch",
-   "company": "Amazon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
   }
  ]
 }

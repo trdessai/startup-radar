@@ -1,12 +1,316 @@
 {
- "generated_at": "2026-11-15T21:52:57.538545+00:00",
+ "generated_at": "2026-11-16T01:26:58.701425+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 6,
-  "alerted": 1
+  "fetched": 32,
+  "fresh": 19,
+  "alerted": 10
  },
  "items": [
+  {
+   "id": "1308c98fd85d",
+   "title": "Oister Global launches deep-tech fund with potential \u20b9600 crore corpus",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUjZvLTlIeDY3elVmVXR6SjNwamR0RU1HT19MeFBMV3RHNjJNZGdzUC0tZXhKZWtXTzF2RXkzWlNyellzUGw5S1V1aG9BWHF4UUZsemVTeVJReG80NkxOaFB6UjB3MWJmdnhzQk10bzNaaUo1YnJFSVVxR01iaElPbDVsT09HQmRlNFJ5LS1rRGl0TjZSNjBnQVZqbFhoZDZ2ZkxjQmNMTHhxLUVnaGJPQkZ2OXA4MVhVT3JWaTB3UWJnNWM0MG9GQ2dpd3RqeTFGMXJVaWpjaWd3Uk3SAeABQVVfeXFMT1J4XzdtYVFCMFRBSHpSWUh2cVMxdktNanJ3NlBkeTdUNy01SjBVYkNYQ1BIdjlBc2FFeGF0U2p1RmNTaDVZVnVwUThVdEpYMnRwR2EwRTZETk9VWmdrR2x4Si1vN0Z6LWtZcklNUVZwQW5uWVhCYTVlZGpELW0tMTZDY3pNRHNqWVFMMUYwNFNyNFpvTjlRX3hlOUVqRVU0di1VNC1uajhLTXd2elZXNkRvcjFTMHFQVHVRR0hMVmw2dTh5ZmlKcjhMdlE3UjFCWjdwVWJ3a3kzWDA0VkZBbVI?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-16T00:33:20+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Oister Global",
+   "amount": "\u20b9600 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b9600 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "46fa15764e9c",
+   "title": "Ola Electric's cash cushion dwindles as market share slips and losses persist",
+   "url": "https://www.livemint.com/companies/news/ola-electric-cash-reserves-fall-sales-market-share-loss-11794733370775.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-16T00:32:51+00:00",
+   "score": 60,
+   "category": "funding",
+   "company": "Ola Electric's",
+   "amount": "\u20b91,800 crore",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "funding",
+    "\u20b91,800 crore"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "11816da7c213",
+   "title": "Yatra\u2019s \u2018MICE\u2019 Problem",
+   "url": "https://inc42.com/features/yatras-mice-problem/",
+   "source": "Inc42",
+   "published": "2026-11-16T00:30:52+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "Yatra\u2019s MICE Problem",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "6c54b9960ec6",
+   "title": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
+   "url": "https://www.livemint.com/companies/start-ups/bharat-semi-raises-24-million-seed-funding-info-edge-deeptech-startup-11794722449154.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-16T00:30:46+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Bharat Semi",
+   "amount": "$24 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "2eed28ad568c",
+   "title": "With nine portfolio firms eyeing IPOs, Oister Global launches \u20b9600 cr deep-tech fund",
+   "url": "https://www.livemint.com/companies/start-ups/oister-global-deep-tech-fund-rs-600-crore-startup-ipo-plans-11794646321044.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-16T00:30:23+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "With",
+   "amount": "\u20b9600 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "\u20b9600 cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "ff9195a63eb3",
+   "title": "Bharat Semi raises $24 million to develop intelligent sensors for AI",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPendBSVdvMVJDb1Z4aFd4M292bTJNOGU3S1pRSmt2cnc0QUhobjRmeUxEMzZVdGRwZkNsZ3ByVmRxdWY1ZG12dlVKcDdSTXltUFQwb2V0YTB2NzVXM3AzallGNlFWQzBuSWxUR0hKelgwWnppNFUzU2QwN2JUdDNrcjM5dEh5RXdaYmxuTXlJbWFsb19DMHZDV29xYk56V21hMHlIaUowa09BZmtqX2diOVlKRTdqejRjdmdnNlZldmlOODRCNGtRRXhxMXZZeW5uZXp4YllxLThTZjlDN2fSAd4BQVVfeXFMT3p3QUlXbzFSQ29WeGhXeDNvdm0yTThlN0taUUprdnJ3NEFIaG40ZnlMRDM2VXRkcGZDbGdwclZkcXVmNWRtdnZVSnA3Uk15bVBUMG9ldGEwdjc1VzNwM2pZRjZRVkMwbklsVEdISnpYMFp6aTRVM1NkMDdiVHQza3IzOXRIeUV3WmJsbk15SW1hbG9fQzB2Q1dvcWJOeldtYTB5SGlKMGtPQWZral9nYjlZSkU3ano0Y3ZnZzZWZXZpTjg0QjRrUUV4cTF2WXlubmV6eGJZcS04U2Y5Qzdn?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-16T00:30:22+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Bharat Semi",
+   "amount": "$24 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8e21b04a5223",
+   "title": "Feline Good...Bengaluru Startup launches app to connect cat parents with trusted sitters & Hosts",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUERDT2dONW5vc0xWbFhMbGJDa2ltckF2MnB2LWdOSlRXa0tvMjJqSWYwdmQ1SlhZcERNN2NCWmdqYWZVOFNSMFp0amZ5SXgwMkJJRVRzVGo0N1NDRmdxZDVLelk2VGhUNmhwaEg3MkxuQW93ZzZrYkJJR1JwM3ZoV1NBd2hiVnY2bmJtZ3ZtZDJnLW9FdldMYlZlSDJIRXJxVTdvZ21wNnAxU0lyN2FNMUM0aU01ZFVHcXR3VVJVdVRHeng3eHRFMkJhZXNGUmJwMjY2cW1YZUFqa3lpalB0UGlyRXhVc0Jw0gH2AUFVX3lxTE9UR2M0c08wbHJWMnJZa0FGQU9CRm9xc19QeW1XVjJEczB1WUY0cjA0Yk5LZlN2VW4wdWpkeFJPdGpBSFV1UHRSaF9od1BtMkNQZUo0RDlnd25rS1lYSWdMTndQdjFYZFl5T3hDUTB0UjNKSVFlcU9ZZzkwMVM3aHJLZ0FBaXNKOFA3WnhndGJaY3dWZjIxQzBPOE0tZm9QSzlaY2FPVmpYMUc2TjZ0djVQNGlyRnhfRzhGWmY4RVlycUpsNlFITW1wZThYYW9xZzlBXzFpbXY1RTU5eU1hSm0xTzJWZmc2d0NtQWtGcF9HOFZIRGlFdw?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-11-16T00:30:00+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Feline Good...Bengaluru Startup",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "e31f3036a18c",
+   "title": "Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle",
+   "url": "https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-16T00:18:22+00:00",
+   "score": 63,
+   "category": "launch",
+   "company": "Jio",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "974e7233b8c2",
+   "title": "AceVector cofounder says H-1B rejection accelerated India startup push",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkJWeXpEM1hRa0p5eFYwalpwb2xBaUJyZVdYSFI4WjNVOGtPTVBoR3k3enAwd2hBM2UyVGtDalFYeVpnbkpadWc2V0kxOUtmM1JWOG9IWmZpcUpoazcydS1hVm9PWUMtdUVFTWJrQ1h6Ry1Cdjd1M3FDLTF6eU1uNWNJbloyVHgxUEpRSkc5dUk4U3VmMmtwRWxZYjFKQQ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-11-16T00:07:20+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "AceVector",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0dcc52b2b52e",
+   "title": "India's Bharat Semi raises $24M seed to build AI image sensors",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
+   "source": "Dealroom",
+   "published": "2026-11-15T23:59:56+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Bharat Semi",
+   "amount": "$24 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 M",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3413753f7d26",
+   "title": "Why Indian D2C brands are betting big on CTV beyond performance marketing",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzVZVkdsT1pvQmZxaGxTSHBaRXdxVWk4MTNtQVFBSHZuOUgxbTNjRGhfZl8yeURzZTZaQnRvNjZOdnhyMjN5Qzh6a1ktTVZNN3d2V1NpeW9fUWdzaThnMHBOcUpHRHVzREpYRTRxQXFScDZkZTlRLVhGR0p6eTBKN0dfRThwcUVwMmtBVVBvNHhySFVmQmxCYk1rcUtQVjRrRDNJZmp0bnVSTUVOQUNTMjFnQ19Pam1HNzZ1QUtTX01YZUJvUmIxUDZsVQ?oc=5",
+   "source": "afaqs!",
+   "published": "2026-11-15T23:50:37+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Why Indian D2C",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "52e2e89f6341",
+   "title": "Bharat Semi raises $24 million seed round to target global AI sensor market",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHRBMlhqMklGSkt3c3ZSaDlHQXZLdmFaXzl2SW5LWGxnbjNwRkt1cDZrRkwzVFQ0Yks0azNHeWpyOExLLVVweW10ZFlmRDY3VEJoeGxqYmpxX0lqS0VZb2M4ckFEclBid3pSNnp2bnVBRTV6S3EtNmNvdDZGQ0pJRTlxQUFxTUVMMWFnbw?oc=5",
+   "source": "Traders Union",
+   "published": "2026-11-15T23:39:21+00:00",
+   "score": 90,
+   "category": "funding",
+   "company": "Bharat Semi",
+   "amount": "$24 million",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$24 million",
+    "Seed"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "cb3bba8f9d85",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-11-15T23:30:00+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "",
+   "amount": "$24 M",
+   "stage": "Seed",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$24 M",
+    "Seed",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "545a8f24d935",
+   "title": "South Korea's MSIT seeks views on SK Broadband's split of data centres & international cable services",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTViMnJfb2ViSVdWclNTN2lmRUdaQ2Fyd1NSM2oycDJRNkE3X2xMc1RNM3JrenhwaUpqd2s3WWtUQnpNRFJoZWVsby12T1JhNXRZWE1JNElWbDl1ek9TT2dUNlRTNUs3WjBrSzRzUm9LeXRTRXJVY0QyS09lR3FDVjRaRG1tU2xHNkhOVkZ6V0JrWnFxV183NVpXYVk0cGZvMnhsbVM5VmR0eEpEVDV5UHhTU0haTE52LWVDRDIzTFV1dWFn?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-15T23:23:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "South Korea's MSIT",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e93471e69f3a",
+   "title": "Singapore's MDDI says it is working with industry to validate AI testing methods",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVBCamg3UWFrTHNQRVdISGRVUUwxUUlYaXVMcXlTMGdmd2U3MnBnblRyckZkRC01djJNWmRRZk9XbkdvOTE5NklrR01MbDR2RXdnMUhJVVpPLTFJbzg2b1gyTTFzQ285U2s5S2VuU3BiQ3l5emV5OFBTN2duREVCSGpIaUtLYlhnZGFnSUVaWDZJbm1LOXBWU09YUkhGenA2RV82QXN5WWJjNDZT?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-15T23:23:11+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Singapore's MDDI",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2bd7a0718341",
+   "title": "TSMC launches $500 million fund for chip startups, AI firms",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGIxSTBKdTFSeWJlZzdQZVRjaWVYVmhHeW9TM0Zfekx6Vi1LX18wejlwRGQ5X05FYWwxYmd6YURoYjREcmIxWGI4VUxOQ1htYUd1ajg0RWpwdmVYTXZQNUMyR0lUcmVMbkFoMEhiOHZQSG5jZGdGR0Qyd1BGNEExdV9panV0MVRsa1BvXzZxZnFFRGNJVWRReTZiMHhZTmsxOEh3?oc=5",
+   "source": "TechGig",
+   "published": "2026-11-15T23:07:21+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "TSMC",
+   "amount": "$500 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$500 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "5acf297a9794",
+   "title": "Australia\u2019s largest non-bank lenders start sharing loan data through Consumer Data Right",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1g3STU2eHpSWXUtMTl0MVpZQ3Q2TDlzbjZWdzZvNDZEeTdOUEUyby1Ca0V3Y1pKaFM2UEFUMzNZeVI4aDI2c3kzVnNqVUpUdDRzYUNiVmdfVVhRTmdzWVY5cEtjSzZMVXphMUpjNTBCTnJRMm9WTm5kM2xoVUVMU0VyQ1R0cDdDZ3o4UmZ0ODM0dWMzM0xUNUp4aDFJQzg0ME93RU5BdEZQYjRwc1UtNWlPTC1Zc1E?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-15T21:42:45+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Australia\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "2f0ecf8da2a2",
    "title": "Avatar Growth Capital to raise 1,250 cr AI fund",
@@ -6697,23 +7001,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "8c26b71e4210",
-   "title": "Profits Are Just Half The Story This Earnings Season",
-   "url": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
-   "source": "Inc42",
-   "published": "2026-11-09T00:30:35+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "Profits Are Just Half The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   }
  ]
 }

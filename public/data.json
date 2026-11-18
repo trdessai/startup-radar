@@ -1,12 +1,132 @@
 {
- "generated_at": "2026-11-18T17:57:06.234567+00:00",
+ "generated_at": "2026-11-18T23:44:45.584465+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 22,
-  "fresh": 15,
-  "alerted": 9
+  "fetched": 11,
+  "fresh": 7,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "98b5ffb826de",
+   "title": "AI Is Supercharging Cyberattacks, But Are Indian Enterprises Ready?",
+   "url": "https://inc42.com/buzz/ai-is-supercharging-cyberattacks-but-are-indian-enterprises-ready/",
+   "source": "Inc42",
+   "published": "2026-11-18T22:37:13+00:00",
+   "score": 12,
+   "category": "other",
+   "company": "Is Supercharging Cyberattacks But Are",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "question headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f776d75d9289",
+   "title": "India's Humyn Labs Raises $47M in Series A Funding to Expand Physical AI Training and Deployment Services",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHU3dDY1UE1Lb0s5ZEoxcDJJVmtGc3d5bHpOVFBRSVF5MEJ5MnI4eElORURWbnFZSFdFM2hLTXNRZ3hLY1NxS1BCQVdzNjZtTndXTkNJWVBQX2NLZUpHdnlPcU9oVVR2dXV5dnFWMnJDMHZvbXN2RHl4cWFBOFpxRWFRaFhLRFF5MWtGSExFcEJtN0xOQ3NEQlpfQzlKOERIbkZXNHFOWXd4MXF4VTFDQ3Z2T3o0UVRxVWlaZnNOdklsT1lUX1hxZkdSaEZXUzZmdDczM3R6ZGs?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-18T21:07:39+00:00",
+   "score": 88,
+   "category": "funding",
+   "company": "Humyn Labs",
+   "amount": "$47 M",
+   "stage": "Series A",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$47 M",
+    "Series A"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "f8cf90d5a154",
+   "title": "American billionaire Eric Schmidt-backed robot startup Genesis AI raises $500 million",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQklEaVo1M2VhVjlwa1hjMnRRb1lCT0tCVmo5TUZYMlhXMDZmU0dOVHRKMjd2SlFlU2pxVWl2UlI1a0puaEhsM0Zzdk52RDRYRzNqeExUV0U2RWM0R2k4SEI3WldrcHFJYjBwZ1YzdWhfM2IwaTN5UzQxbG5iQnlhb0l3S2dBeVdtZGszVDJDakZ4YTVNZ2I0ZGRZQ0J3dVBlV19hSm1PTHg0NHhYUWNkcHRyUW1UTnNkc0FWbmhGVFdtT2xrNU1j?oc=5",
+   "source": "Billionaires.Africa",
+   "published": "2026-11-18T20:58:24+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "American",
+   "amount": "$500 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$500 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "62b1a79eae90",
+   "title": "PB Fintech Cofounder Alok Bansal To Step Down From Executive Role",
+   "url": "https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/",
+   "source": "Inc42",
+   "published": "2026-11-18T20:27:10+00:00",
+   "score": 17,
+   "category": "other",
+   "company": "PB Fintech Cofounder Alok Bansal",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Alok Bansal To",
+     "handle": null
+    },
+    {
+     "name": "Alok Bansal",
+     "handle": null
+    },
+    {
+     "name": "PB Fintech",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event",
+    "people move"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e756dbeb0557",
+   "title": "Philippines backs AI safety and digital sovereignty in ASEAN-China statement",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXotX2NhNVJuemkyYnNXWFJ2dUtwZ3lUUjlZNGJsV2JzNUg1OVppeHg5bDBXaElBOV96M2kxZGQwV2p5Vm9GNkIyaHZUXzlqNUc1YzJoTVEyakdxYzdLOVlNLVZsOHhrNkU3eVhhTENsQU9wZDdxV1NRTHJxQUV3LXk4MXhZNGlpdXQxMWRHWXlJTlY2aXZBWVFvRWtUNjlydXdPdlF6N0hxblNnbVlhbmt5NW92MDB5YlE?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-18T20:18:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Philippines",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "c6e998be49a5",
+   "title": "Singapore backs voluntary AI and data safeguards for small firms at the ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSENaSHZFSE0zdzlhUExLSzVVMHFIMXlxU1RxVVdadzVfWHZWMFVIWTJVOElST0tpVHpEX21odWJuMTZuR2ZPQ2NDQU9Ob1hpdXBnSkI0bGdKNmRDbmFSbzRKMUhHY1UxWVRSTXloVjhkcTNnRl9kT3dsZUFveHAzbmNPY0xhN3hzM1A0Ym9uYlBpSXB1NWJxbw?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-18T20:18:51+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Singapore",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "465b9218642e",
    "title": "Botsync Raises $11 Million in Funding Round Led by IvyCap Ventures to Expand Robotics Operations",
@@ -6699,62 +6819,6 @@
    "alerted": false
   },
   {
-   "id": "c77ac129b31f",
-   "title": "Ola Electric Q2 Loss Down 13% To \u20b9362 Cr, Revenue Dips 39%",
-   "url": "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
-   "source": "Inc42",
-   "published": "2026-11-12T11:21:33+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "Ola Electric Q2 Loss Down",
-   "amount": "\u20b9362 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9362 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "49fc1abb6517",
-   "title": "MGF-Kavachh leads Rs 18 Cr seed round in climate startup mistEO",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjZGbkJ2a0RFa1NjMlRIaTJyY3BLRXlUMXhFOVBlQUtiWExla3hJbmR1dkNmcGQ3WENYa2VIQTF5ZlVBdGUyRWg5Tkw0Q0s4T1h6Z0dyRmQzZ2EydDlRRDdQbWU0WWwyWTEzaUxlblB0cU9ZbXZGOE5CSGQ1SHdDa1pZS001cU85THoyRWNVOXpoV1EzRDltM3JaS3U3ekQtRDVTZtIBpAFBVV95cUxNRjZGbkJ2a0RFa1NjMlRIaTJyY3BLRXlUMXhFOVBlQUtiWExla3hJbmR1dkNmcGQ3WENYa2VIQTF5ZlVBdGUyRWg5Tkw0Q0s4T1h6Z0dyRmQzZ2EydDlRRDdQbWU0WWwyWTEzaUxlblB0cU9ZbXZGOE5CSGQ1SHdDa1pZS001cU85THoyRWNVOXpoV1EzRDltM3JaS3U3ekQtRDVTZg?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-12T11:21:06+00:00",
-   "score": 40,
-   "category": "other",
-   "company": "MGF-Kavachh",
-   "amount": "Rs18 Cr",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs18 Cr",
-    "Seed"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a63f440e8447",
-   "title": "Tata Steel targets 10 million tonnes of domestic iron ore sales this year as captive curbs ease",
-   "url": "https://www.livemint.com/companies/news/tata-steel-iron-ore-sales-india-surplus-mining-capacity-11794471287044.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-12T11:17:19+00:00",
-   "score": 26,
-   "category": "other",
-   "company": "Tata Steel",
-   "amount": "\u20b910,000 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "\u20b910,000 crore"
-   ],
-   "alerted": false
-  },
-  {
    "id": "9a92ad84c1c1",
    "title": "Signify EcoLink Smart water heaters and WinterComfort oil-filled room heaters launched in India",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGVVaWU0VDk1YTJ2NzVvT0c1OU53dWVsU1F1WU1meWgwaGJweUx2QUF6MHpfai1VMDdLaVA0bFB5QXpidkJoa1JULUxDQlluTmxKSU56WjFtUWtiZzdUZGdzQWhLVElLeGNIbUR5ZW9rQTFIRWJsS1YzSExoZGRCeG9hU3JnOVF3WjZkYmkwSlRoQ3IzQXJsS29vTklON3FWZDdpUWllNTFFUktCdDVTRG40a3NFUzNWdFhYSElIUEdxYzTSAcgBQVVfeXFMUGktLW9GRjFIdkxQOHE4WmRjOGo4RDYyOHlJeXR5TFJzbGRwUTJkaG1jdUJqQ3RyNU85X3JCc2tJYWNnU3pZOTJubjBPLVZUeEtFSGtTSWFDTlNyWWx3VG80bVZvdFJwcmFKdkdqSnRJS0JHb0JmdXZidE1qWjRqdDh5NnFvT1FmelVLWDZJNjUwTEpHOTAyTDZ0ZnhGNF9EcTRGdHp3UG1faGIxVG5nY2ZHYmdvd3ZSOHM1YVI0bFVpbFhsSWVQeHY?oc=5",
@@ -6771,24 +6835,6 @@
     "Bridge"
    ],
    "alerted": true
-  },
-  {
-   "id": "a59b9e605cf3",
-   "title": "Norwest's $4 billion fund to back India's manufacturing, healthcare, AI",
-   "url": "https://www.livemint.com/companies/norwest-doubles-down-on-india-with-largest-ever-fund-sees-opportunity-in-manufacturing-and-deeptech-11794475433282.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-12T11:15:41+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Norwest's",
-   "amount": "$4 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$4 billion"
-   ],
-   "alerted": false
   },
   {
    "id": "f22d0a4dc5f5",
@@ -6808,23 +6854,6 @@
    "alerted": true
   },
   {
-   "id": "a0ee63f286c6",
-   "title": "Karnataka may subsidise GPU access for startups through AI hub",
-   "url": "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub",
-   "source": "YourStory",
-   "published": "2026-11-12T11:07:06+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Karnataka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "357ece2d1560",
    "title": "Norwest raises $4 billion for 18th global fund, sharpens India focus on manufacturing, mechatronics",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWXU2aG9NendlSDEyclBmQjBuR0Z4MVZhQ1hoMU1nbmRabkNtTUQyMUNsNGJZT29ZZTdNUVczcFJ4ejM3S0RfUURzLUFFWTgyUnc1OTZoR0JxWDY3SXRKYmNBeS1BaUFpSTF4LW5fcEdSbjBTMl85bDNocGZlbW1NVWg3VHZIc2VJOVNlM1NwUU9iMHMwdEFwXzVPOWg3MThVMjBaZ0FtUUlxSGlHM1lGVHVjQlZROU9qY3NrREJSUzlBel84cmV0cFZVLVFRMllRbURDa3FkODZ6Qm42LTRIOEtNNnhFdWt0elVLdm5NVjRyT20ySXQ4LdIB-AFBVV95cUxPWXU2aG9NendlSDEyclBmQjBuR0Z4MVZhQ1hoMU1nbmRabkNtTUQyMUNsNGJZT29ZZTdNUVczcFJ4ejM3S0RfUURzLUFFWTgyUnc1OTZoR0JxWDY3SXRKYmNBeS1BaUFpSTF4LW5fcEdSbjBTMl85bDNocGZlbW1NVWg3VHZIc2VJOVNlM1NwUU9iMHMwdEFwXzVPOWg3MThVMjBaZ0FtUUlxSGlHM1lGVHVjQlZROU9qY3NrREJSUzlBel84cmV0cFZVLVFRMllRbURDa3FkODZ6Qm42LTRIOEtNNnhFdWt0elVLdm5NVjRyT20ySXQ4LQ?oc=5",
@@ -6841,23 +6870,6 @@
     "$4 billion"
    ],
    "alerted": true
-  },
-  {
-   "id": "7eb96c1d99bf",
-   "title": "KPTCL conquers Western Ghats challenges to power Bengaluru-Mangaluru Vande Bharat",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYlRVSFdNYWN1dHgtN1J3WFNPVE9ucHFVZzNBbDZybEhhdGlRNmdtZXBiMTdkMHB5ZDlvRlZaSndkbVR5aTZPcnpVOGU0ZXJyeWxXQzF5UmZaV3ZQZXdlRFp2R2xYNDFjV3lDWEpVUF85bFNTWlUyeXk4ZWJyVUJiX1hzRTVfMFJTVVhYZHVBTTdYYlpDclM4dVlCZTZvaWRiaGFaMVRyQU1GOWFMX0E3bHdqbEZ2YXVIemk5NGtEdWplMDlRS05KbHREQzFmWnlHYTZ0NWR4d202TXhaOFVsdVFvdFRob3hpLUx2NG55TdIB9AFBVV95cUxOY2JBSTJSMEJ0SURPSzgxcmJjbXRKem1ZNkkyMWhfTkhpa0kzcnVzMzY5LTNWV0g0Z2dBUFpCc0ZkeEY2UkxGNmNRS182WWx1Y0o3R3k3bnY3RVN3b0pqNmNOaXNYbXNhQ3JxUzFyZmphSkg5aGp6eDlZV25wckJJUUp1LXFkRFpqcE4yMFIzWVVBVHZFdWIxYUF4UDJyeXJVWnJPRldzVTVTUGVOYVE0NUNSOVNKOWF1TktxUUxOdFdUOUs3ampwX0oyVXBEOTBCYnJfTHMxTG9yQTRHSUxTWkdjakJuVkhpQmx2Z0xHTlNWRktS?oc=5",
-   "source": "The Times of India",
-   "published": "2026-11-12T11:02:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "KPTCL",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "c59bb816989a",

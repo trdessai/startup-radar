@@ -1,12 +1,300 @@
 {
- "generated_at": "2026-11-18T23:44:45.584465+00:00",
+ "generated_at": "2026-11-19T04:31:24.389818+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 11,
-  "fresh": 7,
+  "fetched": 27,
+  "fresh": 22,
   "alerted": 2
  },
  "items": [
+  {
+   "id": "361e8bd2c73d",
+   "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXh4WFlyQlNJOERFWUlBWVdRUzJFYUhQaGl2Sm91Y3BCNmVmNnAtRFRwUWU5bHlWdDlJcjJ0WkNCaHZ2THBsYzZVOTdIUDg2ZTV1MEUzclJIdUF4d1A5MGlxc2tCRFQ0VW5EUXpBZlQtdXhvMC00cDJVY0dqLTlIX2pqWDAzX0FzTzI4RkdveW9mR0s1bWYtSlJKeGVoRzVYS19LaFBUOENxeEN6?oc=5",
+   "source": "Mangalore Today",
+   "published": "2026-11-19T04:28:25+00:00",
+   "score": 23,
+   "category": "other",
+   "company": "Bengaluru",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "4ff4a6b0409f",
+   "title": "Elon Musk says he feels 'pretty foolish' for failed US election spending",
+   "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/articleshow/135977415.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T04:20:46+00:00",
+   "score": 43,
+   "category": "other",
+   "company": "Elon Musk",
+   "amount": "$220 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$220 million"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "dc53bedffff2",
+   "title": "UAE Court orders freeze on crypto tokens stolen from Binance wallets",
+   "url": "https://economictimes.indiatimes.com/tech/technology/uae-court-orders-freeze-on-crypto-tokens-stolen-from-binance-wallets/articleshow/135977271.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T04:17:34+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "UAE Court",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e305a01a2ddf",
+   "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
+   "url": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-seek-microsoft-briefing-on-reported-ai-deal-talks-with-bytedance/articleshow/135977207.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T04:09:53+00:00",
+   "score": 30,
+   "category": "other",
+   "company": "US",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang's",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "81405fe79076",
+   "title": "Bill Ackman says Nvidia board rushed Jensen Huang's exit without proper scrutiny",
+   "url": "https://economictimes.indiatimes.com/tech/technology/bill-ackman-says-nvidia-board-rushed-jensen-huangs-exit-without-proper-scrutiny/articleshow/135977149.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T04:07:20+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Bill Ackman",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0ba6ad8fd30e",
+   "title": "Joint forces begin patrols in Khulna after KCC petrol bomb attack",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDd6X01JUGUzekxtcUFtQmlrWlFmVk1XMUtWNGpRMGxmUVFlNlhxeG01U3AyV255cVZBdTdWQnJNWGJtLUcwa3c5V2NsWXA4MHkzeU8zQlZXWWhkc1VTVEQyaHNib3pvOGRUUlJNbWpwNG1OTFdnMktmQkxYWnM4N1M4SFZqOXZMU1l2cjZKWENGNG42QmNSb0lSN1JnbUZ6UU9YRFFCd3FQNkpHdFFHdklGV2RWQ0FOSGxOcDdWUHg?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-11-19T02:51:32+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Joint",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2a1f0dfea65b",
+   "title": "'No one can replace Jensen': Elon Musk says Nvidia decision to sack Jensen Huang was not smart",
+   "url": "https://economictimes.indiatimes.com/tech/technology/no-one-can-replace-jensen-elon-musk-says-nvidia-decision-to-sack-jensen-huang-was-not-smart/articleshow/135975859.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T02:50:09+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "No",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "bd130a46a6ff",
+   "title": "Humyn Labs\u2019 $47 Mn Round, From Blinkit To Vice City & More",
+   "url": "https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/",
+   "source": "Inc42",
+   "published": "2026-11-19T02:30:59+00:00",
+   "score": 42,
+   "category": "other",
+   "company": "Humyn Labs",
+   "amount": "$47 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "$47 Mn"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "e38c412e6871",
+   "title": "Surge in software patches likely behind recent tech outages, experts say",
+   "url": "https://economictimes.indiatimes.com/tech/technology/surge-in-software-patches-likely-behind-recent-tech-outages-experts-say/articleshow/135975500.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T02:16:41+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Surge",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "48e619c8f030",
+   "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T02:13:49+00:00",
+   "score": 20,
+   "category": "other",
+   "company": "Arizona",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5ef0840759de",
+   "title": "Mufin Green Finance To Acquire 23% Stake In BimaPay For \u20b966 Cr",
+   "url": "https://inc42.com/buzz/mufin-green-finance-to-acquire-23-stake-in-bimapay-for-%e2%82%b966-cr/",
+   "source": "Inc42",
+   "published": "2026-11-19T02:00:21+00:00",
+   "score": 68,
+   "category": "acquisition",
+   "company": "Mufin Green Finance To Acquire",
+   "amount": "\u20b966 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "acquisition",
+    "\u20b966 Cr"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "6e774acd4ccf",
+   "title": "Inside MS Dhoni\u2019s startup playbook: 13 companies backed by Captain Cool",
+   "url": "https://yourstory.com/2026/11/ms-dhonis-startup-investments-13-companies-he-has-backed",
+   "source": "YourStory",
+   "published": "2026-11-19T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Inside MS Dhoni\u2019s",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "f543eab23a30",
+   "title": "Debate brews over Sarvam hosting Chinese AI models; Grand Theft Auto VI is finally here",
+   "url": "https://yourstory.com/2026/11/debate-brews-over-sarvam-hosting-chinese-ai-modelsgrand-theft-auto-vi-is-finally-here",
+   "source": "YourStory",
+   "published": "2026-11-19T02:00:00+00:00",
+   "score": 22,
+   "category": "other",
+   "company": "Debate",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "8f364743f3d8",
+   "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
+   "source": "ET Tech",
+   "published": "2026-11-19T01:55:05+00:00",
+   "score": 25,
+   "category": "other",
+   "company": "Anthropic",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "620ceea8d2fd",
+   "title": "PW To Set Up Digital University To Offer UG & PG Courses",
+   "url": "https://inc42.com/buzz/pw-to-set-up-digital-university-to-offer-ug-pg-courses/",
+   "source": "Inc42",
+   "published": "2026-11-19T01:12:09+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "PW To Set Up Digital",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "d9a5102df5a3",
+   "title": "Quick service restaurant chain Boba Bhai raises $18M in Series B round",
+   "url": "https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round",
+   "source": "YourStory",
+   "published": "2026-11-19T00:35:00+00:00",
+   "score": 65,
+   "category": "launch",
+   "company": "",
+   "amount": "$18 M",
+   "stage": "Series B",
+   "founders": [],
+   "reasons": [
+    "launch",
+    "$18 M",
+    "Series B",
+    "no company named"
+   ],
+   "alerted": true
+  },
   {
    "id": "98b5ffb826de",
    "title": "AI Is Supercharging Cyberattacks, But Are Indian Enterprises Ready?",
@@ -6475,50 +6763,6 @@
    "alerted": false
   },
   {
-   "id": "e9621a64697d",
-   "title": "Exclusive: Fireside Ventures Sees Another Key Exit, Days After Cofounder Vinay Singh",
-   "url": "https://inc42.com/buzz/exclusive-fireside-ventures-sees-another-key-exit-days-after-cofounder-vinay-singh/",
-   "source": "Inc42",
-   "published": "2026-11-12T17:12:16+00:00",
-   "score": 29,
-   "category": "other",
-   "company": "Fireside Ventures Sees Another Key",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Vinay Singh",
-     "handle": null
-    },
-    {
-     "name": "Days After",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "a204f01c47b7",
-   "title": "Exclusive: Why Zupee\u2019s AI Pivot Was A Smokescreen For Its Shutdown?",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2lqWC05aThYcDlFVElRUnpwYS10RHFMeTBRbDVDcVNCSEdRQXFCWGdLOXY0TlU2REI3N2dnYVRId2NuSWR5OVlBZHZOVHF4OV95TUJocU5iTE5TeVY0WjJqMDk4NW5TMXhPTkw0Z3FIY0F5blNSNkZ1WV9xNm04UGNrLTA?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-12T17:05:11+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "Why Zupee\u2019s AI Pivot Was",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
    "id": "07365505f3cc",
    "title": "Kerala CM Satheesan unveils startup scale-up mission",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcF9aYUdCV0JicENPanNUNjYyWWF5OFY4SlF3WE4xaGN5WDVscmRuV3Foem5PMm1pQUV2b19BVnhXWHFLaV9EcmRUXzR0Q1NZUVdURmJCa2VzRDkzampGMFRUaF9QOWJrZlJMdkhQQmNNTEhOSHJLal9LS2dUODhSdGdxSGJSZnVaM253QURkd1VFcnpVemxRZll6TmZBNVJjNHdoQVFR?oc=5",
@@ -6534,130 +6778,6 @@
     "launch in headline"
    ],
    "alerted": true
-  },
-  {
-   "id": "fca15eb0b4be",
-   "title": "5 lessons to learn from the book Kaizen by Sarah Harvey",
-   "url": "https://yourstory.com/2026/11/lessons-kaizen-sarah",
-   "source": "YourStory",
-   "published": "2026-11-12T12:33:12+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "bdf6a1ec2dd2",
-   "title": "Adani's Kutch Copper signs MoU with Chile's Codelco for copper exploration: What does the deal involve?",
-   "url": "https://www.livemint.com/companies/news/adanis-kutch-copper-signs-mou-with-chiles-codelco-for-copper-exploration-what-does-the-deal-involve-11794484306278.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-12T12:31:50+00:00",
-   "score": 1,
-   "category": "other",
-   "company": "Adani's Kutch Copper",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "question headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1d160d5f39f3",
-   "title": "Keralam positions itself as a value-driven launchpad for deeptech startups",
-   "url": "https://yourstory.com/2026/11/keralam-aims-to-be-value-led-destination-for-deeptech-startups",
-   "source": "YourStory",
-   "published": "2026-11-12T12:31:12+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "Keralam",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c13ed0e6353a",
-   "title": "How Enterprises Are Matching AI Workloads With The Right Models And Infra",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1PN1lqS3FMdUdpeUNmNFdSVGdteG9aNk9xNkpHN0V2WVVSdHJpUGliLXVsNGdGMmhzQ2w0LTVsVXl2bFF5OW85TmpvTDlnZl9VOEVWeTJmMmpfaVB1dWd3OWozcDdFZWppZHNYcWdkeGlUNm5IVGxJSC1lOXpXWTE5Y0xaSmRnVGlWbDFmTHlNQ0oza2kyNEFhMHdWN1Bf?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-12T12:30:30+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "How Enterprises Are Matching AI",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "29f16d9ecb97",
-   "title": "5 lessons to learn from The Secret by Rhonda Byrne",
-   "url": "https://yourstory.com/2026/11/5-lessons-secret",
-   "source": "YourStory",
-   "published": "2026-11-12T12:29:51+00:00",
-   "score": 15,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "7c4416d5260c",
-   "title": "Turtlemint Trims Q2 Loss By 67% YoY To \u20b926 Cr, Revenue Surges 35%",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGVQbGRQLW5qSW55X2ZIVFdCaDZrazA2SUNmWUtlUHBzekxOcXpEeHppNlVQNy1maUo2UEE5RWV1U1J6NlJZSlAxbWZVVTJjcEh0NmVGb1UxYWFyZ3FXTGREM24zUkNFU0tYU2ZleHR4M2ZZd3I3bnI2U1IwbGRNZUdKMFBqUDZuWE5vR3d1M01QZERuNENGb0Fn?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-12T12:29:33+00:00",
-   "score": 33,
-   "category": "other",
-   "company": "Turtlemint Trims Q2 Loss By",
-   "amount": "\u20b926 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b926 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b0cd8c9c56c0",
-   "title": "OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTZFXzVnNlBVTHlLdlh1bWJBYk9JOWlIQVJNQkQ5TDMzWl9uTGFJbDJYa1V1cFBsX2pGS05xVGowNEswUUp6M2dicEVtY1NRampMUThGLUNHYzVIb3owTUhNUExvU0RWbml4d3hrYl9MOGhNSTllT0ZBVDFyMEYwV2p5UDNnSW5YM2FBR055c0p4dEtNMmZYdnhJdUpPbFZtbjJtRVFn?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-12T12:28:31+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "OpenAI Brings API Inference Residency",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
   },
   {
    "id": "22953efad854",
@@ -6695,23 +6815,6 @@
    "alerted": true
   },
   {
-   "id": "9c685455403f",
-   "title": "Brandman Retail Targets 50 Stores by March 2027, Eyes Tier-2 and Tier-3 Markets",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzJuTndwaFJUdzFZaHdaV0VTdHNENW12LXFVY1Z5d0NLaFM1OU02T053ZGNKclU0QmRXTzdLUUZGQ0VYUng2bGlpUVZja2daWDNURlBoSDRkd2tvUWh1S1lEbW05RVhwZmlmVG1WamRfMWZMc28xTWhMOVhqNjBMQm1ydTRfMlpkR3hBUzlKc2I1alB2UkxHUTdVWmEyVFgtR08wUDlEOWl3b3ZLS3pnb01VX2ItZWdueDlsSDZiZ1R5WXBMTGkzYWR3?oc=5",
-   "source": "Indian Retailer",
-   "published": "2026-11-12T12:10:39+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Brandman Retail Targets",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
    "id": "beff8cd1abff",
    "title": "Bootstrapped Mumbai pizza brand Hundo Pizza raises Rs 7.5 crore in first institutional funding",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWE3dG1KSjRGaUhLVDkzUlpQdXlPek9LS3hub0dXSDZHUTRCRDZhMkxOQzlIdFZRVUxFaEczS1cwel9aQWxZVTY4a1hOWDdSTmJZSUNEc2tXM2Q2VkZleVpKdXJfQTVJbnZOa3RxS3pjQXZ5S2I3ZnJKVTZKdmJrd21MbnplNmczR2xHYm10bXFYNnJISmUyRVdXZzZCd3NackxTNzBxREd6YTduR1JsMUlnRFNZLTZOZWlhY3Vzc2llMUMwMkpnVktUUUNheEkzODQ1Z0pLY9IB1wFBVV95cUxNYWE3dG1KSjRGaUhLVDkzUlpQdXlPek9LS3hub0dXSDZHUTRCRDZhMkxOQzlIdFZRVUxFaEczS1cwel9aQWxZVTY4a1hOWDdSTmJZSUNEc2tXM2Q2VkZleVpKdXJfQTVJbnZOa3RxS3pjQXZ5S2I3ZnJKVTZKdmJrd21MbnplNmczR2xHYm10bXFYNnJISmUyRVdXZzZCd3NackxTNzBxREd6YTduR1JsMUlnRFNZLTZOZWlhY3Vzc2llMUMwMkpnVktUUUNheEkzODQ1Z0pLYw?oc=5",
@@ -6730,42 +6833,6 @@
    "alerted": true
   },
   {
-   "id": "3e6eb9cf980c",
-   "title": "CCPA fines Ola Rs 10 lakh, says advance tips turn a gratuity into a \u201cpre-service toll\u201d",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqYWNXS3dSbHJJN3BlNXgzdE1GdDFlTkRsLW0zMVhkT0pvUzV2VlVNd2ZQMnc1QjQxQjN4c1dFMDEtRUZMRnhiM0ZQVkpyc3J1VTlWeTlyMWtmOFo5ejBSaVBnWEY4eWFRUlp4MFNLY2NELWU5TU9USXJR?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-12T11:55:18+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "CCPA",
-   "amount": "Rs10 lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "Rs10 lakh"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1963c99ac655",
-   "title": "AI, financial services and smarter chats: Kunal Shah reveals the next 3 bets of WhatsApp",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVY2bllzc0ZOOVpvaFl4WkhyMFU1eDM5cU1OS0J4cjA2NkhBNTRpeVNmOTFOYWlzb3lfSTNIOGd5T0NJbGpQSFoyeVZERGNWeXNxTHlHZ0NYRzZqTHRKM2xSZ3JjX2VyWFJLRkhRWEpJT1dDOFBfVjJvQkE3U0kzcXJIQUc?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-12T11:48:54+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
    "id": "5125cead89e2",
    "title": "Exclusive: Sofina To Lead PlatinumRx\u2019s $32 Mn Funding At $200 Mn Valuation",
    "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
@@ -6782,41 +6849,6 @@
     "$200 Mn"
    ],
    "alerted": true
-  },
-  {
-   "id": "657cf61fc2ac",
-   "title": "Lowdown: European Commission proposes Digital Fairness Act to protect online consumers",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XeFMyV2FUa3Ytc2JsdmtxZElOUTB3Z05kV3FQT2d4SDIyM2MtNlpWMnNZeWlkOW9GeVpMNF9ZVHZfMGxWal91Q0xpaGYxTHh5NzVGVW5tWHNHQ0x6V3Ryc0g4d2NpbEdPWlhlRWo4dmZoczJIWC1VYlJQMC0?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-12T11:44:43+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Lowdown: European Commission",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "cadf5fe8cacb",
-   "title": "Indo-German JV Benecore bets \u20b9200 crore on making diaper, sanitary napkin material in India",
-   "url": "https://www.livemint.com/companies/news/indo-german-jv-benecore-rs-200-crore-diaper-sanitary-napkin-material-india-11794478439798.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-12T11:26:55+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Indo-German JV Benecore",
-   "amount": "\u20b9300 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b9300 crore"
-   ],
-   "alerted": false
   },
   {
    "id": "9a92ad84c1c1",
@@ -7060,46 +7092,6 @@
    "founders": [],
    "reasons": [
     "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c700c79de0cf",
-   "title": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-   "url": "https://economictimes.indiatimes.com/tech/technology/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment/articleshow/135753152.cms",
-   "source": "ET Tech",
-   "published": "2026-11-12T02:57:10+00:00",
-   "score": 65,
-   "category": "product",
-   "company": "South Korea's Lee",
-   "amount": "$30 billion",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "product",
-    "$30 billion"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "56d9f7ae63fb",
-   "title": "GoKwik\u2019s ESOP Twist, New CEO At Unacademy & More",
-   "url": "https://inc42.com/buzz/gokwiks-esop-twist-new-ceo-at-unacademy-more/",
-   "source": "Inc42",
-   "published": "2026-11-12T02:30:11+00:00",
-   "score": 56,
-   "category": "product",
-   "company": "GoKwik\u2019s ESOP Twist New CEO",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "At Unacademy",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "product"
    ],
    "alerted": true
   }

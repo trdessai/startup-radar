@@ -1,12 +1,102 @@
 {
- "generated_at": "2026-11-20T10:31:46.114353+00:00",
+ "generated_at": "2026-11-20T18:45:57.284470+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
-  "fresh": 36,
-  "alerted": 11
+  "fetched": 9,
+  "fresh": 6,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "fcf4ed2ff043",
+   "title": "Disseqt AI raises $8 million, plans India hiring",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNUbnJUNzJHT2xLb3NweWJ3UFRubVotQ2R0OExVUXpmN1J0ZEN2Smptbi1kd3pTbUpwTXNFS1RoMnB0ZWlrbFRYbGJ6eGt0QVRTSkFjbG5obWRPQk5CU3owY09laFI5TEZzOEpsOVl2YlFySmNRYWI0UXdDQ0M1OEN2eUhWYXloVEp5bGNWLTZqcmtD?oc=5",
+   "source": "TechGig",
+   "published": "2026-11-20T17:26:15+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Disseqt AI",
+   "amount": "$8 million",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$8 million"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "75947c72acf2",
+   "title": "Who is Jay Mehta? Meet Juhi Chawla\u2019s husband selling half of his 45% KKR stake for $400 million",
+   "url": "https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-20T17:21:34+00:00",
+   "score": 26,
+   "category": "other",
+   "company": "Who",
+   "amount": "$1.78 billion",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "India only in body",
+    "no clear event",
+    "$1.78 billion"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "adfcbd43218a",
+   "title": "StepSecurity, founded by two Microsoft vets, raises $20M to defend developers\u2019 tools from hackers",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXQ5VnNBVjViT0hleUx0UFBnOGJGamRHa3B0UnUwWVIxLXBhUG9icjJpVzVqWFJ1VFR3cjF1WnFIRzJzSE9fUHBXb2hPRmlCZ1g1RkpLbGd3VlRTeVVzM3dhUDBNUDlDU0lzcDVEY2p5YldHRVRzNjd6WU91cVBSSHlRNGxkZF8xRjBfYjdzcXlvaFplOC1HUzl4YWhJRGJaZFdpd1NzNVJvakRvalNrWjlmV1loWG93bk4xQVFoSzFtUQ?oc=5",
+   "source": "GeekWire",
+   "published": "2026-11-20T16:28:29+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "StepSecurity",
+   "amount": "$20 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$20 M"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "8c0bd1e0e1d5",
+   "title": "Tukaram Mundhe's FDA suspends licences of Blinkit, Chaayos, 5 Spice among 6 Mumbai establishments: What inspection found",
+   "url": "https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-20T16:28:13+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Tukaram Mundhe's FDA",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "ec89c7d5d640",
+   "title": "Paytm to invest up to Rs 200 cr in Singapore\u2019s Funding Societies, pick up 19% stake in CardUp",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHczSU8ybldPR29YSll6dkZEZm9NZFM1Yk94a3VhSWFscDlxb3ZTWnJnMElaSTlVSUZWSVRWMVpxM0JNUk9xQWpVdk1Nb3FZVXNkTE15UW5LLWxLRENmSWo4WDN2M1RfbmhpVkdsaXloTXdXMEpxYmNmZk0yUzlwT1RBcV9WQmQ5cXMtSlJtSQ?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-20T14:49:33+00:00",
+   "score": 78,
+   "category": "funding",
+   "company": "Paytm",
+   "amount": "Rs200 cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "Rs200 cr"
+   ],
+   "alerted": true
+  },
   {
    "id": "33136585c4b0",
    "title": "Underneat Takes Online Brand Experience Offline with Gurugram Store",
@@ -6951,168 +7041,6 @@
    "reasons": [
     "launch in headline",
     "Rs21.35 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b61a69cd71d7",
-   "title": "The secondary market is filling a funding gap and changing Indian venture capital for the better",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRWNSU2Y4NWxPcDJEaVAtS0ZXbS1acFg1N3R4d0RpbXdGTjF1SV9ncHBSb2lzSTA1b3Y3TG9WOHF2X3Y4OFB2YmpYUlZZZ0w0RGVrUDJpcjVxZE9QRkNOTnJBcktuZ2RUU1JXcDdiZ3pfMmZObGhYTExuX3ZwZkZrU1RCYTBpT0MxS0d6TlBjRHgwV3c4S3ZhOXZNNnBnOUpndG1FYmJQRVd6TGgxbGl4NlJSWXlvX1ZsZkhlSlhocXNBUkxwQ29ZdEYzd0FBLWI5aTZFRmhzbVhuWEQ4OEU1S3ZHLWE2VVlkUWpDRFNOVjZxNVZtSEFwbGsxdmF5ZXdGdkHSAYcCQVVfeXFMTlplOGRGREJHMDN6Q3ZnRTgtRUFxcDgxZ3pqbnl3bndEX1I3VWxYNURxX3g1UXFFV2JxcmFJd290YTZfZG9SMDVfMTd0b19abkR5OEczR0tHU2x1RnM0cmlVZ1ZjWkRNeURjcHpMZldndzU1OFZJTEYwTmd5YVBjcnFHeUlsSEMyRm13aThzQ0daelhLbmhUamp6eEdGMTN0c0tOQkZaWDBEV2xNMUxXbFZNZDdrODVhMU44am5oNk4zWjRZcmFldGxwdlZhWjNLa2czaVViTDktRjdNSEVsYmFmY19UZWxyMnEtdkxjVWVKZENPOTN3QXIzZTdpUzlxZ3lfNW5CR0E?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-13T18:20:21+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1bc6a53cb4da",
-   "title": "Morsa Raises $1.5 Million Pre-Seed Funding Led by Jackson Square Ventures to Automate Manufacturing Operations",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSlEtbGs5ZzBTa2Y0a3NuNjFRd0tUakVWMnlrSEJNZWZSNXRGREs3WTE4SWJYUkstZWtBU1pqcWEwcmN6LUlXdUpQY2FTZFpwSG5LY3J3NWtMdFJkYzBBWFNIM1FaWFRnTzZvYUhKdUxGZUpSSTBnWEJBSWJFaWhocFdLMk96ZXl3ZHZUSGU0RVhhSkZVbW43LU15NnUxZzNISUswY08wWGZEU0tqcnV2Rm9JMERVdUVzZFhMTUNlaWk1X0EzQWVKNVAwMTNGSkRVd0FoSnlMRGdBWTd0RnRZQ09HSjVrOGRpZTNpag?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-13T14:28:43+00:00",
-   "score": 82,
-   "category": "funding",
-   "company": "Morsa",
-   "amount": "$1.5 Million",
-   "stage": "Pre-Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.5 Million",
-    "Pre-Seed"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "58051a2cbac3",
-   "title": "India's emerging VC managers face tougher test as seed funding declines",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHQ2UDFsMnhiSWlzUk5DalBIS082bWo4NjZteUdqVUpIZnBiazFnX0t4SFYyYWRBRnpJcmZEZUlNNC1WdTExcTBmMU5qLUdnYWNPQ0tOVEQ1SjlrcFVpQ0tQYXJjTlhGdkxlZzVjZVpBQ3cyOVo0ME9YNWE0THB6U2dMNkpsd0FYZG1NV24tdUhOQmNoYUZ6VHVXeWxaU3NYYnQzZmhsNURSeDN0R1h1VC1VSEFNTkpkcW1LRnp2bG51LUpzeVlzMzl6aGZCVkhPRlVyc1pIaTNDT1hBVmfSAeMBQVVfeXFMT2RnaDZCMThQVlluZU50eE55UG82a051UTRDUkExeFFNUEZkRS1GTGdFQ0h4aXhNMDF4aXd2eEpYUF9UWVJvME5qVU5vWGFFT2xJTVdpQThpOFA5RE5RUzZsT1VoREk2bmZ5cHYzdEh1M0p3X3lCZzJSM285M1pmOFU1bFI2UGVpeE9Uc2JyUVFpLTZoX0pWV05ZV2lLQjlENVRiWEJvbzlfaGFRRUhvSjFlTUFaYVdjVEFNdjZ4SDhQVUM4NVRSbEw2WU1va1Rmamh0amF2VzRYV1pRaXJGcEppWkU?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-13T14:08:39+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "",
-   "amount": "",
-   "stage": "Seed",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Seed",
-    "no company named"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "83c84a6aa5e2",
-   "title": "New-Gen Toyota Fortuner India Launch Expected in 2027; Price May Start at \u20b940 Lakh",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckN2YXhtdmxHZWZhR3FNV1UtV0luQm04bkI0czdqTGNaanE0bVhocEg5QUJLU0k4WUQyVHJHbG9RT1g5R0JObzE3ZEdjTFhJUlNsOHBsVlNUalNEc0RNbjZGYzJScC1waXhXMG5WdXRaZkpzMWI4S1VZTDBNX2lQY2FRTlRFR1ZkYXdHNE81OW8wV041SHc?oc=5",
-   "source": "https://ascendants.in/",
-   "published": "2026-11-13T13:24:10+00:00",
-   "score": 69,
-   "category": "launch",
-   "company": "New-Gen Toyota Fortuner India",
-   "amount": "\u20b940 Lakh",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "\u20b940 Lakh"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e5651f9c8a78",
-   "title": "Kutlerri.ai Raises $4 Mn to Scale AI Agents for Restaurant Businesses",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFlOUmgxX2R0cnpUTkhWUkt1bTFCOEo3bUhPRUd2RWo5cVpfbXJoclJwN2RUU2ZGU2JJazR0b3B2QmlBMW5vU2FRRm9xcXlfRXRQNlBwOWZuNkgyRlZJSjZwTUJEdkZ2WlBFQ2hrRXZRWUs3VGtFQ0Q3MWMwN2RtUFJCN0gzYl93ZDFtX3FmWFlPMDF1RUx1ZFl5dkZqSUwzSlh5UGdrQ0tJZw?oc=5",
-   "source": "https://ascendants.in/",
-   "published": "2026-11-13T13:11:11+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Kutlerri.ai",
-   "amount": "$4 Mn",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "517c40130ad4",
-   "title": "Sembcorp Green Infra IPO: Temasek-backed renewable energy company gets SEBI nod for \u20b93,750 crore public issue",
-   "url": "https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-13T13:04:59+00:00",
-   "score": 58,
-   "category": "expansion",
-   "company": "Sembcorp Green Infra IPO: Temasek-backed",
-   "amount": "\u20b93,750 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion",
-    "\u20b93,750 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6a1c400fed92",
-   "title": "Can an AI agent run a factory? Morsa raises $1.5 million for 'AI COO' that works in WhatsApp groups",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS29DMnFtcWpEOURZRXBIZ05tOTUxOFNQVGtkZC0xTk13Sk96VjZwMjBjazhVczhmU1BWOGtRSVdmbHhmRjdOb1BnaTBOaWZwUHZQM3l2VmxaWFRLMk5IYlY2MFp2T0tzZC1DRWN3bEk1Rng0bllXTUdPcDVrN3pYZjcwbHNMemVkbVRNbnNpM0toRVZEc00tMjI4akdkTVNWWmNNejFuV2FHbjBnZ19YTjNOTHo3dG9QY3RlS2pzOGs3SDFDLUdWck1UNy1vbFZwUE1uNTllSnXSAdgBQVVfeXFMTktvQzJxbXFqRDlEWUVwSGdObTk1MThTUFRrZGQtMU5Nd0pPelY2cDIwY2s4VXM4ZlNQVjhrUUlXZmx4ZkY3Tm9QZ2kwTmlmcFB2UDN5dlZsWlhUSzJOSGJWNjBadk9Lc2QtQ0Vjd2xJNUZ4NG5ZV01HT3A1azd6WGY3MGxzTHplZG1UTW5zaTNLaEVWRHNNLTIyOGpHZE1TVlpjTXoxbldhR24wZ2dfWE4zTkx6N3RvUGN0ZUtqczhrN0gxQy1HVnJNVDctb2xWcFBNbjU5ZUp1?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-13T13:03:49+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Can",
-   "amount": "$1.5 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$1.5 million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f5f91bdb2e7f",
-   "title": "Kutlerri.ai Raises $4 Million from Narahari Investments to Expand AI Solutions for Restaurants",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMWdnVWRRNm5lWWdCbkNoTzMycUIwYmRYOGdob0c3M3M5eWJWdDBnTEc0OGVQdW9iaVEzUUxqdjNvd3I0VllZWkY4eEJ6ejJpdXF1VUZfRVFKUENPZjQ0bElHRzhMV1hFSWxnVFIxRkxnLW1kUzc0aU1ldHVPZUhZa2w5cDkwY1M1enAtelIwaW5JQW9mSkJDWWhadVV1TzhTLUtlMDBRdVZrQlZNdXV4TGg5MWJmQkc4VllTN292N2V0Qy14T0RUMFA3VHNQNFU?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-13T12:54:45+00:00",
-   "score": 70,
-   "category": "funding",
-   "company": "Kutlerri.ai",
-   "amount": "$4 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$4 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c28a27af5345",
-   "title": "STMicroelectronics unifies STM32 platform, introduces three new MCU families",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS19BRmkwcXp5Qjg2UmNXUzVrU09yRFRRODdyRC1GTmhYaXVnVTZuZnlWMy1DUDhFM0VQS2VCRzRUY3RrQ0ZOZk1iNk1IUV9GZVQ3RWNMcFZ5LXdOdEtoR3ZuN2lHRE42RmtJVFdGVzdGV2lPb2RfYTRVT2JqZndPOXZxbldzZ1Fveno3ZlNmTXZZaXJYVVl1aVUwaGJ0dmtVaFlpVDROQWpLaUd4dV8tazBzT1M2dw?oc=5",
-   "source": "Manufacturing Today India",
-   "published": "2026-11-13T12:22:37+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "STMicroelectronics",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
    ],
    "alerted": true
   }

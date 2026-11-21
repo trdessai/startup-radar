@@ -1,12 +1,90 @@
 {
- "generated_at": "2026-11-20T18:45:57.284470+00:00",
+ "generated_at": "2026-11-21T00:17:22.676521+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 9,
-  "fresh": 6,
-  "alerted": 3
+  "fetched": 6,
+  "fresh": 4,
+  "alerted": 2
  },
  "items": [
+  {
+   "id": "8d7619c56618",
+   "title": "System Upgrades At Banks Resulting In Withdrawal Delays: CoinDCX",
+   "url": "https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/",
+   "source": "Inc42",
+   "published": "2026-11-20T23:13:33+00:00",
+   "score": 24,
+   "category": "other",
+   "company": "System Upgrades At Banks Resulting",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2c10b6ffb856",
+   "title": "Fact check: Former Nvidia CEO Jensen Huang is not launching a new semiconductor startup | Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWx2OXFNeEJKdGxMUWk1bzlXbXRTM2xxZmYwbi1CaXB6ZWRTU2lJTmtYVnVDMEwzc2RBTDVnT3B6UXFOU01IWUR2TjFvblBfODc3cllqR0ZkcG5SSExtQTIzUDhqZWRpdHI4ZVdkd0tqV3ozQnVjc01TQWlhTVZ4aG5ZVXAxQTBXZnBDQXl5cXZ1VUxNT01jZ3JhZm5Ib09rS0p3blpVZFNXX1A2aVQ3RUM4d1dHdTc3bHc1azgxV2xpX1VfMDg2Umk4a0E0djJvQVNueGhudzZKTDJuWVFMRk9TTzlXaHYzb1ZEVkV30gHzAUFVX3lxTE93X1BCODVvbF85bEhBYXEtdktKWDYzODZFcjN5Qjlic1RYbDNPTTJiZ2syME5NNDJhU01hWVBqSWhJbzBHOGFSM1Zya240bzIzQWtSWFQxdURmRFlpNlFHRUZrbGtCVDJZR3ZWRFdQb2tlYlE3MU1VcnNaRTBmMzgxT2FjRlBVRktnSmYwcXJqMENCdHlRYVZDZ193aW1RUUxKV2g2cjdTWkF0UEZQbW5tamx2REt4WW5LSVBzTzI5UVNGZE9PNm1WZUFhUTFnV0lXNVdFOWZSbXFDWVFCOHdsaUpWNFNFMXBDXzFmRkZmbTFVUQ?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-11-20T21:40:39+00:00",
+   "score": 68,
+   "category": "launch",
+   "company": "Fact",
+   "amount": "",
+   "stage": "",
+   "founders": [
+    {
+     "name": "Jensen Huang",
+     "handle": null
+    },
+    {
+     "name": "Former Nvidia",
+     "handle": null
+    }
+   ],
+   "reasons": [
+    "launch in headline"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "c3ae152f099a",
+   "title": "Polygon Expands Cross-Border Payments Push, Onboards Nuvera",
+   "url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
+   "source": "Inc42",
+   "published": "2026-11-20T21:19:07+00:00",
+   "score": 54,
+   "category": "expansion",
+   "company": "Polygon",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "expansion in headline"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "0dcaf58a24a0",
+   "title": "Oister Global launches $64.5M deeptech growth fund for India",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanh2TUNhSy16c0pWUGd5cnUtcVRFYXp4Qmt1djM4VnRsM05LamluQXNuSlFwM2pWaTk2OHQzY2NfZkVkLXowX2NsUTN0NmhrREtIXzB3LW9kX0FPcWZlNTdrWHpBRi1YT0pobWNJb2FGaXFEQS04QXFDRXZCTk11Nm9UZmR4YWpqcFBFak1QSGJ4YVBnNVdxZw?oc=5",
+   "source": "Dealroom",
+   "published": "2026-11-20T21:02:17+00:00",
+   "score": 81,
+   "category": "launch",
+   "company": "Oister Global",
+   "amount": "$64.5 M",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch in headline",
+    "$64.5 M"
+   ],
+   "alerted": true
+  },
   {
    "id": "fcf4ed2ff043",
    "title": "Disseqt AI raises $8 million, plans India hiring",
@@ -6936,113 +7014,6 @@
     "$1.2 billion"
    ],
    "alerted": false
-  },
-  {
-   "id": "3a92930dfbaa",
-   "title": "SoftBank Offloads Meesho Shares Worth \u20b91,855 Cr",
-   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
-   "source": "Inc42",
-   "published": "2026-11-13T22:09:36+00:00",
-   "score": 42,
-   "category": "other",
-   "company": "SoftBank Offloads Meesho Shares Worth",
-   "amount": "\u20b91,855 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91,855 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "6131972b67c9",
-   "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGxSdmNfaE5Icy1zLWItaXZCUFhjVTNSUGFFd093V0N1R0lwSGQ3QmtEcjYwdXcxb3k4YzZjWURWelNjMlZHZ2hoQTZxV2diXzRoU0Y2VEJ6Yy1pV1V0T2F4R0ZmcE1Ec2tlOGMtVnJoZnJpU1FwbDZoSm42NUQwVzBFbEREQQ?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-13T21:26:03+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Sachin Tendulkar Backs Waste Management",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "730de12c0035",
-   "title": "[Update] Razorpay Gets SEBI Nod For \u20b96,000 Cr IPO",
-   "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
-   "source": "Inc42",
-   "published": "2026-11-13T19:55:13+00:00",
-   "score": 30,
-   "category": "other",
-   "company": "",
-   "amount": "\u20b96,000 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b96,000 Cr",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "9b30f2332ff9",
-   "title": "Zelio E-Mobility\u2019s Net Profit Zooms 2.6X YoY To \u20b931 Cr In H1",
-   "url": "https://inc42.com/buzz/zelio-e-mobilitys-net-profit-zooms-2-6x-yoy-to-%e2%82%b931-cr-in-h1/",
-   "source": "Inc42",
-   "published": "2026-11-13T19:37:04+00:00",
-   "score": 34,
-   "category": "other",
-   "company": "Zelio E-Mobility\u2019s Net Profit Zooms",
-   "amount": "\u20b931.4 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b931.4 Cr"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0a993ace2e02",
-   "title": "Bengaluru Mangaluru Vande Bharat Launched Amid Boarding Row",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWhtNk5BbTJhbVhzQjI2ZDc0MGpfUVUzb19aSE85ZW5Ta1BOOF9jbHlWRm9CUmhNWnJEdkhzVHRONzJ5Zm5TX0JFSm9UWUFrZHRENUJZblVPa05VazV6eTNfRjF4a0FsYXNzdUhydEJ0bGlyNDBRTFl0Q000RGVGSTVJU1ZkVG1wcUdCSmxNSnlUVmVyTFVueGpfU2c0NjZZ?oc=5",
-   "source": "Urban Acres",
-   "published": "2026-11-13T19:22:15+00:00",
-   "score": 63,
-   "category": "launch",
-   "company": "Bengaluru Mangaluru Vande Bharat",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "b98747692d62",
-   "title": "Shivraj Singh Chouhan launches National Scholarship Portal; over 6,000 receive Rs 21.35 crore through NSP-DBT",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa25FLVVjS1F5U0lzVFlRLWdfc1ZEaUpYTlZ3aXRnUmhELXNaN0F4MmpIOEpXOEc3SzRFelhPSHNnSnoyUjNwX01SZXJtamlKZFpYaGd6VC0xSGhmNWpQZ0YzdE9VWHRuNmtWcWs5WmdNSUpUT0EzYzRoblZsbkFqbGtjcGIxTHZwS0tOMkR4aEM1WW5iaWdZeUVpLTdVZlJVZnhTMU1LY3BkejZnTjhLQkxkSi1EazRENnFuRktscXNmbFdUdTZpSXNwR21iQQ?oc=5",
-   "source": "DD News",
-   "published": "2026-11-13T18:57:11+00:00",
-   "score": 73,
-   "category": "launch",
-   "company": "Shivraj Singh Chouhan",
-   "amount": "Rs21.35 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "Rs21.35 crore"
-   ],
-   "alerted": true
   }
  ]
 }

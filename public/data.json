@@ -1,12 +1,101 @@
 {
- "generated_at": "2026-11-26T10:54:28.977972+00:00",
+ "generated_at": "2026-11-26T19:54:07.800765+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 47,
-  "fresh": 38,
-  "alerted": 8
+  "fetched": 13,
+  "fresh": 8,
+  "alerted": 3
  },
  "items": [
+  {
+   "id": "6acf4eeaf4c7",
+   "title": "Green Aero raises $14 mn",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGI5MjJERXNDN1M3TnVaS2xBTGhqR2VWLXdPdVVyYnNMb3UyOFdCWFpnQi05a3VQRjdxRVphWWFwbktqZHQyUmlIZmowaWdsVnhLVWk1MFFUU1VBRVRGUGNub2diUGxFSEQyYmpxZ3pka05oWklJUHdPb0tyM1hTNE5tdEhYZndMenVpLTkxQ1RXSnNlWXQxLTgzSlYwOTdPUkwzcFRkdGRZelNiRXIxWU92UdIBswFBVV95cUxQeGI5MjJERXNDN1M3TnVaS2xBTGhqR2VWLXdPdVVyYnNMb3UyOFdCWFpnQi05a3VQRjdxRVphWWFwbktqZHQyUmlIZmowaWdsVnhLVWk1MFFUU1VBRVRGUGNub2diUGxFSEQyYmpxZ3pka05oWklJUHdPb0tyM1hTNE5tdEhYZndMenVpLTkxQ1RXSnNlWXQxLTgzSlYwOTdPUkwzcFRkdGRZelNiRXIxWU92UQ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-26T18:46:00+00:00",
+   "score": 74,
+   "category": "funding",
+   "company": "Green Aero",
+   "amount": "$14 mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding in headline",
+    "$14 mn"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "1bd0218361dd",
+   "title": "JioStar enters US streaming market with 7 Indian channels on Fubo; here\u2019s how much it costs for Hindi entertainment",
+   "url": "https://www.livemint.com/companies/news/jiostar-enters-us-streaming-market-with-7-indian-channels-on-fubo-here-s-how-much-it-costs-for-hindi-entertainment-11795712140816.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-26T17:43:16+00:00",
+   "score": 55,
+   "category": "launch",
+   "company": "JioStar",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "launch"
+   ],
+   "alerted": true
+  },
+  {
+   "id": "3433d8e5656b",
+   "title": "2737",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Pb2RtNlZhb0tEeTJGTUhSNFkxZ0twbnAwT3JXLVBrSzRWemxtVXFhWk9MTWdrYzJ0bmQ5emU4YUtyRi1mZGNOUXowVExsc2dTT0haeVBvdHZsTTAzdTd3?oc=5",
+   "source": "MediaNama",
+   "published": "2026-11-26T17:17:28+00:00",
+   "score": 6,
+   "category": "other",
+   "company": "",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "no company named"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "2a78ff239d55",
+   "title": "Norwest Venture Partners sells 2.15% stake in Amagi for Rs 262 Cr through block deal",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3MydDNiQ3FCd0gyRHBqMDNJdWREdWFnbWJUYUUtV2hIUVp5TmgyN1ZySDE4OFp6eVZuYWJmUFZKUDRoUkhLZVI3T3NmUW5DNDNEVzlFYmpQNUJPcU1wUS00NE9MbkIwRkpmeHVHc1VMZFZIYUx6TS1xZzJTN1NmcWxBcGZ5T1N4a1h1T2xJTml0SWhTMmdTZHZncDhwa0VlaTd0S0VsQ3c1Q3dUQjlXenNQS2tFLXUy0gG4AUFVX3lxTFBDczJ0M2JDcUJ3SDJEcGowM0l1ZER1YWdtYlRhRS1XaEhRWnlOaDI3VnJIMTg4Wnp5Vm5hYmZQVkpQNGhSSEtlUjdPc2ZRbkM0M0RXOUVialA1Qk9xTXBRLTQ0T0xuQjBGSmZ4dUdzVUxkVkhhTHpNLXFnMlM3U2ZxbEFwZnlPU3hrWHVPbElOaXRJaFMyZ1NkdmdwOHBrRWVpN3RLRWxDdzVDd1RCOVd6c1BLa0UtdTI?oc=5",
+   "source": "Entrackr",
+   "published": "2026-11-26T16:52:35+00:00",
+   "score": 36,
+   "category": "other",
+   "company": "Norwest Venture Partners",
+   "amount": "Rs262 Cr",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event",
+    "Rs262 Cr"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "5325ac3c6943",
+   "title": "GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn",
+   "url": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/",
+   "source": "Inc42",
+   "published": "2026-11-26T16:47:45+00:00",
+   "score": 77,
+   "category": "product",
+   "company": "GEF Capital Partners",
+   "amount": "$615 Mn",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "product in headline",
+    "$615 Mn"
+   ],
+   "alerted": true
+  },
   {
    "id": "b7828ce67898",
    "title": "CERT-In flags high-severity vulnerability in eGov\u2019s DIGIT platforms",
@@ -5185,589 +5274,6 @@
     "no clear event"
    ],
    "alerted": false
-  },
-  {
-   "id": "b48416202d64",
-   "title": "Accel\u2019s Prashanth Prakash Outlines Three Investor Priorities To Drive India\u2019s IP-led Growth",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTBQTmtCdXFzeG1GZ090MkxCN3l6LXJEUV9TaEtaTjY0SGhqdGppbkQzeHVvbHNIV2t4NUlRb3lwTXVuT1Zlc0VSSldBZHZNdTlUbWUwZ0FpYXB2cFppSXdFUUpZR0FxUDUxRTBoTUNVN25BNWZoLUkxNFhhZEx3MTdjRkZZS2NrbGdjVWVPd0xndVlPLVV4Sy1CVmhuRUhOZFlnb3c3NkU5NDJQVzNYMlhkU2dSb2VxU25ISEZUWG5idWtaMmt3aVMwb08?oc=5",
-   "source": "BW Disrupt",
-   "published": "2026-11-19T19:42:28+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Accel\u2019s Prashanth Prakash Outlines Three",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4531b65458a6",
-   "title": "Strengthening India\u2019s Space Sovereignty",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNHZxQUJKbER3TktaNW5jZFozYUxpNHFxVW1mdGI5aV9PZU5WRlA2a0pGY25yeWF6MHNOMm5wakVPMmpJRFFNT3ZYbGZDYnFTX1FvQl9vVVBKcUVOVVFlalFKRmV1TG1ER1ZnOEFUMDBPcktvS0JMQg?oc=5",
-   "source": "www.pib.gov.in",
-   "published": "2026-11-19T19:05:29+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Strengthening India\u2019s Space Sovereignty",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "c459d0a98d82",
-   "title": "Indian startup is building a \u201cthermometer for the Earth\u201d: Satellites will measure temperatures with street-level precision",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82QjRkMUp2RXJ4RFQtVjdpcGxUSEFQTGU1T0hIRVRJRjczeDlMVXlMYlZwN2JpcHBhanhtWGc5U1ZLXzBJY2lWXw?oc=5",
-   "source": "NEWS.am TECH",
-   "published": "2026-11-19T18:30:00+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "47e1b74fc63f",
-   "title": "Bengaluru Tech Summit 2026: Startup\u2019s AI device targets traffic violations",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON3NxazBRbnhXRTlhSXQ3eXZKRUhBbFJXM1IxTUxfSUJoTU54eEdUeFVtUlY5UXZOU3JhMl9oUVdjeFh3NUFpU1dkallZRHJyOXRWX2JpZUZRNjQ5TVJnZS1FaXpSb1NVR2dDWXhoQUZISlNJZ1p1akpQWGVYd21kclcxSlRiTnMwS3hJUVpWTy1QRm1qeTlJYWJCNXNFNGZIeUpXck1WendzOFBGLURMOGJ5LVlkY1RPR09FWXBhSnNBcUw5SlZ6MmZRc1JSa29QVkE1dTNlSHkzUkZpc3BDMzY2eExGMGZs0gHoAUFVX3lxTE43c3FrMFFueFdFOWFJdDd5dkpFSEFsUlczUjFNTF9JQmhNTnh4R1R4VW1SVjlRdk5TcmEyX2hRV2N4WHc1QWlTV2RqWVlEcnI5dFZfYmllRlE2NDlNUmdlLUVpelJvU1VHZ0NZeGhBRkhKU0lnWnVqSlBYZVh3bWRyVzFKVGJOczBLeElRWlZPLVBGbWp5OUlhYkI1c0U0Zkh5SldyTVZ6d3M4UEYtREw4YnktWWRjVE9HT0VZcGFKc0FxTDlKVnoyZlFzUlJrb1BWQTV1M2VIeTNSRmlzcEMzNjZ4TEYwZmw?oc=5",
-   "source": "The Times of India",
-   "published": "2026-11-19T18:09:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Bengaluru Tech Summit",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4c564f013a1d",
-   "title": "186",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdTlQNWtHeFhXNThvS0hFWF9CZHFYUTJYbWZlTXExUTdGVmpFc1p5STBpWndLOUdYOHhJZmFKYW5pVzJ3VGFHZlNzdHg0VHp2bnlSeHhsVWZpYWc?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-19T18:08:21+00:00",
-   "score": 6,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2b266f91a02a",
-   "title": "The Karnataka government has planned to set up a 1,000-acre startup park near Bengaluru and another facility spanning 100 to 200 acres near Hubballi-Dharwad to strengthen the state's startup ecosystem, Large and Medium Industries Minister M.B. Patil an",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FQnVFdkIzVnpOYTBBOERLdHB5RUdVcXgyZmdHVkJQUWZKb3g2Wld4aUtVMkRNaWFLY0kwWVlUXzhPZlAtNGF5dWtHdjZLVjdZeUE?oc=5",
-   "source": "Instagram",
-   "published": "2026-11-19T17:56:54+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "The Karnataka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "849d1c9f1e88",
-   "title": "Bengaluru-Based Humyn Labs Raises $47 Million in Funding Led by Accel and Prosus",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXJHYkZKM2w0VjMtUlJoNGxMNlVlV05TUGIwMGxUSWVIY29ucUpTZE14SXVsMlh1WUcwMmpnb1hoU0huN0VoMTU5TUVLZzlSZzhhYWw4M1Zob19BM0psM29rTWRZMXB1d3M0elFUOWtNRWtTdGNhbENpSHdVTjZ4YUtnYVMyMkYybGl1aXg1SFZ2QmtXZk05UGJDNFZMV2xLaHZtNkhDcWkyeW04Zi1NbVB6VEhBS1hFMUNkbQ?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-19T13:39:38+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "Humyn Labs",
-   "amount": "$47 Million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$47 Million"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "f955a90e2b52",
-   "title": "From Rs 123 crore to Rs 1,150 crore in three years: Style Union raises Rs 485 crore to take on Zudio",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeVVUNnNpRU5fUUNFR3FwaGFZNlh2b1hGTXpWZDZwSmU2RUV5VFZGakZaRHNHU0NZczRJSlBTM1B2dFgybndhN0RNQkh0YnFNRjBabmVmMWdRam0wZW5iY0xtalpOdlJreC1GNk5lVFowMzdMTG9iSW1keUJRekIzM0xEdm0xbGlfWlJvV0ozb1ByV1FKOV9Vb3BRcHBLNmRGWV9fT3JfX2dkRk9sMXAtU0psM1g5THB4MzZiVXBLU29JcDF3MnZncUZvOF9Oc1ViNXg0emZST0pBLU5OQnfSAd4BQVVfeXFMTnlVVDZzaUVOX1FDRUdxcGhhWTZYdm9YRk16VmQ2cEplNkVFeVRWRmpGWkRzR1NDWXM0SUpQUzNQdnRYMm53YTdETUJIdGJxTUYwWm5lZjFnUWptMGVuYmNMbWpaTnZSa3gtRjZOZVRaMDM3TExvYkltZHlCUXpCMzNMRHZtMWxpX1pSb1dKM29QcldRSjlfVW9wUXBwSzZkRllfX09yX19nZEZPbDFwLVNKbDNYOUxweDM2YlVwS1NvSXAxdzJ2Z3FGbzhfTnNVYjV4NHpmUk9KQS1OTkJ3?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-19T13:37:10+00:00",
-   "score": 83,
-   "category": "funding",
-   "company": "From Rs",
-   "amount": "Rs1,150 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs1,150 crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "e0b5f0de35e5",
-   "title": "How Dhruv Sayani built Ccigmaa Lifestyles into a five-brand personal care business",
-   "url": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business",
-   "source": "YourStory",
-   "published": "2026-11-19T13:24:51+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "How Dhruv Sayani",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "417896e01335",
-   "title": "Sarvam's token factory stirs debate on India's 'sovereign' AI push",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHBBTVlMNmpKbjJ1b0ZlT1NZTjBENUxUVkFjVkxFZVpFc3pGaFotOGh1VzhoanBVWldrZUNma2p6TlYxT3Qta0hnT0NjTjNDMGJYMjczQjVXeHpaTDFMdDBKbTBkNjk2NURVRFM0MktiY1Vxem5wd3BoZkxmVmJyTlppekw?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-19T13:23:07+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Sarvam's",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "334166090f57",
-   "title": "EPFO approves systematic withdrawal plan for retiring members",
-   "url": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members",
-   "source": "YourStory",
-   "published": "2026-11-19T13:13:53+00:00",
-   "score": 27,
-   "category": "other",
-   "company": "EPFO",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "4d46df5b67a3",
-   "title": "Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's \u20b9350 cr beauty brand",
-   "url": "https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-19T13:09:51+00:00",
-   "score": 78,
-   "category": "launch",
-   "company": "Kay Beauty",
-   "amount": "\u20b9350 cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch",
-    "\u20b9350 cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "2524f530f347",
-   "title": "Xi Jinping urges APEC economies to deepen cooperation on digitaltrade and AI",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzlJY09PVVBpVk44UEhXZ00wR0xETkxrQnY5dnZwdEN0MzV1dU9GVUJ0MVVPWVFKaTB6RjlqYUNWdFh1aDZnaFdTTkRsWXBiQ2lWTm9fQXh0QlliU0x4ZUNTOHJXeEJ6dFgwd3ZVMVc3RTBtQjlVVHhMbGlTVm5VelhMOHZFYmhsbG5YS0xlQjloSkhtbDAyRnRvRFdKU0JFZERodGY5Y0o?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-19T13:07:13+00:00",
-   "score": 23,
-   "category": "other",
-   "company": "Xi Jinping",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "e1f58f89f09e",
-   "title": "Australia signs EU research deal, opening 2027 funding applications for advanced computing and other technologies",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNck4za1VCZWJObWVlVzlGUEN2M0JuUGxOSDBPNlZXTjF3VjlDSFJvSFM2eDNRcGprOGNSSVBKYmtyRVhPRXR6LU9UNnRXS1JUZmZhNWgtYTlTamdnMkk5Z29BQTdXUDlQWnNJMTh6NTdSS0VqZkY4cHMtMHdiRVRrZGRmdzVKZEM5Ukxnc0tveUJmLW9rTm1CbjctaUxZRGw5ZVBRRWRBdHdWQWl6OHFJaXJickJRY0t2VkNvU05uSmpuQkVYS2VkTHA3eEg3TlYwaU5jQUZLcFA?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-19T13:07:09+00:00",
-   "score": 65,
-   "category": "funding",
-   "company": "Australia",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "35eee71e1e6f",
-   "title": "NEPRA Raises \u20b9110 Cr To Expand Plastic Recycling Capacity",
-   "url": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/",
-   "source": "Inc42",
-   "published": "2026-11-19T13:07:06+00:00",
-   "score": 85,
-   "category": "funding",
-   "company": "NEPRA",
-   "amount": "\u20b9110 Cr",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9110 Cr"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "de129fbb36b7",
-   "title": "GTA 6 Bengaluru connection: From one computer in 1995 to 1,600 developers at Rockstar Games and the rise of India's gaming industry",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPaVpOVTZHdHQwd09wWXMwMHRZMkNMdlg2dHpxcDdXUU5kbVhLWUgxRG5RLXhLY0tVYmp1Y2ZjWjVNSDdQXzB5enBNUV9rRks5OXdtYWtnTTdTa1JTcHVpaUprc0hKdjhFMTRjdWxWam5WWFJKN2tIUWJQdkRJblFETXlpNGpJbHpnOWdidWVoYWttNUVlbFEyWV9GeU9UamtMMjhtbzZicGxGbjZ4N3dDQkNlV3dyNlpyUS1jbklfUlZxNnJpYkJKdEtJMjBBUjJ0aDFqS0VLVjBUdVRqd3dYZHA2dnBJTDBMZVlTTjdKblQ2a0VucDRjbG5aTGJuN0dzNlBZY1JvVUJuZHdVU3VmU04yQ0p1cXAxX0NtZGFzMA?oc=5",
-   "source": "Education Times",
-   "published": "2026-11-19T13:01:00+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "GTA",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "190e74cee850",
-   "title": "'Where are the jobs?' Modi tells industry to respond to tax relief with hiring, salary hikes",
-   "url": "https://yourstory.com/2026/11/modi-tells-industry-respond-tax-relief-with-hiring-salary-hikes",
-   "source": "YourStory",
-   "published": "2026-11-19T12:59:32+00:00",
-   "score": 22,
-   "category": "other",
-   "company": "Where",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b880d9f1410b",
-   "title": "Boba Bhai Raises $18 Million In Series B Round Led By Left Lane Capital",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWhzYzlZOW1LLUlmWUwzUk5ZR1VHQVh5LU1zdWtYTDZudl96OUpld3ZBNy1oLVpEdl94aFdsS3pRT2hFa1dhZzQzaFZIeTB2eC1sSVlMd0FpeGVFSU5IRE5Fb3RkU0tITnB6d1hCZzNjX1ZBQ2ZiVVhxdWx4eWFpUnRnRTVyelhpM2FBQlYySS1tZFRaZmZtV1hUaU9yTWNJR1dGMVJhODhrWGhuX1R2U2FqejZQUExKN3lLOUZDbGZjcGpxMDY1Yg?oc=5",
-   "source": "ascendants.in",
-   "published": "2026-11-19T12:59:04+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Boba Bhai",
-   "amount": "$18 Million",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$18 Million",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "6e8ae11455cb",
-   "title": "Pravega Ventures taps offshore LP for third early-stage fund",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE5IXzNnbkRVNFliVWozYnQzZmpfaU92Vmd2MXZOZHhCaFhnTXlZOVBMcDdtOGp5dGxubVpEeDZ0UDlfYjllUkVwZjE0Y29PYUwtaVV2bjFZWUZIaklSamRJc0Y0Skg2Vm9LNVp0MEZpdVAtZzg5dkxzUnRWVkxKZWhXZmlYYzFWQXIzSGZIcklHbldF0gGUAUFVX3lxTE9ITkhfM2duRFU0WWJVajNidDNmal9pT3ZWZ3Yxdk5keEJoWGdNeVk5UExwN204anl0bG5tWkR4NnRQOV9iOWVSRXBmMTRjb09hTC1pVXZuMVlZRkhqSVJqZElzRjRKSDZWb0s1WnQwRml1UC1nODl2THNSdFZWTEplaFdmaVhjMVZBcjNIZkhySUduV0U?oc=5",
-   "source": "VCCircle",
-   "published": "2026-11-19T12:49:44+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "Pravega Ventures",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "ac6bafff7077",
-   "title": "Style Union\u2019s Parent Nexon Omniverse Raises Rs 485 Crore to Expand Beyond Southern India",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUU4ZnNNSEdzLXN3Z04zNFk1RE1uc2NaZ1JLZy0taUVqblNNNHliUl9BQmwzbHJxNldXVDA3ZkRrc0I3dUtsd2VSM2ViWGxCTkNLaURrYUxveThpdzZ0UUNSMGNKS19XRVhpYnFOYWRCRENoWlE2RHI1NllmcnRqSVNtYk5KNzhURUx6NmNuNF8wckxtWXpJdTNSVWZzTWZteVdMeXBtOF9sNm1lb0ZJTHM4cW83VVlsWFZFVzZWaF9nRDNsVFJj?oc=5",
-   "source": "Indian Startup Times",
-   "published": "2026-11-19T12:48:36+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "Style Union\u2019s Parent Nexon Omniverse",
-   "amount": "Rs485 Crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs485 Crore"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "bb1828cac961",
-   "title": "Global Microsoft Outage Raises Cloud Security Questions; VolansHQ Urges Companies To Build Digital Resilience",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkxVc3l1RW1zUldhM0p1Z1JGWGVwOGp0X2U3Mnp3Yl84RGkwNEJUMWd2OU0yTF9BdFBiMHI0QVJIWURMMlRMZ1FVNmVFNmltNzNCVklPMFRzY2J3a2R6VEVTSHVMSnpuQWl6QV9fU2pyNTFNay16a2tQZEp6dzV0VXBiaHJHeTA2WWlXLTFUVi1WTWo3WlBLMUU5V2R2STBWbHB6dklDRVJ2Q29qd01ETVcxZkRlX21yclJiYU9PZVdoNE1MZTktYnVzeko2SVU4dXFGRHc0cURHUTdNbVhNOHYtTDhCdjB1R2fSAfABQVVfeXFMTVdoWnBkSVdHUnRVcVlBV2doeDFhaVhiUkowNG1FV1ZXVmlsNVJEUll6cmtvcjhFc3U1eUNNb1NSUG1uN2U0cnRLOXZvZFQ2eE1nZG96eUpSel9LOWF6dm04T3ZuSzhtbnNrQ0JGa3pIWEdVUko3UmVnNGxVRHNHSUlva053VFNtaHdoZElKYWQzWlRubmZzdlFmckYteFFteThpQUdYTVpUcHZDSndPRWNDYkpqX0xTYzVzZ0dhWEdFa1lfSFNEMTV1N2RNV2RSRnNBcS1BallkNkRab3dkdXdjUkVjbjNpcVVtLWxfNGYt?oc=5",
-   "source": "The Daily Jagran",
-   "published": "2026-11-19T12:47:00+00:00",
-   "score": 60,
-   "category": "funding",
-   "company": "Global Microsoft Outage",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "9640c36c1346",
-   "title": "IndiaAI Mission startup Soket AI gets $4 million from Bajaj Finance and Pennant for on-premise LLMs",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTV3cTFheTREOTAwUnhjT3k4X0s2Uzh0RXgxODk3ZXN3UWdKMWpYV1F5U3lPX1RPYkp2cURraTlnWHQwcGgxb1Q5TV9pb3BkWlZPMFgwV3FGWEptZ2VUdXdXNUQzQzdSSk9kZDRkTkVlcnVheUdVMmZyc1dKVWpMWGJVb2NCMFJXdm1Jc19XRGkySUc4VVhrVTFXREVlUUpVSTVuOWRMVGtmNmExVHZmZnNqS2J3elNJbjVkWk9TN1FhV3ZFM1FXR1ZFN3hsTF9GeXRRdHk0VmVtdFRKRmfSAd4BQVVfeXFMTkk1d3ExYXk0RDkwMFJ4Y095OF9LNlM4dEV4MTg5N2Vzd1FnSjFqWFdReVN5T19UT2JKdnFEa2k5Z1h0MHBoMW9UOU1faW9wZFpWTzBYMFdxRlhKbWdlVHV3VzVEM0M3UkpPZGQ0ZE5FZXJ1YXlHVTJmcnNXSlVqTFhiVW9jQjBSV3ZtSXNfV0RpMklHOFVYa1UxV0RFZVFKVUk1bjlkTFRrZjZhMVR2ZmZzaktid3pTSW41ZFpPUzdRYVd2RTNRV0dWRTd4bExfRnl0UXR5NFZlbXRUSkZn?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-19T12:33:40+00:00",
-   "score": 28,
-   "category": "other",
-   "company": "IndiaAI Mission",
-   "amount": "$4 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "$4 million"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "dd42bb79c10d",
-   "title": "Karnataka emerges as India's GCC powerhouse with 1,088 centres, says Kharge",
-   "url": "https://yourstory.com/2026/11/karnataka-accounts-for-51-of-indias-gccs-says-new-report",
-   "source": "YourStory",
-   "published": "2026-11-19T12:32:20+00:00",
-   "score": 59,
-   "category": "launch",
-   "company": "Karnataka",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "345fa3dce4b6",
-   "title": "7 Micro-habits under 5 minutes that can change your year",
-   "url": "https://yourstory.com/2026/11/7-micro-habits-under-5-minutes-that-can-change-your-year",
-   "source": "YourStory",
-   "published": "2026-11-19T12:30:00+00:00",
-   "score": 10,
-   "category": "other",
-   "company": "",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "no company named"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "05f42c2a2c52",
-   "title": "Subhash Chandra insolvency: Responses served to stakeholders as creditor dispute continues",
-   "url": "https://www.livemint.com/companies/news/subhash-chandra-insolvency-responses-served-to-stakeholders-as-creditor-dispute-continues-11795085082599.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-19T12:23:47+00:00",
-   "score": 14,
-   "category": "other",
-   "company": "Subhash Chandra",
-   "amount": "\u20b96.5 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event",
-    "\u20b96.5 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "71200ea314e5",
-   "title": "Bank of America arm signs \u20b91,450 crore Hyderabad office lease",
-   "url": "https://www.livemint.com/companies/news/bank-of-america-arm-signs-1-450-crore-hyderabad-office-lease-11795057249530.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-19T12:15:30+00:00",
-   "score": 36,
-   "category": "other",
-   "company": "Bank",
-   "amount": "\u20b91,450 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event",
-    "\u20b91,450 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "1534bf76dea4",
-   "title": "\u201cA lot of healthcare doesn't need a hospital\u201d: How Nirav Bajaj plans to reshape medical care with Nivara",
-   "url": "https://www.livemint.com/companies/news/a-lot-of-healthcare-doesnt-need-a-hospital-how-nirav-bajaj-plans-to-reshape-medical-care-with-nivara-11795082021624.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-19T11:55:08+00:00",
-   "score": 48,
-   "category": "expansion",
-   "company": "\u201cA",
-   "amount": "2,500 crore",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "expansion",
-    "2,500 crore"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "41125b7b86fe",
-   "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM25mMWxKMzNHMHNBNUxoWXVHOTZEOGtvbHpyN2dSMGx0Ymt1YW1pV1B0OUZTVlVxTmM3LWt5aVk4bE5wWTZnb1Q4elFyZGNEcFZZMjFnTXRHdVJoZllCbWNjZ3dZc2drZDBCS2M5QnBmUVlRWHpLUkdUQmY2UG5uRnpIaGtmVU84c1RJS1RwRjFrUENJMlVqZTY0TTZhbGRwb0HSAaIBQVVfeXFMTjNuZjFsSjMzRzBzQTVMaFl1Rzk2RDhrb2x6cjdnUjBsdGJrdWFtaVdQdDlGU1ZVcU5jNy1reWlZOGxOcFk2Z29UOHpRcmRjRHBWWTIxZ010R3VSaGZZQm1jY2d3WXNna2QwQktjOUJwZlFZUVh6S1JHVEJmNlBubkZ6SGhrZlVPOHNUSUtUcEYxa1BDSTJVamU2NE02YWxkcG9B?oc=5",
-   "source": "Entrackr",
-   "published": "2026-11-19T11:41:38+00:00",
-   "score": 78,
-   "category": "funding",
-   "company": "InPrime Finserv",
-   "amount": "Rs101 Cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "Rs101 Cr",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "1ffee1ee7924",
-   "title": "The mystery 31% shareholder towering over Deepinder Goyal\u2019s Temple",
-   "url": "https://www.livemint.com/companies/news/who-owns-deepinder-goyal-temple-wearable-startup-stake-11795082965679.html",
-   "source": "Livemint Companies",
-   "published": "2026-11-19T11:32:09+00:00",
-   "score": 8,
-   "category": "other",
-   "company": "The",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "India only in body",
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "b35d28ae1b82",
-   "title": "Adhiraj Chauhan wins \u2018Young AI Entrepreneur\u2019 at the ET AI Awards 2026 for breakthroughs spanning mental healthcare to marine robotics",
-   "url": "https://economictimes.indiatimes.com/tech/technology/adhiraj-chauhan-wins-young-ai-entrepreneur-at-the-et-ai-awards-2026-for-breakthroughs-spanning-mental-healthcare-to-marine-robotics/articleshow/135987369.cms",
-   "source": "ET Tech",
-   "published": "2026-11-19T11:22:31+00:00",
-   "score": 20,
-   "category": "other",
-   "company": "Adhiraj Chauhan",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "76a3d0a2887b",
-   "title": "InPrime Finserv Raises \u20b9101 Cr To Expand Lending, Enter Micro-Mortgages",
-   "url": "https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/",
-   "source": "Inc42",
-   "published": "2026-11-19T11:17:24+00:00",
-   "score": 84,
-   "category": "funding",
-   "company": "InPrime Finserv",
-   "amount": "\u20b9101 Cr",
-   "stage": "Series B",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "\u20b9101 Cr",
-    "Series B"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "5757df396d43",
-   "title": "'People pitch to me in the Metro': Priyank Kharge on Bengaluru's thriving startup ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHB2NEdUbm5QTXJ6NEN0Wlh4OWNTNkxRTkJaSlJvWWljZWItVTVCbUZuSmRLLXNib2twU1ZLNlRSSFFwR2xHV09uUHVUZ2xLUi1FVXduZDBhck5qWGY3d3owQ1dzRk55TW5zWjJpcXVwZ2Y1UEhmd1V6Uk9ha0FXWGJ3ZDJnVVgtQWxIcnhGWXg0TEVpejlTOGRwYjQ2VzlzdGFuRng4NU1Gc3g1NzlXcHBKUW9pVzVWZUhMZ0lQRUNqZGF0cVNzS1ctZFI1d1hockpPanA0NFlEa2FYSlNJRl9aOVFRUWpH0gHuAUFVX3lxTE52Si1RRTdrY0NrTENib3E4ajNNSUZ4ekF3c21ZWXZRUHgtV3p5Mzdad2RIWWtFemllakh4NWJnNFlMbjB2RXNoZ2ZTS3UzQ3dIMmk4ckhjV0R3Yk9iaXlrUEJTVUVtcXVwVnI1XzR5cGdsU2ZJWjFSVkhNQ0ZNUTF2RzhUQVpUY1JMX0Y4NDZxWXV0S3c5ZmZuUHRlanJyMVZQbkxYdGg2MU5Ib1pOb1E1bEVERU9zc0o4Tjl5WWVWYWJUT0VkVTZDcGFscDRRNlNoaEVDVVB5SXRYSThLa3g4dExQeWZRSE1aSF92UXc?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-11-19T11:14:12+00:00",
-   "score": 18,
-   "category": "other",
-   "company": "People",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "14a5010c5cf9",
-   "title": "Bubble tea chain Boba Bhai raises $18 million, eyes 250-300 outlets within 12 months",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN09DZ01WYzJzcVhaWktUcGllSWxkc3UzbzNEX296MkRQN1UydmRoaWJrQjdVR0U3ZGhyUW13c3VPTVVmSjBVLXpKZzlqcF9SY0R4OHRqSFluTkFRUTlwQWlpc2sxckRHTzBydTdRTEhlZnppYVB0TXJQZUszQjhHLUhVd3VQclY1TXUwblBkOU5SbnppOHlBSWtHXzFQSVQ2U0xXMHpsa3FMdlNmajROdUN5ZW9aUHlyaFVuOEFiam11c2lVb0hOUdIByAFBVV95cUxPN09DZ01WYzJzcVhaWktUcGllSWxkc3UzbzNEX296MkRQN1UydmRoaWJrQjdVR0U3ZGhyUW13c3VPTVVmSjBVLXpKZzlqcF9SY0R4OHRqSFluTkFRUTlwQWlpc2sxckRHTzBydTdRTEhlZnppYVB0TXJQZUszQjhHLUhVd3VQclY1TXUwblBkOU5SbnppOHlBSWtHXzFQSVQ2U0xXMHpsa3FMdlNmajROdUN5ZW9aUHlyaFVuOEFiam11c2lVb0hOUQ?oc=5",
-   "source": "Indian Startup News",
-   "published": "2026-11-19T11:09:38+00:00",
-   "score": 74,
-   "category": "funding",
-   "company": "Bubble",
-   "amount": "$18 million",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "funding in headline",
-    "$18 million"
-   ],
-   "alerted": true
   }
  ]
 }

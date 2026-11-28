@@ -1,12 +1,63 @@
 {
- "generated_at": "2026-11-27T19:57:27.530903+00:00",
+ "generated_at": "2026-11-28T02:25:58.296300+00:00",
  "min_score": 55,
  "last_run": {
-  "fetched": 12,
-  "fresh": 12,
-  "alerted": 6
+  "fetched": 5,
+  "fresh": 5,
+  "alerted": 0
  },
  "items": [
+  {
+   "id": "9b56eb612ee2",
+   "title": "India Inc tightens third-party vendor checks over data breach liability ahead of DPDP Act deadline",
+   "url": "https://www.livemint.com/companies/news/dpdp-act-vendor-data-security-compliance-deadline-2027-11795750619761.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-28T00:45:25+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "India Inc",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "7808b0657c35",
+   "title": "How Kotak took on Wall Street giants to dominate India's equity capital markets",
+   "url": "https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html",
+   "source": "Livemint Companies",
+   "published": "2026-11-28T00:20:41+00:00",
+   "score": 52,
+   "category": "funding",
+   "company": "How Kotak",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "funding"
+   ],
+   "alerted": false
+  },
+  {
+   "id": "145536452e46",
+   "title": "Adani may take stake in existing airline or back startup, says group CFO",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTTVuTFUwS2JFX3djeXUwdU11RkJTRlBrT3hsWlFUYjY1M0NKT3QxOVV4b0o4ZFowUUVBbjFwR1NEVG9oYnQ2NVU4eUV2V2xGbFhMcFZvUVpMZ0lXNHBRMlVDdVYyd1BDNEl5NkxPSXB1NC1aVkgxa0VTRHEweDIwUUVHWXdBU1J6QVRGbHN2NE9yemZKMWRsX1UtMkJzeExBU0JsZEdBeUdVWU5kV21KYmk5RWhkYVpVRVoxNUwwQlZzWVZ5UzE3MmlUWGVnUVloTnViUV9LbVlUejhweWNzRHJWX1RsTUtRekV3M1lR0gHzAUFVX3lxTE9taGJIYk5QVEJHTUZtQ19DTUNBQlN5aE5oU1lWMkJGdTR1UGtiOXJmLTZITGlhcEtXTnlQUE1UZ1UyLUZOc3cyd19pbjhhbmFtSWozaXJmeTAxODlaU3hkZWJhRzNDSEgxeng2SXVjdkl0ay1yZFpCdkJtMUJYejAwQXFJaXNDdElKLV9ZWUNVTHJURGJtVDE4TjlKbG9keEo3YlJnNnBHUlZoeGsyVjJ0X2huZEJCa1VhaDVlTkQtSEdZYjBRY1QxZVVueVdNM1Nndm1XaEJSaEFGUm9laVVBZ3llaWRyS1NBS25PcGhTS01aSQ?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-27T23:08:00+00:00",
+   "score": 18,
+   "category": "other",
+   "company": "Adani",
+   "amount": "",
+   "stage": "",
+   "founders": [],
+   "reasons": [
+    "no clear event"
+   ],
+   "alerted": false
+  },
   {
    "id": "b557e85d64ea",
    "title": "GTA 6 pays tribute to Rockstar programmer who lost daughter in 2023, he says 'you have been forever memori",
@@ -5319,84 +5370,6 @@
    "reasons": [
     "funding in headline",
     "$291.3 Mn"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "8d7619c56618",
-   "title": "System Upgrades At Banks Resulting In Withdrawal Delays: CoinDCX",
-   "url": "https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/",
-   "source": "Inc42",
-   "published": "2026-11-20T23:13:33+00:00",
-   "score": 24,
-   "category": "other",
-   "company": "System Upgrades At Banks Resulting",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "no clear event"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "2c10b6ffb856",
-   "title": "Fact check: Former Nvidia CEO Jensen Huang is not launching a new semiconductor startup | Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWx2OXFNeEJKdGxMUWk1bzlXbXRTM2xxZmYwbi1CaXB6ZWRTU2lJTmtYVnVDMEwzc2RBTDVnT3B6UXFOU01IWUR2TjFvblBfODc3cllqR0ZkcG5SSExtQTIzUDhqZWRpdHI4ZVdkd0tqV3ozQnVjc01TQWlhTVZ4aG5ZVXAxQTBXZnBDQXl5cXZ1VUxNT01jZ3JhZm5Ib09rS0p3blpVZFNXX1A2aVQ3RUM4d1dHdTc3bHc1azgxV2xpX1VfMDg2Umk4a0E0djJvQVNueGhudzZKTDJuWVFMRk9TTzlXaHYzb1ZEVkV30gHzAUFVX3lxTE93X1BCODVvbF85bEhBYXEtdktKWDYzODZFcjN5Qjlic1RYbDNPTTJiZ2syME5NNDJhU01hWVBqSWhJbzBHOGFSM1Zya240bzIzQWtSWFQxdURmRFlpNlFHRUZrbGtCVDJZR3ZWRFdQb2tlYlE3MU1VcnNaRTBmMzgxT2FjRlBVRktnSmYwcXJqMENCdHlRYVZDZ193aW1RUUxKV2g2cjdTWkF0UEZQbW5tamx2REt4WW5LSVBzTzI5UVNGZE9PNm1WZUFhUTFnV0lXNVdFOWZSbXFDWVFCOHdsaUpWNFNFMXBDXzFmRkZmbTFVUQ?oc=5",
-   "source": "Hindustan Times",
-   "published": "2026-11-20T21:40:39+00:00",
-   "score": 68,
-   "category": "launch",
-   "company": "Fact",
-   "amount": "",
-   "stage": "",
-   "founders": [
-    {
-     "name": "Jensen Huang",
-     "handle": null
-    },
-    {
-     "name": "Former Nvidia",
-     "handle": null
-    }
-   ],
-   "reasons": [
-    "launch in headline"
-   ],
-   "alerted": true
-  },
-  {
-   "id": "c3ae152f099a",
-   "title": "Polygon Expands Cross-Border Payments Push, Onboards Nuvera",
-   "url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
-   "source": "Inc42",
-   "published": "2026-11-20T21:19:07+00:00",
-   "score": 54,
-   "category": "expansion",
-   "company": "Polygon",
-   "amount": "",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "expansion in headline"
-   ],
-   "alerted": false
-  },
-  {
-   "id": "0dcaf58a24a0",
-   "title": "Oister Global launches $64.5M deeptech growth fund for India",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanh2TUNhSy16c0pWUGd5cnUtcVRFYXp4Qmt1djM4VnRsM05LamluQXNuSlFwM2pWaTk2OHQzY2NfZkVkLXowX2NsUTN0NmhrREtIXzB3LW9kX0FPcWZlNTdrWHpBRi1YT0pobWNJb2FGaXFEQS04QXFDRXZCTk11Nm9UZmR4YWpqcFBFak1QSGJ4YVBnNVdxZw?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-20T21:02:17+00:00",
-   "score": 81,
-   "category": "launch",
-   "company": "Oister Global",
-   "amount": "$64.5 M",
-   "stage": "",
-   "founders": [],
-   "reasons": [
-    "launch in headline",
-    "$64.5 M"
    ],
    "alerted": true
   }
